@@ -1,4 +1,3 @@
-packages
-========
+# Nimrod packages
 
-List of packages for babel
+This repository provides a list packages for babel.
