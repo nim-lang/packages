@@ -4,6 +4,6 @@
     "url": "git://github.com/dom96/jester/",
     "method": "git",
     "tags": ["web", "http", "framework", "dsl"],
-    "description": "Web Framework inspired by Sinatra."
+    "description": "A sinatra-like web framework for Nimrod."
   }
 ]
