@@ -16,6 +16,7 @@ following fields:
              only "git" is supported.
   * tags   - A list of tags describing this package.
   * description - A description of this package.
+  * license - The license of the source code in the package.
 
 Your packages may be removed if the url stops working. It goes without
 saying that your pull request will not be accepted unless you fill out all of
