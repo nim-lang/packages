@@ -6,5 +6,15 @@
     "tags": ["web", "http", "framework", "dsl"],
     "description": "A sinatra-like web framework for Nimrod.",
     "license": "MIT"
+  },
+
+  {
+    "name": "nimgame",
+    "url": "git://github.com/Vladar4/nimgame/",
+    "method": "git",
+    "tags": ["game", "engine", "sdl"],
+    "description": "Simple 2D game engine for Nimrod language.",
+    "license": "MIT"
   }
 ]
+
