@@ -6,7 +6,7 @@
     "tags": ["web", "http", "framework", "dsl"],
     "description": "A sinatra-like web framework for Nimrod.",
     "license": "MIT"
-  }
+  },
 
   {
     "name": "nimgame",
@@ -17,3 +17,4 @@
     "license": "MIT"
   }
 ]
+
