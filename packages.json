@@ -9,6 +9,15 @@
   },
 
   {
+    "name": "libtcod-nim",
+    "url": "git://github.com/Vladar4/libtcod-nim/",
+    "method": "git",
+    "tags": ["roguelike", "game", "library", "engine", "sdl", "opengl", "glsl"],
+    "description": "Wrapper of the libtcod library for the Nimrod language.",
+    "license": "MIT"
+  },
+
+  {
     "name": "nimgame",
     "url": "git://github.com/Vladar4/nimgame/",
     "method": "git",
