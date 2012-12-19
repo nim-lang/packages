@@ -24,6 +24,15 @@
     "tags": ["game", "engine", "sdl"],
     "description": "Simple 2D game engine for Nimrod language.",
     "license": "MIT"
+  },
+  
+  {
+    "name": "sfml",
+    "url": "git://github.com/fowlmouth/nimrod-sfml/",
+    "method": "git",
+    "tags": ["game", "library", "opengl"],
+    "description": "High level OpenGL-based Game Library",
+    "license": "MIT"
   }
 ]
 
