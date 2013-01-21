@@ -1,5 +1,5 @@
 [
-  { 
+  {
     "name": "jester",
     "url": "git://github.com/dom96/jester/",
     "method": "git",
@@ -18,6 +18,15 @@
   },
 
   {
+    "name": "nimepak",
+    "url": "git://github.com/gradha/epak/",
+    "method": "git",
+    "tags": ["library", "serialization", "file", "compression"],
+    "description": "File compression routines in C for iOS and Nimrod",
+    "license": "Allegro 4 Giftware"
+  },
+
+  {
     "name": "nimgame",
     "url": "git://github.com/Vladar4/nimgame/",
     "method": "git",
@@ -25,7 +34,7 @@
     "description": "Simple 2D game engine for Nimrod language.",
     "license": "MIT"
   },
-  
+
   {
     "name": "sfml",
     "url": "git://github.com/fowlmouth/nimrod-sfml/",
