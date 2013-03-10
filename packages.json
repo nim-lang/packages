@@ -1,5 +1,14 @@
 [
   {
+    "name": "argument_parser",
+    "url": "git://github.com/gradha/argument_parser/",
+    "method": "git",
+    "tags": ["library", "commandline", "arguments", "switches", "parsing"],
+    "description": "Provides a complex commandline parser",
+    "license": "MIT"
+  },
+
+  {
     "name": "jester",
     "url": "git://github.com/dom96/jester/",
     "method": "git",
