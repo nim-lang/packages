@@ -9,6 +9,15 @@
   },
 
   {
+    "name": "genieos",
+    "url": "git://github.com/gradha/genieos/",
+    "method": "git",
+    "tags": ["library", "commandline", "sound", "recycle", "os"],
+    "description": "Too awesome procs to be included in nimrod.os module",
+    "license": "MIT"
+  },
+
+  {
     "name": "jester",
     "url": "git://github.com/dom96/jester/",
     "method": "git",
