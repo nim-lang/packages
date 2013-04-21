@@ -69,6 +69,15 @@
     "tags": ["game", "networking", "udp"],
     "description": "Wrapper for ENet UDP networking library",
     "license": "MIT"
+  },
+  
+  {
+    "name": "nim-locale",
+    "url": "git://github.com/Amrykid/nim-locale/",
+    "method": "git",
+    "tags": ["library", "locale", "i18n", "localization", "localisation", "globalization"],
+    "description": "A simple library for localizing Nimrod applications.",
+    "license": "MIT"
   }
 ]
 
