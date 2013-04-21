@@ -60,6 +60,15 @@
     "tags": ["game", "library", "opengl"],
     "description": "High level OpenGL-based Game Library",
     "license": "MIT"
+  },
+  
+  {
+    "name": "enet",
+    "url": "git://github.com/fowlmouth/nimrod-enet/",
+    "method": "git",
+    "tags": ["game", "networking", "udp"],
+    "description": "Wrapper for ENet UDP networking library",
+    "license": "MIT"
   }
 ]
 
