@@ -69,6 +69,15 @@
     "tags": ["game", "networking", "udp"],
     "description": "Wrapper for ENet UDP networking library",
     "license": "MIT"
+  },
+  
+  {
+    "name": "fowltek",
+    "url": "git://github.com/fowlmouth/nimlibs/",
+    "method": "git",
+    "tags": ["game", "opengl", "wrappers", "library", "assorted"],
+    "description": "A collection of reusable modules and wrappers.",
+    "license": "MIT"
   }
 ]
 
