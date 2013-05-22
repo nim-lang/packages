@@ -87,6 +87,15 @@
     "tags": ["game", "opengl", "wrappers", "library", "assorted"],
     "description": "A collection of reusable modules and wrappers.",
     "license": "MIT"
+  },
+  
+  {
+    "name": "nake",
+    "url": "git://github.com/fowlmouth/nake/",
+    "method": "git",
+    "tags": ["build", "automation", "sortof"],
+    "description": "make-like for Nimrod. Describe your builds as tasks!",
+    "license": "MIT"
   }
 ]
 
