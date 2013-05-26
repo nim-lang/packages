@@ -100,10 +100,10 @@
 
   {
     "name": "nimrod-glfw",
-    "url": "git://github.com/rafaelvasco/nimrod-glfw",
+    "url": "git://github.com/rafaelvasco/nimrod-glfw/",
     "method": "git",
     "tags": ["library", "glfw", "opengl", "windowing", "game"],
-    "description": "Nimrod bindings for GLFW library",
+    "description": "Nimrod bindings for GLFW library.",
     "license": "MIT"
   }
 ]
