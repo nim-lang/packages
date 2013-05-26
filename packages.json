@@ -96,6 +96,15 @@
     "tags": ["build", "automation", "sortof"],
     "description": "make-like for Nimrod. Describe your builds as tasks!",
     "license": "MIT"
+  },
+
+  {
+    "name": "nimrod-glfw",
+    "url": "git://github.com/rafaelvasco/nimrod-glfw/",
+    "method": "git",
+    "tags": ["library", "glfw", "opengl", "windowing", "game"],
+    "description": "Nimrod bindings for GLFW library.",
+    "license": "MIT"
   }
 ]
 
