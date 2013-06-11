@@ -105,6 +105,15 @@
     "tags": ["library", "glfw", "opengl", "windowing", "game"],
     "description": "Nimrod bindings for GLFW library.",
     "license": "MIT"
+  },
+  
+  {
+    "name": "chipmunk",
+    "url": "git://github.com/fowlmouth/nimrod-chipmunk/",
+    "method": "git",
+    "tags": ["library", "physics", "game"],
+    "description": "Binding for Chipmunk 6.1",
+    "license": "MIT"
   }
 ]
 
