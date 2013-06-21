@@ -1,6 +1,8 @@
 # Nimrod packages
 
-This is a central listing of all packages for babel.
+This is a central listing of all packages for
+[babel](https://github.com/nimrod-code/babel), a package manager for the
+[Nimrod programming language](http://nimrod-code.org).
 
 ## Adding your own package
 To add your own package, fork this repository, edit packages.json and make
