@@ -123,6 +123,15 @@
     "tags": ["library", "glfw", "opengl", "windowing", "game"],
     "description": "A High-level GLFW 3 wrapper for the Nimrod programming language",
     "license": "MIT"
+  },
+  
+  {
+    "name": "nim-ao",
+    "url": "git://github.com/EXetoC/nim-ao/",
+    "method": "git",
+    "tags": ["library", "audio"],
+    "description": "A libao wrapper for the Nimrod programming language",
+    "license": "MIT"
   }
 ]
 
