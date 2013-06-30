@@ -95,7 +95,7 @@
     "method": "git",
     "tags": ["build", "automation", "sortof"],
     "description": "make-like for Nimrod. Describe your builds as tasks!",
-    "license": "MIT"
+    "license": "DATWPL"
   },
 
   {
