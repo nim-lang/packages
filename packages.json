@@ -132,6 +132,15 @@
     "tags": ["library", "audio"],
     "description": "A libao wrapper for the Nimrod programming language",
     "license": "MIT"
+  },
+  
+  {
+    "name": "termbox",
+    "url": "git://github.com/fowlmouth/nim-termbox",
+    "method": "git",
+    "tags": ["library", "terminal", "io"],
+    "description": "Termbox wrapper.",
+    "license": "MIT"
   }
 ]
 
