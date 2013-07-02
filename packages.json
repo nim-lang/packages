@@ -117,8 +117,8 @@
   },
   
   {
-    "name": "nimrod-glfw3",
-    "url": "git://github.com/EXetoC/nimrod-glfw3/",
+    "name": "nim-glfw3",
+    "url": "git://github.com/EXetoC/nim-glfw3/",
     "method": "git",
     "tags": ["library", "glfw", "opengl", "windowing", "game"],
     "description": "A High-level GLFW 3 wrapper for the Nimrod programming language",
