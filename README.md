@@ -15,7 +15,7 @@ following fields:
              babel file.
   * url    - The url from which to retrieve the package.
   * method - The method that should be used to retrieve this package. Currently
-             only "git" is supported.
+             "git" and "hg" is supported.
   * tags   - A list of tags describing this package.
   * description - A description of this package.
   * license - The license of the source code in the package.
