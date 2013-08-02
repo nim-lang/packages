@@ -145,11 +145,10 @@
   
   {
     "name": "linagl",
-    "url": "ssh://hg@bitbucket.org/TheLonelyByte/linagl",
+    "url": "https://bitbucket.org/TheLonelyByte/linagl",
     "method": "hg",
     "tags": ["library", "opengl", "math", "game"],
     "description": "OpenGL math library",
     "license": "CC0"
   }
 ]
-
