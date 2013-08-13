@@ -150,5 +150,14 @@
     "tags": ["library", "opengl", "math", "game"],
     "description": "OpenGL math library",
     "license": "CC0"
+  },
+  
+  {
+    "name": "kwin",
+    "url": "git://github.com/reactormonk/nim-kwin",
+    "method": "git",
+    "tags": ["library", "javascript", "kde"],
+    "description": "KWin JavaScript API wrapper",
+    "license": "MIT"
   }
 ]
