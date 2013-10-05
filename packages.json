@@ -181,7 +181,7 @@
 
   {
     "name": "aporia",
-    "url": "git://github.com/nimrod-code/aporia",
+    "url": "git://github.com/nimrod-code/Aporia",
     "method": "git",
     "tags": ["app", "binary", "ide", "gtk", "nimrod"],
     "description": "A Nimrod IDE.",
