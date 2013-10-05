@@ -186,5 +186,14 @@
     "tags": ["app", "binary", "ide", "gtk", "nimrod"],
     "description": "A Nimrod IDE.",
     "license": "GPLv2"
+  },
+  
+  {
+    "name": "ipsumgenera",
+    "url": "git://github.com/dom96/ipsumgenera",
+    "method": "git",
+    "tags": ["app", "binary", "blog", "static", "generator"],
+    "description": "Static blog generator ala Jekyll.",
+    "license": "MIT"
   }
 ]
