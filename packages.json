@@ -168,5 +168,23 @@
     "tags": ["library", "wrapper", "opencv", "image", "processing"],
     "description": "OpenCV wrapper",
     "license": "MIT"
+  },
+  
+  {
+    "name": "babel",
+    "url": "git://github.com/nimrod-code/babel",
+    "method": "git",
+    "tags": ["app", "binary", "package", "manager"],
+    "description": "Babel package manager",
+    "license": "BSD"
+  },
+
+  {
+    "name": "aporia",
+    "url": "git://github.com/nimrod-code/aporia",
+    "method": "git",
+    "tags": ["app", "binary", "ide", "gtk", "nimrod"],
+    "description": "A Nimrod IDE.",
+    "license": "GPLv2"
   }
 ]
