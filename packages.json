@@ -159,5 +159,14 @@
     "tags": ["library", "javascript", "kde"],
     "description": "KWin JavaScript API wrapper",
     "license": "MIT"
+  },
+  
+  {
+    "name": "opencv",
+    "url": "git://github.com/dom96/nim-opencv",
+    "method": "git",
+    "tags": ["library", "wrapper", "opencv", "image", "processing"],
+    "description": "OpenCV wrapper",
+    "license": "MIT"
   }
 ]
