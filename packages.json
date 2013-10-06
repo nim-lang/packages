@@ -195,5 +195,14 @@
     "tags": ["app", "binary", "blog", "static", "generator"],
     "description": "Static blog generator ala Jekyll.",
     "license": "MIT"
+  },
+  
+  {
+    "name": "nimrod-pastebin",
+    "url": "git://github.com/achesak/nimrod-pastebin",
+    "method": "git",
+    "tags": ["library", "wrapper", "pastebin"],
+    "description": "Pastebin API wrapper",
+    "license": "MIT"
   }
 ]
