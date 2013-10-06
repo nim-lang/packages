@@ -198,11 +198,20 @@
   },
   
   {
-    "name": "nimrod-pastebin",
+    "name": "pastebin",
     "url": "git://github.com/achesak/nimrod-pastebin",
     "method": "git",
     "tags": ["library", "wrapper", "pastebin"],
     "description": "Pastebin API wrapper",
+    "license": "MIT"
+  },
+  
+  {
+    "name": "yahoo-weather":
+    "url": "git://github.com/achesak/nimrod-yahoo-weather",
+    "method": "git",
+    "tags": ["library", "wrapper", "weather"],
+    "description", "Yahoo! Weather API wrapper",
     "license": "MIT"
   }
 ]
