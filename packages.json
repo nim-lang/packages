@@ -207,7 +207,7 @@
   },
   
   {
-    "name": "yahoo-weather":
+    "name": "yahoo-weather",
     "url": "git://github.com/achesak/nimrod-yahoo-weather",
     "method": "git",
     "tags": ["library", "wrapper", "weather"],
