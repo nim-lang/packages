@@ -211,7 +211,7 @@
     "url": "git://github.com/achesak/nimrod-yahoo-weather",
     "method": "git",
     "tags": ["library", "wrapper", "weather"],
-    "description", "Yahoo! Weather API wrapper",
+    "description": "Yahoo! Weather API wrapper",
     "license": "MIT"
   }
 ]
