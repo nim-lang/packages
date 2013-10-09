@@ -213,5 +213,24 @@
     "tags": ["library", "wrapper", "weather"],
     "description": "Yahoo! Weather API wrapper",
     "license": "MIT"
+  },
+  
+  {
+    "name": "noaa",
+    "url": "git://github.com/achesak/nimrod-noaa",
+    "method": "git",
+    "tags": ["library", "wrapper", "weather"],
+    "description": "NOAA weather API wrapper",
+    "license": "MIT"
+  },
+  
+  {
+    "name": "rss",
+    "url": "git://github.com/achesak/nimrod-rss",
+    "method": "git",
+    "tags": ["library", "rss", "xml", "syndication"],
+    "description": "RSS library",
+    "license": "MIT"
   }
+    
 ]
