@@ -231,6 +231,15 @@
     "tags": ["library", "rss", "xml", "syndication"],
     "description": "RSS library",
     "license": "MIT"
+  },
+  
+  {
+    "name": "extmath",
+    "url": "git://github.com/achesak/extmath.nim",
+    "method": "git",
+    "tags": ["library", "math", "trigonometry"],
+    "description": "Nimrod math library",
+    "license": "MIT"
   }
     
 ]
