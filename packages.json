@@ -246,8 +246,8 @@
     "name": "gtk2",
     "url": "git://github.com/nimrod-code/gtk2",
     "method": "git",
-    "tags": ["wrapper", "gui"],
-    "description": "Nimrod math library",
+    "tags": ["wrapper", "gui", "gtk"],
+    "description": "Wrapper for gtk2, a feature rich toolkit for creating graphical user interfaces",
     "license": "MIT"
   },
   
@@ -256,7 +256,7 @@
     "url": "git://github.com/nimrod-code/cairo",
     "method": "git",
     "tags": ["wrapper"],
-    "description": "Nimrod math library",
+    "description": "Wrapper for cairo, a vector graphics library with display and print output",
     "license": "MIT"
   },
   
@@ -265,7 +265,7 @@
     "url": "git://github.com/nimrod-code/x11",
     "method": "git",
     "tags": ["wrapper"],
-    "description": "Nimrod math library",
+    "description": "Wrapper for X11",
     "license": "MIT"
   },
   
@@ -274,7 +274,7 @@
     "url": "git://github.com/nimrod-code/opengl",
     "method": "git",
     "tags": ["wrapper"],
-    "description": "Nimrod math library",
+    "description": "High-level and low-level wrapper for OpenGL",
     "license": "MIT"
   },
   
@@ -283,7 +283,7 @@
     "url": "git://github.com/nimrod-code/lua",
     "method": "git",
     "tags": ["wrapper"],
-    "description": "Nimrod math library",
+    "description": "Wrapper to interface with the Lua interpreter",
     "license": "MIT"
   },
   
@@ -292,7 +292,7 @@
     "url": "git://github.com/nimrod-code/tcl",
     "method": "git",
     "tags": ["wrapper"],
-    "description": "Nimrod math library",
+    "description": "Wrapper for the TCL programming language",
     "license": "MIT"
   },
   
@@ -301,7 +301,7 @@
     "url": "git://github.com/nimrod-code/python",
     "method": "git",
     "tags": ["wrapper"],
-    "description": "Nimrod math library",
+    "description": "Wrapper to interface with Python interpreter",
     "license": "MIT"
   }
 
