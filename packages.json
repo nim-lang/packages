@@ -240,6 +240,69 @@
     "tags": ["library", "math", "trigonometry"],
     "description": "Nimrod math library",
     "license": "MIT"
+  },
+  
+  {
+    "name": "gtk2",
+    "url": "git://github.com/nimrod-code/gtk2",
+    "method": "git",
+    "tags": ["wrapper", "gui"],
+    "description": "Nimrod math library",
+    "license": "MIT"
+  },
+  
+  {
+    "name": "cairo",
+    "url": "git://github.com/nimrod-code/cairo",
+    "method": "git",
+    "tags": ["wrapper"],
+    "description": "Nimrod math library",
+    "license": "MIT"
+  },
+  
+  {
+    "name": "x11",
+    "url": "git://github.com/nimrod-code/x11",
+    "method": "git",
+    "tags": ["wrapper"],
+    "description": "Nimrod math library",
+    "license": "MIT"
+  },
+  
+  {
+    "name": "opengl",
+    "url": "git://github.com/nimrod-code/opengl",
+    "method": "git",
+    "tags": ["wrapper"],
+    "description": "Nimrod math library",
+    "license": "MIT"
+  },
+  
+  {
+    "name": "lua",
+    "url": "git://github.com/nimrod-code/lua",
+    "method": "git",
+    "tags": ["wrapper"],
+    "description": "Nimrod math library",
+    "license": "MIT"
+  },
+  
+  {
+    "name": "tcl",
+    "url": "git://github.com/nimrod-code/tcl",
+    "method": "git",
+    "tags": ["wrapper"],
+    "description": "Nimrod math library",
+    "license": "MIT"
+  },
+  
+  {
+    "name": "python",
+    "url": "git://github.com/nimrod-code/python",
+    "method": "git",
+    "tags": ["wrapper"],
+    "description": "Nimrod math library",
+    "license": "MIT"
   }
-    
+
 ]
