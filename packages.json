@@ -303,6 +303,15 @@
     "tags": ["wrapper"],
     "description": "Wrapper to interface with Python interpreter",
     "license": "MIT"
+  },
+  
+  {
+    "name": "kwin",
+    "url": "git://github.com/reactormonk/nim-kwin",
+    "method": "git",
+    "tags": ["wrapper", "js"],
+    "description": "Wrapper to interface with KWin",
+    "license": "MIT"
   }
 
 ]
