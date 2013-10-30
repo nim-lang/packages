@@ -27,6 +27,15 @@
   },
 
   {
+    "name": "murmur",
+    "url": "git://github.com/olahol/nimrod-murmur/",
+    "method": "git",
+    "tags": ["hash", "murmur"],
+    "description": "MurmurHash in pur Nimrod.",
+    "license": "MIT"
+  },
+
+  {
     "name": "libtcod-nim",
     "url": "git://github.com/Vladar4/libtcod-nim/",
     "method": "git",
