@@ -154,7 +154,7 @@
   
   {
     "name": "linagl",
-    "url": "https://bitbucket.org/TheLonelyByte/linagl",
+    "url": "https://bitbucket.org/BitPuffin/linagl",
     "method": "hg",
     "tags": ["library", "opengl", "math", "game"],
     "description": "OpenGL math library",
