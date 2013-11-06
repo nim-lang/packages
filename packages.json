@@ -312,6 +312,15 @@
     "tags": ["wrapper"],
     "description": "Wrapper to interface with Python interpreter",
     "license": "MIT"
+  },
+
+  {
+    "name": "ouroboros",
+    "url": "git://github.com/gradha/nimrod-ouroboros/",
+    "method": "git",
+    "tags": ["library", "embedded data", "appended data", "alchemy"],
+    "description": "API to read appended files from your own binary",
+    "license": "MIT"
   }
 
 ]
