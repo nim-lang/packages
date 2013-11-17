@@ -321,6 +321,15 @@
     "tags": ["library", "embedded data", "appended data", "alchemy"],
     "description": "API to read appended files from your own binary",
     "license": "MIT"
+  },
+
+  {
+    "name": "sha1",
+    "url": "https://github.com/onionhammer/sha1",
+    "method": "git",
+    "tags": ["port", "hash", "sha1"],
+    "description": "SHA-1 produces a 160-bit (20-byte) hash value from arbitrary input",
+    "license": "BSD"
   }
 
 ]
