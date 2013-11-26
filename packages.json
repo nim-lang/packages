@@ -330,6 +330,15 @@
     "tags": ["port", "hash", "sha1"],
     "description": "SHA-1 produces a 160-bit (20-byte) hash value from arbitrary input",
     "license": "BSD"
+  },
+
+  {
+    "name": "dropbox_filename_sanitizer",
+    "url": "git://github.com/gradha/dropbox_filename_sanitizer/",
+    "method": "git",
+    "tags": ["dropbox"],
+    "description": "Tool to clean up filenames shared on Dropbox",
+    "license": "MIT"
   }
 
 ]
