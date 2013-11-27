@@ -339,6 +339,14 @@
     "tags": ["dropbox"],
     "description": "Tool to clean up filenames shared on Dropbox",
     "license": "MIT"
+  },
+  
+  {
+    "name": "csv",
+    "url": "git://github.com/achesak/nimrod-csv",
+    "method": "git",
+    "tags": ["csv", "parsing", "stringify", "library"],
+    "description": "Library for parsing, stringifying, reading, and writing CSV (comma separated value) files",
+    "license": "MIT"
   }
-
 ]
