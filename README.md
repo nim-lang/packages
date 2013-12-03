@@ -5,11 +5,12 @@ This is a central listing of all packages for
 [Nimrod programming language](http://nimrod-code.org).
 
 ## Adding your own package
-To add your own package, fork this repository, edit packages.json and make
-a pull request.
+To add your own package, fork this repository, edit
+[packages.json](packages.json) and make a pull request.
 
-Packages.json is a simple array of objects. Each package object should have the
-following fields (unless the field is marked as optional):
+[Packages.json](packages.json) is a simple array of objects. Each package
+object should have the following fields (unless the field is marked as
+optional):
   
   * name   - The name of the package, this should match the name in the package's
              babel file.
