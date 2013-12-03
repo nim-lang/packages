@@ -384,6 +384,15 @@
     "tags": ["library", "wrapper", "cover art", "music", "metadata"],
     "description": "Cover Art Archive API wrapper",
     "license": "MIT"
+  },
+  
+  {
+    "name": "nim-ogg",
+    "url": "https://bitbucket.org/BitPuffin/nim-ogg",
+    "method": "hg",
+    "tags": ["library", "wrapper", "binding", "audio", "sound", "video", "metadata", "media"],
+    "description": "Binding to libogg",
+    "license": "CC0"
   }
   
 ]
