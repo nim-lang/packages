@@ -313,6 +313,15 @@
     "description": "Wrapper to interface with Python interpreter",
     "license": "MIT"
   },
+  
+  {
+    "name": "windows",
+    "url": "git://github.com/nimrod-code/windows",
+    "method": "git",
+    "tags": ["wrapper"],
+    "description": "Wrapper to interface with Microsoft Windows",
+    "license": "MIT"
+  },
 
   {
     "name": "ouroboros",
