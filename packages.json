@@ -140,11 +140,11 @@
   },
   
   {
-    "name": "nim-glfw3",
-    "url": "git://github.com/EXetoC/nim-glfw3/",
+    "name": "nim-glfw",
+    "url": "git://github.com/EXetoC/nim-glfw/",
     "method": "git",
     "tags": ["library", "glfw", "opengl", "windowing", "game"],
-    "description": "A High-level GLFW 3 wrapper for the Nimrod programming language",
+    "description": "A high-level GLFW 3 wrapper",
     "license": "MIT",
     "web": "https://github.com/EXetoC/nim-glfw3"
   },
@@ -154,7 +154,7 @@
     "url": "git://github.com/EXetoC/nim-ao/",
     "method": "git",
     "tags": ["library", "audio"],
-    "description": "A libao wrapper for the Nimrod programming language",
+    "description": "A high-level libao wrapper",
     "license": "MIT",
     "web": "https://github.com/EXetoC/nim-ao"
   },
