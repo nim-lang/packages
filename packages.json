@@ -400,7 +400,7 @@
     "url": "https://bitbucket.org/BitPuffin/nim-vorbis",
     "method": "hg",
     "tags": ["library", "wrapper", "binding", "audio", "sound", "metadata", "media"],
-    "description": "Binding to libogg",
+    "description": "Binding to libvorbis",
     "license": "CC0"
   }
   
