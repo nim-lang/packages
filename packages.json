@@ -444,6 +444,15 @@
     "tags": ["library", "wrapper", "binding", "audio", "sound", "metadata", "media"],
     "description": "Binding to libvorbis",
     "license": "CC0"
+  },
+
+  {
+    "name": "nim-portaudio",
+    "url": "https://bitbucket.org/BitPuffin/nim-portaudio",
+    "method": "hg",
+    "tags": ["library", "wrapper", "binding", "audio", "sound", "media", "io"],
+    "description": "Binding to portaudio",
+    "license": "CC0"
   }
   
 ]
