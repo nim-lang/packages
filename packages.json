@@ -462,6 +462,15 @@
     "tags": ["library", "commandline", "arguments", "switches", "parsing", "options"],
     "description": "Provides a small command line parsing DSL (domain specific language)",
     "license": "MIT"
+  },
+
+  {
+    "name": "scrypt.nim",
+    "url": "https://bitbucket.org/BitPuffin/scrypt.nim",
+    "method": "hg",
+    "tags": ["library", "wrapper", "binding", "crypto", "cryptography", "hash", "password", "security"],
+    "description": "Binding and utilities for scrypt",
+    "license": "CC0"
   }
   
 ]
