@@ -453,6 +453,15 @@
     "tags": ["library", "wrapper", "binding", "audio", "sound", "media", "io"],
     "description": "Binding to portaudio",
     "license": "CC0"
+  },
+  
+  {
+    "name": "commandeer",
+    "url": "git://github.com/fenekku/commandeer",
+    "method": "git",
+    "tags": ["library", "commandline", "arguments", "switches", "parsing", "options"],
+    "description": "Provides a small command line parsing DSL (domain specific language)",
+    "license": "MIT"
   }
   
 ]
