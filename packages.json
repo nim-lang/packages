@@ -350,16 +350,6 @@
   },
   
   {
-    "name": "windows",
-    "url": "git://github.com/nimrod-code/windows",
-    "method": "git",
-    "tags": ["wrapper"],
-    "description": "Wrapper to interface with Microsoft Windows",
-    "license": "MIT",
-	"web": "https://github.com/nimrod-code/windows"
-  },
-
-  {
     "name": "ouroboros",
     "url": "git://github.com/gradha/nimrod-ouroboros/",
     "method": "git",
