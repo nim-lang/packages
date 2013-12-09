@@ -471,6 +471,16 @@
     "tags": ["library", "wrapper", "binding", "crypto", "cryptography", "hash", "password", "security"],
     "description": "Binding and utilities for scrypt",
     "license": "CC0"
-  }
+  },
+  
+  {
+    "name": "bloom",
+    "url": "git://github.com/boydgreenfield/nimrod-bloom/",
+    "method": "git",
+    "tags": ["Bloom filter", "Bloom", "probabilistic", "data structure", "set membership", "MurmurHash", "MurmurHash3"],
+    "description": "Efficient Bloom filter implementation in Nimrod using MurmurHash3.",
+    "license": "MIT",
+    "web": "https://www.github.com/boydgreenfield/nimrod-bloom/"
+  }  
   
 ]
