@@ -146,7 +146,7 @@
     "tags": ["library", "glfw", "opengl", "windowing", "game"],
     "description": "A high-level GLFW 3 wrapper",
     "license": "MIT",
-    "web": "https://github.com/EXetoC/nim-glfw3"
+    "web": "https://github.com/EXetoC/nim-glfw"
   },
   
   {
