@@ -481,6 +481,16 @@
     "description": "Macros to interface with Objective-C.",
     "license": "MIT",
     "web": "https://github.com/gradha/nimrod-objective-c-bridge/"
+  },
+
+  {
+    "name": "awesome_rmdir",
+    "url": "git://github.com/gradha/awesome_rmdir/",
+    "method": "git",
+    "tags": ["rmdir", "awesome", "commandline"],
+    "description": "Command to remove acceptably empty directories.",
+    "license": "MIT",
+    "web": "https://github.com/gradha/awesome_rmdir/"
   }  
   
 ]
