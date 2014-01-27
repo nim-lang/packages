@@ -491,6 +491,16 @@
     "description": "Command to remove acceptably empty directories.",
     "license": "MIT",
     "web": "https://github.com/gradha/awesome_rmdir/"
-  }  
+  },
+  
+  {
+    "name": "nimalpm",
+    "url": "git://github.com/barcharcraz/nimalpm/",
+    "method": "git",
+    "tags": ["alpm", "wrapper", "binding", "library"],
+    "description": "A nimrod wrapper for libalpm",
+    "license": "GPLv2",
+    "web": "https://www.github.com/barcharcraz/nimalpm/"
+  }
   
 ]
