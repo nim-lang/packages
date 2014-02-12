@@ -350,6 +350,16 @@
   },
   
   {
+    "name": "NimBorg",
+    "url": "https://github.com/micklat/NimBorg",
+    "method": "git",
+    "tags": ["wrapper"],
+    "descipriont": "High-level and low-level interfaces to python and lua",
+    "license": "MIT",
+    "web": "https://github.com/micklat/NimBorg",
+  },
+
+  {
     "name": "ouroboros",
     "url": "git://github.com/gradha/nimrod-ouroboros/",
     "method": "git",
