@@ -351,12 +351,12 @@
   
   {
     "name": "NimBorg",
-    "url": "https://github.com/micklat/NimBorg",
+    "url": "git://github.com/micklat/NimBorg",
     "method": "git",
     "tags": ["wrapper"],
-    "descipriont": "High-level and low-level interfaces to python and lua",
+    "description": "High-level and low-level interfaces to python and lua",
     "license": "MIT",
-    "web": "https://github.com/micklat/NimBorg",
+    "web": "https://github.com/micklat/NimBorg"
   },
 
   {
