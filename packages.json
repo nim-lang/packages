@@ -511,6 +511,16 @@
     "description": "A nimrod wrapper for libalpm",
     "license": "GPLv2",
     "web": "https://www.github.com/barcharcraz/nimalpm/"
+  },
+
+  {
+    "name": "nimlibpng",
+    "url":"git@github.com:barcharcraz/nimlibpng.git",
+    "method": "git",
+    "tags": ["png", "wrapper", "library", "libpng", "image"],
+    "description": "Nimrod wrapper for the libpng library",
+    "license": "libpng",
+    "web": "https://github.com/barcharcraz/nimlibpng"
   }
   
 ]
