@@ -515,7 +515,7 @@
 
   {
     "name": "nimlibpng",
-    "url":"git@github.com:barcharcraz/nimlibpng.git",
+    "url":"git://github.com/barcharcraz/nimlibpng",
     "method": "git",
     "tags": ["png", "wrapper", "library", "libpng", "image"],
     "description": "Nimrod wrapper for the libpng library",
