@@ -521,6 +521,16 @@
     "description": "Nimrod wrapper for the libpng library",
     "license": "libpng",
     "web": "https://github.com/barcharcraz/nimlibpng"
-  }
+  },
+  
+  {
+    "name":"sdl2",
+    "url":"git://github.com/nimrod-code/sdl2",
+    "method":"git",
+    "tags":["wrapper","media","audio","video"],
+    "description":"Wrapper for SDL 2.x",
+    "license":"MIT",
+    "web":"https://github.com/nimrod-code/sdl2"
+  },
   
 ]
