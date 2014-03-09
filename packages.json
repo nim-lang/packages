@@ -533,4 +533,22 @@
     "web":"https://github.com/nimrod-code/sdl2"
   },
   
+  {
+    "name":"assimp",
+    "url":"git://github.com/barcharcraz/nim-assimp",
+    "method":"git",
+    "tags":["wrapper","media","mesh","import","game"],
+    "description":"Wrapper for the assimp library",
+    "license":"MIT",
+    "web":"https://github.com/barcharcraz/nim-assimp"
+  },
+  {
+    "name":"freeimage",
+    "url":"git://github.com/barcharcraz/nim-freeimage",
+    "method":"git",
+    "tags":["wrapper","media","image","import","game"],
+    "description":"Wrapper for the FreeImage library",
+    "license":"MIT",
+    "web":"https://github.com/barcharcraz/nim-freeimage"
+  },
 ]
