@@ -534,7 +534,7 @@
   },
   
   {
-    "name":"nim-assimp",
+    "name":"assimp",
     "url":"git://github.com/barcharcraz/nim-assimp",
     "method":"git",
     "tags":["wrapper","media","mesh","import","game"],
@@ -543,7 +543,7 @@
     "web":"https://github.com/barcharcraz/nim-assimp"
   },
   {
-    "name":"nim-freeimage",
+    "name":"freeimage",
     "url":"git://github.com/barcharcraz/nim-freeimage",
     "method":"git",
     "tags":["wrapper","media","image","import","game"],
