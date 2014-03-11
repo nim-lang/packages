@@ -551,4 +551,13 @@
     "license":"MIT",
     "web":"https://github.com/barcharcraz/nim-freeimage"
   },
+  {
+    "name": "bcrypt",
+    "url": "git://github.com/ithkuil/bcryptnim/",
+    "method": "git",
+    "tags": ["hash", "crypto", "password", "bcrypt", "library"],
+    "description": "Wraps the bcrypt (blowfish) library for creating encrypted hashes (useful for passwords)",
+    "license": "BSD",
+    "web": "https://www.github.com/ithkuil/bcryptnim/"
+  }
 ]
