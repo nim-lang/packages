@@ -559,5 +559,14 @@
     "description": "Wraps the bcrypt (blowfish) library for creating encrypted hashes (useful for passwords)",
     "license": "BSD",
     "web": "https://www.github.com/ithkuil/bcryptnim/"
+  },
+  {
+    "name": "opencl",
+    "url": "git://github.com/nimrod-code/opencl",
+    "method": "git",
+    "tags": ["library"],
+    "description": "Low-level wrapper for OpenCL",
+    "license": "MIT",
+    "web": "https://github.com/nimrod-code/opencl"
   }
 ]
