@@ -586,5 +586,14 @@
     "description":"Signals/slots library.",
     "license":"MIT",
     "web":"https://github.com/fowlmouth/signals.nim"
+  },
+  {
+    "name": "number_files",
+    "url": "git://github.com/gradha/number_files/",
+    "method": "git",
+    "tags": ["rename", "filename", "finder"],
+    "description": "Command to add counter suffix/prefix to a list of files.",
+    "license": "MIT",
+    "web": "https://github.com/gradha/number_files/"
   }
 ]
