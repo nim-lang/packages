@@ -623,4 +623,13 @@
     "license":"MIT",
     "web":"https://github.com/nimrod-code/mongo"
   },
+  {
+   "name":"allegro5",
+   "url":"git://github.com/fowlmouth/allegro5",
+   "method":"git",
+   "tags":["wrapper","graphics","games","opengl","audio"],
+   "description":"Wrapper for Allegro version 5.X",
+   "license":"MIT",
+   "web":"https://github.com/fowlmouth/allegro5"
+  },
 ]
