@@ -614,4 +614,13 @@
     "license":"WTFPL",
     "web":"https://github.com/fowlmouth/horde3d"
   },
+  {
+    "name":"mongo",
+    "url":"git://github.com/nimrod-code/mongo",
+    "method":"git",
+    "tags":["library","wrapper","database"],
+    "description":"Bindings and a high-level interface for MongoDB",
+    "license":"MIT",
+    "web":"https://github.com/nimrod-code/mongo"
+  },
 ]
