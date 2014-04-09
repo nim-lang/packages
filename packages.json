@@ -640,5 +640,5 @@
     "description":"A library to provide abstract access to various archives.",
     "license":"WTFPL",
     "web":"https://github.com/fowlmouth/physfs"
-  },
+  }
 ]
