@@ -640,5 +640,14 @@
     "description":"A library to provide abstract access to various archives.",
     "license":"WTFPL",
     "web":"https://github.com/fowlmouth/physfs"
+  },
+  {
+    "name":"shoco",
+    "url":"https://github.com/onionhammer/shoconim.git",
+    "method":"git",
+    "tags":["compression","shoco"],
+    "description":"A fast compressor for short strings",
+    "license": "MIT",
+    "web":"https://github.com/Ed-von-Schleck/shoco"
   }
 ]
