@@ -648,6 +648,6 @@
     "tags":["compression","shoco"],
     "description":"A fast compressor for short strings",
     "license": "MIT",
-    "web":"https://github.com/Ed-von-Schleck/shoco"
+    "web":"https://github.com/onionhammer/shoconim"
   }
 ]
