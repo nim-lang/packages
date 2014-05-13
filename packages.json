@@ -649,5 +649,14 @@
     "description":"A fast compressor for short strings",
     "license": "MIT",
     "web":"https://github.com/onionhammer/shoconim"
-  }
+  },
+  {
+    "name":"murmur",
+    "url":"git://github.com/boydgreenfield/nimrod-murmur/",
+    "method":"git",
+    "tags":["MurmurHash","MurmurHash3", "murmur", "hash", "hashing"],
+    "description":"A simple MurmurHash3 wrapper for Nimrod",
+    "license": "MIT",
+    "web":"https://github.com/boydgreenfield/nimrod-murmur/"
+  }  
 ]
