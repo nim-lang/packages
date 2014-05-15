@@ -651,7 +651,7 @@
     "web":"https://github.com/onionhammer/shoconim"
   },
   {
-    "name":"murmur",
+    "name":"murmur3",
     "url":"git://github.com/boydgreenfield/nimrod-murmur/",
     "method":"git",
     "tags":["MurmurHash","MurmurHash3", "murmur", "hash", "hashing"],
