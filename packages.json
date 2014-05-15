@@ -660,7 +660,7 @@
     "web":"https://github.com/boydgreenfield/nimrod-murmur/"
   },
   {
-    "name":"hexed",
+    "name":"hex",
     "url":"https://github.com/esbullington/nimrod-hex",
     "method":"git",
     "tags":["hex","encoding"],
