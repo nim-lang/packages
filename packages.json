@@ -667,5 +667,14 @@
     "description":"A simple hex package for Nimrod",
     "license": "MIT",
     "web":"https://github.com/esbullington/nimrod-hex"
+  },
+  {
+    "name":"jade-nim",
+    "url":"git://github.com/idlewan/jade-nim",
+    "method":"git",
+    "tags":["template","jade","web","dsl","html"],
+    "description":"Compiles jade templates to Nimrod procedures.",
+    "license": "MIT",
+    "web":"https://github.com/idlewan/jade-nim"
   }
 ]
