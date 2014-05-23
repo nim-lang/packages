@@ -676,5 +676,14 @@
     "description":"Compiles jade templates to Nimrod procedures.",
     "license": "MIT",
     "web":"https://github.com/idlewan/jade-nim"
+  },
+  {
+    "name":"docutils",
+    "url":"https://github.com/flaviut/docutils.git",
+    "method":"git",
+    "tags":["nimrod", "documentation", "ReStructuredText", "rst"],
+    "description":"Nimrod's reStructuredText processor",
+    "licence":"MIT",
+    "web":"https://github.com/Araq/Nimrod/tree/devel/lib/packages/docutils"
   }
 ]
