@@ -37,7 +37,7 @@
     "description": "A simple string templating library for Nimrod.",
     "license": "BSD",
     "web": "https://github.com/onionhammer/nim-templates"
-  }
+  },
 
   {
     "name": "murmur",
