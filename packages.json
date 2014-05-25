@@ -30,6 +30,16 @@
   },
 
   {
+    "name": "templates",
+    "url": "https://github.com/onionhammer/nim-templates.git",
+    "method": "git",
+    "tags": ["web", "html", "template"],
+    "description": "A simple string templating library for Nimrod.",
+    "license": "BSD",
+    "web": "https://github.com/onionhammer/nim-templates"
+  }
+
+  {
     "name": "murmur",
     "url": "git://github.com/olahol/nimrod-murmur/",
     "method": "git",
