@@ -679,6 +679,15 @@
     "web":"https://github.com/esbullington/nimrod-hex"
   },
   {
+    "name":"strfmt",
+    "url": "https://bitbucket.org/lyro/strfmt",
+    "method": "hg",
+    "tags":["library"],
+    "description":"A string formatting library inspired by Python's `format`.",
+    "license": "MIT",
+	"web": "https://lyro.bitbucket.org/strfmt"
+  },
+  {
     "name":"jade-nim",
     "url":"git://github.com/idlewan/jade-nim",
     "method":"git",
