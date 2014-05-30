@@ -238,7 +238,15 @@
     "license": "MIT",
     "web": "https://github.com/dom96/ipsumgenera"
   },
-  
+  {
+    "name": "clibpp",
+    "url": "https://github.com/onionhammer/clibpp.git",
+    "method": "git",
+    "tags": ["import", "C++", "library", "wrap"],
+    "description": "Easy way to 'Mock' C++ interface",
+    "license": "MIT",
+    "web": "https://github.com/onionhammer/clibpp"	
+  },
   {
     "name": "pastebin",
     "url": "git://github.com/achesak/nimrod-pastebin",
