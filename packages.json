@@ -703,5 +703,14 @@
     "description":"Compiles jade templates to Nimrod procedures.",
     "license": "MIT",
     "web":"https://github.com/idlewan/jade-nim"
+  },
+  {
+    "name":"gh_nimrod_doc_pages",
+    "url": "git://github.com/gradha/gh_nimrod_doc_pages",
+    "method": "git",
+    "tags":["commandline", "web", "automation", "documentation"],
+    "description":"Generates a GitHub documentation website for Nimrod projects.",
+    "license": "MIT",
+    "web": "http://gradha.github.io/gh_nimrod_doc_pages/"
   }
 ]
