@@ -712,5 +712,14 @@
     "description":"Generates a GitHub documentation website for Nimrod projects.",
     "license": "MIT",
     "web": "http://gradha.github.io/gh_nimrod_doc_pages/"
+  },
+  {
+    "name":"midnight_dynamite",
+    "url": "git://github.com/gradha/midnight_dynamite",
+    "method": "git",
+    "tags":["wrapper", "library", "html", "markdown", "md"],
+    "description":"Wrapper for the markdown rendering hoedown library",
+    "license": "MIT",
+    "web": "http://gradha.github.io/midnight_dynamite/"
   }
 ]
