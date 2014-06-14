@@ -721,7 +721,7 @@
     "description":"Wrapper for the markdown rendering hoedown library",
     "license": "MIT",
     "web": "http://gradha.github.io/midnight_dynamite/"
-  }
+  },
   {
     "name": "rsvg",
     "url": "git://github.com/def-/rsvg",
@@ -730,5 +730,5 @@
     "description": "Wrapper for librsvg, a Scalable Vector Graphics (SVG) rendering library"
     "license": "MIT",
     "web": "https://github.com/def-/rsvg"
-  },
+  }
 ]
