@@ -730,5 +730,14 @@
     "description": "Wrapper for librsvg, a Scalable Vector Graphics (SVG) rendering library",
     "license": "MIT",
     "web": "https://github.com/def-/rsvg"
+  },
+  {
+    "name": "emerald",
+    "url": "git://github.com/flyx/emerald",
+    "method": "git",
+    "tags": ["dsl", "html", "template", "web"],
+    "description": "macro-based HTML templating engine",
+    "license": "WTFPL",
+    "web": "https://github.com/flyx/emerald"
   }
 ]
