@@ -228,6 +228,26 @@
     "license": "GPLv2",
     "web": "https://github.com/nimrod-code/Aporia"
   },
+
+  {
+    "name": "c2nim",
+    "url": "git://github.com/nimrod-code/c2nim",
+    "method": "git",
+    "tags": ["tool", "header", "C", "nimrod"],
+    "description": "c2nim is a tool to translate Ansi C code to Nimrod.",
+    "license": "MIT",
+    "web": "https://github.com/nimrod-code/c2nim"
+  },
+
+  {
+    "name": "pas2nim",
+    "url": "git://github.com/nimrod-code/pas2nim",
+    "method": "git",
+    "tags": ["tool", "Pascal", "nimrod"],
+    "description": "pas2nim is a tool to translate Pascal code to Nimrod.",
+    "license": "MIT",
+    "web": "https://github.com/nimrod-code/pas2nim"
+  },
   
   {
     "name": "ipsumgenera",
