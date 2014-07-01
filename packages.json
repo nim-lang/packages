@@ -759,7 +759,7 @@
     "description": "macro-based HTML templating engine",
     "license": "WTFPL",
     "web": "https://github.com/flyx/emerald"
-  }
+  },
   {
     "name": "vectors",
     "url": "git://github.com/blamestross/nimrod-vectors",
