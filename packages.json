@@ -768,5 +768,14 @@
     "description": "Simple multidimensional vector math",
     "license": "MIT",
     "web": "https://github.com/blamestross/nimrod-vectors"
+  },
+  {
+    "name": "bitarray",
+    "url": "git://github.com/refgenomics/nimrod-bitarray/",
+    "method": "git",
+    "tags": ["Bit arrays", "Bit sets", "Bit vectors", "Data structures"],
+    "description": "mmap-backed bitarray implementation in Nimrod..",
+    "license": "MIT",
+    "web": "https://www.github.com/refgenomics/nimrod-bitarray/"
   }
 ]
