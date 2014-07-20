@@ -780,7 +780,7 @@
   },
   {
     "name": "appdirs",
-    "url": "git://gitub.com/MrJohz/appdirs",
+    "url": "git://github.com/MrJohz/appdirs",
     "method": "git",
     "tags": ["utility", "filesystem"],
     "description": "A utility library to find the directory you need to app in.",
