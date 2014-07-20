@@ -777,5 +777,14 @@
     "description": "mmap-backed bitarray implementation in Nimrod..",
     "license": "MIT",
     "web": "https://www.github.com/refgenomics/nimrod-bitarray/"
+  },
+  {
+    "name": "appdirs",
+    "url": "git://gitub.com/MrJohz/appdirs",
+    "method": "git",
+    "tags": ["utility", "filesystem"],
+    "description": "A utility library to find the directory you need to app in.",
+    "license": "MIT",
+    "web": "https://github.com/MrJohz/appdirs"
   }
 ]
