@@ -786,5 +786,14 @@
     "description": "A utility library to find the directory you need to app in.",
     "license": "MIT",
     "web": "https://github.com/MrJohz/appdirs"
+  },
+  {
+      "name": "nim-sndfile",
+      "url": "git://github.com/julienaubert/nim-sndfile",
+      "method": "git",
+      "tags": ["audio", "wav", "wrapper", "libsndfile"],
+      "description": "A wrapper of libsndfile",
+      "license": "MIT",
+      "web": "https://github.com/julienaubert/nim-sndfile"
   }
 ]
