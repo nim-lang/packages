@@ -795,5 +795,23 @@
       "description": "A wrapper of libsndfile",
       "license": "MIT",
       "web": "https://github.com/julienaubert/nim-sndfile"
+  },
+  {
+    "name": "bigints",
+    "url": "git://github.com/def-/bigints",
+    "method": "git",
+    "tags": ["math", "library", "numbers"],
+    "description": "Arbitrary-precision integers",
+    "license": "MIT",
+    "web": "https://github.com/def-/bigints"
+  },
+  {
+    "name": "iterutils",
+    "url": "git://github.com/def-/iterutils",
+    "method": "git",
+    "tags": ["library", "iterators"],
+    "description": "Functional operations for iterators and slices, similar to sequtils",
+    "license": "MIT",
+    "web": "https://github.com/def-/iterutils"
   }
 ]
