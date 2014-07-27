@@ -813,5 +813,14 @@
     "description": "Functional operations for iterators and slices, similar to sequtils",
     "license": "MIT",
     "web": "https://github.com/def-/iterutils"
+  },
+  {
+    "name": "hastyscribe",
+    "url": "git://github.com/h3rald/hastyscribe",
+    "method": "git",
+    "tags": ["markdown", "html", "publishing"],
+    "description": "Self-contained markdown compiler generating self-contained HTML documents",
+    "license": "MIT",
+    "web": "https://h3rald.com/hastyscribe"
   }
 ]
