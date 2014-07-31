@@ -822,5 +822,14 @@
     "description": "Self-contained markdown compiler generating self-contained HTML documents",
     "license": "MIT",
     "web": "https://h3rald.com/hastyscribe"
+  },
+  {
+    "name": "nim-nanomsg",
+    "url": "git://github.com/def-/nim-nanomsg",
+    "method": "git",
+    "tags": ["library", "wrapper", "networking"],
+    "description": "Wrapper for the nanomsg socket library that provides several common communication patterns",
+    "license": "MIT",
+    "web": "https://github.com/def-/nim-nanomsg"
   }
 ]
