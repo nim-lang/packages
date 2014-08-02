@@ -833,7 +833,7 @@
     "web": "https://github.com/def-/nim-nanomsg"
   },
   {
-    "name": "DirectX",
+    "name": "directnimrod",
     "url": "https://bitbucket.org/barcharcraz/directnimrod",
     "method": "git",
     "tags": ["library", "wrapper", "graphics", "windows"],
