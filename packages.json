@@ -840,5 +840,23 @@
     "description": "Wrapper for microsoft's DirectX libraries",
     "license": "MS-PL",
     "web": "https://bitbucket.org/barcharcraz/directnimrod"
+  },
+  {
+    "name": "imghdr",
+    "url": "git://gitub.com/achesak/nimrod-imghdr",
+    "method": "git",
+    "tags": ["image", "formats", "files"],
+    "description": "Library for detecting the format of an image",
+    "license": "MIT",
+    "web": "https://github.com/achesak/nimrod-imghdr"
+  },
+  {
+    "name": "csv2json",
+    "url": "git://github.com/achesak/nimrod-csv2json",
+    "method": "git",
+    "tags": ["csv", "json"],
+    "description": "Convert CSV files to JSON",
+    "license": "MIT",
+    "web": "https://github.com/achesak/nimrod-csv2json"
   }
 ]
