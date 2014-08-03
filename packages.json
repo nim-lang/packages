@@ -858,5 +858,14 @@
     "description": "Convert CSV files to JSON",
     "license": "MIT",
     "web": "https://github.com/achesak/nimrod-csv2json"
+  },
+  {
+    "name": "vecmath",
+    "url": "git://github.com/barcharcraz/vecmath",
+    "method": "git",
+    "tags": ["library", "math", "vector"],
+    "description": "various vector maths utils for nimrod",
+    "license": "MIT",
+    "web": "https://github.com/barcharcraz/vecmath"
   }
 ]
