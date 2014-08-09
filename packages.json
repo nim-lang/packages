@@ -867,5 +867,14 @@
     "description": "various vector maths utils for nimrod",
     "license": "MIT",
     "web": "https://github.com/barcharcraz/vecmath"
+  },
+  {
+    "name": "lazy_rest",
+    "url": "git://github.com/gradha/lazy_rest",
+    "method": "git",
+    "tags": ["library", "rst", "rest", "text", "html"],
+    "description": "Simple reST HTML generation with some extras.",
+    "license": "MIT",
+    "web": "https://github.com/gradha/lazy_rest"
   }
 ]
