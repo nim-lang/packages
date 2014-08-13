@@ -885,5 +885,23 @@
     "description": "eaiser use of OpenGL and GLSL shaders",
     "license": "MIT",
     "web": "https://github.com/barcharcraz/Phosphor"
+  },
+  {
+    "name": "colorsys",
+    "url": "git://github.com/achesak/nimrod-colorsys",
+    "method": "git",
+    "tags": ["library", "colors", "rgb", "yiq", "hls", "hsv"],
+    "description": "Convert between RGB, YIQ, HLS, and HSV color systems.",
+    "license": "MIT",
+    "web": "https://github.com/achesak/nimrod-colorsys"
+  },
+  {
+    "name": "pythonfile",
+    "url": "git://github.com/achesak/nimrod-pythonfile",
+    "method": "git",
+    "tags": ["library", "python", "files", "file"],
+    "description": "Wrapper of the file procedures to provide an interface as similar as possible to that of Python",
+    "license": "MIT",
+    "web": "https://github.com/achesak/nimrod-pythonfile"
   }
 ]
