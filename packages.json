@@ -897,7 +897,7 @@
   },
   {
     "name": "pythonfile",
-    "url: "git//github.com/achesak/nimrod-pythonfile",
+    "url: "git://github.com/achesak/nimrod-pythonfile",
     "method": "git",
     "tags": ["library", "python", "files", "file"],
     "description": "Wrapper of the file procedures to provide an interface as similar as possible to that of Python",
