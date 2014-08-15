@@ -903,5 +903,14 @@
     "description": "Wrapper of the file procedures to provide an interface as similar as possible to that of Python",
     "license": "MIT",
     "web": "https://github.com/achesak/nimrod-pythonfile"
+  },
+  {
+    "name": "sndhdr",
+    "url": "git://github.com/achesak/nimrod-sndhdr",
+    "method": "git",
+    "tags": ["library", "formats", "files", "sound", "audio"],
+    "description": "Library for detecting the format of a sound file",
+    "license": "MIT",
+    "web": "https://github.com/achesak/nimrod-sndhdr"
   }
 ]
