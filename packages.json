@@ -920,6 +920,6 @@
     "tags": ["library", "helper", "ascii"],
     "description": "Helper module for imghdr and sndhdr",
     "license": "MIT",
-    "web": "https://github.com/achesak/nimrod-sndhdr"
+    "web": "https://github.com/achesak/nimrod-int2ascii"
   }
 ]
