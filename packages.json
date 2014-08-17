@@ -912,5 +912,14 @@
     "description": "Library for detecting the format of a sound file",
     "license": "MIT",
     "web": "https://github.com/achesak/nimrod-sndhdr"
+  },
+  {
+    "name": "irc",
+    "url": "git://github.com/nimrod-code/irc",
+    "method": "git",
+    "tags": ["library", "irc", "network"],
+    "description": "Implements a simple IRC client.",
+    "license": "MIT",
+    "web": "https://github.com/nimrod-code/irc"
   }
 ]
