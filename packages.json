@@ -921,5 +921,14 @@
     "description": "Implements a simple IRC client.",
     "license": "MIT",
     "web": "https://github.com/nimrod-code/irc"
+  },
+  {
+    "name": "random",
+    "url": "git://github.com/BlaXpirit/nimrod-random",
+    "method": "git",
+    "tags": ["library", "algorithms", "random"],
+    "description": "Pseudo-random number generation library inspired by Python",
+    "license": "MIT",
+    "web": "https://github.com/BlaXpirit/nimrod-random"
   }
 ]
