@@ -930,5 +930,14 @@
     "description": "Pseudo-random number generation library inspired by Python",
     "license": "MIT",
     "web": "https://github.com/BlaXpirit/nimrod-random"
+  },
+  {
+    "name": "zmq",
+    "url": "git://github.com/idlewan/zmq.nim",
+    "method": "git",
+    "tags": ["library", "wrapper", "zeromq", "messaging", "queue"],
+    "description": "ZeroMQ 4 wrapper",
+    "license": "MIT",
+    "web": "https://github.com/idlewan/zmq.nim"
   }
 ]
