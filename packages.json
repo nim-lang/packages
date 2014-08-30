@@ -939,5 +939,14 @@
     "description": "ZeroMQ 4 wrapper",
     "license": "MIT",
     "web": "https://github.com/nimrod-code/nim-zmq"
+  },
+  {
+    "name": "uuid",
+    "url": "git://github.com/idlewan/nim-uuid",
+    "method": "git",
+    "tags": ["library", "wrapper", "uuid"],
+    "description": "UUID wrapper",
+    "license": "MIT",
+    "web": "https://github.com/idlewan/nim-uuid"
   }
 ]
