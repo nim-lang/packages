@@ -948,5 +948,14 @@
     "description": "UUID wrapper",
     "license": "MIT",
     "web": "https://github.com/idlewan/nim-uuid"
+  },
+  {
+    "name": "robotparser",
+    "url": "git://github.com/achesak/nimrod-robotparser",
+    "method": "git",
+    "tags": ["library", "useragent", "robots", "robot.txt"],
+    "description": "Determine if a useragent can access a URL using robots.txt",
+    "license": "MIT",
+    "web": "https://github.com/achesak/nimrod-robotparser"
   }
 ]
