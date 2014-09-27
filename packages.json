@@ -957,5 +957,24 @@
     "description": "Determine if a useragent can access a URL using robots.txt",
     "license": "MIT",
     "web": "https://github.com/achesak/nimrod-robotparser"
+  },
+  {
+    "name": "epub",
+    "url": "git://github.com/achesak/nimrod-epub",
+    "method": "git",
+    "tags": ["library", "epub", "e-book"],
+    "description": "Module for working with EPUB e-book files",
+    "license": "MIT",
+    "web": "https://github.com/achesak/nimrod-epub"
+  },
+  {
+    "name": "hashids",
+    "url": "git://github.com/achesak/nimrod-hashids",
+    "method": "git",
+    "tags": ["library", "hashids"],
+    "description": "Nimrod implementation of Hashids",
+    "license": "MIT",
+    "web": "https://github.com/achesak/nimrod-hashids"
   }
 ]
+
