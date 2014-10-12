@@ -975,6 +975,15 @@
     "description": "Nimrod implementation of Hashids",
     "license": "MIT",
     "web": "https://github.com/achesak/nimrod-hashids"
+  },
+  {
+    "name": "openssl_evp",
+    "url": "git://github.com/cowboy-coders/nim-openssl-evp",
+    "method": "git",
+    "tags": ["library", "crypto", "openssl"],
+    "description": "Wrapper for OpenSSL's EVP interface",
+    "license": "OpenSSL License and SSLeay License",
+    "web": "https://github.com/cowboy-coders/nim-openssl-evp"
   }
 ]
 
