@@ -984,6 +984,15 @@
     "description": "Wrapper for OpenSSL's EVP interface",
     "license": "OpenSSL License and SSLeay License",
     "web": "https://github.com/cowboy-coders/nim-openssl-evp"
+  },
+  {
+    "name": "monad",
+    "url": "git://github.com/superfunc/monad",
+    "method": "git",
+    "tags": ["library", "functional", "monad", "functor"],
+    "description": "basic monadic data types for Nim",
+    "license": "BSD3",
+    "web": "https://gitub.com/superfunc/monad"
   }
 ]
 
