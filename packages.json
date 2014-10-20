@@ -993,6 +993,15 @@
     "description": "basic monadic data types for Nim",
     "license": "BSD3",
     "web": "https://gitub.com/superfunc/monad"
+  },
+  {
+    "name": "eternity",
+    "url": "git://github.com/hiteshjasani/nim-eternity",
+    "method": "git",
+    "tags": ["library", "time", "format"],
+    "description": "Humanize elapsed time",
+    "license": "MIT",
+    "web": "https://github.com/hiteshjasani/nim-eternity"
   }
 ]
 
