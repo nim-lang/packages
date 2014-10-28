@@ -1,7 +1,7 @@
 # Nimrod packages
 
 This is a central listing of all packages for
-[babel](https://github.com/nimrod-code/babel), a package manager for the
+[Nimble](https://github.com/nimrod-code/nimble), a package manager for the
 [Nimrod programming language](http://nimrod-lang.org).
 
 ## Adding your own package
