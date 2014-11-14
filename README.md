@@ -26,4 +26,4 @@ optional):
 Your packages may be removed if the url stops working. It goes without saying
 that your pull request will not be accepted unless you fill out all of the
 above required fields correctly, the package that ``url`` points to must also
-contain a babel file, or else it will be rejected.
+contain a .nimble file, or else it will be rejected.
