@@ -1011,6 +1011,15 @@
     "description": "wrapper for the GNU multiple precision arithmetic library (GMP)",
     "license": "LGPLv3 or GPLv2",
     "web": "https://github.com/cowboy-coders/nim-gmp"
+  },
+  {
+    "name": "ludens",
+    "url": "git://github.com/rnentjes/nim-ludens",
+    "method": "git",
+    "tags": ["library", "game", "opengl", "sfml"],
+    "description": "Little game library using opengl and sfml",
+    "license": "MIT",
+    "web": "https://github.com/rnentjes/nim-ludens"
   }
 ]
 
