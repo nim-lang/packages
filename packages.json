@@ -1011,6 +1011,15 @@
     "description": "wrapper for the GNU multiple precision arithmetic library (GMP)",
     "license": "LGPLv3 or GPLv2",
     "web": "https://github.com/cowboy-coders/nim-gmp"
+  },
+  {
+    "name": "ffbookmarks",
+    "url": "git://github.com/achesak/nimrod-ff-bookmarks",
+    "method": "git",
+    "tags": ["firefox", "bookmarks", "library"],
+    "description": "Nim module for working with Firefox bookmarks",
+    "license": "MIT",
+    "web": "https://github.com/achesak/nimrod-ff-bookmarks"
   }
 ]
 
