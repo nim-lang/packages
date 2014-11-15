@@ -1020,6 +1020,15 @@
     "description": "Little game library using opengl and sfml",
     "license": "MIT",
     "web": "https://github.com/rnentjes/nim-ludens"
+  },
+  {
+    "name": "ffbookmarks",
+    "url": "git://github.com/achesak/nimrod-ff-bookmarks",
+    "method": "git",
+    "tags": ["firefox", "bookmarks", "library"],
+    "description": "Nim module for working with Firefox bookmarks",
+    "license": "MIT",
+    "web": "https://github.com/achesak/nimrod-ff-bookmarks"
   }
 ]
 
