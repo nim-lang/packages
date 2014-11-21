@@ -1029,6 +1029,15 @@
     "description": "Nim module for working with Firefox bookmarks",
     "license": "MIT",
     "web": "https://github.com/achesak/nimrod-ff-bookmarks"
+  },
+  {
+    "name": "moustachu",
+    "url": "https://github.com/fenekku/moustachu.git",
+    "method": "git",
+    "tags": ["web", "html", "template", "mustache"],
+    "description": "Mustache templating for Nimrod.",
+    "license": "MIT",
+    "web": "https://github.com/fenekku/moustachu"
   }
 ]
 
