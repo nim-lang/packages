@@ -211,42 +211,42 @@
   
   {
     "name": "babel",
-    "url": "git://github.com/nimrod-code/babel",
+    "url": "git://github.com/nim-lang/babel",
     "method": "git",
     "tags": ["app", "binary", "package", "manager"],
     "description": "Babel package manager",
     "license": "BSD",
-    "web": "https://github.com/nimrod-code/babel"
+    "web": "https://github.com/nim-lang/babel"
   },
 
   {
     "name": "aporia",
-    "url": "git://github.com/nimrod-code/Aporia",
+    "url": "git://github.com/nim-lang/Aporia",
     "method": "git",
     "tags": ["app", "binary", "ide", "gtk", "nimrod"],
     "description": "A Nimrod IDE.",
     "license": "GPLv2",
-    "web": "https://github.com/nimrod-code/Aporia"
+    "web": "https://github.com/nim-lang/Aporia"
   },
 
   {
     "name": "c2nim",
-    "url": "git://github.com/nimrod-code/c2nim",
+    "url": "git://github.com/nim-lang/c2nim",
     "method": "git",
     "tags": ["app", "binary", "tool", "header", "C", "nimrod"],
     "description": "c2nim is a tool to translate Ansi C code to Nimrod.",
     "license": "MIT",
-    "web": "https://github.com/nimrod-code/c2nim"
+    "web": "https://github.com/nim-lang/c2nim"
   },
 
   {
     "name": "pas2nim",
-    "url": "git://github.com/nimrod-code/pas2nim",
+    "url": "git://github.com/nim-lang/pas2nim",
     "method": "git",
     "tags": ["app", "binary", "tool", "Pascal", "nimrod"],
     "description": "pas2nim is a tool to translate Pascal code to Nimrod.",
     "license": "MIT",
-    "web": "https://github.com/nimrod-code/pas2nim"
+    "web": "https://github.com/nim-lang/pas2nim"
   },
   
   {
@@ -319,72 +319,72 @@
   
   {
     "name": "gtk2",
-    "url": "git://github.com/nimrod-code/gtk2",
+    "url": "git://github.com/nim-lang/gtk2",
     "method": "git",
     "tags": ["wrapper", "gui", "gtk"],
     "description": "Wrapper for gtk2, a feature rich toolkit for creating graphical user interfaces",
     "license": "MIT",
-    "web": "https://github.com/nimrod-code/gtk2"
+    "web": "https://github.com/nim-lang/gtk2"
   },
   
   {
     "name": "cairo",
-    "url": "git://github.com/nimrod-code/cairo",
+    "url": "git://github.com/nim-lang/cairo",
     "method": "git",
     "tags": ["wrapper"],
     "description": "Wrapper for cairo, a vector graphics library with display and print output",
     "license": "MIT",
-    "web": "https://github.com/nimrod-code/cairo"
+    "web": "https://github.com/nim-lang/cairo"
   },
   
   {
     "name": "x11",
-    "url": "git://github.com/nimrod-code/x11",
+    "url": "git://github.com/nim-lang/x11",
     "method": "git",
     "tags": ["wrapper"],
     "description": "Wrapper for X11",
     "license": "MIT",
-    "web": "https://github.com/nimrod-code/x11"
+    "web": "https://github.com/nim-lang/x11"
   },
   
   {
     "name": "opengl",
-    "url": "git://github.com/nimrod-code/opengl",
+    "url": "git://github.com/nim-lang/opengl",
     "method": "git",
     "tags": ["wrapper"],
     "description": "High-level and low-level wrapper for OpenGL",
     "license": "MIT",
-    "web": "https://github.com/nimrod-code/opengl"
+    "web": "https://github.com/nim-lang/opengl"
   },
   
   {
     "name": "lua",
-    "url": "git://github.com/nimrod-code/lua",
+    "url": "git://github.com/nim-lang/lua",
     "method": "git",
     "tags": ["wrapper"],
     "description": "Wrapper to interface with the Lua interpreter",
     "license": "MIT",
-    "web": "https://github.com/nimrod-code/lua"
+    "web": "https://github.com/nim-lang/lua"
   },
   
   {
     "name": "tcl",
-    "url": "git://github.com/nimrod-code/tcl",
+    "url": "git://github.com/nim-lang/tcl",
     "method": "git",
     "tags": ["wrapper"],
     "description": "Wrapper for the TCL programming language",
     "license": "MIT",
-    "web": "https://github.com/nimrod-code/tcl"
+    "web": "https://github.com/nim-lang/tcl"
   },
   
   {
     "name": "python",
-    "url": "git://github.com/nimrod-code/python",
+    "url": "git://github.com/nim-lang/python",
     "method": "git",
     "tags": ["wrapper"],
     "description": "Wrapper to interface with Python interpreter",
     "license": "MIT",
-    "web": "https://github.com/nimrod-code/python"
+    "web": "https://github.com/nim-lang/python"
   },
   
   {
@@ -563,12 +563,12 @@
   
   {
     "name":"sdl2",
-    "url":"git://github.com/nimrod-code/sdl2",
+    "url":"git://github.com/nim-lang/sdl2",
     "method":"git",
     "tags":["wrapper","media","audio","video"],
     "description":"Wrapper for SDL 2.x",
     "license":"MIT",
-    "web":"https://github.com/nimrod-code/sdl2"
+    "web":"https://github.com/nim-lang/sdl2"
   },
   
   {
@@ -600,12 +600,12 @@
   },
   {
     "name": "opencl",
-    "url": "git://github.com/nimrod-code/opencl",
+    "url": "git://github.com/nim-lang/opencl",
     "method": "git",
     "tags": ["library"],
     "description": "Low-level wrapper for OpenCL",
     "license": "MIT",
-    "web": "https://github.com/nimrod-code/opencl"
+    "web": "https://github.com/nim-lang/opencl"
   },
   {
     "name": "DevIL",
@@ -654,12 +654,12 @@
   },
   {
     "name":"mongo",
-    "url":"git://github.com/nimrod-code/mongo",
+    "url":"git://github.com/nim-lang/mongo",
     "method":"git",
     "tags":["library","wrapper","database"],
     "description":"Bindings and a high-level interface for MongoDB",
     "license":"MIT",
-    "web":"https://github.com/nimrod-code/mongo"
+    "web":"https://github.com/nim-lang/mongo"
   },
   {
    "name":"allegro5",
@@ -915,12 +915,12 @@
   },
   {
     "name": "irc",
-    "url": "git://github.com/nimrod-code/irc",
+    "url": "git://github.com/nim-lang/irc",
     "method": "git",
     "tags": ["library", "irc", "network"],
     "description": "Implements a simple IRC client.",
     "license": "MIT",
-    "web": "https://github.com/nimrod-code/irc"
+    "web": "https://github.com/nim-lang/irc"
   },
   {
     "name": "random",
@@ -933,12 +933,12 @@
   },
   {
     "name": "zmq",
-    "url": "git://github.com/nimrod-code/nim-zmq",
+    "url": "git://github.com/nim-lang/nim-zmq",
     "method": "git",
     "tags": ["library", "wrapper", "zeromq", "messaging", "queue"],
     "description": "ZeroMQ 4 wrapper",
     "license": "MIT",
-    "web": "https://github.com/nimrod-code/nim-zmq"
+    "web": "https://github.com/nim-lang/nim-zmq"
   },
   {
     "name": "uuid",
