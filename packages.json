@@ -1038,6 +1038,15 @@
     "description": "Mustache templating for Nimrod.",
     "license": "MIT",
     "web": "https://github.com/fenekku/moustachu"
+  },
+  {
+    "name": "easy-bcrypt",
+    "url": "https://github.com/flaviut/easy-bcrypt.git",
+    "method": "git",
+    "tags": ["hash", "crypto", "password", "bcrypt"],
+    "description": "simple wrapper providing a convenient interface for the bcrypt password hashing algorithm",
+    "license": "CC0",
+    "web": "https://github.com/flaviut/easy-bcrypt/blob/master/easy-bcrypt.nimble"
   }
 ]
 
