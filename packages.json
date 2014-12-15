@@ -1047,6 +1047,15 @@
     "description": "simple wrapper providing a convenient interface for the bcrypt password hashing algorithm",
     "license": "CC0",
     "web": "https://github.com/flaviut/easy-bcrypt/blob/master/easy-bcrypt.nimble"
+  },
+  {
+    "name": "nim-libclang",
+    "url": "https://github.com/cowboy-coders/nim-libclang.git",
+    "method": "git",
+    "tags": ["wrapper", "bindings", "clang"],
+    "description": "wrapper for libclang (the C-interface of the clang LLVM frontend)",
+    "license": "MIT",
+    "web": "https://github.com/cowboy-coders/nim-libclang"
   }
 ]
 
