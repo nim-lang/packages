@@ -44,7 +44,7 @@
     "url": "git://github.com/olahol/nimrod-murmur/",
     "method": "git",
     "tags": ["hash", "murmur"],
-    "description": "MurmurHash in pur Nimrod.",
+    "description": "MurmurHash in pure Nimrod.",
     "license": "MIT",
     "web": "https://github.com/olahol/nimrod-murmur"
   },
