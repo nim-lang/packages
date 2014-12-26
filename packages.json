@@ -210,13 +210,13 @@
   },
   
   {
-    "name": "babel",
-    "url": "git://github.com/nim-lang/babel",
+    "name": "nimble",
+    "url": "git://github.com/nim-lang/nimble",
     "method": "git",
     "tags": ["app", "binary", "package", "manager"],
-    "description": "Babel package manager",
+    "description": "Nimble package manager",
     "license": "BSD",
-    "web": "https://github.com/nim-lang/babel"
+    "web": "https://github.com/nim-lang/nimble"
   },
 
   {
