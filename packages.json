@@ -1056,6 +1056,15 @@
     "description": "wrapper for libclang (the C-interface of the clang LLVM frontend)",
     "license": "MIT",
     "web": "https://github.com/cowboy-coders/nim-libclang"
+  },
+  {
+    "name": "NimQml",
+    "url": "git://github.com/filcuc/NimQml",
+    "method": "git",
+    "tags": ["Qt", "Qml", "UI", "GUI"],
+    "description": "Qt Qml bindings",
+    "license": "GPLv3",
+    "web": "https://github.com/filcuc/nimqml"
   }
 ]
 
