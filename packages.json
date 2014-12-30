@@ -1068,7 +1068,7 @@
   },
   {
     "name": "XPLM-Nim",
-    "url": "git@github.com:jpoirier/XPLM-Nim.git",
+    "url": "git://github.com/jpoirier/XPLM-Nim",
     "method": "git",
     "tags": ["X-Plane", "XPLM", "Plugin", "SDK"],
     "description": "X-Plane XPLM SDK wrapper",
