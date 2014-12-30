@@ -88,7 +88,7 @@
     "license": "MIT",
     "web": "https://github.com/fowlmouth/nimrod-sfml"
   },
-  
+
   {
     "name": "enet",
     "url": "git://github.com/fowlmouth/nimrod-enet/",
@@ -98,7 +98,7 @@
     "license": "MIT",
     "web": "https://github.com/fowlmouth/nimrod-enet"
   },
-  
+
   {
     "name": "nim-locale",
     "url": "git://github.com/Amrykid/nim-locale/",
@@ -108,7 +108,7 @@
     "license": "MIT",
     "web": "https://github.com/Amrykid/nim-locale"
   },
-  
+
   {
     "name": "fowltek",
     "url": "git://github.com/fowlmouth/nimlibs/",
@@ -118,7 +118,7 @@
     "license": "MIT",
     "web": "https://github.com/fowlmouth/nimlibs"
   },
-  
+
   {
     "name": "nake",
     "url": "git://github.com/fowlmouth/nake/",
@@ -138,7 +138,7 @@
     "license": "MIT",
     "web": "https://github.com/rafaelvasco/nimrod-glfw"
   },
-  
+
   {
     "name": "chipmunk",
     "url": "git://github.com/fowlmouth/nimrod-chipmunk/",
@@ -148,7 +148,7 @@
     "license": "MIT",
     "web": "https://github.com/fowlmouth/nimrod-chipmunk"
   },
-  
+
   {
     "name": "nim-glfw",
     "url": "git://github.com/EXetoC/nim-glfw/",
@@ -158,7 +158,7 @@
     "license": "MIT",
     "web": "https://github.com/EXetoC/nim-glfw"
   },
-  
+
   {
     "name": "nim-ao",
     "url": "git://github.com/EXetoC/nim-ao/",
@@ -168,7 +168,7 @@
     "license": "MIT",
     "web": "https://github.com/EXetoC/nim-ao"
   },
-  
+
   {
     "name": "termbox",
     "url": "git://github.com/fowlmouth/nim-termbox",
@@ -178,7 +178,7 @@
     "license": "MIT",
     "web": "https://github.com/fowlmouth/nim-termbox"
   },
-  
+
   {
     "name": "linagl",
     "url": "https://bitbucket.org/BitPuffin/linagl",
@@ -188,7 +188,7 @@
     "license": "CC0",
     "web": "https://bitbucket.org/BitPuffin/linagl"
   },
-  
+
   {
     "name": "kwin",
     "url": "git://github.com/reactormonk/nim-kwin",
@@ -198,7 +198,7 @@
     "license": "MIT",
     "web": "https://github.com/reactormonk/nim-kwin"
   },
-  
+
   {
     "name": "opencv",
     "url": "git://github.com/dom96/nim-opencv",
@@ -208,7 +208,7 @@
     "license": "MIT",
     "web": "https://github.com/dom96/nim-opencv"
   },
-  
+
   {
     "name": "nimble",
     "url": "git://github.com/nim-lang/nimble",
@@ -248,7 +248,7 @@
     "license": "MIT",
     "web": "https://github.com/nim-lang/pas2nim"
   },
-  
+
   {
     "name": "ipsumgenera",
     "url": "git://github.com/dom96/ipsumgenera",
@@ -265,7 +265,7 @@
     "tags": ["import", "C++", "library", "wrap"],
     "description": "Easy way to 'Mock' C++ interface",
     "license": "MIT",
-    "web": "https://github.com/onionhammer/clibpp"	
+    "web": "https://github.com/onionhammer/clibpp"
   },
   {
     "name": "pastebin",
@@ -276,7 +276,7 @@
     "license": "MIT",
     "web": "https://github.com/achesak/nimrod-pastebin"
   },
-  
+
   {
     "name": "yahoo-weather",
     "url": "git://github.com/achesak/nimrod-yahoo-weather",
@@ -286,7 +286,7 @@
     "license": "MIT",
     "web": "https://github.com/achesak/nimrod-yahoo-weather"
   },
-  
+
   {
     "name": "noaa",
     "url": "git://github.com/achesak/nimrod-noaa",
@@ -296,7 +296,7 @@
     "license": "MIT",
     "web": "https://github.com/achesak/nimrod-noaa"
   },
-  
+
   {
     "name": "rss",
     "url": "git://github.com/achesak/nimrod-rss",
@@ -306,7 +306,7 @@
     "license": "MIT",
     "web": "https://github.com/achesak/nimrod-rss"
   },
-  
+
   {
     "name": "extmath",
     "url": "git://github.com/achesak/extmath.nim",
@@ -316,7 +316,7 @@
     "license": "MIT",
     "web": "https://github.com/achesak/extmath.nim"
   },
-  
+
   {
     "name": "gtk2",
     "url": "git://github.com/nim-lang/gtk2",
@@ -326,7 +326,7 @@
     "license": "MIT",
     "web": "https://github.com/nim-lang/gtk2"
   },
-  
+
   {
     "name": "cairo",
     "url": "git://github.com/nim-lang/cairo",
@@ -336,7 +336,7 @@
     "license": "MIT",
     "web": "https://github.com/nim-lang/cairo"
   },
-  
+
   {
     "name": "x11",
     "url": "git://github.com/nim-lang/x11",
@@ -346,7 +346,7 @@
     "license": "MIT",
     "web": "https://github.com/nim-lang/x11"
   },
-  
+
   {
     "name": "opengl",
     "url": "git://github.com/nim-lang/opengl",
@@ -356,7 +356,7 @@
     "license": "MIT",
     "web": "https://github.com/nim-lang/opengl"
   },
-  
+
   {
     "name": "lua",
     "url": "git://github.com/nim-lang/lua",
@@ -366,7 +366,7 @@
     "license": "MIT",
     "web": "https://github.com/nim-lang/lua"
   },
-  
+
   {
     "name": "tcl",
     "url": "git://github.com/nim-lang/tcl",
@@ -376,7 +376,7 @@
     "license": "MIT",
     "web": "https://github.com/nim-lang/tcl"
   },
-  
+
   {
     "name": "python",
     "url": "git://github.com/nim-lang/python",
@@ -386,7 +386,7 @@
     "license": "MIT",
     "web": "https://github.com/nim-lang/python"
   },
-  
+
   {
     "name": "NimBorg",
     "url": "git://github.com/micklat/NimBorg",
@@ -425,7 +425,7 @@
     "license": "MIT",
 	"web": "https://github.com/gradha/dropbox_filename_sanitizer/"
   },
-  
+
   {
     "name": "csv",
     "url": "git://github.com/achesak/nimrod-csv",
@@ -435,7 +435,7 @@
     "license": "MIT",
 	"web": "https://github.com/achesak/nimrod-csv"
   },
-  
+
   {
     "name": "geonames",
     "url": "git://github.com/achesak/nimrod-geonames",
@@ -445,7 +445,7 @@
     "license": "MIT",
 	"web": "https://github.com/achesak/nimrod-geonames"
   },
-  
+
   {
     "name": "gravatar",
     "url": "git://github.com/achesak/nimrod-gravatar",
@@ -455,7 +455,7 @@
     "license": "MIT",
 	"web": "https://github.com/achesak/nimrod-gravatar"
   },
-  
+
   {
     "name": "coverartarchive",
     "url": "git://github.com/achesak/nimrod-cover-art-archive",
@@ -465,7 +465,7 @@
     "license": "MIT",
 	"web": "http://github.com/achesak/nimrod-cover-art-archive"
   },
-  
+
   {
     "name": "nim-ogg",
     "url": "https://bitbucket.org/BitPuffin/nim-ogg",
@@ -474,7 +474,7 @@
     "description": "Binding to libogg",
     "license": "CC0"
   },
-  
+
   {
     "name": "nim-vorbis",
     "url": "https://bitbucket.org/BitPuffin/nim-vorbis",
@@ -492,7 +492,7 @@
     "description": "Binding to portaudio",
     "license": "CC0"
   },
-  
+
   {
     "name": "commandeer",
     "url": "git://github.com/fenekku/commandeer",
@@ -510,7 +510,7 @@
     "description": "Binding and utilities for scrypt",
     "license": "CC0"
   },
-  
+
   {
     "name": "bloom",
     "url": "git://github.com/boydgreenfield/nimrod-bloom/",
@@ -540,7 +540,7 @@
     "license": "MIT",
     "web": "https://github.com/gradha/awesome_rmdir/"
   },
-  
+
   {
     "name": "nimalpm",
     "url": "git://github.com/barcharcraz/nimalpm/",
@@ -560,7 +560,7 @@
     "license": "libpng",
     "web": "https://github.com/barcharcraz/nimlibpng"
   },
-  
+
   {
     "name":"sdl2",
     "url":"git://github.com/nim-lang/sdl2",
@@ -570,7 +570,7 @@
     "license":"MIT",
     "web":"https://github.com/nim-lang/sdl2"
   },
-  
+
   {
     "name":"assimp",
     "url":"git://github.com/barcharcraz/nim-assimp",
@@ -1065,6 +1065,15 @@
     "description": "Qt Qml bindings",
     "license": "GPLv3",
     "web": "https://github.com/filcuc/nimqml"
+  },
+  {
+    "name": "XPLM-Nim",
+    "url": "git://github.com/jpoirier/XPLM-Nim",
+    "method": "git",
+    "tags": ["X-Plane", "XPLM", "Plugin", "SDK"],
+    "description": "X-Plane XPLM SDK wrapper",
+    "license": "BSD",
+    "web": "https://github.com/jpoirier/XPLM-Nim"
   }
 ]
 
