@@ -1,8 +1,8 @@
-# Nimrod packages
+# Nim packages
 
 This is a central listing of all packages for
 [Nimble](https://github.com/nimrod-code/nimble), a package manager for the
-[Nimrod programming language](http://nimrod-lang.org).
+[Nim programming language](http://nim-lang.org).
 
 ## Adding your own package
 To add your own package, fork this repository, edit
