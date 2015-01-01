@@ -1,7 +1,7 @@
 # Nim packages
 
 This is a central listing of all packages for
-[Nimble](https://github.com/nimrod-code/nimble), a package manager for the
+[Nimble](https://github.com/nim-code/nimble), a package manager for the
 [Nim programming language](http://nim-lang.org).
 
 ## Adding your own package
