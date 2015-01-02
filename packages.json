@@ -1074,6 +1074,15 @@
     "description": "X-Plane XPLM SDK wrapper",
     "license": "BSD",
     "web": "https://github.com/jpoirier/XPLM-Nim"
+  },
+  {
+    "name": "fractions",
+    "url": "git://github.com/adelq/nim-fractions",
+    "method": "git",
+    "tags": ["library", "fractions", "rationals", "math"],
+    "description": "Rational number arithmetic for Nim",
+    "license": "MIT",
+    "web": "https://github.com/adelq/nim-fractions"
   }
 ]
 
