@@ -269,42 +269,42 @@
   },
   {
     "name": "pastebin",
-    "url": "git://github.com/achesak/nimrod-pastebin",
+    "url": "git://github.com/achesak/nim-pastebin",
     "method": "git",
     "tags": ["library", "wrapper", "pastebin"],
     "description": "Pastebin API wrapper",
     "license": "MIT",
-    "web": "https://github.com/achesak/nimrod-pastebin"
+    "web": "https://github.com/achesak/nim-pastebin"
   },
 
   {
-    "name": "yahoo-weather",
-    "url": "git://github.com/achesak/nimrod-yahoo-weather",
+    "name": "yahooweather",
+    "url": "git://github.com/achesak/nim-yahooweather",
     "method": "git",
     "tags": ["library", "wrapper", "weather"],
     "description": "Yahoo! Weather API wrapper",
     "license": "MIT",
-    "web": "https://github.com/achesak/nimrod-yahoo-weather"
+    "web": "https://github.com/achesak/nim-yahooweather"
   },
 
   {
     "name": "noaa",
-    "url": "git://github.com/achesak/nimrod-noaa",
+    "url": "git://github.com/achesak/nim-noaa",
     "method": "git",
     "tags": ["library", "wrapper", "weather"],
     "description": "NOAA weather API wrapper",
     "license": "MIT",
-    "web": "https://github.com/achesak/nimrod-noaa"
+    "web": "https://github.com/achesak/nim-noaa"
   },
 
   {
     "name": "rss",
-    "url": "git://github.com/achesak/nimrod-rss",
+    "url": "git://github.com/achesak/nim-rss",
     "method": "git",
     "tags": ["library", "rss", "xml", "syndication"],
     "description": "RSS library",
     "license": "MIT",
-    "web": "https://github.com/achesak/nimrod-rss"
+    "web": "https://github.com/achesak/nim-rss"
   },
 
   {
@@ -312,7 +312,7 @@
     "url": "git://github.com/achesak/extmath.nim",
     "method": "git",
     "tags": ["library", "math", "trigonometry"],
-    "description": "Nimrod math library",
+    "description": "Nim math library",
     "license": "MIT",
     "web": "https://github.com/achesak/extmath.nim"
   },
@@ -428,42 +428,42 @@
 
   {
     "name": "csv",
-    "url": "git://github.com/achesak/nimrod-csv",
+    "url": "git://github.com/achesak/nim-csv",
     "method": "git",
     "tags": ["csv", "parsing", "stringify", "library"],
     "description": "Library for parsing, stringifying, reading, and writing CSV (comma separated value) files",
     "license": "MIT",
-	"web": "https://github.com/achesak/nimrod-csv"
+	"web": "https://github.com/achesak/nim-csv"
   },
 
   {
     "name": "geonames",
-    "url": "git://github.com/achesak/nimrod-geonames",
+    "url": "git://github.com/achesak/nim-geonames",
     "method": "git",
     "tags": ["library", "wrapper", "geography"],
     "description": "GeoNames API wrapper",
     "license": "MIT",
-	"web": "https://github.com/achesak/nimrod-geonames"
+	"web": "https://github.com/achesak/nim-geonames"
   },
 
   {
     "name": "gravatar",
-    "url": "git://github.com/achesak/nimrod-gravatar",
+    "url": "git://github.com/achesak/nim-gravatar",
     "method": "git",
     "tags": ["library", "wrapper", "gravatar"],
     "description": "Gravatar API wrapper",
     "license": "MIT",
-	"web": "https://github.com/achesak/nimrod-gravatar"
+	"web": "https://github.com/achesak/nim-gravatar"
   },
 
   {
     "name": "coverartarchive",
-    "url": "git://github.com/achesak/nimrod-cover-art-archive",
+    "url": "git://github.com/achesak/nim-coverartarchive",
     "method": "git",
     "tags": ["library", "wrapper", "cover art", "music", "metadata"],
     "description": "Cover Art Archive API wrapper",
     "license": "MIT",
-	"web": "http://github.com/achesak/nimrod-cover-art-archive"
+	"web": "http://github.com/achesak/nim-coverartarchive"
   },
 
   {
@@ -843,21 +843,21 @@
   },
   {
     "name": "imghdr",
-    "url": "git://github.com/achesak/nimrod-imghdr",
+    "url": "git://github.com/achesak/nim-imghdr",
     "method": "git",
     "tags": ["image", "formats", "files"],
     "description": "Library for detecting the format of an image",
     "license": "MIT",
-    "web": "https://github.com/achesak/nimrod-imghdr"
+    "web": "https://github.com/achesak/nim-imghdr"
   },
   {
     "name": "csv2json",
-    "url": "git://github.com/achesak/nimrod-csv2json",
+    "url": "git://github.com/achesak/nim-csv2json",
     "method": "git",
     "tags": ["csv", "json"],
     "description": "Convert CSV files to JSON",
     "license": "MIT",
-    "web": "https://github.com/achesak/nimrod-csv2json"
+    "web": "https://github.com/achesak/nim-csv2json"
   },
   {
     "name": "vecmath",
@@ -888,30 +888,30 @@
   },
   {
     "name": "colorsys",
-    "url": "git://github.com/achesak/nimrod-colorsys",
+    "url": "git://github.com/achesak/nim-colorsys",
     "method": "git",
     "tags": ["library", "colors", "rgb", "yiq", "hls", "hsv"],
     "description": "Convert between RGB, YIQ, HLS, and HSV color systems.",
     "license": "MIT",
-    "web": "https://github.com/achesak/nimrod-colorsys"
+    "web": "https://github.com/achesak/nim-colorsys"
   },
   {
     "name": "pythonfile",
-    "url": "git://github.com/achesak/nimrod-pythonfile",
+    "url": "git://github.com/achesak/nim-pythonfile",
     "method": "git",
     "tags": ["library", "python", "files", "file"],
     "description": "Wrapper of the file procedures to provide an interface as similar as possible to that of Python",
     "license": "MIT",
-    "web": "https://github.com/achesak/nimrod-pythonfile"
+    "web": "https://github.com/achesak/nim-pythonfile"
   },
   {
     "name": "sndhdr",
-    "url": "git://github.com/achesak/nimrod-sndhdr",
+    "url": "git://github.com/achesak/nim-sndhdr",
     "method": "git",
     "tags": ["library", "formats", "files", "sound", "audio"],
     "description": "Library for detecting the format of a sound file",
     "license": "MIT",
-    "web": "https://github.com/achesak/nimrod-sndhdr"
+    "web": "https://github.com/achesak/nim-sndhdr"
   },
   {
     "name": "irc",
@@ -951,30 +951,30 @@
   },
   {
     "name": "robotparser",
-    "url": "git://github.com/achesak/nimrod-robotparser",
+    "url": "git://github.com/achesak/nim-robotparser",
     "method": "git",
     "tags": ["library", "useragent", "robots", "robot.txt"],
     "description": "Determine if a useragent can access a URL using robots.txt",
     "license": "MIT",
-    "web": "https://github.com/achesak/nimrod-robotparser"
+    "web": "https://github.com/achesak/nim-robotparser"
   },
   {
     "name": "epub",
-    "url": "git://github.com/achesak/nimrod-epub",
+    "url": "git://github.com/achesak/nim-epub",
     "method": "git",
     "tags": ["library", "epub", "e-book"],
     "description": "Module for working with EPUB e-book files",
     "license": "MIT",
-    "web": "https://github.com/achesak/nimrod-epub"
+    "web": "https://github.com/achesak/nim-epub"
   },
   {
     "name": "hashids",
-    "url": "git://github.com/achesak/nimrod-hashids",
+    "url": "git://github.com/achesak/nim-hashids",
     "method": "git",
     "tags": ["library", "hashids"],
-    "description": "Nimrod implementation of Hashids",
+    "description": "Nim implementation of Hashids",
     "license": "MIT",
-    "web": "https://github.com/achesak/nimrod-hashids"
+    "web": "https://github.com/achesak/nim-hashids"
   },
   {
     "name": "openssl_evp",
@@ -1023,12 +1023,12 @@
   },
   {
     "name": "ffbookmarks",
-    "url": "git://github.com/achesak/nimrod-ff-bookmarks",
+    "url": "git://github.com/achesak/nim-ffbookmarks",
     "method": "git",
     "tags": ["firefox", "bookmarks", "library"],
     "description": "Nim module for working with Firefox bookmarks",
     "license": "MIT",
-    "web": "https://github.com/achesak/nimrod-ff-bookmarks"
+    "web": "https://github.com/achesak/nim-ffbookmarks"
   },
   {
     "name": "moustachu",
