@@ -55,7 +55,7 @@
     "method": "git",
     "tags": ["roguelike", "game", "library", "engine", "sdl", "opengl", "glsl"],
     "description": "Wrapper of the libtcod library for the Nimrod language.",
-    "license": "MIT",
+    "license": "zlib",
     "web": "https://github.com/Vladar4/libtcod-nim"
   },
 
