@@ -843,7 +843,7 @@
   },
   {
     "name": "imghdr",
-    "url": "git://gitub.com/achesak/nimrod-imghdr",
+    "url": "git://github.com/achesak/nimrod-imghdr",
     "method": "git",
     "tags": ["image", "formats", "files"],
     "description": "Library for detecting the format of an image",
@@ -992,7 +992,7 @@
     "tags": ["library", "functional", "monad", "functor"],
     "description": "basic monadic data types for Nim",
     "license": "BSD3",
-    "web": "https://gitub.com/superfunc/monad"
+    "web": "https://github.com/superfunc/monad"
   },
   {
     "name": "eternity",
