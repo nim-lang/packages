@@ -1074,6 +1074,15 @@
     "description": "X-Plane XPLM SDK wrapper",
     "license": "BSD",
     "web": "https://github.com/jpoirier/XPLM-Nim"
+  },
+  {
+    "name": "csfml",
+    "url": "git://github.com/BlaXpirit/nim-csfml",
+    "method": "git",
+    "tags": ["sfml", "binding", "game", "media", "library", "opengl"],
+    "description": "Bindings for Simple and Fast Multimedia Library (through CSFML)",
+    "license": "zlib",
+    "web": "https://github.com/BlaXpirit/nim-csfml"
   }
 ]
 
