@@ -1083,6 +1083,15 @@
     "description": "Bindings for Simple and Fast Multimedia Library (through CSFML)",
     "license": "zlib",
     "web": "https://github.com/BlaXpirit/nim-csfml"
+  },
+  {
+    "name": "optional_t",
+    "url": "git://github.com/flaviut/optional_t",
+    "method": "git",
+    "tags": ["option", "functional"],
+    "description": "Basic Option[T] library",
+    "license": "MIT",
+    "web": "https://github.com/flaviut/optional_t"
   }
 ]
 
