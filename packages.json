@@ -1074,6 +1074,15 @@
     "description": "X-Plane XPLM SDK wrapper",
     "license": "BSD",
     "web": "https://github.com/jpoirier/XPLM-Nim"
+  },
+  {
+    "name": "nimrtlsdr",
+    "url": "git://github.com/jpoirier/nimrtlsdr",
+    "method": "git",
+    "tags": ["rtl-sdr", "wrapper", "bindings", "rtlsdr"],
+    "description": "A Nim wrapper for librtlsdr",
+    "license": "BSD",
+    "web": "https://github.com/jpoirier/nimrtlsdr"
   }
 ]
 
