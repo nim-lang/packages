@@ -1101,6 +1101,24 @@
     "description": "A Nim wrapper for librtlsdr",
     "license": "BSD",
     "web": "https://github.com/jpoirier/nimrtlsdr"
+  },
+  {
+    "name": "lapp",
+    "url": "https://gitlab.3dicc.com/gokr/lapp.git",
+    "method": "git",
+    "tags": ["args", "cmd", "opt", "parse", "parsing"],
+    "description": "Opt parser using synopsis as specification, ported from Lua.",
+    "license": "MIT",
+    "web": "https://gitlab.3dicc.com/gokr/lapp"
+  },
+  {
+    "name": "blimp",
+    "url": "https://gitlab.3dicc.com/gokr/blimp.git",
+    "method": "git",
+    "tags": ["app", "binary", "utility", "git", "git-fat"],
+    "description": "Utility that helps with big files in git, very similar to git-fat, s3annnex etc.",
+    "license": "MIT",
+    "web": "https://gitlab.3dicc.com/gokr/blimp"
   }
 ]
 
