@@ -1119,6 +1119,15 @@
     "description": "Utility that helps with big files in git, very similar to git-fat, s3annnex etc.",
     "license": "MIT",
     "web": "https://gitlab.3dicc.com/gokr/blimp"
+  },
+  {
+    "name": "compiler",
+    "url": "https://github.com/Araq/Nim.git",
+    "method": "git",
+    "tags": ["library", "nim"],
+    "description": "Compiler package providing the compiler sources as a library.",
+    "license": "MIT",
+    "web": "https://github.com/Araq/Nim"
   }
 ]
 
