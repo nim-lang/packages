@@ -1127,7 +1127,7 @@
     "tags": ["library", "nim"],
     "description": "Library for parsing TOML files.",
     "license": "MIT",
-    "web": "https://github.com/ziotom78/parsetoml.git"
+    "web": "https://github.com/ziotom78/parsetoml"
   },
   {
     "name": "compiler",
