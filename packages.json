@@ -1128,6 +1128,15 @@
     "description": "Compiler package providing the compiler sources as a library.",
     "license": "MIT",
     "web": "https://github.com/Araq/Nim"
+  },
+  {
+    "name": "nre",
+    "url": "https://github.com/flaviut/nre.git",
+    "method": "git",
+    "tags": ["library", "pcre", "regex"],
+    "description": "A better regular expression library",
+    "license": "MIT",
+    "web": "https://github.com/flaviut/nre"
   }
 ]
 
