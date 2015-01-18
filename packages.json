@@ -1121,6 +1121,15 @@
     "web": "https://gitlab.3dicc.com/gokr/blimp"
   },
   {
+    "name": "parsetoml",
+    "url": "https://github.com/ziotom78/parsetoml.git",
+    "method": "git",
+    "tags": ["library", "nim"],
+    "description": "Library for parsing TOML files.",
+    "license": "MIT",
+    "web": "https://github.com/ziotom78/parsetoml"
+  },
+  {
     "name": "compiler",
     "url": "https://github.com/Araq/Nim.git",
     "method": "git",
@@ -1130,4 +1139,3 @@
     "web": "https://github.com/Araq/Nim"
   }
 ]
-
