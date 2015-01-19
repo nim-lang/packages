@@ -924,12 +924,12 @@
   },
   {
     "name": "random",
-    "url": "git://github.com/BlaXpirit/nimrod-random",
+    "url": "git://github.com/BlaXpirit/nim-random",
     "method": "git",
     "tags": ["library", "algorithms", "random"],
     "description": "Pseudo-random number generation library inspired by Python",
     "license": "MIT",
-    "web": "https://github.com/BlaXpirit/nimrod-random"
+    "web": "https://github.com/BlaXpirit/nim-random"
   },
   {
     "name": "zmq",
@@ -1146,5 +1146,14 @@
     "description": "A better regular expression library",
     "license": "MIT",
     "web": "https://github.com/flaviut/nre"
+  },
+  {
+    "name": "docopt",
+    "url": "git://github.com/docopt/docopt.nim",
+    "method": "git",
+    "tags": ["commandline", "arguments", "parsing", "library"],
+    "description": "Command-line args parser based on Usage message",
+    "license": "MIT",
+    "web": "https://github.com/docopt/docopt.nim"
   }
 ]
