@@ -1155,5 +1155,14 @@
     "description": "Command-line args parser based on Usage message",
     "license": "MIT",
     "web": "https://github.com/docopt/docopt.nim"
+  },
+  {
+    "name": "bpg",
+    "url": "git://github.com/def-/nim-bpg.git",
+    "method": "git",
+    "tags": ["image", "library", "wrapper"],
+    "description": "BPG (Better Portable Graphics) for Nim",
+    "license": "MIT",
+    "web": "https://github.com/def-/nim-bpg"
   }
 ]
