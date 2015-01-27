@@ -1067,15 +1067,6 @@
     "web": "https://github.com/filcuc/nimqml"
   },
   {
-    "name": "XPLM-Nim",
-    "url": "git://github.com/jpoirier/XPLM-Nim",
-    "method": "git",
-    "tags": ["X-Plane", "XPLM", "Plugin", "SDK"],
-    "description": "X-Plane XPLM SDK wrapper",
-    "license": "BSD",
-    "web": "https://github.com/jpoirier/XPLM-Nim"
-  },
-  {
     "name": "csfml",
     "url": "git://github.com/BlaXpirit/nim-csfml",
     "method": "git",
@@ -1092,15 +1083,6 @@
     "description": "Basic Option[T] library",
     "license": "MIT",
     "web": "https://github.com/flaviut/optional_t"
-  },
-  {
-    "name": "nimrtlsdr",
-    "url": "git://github.com/jpoirier/nimrtlsdr",
-    "method": "git",
-    "tags": ["rtl-sdr", "wrapper", "bindings", "rtlsdr"],
-    "description": "A Nim wrapper for librtlsdr",
-    "license": "BSD",
-    "web": "https://github.com/jpoirier/nimrtlsdr"
   },
   {
     "name": "lapp",
