@@ -1164,5 +1164,14 @@
     "description": "BPG (Better Portable Graphics) for Nim",
     "license": "MIT",
     "web": "https://github.com/def-/nim-bpg"
+  },
+  {
+    "name": "io-spacenav",
+    "url": "git://github.com/nimious/io-spacenav.git",
+    "method": "git",
+    "tags": ["binding", "3dx", "3dconnexion", "libspnav", "spacenav", "spacemouse", "spacepilot", "spacenavigator"],
+    "description": "Bindings for libspnav, the free 3Dconnexion device driver",
+    "license": "MIT",
+    "web": "https://github.com/nimious/io-spacenav"
   }
 ]
