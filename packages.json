@@ -1083,6 +1083,15 @@
     "description": "Bindings for Simple and Fast Multimedia Library (through CSFML)",
     "license": "zlib",
     "web": "https://github.com/BlaXpirit/nim-csfml"
+  },
+  {
+    "name": "io-spacenav",
+    "url": "git://github.com/nimious/io-spacenav.git",
+    "method": "git",
+    "tags": ["binding", "3dx", "3dconnexion", "libspnav", "spacenav", "spacemouse", "spacepilot", "spacenavigator"],
+    "description": "Bindings for libspnav, the free 3Dconnexion device driver",
+    "license": "MIT",
+    "web": "https://github.com/nimious/io-spacenav"
   }
 ]
 
