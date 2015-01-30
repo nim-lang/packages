@@ -399,12 +399,12 @@
 
   {
     "name": "ouroboros",
-    "url": "git://github.com/gradha/nimrod-ouroboros/",
+    "url": "git://github.com/gradha/nim-ouroboros/",
     "method": "git",
     "tags": ["library", "embedded data", "appended data", "alchemy"],
     "description": "API to read appended files from your own binary",
     "license": "MIT",
-    "web": "https://github.com/gradha/nimrod-ouroboros"
+    "web": "https://github.com/gradha/nim-ouroboros"
   },
 
   {
