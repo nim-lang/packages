@@ -1173,5 +1173,14 @@
     "description": "Bindings for libspnav, the free 3Dconnexion device driver",
     "license": "MIT",
     "web": "https://github.com/nimious/io-spacenav"
+  },
+  {
+    "name": "optionals",
+    "url": "https://github.com/MasonMcGill/packages.git",
+    "method": "git",
+    "tags": ["option", "optional", "maybe"],
+    "description": "Option types",
+    "license": "MIT",
+    "web": "http://www.vision.caltech.edu/~mmcgill/optionals.html"
   }
 ]
