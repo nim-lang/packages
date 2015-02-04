@@ -1176,7 +1176,7 @@
   },
   {
     "name": "optionals",
-    "url": "https://github.com/MasonMcGill/packages.git",
+    "url": "https://github.com/MasonMcGill/optionals.git",
     "method": "git",
     "tags": ["option", "optional", "maybe"],
     "description": "Option types",
