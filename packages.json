@@ -1178,9 +1178,18 @@
     "name": "optionals",
     "url": "https://github.com/MasonMcGill/optionals.git",
     "method": "git",
-    "tags": ["option", "optional", "maybe"],
+    "tags": ["library", "option", "optional", "maybe"],
     "description": "Option types",
     "license": "MIT",
     "web": "http://www.vision.caltech.edu/~mmcgill/optionals.html"
+  },
+  {
+    "name": "tuples",
+    "url": "https://github.com/MasonMcGill/tuples.git",
+    "method": "git",
+    "tags": ["library", "tuple", "metaprogramming"],
+    "description": "Tuple manipulation utilities",
+    "license": "MIT",
+    "web": "http://www.vision.caltech.edu/~mmcgill/tuples.html"
   }
 ]
