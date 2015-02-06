@@ -1191,5 +1191,14 @@
     "description": "Tuple manipulation utilities",
     "license": "MIT",
     "web": "http://www.vision.caltech.edu/~mmcgill/tuples.html"
+  },
+  {
+    "name": "brainfuck",
+    "url": "https://github.com/def-/brainfuck.git",
+    "method": "git",
+    "tags": ["library", "binary", "app", "interpreter", "compiler", "language"],
+    "description": "A brainfuck interpreter and compiler",
+    "license": "MIT",
+    "web": "https://github.com/def-/nim-brainfuck"
   }
 ]
