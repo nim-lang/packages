@@ -1139,6 +1139,7 @@
     "web": "https://github.com/Araq/Nim"
   },
   {
+<<<<<<< HEAD
     "name": "nre",
     "url": "https://github.com/flaviut/nre.git",
     "method": "git",
@@ -1209,5 +1210,23 @@
     "description": "A brainfuck interpreter and compiler",
     "license": "MIT",
     "web": "https://github.com/def-/nim-brainfuck"
+  },
+  {
+    "name": "nimsuggest",
+    "url": "https://github.com/nim-lang/nimsuggest.git",
+    "method": "git",
+    "tags": ["binary", "app", "suggest", "compiler", "autocomplete", "nim"],
+    "description": "Tool for providing auto completion data for Nim source code.",
+    "license": "MIT",
+    "web": "https://github.com/nim-lang/nimsuggest"
+  },
+  {
+    "name": "jwt",
+    "url": "https://github.com/ekarlso/nim-jwt.git",
+    "method": "git",
+    "tags": ["library", "crypto", "hash"],
+    "description": "JSON Web Tokens for Nim",
+    "license": "MIT",
+    "web": "https://github.com/ekarlso/nim-jwt"
   }
 ]
