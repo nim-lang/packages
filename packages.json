@@ -1227,5 +1227,14 @@
     "description": "JSON Web Tokens for Nim",
     "license": "MIT",
     "web": "https://github.com/ekarlso/nim-jwt"
+  },
+  {
+    "name": "pythonpathlib",
+    "url": "git://github.com/achesak/nim-pythonpathlib.git",
+    "method": "git",
+    "tags": ["path", "directory", "python", "library"],
+    "description": "Module for working with paths that is as similar as possible to Python's pathlib",
+    "license": "MIT",
+    "web": "https://github.com/achesak/nim-pythonpathlib"
   }
 ]
