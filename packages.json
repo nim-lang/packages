@@ -1236,5 +1236,14 @@
     "description": "Module for working with paths that is as similar as possible to Python's pathlib",
     "license": "MIT",
     "web": "https://github.com/achesak/nim-pythonpathlib"
+  },
+  {
+    "name": "nimrat",
+    "url": "git://github.com/apense/nimrat",
+    "method": "git",
+    "tags": ["library","math","numbers"],
+    "description": "Module for working with rational numbers (fractions)",
+    "license": "MIT",
+    "web": "https://github.com/apense/nimrat"
   }
 ]
