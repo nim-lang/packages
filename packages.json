@@ -1245,5 +1245,14 @@
     "description": "Module for working with rational numbers (fractions)",
     "license": "MIT",
     "web": "https://github.com/apense/nimrat"
+  },
+  {
+    "name": "io-isense",
+    "url": "git://github.com/nimious/io-isense.git",
+    "method": "git",
+    "tags": ["binding", "isense", "intersense", "inertiacube", "intertrax", "microtrax", "thales", "tracking", "sensor"],
+    "description": "Bindings for the InterSense SDK",
+    "license": "MIT",
+    "web": "https://github.com/nimious/io-isense"
   }
 ]
