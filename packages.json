@@ -1254,5 +1254,14 @@
     "description": "Bindings for the InterSense SDK",
     "license": "MIT",
     "web": "https://github.com/nimious/io-isense"
+  },
+  {
+    "name": "io-usb",
+    "url": "git://github.com/nimious/io-usb.git",
+    "method": "git",
+    "tags": ["binding", "usb", "libusb"],
+    "description": "Bindings for libusb, the cross-platform user library to access USB devices.",
+    "license": "MIT",
+    "web": "https://github.com/nimious/io-usb"
   }
 ]
