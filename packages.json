@@ -1263,5 +1263,14 @@
     "description": "Bindings for libusb, the cross-platform user library to access USB devices.",
     "license": "MIT",
     "web": "https://github.com/nimious/io-usb"
+  },
+  {
+    "name": "nimcfitsio",
+    "url": "https://github.com/ziotom78/nimcfitsio.git",
+    "method": "git",
+    "tags": ["library", "binding", "cfitsio", "fits", "io"],
+    "description": "Bindings for CFITSIO, a library to read/write FITSIO images and tables.",
+    "license": "MIT",
+    "web": "https://github.com/ziotom78/nimcfitsio"
   }
 ]
