@@ -522,16 +522,6 @@
   },
 
   {
-    "name": "objcbridge",
-    "url": "git://github.com/gradha/nimrod-objective-c-bridge/",
-    "method": "git",
-    "tags": ["objc", "objective-c", "bridge", "macros", "integration"],
-    "description": "Macros to interface with Objective-C.",
-    "license": "MIT",
-    "web": "https://github.com/gradha/nimrod-objective-c-bridge/"
-  },
-
-  {
     "name": "awesome_rmdir",
     "url": "git://github.com/gradha/awesome_rmdir/",
     "method": "git",
