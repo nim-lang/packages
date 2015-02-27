@@ -1268,8 +1268,17 @@
    "url":"git://github.com/fowlmouth/glossolalia",
    "method":"git",
    "tags":["parser","peg"],
-   "description":"Wrapper for Allegro version 5.X",
+   "description":"A DSL for quickly writing parsers",
    "license":"CC0",
    "web":"https://github.com/fowlmouth/glossolalia"
   },
+  {
+   "name":"entoody",
+   "url":"git://bitbucket.org/fowlmouth/entoody",
+   "method":"git",
+   "tags":["component","entity","composition"],
+   "description":"A component/entity system",
+   "license":"CC0",
+   "web":"https://bitbucket.org/fowlmouth/entoody"
+  }
 ]
