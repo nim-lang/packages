@@ -499,7 +499,8 @@
     "method": "git",
     "tags": ["library", "commandline", "arguments", "switches", "parsing", "options"],
     "description": "Provides a small command line parsing DSL (domain specific language)",
-    "license": "MIT"
+    "license": "MIT",
+    "web": "https://github.com/fenekku/commandeer"
   },
 
   {
