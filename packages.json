@@ -1262,5 +1262,23 @@
     "description": "Bindings for CFITSIO, a library to read/write FITSIO images and tables.",
     "license": "MIT",
     "web": "https://github.com/ziotom78/nimcfitsio"
+  },
+  {
+   "name":"glossolalia",
+   "url":"git://github.com/fowlmouth/glossolalia",
+   "method":"git",
+   "tags":["parser","peg"],
+   "description":"A DSL for quickly writing parsers",
+   "license":"CC0",
+   "web":"https://github.com/fowlmouth/glossolalia"
+  },
+  {
+   "name":"entoody",
+   "url":"git://bitbucket.org/fowlmouth/entoody",
+   "method":"git",
+   "tags":["component","entity","composition"],
+   "description":"A component/entity system",
+   "license":"CC0",
+   "web":"https://bitbucket.org/fowlmouth/entoody"
   }
 ]
