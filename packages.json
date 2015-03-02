@@ -1281,5 +1281,14 @@
    "description":"A component/entity system",
    "license":"CC0",
    "web":"https://bitbucket.org/fowlmouth/entoody"
+  },
+  {
+    "name": "msgpack",
+    "url": "https://github.com/akiradeveloper/msgpack-nim.git",
+    "method": "git",
+    "tags": ["msgpack", "library", "serialization"],
+    "description": "A MessagePack binding for Nim",
+    "license": "MIT",
+    "web": "https://github.com/akiradeveloper/msgpack-nim"
   }
 ]
