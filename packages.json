@@ -1049,8 +1049,8 @@
     "web": "https://github.com/cowboy-coders/nim-libclang"
   },
   {
-    "name": "NimQml",
-    "url": "git://github.com/filcuc/NimQml",
+    "name": "nimqml",
+    "url": "git://github.com/filcuc/nimqml",
     "method": "git",
     "tags": ["Qt", "Qml", "UI", "GUI"],
     "description": "Qt Qml bindings",
