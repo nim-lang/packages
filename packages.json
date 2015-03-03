@@ -1185,7 +1185,7 @@
   },
   {
     "name": "fuse",
-    "url": "https://github.com/akiradeveloper/nim-fuse",
+    "url": "https://github.com/akiradeveloper/nim-fuse.git",
     "method": "git",
     "tags": ["fuse", "library", "wrapper"],
     "description": "A FUSE binding for Nim",
