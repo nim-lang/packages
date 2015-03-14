@@ -1275,7 +1275,7 @@
   },
   {
    "name":"entoody",
-   "url":"git://bitbucket.org/fowlmouth/entoody",
+   "url":"https://bitbucket.org/fowlmouth/entoody",
    "method":"git",
    "tags":["component","entity","composition"],
    "description":"A component/entity system",
