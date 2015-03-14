@@ -1,5 +1,3 @@
-***Due to a mistake on my part (@flaviut), your branches may be out of date. Simply rebase on top of this repo to fix that. Sorry for any inconvenience.***
-
 # Nim packages
 
 This is a central listing of all packages for
