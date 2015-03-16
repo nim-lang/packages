@@ -1299,5 +1299,14 @@
     "description": "Modules providing information about the OS.",
     "license": "MIT",
     "web": "https://github.com/nim-lang/osinfo"
+  },
+  {
+    "name": "io-myo",
+    "url": "git://github.com/nimious/io-myo.git",
+    "method": "git",
+    "tags": ["binding", "myo", "thalmic", "armband", "gesture"],
+    "description": "Bindings for the Thalmic Labs Myo gesture control armband SDK.",
+    "license": "MIT",
+    "web": "https://github.com/nimious/io-myo"
   }
 ]
