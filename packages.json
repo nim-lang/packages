@@ -1317,5 +1317,14 @@
     "description": "Bindings for the Oculus VR SDK.",
     "license": "MIT",
     "web": "https://github.com/nimious/io-oculus"
+  },
+  {
+    "name": "closure_compiler",
+    "url": "git://github.com/yglukhov/closure_compiler.git",
+    "method": "git",
+    "tags": ["binding", "closure", "compiler", "javascript"],
+    "description": "Bindings for Closure Compiler web API.",
+    "license": "MIT",
+    "web": "https://github.com/yglukhov/closure_compiler"
   }
 ]
