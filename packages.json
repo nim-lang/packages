@@ -1326,5 +1326,14 @@
     "description": "Bindings for Closure Compiler web API.",
     "license": "MIT",
     "web": "https://github.com/yglukhov/closure_compiler"
+  },
+  {
+    "name": "io-serialport",
+    "url": "git://github.com/nimious/io-serialport.git",
+    "method": "git",
+    "tags": ["binding", "libserialport", "serial", "communication"],
+    "description": "Bindings for libserialport, the cross-platform serial communication library.",
+    "license": "MIT",
+    "web": "https://github.com/nimious/io-serialport"
   }
 ]
