@@ -1335,5 +1335,15 @@
     "description": "Bindings for libserialport, the cross-platform serial communication library.",
     "license": "MIT",
     "web": "https://github.com/nimious/io-serialport"
+  },
+  {
+    "name": "beanstalkd",
+    "url": "git://github.com/tormaroe/beanstalkd.nim.git",
+    "method": "git",
+    "tags": ["library", "queue", "messaging"],
+    "description": "A beanstalkd work queue client library.",
+    "license": "MIT",
+    "web": "https://github.com/tormaroe/beanstalkd.nim"
   }
+
 ]
