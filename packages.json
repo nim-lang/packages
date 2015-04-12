@@ -1331,7 +1331,7 @@
     "name": "beanstalkd",
     "url": "git@github.com:tormaroe/beanstalkd.nim.git",
     "method": "git",
-    "tags": ["queue", "messaging"],
+    "tags": ["library", "queue", "messaging"],
     "description": "A beanstalkd work queue client library.",
     "license": "MIT",
     "web": "https://github.com/tormaroe/beanstalkd.nim"
