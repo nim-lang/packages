@@ -1326,5 +1326,15 @@
     "description": "Bindings for Closure Compiler web API.",
     "license": "MIT",
     "web": "https://github.com/yglukhov/closure_compiler"
+  },
+  {
+    "name": "beanstalkd",
+    "url": "git@github.com:tormaroe/beanstalkd.nim.git",
+    "method": "git",
+    "tags": ["queue", "messaging"],
+    "description": "A beanstalkd work queue client library.",
+    "license": "MIT",
+    "web": "https://github.com/tormaroe/beanstalkd.nim"
   }
+
 ]
