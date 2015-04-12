@@ -1329,7 +1329,7 @@
   },
   {
     "name": "beanstalkd",
-    "url": "git@github.com:tormaroe/beanstalkd.nim.git",
+    "url": "git://github.com/tormaroe/beanstalkd.nim.git",
     "method": "git",
     "tags": ["library", "queue", "messaging"],
     "description": "A beanstalkd work queue client library.",
