@@ -1344,6 +1344,14 @@
     "description": "A beanstalkd work queue client library.",
     "license": "MIT",
     "web": "https://github.com/tormaroe/beanstalkd.nim"
+  },
+  {
+    "name": "wiki2text",
+    "url": "git://github.com/rspeer/wiki2text.git",
+    "method": "git",
+    "tags": ["nlp", "wiki", "xml", "text"],
+    "description": "Quickly extracts natural-language text from a MediaWiki XML file.",
+    "license": "MIT",
+    "web": "https://github.com/rspeer/wiki2text"
   }
-
 ]
