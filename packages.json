@@ -1353,5 +1353,14 @@
     "description": "Quickly extracts natural-language text from a MediaWiki XML file.",
     "license": "MIT",
     "web": "https://github.com/rspeer/wiki2text"
+  },
+  {
+    "name": "qt5_qtsql",
+    "url": "https://github.com/philip-wernersbach/nim-qt5_qtsql.git",
+    "method": "git",
+    "tags": ["library", "wrapper", "database", "qt", "qt5", "qtsql", "sqlite", "postgres", "mysql"],
+    "description": "Binding for Qt 5's Qt SQL library that integrates with the features of the Nim language. Uses one API for multiple database engines.",
+    "license": "MIT",
+    "web": "https://github.com/philip-wernersbach/nim-qt5_qtsql"
   }
 ]
