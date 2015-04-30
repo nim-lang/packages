@@ -1380,5 +1380,14 @@
     "description": "Syslog module.",
     "license": "LGPLv3",
     "web": "https://github.com/FedericoCeratto/nim-syslog"
+  },
+  {
+    "name": "nimes",
+    "url": "https://github.com/def-/nimes",
+    "method": "git",
+    "tags": ["emulator", "nes", "game", "sdl", "javascript"],
+    "description": "NES emulator using SDL2, also compiles to JavaScript with emscripten.",
+    "license": "MPL",
+    "web": "https://github.com/def-/nimes"
   }
 ]
