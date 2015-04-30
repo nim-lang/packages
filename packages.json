@@ -1371,5 +1371,14 @@
     "description": "OrientDB driver written in pure Nim, uses the OrientDB 2.0 Binary Protocol with Binary Serialization.",
     "license": "MPL",
     "web": "https://github.com/philip-wernersbach/nim-orient"
+  },
+  {
+    "name": "syslog",
+    "url": "https://github.com/FedericoCeratto/nim-syslog",
+    "method": "git",
+    "tags": ["library", "pure"],
+    "description": "Syslog module.",
+    "license": "LGPLv3",
+    "web": "https://github.com/FedericoCeratto/nim-syslog"
   }
 ]
