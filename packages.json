@@ -1389,5 +1389,14 @@
     "description": "NES emulator using SDL2, also compiles to JavaScript with emscripten.",
     "license": "MPL",
     "web": "https://github.com/def-/nimes"
+  },
+  {
+    "name": "syscall",
+    "url": "https://github.com/def-/nim-syscall",
+    "method": "git",
+    "tags": ["library"],
+    "description": "Raw system calls for Nim",
+    "license": "MPL",
+    "web": "https://github.com/def-/nim-syscall"
   }
 ]
