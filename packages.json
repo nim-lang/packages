@@ -1398,5 +1398,14 @@
     "description": "Raw system calls for Nim",
     "license": "MPL",
     "web": "https://github.com/def-/nim-syscall"
+  },
+  {
+    "name": "jnim",
+    "url": "https://github.com/yglukhov/jnim",
+    "method": "git",
+    "tags": ["library", "java", "jvm", "bridge", "bindings"],
+    "description": "Nim - Java bridge",
+    "license": "MIT",
+    "web": "https://github.com/yglukhov/jnim"
   }
 ]
