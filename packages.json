@@ -1229,6 +1229,15 @@
     "web": "https://github.com/achesak/nim-pythonpathlib"
   },
   {
+    "name": "RingBuffer",
+    "url": "git@github.com:megawac/RingBuffer.nim.git",
+    "method": "git",
+    "tags": ["sequence", "seq", "circular", "ring", "buffer"],
+    "description": "Circular buffer implementation",
+    "license": "MIT",
+    "web": "https://github.com/megawac/RingBuffer.nim"
+  },
+  {
     "name": "nimrat",
     "url": "git://github.com/apense/nimrat",
     "method": "git",
