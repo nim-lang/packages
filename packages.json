@@ -1407,5 +1407,14 @@
     "description": "Nim - Java bridge",
     "license": "MIT",
     "web": "https://github.com/yglukhov/jnim"
+  },
+  {
+    "name": "nimPDF",
+    "url": "https://github.com/jangko/nimpdf",
+    "method": "git",
+    "tags": ["library", "PDF", "document"],
+    "description": "library for generating PDF files",
+    "license": "MIT",
+    "web": "https://github.com/jangko/nimpdf"
   }
 ]
