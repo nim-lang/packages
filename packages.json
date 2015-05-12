@@ -1425,7 +1425,7 @@
     "description": "library for generating PDF files",
     "license": "MIT",
     "web": "https://github.com/jangko/nimpdf"
-  }
+  },
   {
     "name": "nshout",
     "url": "https://github.com/Senketsu/nshout",
