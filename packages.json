@@ -1425,5 +1425,14 @@
     "description": "library for generating PDF files",
     "license": "MIT",
     "web": "https://github.com/jangko/nimpdf"
+  },
+  {
+    "name": "LLVM",
+    "url": "https://github.com/FedeOmoto/llvm",
+    "method": "git",
+    "tags": ["LLVM", "bindings", "wrapper"],
+    "description": "LLVM bindings for the Nim language.",
+    "license": "MIT",
+    "web": "http://fedeomoto.github.io/llvm/"
   }
 ]
