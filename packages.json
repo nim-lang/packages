@@ -1427,6 +1427,15 @@
     "web": "https://github.com/jangko/nimpdf"
   },
   {
+    "name": "LLVM",
+    "url": "https://github.com/FedeOmoto/llvm",
+    "method": "git",
+    "tags": ["LLVM", "bindings", "wrapper"],
+    "description": "LLVM bindings for the Nim language.",
+    "license": "MIT",
+    "web": "http://fedeomoto.github.io/llvm/"
+  },
+  {
     "name": "nshout",
     "url": "https://github.com/Senketsu/nshout",
     "method": "git",
