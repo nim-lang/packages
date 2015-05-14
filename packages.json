@@ -1446,7 +1446,7 @@
   },
   {
     "name": "nuuid",
-    "url": "https://github.com/wheineman/nim-only-uuid",
+    "url": "https://github.com/wheineman/nim-only-uuid.git",
     "method": "git",
     "tags": ["library", "uuid", "guid"],
     "description": "A Nim source only UUID generator",
