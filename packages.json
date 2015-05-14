@@ -1443,5 +1443,14 @@
     "description": "Nim bindings for libshout",
     "license": "MIT",
     "web": "https://github.com/Senketsu/nshout"
+  },
+  {
+    "name": "nuuid",
+    "url": "https://github.com/wheineman/nim-only-uuid",
+    "method": "git",
+    "tags": ["library", "uuid", "guid"],
+    "description": "A Nim source only UUID generator",
+    "license": "MIT",
+    "web": "https://github.com/wheineman/nim-only-uuid"
   }
 ]
