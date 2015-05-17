@@ -13,7 +13,7 @@ object should have the following fields (unless the field is marked as
 optional):
   
   * name   - The name of the package, this should match the name in the package's
-             babel file.
+             nimble file.
   * url    - The url from which to retrieve the package.
   * method - The method that should be used to retrieve this package. Currently
              "git" and "hg" is supported.
