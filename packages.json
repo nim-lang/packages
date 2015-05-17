@@ -1479,5 +1479,23 @@
     "decription": "A simple library for Google Maps Geocoding API",
     "license": "MIT",
     "web": "https://github.com/saratchandra92/nim-geocoding"
+  },
+  {
+    "name": "io-gles",
+    "url": "git://github.com/nimious/io-gles.git",
+    "method": "git",
+    "tags": ["binding", "khronos", "gles", "opengl es"],
+    "description": "Bindings for OpenGL ES, the embedded 3D graphics library.",
+    "license": "MIT",
+    "web": "https://github.com/nimious/io-gles"
+  },
+  {
+    "name": "io-egl",
+    "url": "git://github.com/nimious/io-egl.git",
+    "method": "git",
+    "tags": ["binding", "khronos", "egl", "opengl", "opengl es", "openvg"],
+    "description": "Bindings for EGL, the native platform interface for rendering APIs.",
+    "license": "MIT",
+    "web": "https://github.com/nimious/io-egl"
   }
 ]
