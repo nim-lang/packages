@@ -398,16 +398,6 @@
   },
 
   {
-    "name": "ouroboros",
-    "url": "git://github.com/gradha/nim-ouroboros/",
-    "method": "git",
-    "tags": ["library", "embedded data", "appended data", "alchemy"],
-    "description": "API to read appended files from your own binary",
-    "license": "MIT",
-    "web": "https://github.com/gradha/nim-ouroboros"
-  },
-
-  {
     "name": "sha1",
     "url": "https://github.com/onionhammer/sha1",
     "method": "git",
