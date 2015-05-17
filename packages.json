@@ -1470,5 +1470,14 @@
     "description": "A rudimentary Nim REPL",
     "license": "MIT",
     "web": "https://github.com/wheineman/nrpl"
+  },
+  {
+    "name": "nim-geocoding",
+    "url": "https://github.com/saratchandra92/nim-geocoding",
+    "method": "git",
+    "tags": ["library", "geocoding", "maps"],
+    "decription": "A simple library for Google Maps Geocoding API",
+    "license": "MIT",
+    "web": "https://github.com/saratchandra92/nim-geocoding"
   }
 ]
