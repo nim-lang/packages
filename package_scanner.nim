@@ -1,8 +1,7 @@
 
 # A very simple Nim package scanner.
 #
-# Scan the package list from:
-# https://github.com/nim-lang/packages/blob/master/packages.json
+# Scans the package list from this repository.
 #
 # Check the packages for:
 #  * Missing/unknown license
@@ -19,9 +18,9 @@
 import httpclient
 import net
 import json
+import os
 
 const
-  PKG_LIST_URL = "https://raw.githubusercontent.com/nim-lang/packages/master/packages.json"
 
   LICENSES = @[
     "Allegro 4 Giftware",
@@ -50,7 +49,7 @@ proc check(): int =
 
   echo ""
   let
-    pkg_list = parseJson(getContent(PKG_LIST_URL))
+    pkg_list = parseJson(readFile(getCurrentDir() / "packages.json"))
 
   for pdata in pkg_list:
     if not pdata.hasKey("name"):
@@ -60,25 +59,25 @@ proc check(): int =
 
     name = pdata["name"].str
     if not pdata.hasKey("method"):
-      echo "E: ", name, "has no method"
+      echo "E: ", name, " has no method"
       result.inc()
 
     elif not (pdata["method"].str in VCS_TYPES):
-      echo "E: ", name, "has an unknown method: ", pdata["method"].str
+      echo "E: ", name, " has an unknown method: ", pdata["method"].str
       result.inc()
 
     if not pdata.hasKey("license"):
-      echo "E: ", name, "has no license"
+      echo "E: ", name, " has no license"
       result.inc()
     elif not (pdata["license"].str in LICENSES):
-      echo "W: ", name, "has an unexpected license: ", pdata["license"]
+      echo "W: ", name, " has an unexpected license: ", pdata["license"]
 
     if not pdata.hasKey("description"):
-      echo "E: ", name, "has no description"
+      echo "E: ", name, " has no description"
       result.inc()
 
     if not pdata.hasKey("web"):
-      echo "E: ", name, "has no URL"
+      echo "E: ", name, " has no URL"
       result.inc()
       continue
 
@@ -87,11 +86,13 @@ proc check(): int =
       name = pdata["name"].str
       url = pdata["web"].str
       try:
-        discard getContent(url, timeout=3000)
+        discard getContent(url, timeout=400)
 
-      except HttpRequestError, TimeoutError, AssertionError:
+      except HttpRequestError, TimeoutError:
         echo "E: ", name, ": unable to fetch repository ", url, " ", getCurrentExceptionMsg()
         result.inc()
+      except AssertionError:
+        echo "W: ", name, ": httpclient failed ", url, " ", getCurrentExceptionMsg()
 
   echo "Error count: ", result
   return

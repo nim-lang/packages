@@ -1,15 +1,14 @@
-
 os:
   - linux
 
 language: c
 
-env:
-  - BRANCH="travis"
-  - BRANCH="devel"
-
 install:
-  - git clone -b $BRANCH git://github.com/Araq/Nim.git; cd Nim; git clone -b $BRANCH --depth 1 git://github.com/nim-lang/csources; cd csources && sh build.sh; cd ..; bin/nim c koch; ./koch boot -d:release; cd ..
+  - |
+      wget http://nim-lang.org/download/nim-0.11.2.tar.xz
+      tar xf nim-0.11.2.tar.xz
+      cd nim-0.11.2
+      sh build.sh
 
 before_script:
   - set -e
