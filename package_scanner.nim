@@ -86,7 +86,7 @@ proc check(): int =
       name = pdata["name"].str
       url = pdata["web"].str
       try:
-        discard getContent(url, timeout=400)
+        discard getContent(url, timeout=1000)
 
       except HttpRequestError, TimeoutError:
         echo "E: ", name, ": unable to fetch repository ", url, " ", getCurrentExceptionMsg()
