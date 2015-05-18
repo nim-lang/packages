@@ -76,7 +76,7 @@ proc check(): int =
       echo "E: ", name, " has no description"
       result.inc()
 
-    if not pdata.hasKey("web"):
+    if not pdata.hasKey("url"):
       echo "E: ", name, " has no URL"
       result.inc()
       continue

@@ -1,4 +1,4 @@
-# Nim packages
+# Nim packages [![Build Status](https://travis-ci.org/nim-lang/packages.svg?branch=master)](https://travis-ci.org/nim-lang/packages)
 
 This is a central listing of all packages for
 [Nimble](https://github.com/nim-lang/nimble), a package manager for the
@@ -11,7 +11,7 @@ To add your own package, fork this repository, edit
 [Packages.json](packages.json) is a simple array of objects. Each package
 object should have the following fields (unless the field is marked as
 optional):
-  
+
   * name   - The name of the package, this should match the name in the package's
              nimble file.
   * url    - The url from which to retrieve the package.
