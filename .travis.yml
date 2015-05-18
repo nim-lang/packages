@@ -13,7 +13,7 @@ install:
 before_script:
   - set -e
   - set -x
-  - export PATH=`pwd`/Nim/bin:$PATH
+  - export PATH=`pwd`/nim-0.11.2/bin:$PATH
 
 script:
   - nim c -d:ssl -r package_scanner.nim
