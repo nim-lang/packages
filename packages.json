@@ -125,7 +125,7 @@
     "method": "git",
     "tags": ["build", "automation", "sortof"],
     "description": "make-like for Nimrod. Describe your builds as tasks!",
-    "license": "DATWPL",
+    "license": "MIT",
     "web": "https://github.com/fowlmouth/nake"
   },
 
