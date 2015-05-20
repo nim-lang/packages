@@ -1505,5 +1505,13 @@
     "description": "Parsing and serializing for the TNetstring format.",
     "license": "MIT",
     "web": "http://bitbucket.org/mahlon/nim-tnetstring"
+  },
+  {
+    "name": "msgpack4nim",
+    "url": "https://github.com/jangko/msgpack4nim",
+    "method": "git",
+    "tags": ["msgpack", "library", "serialization", "deserialization"],
+    "license": "MIT",
+    "web": "https://github.com/jangko/msgpack4nim"
   }
 ]
