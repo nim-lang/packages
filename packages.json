@@ -1487,5 +1487,14 @@
     "description": "Bindings for EGL, the native platform interface for rendering APIs.",
     "license": "MIT",
     "web": "https://github.com/nimious/io-egl"
+  },
+  {
+    "name": "tnetstring",
+    "url": "https://mahlon@bitbucket.org/mahlon/nim-tnetstring",
+    "method": "hg",
+    "tags": ["tnetstring", "library", "serialization" ],
+    "description": "Parsing and serializing for the TNetstring format.",
+    "license": "MIT",
+    "web": "http://bitbucket.org/mahlon/nim-tnetstring"
   }
 ]
