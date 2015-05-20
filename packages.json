@@ -1496,5 +1496,14 @@
     "description": "Bindings for the Sixense Core API.",
     "license": "MIT",
     "web": "https://github.com/nimious/io-sixense"
+  },
+  {
+    "name": "tnetstring",
+    "url": "https://mahlon@bitbucket.org/mahlon/nim-tnetstring",
+    "method": "hg",
+    "tags": ["tnetstring", "library", "serialization" ],
+    "description": "Parsing and serializing for the TNetstring format.",
+    "license": "MIT",
+    "web": "http://bitbucket.org/mahlon/nim-tnetstring"
   }
 ]
