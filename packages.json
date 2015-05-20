@@ -1487,5 +1487,14 @@
     "description": "Bindings for EGL, the native platform interface for rendering APIs.",
     "license": "MIT",
     "web": "https://github.com/nimious/io-egl"
+  },
+  {
+    "name": "io-sixense",
+    "url": "git://github.com/nimious/io-sixense.git",
+    "method": "git",
+    "tags": ["binding", "sixense", "razer hydra", "stem system", "vr"],
+    "description": "Bindings for the Sixense Core API.",
+    "license": "MIT",
+    "web": "https://github.com/nimious/io-sixense"
   }
 ]
