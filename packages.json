@@ -1016,7 +1016,7 @@
     "url": "https://github.com/fenekku/moustachu.git",
     "method": "git",
     "tags": ["web", "html", "template", "mustache"],
-    "description": "Mustache templating for Nimrod.",
+    "description": "Mustache templating for Nim.",
     "license": "MIT",
     "web": "https://github.com/fenekku/moustachu"
   },
