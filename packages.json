@@ -1514,5 +1514,23 @@
     "description": "Another MessagePack implementation written in pure nim",
     "license": "MIT",
     "web": "https://github.com/jangko/msgpack4nim"
+  },
+  {
+    "name": "nim-heap",
+    "url": "https://github.com/bluenote10/nim-heap",
+    "method": "git",
+    "tags": ["heap", "priority queue"],
+    "description": "Simple binary heap implementation",
+    "license": "MIT",
+    "web": "https://github.com/bluenote10/nim-heap"
+  },
+  {
+    "name": "nim-stringinterpolation",
+    "url": "https://github.com/bluenote10/nim-stringinterpolation",
+    "method": "git",
+    "tags": ["string formatting", "string interpolation"],
+    "description": "String interpolation with printf syntax",
+    "license": "MIT",
+    "web": "https://github.com/bluenote10/nim-stringinterpolation"
   }
 ]
