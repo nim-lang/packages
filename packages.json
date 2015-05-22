@@ -1532,5 +1532,14 @@
     "description": "String interpolation with printf syntax",
     "license": "MIT",
     "web": "https://github.com/bluenote10/nim-stringinterpolation"
+  },
+  {
+    "name": "delaunay",
+    "url": "https://github.com/Nycto/DelaunayNim",
+    "method": "git",
+    "tags": ["delaunay", "library", "algorithms", "graph"],
+    "description": "2D Delaunay triangulations",
+    "license": "MIT",
+    "web": "https://github.com/Nycto/DelaunayNim"
   }
 ]
