@@ -1541,5 +1541,14 @@
     "description": "2D Delaunay triangulations",
     "license": "MIT",
     "web": "https://github.com/Nycto/DelaunayNim"
+  },
+  {
+    "name": "linenoise",
+    "url": "https://github.com/fallingduck/linenoise-nim",
+    "method": "git",
+    "tags": ["linenoise", "library", "wrapper", "commandline"],
+    "description": "Wrapper for linenoise, a free, self-contained alternative to GNU readline.",
+    "license": "BSD",
+    "web": "https://github.com/fallingduck/linenoise-nim"
   }
 ]
