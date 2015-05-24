@@ -1550,5 +1550,14 @@
     "description": "Wrapper for linenoise, a free, self-contained alternative to GNU readline.",
     "license": "BSD",
     "web": "https://github.com/fallingduck/linenoise-nim"
+  },
+  {
+    "name": "struct",
+    "url": "https://github.com/rgv151/struct.nim",
+    "method": "git",
+    "tags": ["struct", "library", "python", "pack", "unpack"],
+    "description": "Python-like 'struct' for Nim",
+    "license": "MIT",
+    "web": "https://github.com/rgv151/struct.nim"
   }
 ]
