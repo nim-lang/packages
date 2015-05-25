@@ -1559,5 +1559,14 @@
     "description": "Python-like 'struct' for Nim",
     "license": "MIT",
     "web": "https://github.com/rgv151/struct.nim"
+  },
+  {
+    "name": "nim-ovr",
+    "url": "https://github.com/bluenote10/nim-ovr",
+    "method": "git",
+    "tags": ["Oculus Rift", "virtual reality"],
+    "description": "Nim bindings for libOVR (Oculus Rift)",
+    "license": "MIT",
+    "web": "https://github.com/bluenote10/nim-ovr"
   }
 ]
