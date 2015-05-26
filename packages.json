@@ -1568,5 +1568,14 @@
     "description": "Nim module for better URI handling",
     "license": "MIT",
     "web": "https://github.com/achesak/nim-uri2"
+  },
+  {
+    "name": "hmac",
+    "url": "https://github.com/rgv151/hmac.nim",
+    "method": "git",
+    "tags": ["hmac", "authentication", "hash", "sha1", "md5"],
+    "description": "HMAC-SHA1 and HMAC-MD5 hashing in Nim ",
+    "license": "MIT",
+    "web": "https://github.com/rgv151/hmac.nim"
   }
 ]
