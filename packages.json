@@ -1568,5 +1568,14 @@
     "description": "Nim module for better URI handling",
     "license": "MIT",
     "web": "https://github.com/achesak/nim-uri2"
-  }
+  },
+  {
+    "name": "mongrel2",
+    "url": "https://mahlon@bitbucket.org/mahlon/nim-mongrel2",
+    "method": "hg",
+    "tags": ["mongrel2", "library", "www" ],
+    "description": "Handler framework for the Mongrel2 web server.",
+    "license": "MIT",
+    "web": "http://bitbucket.org/mahlon/nim-mongrel2"
+  },
 ]
