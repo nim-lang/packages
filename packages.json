@@ -1574,7 +1574,7 @@
     "url": "https://github.com/rgv151/hmac.nim",
     "method": "git",
     "tags": ["hmac", "authentication", "hash", "sha1", "md5"],
-    "description": "HMAC-SHA1 and HMAC-MD5 hashing in Nim ",
+    "description": "HMAC-SHA1 and HMAC-MD5 hashing in Nim",
     "license": "MIT",
     "web": "https://github.com/rgv151/hmac.nim"
   },
@@ -1596,5 +1596,14 @@
     "description": "Hashing/Digest collection in pure Nim",
     "license": "MIT",
     "web": "https://github.com/apense/shimsham"
+  },
+  {
+    "name": "base32",
+    "url": "https://github.com/rgv151/base32.nim",
+    "method": "git",
+    "tags": ["base32", "encode", "decode"],
+    "description": "Base32 library for Nim",
+    "license": "MIT",
+    "web": "https://github.com/rgv151/base32.nim"
   }
 ]
