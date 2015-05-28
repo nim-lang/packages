@@ -1577,5 +1577,5 @@
     "description": "Handler framework for the Mongrel2 web server.",
     "license": "MIT",
     "web": "http://bitbucket.org/mahlon/nim-mongrel2"
-  },
+  }
 ]
