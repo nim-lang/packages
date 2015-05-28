@@ -1016,7 +1016,7 @@
     "url": "https://github.com/fenekku/moustachu.git",
     "method": "git",
     "tags": ["web", "html", "template", "mustache"],
-    "description": "Mustache templating for Nimrod.",
+    "description": "Mustache templating for Nim.",
     "license": "MIT",
     "web": "https://github.com/fenekku/moustachu"
   },
@@ -1505,5 +1505,77 @@
     "description": "Parsing and serializing for the TNetstring format.",
     "license": "MIT",
     "web": "http://bitbucket.org/mahlon/nim-tnetstring"
+  },
+  {
+    "name": "msgpack4nim",
+    "url": "https://github.com/jangko/msgpack4nim",
+    "method": "git",
+    "tags": ["msgpack", "library", "serialization", "deserialization"],
+    "description": "Another MessagePack implementation written in pure nim",
+    "license": "MIT",
+    "web": "https://github.com/jangko/msgpack4nim"
+  },
+  {
+    "name": "nim-heap",
+    "url": "https://github.com/bluenote10/nim-heap",
+    "method": "git",
+    "tags": ["heap", "priority queue"],
+    "description": "Simple binary heap implementation",
+    "license": "MIT",
+    "web": "https://github.com/bluenote10/nim-heap"
+  },
+  {
+    "name": "nim-stringinterpolation",
+    "url": "https://github.com/bluenote10/nim-stringinterpolation",
+    "method": "git",
+    "tags": ["string formatting", "string interpolation"],
+    "description": "String interpolation with printf syntax",
+    "license": "MIT",
+    "web": "https://github.com/bluenote10/nim-stringinterpolation"
+  },
+  {
+    "name": "delaunay",
+    "url": "https://github.com/Nycto/DelaunayNim",
+    "method": "git",
+    "tags": ["delaunay", "library", "algorithms", "graph"],
+    "description": "2D Delaunay triangulations",
+    "license": "MIT",
+    "web": "https://github.com/Nycto/DelaunayNim"
+  },
+  {
+    "name": "linenoise",
+    "url": "https://github.com/fallingduck/linenoise-nim",
+    "method": "git",
+    "tags": ["linenoise", "library", "wrapper", "commandline"],
+    "description": "Wrapper for linenoise, a free, self-contained alternative to GNU readline.",
+    "license": "BSD",
+    "web": "https://github.com/fallingduck/linenoise-nim"
+  },
+  {
+    "name": "struct",
+    "url": "https://github.com/rgv151/struct.nim",
+    "method": "git",
+    "tags": ["struct", "library", "python", "pack", "unpack"],
+    "description": "Python-like 'struct' for Nim",
+    "license": "MIT",
+    "web": "https://github.com/rgv151/struct.nim"
+  },
+  {
+    "name": "uri2",
+    "url": "git://github.com/achesak/nim-uri2",
+    "method": "git",
+    "tags": ["uri", "url", "library"],
+    "description": "Nim module for better URI handling",
+    "license": "MIT",
+    "web": "https://github.com/achesak/nim-uri2"
+  },
+  {
+    "name": "hmac",
+    "url": "https://github.com/rgv151/hmac.nim",
+    "method": "git",
+    "tags": ["hmac", "authentication", "hash", "sha1", "md5"],
+    "description": "HMAC-SHA1 and HMAC-MD5 hashing in Nim ",
+    "license": "MIT",
+    "web": "https://github.com/rgv151/hmac.nim"
   }
 ]
