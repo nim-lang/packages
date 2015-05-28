@@ -1586,5 +1586,15 @@
     "description": "Handler framework for the Mongrel2 web server.",
     "license": "MIT",
     "web": "http://bitbucket.org/mahlon/nim-mongrel2"
+
+  },
+  {
+    "name": "shimsham",
+    "url": "https://github.com/apense/shimsham",
+    "method": "git",
+    "tags": ["crypto", "hash", "hashing", "digest"],
+    "description": "Hashing/Digest collection in pure Nim",
+    "license": "MIT",
+    "web": "https://github.com/apense/shimsham"
   }
 ]
