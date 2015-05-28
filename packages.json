@@ -1577,5 +1577,14 @@
     "description": "HMAC-SHA1 and HMAC-MD5 hashing in Nim ",
     "license": "MIT",
     "web": "https://github.com/rgv151/hmac.nim"
+  },
+  {
+    "name": "mongrel2",
+    "url": "https://mahlon@bitbucket.org/mahlon/nim-mongrel2",
+    "method": "hg",
+    "tags": ["mongrel2", "library", "www" ],
+    "description": "Handler framework for the Mongrel2 web server.",
+    "license": "MIT",
+    "web": "http://bitbucket.org/mahlon/nim-mongrel2"
   }
 ]
