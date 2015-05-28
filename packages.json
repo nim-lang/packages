@@ -1605,5 +1605,14 @@
     "description": "Base32 library for Nim",
     "license": "MIT",
     "web": "https://github.com/rgv151/base32.nim"
+  },
+  {
+    "name": "otp",
+    "url": "https://github.com/rgv151/otp.nim",
+    "method": "git",
+    "tags": ["otp", "hotp", "totp", "time", "password", "one", "google", "authenticator"],
+    "description": "One Time Password library for Nim",
+    "license": "MIT",
+    "web": "https://github.com/rgv151/otp.nim"
   }
 ]
