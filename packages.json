@@ -1516,7 +1516,7 @@
     "web": "https://github.com/jangko/msgpack4nim"
   },
   {
-    "name": "nim-heap",
+    "name": "binaryheap",
     "url": "https://github.com/bluenote10/nim-heap",
     "method": "git",
     "tags": ["heap", "priority queue"],
@@ -1525,13 +1525,22 @@
     "web": "https://github.com/bluenote10/nim-heap"
   },
   {
-    "name": "nim-stringinterpolation",
+    "name": "stringinterpolation",
     "url": "https://github.com/bluenote10/nim-stringinterpolation",
     "method": "git",
     "tags": ["string formatting", "string interpolation"],
     "description": "String interpolation with printf syntax",
     "license": "MIT",
     "web": "https://github.com/bluenote10/nim-stringinterpolation"
+  },
+  {
+    "name": "libovr",
+    "url": "https://github.com/bluenote10/nim-ovr",
+    "method": "git",
+    "tags": ["Oculus Rift", "virtual reality"],
+    "description": "Nim bindings for libOVR (Oculus Rift)",
+    "license": "MIT",
+    "web": "https://github.com/bluenote10/nim-ovr"
   },
   {
     "name": "delaunay",
