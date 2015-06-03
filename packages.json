@@ -1623,5 +1623,14 @@
     "description": "One Time Password library for Nim",
     "license": "MIT",
     "web": "https://github.com/rgv151/otp.nim"
+  },
+  {
+    "name": "q",
+    "url": "https://github.com/rgv151/q.nim",
+    "method": "git",
+    "tags": ["css", "selector", "query", "match", "find", "html", "xml", "jquery"],
+    "description": "Simple package for query HTML/XML elements using a CSS3 or jQuery-like selector syntax",
+    "license": "MIT",
+    "web": "https://github.com/rgv151/q.nim"
   }
 ]
