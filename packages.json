@@ -1632,5 +1632,14 @@
     "description": "Simple package for query HTML/XML elements using a CSS3 or jQuery-like selector syntax",
     "license": "MIT",
     "web": "https://github.com/rgv151/q.nim"
+  },
+  {
+    "name": "rbtree",
+    "url": "https://github.com/Nycto/RBTreeNim",
+    "method": "git",
+    "tags": ["tree", "binary search tree", "rbtree", "red black tree"],
+    "description": "Red/Black Trees",
+    "license": "MIT",
+    "web": "https://github.com/Nycto/RBTreeNim"
   }
 ]
