@@ -4,11 +4,12 @@
 # Scans the package list from this repository.
 #
 # Check the packages for:
-#  * Missing/unknown license
-#  * Missing description
 #  * Missing name
 #  * Missing/unknown method
 #  * Missing/unreachable repository
+#  * Missing tags
+#  * Missing description
+#  * Missing/unknown license
 #
 # Usage: nim c -d:ssl -r package_scanner.nim
 #
@@ -41,24 +42,44 @@ const
 
   VCS_TYPES = @["git", "hg"]
 
+proc canFetchNimbleRepository(name: string, urlJson: JsonNode): bool =
+  # The fetch is a lie!
+  # TODO: Make this check the actual repo url and check if there is a
+  #       nimble file in it
+  result = true
+  var url: string
+
+  if not urlJson.isNil:
+    url = urlJson.str
+
+    try:
+      discard getContent(url, timeout=1000)
+    except HttpRequestError, TimeoutError:
+      echo "E: ", name, ": unable to fetch repository ", url, " ",
+           getCurrentExceptionMsg()
+      result = false
+    except AssertionError:
+      echo "W: ", name, ": httpclient failed ", url, " ",
+           getCurrentExceptionMsg()
+
+
 proc check(): int =
   var
     name: string
-    url: string
-
 
   echo ""
+
   let
     pkg_list = parseJson(readFile(getCurrentDir() / "packages.json"))
 
   for pdata in pkg_list:
-    if not pdata.hasKey("name"):
+    name = if pdata.hasKey("name"): pdata["name"].str else: nil
+
+    if name.isNil:
       echo "E: missing package name"
       result.inc()
-      continue
 
-    name = pdata["name"].str
-    if not pdata.hasKey("method"):
+    elif not pdata.hasKey("method"):
       echo "E: ", name, " has no method"
       result.inc()
 
@@ -66,36 +87,34 @@ proc check(): int =
       echo "E: ", name, " has an unknown method: ", pdata["method"].str
       result.inc()
 
-    if not pdata.hasKey("license"):
-      echo "E: ", name, " has no license"
+    elif not pdata.hasKey("url"):
+      echo "E: ", name, " has no URL"
       result.inc()
-    elif not (pdata["license"].str in LICENSES):
-      echo "W: ", name, " has an unexpected license: ", pdata["license"]
 
-    if not pdata.hasKey("description"):
+    elif not canFetchNimbleRepository(name, pdata["web"]):
+      result.inc()
+
+    elif not pdata.hasKey("tags"):
+      echo "E: ", name, " has no tags"
+      result.inc()
+
+    elif not pdata.hasKey("description"):
       echo "E: ", name, " has no description"
       result.inc()
 
-    if not pdata.hasKey("url"):
-      echo "E: ", name, " has no URL"
+    elif not pdata.hasKey("license"):
+      echo "E: ", name, " has no license"
       result.inc()
-      continue
 
-  for pdata in pkg_list:
-    if pdata.hasKey("name") and pdata.hasKey("web"):
-      name = pdata["name"].str
-      url = pdata["web"].str
-      try:
-        discard getContent(url, timeout=1000)
+    else:
+      # Other warnings should go here
+      if not (pdata["license"].str in LICENSES):
+        echo "W: ", name, " has an unexpected license: ", pdata["license"]
 
-      except HttpRequestError, TimeoutError:
-        echo "E: ", name, ": unable to fetch repository ", url, " ", getCurrentExceptionMsg()
-        result.inc()
-      except AssertionError:
-        echo "W: ", name, ": httpclient failed ", url, " ", getCurrentExceptionMsg()
 
-  echo "Error count: ", result
-  return
+  echo ""
+  echo "Problematic packages count: ", result
+
 
 when isMainModule:
   quit(check())
