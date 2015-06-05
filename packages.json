@@ -986,12 +986,12 @@
   },
   {
     "name": "gmp",
-    "url": "git://github.com/cowboy-coders/nim-gmp",
+    "url": "https://github.com/FedeOmoto/nim-gmp",
     "method": "git",
     "tags": ["library", "bignum", "numbers", "math"],
     "description": "wrapper for the GNU multiple precision arithmetic library (GMP)",
     "license": "LGPLv3 or GPLv2",
-    "web": "https://github.com/cowboy-coders/nim-gmp"
+    "web": "https://github.com/FedeOmoto/nim-gmp"
   },
   {
     "name": "ludens",
@@ -1423,7 +1423,7 @@
     "tags": ["LLVM", "bindings", "wrapper"],
     "description": "LLVM bindings for the Nim language.",
     "license": "MIT",
-    "web": "http://fedeomoto.github.io/llvm/"
+    "web": "https://github.com/FedeOmoto/llvm"
   },
   {
     "name": "nshout",
@@ -1632,5 +1632,14 @@
     "description": "Simple package for query HTML/XML elements using a CSS3 or jQuery-like selector syntax",
     "license": "MIT",
     "web": "https://github.com/rgv151/q.nim"
+  },
+  {
+    "name": "bignum",
+    "url": "https://github.com/FedeOmoto/bignum",
+    "method": "git",
+    "tags": ["bignum", "gmp", "wrapper"],
+    "description": "Wrapper around the GMP bindings for the Nim language.",
+    "license": "MIT",
+    "web": "https://github.com/FedeOmoto/bignum"
   }
 ]
