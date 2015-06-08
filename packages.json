@@ -1650,5 +1650,14 @@
     "description": "Red/Black Trees",
     "license": "MIT",
     "web": "https://github.com/Nycto/RBTreeNim"
+  },
+  {
+    "name": "anybar",
+    "url": "https://github.com/rgv151/anybar.nim",
+    "method": "git",
+    "tags": ["anybar", "menubar", "status", "indicator"],
+    "description": "Control AnyBar instances with Nim",
+    "license": "MIT",
+    "web": "https://github.com/rgv151/anybar.nim"
   }
 ]
