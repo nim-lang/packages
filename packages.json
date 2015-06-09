@@ -1659,5 +1659,14 @@
     "description": "Control AnyBar instances with Nim",
     "license": "MIT",
     "web": "https://github.com/rgv151/anybar.nim"
+  },
+  {
+    "name": "astar",
+    "url": "https://github.com/Nycto/AStarNim",
+    "method": "git",
+    "tags": ["astar", "A*", "pathfinding", "algorithm"],
+    "description": "A* Pathfinding",
+    "license": "MIT",
+    "web": "https://github.com/Nycto/AStarNim"
   }
 ]
