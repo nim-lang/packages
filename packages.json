@@ -1668,5 +1668,14 @@
     "description": "A* Pathfinding",
     "license": "MIT",
     "web": "https://github.com/Nycto/AStarNim"
+  },
+  {
+    "name": "lazy",
+    "url": "git://github.com/petermora/nimLazy/",
+    "method": "git",
+    "tags": ["library", "iterator", "lazy list"],
+    "description": "Iterator library for Nim",
+    "license": "MIT",
+    "web": "https://github.com/petermora/nimLazy"
   }
 ]
