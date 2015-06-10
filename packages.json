@@ -1171,7 +1171,7 @@
     "tags": ["library", "tuple", "metaprogramming"],
     "description": "Tuple manipulation utilities",
     "license": "MIT",
-    "web": "https://github.com/MasonMcGill/optionals"
+    "web": "https://github.com/MasonMcGill/tuples"
   },
   {
     "name": "fuse",
