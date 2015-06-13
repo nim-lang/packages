@@ -1686,5 +1686,14 @@
     "description": "High level, asynchronous file API mimicking Python's file interface.",
     "license": "ISC",
     "web": "https://github.com/fallingduck/asyncpythonfile-nim"
+  },
+  {
+    "name": "nimfuzz",
+    "url": "https://github.com/apense/nimfuzz",
+    "method": "git",
+    "tags": ["fuzzing", "testing", "hacking", "security"],
+    "description": "Simple and compact fuzzing",
+    "license": "Apache License 2.0",
+    "web": "https://apense.github.io/nimfuzz"
   }
 ]
