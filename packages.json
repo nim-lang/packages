@@ -1694,6 +1694,6 @@
     "tags": ["fuzzing", "testing", "hacking", "security"],
     "description": "Simple and compact fuzzing",
     "license": "Apache License 2.0",
-    "web": "https://apense.github.io/apense/nimfuzz"
+    "web": "https://apense.github.io/nimfuzz"
   }
 ]
