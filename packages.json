@@ -1695,5 +1695,14 @@
     "description": "Simple and compact fuzzing",
     "license": "Apache License 2.0",
     "web": "https://apense.github.io/nimfuzz"
+  },
+  {
+    "name": "linalg",
+    "url": "https://github.com/unicredit/linear-algebra",
+    "method": "git",
+    "tags": ["vector", "matrix", "linear algebra", "BLAS", "LAPACK"],
+    "description": "Linear algebra for Nim",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/unicredit/linear-algebra"
   }
 ]
