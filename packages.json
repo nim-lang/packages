@@ -1704,5 +1704,14 @@
     "description": "Linear algebra for Nim",
     "license": "Apache License 2.0",
     "web": "https://github.com/unicredit/linear-algebra"
+  },
+  {
+    "name": "sequester",
+    "url": "https://github.com/fallingduck/sequester",
+    "method": "git",
+    "tags": ["library", "seq", "sequence", "strings", "iterators", "php"],
+    "description": "Library for converting sequences to strings. Also has PHP-inspired explode and implode procs.",
+    "license": "ISC",
+    "web": "https://github.com/fallingduck/sequester"
   }
 ]
