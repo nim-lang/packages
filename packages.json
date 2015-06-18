@@ -1713,5 +1713,14 @@
     "description": "Library for converting sequences to strings. Also has PHP-inspired explode and implode procs.",
     "license": "ISC",
     "web": "https://github.com/fallingduck/sequester"
+  },
+  {
+    "name": "options",
+    "url": "https://github.com/fallingduck/options-nim",
+    "method": "git",
+    "tags": ["library", "option", "optionals", "maybe"],
+    "description": "Temporary package to fix broken code in 0.11.2 stable.",
+    "license": "MIT",
+    "web": "https://github.com/fallingduck/options-nim"
   }
 ]
