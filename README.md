@@ -1,8 +1,8 @@
-# Nimrod packages
+# Nim packages [![Build Status](https://travis-ci.org/nim-lang/packages.svg?branch=master)](https://travis-ci.org/nim-lang/packages)
 
 This is a central listing of all packages for
-[babel](https://github.com/nimrod-code/babel), a package manager for the
-[Nimrod programming language](http://nimrod-lang.org).
+[Nimble](https://github.com/nim-lang/nimble), a package manager for the
+[Nim programming language](http://nim-lang.org).
 
 ## Adding your own package
 To add your own package, fork this repository, edit
@@ -11,9 +11,9 @@ To add your own package, fork this repository, edit
 [Packages.json](packages.json) is a simple array of objects. Each package
 object should have the following fields (unless the field is marked as
 optional):
-  
+
   * name   - The name of the package, this should match the name in the package's
-             babel file.
+             nimble file.
   * url    - The url from which to retrieve the package.
   * method - The method that should be used to retrieve this package. Currently
              "git" and "hg" is supported.
@@ -26,4 +26,4 @@ optional):
 Your packages may be removed if the url stops working. It goes without saying
 that your pull request will not be accepted unless you fill out all of the
 above required fields correctly, the package that ``url`` points to must also
-contain a babel file, or else it will be rejected.
+contain a .nimble file, or else it will be rejected.
