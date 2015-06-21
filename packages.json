@@ -742,6 +742,33 @@
     "web": "https://github.com/flyx/emerald"
   },
   {
+     "name": "niminst",
+     "url": "git://github.com/nim-lang/niminst",
+     "method": "git",
+     "tags": ["app", "binary", "tool", "installation", "generator", "nim"],
+     "description": "tool to generate installers for Nim programs",
+     "license": "MIT",
+     "web": "https://github.com/nim-lang/niminst"
+  },
+  {
+     "name": "redis",
+     "url": "git://github.com/nim-lang/redis",
+     "method": "git",
+     "tags": ["redis", "client", "library"],
+     "description": "official redis client for Nim",
+     "license": "MIT",
+     "web": "https://github.com/nim-lang/redis"
+  },
+  {
+     "name": "dialogs",
+     "url": "git://github.com/nim-lang/dialogs",
+     "method": "git",
+     "tags": ["library", "ui", "gui", "dialog", "file"],
+     "description": "wraps GTK+ or Windows' open file dialogs",
+     "license": "MIT",
+     "web": "https://github.com/nim-lang/dialogs"
+   },
+   {
     "name": "vectors",
     "url": "git://github.com/blamestross/nimrod-vectors",
     "method": "git",
