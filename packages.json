@@ -1749,5 +1749,14 @@
     "description": "Temporary package to fix broken code in 0.11.2 stable.",
     "license": "MIT",
     "web": "https://github.com/fallingduck/options-nim"
+  },
+  {
+    "name": "oldwinapi",
+    "url": "git://github.com/nim-lang/oldwinapi",
+    "method": "git",
+    "tags": ["library", "windows", "api"],
+    "description": "Old Win API library for Nim",
+    "license": "LGPL with static linking exception",
+    "web": "https://github.com/nim-lang/oldwinapi"
   }
 ]
