@@ -1767,5 +1767,14 @@
     "description": "Cross-platform GUI framework",
     "license": "BSD",
     "web": "https://github.com/yglukhov/nimx"
+  },
+    {
+    "name": "memo",
+    "url": "https://github.com/andreaferretti/memo",
+    "method": "git",
+    "tags": ["memo", "memoization", "memoize", "cache"],
+    "description": "Memoize Nim functions",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/andreaferretti/memo"
   }
 ]
