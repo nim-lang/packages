@@ -1776,5 +1776,14 @@
     "description": "Memoize Nim functions",
     "license": "Apache License 2.0",
     "web": "https://github.com/andreaferretti/memo"
+  },
+  {
+    "name": "base62",
+    "url":  "https://github.com/singularperturbation/base62-encode",
+    "method": "git",
+    "tags":  ["base62","encode","decode"],
+    "description": "Arbitrary base encoding-decoding functions, defaulting to Base-62.",
+    "license": "MIT",
+    "web": "https://github.com/singularperturbation/base62-encode"
   }
 ]
