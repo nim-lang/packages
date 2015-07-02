@@ -1768,7 +1768,7 @@
     "license": "BSD",
     "web": "https://github.com/yglukhov/nimx"
   },
-    {
+  {
     "name": "memo",
     "url": "https://github.com/andreaferretti/memo",
     "method": "git",
