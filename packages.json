@@ -1785,5 +1785,14 @@
     "description": "Arbitrary base encoding-decoding functions, defaulting to Base-62.",
     "license": "MIT",
     "web": "https://github.com/singularperturbation/base62-encode"
+  },
+  {
+    "name": "telebot",
+    "url": "https://github.com/rgv151/telebot.nim",
+    "method": "git",
+    "tags": ["telebot", "telegram", "bot", "api", "client", "async"],
+    "description": "Async Telegram Bot API Client",
+    "license": "MIT",
+    "web": "https://github.com/rgv151/telebot.nim"
   }
 ]
