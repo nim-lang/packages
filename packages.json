@@ -1803,5 +1803,14 @@
     "description": "Temporary files and directories",
     "license": "MIT",
     "web": "https://github.com/rgv151/tempfile.nim"
+  },
+  {
+    "name": "AstroNimy",
+    "url":  "https://github.com/super-massive-black-holes/AstroNimy",
+    "method": "git",
+    "tags":  ["science","astronomy","library"],
+    "description": "Astronomical library for Nim",
+    "license": "MIT",
+    "web": "https://github.com/super-massive-black-holes/AstroNimy"  	
   }
 ]
