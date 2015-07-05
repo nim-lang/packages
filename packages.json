@@ -1811,6 +1811,15 @@
     "tags":  ["science","astronomy","library"],
     "description": "Astronomical library for Nim",
     "license": "MIT",
-    "web": "https://github.com/super-massive-black-holes/AstroNimy"  	
+    "web": "https://github.com/super-massive-black-holes/AstroNimy"
+  },
+  {
+    "name": "patty",
+    "url": "https://github.com/andreaferretti/patty",
+    "method": "git",
+    "tags": ["pattern", "adt", "variant", "pattern matching", "algebraic data type"],
+    "description": "Algebraic data types and pattern matching",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/andreaferretti/patty"
   }
 ]
