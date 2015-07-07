@@ -1821,5 +1821,14 @@
     "description": "Algebraic data types and pattern matching",
     "license": "Apache License 2.0",
     "web": "https://github.com/andreaferretti/patty"
+  },
+  {
+    "name": "einheit",
+    "url": "https://github.com/jyapayne/einheit",
+    "method": "git",
+    "tags": ["unit", "tests", "unittest", "unit tests", "unit test macro"],
+    "description": "Pretty looking, full featured, Python-inspired unit test library.",
+    "license": "MIT",
+    "web": "https://github.com/jyapayne/einheit"
   }
 ]
