@@ -1,5 +1,15 @@
 [
   {
+    "name": "ncurses",
+    "url": "git://github.com/rnowley/nim-ncurses/",
+    "method": "git",
+    "tags": ["library", "terminal", "graphics", "wrapper"],
+    "description": "A wrapper for NCurses",
+    "license": "MIT",
+    "web": "https://github.com/rnowley/nim-ncurses"
+  },
+
+  {
     "name": "argument_parser",
     "url": "git://github.com/gradha/argument_parser/",
     "method": "git",
