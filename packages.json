@@ -1830,5 +1830,14 @@
     "description": "Pretty looking, full featured, Python-inspired unit test library.",
     "license": "MIT",
     "web": "https://github.com/jyapayne/einheit"
+  },
+  {
+    "name": "plists",
+    "url": "https://github.com/yglukhov/plists",
+    "method": "git",
+    "tags": ["plist", "property", "list"],
+    "description": "Generate and parse Mac OS X .plist files in Nim.",
+    "license": "MIT",
+    "web": "https://github.com/yglukhov/plists"
   }
 ]
