@@ -1839,5 +1839,14 @@
     "description": "Generate and parse Mac OS X .plist files in Nim.",
     "license": "MIT",
     "web": "https://github.com/yglukhov/plists"
+  },
+  {
+    "name": "ncurses",
+    "url": "git://github.com/rnowley/nim-ncurses/",
+    "method": "git",
+    "tags": ["library", "terminal", "graphics", "wrapper"],
+    "description": "A wrapper for NCurses",
+    "license": "MIT",
+    "web": "https://github.com/rnowley/nim-ncurses"
   }
 ]
