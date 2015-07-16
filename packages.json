@@ -1857,5 +1857,32 @@
     "description": "A wrapper for NanoVG vector graphics rendering",
     "license": "MIT",
     "web": "https://github.com/fowlmouth/nanovg.nim"
+  },
+  {
+    "name": "pwd",
+    "url": "git://github.com/achesak/nim-pwd",
+    "method": "git",
+    "tags": ["library", "unix", "pwd", "password"],
+    "description": "Nim port of Python's pwd module for working with the UNIX password file",
+    "license": "MIT",
+    "web": "https://github.com/achesak/nim-pwd"
+  },
+  {
+    "name": "spwd",
+    "url": "git://github.com/achesak/nim-spwd",
+    "method": "git",
+    "tags": ["library", "unix", "spwd", "password", "shadow"],
+    "description": "Nim port of Python's spwd module for working with the UNIX shadow password file",
+    "license": "MIT",
+    "web": "https://github.com/achesak/nim-spwd"
+  },
+  {
+    "name": "grp",
+    "url": "git://github.com/achesak/nim-grp",
+    "method": "git",
+    "tags": ["library", "unix", "grp", "group"],
+    "description": "Nim port of Python's grp module for working with the UNIX group database file",
+    "license": "MIT",
+    "web": "https://github.com/achesak/nim-grp"
   }
 ]
