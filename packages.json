@@ -1884,5 +1884,14 @@
     "description": "Nim port of Python's grp module for working with the UNIX group database file",
     "license": "MIT",
     "web": "https://github.com/achesak/nim-grp"
+  },
+  {
+    "name": "stopwatch",
+    "url": "https://github.com/rbmz/stopwatch",
+    "method": "git",
+    "tags": ["timer", "benchmarking"],
+    "description": "A simple benchmarking/timer library based on nim's lib/system/timers.nim",
+    "license": "MIT",
+    "web": "https://github.com/rbmz/stopwatch"
   }
 ]
