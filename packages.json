@@ -1893,5 +1893,14 @@
     "description": "A simple benchmarking/timer library based on nim's lib/system/timers.nim",
     "license": "MIT",
     "web": "https://github.com/rbmz/stopwatch"
+  },
+  {
+    "name": "rethinkdb",
+    "url": "https://github.com/rgv151/rethinkdb.nim",
+    "method": "git",
+    "tags": ["rethinkdb", "driver", "client", "json"],
+    "description": "RethinkDB driver for Nim",
+    "license": "MIT",
+    "web": "https://github.com/rgv151/rethinkdb.nim"
   }
 ]
