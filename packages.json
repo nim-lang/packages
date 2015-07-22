@@ -1893,5 +1893,14 @@
     "description": "A simple benchmarking/timer library based on nim's lib/system/timers.nim",
     "license": "MIT",
     "web": "https://github.com/rbmz/stopwatch"
-  }
-]
+  },
+  {
+   "name": "nimFinLib",
+   "url": "https://github.com/qqtop/NimFinLib",
+   "method": "git",
+   "tags": ["financial"],
+   "description": "Financial Library for Nim",
+   "license": "MIT",
+   "web": "https://github.com/qqtop/NimFinLib"
+   }
+ ]
