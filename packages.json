@@ -1902,5 +1902,15 @@
    "description": "Financial Library for Nim",
    "license": "MIT",
    "web": "https://github.com/qqtop/NimFinLib"
-   }
+   },
+  {
+    "name": "libssh2",
+    "url": "https://github.com/rgv151/libssh2.nim",
+    "method": "git",
+    "tags": ["lib", "ssh", "ssh2", "openssh", "client", "sftp", "scp"],
+    "description": "Nim wrapper for libssh2",
+    "license": "MIT",
+    "web": "https://github.com/rgv151/libssh2.nim"
+  }
+   
  ]
