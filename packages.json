@@ -377,10 +377,10 @@
     "web": "https://github.com/nim-lang/tcl"
   },
   {
-    "name": "nim-glm",
+    "name": "glm",
     "url": "https://github.com/stavenko/nim-glm",
     "method": "git",
-    "tags": ["opengl", "math", "matrix", "vector"],
+    "tags": ["opengl", "math", "matrix", "vector", "glsl"],
     "description": "Port of c++ glm library with shader-like syntax",
     "license": "MIT",
     "web": "https://github.com/stavenko/nim-glm"
