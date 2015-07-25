@@ -1910,7 +1910,7 @@
    "description": "Financial Library for Nim",
    "license": "MIT",
    "web": "https://github.com/qqtop/NimFinLib"
-   },
+  },
   {
     "name": "libssh2",
     "url": "https://github.com/rgv151/libssh2.nim",
@@ -1919,6 +1919,14 @@
     "description": "Nim wrapper for libssh2",
     "license": "MIT",
     "web": "https://github.com/rgv151/libssh2.nim"
+  },
+  {
+    "name": "rethinkdb",
+    "url": "https://github.com/rgv151/rethinkdb.nim",
+    "method": "git",
+    "tags": ["rethinkdb", "driver", "client", "json"],
+    "description": "RethinkDB driver for Nim",
+    "license": "MIT",
+    "web": "https://github.com/rgv151/rethinkdb.nim"
   }
-   
  ]
