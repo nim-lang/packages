@@ -1117,7 +1117,7 @@
     "tags": ["library", "nim"],
     "description": "Compiler package providing the compiler sources as a library.",
     "license": "MIT",
-    "web": "https://github.com/Araq/Nim"
+    "web": "https://github.com/nim-lang/Nim"
   },
   {
     "name": "nre",
