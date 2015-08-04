@@ -1937,5 +1937,14 @@
     "description": "dbus bindings for Nim",
     "license": "MIT",
     "web": "https://github.com/zielmicha/nim-dbus"
+  },
+  {
+    "name": "lmdb",
+    "url": "https://github.com/fowlmouth/lmdb.nim",
+    "method": "git",
+    "tags": ["wrapper", "lmdb"],
+    "description": "A wrapper for LMDB the Lightning Memory-Mapped Database",
+    "license": "MIT",
+    "web": "https://github.com/fowlmouth/lmdb.nim"
   }
  ]
