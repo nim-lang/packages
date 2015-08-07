@@ -1946,5 +1946,14 @@
     "description": "A wrapper for LMDB the Lightning Memory-Mapped Database",
     "license": "MIT",
     "web": "https://github.com/fowlmouth/lmdb.nim"
+  },
+  {
+    "name": "zip",
+    "url": "https://github.com/nim-lang/zip",
+    "method": "git",
+    "tags": ["wrapper", "zip"],
+    "description": "A wrapper for the zip library",
+    "license": "MIT",
+    "web": "https://github.com/nim-lang/zip"
   }
  ]
