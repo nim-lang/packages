@@ -1955,5 +1955,14 @@
     "description": "A wrapper for the zip library",
     "license": "MIT",
     "web": "https://github.com/nim-lang/zip"
+  },
+  {
+    "name": "csvtools",
+    "url": "https://github.com/unicredit/csvtools",
+    "method": "git",
+    "tags": ["CSV", "comma separated values", "TSV"],
+    "description": "Manage CSV files",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/unicredit/csvtools"
   }
  ]
