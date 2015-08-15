@@ -1964,5 +1964,14 @@
     "description": "Manage CSV files",
     "license": "Apache License 2.0",
     "web": "https://github.com/unicredit/csvtools"
+  },
+  {
+    "name": "httpform",
+    "url": "https://github.com/tulayang/httpform",
+    "method": "git",
+    "tags": ["request parser", "upload", "html5 file"],
+    "description": "Http request form parser",
+    "license": "MIT",
+    "web": "https://github.com/tulayang/httpform"
   }
  ]
