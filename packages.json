@@ -747,7 +747,7 @@
     "tags": ["dsl", "html", "template", "web"],
     "description": "macro-based HTML templating engine",
     "license": "WTFPL",
-    "web": "https://github.com/flyx/emerald"
+    "web": "https://flyx.github.io/emerald/"
   },
   {
      "name": "niminst",
