@@ -2986,5 +2986,19 @@
     "description": "Expat wrapper for Nim",
     "license": "MIT",
     "web": "https://github.com/nim-lang/expat"
+  },
+  {
+    "name": "sphinx",
+    "url": "https://github.com/Araq/sphinx",
+    "method": "git",
+    "tags": [
+      "sphinx",
+      "wrapper",
+      "search",
+      "engine"
+    ],
+    "description": "Sphinx wrapper for Nim",
+    "license": "LGPL",
+    "web": "https://github.com/Araq/sphinx"
   }
 ]
