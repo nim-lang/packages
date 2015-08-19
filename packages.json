@@ -2959,5 +2959,17 @@
     "description": "A simple tool to manage multiple installs of Nim.",
     "license": "MIT",
     "web": "https://christine.website/projects/Vardene"
+  },
+  {
+    "name": "quadtree",
+    "url": "https://github.com/Nycto/QuadtreeNim",
+    "method": "git",
+    "tags": [
+      "quadtree",
+      "algorithm"
+    ],
+    "description": "A Quadtree implementation",
+    "license": "MIT",
+    "web": "https://github.com/Nycto/QuadtreeNim"
   }
 ]
