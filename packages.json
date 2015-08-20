@@ -85,6 +85,7 @@
     "license": "zlib",
     "web": "https://github.com/Vladar4/libtcod-nim"
   },
+<<<<<<< HEAD
   {
     "name": "nimepak",
     "url": "git://github.com/gradha/epak/",
@@ -99,6 +100,8 @@
     "license": "Allegro 4 Giftware",
     "web": "https://github.com/gradha/epak"
   },
+=======
+>>>>>>> fetch
   {
     "name": "nimgame",
     "url": "git://github.com/Vladar4/nimgame/",
@@ -2973,6 +2976,18 @@
     "description": "A simple tool to manage multiple installs of Nim.",
     "license": "MIT",
     "web": "https://christine.website/projects/Vardene"
+  },
+  {
+    "name": "quadtree",
+    "url": "https://github.com/Nycto/QuadtreeNim",
+    "method": "git",
+    "tags": [
+      "quadtree",
+      "algorithm"
+    ],
+    "description": "A Quadtree implementation",
+    "license": "MIT",
+    "web": "https://github.com/Nycto/QuadtreeNim"
   },
   {
     "name": "expat",
