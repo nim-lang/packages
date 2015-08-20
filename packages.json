@@ -2998,5 +2998,21 @@
     "description": "Sphinx wrapper for Nim",
     "license": "LGPL",
     "web": "https://github.com/Araq/sphinx"
+  },
+  {
+    "name": "sdl1",
+    "url": "https://github.com/nim-lang/sdl1",
+    "method": "git",
+    "tags": [
+      "graphics",
+      "library",
+      "multi-media",
+      "input",
+      "sound",
+      "joystick"
+    ],
+    "description": "SDL 1.2 wrapper for Nim.",
+    "license": "LGPL",
+    "web": "https://github.com/nim-lang/sdl1"
   }
 ]
