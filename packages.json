@@ -85,23 +85,6 @@
     "license": "zlib",
     "web": "https://github.com/Vladar4/libtcod-nim"
   },
-<<<<<<< HEAD
-  {
-    "name": "nimepak",
-    "url": "git://github.com/gradha/epak/",
-    "method": "git",
-    "tags": [
-      "library",
-      "serialization",
-      "file",
-      "compression"
-    ],
-    "description": "File compression routines in C for iOS and Nimrod",
-    "license": "Allegro 4 Giftware",
-    "web": "https://github.com/gradha/epak"
-  },
-=======
->>>>>>> fetch
   {
     "name": "nimgame",
     "url": "git://github.com/Vladar4/nimgame/",
