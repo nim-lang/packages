@@ -2971,5 +2971,32 @@
     "description": "A Quadtree implementation",
     "license": "MIT",
     "web": "https://github.com/Nycto/QuadtreeNim"
+  },
+  {
+    "name": "expat",
+    "url": "https://github.com/nim-lang/expat",
+    "method": "git",
+    "tags": [
+      "expat",
+      "xml",
+      "parsing"
+    ],
+    "description": "Expat wrapper for Nim",
+    "license": "MIT",
+    "web": "https://github.com/nim-lang/expat"
+  },
+  {
+    "name": "sphinx",
+    "url": "https://github.com/Araq/sphinx",
+    "method": "git",
+    "tags": [
+      "sphinx",
+      "wrapper",
+      "search",
+      "engine"
+    ],
+    "description": "Sphinx wrapper for Nim",
+    "license": "LGPL",
+    "web": "https://github.com/Araq/sphinx"
   }
 ]
