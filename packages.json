@@ -3026,5 +3026,20 @@
     "description": "Graphics module for Nim.",
     "license": "MIT",
     "web": "https://github.com/nim-lang/graphics"
+  },
+  {
+    "name": "libffi",
+    "url": "https://github.com/Araq/libffi",
+    "method": "git",
+    "tags": [
+      "ffi",
+      "library",
+      "C",
+      "calling",
+      "convention"
+    ],
+    "description": "libffi wrapper for Nim.",
+    "license": "MIT",
+    "web": "https://github.com/Araq/libffi"
   }
 ]
