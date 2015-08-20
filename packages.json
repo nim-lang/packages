@@ -3014,5 +3014,17 @@
     "description": "SDL 1.2 wrapper for Nim.",
     "license": "LGPL",
     "web": "https://github.com/nim-lang/sdl1"
+  },
+  {
+    "name": "graphics",
+    "url": "https://github.com/nim-lang/graphics",
+    "method": "git",
+    "tags": [
+      "library",
+      "SDL"
+    ],
+    "description": "Graphics module for Nim.",
+    "license": "MIT",
+    "web": "https://github.com/nim-lang/graphics"
   }
 ]
