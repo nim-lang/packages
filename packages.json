@@ -3055,5 +3055,17 @@
     "description": "Nim wrapper for libcurl.",
     "license": "MIT",
     "web": "https://github.com/Araq/libcurl"
+  },
+  {
+    "name": "perlin",
+    "url": "https://github.com/Nycto/PerlinNim",
+    "method": "git",
+    "tags": [
+      "perlin",
+      "noise"
+    ],
+    "description": "A perlin noise generation library",
+    "license": "MIT",
+    "web": "https://github.com/Nycto/PerlinNim"
   }
 ]
