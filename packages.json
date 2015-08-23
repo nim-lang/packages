@@ -3067,5 +3067,18 @@
     "description": "A perlin noise generation library",
     "license": "MIT",
     "web": "https://github.com/Nycto/PerlinNim"
+  },
+  {
+    "name": "nimble",
+    "url": "https://github.com/dom96/nimble",
+    "method": "git",
+    "tags": [
+      "asd",
+      "otoo",
+      "asd"
+    ],
+    "description": "Nim package manager.",
+    "license": "BSD",
+    "web": "https://github.com/dom96/nimble"
   }
 ]
