@@ -3067,5 +3067,23 @@
     "description": "A perlin noise generation library",
     "license": "MIT",
     "web": "https://github.com/Nycto/PerlinNim"
+  },
+  {
+    "name": "pfring",
+    "url": "https://github.com/rgv151/pfring.nim",
+    "method": "git",
+    "tags": [
+      "pf_ring",
+      "packet",
+      "sniff",
+      "pcap",
+      "pfring",
+      "network",
+      "capture",
+      "socket"
+    ],
+    "description": "PF_RING wrapper for Nim",
+    "license": "MIT",
+    "web": "https://github.com/rgv151/pfring.nim"
   }
 ]
