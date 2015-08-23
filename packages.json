@@ -3055,5 +3055,18 @@
     "description": "Nim wrapper for libcurl.",
     "license": "MIT",
     "web": "https://github.com/Araq/libcurl"
+  },
+  {
+    "name": "nimble",
+    "url": "git@github.com:dom96/nimble",
+    "method": "git",
+    "tags": [
+      "test",
+      "bar",
+      "baz"
+    ],
+    "description": "Nim package manager.",
+    "license": "BSD",
+    "web": "git@github.com:dom96/nimble"
   }
 ]
