@@ -3099,5 +3099,18 @@
     "description": "XXTEA wrapper for Nim",
     "license": "MIT",
     "web": "https://github.com/rgv151/xxtea.nim"
+  },
+  {
+    "name": "xxhash",
+    "url": "https://github.com/rgv151/xxhash.nim",
+    "method": "git",
+    "tags": [
+      "fast",
+      "hash",
+      "algorithm"
+    ],
+    "description": "xxhash wrapper for Nim",
+    "license": "MIT",
+    "web": "https://github.com/rgv151/xxhash.nim"
   }
 ]
