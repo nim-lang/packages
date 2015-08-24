@@ -3085,5 +3085,19 @@
     "description": "PF_RING wrapper for Nim",
     "license": "MIT",
     "web": "https://github.com/rgv151/pfring.nim"
+  },
+  {
+    "name": "xxtea",
+    "url": "https://github.com/rgv151/xxtea.nim",
+    "method": "git",
+    "tags": [
+      "xxtea",
+      "encrypt",
+      "decrypt",
+      "crypto"
+    ],
+    "description": "XXTEA wrapper for Nim",
+    "license": "MIT",
+    "web": "https://github.com/rgv151/xxtea.nim"
   }
 ]
