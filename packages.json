@@ -3087,6 +3087,7 @@
     "web": "https://github.com/rgv151/pfring.nim"
   },
   {
+<<<<<<< HEAD
     "name": "xxtea",
     "url": "https://github.com/rgv151/xxtea.nim",
     "method": "git",
@@ -3112,5 +3113,24 @@
     "description": "xxhash wrapper for Nim",
     "license": "MIT",
     "web": "https://github.com/rgv151/xxhash.nim"
+  },
+  {
+    "name": "libipset",
+    "url": "https://github.com/rgv151/libipset.nim",
+    "method": "git",
+    "tags": [
+      "ipset",
+      "firewall",
+      "netfilter",
+      "mac",
+      "ip",
+      "network",
+      "collection",
+      "rule",
+      "set"
+    ],
+    "description": "libipset wrapper for Nim",
+    "license": "MIT",
+    "web": "https://github.com/rgv151/libipset.nim"
   }
 ]
