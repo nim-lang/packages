@@ -1,7 +1,7 @@
 [
   {
     "name": "argument_parser",
-    "url": "git://github.com/gradha/argument_parser/",
+    "url": "git://github.com/Xe/argument_parser/",
     "method": "git",
     "tags": [
       "library",
@@ -12,7 +12,7 @@
     ],
     "description": "Provides a complex commandline parser",
     "license": "MIT",
-    "web": "https://github.com/gradha/argument_parser"
+    "web": "https://github.com/Xe/argument_parser"
   },
   {
     "name": "genieos",
