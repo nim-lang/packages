@@ -3133,4 +3133,17 @@
     "license": "MIT",
     "web": "https://github.com/rgv151/libipset.nim"
   }
+  {
+    "name": "nim-pop3",
+    "url": "https://github.com/FedericoCeratto/nim-pop3",
+    "method": "git",
+    "tags": [
+      "network",
+      "pop3",
+      "email",
+    ],
+    "description": "POP3 client library",
+    "license": "LGPLv3",
+    "web": "https://github.com/FedericoCeratto/nim-pop3"
+  }
 ]
