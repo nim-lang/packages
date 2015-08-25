@@ -3062,9 +3062,10 @@
     "method": "git",
     "tags": [
       "perlin",
+      "simplex",
       "noise"
     ],
-    "description": "A perlin noise generation library",
+    "description": "Perlin noise and Simplex noise generation",
     "license": "MIT",
     "web": "https://github.com/Nycto/PerlinNim"
   },
