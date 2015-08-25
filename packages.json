@@ -3132,7 +3132,7 @@
     "description": "libipset wrapper for Nim",
     "license": "MIT",
     "web": "https://github.com/rgv151/libipset.nim"
-  }
+  },
   {
     "name": "nim-pop3",
     "url": "https://github.com/FedericoCeratto/nim-pop3",
