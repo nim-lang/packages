@@ -3134,7 +3134,7 @@
     "web": "https://github.com/rgv151/libipset.nim"
   },
   {
-    "name": "nim-pop3",
+    "name": "pop3",
     "url": "https://github.com/FedericoCeratto/nim-pop3",
     "method": "git",
     "tags": [
