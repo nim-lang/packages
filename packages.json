@@ -2295,6 +2295,19 @@
     "web": "https://github.com/jangko/msgpack4nim"
   },
   {
+    "name": "nim-rpc",
+    "url": "https://github.com/rogercloud/nim-rpc",
+    "method": "git",
+    "tags": [
+      "msgpack",
+      "library",
+      "rpc"
+    ],
+    "description": "RPC implementation for Nim based on msgpack4nim",
+    "license": "MIT",
+    "web": "https://github.com/rogercloud/nim-rpc"
+  },
+  {
     "name": "binaryheap",
     "url": "https://github.com/bluenote10/nim-heap",
     "method": "git",
