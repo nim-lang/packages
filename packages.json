@@ -1627,7 +1627,7 @@
     ],
     "description": "Opt parser using synopsis as specification, ported from Lua.",
     "license": "MIT",
-    "web": "https://gitlab.3dicc.com/gokr/lapp"
+    "web": "https://gitlab.3dicc.com/gokr/lapp.git"
   },
   {
     "name": "blimp",
