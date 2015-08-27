@@ -3145,5 +3145,19 @@
     "description": "POP3 client library",
     "license": "LGPLv3",
     "web": "https://github.com/FedericoCeratto/nim-pop3"
+  },
+  {
+    "name": "nimrpc",
+    "url": "https://github.com/rogercloud/nim-rpc",
+    "method": "git",
+    "tags": [
+      "msgpack",
+      "library",
+      "rpc",
+      "nimrpc"
+    ],
+    "description": "RPC implementation for Nim based on msgpack4nim",
+    "license": "MIT",
+    "web": "https://github.com/rogercloud/nim-rpc"
   }
 ]
