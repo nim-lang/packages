@@ -3159,5 +3159,18 @@
     "description": "RPC implementation for Nim based on msgpack4nim",
     "license": "MIT",
     "web": "https://github.com/rogercloud/nim-rpc"
+  },
+  {
+    "name": "asyncevents",
+    "url": "https://github.com/tulayang/asyncevents",
+    "method": "git",
+    "tags": [
+      "event",
+      "future",
+      "asyncdispath"
+    ],
+    "description": "Asynchronous event loop for progaming with MVC",
+    "license": "MIT",
+    "web": "https://github.com/tulayang/asyncevents"
   }
 ]
