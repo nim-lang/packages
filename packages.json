@@ -1,18 +1,5 @@
 [
   {
-    "name": "nimeverything",
-    "url": "git://github.com/xland/nimeverything/",
-    "method": "git",
-    "tags": [
-      "everything",
-      "voidtools",
-      "Everything Search Engine"
-    ],
-    "description": "everything  search engine wrapper",
-    "license": "MIT",
-    "web": "https://github.com/xland/nimeverything"
-  },
-  {
     "name": "argument_parser",
     "url": "git://github.com/Xe/argument_parser/",
     "method": "git",
@@ -3214,5 +3201,18 @@
     "description": "Advanced Encryption Standard, Rijndael Algorithm",
     "license": "MIT",
     "web": "https://github.com/jangko/nimAES"
+  },
+  {
+    "name": "nimeverything",
+    "url": "git://github.com/xland/nimeverything/",
+    "method": "git",
+    "tags": [
+      "everything",
+      "voidtools",
+      "Everything Search Engine"
+    ],
+    "description": "everything  search engine wrapper",
+    "license": "MIT",
+    "web": "https://github.com/xland/nimeverything"
   }
 ]
