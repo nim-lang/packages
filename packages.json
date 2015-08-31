@@ -16,7 +16,7 @@
   },
   {
     "name": "genieos",
-    "url": "git://github.com/gradha/genieos/",
+    "url": "git://github.com/Araq/genieos/",
     "method": "git",
     "tags": [
       "library",
@@ -27,7 +27,7 @@
     ],
     "description": "Too awesome procs to be included in nimrod.os module",
     "license": "MIT",
-    "web": "http://gradha.github.io/genieos/"
+    "web": "http://github.com/Araq/genieos/"
   },
   {
     "name": "jester",
