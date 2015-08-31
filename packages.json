@@ -3172,5 +3172,34 @@
     "description": "Asynchronous event loop for progaming with MVC",
     "license": "MIT",
     "web": "https://github.com/tulayang/asyncevents"
+  },
+  {
+    "name": "nimSHA2",
+    "url": "https://github.com/jangko/nimSHA2",
+    "method": "git",
+    "tags": [
+      "hash",
+      "crypto",
+      "library",
+      "sha2"
+    ],
+    "description": "Secure Hash Algorithm - 2, [224, 256, 384, and 512 bits]",
+    "license": "MIT",
+    "web": "https://github.com/jangko/nimSHA2"
+  },
+  {
+    "name": "nimAES",
+    "url": "https://github.com/jangko/nimAES",
+    "method": "git",
+    "tags": [
+      "crypto",
+      "library",
+      "aes",
+      "encryption",
+      "rijndael"
+    ],
+    "description": "Advanced Encryption Standard, Rijndael Algorithm",
+    "license": "MIT",
+    "web": "https://github.com/jangko/nimAES"
   }
 ]
