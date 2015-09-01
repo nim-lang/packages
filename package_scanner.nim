@@ -63,6 +63,9 @@ proc canFetchNimbleRepository(name: string, urlJson: JsonNode): bool =
     except AssertionError:
       echo "W: ", name, ": httpclient failed ", url, " ",
            getCurrentExceptionMsg()
+    except:
+      echo "W: Another error attempting to request: ", url
+      echo "  Error was: ", getCurrentExceptionMsg()
 
 
 proc check(): int =
