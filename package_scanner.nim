@@ -55,7 +55,7 @@ proc canFetchNimbleRepository(name: string, urlJson: JsonNode): bool =
     url = urlJson.str
 
     try:
-      discard getContent(url, timeout=1000)
+      discard getContent(url, timeout=5000)
     except HttpRequestError, TimeoutError:
       echo "E: ", name, ": unable to fetch repository ", url, " ",
            getCurrentExceptionMsg()
