@@ -20,6 +20,8 @@ import httpclient
 import net
 import json
 import os
+import sets
+import strutils
 
 const
 
@@ -72,6 +74,8 @@ proc check(): int =
   let
     pkg_list = parseJson(readFile(getCurrentDir() / "packages.json"))
 
+  var names = initSet[string]()
+
   for pdata in pkg_list:
     name = if pdata.hasKey("name"): pdata["name"].str else: nil
 
@@ -111,6 +115,11 @@ proc check(): int =
       if not (pdata["license"].str in LICENSES):
         echo "W: ", name, " has an unexpected license: ", pdata["license"]
 
+    if name.normalize notin names:
+      names.incl(name.normalize)
+    else:
+      echo("E: ", name, ": a package by that name already exists.")
+      result.inc()
 
   echo ""
   echo "Problematic packages count: ", result
