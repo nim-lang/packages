@@ -3214,5 +3214,31 @@
     "description": "everything  search engine wrapper",
     "license": "MIT",
     "web": "https://github.com/xland/nimeverything"
+  },
+  {
+    "name": "vidhdr",
+    "url": "git://github.com/achesak/nim-vidhdr",
+    "method": "git",
+    "tags": [
+      "video",
+      "formats",
+      "file"
+    ],
+    "description": "Library for detecting the format of an video file",
+    "license": "MIT",
+    "web": "https://github.com/achesak/nim-vidhdr"
+  },
+  {
+    "name": "gitapi",
+    "url": "git://github.com/achesak/nim-gitapi",
+    "method": "git",
+    "tags": [
+      "git",
+      "version control",
+      "library"
+    ],
+    "description": "Nim wrapper around the git version control software",
+    "license": "MIT",
+    "web": "https://github.com/achesak/nim-gitapi"
   }
 ]
