@@ -3240,5 +3240,21 @@
     "description": "Nim wrapper around the git version control software",
     "license": "MIT",
     "web": "https://github.com/achesak/nim-gitapi"
+  },
+  {
+    "name": "ptrace",
+    "url": "https://github.com/rgv151/ptrace.nim",
+    "method": "git",
+    "tags": [
+      "ptrace",
+      "trace",
+      "process",
+      "syscal",
+      "system",
+      "call"
+    ],
+    "description": "ptrace wrapper for Nim",
+    "license": "MIT",
+    "web": "https://github.com/rgv151/ptrace.nim"
   }
 ]
