@@ -3258,7 +3258,7 @@
     "web": "https://github.com/rgv151/ptrace.nim"
   },
   {
-    "name": "nim-db-ex",
+    "name": "ndbex",
     "url": "https://github.com/Senketsu/nim-db-ex",
     "method": "git",
     "tags": [
