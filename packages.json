@@ -3256,5 +3256,23 @@
     "description": "ptrace wrapper for Nim",
     "license": "MIT",
     "web": "https://github.com/rgv151/ptrace.nim"
+  },
+  {
+    "name": "ndbex",
+    "url": "https://github.com/Senketsu/nim-db-ex",
+    "method": "git",
+    "tags": [
+      "extension",
+      "database",
+      "Nim",
+      "convenience",
+      "db",
+      "mysql",
+      "postgres",
+      "sqlite"
+    ],
+    "description": "extension modules for Nim's 'db_*' modules",
+    "license": "MIT",
+    "web": "https://github.com/Senketsu/nim-db-ex"
   }
 ]
