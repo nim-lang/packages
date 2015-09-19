@@ -3274,5 +3274,18 @@
     "description": "extension modules for Nim's 'db_*' modules",
     "license": "MIT",
     "web": "https://github.com/Senketsu/nim-db-ex"
+  },
+  {
+    "name": "ni",
+    "url": "git://github.com/gokr/ni/",
+    "method": "git",
+    "tags": [
+      "language",
+      "library",
+      "scripting"
+    ],
+    "description": "A Rebol-ish language implemented as an AST interpreter",
+    "license": "MIT",
+    "web": "https://github.com/gokr/ni"
   }
 ]
