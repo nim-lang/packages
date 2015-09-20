@@ -3287,5 +3287,31 @@
     "description": "A Rebol-ish language implemented as an AST interpreter",
     "license": "MIT",
     "web": "https://github.com/gokr/ni"
+  },
+  {
+    "name": "nimBMP",
+    "url": "https://github.com/jangko/nimBMP",
+    "method": "git",
+    "tags": [
+      "graphics",
+      "library",
+      "BMP"
+    ],
+    "description": "BMP encoder and decoder",
+    "license": "MIT",
+    "web": "https://github.com/jangko/nimBMP"
+  },
+  {
+    "name": "nimPNG",
+    "url": "https://github.com/jangko/nimPNG",
+    "method": "git",
+    "tags": [
+      "graphics",
+      "library",
+      "PNG"
+    ],
+    "description": "PNG(Portable Network Graphics) encoder and decoder",
+    "license": "MIT",
+    "web": "https://github.com/jangko/nimPNG"
   }
 ]
