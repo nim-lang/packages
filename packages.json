@@ -3315,7 +3315,7 @@
     "web": "https://github.com/jangko/nimPNG"
   },
   {
-    "name": "LiteStore",
+    "name": "litestore",
     "url": "https://github.com/h3rald/litestore",
     "method": "git",
     "tags": [
