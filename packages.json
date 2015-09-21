@@ -3327,4 +3327,19 @@
     "license": "MIT",
     "web": "https://h3rald.com/litestore"
   }
+  {
+    "name": "parseFixed",
+    "url": "https://github.com/jlp765/parsefixed",
+    "method": "git",
+    "tags": [
+      "parse",
+      "fixed",
+      "width",
+      "parser",
+      "text"
+    ],
+    "description": "Parse fixed-width fields within lines of text (complementary to parsecsv)",
+    "license": "MIT",
+    "web": "https://github.com/jlp765/parsefixed"
+  }
 ]
