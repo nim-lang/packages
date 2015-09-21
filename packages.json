@@ -3326,9 +3326,9 @@
     "description": "A lightweight, self-contained, RESTful, searchable, multi-format NoSQL document store",
     "license": "MIT",
     "web": "https://h3rald.com/litestore"
-  }
+  },
   {
-    "name": "parsefixed",
+    "name": "parseFixed",
     "url": "https://github.com/jlp765/parsefixed",
     "method": "git",
     "tags": [
