@@ -3356,5 +3356,24 @@
     "description": "Nim library for parsing PLS, M3U, and XSPF playlist files",
     "license": "MIT",
     "web": "https://github.com/achesak/nim-playlists"
+  },
+ {
+    "name": "seqmath",
+    "url": "https://github.com/jlp765/seqmath",
+    "method": "git",
+    "tags": [
+      "math",
+      "seq",
+      "sequence",
+      "array",
+      "nested",
+      "algebra",
+      "statistics",
+      "lifted",
+      "financial"
+    ],
+    "description": "Nim math library for sequences and nested sequences (extends math library)",
+    "license": "MIT",
+    "web": "https://github.com/jlp765/seqmath"
   }
 ]
