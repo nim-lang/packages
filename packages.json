@@ -3356,5 +3356,21 @@
     "description": "Nim library for parsing PLS, M3U, and XSPF playlist files",
     "license": "MIT",
     "web": "https://github.com/achesak/nim-playlists"
+  },
+  {
+    "name": "daemonize",
+    "url": "https://github.com/rgv151/daemonize.nim",
+    "method": "git",
+    "tags": [
+      "daemonize",
+      "background",
+      "fork",
+      "unix",
+      "linux",
+      "process"
+    ],
+    "description": "This library makes your code run as a daemon process on Unix-like systems",
+    "license": "MIT",
+    "web": "https://github.com/rgv151/daemonize.nim"
   }
 ]
