@@ -3357,7 +3357,7 @@
     "license": "MIT",
     "web": "https://github.com/achesak/nim-playlists"
   },
- {
+  {
     "name": "seqmath",
     "url": "https://github.com/jlp765/seqmath",
     "method": "git",
@@ -3375,5 +3375,22 @@
     "description": "Nim math library for sequences and nested sequences (extends math library)",
     "license": "MIT",
     "web": "https://github.com/jlp765/seqmath"
+  },
+  {
+    "name": "daemonize",
+    "url": "https://github.com/rgv151/daemonize.nim",
+    "method": "git",
+    "tags": [
+      "daemonize",
+      "background",
+      "fork",
+      "unix",
+      "linux",
+      "process"
+    ],
+    "description": "This library makes your code run as a daemon process on Unix-like systems",
+    "license": "MIT",
+    "web": "https://github.com/rgv151/daemonize.nim"
+
   }
 ]
