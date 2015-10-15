@@ -3392,5 +3392,22 @@
     "license": "MIT",
     "web": "https://github.com/rgv151/daemonize.nim"
 
+  },
+  {
+    "name": "tnim",
+    "url": "https://github.com/jlp765/tnim",
+    "method": "git",
+    "tags": [
+      "REPL",
+      "sandbox",
+      "interactive",
+      "compiler",
+      "code",
+      "language",
+      "Nim"
+    ],
+    "description": "tnim is a Nim REPL - an interactive sandbox for testing Nim code",
+    "license": "MIT",
+    "web": "https://github.com/jlp765/tnim"
   }
 ]
