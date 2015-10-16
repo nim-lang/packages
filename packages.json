@@ -3392,5 +3392,31 @@
     "license": "MIT",
     "web": "https://github.com/rgv151/daemonize.nim"
 
+  },
+  {
+    "name": "ris",
+    "url": "https://github.com/achesak/nim-ris",
+    "method": "git",
+    "tags": [
+      "RIS",
+      "citation",
+      "library"
+    ],
+    "description": "Module for working with RIS citation files",
+    "license": "MIT",
+    "web": "https://github.com/achesak/nim-ris"
+  },
+  {
+    "name": "geoip",
+    "url": "https://github.com/achesak/nim-geoip",
+    "method": "git",
+    "tags": [
+      "IP",
+      "address",
+      "location"
+    ],
+    "description": "Retrieve info about a location from an IP address",
+    "license": "MIT",
+    "web": "https://github.com/achesak/nim-geoip"
   }
 ]
