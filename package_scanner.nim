@@ -27,6 +27,7 @@ const
 
   LICENSES = @[
     "Allegro 4 Giftware",
+    "Apache License 2.0",
     "BSD",
     "BSD3",
     "CC0",
@@ -37,9 +38,11 @@ const
     "LGPLv3",
     "MIT",
     "MS-PL",
+    "MPL",
     "WTFPL",
     "libpng",
-    "zlib"
+    "zlib",
+    "ISC"
   ]
 
   VCS_TYPES = @["git", "hg"]
