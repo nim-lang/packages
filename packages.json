@@ -3435,5 +3435,19 @@
     "description": "Retrieve info about a location from an IP address",
     "license": "MIT",
     "web": "https://github.com/achesak/nim-geoip"
+  },
+  {
+    "name": "nimroutine",
+    "url": "https://github.com/rogercloud/nim-routine",
+    "method": "git",
+    "tags": [
+      "goroutine",
+      "routine",
+      "lightweight",
+      "thread"
+    ],
+    "description": "A go routine like nim implementation",
+    "license": "MIT",
+    "web": "https://github.com/rogercloud/nim-routine"
   }
 ]
