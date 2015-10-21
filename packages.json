@@ -3449,5 +3449,17 @@
     "description": "A go routine like nim implementation",
     "license": "MIT",
     "web": "https://github.com/rogercloud/nim-routine"
+  },
+  {
+    "name": "coverage",
+    "url": "https://github.com/yglukhov/coverage",
+    "method": "git",
+    "tags": [
+      "code",
+      "coverage"
+    ],
+    "description": "Code coverage library",
+    "license": "MIT",
+    "web": "https://github.com/yglukhov/coverage"
   }
 ]
