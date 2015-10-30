@@ -3462,7 +3462,7 @@
     "web": "https://github.com/yglukhov/coverage"
   },
   {
-    "name": "golib-nim",
+    "name": "golib",
     "url": "https://github.com/stefantalpalaru/golib-nim",
     "method": "git",
     "tags": [
