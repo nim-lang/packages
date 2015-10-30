@@ -3391,7 +3391,6 @@
     "description": "This library makes your code run as a daemon process on Unix-like systems",
     "license": "MIT",
     "web": "https://github.com/rgv151/daemonize.nim"
-
   },
   {
     "name": "tnim",
@@ -3461,5 +3460,17 @@
     "description": "Code coverage library",
     "license": "MIT",
     "web": "https://github.com/yglukhov/coverage"
+  },
+  {
+    "name": "golib-nim",
+    "url": "https://github.com/stefantalpalaru/golib-nim",
+    "method": "git",
+    "tags": [
+      "library",
+      "wrapper"
+    ],
+    "description": "Bindings for golib - a library that (ab)uses gccgo to bring Go's channels and goroutines to the rest of the world",
+    "license": "BSD",
+    "web": "https://github.com/stefantalpalaru/golib-nim"
   }
 ]
