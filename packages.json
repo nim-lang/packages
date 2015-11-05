@@ -1115,7 +1115,7 @@
   },
   {
     "name": "bitarray",
-    "url": "git://github.com/refgenomics/nimrod-bitarray/",
+    "url": "git://github.com/refgenomics/nim-bitarray/",
     "method": "git",
     "tags": [
       "Bit arrays",
@@ -1123,9 +1123,9 @@
       "Bit vectors",
       "Data structures"
     ],
-    "description": "mmap-backed bitarray implementation in Nimrod..",
+    "description": "mmap-backed bitarray implementation in Nim.",
     "license": "MIT",
-    "web": "https://www.github.com/refgenomics/nimrod-bitarray/"
+    "web": "https://www.github.com/refgenomics/nim-bitarray/"
   },
   {
     "name": "appdirs",
