@@ -3472,5 +3472,18 @@
     "description": "Bindings for golib - a library that (ab)uses gccgo to bring Go's channels and goroutines to the rest of the world",
     "license": "BSD",
     "web": "https://github.com/stefantalpalaru/golib-nim"
+  },
+  {
+    "name": "libnotify",
+    "url": "https://github.com/FedericoCeratto/nim-libnotify.git",
+    "method": "git",
+    "tags": [
+      "library",
+      "wrapper",
+      "desktop"
+    ],
+    "description": "Minimalistic libnotify wrapper for desktop notifications",
+    "license": "LGPLv3",
+    "web": "https://github.com/FedericoCeratto/nim-libnotify"
   }
 ]
