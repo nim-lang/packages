@@ -3521,5 +3521,17 @@
     "description": "Nim functional programming library",
     "license": "MIT",
     "web": "https://github.com/vegansk/nimfp"
+  },
+  {
+    "name": "playground",
+    "url": "https://github.com/theduke/nim-playground",
+    "method": "git",
+    "tags": [
+      "functional",
+      "library"
+    ],
+    "description": "Web-based playground for testing Nim code.",
+    "license": "MIT",
+    "web": "https://github.com/theduke/nim-playground"
   }
 ]
