@@ -1,32 +1,5 @@
 [
   {
-    "name": "nhsl",
-    "url": "https://github.com/twist-vector/nhsl.git",
-    "method": "git",
-    "tags": [
-      "library",
-      "serialization",
-      "pure"
-    ],
-    "description": "Nim Hessian Serialization Library encodes/decodes data into the Hessian binary protocol",
-    "license": "LGPL",
-    "web": "https://github.com/twist-vector/nhsl"
-  },
-  {
-    "name": "nim-stopwatch",
-    "url": "https://github.com/twist-vector/nim-stopwatch.git",
-    "method": "git",
-    "tags": [
-      "app",
-      "timer"
-    ],
-    "description": "A Nim-based, non-graphical application designed to measure the amount of time elapsed from its activation to deactivation, includes total elapsed time, lap, and split times.",
-    "license": "LGPL",
-    "web": "https://github.com/twist-vector/nim-stopwatch"
-  },
-
-
-  {
     "name": "argument_parser",
     "url": "git://github.com/Xe/argument_parser/",
     "method": "git",
@@ -3548,5 +3521,30 @@
     "description": "Nim functional programming library",
     "license": "MIT",
     "web": "https://github.com/vegansk/nimfp"
+  },
+  {
+    "name": "nhsl",
+    "url": "https://github.com/twist-vector/nhsl.git",
+    "method": "git",
+    "tags": [
+      "library",
+      "serialization",
+      "pure"
+    ],
+    "description": "Nim Hessian Serialization Library encodes/decodes data into the Hessian binary protocol",
+    "license": "LGPL",
+    "web": "https://github.com/twist-vector/nhsl"
+  },
+  {
+    "name": "nimstopwatch",
+    "url": "https://github.com/twist-vector/nim-stopwatch.git",
+    "method": "git",
+    "tags": [
+      "app",
+      "timer"
+    ],
+    "description": "A Nim-based, non-graphical application designed to measure the amount of time elapsed from its activation to deactivation, includes total elapsed time, lap, and split times.",
+    "license": "LGPL",
+    "web": "https://github.com/twist-vector/nim-stopwatch"
   }
 ]
