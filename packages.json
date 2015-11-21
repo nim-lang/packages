@@ -3552,8 +3552,11 @@
     "url": "https://github.com/theduke/nim-playground",
     "method": "git",
     "tags": [
-      "functional",
-      "library"
+      "webapp",
+      "execution",
+      "nim",
+      "code",
+      "sandbox"
     ],
     "description": "Web-based playground for testing Nim code.",
     "license": "MIT",
