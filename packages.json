@@ -3561,5 +3561,18 @@
     "description": "Web-based playground for testing Nim code.",
     "license": "MIT",
     "web": "https://github.com/theduke/nim-playground"
+  },
+  {
+    "name": "nimsl",
+    "url": "https://github.com/yglukhov/nimsl",
+    "method": "git",
+    "tags": [
+      "shader",
+      "opengl",
+      "glsl"
+    ],
+    "description": "Shaders in Nim.",
+    "license": "MIT",
+    "web": "https://github.com/yglukhov/nimsl"
   }
 ]
