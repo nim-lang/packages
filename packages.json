@@ -3587,5 +3587,18 @@
     "description": "Advanced logging library for Nim with structured logging, formatters, filters and writers.",
     "license": "MIT",
     "web": "https://github.com/theduke/nim-nimlog"
+  },
+  {
+    "name": "values",
+    "url": "https://github.com/theduke/nim-values",
+    "method": "git",
+    "tags": [
+      "library",
+      "values",
+      "datastructures"
+    ],
+    "description": "Library for working with arbitrary values + a map data structure.",
+    "license": "MIT",
+    "web": "https://github.com/theduke/nim-values"
   }
 ]
