@@ -3574,5 +3574,18 @@
     "description": "Shaders in Nim.",
     "license": "MIT",
     "web": "https://github.com/yglukhov/nimsl"
+  },
+  {
+    "name": "nimlog",
+    "url": "https://github.com/theduke/nim-nimlog",
+    "method": "git",
+    "tags": [
+      "library",
+      "logging",
+      "logs"
+    ],
+    "description": "Advanced logging library for Nim with structured logging, formatters, filters and writers.",
+    "license": "MIT",
+    "web": "https://github.com/theduke/nim-nimlog"
   }
 ]
