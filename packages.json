@@ -3589,6 +3589,7 @@
     "web": "https://github.com/theduke/nim-nimlog"
   },
   {
+<<<<<<< HEAD
     "name": "values",
     "url": "https://github.com/theduke/nim-values",
     "method": "git",
@@ -3600,5 +3601,31 @@
     "description": "Library for working with arbitrary values + a map data structure.",
     "license": "MIT",
     "web": "https://github.com/theduke/nim-values"
+=======
+    "name": "geohash",
+    "url": "https://github.com/twist-vector/nim-geohash.git",
+    "method": "git",
+    "tags": [
+      "library",
+      "geocoding",
+      "pure"
+    ],
+    "description": "Nim implementation of the geohash latitude/longitude geocode system",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/twist-vector/nim-geohash"
+  },
+  {
+    "name": "bped",
+    "url": "https://github.com/twist-vector/nim-bped.git",
+    "method": "git",
+    "tags": [
+      "library",
+      "serialization",
+      "pure"
+    ],
+    "description": "Nim implementation of the Bittorrent ascii serialization protocol",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/twist-vector/nim-bped"
+>>>>>>> a773e798c2dafcd5b6b3338ee136c53a159f857c
   }
 ]
