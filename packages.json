@@ -3587,7 +3587,7 @@
     "description": "Advanced logging library for Nim with structured logging, formatters, filters and writers.",
     "license": "MIT",
     "web": "https://github.com/theduke/nim-nimlog"
-  }
+  },
   {
     "name": "geohash",
     "url": "https://github.com/twist-vector/nim-geohash.git",
@@ -3600,7 +3600,7 @@
     "description": "Nim implementation of the geohash latitude/longitude geocode system",
     "license": "Apache License 2.0",
     "web": "https://github.com/twist-vector/nim-geohash"
-  }
+  },
   {
     "name": "bped",
     "url": "https://github.com/twist-vector/nim-bped.git",
