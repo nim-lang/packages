@@ -3626,5 +3626,18 @@
     "description": "Nim implementation of the Bittorrent ascii serialization protocol",
     "license": "Apache License 2.0",
     "web": "https://github.com/twist-vector/nim-bped"
+  },
+  {
+    "name": "ctrulib",
+    "url": "https://github.com/skyforce77/ctrulib-nim.git",
+    "method": "git",
+    "tags": [
+      "library",
+      "nintendo",
+      "3ds"
+    ],
+    "description": "ctrulib wrapper",
+    "license": "GPLv2",
+    "web": "https://github.com/skyforce77/ctrulib-nim"
   }
 ]
