@@ -3639,5 +3639,18 @@
     "description": "ctrulib wrapper",
     "license": "GPLv2",
     "web": "https://github.com/skyforce77/ctrulib-nim"
-  }
+  },
+  {
+    "name": "nimrdkafka",
+    "url": "https://github.com/dfdeshom/nimrdkafka.git",
+    "method": "git",
+    "tags": [
+      "library",
+      "wrapper",
+      "kafka"
+    ],
+    "description": "Nim wrapper for librdkafka",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/dfdeshom/nimrdkafka"
+  }  
 ]
