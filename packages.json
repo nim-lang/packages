@@ -3659,7 +3659,7 @@
     "method": "git",
     "tags": [
       "library",
-      "utilities",
+      "utilities"
     ],
     "description": "Collection of string, parsing, pointer, ... utilities.",
     "license": "MIT",
@@ -3672,7 +3672,7 @@
     "tags": [
       "library",
       "serialization",
-      "parsing"
+      "parsing",
       "yaml"
     ],
     "description": "YAML parser",
