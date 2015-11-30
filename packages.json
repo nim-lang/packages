@@ -3652,5 +3652,31 @@
     "description": "Nim wrapper for librdkafka",
     "license": "Apache License 2.0",
     "web": "https://github.com/dfdeshom/nimrdkafka"
-  }  
+  },
+  {
+    "name": "utils",
+    "url": "https://github.com/nim-appkit/utils",
+    "method": "git",
+    "tags": [
+      "library",
+      "utilities"
+    ],
+    "description": "Collection of string, parsing, pointer, ... utilities.",
+    "license": "MIT",
+    "web": "https://github.com/nim-appkit/utils"
+  },
+  {
+    "name": "yaml",
+    "url": "https://github.com/nim-appkit/yaml",
+    "method": "git",
+    "tags": [
+      "library",
+      "serialization",
+      "parsing",
+      "yaml"
+    ],
+    "description": "YAML parser",
+    "license": "MIT",
+    "web": "https://github.com/nim-appkit/yaml"
+  }
 ]
