@@ -3695,7 +3695,7 @@
       "pyarrayobject",
       "iterator",
       "iterators",
-      "docstring",
+      "docstring"
     ],
     "description": "Auto-generate a Python module that wraps a Nim module.",
     "license": "MIT",
