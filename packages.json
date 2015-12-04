@@ -3678,5 +3678,27 @@
     "description": "YAML parser",
     "license": "MIT",
     "web": "https://github.com/nim-appkit/yaml"
+  },
+  {
+    "name": "pymod",
+    "url": "https://github.com/jboy/nim-pymod",
+    "method": "git",
+    "tags": [
+      "wrapper",
+      "python",
+      "module",
+      "numpy",
+      "array",
+      "matrix",
+      "ndarray",
+      "pyobject",
+      "pyarrayobject",
+      "iterator",
+      "iterators",
+      "docstring",
+    ],
+    "description": "Auto-generate a Python module that wraps a Nim module.",
+    "license": "MIT",
+    "web": "https://github.com/jboy/nim-pymod"
   }
 ]
