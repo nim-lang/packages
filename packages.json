@@ -3700,5 +3700,24 @@
     "description": "Auto-generate a Python module that wraps a Nim module.",
     "license": "MIT",
     "web": "https://github.com/jboy/nim-pymod"
+  },
+  {
+    "name": "db",
+    "url": "https://github.com/jlp765/db",
+    "method": "git",
+    "tags": [
+      "wrapper",
+      "database",
+      "module",
+      "sqlite",
+      "mysql",
+      "postgres",
+      "db_sqlite",
+      "db_mysql",
+      "db_postgres"
+    ],
+    "description": "Unified db access module, providing a single library module to access the db_sqlite, db_mysql and db_postgres modules.",
+    "license": "MIT",
+    "web": "https://github.com/jlp765/db"
   }
 ]
