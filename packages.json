@@ -3719,5 +3719,17 @@
     "description": "Unified db access module, providing a single library module to access the db_sqlite, db_mysql and db_postgres modules.",
     "license": "MIT",
     "web": "https://github.com/jlp765/db"
-  }
+  },
+  {
+    "name": "nimsnappy",
+    "url": "https://github.com/dfdeshom/nimsnappy.git",
+    "method": "git",
+    "tags": [
+      "wrapper",
+      "compression"
+    ],
+    "description": "Nim wrapper for the snappy compression library. there is also a high-level API for easy use",
+    "license": "BSD",
+    "web": "https://github.com/dfdeshom/nimsnappy"
+  }  
 ]
