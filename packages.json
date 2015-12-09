@@ -3731,5 +3731,20 @@
     "description": "Nim wrapper for the snappy compression library. there is also a high-level API for easy use",
     "license": "BSD",
     "web": "https://github.com/dfdeshom/nimsnappy"
-  }  
+  },
+  {
+    "name": "nimLUA",
+    "url": "https://github.com/jangko/nimLUA",
+    "method": "git",
+    "tags": [
+      "lua",
+      "library",
+      "bind",
+      "glue",
+      "macros"
+    ],
+    "description": "glue code generator to bind Nim and Lua together using Nim's powerful macro",
+    "license": "MIT",
+    "web": "https://github.com/jangko/nimLUA"
+  }
 ]
