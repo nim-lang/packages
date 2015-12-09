@@ -3731,5 +3731,17 @@
     "description": "Nim wrapper for the snappy compression library. there is also a high-level API for easy use",
     "license": "BSD",
     "web": "https://github.com/dfdeshom/nimsnappy"
-  }  
+  },
+  {
+    "name": "sound",
+    "url": "https://github.com/yglukhov/sound.git",
+    "method": "git",
+    "tags": [
+      "sound",
+      "ogg"
+    ],
+    "description": "Cross-platform sound mixer library",
+    "license": "MIT",
+    "web": "https://github.com/yglukhov/sound"
+  }
 ]
