@@ -3746,5 +3746,17 @@
     "description": "glue code generator to bind Nim and Lua together using Nim's powerful macro",
     "license": "MIT",
     "web": "https://github.com/jangko/nimLUA"
+  },
+  {
+    "name": "sound",
+    "url": "https://github.com/yglukhov/sound.git",
+    "method": "git",
+    "tags": [
+      "sound",
+      "ogg"
+    ],
+    "description": "Cross-platform sound mixer library",
+    "license": "MIT",
+    "web": "https://github.com/yglukhov/sound"
   }
 ]
