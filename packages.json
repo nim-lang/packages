@@ -3576,8 +3576,8 @@
     "web": "https://github.com/yglukhov/nimsl"
   },
   {
-    "name": "nimlog",
-    "url": "https://github.com/theduke/nim-nimlog",
+    "name": "omnilog",
+    "url": "https://github.com/nim-appkit/omnilog",
     "method": "git",
     "tags": [
       "library",
@@ -3586,11 +3586,11 @@
     ],
     "description": "Advanced logging library for Nim with structured logging, formatters, filters and writers.",
     "license": "MIT",
-    "web": "https://github.com/theduke/nim-nimlog"
+    "web": "https://github.com/nim-appkit/omnilog"
   },
   {
     "name": "values",
-    "url": "https://github.com/theduke/nim-values",
+    "url": "https://github.com/nim-appkit/values",
     "method": "git",
     "tags": [
       "library",
@@ -3599,7 +3599,7 @@
     ],
     "description": "Library for working with arbitrary values + a map data structure.",
     "license": "MIT",
-    "web": "https://github.com/theduke/nim-values"
+    "web": "https://github.com/nim-appkit/values"
   },
   {
     "name": "geohash",
@@ -3626,5 +3626,125 @@
     "description": "Nim implementation of the Bittorrent ascii serialization protocol",
     "license": "Apache License 2.0",
     "web": "https://github.com/twist-vector/nim-bped"
+  },
+  {
+    "name": "ctrulib",
+    "url": "https://github.com/skyforce77/ctrulib-nim.git",
+    "method": "git",
+    "tags": [
+      "library",
+      "nintendo",
+      "3ds"
+    ],
+    "description": "ctrulib wrapper",
+    "license": "GPLv2",
+    "web": "https://github.com/skyforce77/ctrulib-nim"
+  },
+  {
+    "name": "nimrdkafka",
+    "url": "https://github.com/dfdeshom/nimrdkafka.git",
+    "method": "git",
+    "tags": [
+      "library",
+      "wrapper",
+      "kafka"
+    ],
+    "description": "Nim wrapper for librdkafka",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/dfdeshom/nimrdkafka"
+  },
+  {
+    "name": "utils",
+    "url": "https://github.com/nim-appkit/utils",
+    "method": "git",
+    "tags": [
+      "library",
+      "utilities"
+    ],
+    "description": "Collection of string, parsing, pointer, ... utilities.",
+    "license": "MIT",
+    "web": "https://github.com/nim-appkit/utils"
+  },
+  {
+    "name": "yaml",
+    "url": "https://github.com/nim-appkit/yaml",
+    "method": "git",
+    "tags": [
+      "library",
+      "serialization",
+      "parsing",
+      "yaml"
+    ],
+    "description": "YAML parser",
+    "license": "MIT",
+    "web": "https://github.com/nim-appkit/yaml"
+  },
+  {
+    "name": "pymod",
+    "url": "https://github.com/jboy/nim-pymod",
+    "method": "git",
+    "tags": [
+      "wrapper",
+      "python",
+      "module",
+      "numpy",
+      "array",
+      "matrix",
+      "ndarray",
+      "pyobject",
+      "pyarrayobject",
+      "iterator",
+      "iterators",
+      "docstring"
+    ],
+    "description": "Auto-generate a Python module that wraps a Nim module.",
+    "license": "MIT",
+    "web": "https://github.com/jboy/nim-pymod"
+  },
+  {
+    "name": "db",
+    "url": "https://github.com/jlp765/db",
+    "method": "git",
+    "tags": [
+      "wrapper",
+      "database",
+      "module",
+      "sqlite",
+      "mysql",
+      "postgres",
+      "db_sqlite",
+      "db_mysql",
+      "db_postgres"
+    ],
+    "description": "Unified db access module, providing a single library module to access the db_sqlite, db_mysql and db_postgres modules.",
+    "license": "MIT",
+    "web": "https://github.com/jlp765/db"
+  },
+  {
+    "name": "nimsnappy",
+    "url": "https://github.com/dfdeshom/nimsnappy.git",
+    "method": "git",
+    "tags": [
+      "wrapper",
+      "compression"
+    ],
+    "description": "Nim wrapper for the snappy compression library. there is also a high-level API for easy use",
+    "license": "BSD",
+    "web": "https://github.com/dfdeshom/nimsnappy"
+  },
+  {
+    "name": "nimLUA",
+    "url": "https://github.com/jangko/nimLUA",
+    "method": "git",
+    "tags": [
+      "lua",
+      "library",
+      "bind",
+      "glue",
+      "macros"
+    ],
+    "description": "glue code generator to bind Nim and Lua together using Nim's powerful macro",
+    "license": "MIT",
+    "web": "https://github.com/jangko/nimLUA"
   }
 ]
