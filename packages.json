@@ -3758,5 +3758,17 @@
     "description": "Cross-platform sound mixer library",
     "license": "MIT",
     "web": "https://github.com/yglukhov/sound"
+  },
+  {
+    "name": "NimbleExample",
+    "url": "https://github.com/dom96/NimbleExample",
+    "method": "git",
+    "tags": [
+      "foo",
+      "test"
+    ],
+    "description": "Simple package to learn about Nimble",
+    "license": "MIT",
+    "web": "https://github.com/dom96/NimbleExample"
   }
 ]
