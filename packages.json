@@ -3758,5 +3758,17 @@
     "description": "Cross-platform sound mixer library",
     "license": "MIT",
     "web": "https://github.com/yglukhov/sound"
+  },
+  {
+    "name": "nimi3status",
+    "url": "https://github.com/FedericoCeratto/nimi3status",
+    "method": "git",
+    "tags": [
+      "i3",
+      "i3status"
+    ],
+    "description": "Lightweight i3 status bar.",
+    "license": "GPLv3",
+    "web": "https://github.com/FedericoCeratto/nimi3status"
   }
 ]
