@@ -3770,5 +3770,19 @@
     "description": "Lightweight i3 status bar.",
     "license": "GPLv3",
     "web": "https://github.com/FedericoCeratto/nimi3status"
+  },
+  {
+    "name": "native_dialogs",
+    "url": "https://github.com/SSPkrolik/nim-native-dialogs.git",
+    "method": "git",
+    "tags": [
+      "ui",
+      "gui",
+      "cross-platform",
+      "library"
+    ],
+    "description": "Implements framework-agnostic native operating system dialogs calls",
+    "license": "MIT",
+    "web": "https://github.com/SSPkrolik/nim-native-dialogs"
   }
 ]
