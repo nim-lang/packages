@@ -3784,5 +3784,16 @@
     "description": "Implements framework-agnostic native operating system dialogs calls",
     "license": "MIT",
     "web": "https://github.com/SSPkrolik/nim-native-dialogs"
+  },
+  {
+    "name": "variant",
+    "url": "https://github.com/yglukhov/variant.git",
+    "method": "git",
+    "tags": [
+      "variant"
+    ],
+    "description": "Variant type and type matching",
+    "license": "MIT",
+    "web": "https://github.com/yglukhov/variant"
   }
 ]
