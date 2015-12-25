@@ -39,7 +39,7 @@
       "framework",
       "dsl"
     ],
-    "description": "A sinatra-like web framework for Nimrod.",
+    "description": "A sinatra-like web framework for Nim.",
     "license": "MIT",
     "web": "https://github.com/dom96/jester"
   },
@@ -52,7 +52,7 @@
       "html",
       "template"
     ],
-    "description": "A simple string templating library for Nimrod.",
+    "description": "A simple string templating library for Nim.",
     "license": "BSD",
     "web": "https://github.com/onionhammer/nim-templates"
   },
@@ -64,7 +64,7 @@
       "hash",
       "murmur"
     ],
-    "description": "MurmurHash in pure Nimrod.",
+    "description": "MurmurHash in pure Nim.",
     "license": "MIT",
     "web": "https://github.com/olahol/nimrod-murmur"
   },
@@ -81,7 +81,7 @@
       "opengl",
       "glsl"
     ],
-    "description": "Wrapper of the libtcod library for the Nimrod language.",
+    "description": "Wrapper of the libtcod library for the Nim language.",
     "license": "zlib",
     "web": "https://github.com/Vladar4/libtcod-nim"
   },
@@ -94,7 +94,7 @@
       "engine",
       "sdl"
     ],
-    "description": "Simple 2D game engine for Nimrod language.",
+    "description": "Simple 2D game engine for Nim language.",
     "license": "MIT",
     "web": "https://github.com/Vladar4/nimgame"
   },
@@ -136,7 +136,7 @@
       "localisation",
       "globalization"
     ],
-    "description": "A simple library for localizing Nimrod applications.",
+    "description": "A simple library for localizing Nim applications.",
     "license": "MIT",
     "web": "https://github.com/Amrykid/nim-locale"
   },
@@ -164,7 +164,7 @@
       "automation",
       "sortof"
     ],
-    "description": "make-like for Nimrod. Describe your builds as tasks!",
+    "description": "make-like for Nim. Describe your builds as tasks!",
     "license": "MIT",
     "web": "https://github.com/fowlmouth/nake"
   },
@@ -179,7 +179,7 @@
       "windowing",
       "game"
     ],
-    "description": "Nimrod bindings for GLFW library.",
+    "description": "Nim bindings for GLFW library.",
     "license": "MIT",
     "web": "https://github.com/rafaelvasco/nimrod-glfw"
   },
@@ -303,7 +303,7 @@
       "gtk",
       "nimrod"
     ],
-    "description": "A Nimrod IDE.",
+    "description": "A Nim IDE.",
     "license": "GPLv2",
     "web": "https://github.com/nim-lang/Aporia"
   },
@@ -319,7 +319,7 @@
       "C",
       "nimrod"
     ],
-    "description": "c2nim is a tool to translate Ansi C code to Nimrod.",
+    "description": "c2nim is a tool to translate Ansi C code to Nim.",
     "license": "MIT",
     "web": "https://github.com/nim-lang/c2nim"
   },
@@ -334,7 +334,7 @@
       "Pascal",
       "nimrod"
     ],
-    "description": "pas2nim is a tool to translate Pascal code to Nimrod.",
+    "description": "pas2nim is a tool to translate Pascal code to Nim.",
     "license": "MIT",
     "web": "https://github.com/nim-lang/pas2nim"
   },
@@ -711,7 +711,7 @@
       "MurmurHash",
       "MurmurHash3"
     ],
-    "description": "Efficient Bloom filter implementation in Nimrod using MurmurHash3.",
+    "description": "Efficient Bloom filter implementation in Nim using MurmurHash3.",
     "license": "MIT",
     "web": "https://www.github.com/boydgreenfield/nimrod-bloom/"
   },
@@ -753,7 +753,7 @@
       "libpng",
       "image"
     ],
-    "description": "Nimrod wrapper for the libpng library",
+    "description": "Nim wrapper for the libpng library",
     "license": "libpng",
     "web": "https://github.com/barcharcraz/nimlibpng"
   },
@@ -958,7 +958,7 @@
       "hash",
       "hashing"
     ],
-    "description": "A simple MurmurHash3 wrapper for Nimrod",
+    "description": "A simple MurmurHash3 wrapper for Nim",
     "license": "MIT",
     "web": "https://github.com/boydgreenfield/nimrod-murmur/"
   },
@@ -970,7 +970,7 @@
       "hex",
       "encoding"
     ],
-    "description": "A simple hex package for Nimrod",
+    "description": "A simple hex package for Nim",
     "license": "MIT",
     "web": "https://github.com/esbullington/nimrod-hex"
   },
@@ -996,7 +996,7 @@
       "dsl",
       "html"
     ],
-    "description": "Compiles jade templates to Nimrod procedures.",
+    "description": "Compiles jade templates to Nim procedures.",
     "license": "MIT",
     "web": "https://github.com/idlewan/jade-nim"
   },
@@ -1010,7 +1010,7 @@
       "automation",
       "documentation"
     ],
-    "description": "Generates a GitHub documentation website for Nimrod projects.",
+    "description": "Generates a GitHub documentation website for Nim projects.",
     "license": "MIT",
     "web": "http://gradha.github.io/gh_nimrod_doc_pages/"
   },
