@@ -3795,5 +3795,18 @@
     "description": "Variant type and type matching",
     "license": "MIT",
     "web": "https://github.com/yglukhov/variant"
+  },
+  {
+    "name": "pythonmath",
+    "url": "git://github.com/achesak/nim-pythonmath",
+    "method": "git",
+    "tags": [
+      "library",
+      "python",
+      "math"
+    ],
+    "description": "Module to provide an interface as similar as possible to Python's math libary",
+    "license": "MIT",
+    "web": "https://github.com/achesak/nim-pythonmath"
   }
 ]
