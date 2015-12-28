@@ -3786,7 +3786,6 @@
     "web": "https://github.com/SSPkrolik/nim-native-dialogs"
   },
   {
-<<<<<<< HEAD
     "name": "variant",
     "url": "https://github.com/yglukhov/variant.git",
     "method": "git",
