@@ -3786,6 +3786,7 @@
     "web": "https://github.com/SSPkrolik/nim-native-dialogs"
   },
   {
+<<<<<<< HEAD
     "name": "variant",
     "url": "https://github.com/yglukhov/variant.git",
     "method": "git",
@@ -3808,5 +3809,19 @@
     "description": "Module to provide an interface as similar as possible to Python's math libary",
     "license": "MIT",
     "web": "https://github.com/achesak/nim-pythonmath"
+  },
+  {
+    "name": "nimlz4",
+    "url": "https://github.com/dfdeshom/nimlz4.git",
+    "method": "git",
+    "tags": [
+      "wrapper",
+      "compression",
+      "lzo",
+      "lz4"
+    ],
+    "description": "Nim wrapper for the LZ4 library. There is also a high-level API for easy use",
+    "license": "BSD",
+    "web": "https://github.com/dfdeshom/nimlz4"
   }
 ]
