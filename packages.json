@@ -3871,5 +3871,17 @@
     "description": "Nim wrapper for the LZ4 library. There is also a high-level API for easy use",
     "license": "BSD",
     "web": "https://github.com/dfdeshom/nimlz4"
+  },
+  {
+    "name": "pythonize",
+    "url": "https://github.com/marcoapintoo/nim-pythonize.git",
+    "method": "git",
+    "tags": [
+      "python",
+      "wrapper",
+    ],
+    "description": "A higher-level wrapper for the Python Programing Language",
+    "license": "MIT",
+    "web": "https://github.com/marcoapintoo/nim-pythonize"
   }
 ]
