@@ -3871,5 +3871,19 @@
     "description": "Nim wrapper for the LZ4 library. There is also a high-level API for easy use",
     "license": "BSD",
     "web": "https://github.com/dfdeshom/nimlz4"
+  },
+  {
+    "name": "fnmatch",
+    "url": "git://github.com/achesak/nim-fnmatch",
+    "method": "git",
+    "tags": [
+      "library",
+      "unix",
+      "files",
+      "matching"
+    ],
+    "description": "Nim module for filename matching with UNIX shell patterns",
+    "license": "MIT",
+    "web": "https://github.com/achesak/nim-fnmatch"
   }
 ]
