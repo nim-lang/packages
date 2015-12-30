@@ -3878,7 +3878,7 @@
     "method": "git",
     "tags": [
       "python",
-      "wrapper",
+      "wrapper"
     ],
     "description": "A higher-level wrapper for the Python Programing Language",
     "license": "MIT",
