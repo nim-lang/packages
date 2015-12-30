@@ -3896,7 +3896,7 @@
       "uid"
     ],
     "description": "Nim module for generating URL identifiers for Tiny URL and bit.ly-like URLs",
-    "license: "MIT",
+    "license": "MIT",
     "web": "https://github.com/achesak/nim-shorturl"
   }
 ]
