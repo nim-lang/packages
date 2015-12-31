@@ -3883,5 +3883,21 @@
     "description": "A higher-level wrapper for the Python Programing Language",
     "license": "MIT",
     "web": "https://github.com/marcoapintoo/nim-pythonize"
+  },
+  {
+    "name": "cligen",
+    "url": "https://github.com/c-blake/cligen.git",
+    "method": "git",
+    "tags": [
+      "library",
+      "commandline",
+      "arguments",
+      "switches",
+      "parsing",
+      "options"
+    ],
+    "description": "Infer & generate command-line interace/option/argument parsers",
+    "license": "MIT",
+    "web": "https://github.com/c-blake/cligen"
   }
 ]
