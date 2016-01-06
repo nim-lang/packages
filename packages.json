@@ -3899,5 +3899,32 @@
     "description": "Infer & generate command-line interace/option/argument parsers",
     "license": "MIT",
     "web": "https://github.com/c-blake/cligen"
+  },
+  {
+    "name": "fnmatch",
+    "url": "git://github.com/achesak/nim-fnmatch",
+    "method": "git",
+    "tags": [
+      "library",
+      "unix",
+      "files",
+      "matching"
+    ],
+    "description": "Nim module for filename matching with UNIX shell patterns",
+    "license": "MIT",
+    "web": "https://github.com/achesak/nim-fnmatch"
+  },
+  {
+    "name": "shorturl",
+    "url": "git://github.com/achesak/nim-shorturl",
+    "method": "git",
+    "tags": [
+      "library",
+      "url",
+      "uid"
+    ],
+    "description": "Nim module for generating URL identifiers for Tiny URL and bit.ly-like URLs",
+    "license": "MIT",
+    "web": "https://github.com/achesak/nim-shorturl"
   }
 ]
