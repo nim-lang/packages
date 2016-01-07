@@ -3926,5 +3926,33 @@
     "description": "Nim module for generating URL identifiers for Tiny URL and bit.ly-like URLs",
     "license": "MIT",
     "web": "https://github.com/achesak/nim-shorturl"
+  },
+  {
+    "name": "teafiles",
+    "url": "git@github.com:unicredit/nim-teafiles.git",
+    "method": "git",
+    "tags": [
+      "teafiles",
+      "mmap",
+      "timeseries"
+    ],
+    "description": "TeaFiles provide fast read/write access to time series data",
+    "license": "Apache2",
+    "web": "https://github.com/unicredit/nim-teafiles"
+  },
+  {
+    "name": "emmy",
+    "url": "git@github.com:unicredit/emmy.git",
+    "method": "git",
+    "tags": [
+      "algebra",
+      "polynomials",
+      "primes",
+      "ring",
+      "quotients"
+    ],
+    "description": "Algebraic structures and related operations for Nim",
+    "license": "Apache2",
+    "web": "https://github.com/unicredit/emmy"
   }
 ]
