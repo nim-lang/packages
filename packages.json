@@ -1581,7 +1581,7 @@
     "web": "https://github.com/flaviut/easy-bcrypt/blob/master/easy-bcrypt.nimble"
   },
   {
-    "name": "nim-libclang",
+    "name": "libclang",
     "url": "https://github.com/cowboy-coders/nim-libclang.git",
     "method": "git",
     "tags": [
