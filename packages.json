@@ -1581,7 +1581,7 @@
     "web": "https://github.com/flaviut/easy-bcrypt/blob/master/easy-bcrypt.nimble"
   },
   {
-    "name": "nim-libclang",
+    "name": "libclang",
     "url": "https://github.com/cowboy-coders/nim-libclang.git",
     "method": "git",
     "tags": [
@@ -1590,6 +1590,19 @@
       "clang"
     ],
     "description": "wrapper for libclang (the C-interface of the clang LLVM frontend)",
+    "license": "MIT",
+    "web": "https://github.com/cowboy-coders/nim-libclang"
+  },
+  {
+    "name": "nim-libclang",
+    "url": "https://github.com/cowboy-coders/nim-libclang.git",
+    "method": "git",
+    "tags": [
+      "wrapper",
+      "bindings",
+      "clang"
+    ],
+    "description": "Please use libclang instead.",
     "license": "MIT",
     "web": "https://github.com/cowboy-coders/nim-libclang"
   },
