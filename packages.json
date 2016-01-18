@@ -3980,5 +3980,21 @@
     "description": "Nim port of a simple 2D physics engine",
     "license": "zlib",
     "web": "https://github.com/matkuki/Nim-Impulse-Engine"
+  },
+  {
+    "name": "notifications",
+    "url": "git://github.com/dom96/notifications",
+    "method": "git",
+    "tags": [
+      "notifications",
+      "alerts",
+      "gui",
+      "toasts",
+      "macosx",
+      "cocoa"
+    ],
+    "description": "Library for displaying notifications on the desktop",
+    "license": "MIT",
+    "web": "https://github.com/dom96/notifications"
   }
 ]
