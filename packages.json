@@ -4010,5 +4010,17 @@
     "description": "Asynchronous networking engine for Nim",
     "license": "MIT",
     "web": "https://networkos.net/nim/reactor.nim"
+  },
+  {
+    "name": "biscuits",
+    "url": "git://github.com/achesak/nim-biscuits",
+    "method": "git",
+    "tags": [
+      "cookie",
+      "persistence"
+    ],
+    "description": "better cookie handling",
+    "license": "MIT",
+    "web": "https://github.com/achesak/nim-biscuits"
   }
 ]
