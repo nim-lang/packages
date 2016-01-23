@@ -4036,5 +4036,17 @@
     "description": "Cap'n Proto implementation for Nim",
     "license": "MIT",
     "web": "https://github.com/zielmicha/capnp.nim"
+  },
+  {
+    "name": "biscuits",
+    "url": "git://github.com/achesak/nim-biscuits",
+    "method": "git",
+    "tags": [
+      "cookie",
+      "persistence"
+    ],
+    "description": "better cookie handling",
+    "license": "MIT",
+    "web": "https://github.com/achesak/nim-biscuits"
   }
 ]
