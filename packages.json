@@ -4048,7 +4048,7 @@
     "description": "better cookie handling",
     "license": "MIT",
     "web": "https://github.com/achesak/nim-biscuits"
-  }
+  },
   {
     "name": "pari",
     "url": "git://github.com/lompik/pari.nim",
