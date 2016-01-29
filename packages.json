@@ -4048,5 +4048,17 @@
     "description": "better cookie handling",
     "license": "MIT",
     "web": "https://github.com/achesak/nim-biscuits"
+  },
+  {
+    "name": "pari",
+    "url": "git://github.com/lompik/pari.nim",
+    "method": "git",
+    "tags": [
+      "number theory",
+      "computer algebra system"
+    ],
+    "description": "Pari/GP C library wrapper",
+    "license": "MIT",
+    "web": "https://github.com/lompik/pari.nim"
   }
 ]
