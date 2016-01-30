@@ -1771,8 +1771,8 @@
     "web": "https://github.com/def-/nim-bpg"
   },
   {
-    "name": "io-spacenav",
-    "url": "git://github.com/nimious/io-spacenav.git",
+    "name": "spacenav",
+    "url": "git://github.com/nimious/spacenav.git",
     "method": "git",
     "tags": [
       "binding",
@@ -1786,7 +1786,7 @@
     ],
     "description": "Bindings for libspnav, the free 3Dconnexion device driver",
     "license": "MIT",
-    "web": "https://github.com/nimious/io-spacenav"
+    "web": "https://github.com/nimious/spacenav"
   },
   {
     "name": "optionals",
@@ -1916,8 +1916,8 @@
     "web": "https://github.com/apense/nimrat"
   },
   {
-    "name": "io-isense",
-    "url": "git://github.com/nimious/io-isense.git",
+    "name": "isense",
+    "url": "git://github.com/nimious/isense.git",
     "method": "git",
     "tags": [
       "binding",
@@ -1932,11 +1932,11 @@
     ],
     "description": "Bindings for the InterSense SDK",
     "license": "MIT",
-    "web": "https://github.com/nimious/io-isense"
+    "web": "https://github.com/nimious/isense"
   },
   {
-    "name": "io-usb",
-    "url": "git://github.com/nimious/io-usb.git",
+    "name": "libusb",
+    "url": "git://github.com/nimious/libusb.git",
     "method": "git",
     "tags": [
       "binding",
@@ -1945,7 +1945,7 @@
     ],
     "description": "Bindings for libusb, the cross-platform user library to access USB devices.",
     "license": "MIT",
-    "web": "https://github.com/nimious/io-usb"
+    "web": "https://github.com/nimious/libusb"
   },
   {
     "name": "nimcfitsio",
@@ -2014,8 +2014,8 @@
     "web": "https://github.com/nim-lang/osinfo"
   },
   {
-    "name": "io-myo",
-    "url": "git://github.com/nimious/io-myo.git",
+    "name": "myo",
+    "url": "git://github.com/nimious/myo.git",
     "method": "git",
     "tags": [
       "binding",
@@ -2026,11 +2026,11 @@
     ],
     "description": "Bindings for the Thalmic Labs Myo gesture control armband SDK.",
     "license": "MIT",
-    "web": "https://github.com/nimious/io-myo"
+    "web": "https://github.com/nimious/myo"
   },
   {
-    "name": "io-oculus",
-    "url": "git://github.com/nimious/io-oculus.git",
+    "name": "oculus",
+    "url": "git://github.com/nimious/oculus.git",
     "method": "git",
     "tags": [
       "binding",
@@ -2045,7 +2045,7 @@
     ],
     "description": "Bindings for the Oculus VR SDK.",
     "license": "MIT",
-    "web": "https://github.com/nimious/io-oculus"
+    "web": "https://github.com/nimious/oculus"
   },
   {
     "name": "closure_compiler",
@@ -2062,8 +2062,8 @@
     "web": "https://github.com/yglukhov/closure_compiler"
   },
   {
-    "name": "io-serialport",
-    "url": "git://github.com/nimious/io-serialport.git",
+    "name": "serialport",
+    "url": "git://github.com/nimious/serialport.git",
     "method": "git",
     "tags": [
       "binding",
@@ -2073,7 +2073,7 @@
     ],
     "description": "Bindings for libserialport, the cross-platform serial communication library.",
     "license": "MIT",
-    "web": "https://github.com/nimious/io-serialport"
+    "web": "https://github.com/nimious/serialport"
   },
   {
     "name": "beanstalkd",
@@ -2285,8 +2285,8 @@
     "web": "https://github.com/saratchandra92/nim-geocoding"
   },
   {
-    "name": "io-gles",
-    "url": "git://github.com/nimious/io-gles.git",
+    "name": "gles",
+    "url": "git://github.com/nimious/gles.git",
     "method": "git",
     "tags": [
       "binding",
@@ -2296,11 +2296,11 @@
     ],
     "description": "Bindings for OpenGL ES, the embedded 3D graphics library.",
     "license": "MIT",
-    "web": "https://github.com/nimious/io-gles"
+    "web": "https://github.com/nimious/gles"
   },
   {
-    "name": "io-egl",
-    "url": "git://github.com/nimious/io-egl.git",
+    "name": "egl",
+    "url": "git://github.com/nimious/egl.git",
     "method": "git",
     "tags": [
       "binding",
@@ -2312,11 +2312,11 @@
     ],
     "description": "Bindings for EGL, the native platform interface for rendering APIs.",
     "license": "MIT",
-    "web": "https://github.com/nimious/io-egl"
+    "web": "https://github.com/nimious/egl"
   },
   {
-    "name": "io-sixense",
-    "url": "git://github.com/nimious/io-sixense.git",
+    "name": "sixense",
+    "url": "git://github.com/nimious/sixense.git",
     "method": "git",
     "tags": [
       "binding",
@@ -2327,7 +2327,7 @@
     ],
     "description": "Bindings for the Sixense Core API.",
     "license": "MIT",
-    "web": "https://github.com/nimious/io-sixense"
+    "web": "https://github.com/nimious/sixense"
   },
   {
     "name": "tnetstring",
