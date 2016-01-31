@@ -4060,5 +4060,18 @@
     "description": "Pari/GP C library wrapper",
     "license": "MIT",
     "web": "https://github.com/lompik/pari.nim"
+  },
+  {
+    "name": "kissfft",
+    "url": "git://github.com/m13253/nim-kissfft",
+    "method": "git",
+    "tags": [
+      "fft",
+      "dsp",
+      "signal"
+    ],
+    "description": "Nim binding for KissFFT Fast Fourier Transform library",
+    "license": "BSD",
+    "web": "https://github.com/m13253/nim-kissfft"
   }
 ]
