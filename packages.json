@@ -1784,7 +1784,7 @@
       "spacepilot",
       "spacenavigator"
     ],
-    "description": "Bindings for libspnav, the free 3Dconnexion device driver",
+    "description": "Obsolete - please use spacenav instead!",
     "license": "MIT",
     "web": "https://github.com/nimious/io-spacenav"
   },
@@ -1930,7 +1930,7 @@
       "tracking",
       "sensor"
     ],
-    "description": "Bindings for the InterSense SDK",
+    "description": "Obsolete - please use isense instead!",
     "license": "MIT",
     "web": "https://github.com/nimious/io-isense"
   },
@@ -1943,7 +1943,7 @@
       "usb",
       "libusb"
     ],
-    "description": "Bindings for libusb, the cross-platform user library to access USB devices.",
+    "description": "Obsolete - please use libusb instead!",
     "license": "MIT",
     "web": "https://github.com/nimious/io-usb"
   },
@@ -2024,7 +2024,7 @@
       "armband",
       "gesture"
     ],
-    "description": "Bindings for the Thalmic Labs Myo gesture control armband SDK.",
+    "description": "Obsolete - please use myo instead!",
     "license": "MIT",
     "web": "https://github.com/nimious/io-myo"
   },
@@ -2043,7 +2043,7 @@
       "dk2",
       "gearvr"
     ],
-    "description": "Bindings for the Oculus VR SDK.",
+    "description": "Obsolete - please use oculus instead!",
     "license": "MIT",
     "web": "https://github.com/nimious/io-oculus"
   },
@@ -2071,7 +2071,7 @@
       "serial",
       "communication"
     ],
-    "description": "Bindings for libserialport, the cross-platform serial communication library.",
+    "description": "Obsolete - please use serialport instead!",
     "license": "MIT",
     "web": "https://github.com/nimious/io-serialport"
   },
@@ -2294,7 +2294,7 @@
       "gles",
       "opengl es"
     ],
-    "description": "Bindings for OpenGL ES, the embedded 3D graphics library.",
+    "description": "Obsolete - please use gles instead!",
     "license": "MIT",
     "web": "https://github.com/nimious/io-gles"
   },
@@ -2310,7 +2310,7 @@
       "opengl es",
       "openvg"
     ],
-    "description": "Bindings for EGL, the native platform interface for rendering APIs.",
+    "description": "Obsolete - please use egl instead!",
     "license": "MIT",
     "web": "https://github.com/nimious/io-egl"
   },
@@ -2325,7 +2325,7 @@
       "stem system",
       "vr"
     ],
-    "description": "Bindings for the Sixense Core API.",
+    "description": "Obsolete - please use sixense instead!",
     "license": "MIT",
     "web": "https://github.com/nimious/io-sixense"
   },
@@ -4060,5 +4060,148 @@
     "description": "Pari/GP C library wrapper",
     "license": "MIT",
     "web": "https://github.com/lompik/pari.nim"
+  },
+  {
+    "name": "spacenav",
+    "url": "git://github.com/nimious/spacenav.git",
+    "method": "git",
+    "tags": [
+      "binding",
+      "3dx",
+      "3dconnexion",
+      "libspnav",
+      "spacenav",
+      "spacemouse",
+      "spacepilot",
+      "spacenavigator"
+    ],
+    "description": "Bindings for libspnav, the free 3Dconnexion device driver",
+    "license": "MIT",
+    "web": "https://github.com/nimious/spacenav"
+  },
+  {
+    "name": "isense",
+    "url": "git://github.com/nimious/isense.git",
+    "method": "git",
+    "tags": [
+      "binding",
+      "isense",
+      "intersense",
+      "inertiacube",
+      "intertrax",
+      "microtrax",
+      "thales",
+      "tracking",
+      "sensor"
+    ],
+    "description": "Bindings for the InterSense SDK",
+    "license": "MIT",
+    "web": "https://github.com/nimious/isense"
+  },
+  {
+    "name": "libusb",
+    "url": "git://github.com/nimious/libusb.git",
+    "method": "git",
+    "tags": [
+      "binding",
+      "usb",
+      "libusb"
+    ],
+    "description": "Bindings for libusb, the cross-platform user library to access USB devices.",
+    "license": "MIT",
+    "web": "https://github.com/nimious/libusb"
+  },
+  {
+    "name": "myo",
+    "url": "git://github.com/nimious/myo.git",
+    "method": "git",
+    "tags": [
+      "binding",
+      "myo",
+      "thalmic",
+      "armband",
+      "gesture"
+    ],
+    "description": "Bindings for the Thalmic Labs Myo gesture control armband SDK.",
+    "license": "MIT",
+    "web": "https://github.com/nimious/myo"
+  },
+  {
+    "name": "oculus",
+    "url": "git://github.com/nimious/oculus.git",
+    "method": "git",
+    "tags": [
+      "binding",
+      "oculus",
+      "rift",
+      "vr",
+      "libovr",
+      "ovr",
+      "dk1",
+      "dk2",
+      "gearvr"
+    ],
+    "description": "Bindings for the Oculus VR SDK.",
+    "license": "MIT",
+    "web": "https://github.com/nimious/oculus"
+  },
+  {
+    "name": "serialport",
+    "url": "git://github.com/nimious/serialport.git",
+    "method": "git",
+    "tags": [
+      "binding",
+      "libserialport",
+      "serial",
+      "communication"
+    ],
+    "description": "Bindings for libserialport, the cross-platform serial communication library.",
+    "license": "MIT",
+    "web": "https://github.com/nimious/serialport"
+  },
+  {
+    "name": "gles",
+    "url": "git://github.com/nimious/gles.git",
+    "method": "git",
+    "tags": [
+      "binding",
+      "khronos",
+      "gles",
+      "opengl es"
+    ],
+    "description": "Bindings for OpenGL ES, the embedded 3D graphics library.",
+    "license": "MIT",
+    "web": "https://github.com/nimious/gles"
+  },
+  {
+    "name": "egl",
+    "url": "git://github.com/nimious/egl.git",
+    "method": "git",
+    "tags": [
+      "binding",
+      "khronos",
+      "egl",
+      "opengl",
+      "opengl es",
+      "openvg"
+    ],
+    "description": "Bindings for EGL, the native platform interface for rendering APIs.",
+    "license": "MIT",
+    "web": "https://github.com/nimious/egl"
+  },
+  {
+    "name": "sixense",
+    "url": "git://github.com/nimious/sixense.git",
+    "method": "git",
+    "tags": [
+      "binding",
+      "sixense",
+      "razer hydra",
+      "stem system",
+      "vr"
+    ],
+    "description": "Bindings for the Sixense Core API.",
+    "license": "MIT",
+    "web": "https://github.com/nimious/sixense"
   }
 ]
