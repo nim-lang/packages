@@ -4203,5 +4203,17 @@
     "description": "Bindings for the Sixense Core API.",
     "license": "MIT",
     "web": "https://github.com/nimious/sixense"
+  },
+  {
+    "name": "listsv",
+    "url": "git://github.com/srwiley/listsv.git",
+    "method": "git",
+    "tags": [
+      "singly linked list",
+      "doubly linked list"
+    ],
+    "description": "Basic operations on singly and doubly linked lists.",
+    "license": "MIT",
+    "web": "https://github.com/srwiley/listsv"
   }
 ]
