@@ -4062,6 +4062,7 @@
     "web": "https://github.com/lompik/pari.nim"
   },
   {
+<<<<<<< HEAD
     "name": "spacenav",
     "url": "git://github.com/nimious/spacenav.git",
     "method": "git",
@@ -4215,5 +4216,18 @@
     "description": "Basic operations on singly and doubly linked lists.",
     "license": "MIT",
     "web": "https://github.com/srwiley/listsv"
+  },
+  {
+    "name": "kissfft",
+    "url": "git://github.com/m13253/nim-kissfft",
+    "method": "git",
+    "tags": [
+      "fft",
+      "dsp",
+      "signal"
+    ],
+    "description": "Nim binding for KissFFT Fast Fourier Transform library",
+    "license": "BSD",
+    "web": "https://github.com/m13253/nim-kissfft"
   }
 ]
