@@ -4062,7 +4062,6 @@
     "web": "https://github.com/lompik/pari.nim"
   },
   {
-<<<<<<< HEAD
     "name": "spacenav",
     "url": "git://github.com/nimious/spacenav.git",
     "method": "git",
