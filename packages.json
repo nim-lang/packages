@@ -4228,5 +4228,18 @@
     "description": "Nim binding for KissFFT Fast Fourier Transform library",
     "license": "BSD",
     "web": "https://github.com/m13253/nim-kissfft"
+  },
+  {
+    "name": "nimbench",
+    "url": "git://github.com/ivankoster/nimbench.git",
+    "method": "git",
+    "tags": [
+      "benchmark",
+      "micro benchmark",
+      "timer"
+    ],
+    "description": "Micro benchmarking tool to measure speed of code, with the goal of optimizing it.",
+    "license": "Apache License, Version 2.0",
+    "web": "https://github.com/ivankoster/nimbench"
   }
 ]
