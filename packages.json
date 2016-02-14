@@ -4241,5 +4241,19 @@
     "description": "Micro benchmarking tool to measure speed of code, with the goal of optimizing it.",
     "license": "Apache License, Version 2.0",
     "web": "https://github.com/ivankoster/nimbench"
+  },
+  {
+    "name": "nimbluez",
+    "url": "git://github.com/Electric-Blue/NimBluez.git",
+    "method": "git",
+    "tags": [
+      "bluetooth",
+      "library",
+      "wrapper",
+      "sockets"
+    ],
+    "description": "Nim modules for access to system Bluetooth resources.",
+    "license": "BSD",
+    "web": "https://github.com/Electric-Blue/NimBluez"
   }
 ]
