@@ -4243,6 +4243,20 @@
     "web": "https://github.com/ivankoster/nimbench"
   },
   {
+    "name": "nest",
+    "url": "git://github.com/kedean/nest.git",
+    "method": "git",
+    "tags": [
+      "library",
+      "api",
+      "router",
+      "web"
+    ],
+    "description": "RESTful URI router",
+    "license": "MIT",
+    "web": "https://github.com/kedean/nest"
+  },
+  {
     "name": "nimbluez",
     "url": "git://github.com/Electric-Blue/NimBluez.git",
     "method": "git",
