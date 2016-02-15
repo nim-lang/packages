@@ -184,7 +184,7 @@
     "web": "https://github.com/rafaelvasco/nimrod-glfw"
   },
   {
-    "name": "chipmunk",
+    "name": "chipmunk6",
     "url": "git://github.com/fowlmouth/nimrod-chipmunk/",
     "method": "git",
     "tags": [
@@ -192,7 +192,7 @@
       "physics",
       "game"
     ],
-    "description": "Binding for Chipmunk 6.1",
+    "description": "Bindings for Chipmunk2D 6.x physics library",
     "license": "MIT",
     "web": "https://github.com/fowlmouth/nimrod-chipmunk"
   },
