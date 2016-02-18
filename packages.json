@@ -4282,5 +4282,19 @@
     "description": "Nim modules for access to system Bluetooth resources.",
     "license": "BSD",
     "web": "https://github.com/Electric-Blue/NimBluez"
+  },
+  {
+    "name": "nimyaml",
+    "url": "git://github.com/flyx/NimYAML",
+    "method": "git",
+    "tags": [
+      "serialization",
+      "parsing",
+      "library",
+      "yaml"
+    ],
+    "description": "YAML 1.2 implementation for Nim",
+    "license": "MIT",
+    "web": "http://flyx.github.io/NimYAML/"
   }
 ]
