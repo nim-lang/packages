@@ -762,7 +762,7 @@
   },
   {
     "name": "bloom",
-    "url": "git://github.com/boydgreenfield/nimrod-bloom/",
+    "url": "git://github.com/boydgreenfield/nimrod-bloom",
     "method": "git",
     "tags": [
       "Bloom filter",
@@ -775,7 +775,7 @@
     ],
     "description": "Efficient Bloom filter implementation in Nim using MurmurHash3.",
     "license": "MIT",
-    "web": "https://www.github.com/boydgreenfield/nimrod-bloom/"
+    "web": "https://www.github.com/boydgreenfield/nimrod-bloom"
   },
   {
     "name": "awesome_rmdir",
@@ -1011,7 +1011,7 @@
   },
   {
     "name": "murmur3",
-    "url": "git://github.com/boydgreenfield/nimrod-murmur/",
+    "url": "git://github.com/boydgreenfield/nimrod-murmur",
     "method": "git",
     "tags": [
       "MurmurHash",
@@ -1022,7 +1022,7 @@
     ],
     "description": "A simple MurmurHash3 wrapper for Nim",
     "license": "MIT",
-    "web": "https://github.com/boydgreenfield/nimrod-murmur/"
+    "web": "https://github.com/boydgreenfield/nimrod-murmur"
   },
   {
     "name": "hex",
@@ -1177,7 +1177,7 @@
   },
   {
     "name": "bitarray",
-    "url": "git://github.com/onecodex/nim-bitarray/",
+    "url": "git://github.com/onecodex/nim-bitarray",
     "method": "git",
     "tags": [
       "Bit arrays",
@@ -1187,7 +1187,7 @@
     ],
     "description": "mmap-backed bitarray implementation in Nim.",
     "license": "MIT",
-    "web": "https://www.github.com/onecodex/nim-bitarray/"
+    "web": "https://www.github.com/onecodex/nim-bitarray"
   },
   {
     "name": "appdirs",
