@@ -4296,5 +4296,20 @@
     "description": "YAML 1.2 implementation for Nim",
     "license": "MIT",
     "web": "http://flyx.github.io/NimYAML/"
+  },
+  {
+    "name": "jsmn",
+    "url": "https://github.com/OpenSystemsLab/jsmn.nim",
+    "method": "git",
+    "tags": [
+      "json",
+      "token",
+      "tokenizer",
+      "parser",
+      "jsmn"
+    ],
+    "description": "Jsmn - a world fastest JSON parser - in pure Nim",
+    "license": "MIT",
+    "web": "https://github.com/OpenSystemsLab/jsmn.nim"
   }
 ]
