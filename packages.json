@@ -4311,5 +4311,19 @@
     "description": "Jsmn - a world fastest JSON parser - in pure Nim",
     "license": "MIT",
     "web": "https://github.com/OpenSystemsLab/jsmn.nim"
+  },
+  {
+    "name": "mangle",
+    "url": "https://github.com/baabelfish/mangle",
+    "method": "git",
+    "tags": [
+      "functional",
+      "iterators",
+      "lazy",
+      "library"
+    ],
+    "description": "Yet another iterator library",
+    "license": "MIT",
+    "web": "https://github.com/baabelfish/mangle"
   }
 ]
