@@ -834,6 +834,25 @@
     "web": "https://github.com/nim-lang/sdl2"
   },
   {
+    "name": "sdl2-nim",
+    "url": "git://github.com/Vladar4/sdl2-nim",
+    "method": "git",
+    "tags": [
+      "library",
+      "wrapper",
+      "sdl2",
+      "game",
+      "video",
+      "image",
+      "audio",
+      "network",
+      "ttf"
+    ],
+    "description": "Wrapper of the SDL 2 library for the Nim language.",
+    "license": "zlib",
+    "web": "https://github.com/Vladar4/sdl2-nim"
+  },
+  {
     "name": "assimp",
     "url": "git://github.com/barcharcraz/nim-assimp",
     "method": "git",
