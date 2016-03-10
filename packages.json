@@ -834,8 +834,8 @@
     "web": "https://github.com/nim-lang/sdl2"
   },
   {
-    "name": "sdl2-nim",
-    "url": "git://github.com/Vladar4/sdl2-nim",
+    "name": "sdl2_nim",
+    "url": "git://github.com/Vladar4/sdl2_nim",
     "method": "git",
     "tags": [
       "library",
@@ -850,7 +850,7 @@
     ],
     "description": "Wrapper of the SDL 2 library for the Nim language.",
     "license": "zlib",
-    "web": "https://github.com/Vladar4/sdl2-nim"
+    "web": "https://github.com/Vladar4/sdl2_nim"
   },
   {
     "name": "assimp",
