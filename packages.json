@@ -4339,5 +4339,20 @@
     "description": "Yet another iterator library",
     "license": "MIT",
     "web": "https://github.com/baabelfish/mangle"
+  },
+  {
+    "name": "sam",
+    "url": "https://github.com/OpenSystemsLab/sam.nim",
+    "method": "git",
+    "tags": [
+      "json",
+      "binding",
+      "map",
+      "dump",
+      "load"
+    ],
+    "description": "Fast and just works JSON-Binding for Nim",
+    "license": "MIT",
+    "web": "https://github.com/OpenSystemsLab/sam.nim"
   }
 ]
