@@ -4339,5 +4339,17 @@
     "description": "Yet another iterator library",
     "license": "MIT",
     "web": "https://github.com/baabelfish/mangle"
+  },
+  {
+    "name": "nimshell",
+    "url": "https://github.com/vegansk/nimshell",
+    "method": "git",
+    "tags": [
+      "shell",
+      "utility"
+    ],
+    "description": "Library for shell scripting in nim",
+    "license": "MIT",
+    "web": "https://github.com/vegansk/nimshell"
   }
 ]
