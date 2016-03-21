@@ -4384,5 +4384,18 @@
     "description": "A web DSL for Nim",
     "license": "MIT",
     "web": "https://github.com/andreaferretti/rosencrantz"
+  },
+  {
+    "name": "twitter",
+    "url": "git://github.com/kubo39/twitter",
+    "method": "git",
+    "tags": [
+      "library",
+      "wrapper",
+      "twitter"
+    ],
+    "description": "Low-level twitter API wrapper library for Nim.",
+    "license": "MIT",
+    "web": "https://github.com/kubo39/twitter"
   }
 ]
