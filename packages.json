@@ -4400,5 +4400,18 @@
     "description": "Fast and just works JSON-Binding for Nim",
     "license": "MIT",
     "web": "https://github.com/OpenSystemsLab/sam.nim"
+  },
+  {
+    "name": "twitter",
+    "url": "git://github.com/kubo39/twitter",
+    "method": "git",
+    "tags": [
+      "library",
+      "wrapper",
+      "twitter"
+    ],
+    "description": "Low-level twitter API wrapper library for Nim.",
+    "license": "MIT",
+    "web": "https://github.com/kubo39/twitter"
   }
 ]
