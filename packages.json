@@ -4360,7 +4360,6 @@
     "web": "https://github.com/baabelfish/mangle"
   },
   {
-<<<<<<< HEAD
     "name": "nimshell",
     "url": "https://github.com/vegansk/nimshell",
     "method": "git",
