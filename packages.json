@@ -4412,5 +4412,19 @@
     "description": "Low-level twitter API wrapper library for Nim.",
     "license": "MIT",
     "web": "https://github.com/kubo39/twitter"
+  },
+  {
+    "name": "stomp",
+    "url": "https://bitbucket.org/mahlon/nim-stomp",
+    "method": "hg",
+    "tags": [
+      "stomp",
+      "library",
+      "messaging",
+	  "events"
+    ],
+    "description": "A pure-nim implementation of the STOMP protocol for machine messaging.",
+    "license": "MIT",
+    "web": "http://bitbucket.org/mahlon/nim-stomp"
   }
 ]
