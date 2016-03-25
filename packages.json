@@ -4412,5 +4412,30 @@
     "description": "Low-level twitter API wrapper library for Nim.",
     "license": "MIT",
     "web": "https://github.com/kubo39/twitter"
+  },
+  {
+    "name": "srt",
+    "url": "git://github.com/achesak/nim-srt",
+    "method": "git",
+    "tags": [
+      "srt",
+      "subrip",
+      "subtitle"
+    ],
+    "description": "Nim module for parsing SRT (SubRip) subtitle files",
+    "license": "MIT",
+    "web": "https://github.com/achesak/nim-srt"
+  },
+  {
+    "name": "subviewer",
+    "url": "git://github.co/achesak/nim-subviewer",
+    "method": "git",
+    "tags": [
+      "subviewer",
+      "subtitle"
+    ],
+    "description": "Nim module for parsing SubViewer subtitle files",
+    "license": "MIT",
+    "web": "https://github.com/achesak/nim-subviewer"
   }
 ]
