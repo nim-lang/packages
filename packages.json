@@ -4437,5 +4437,21 @@
     "description": "Nim module for parsing SubViewer subtitle files",
     "license": "MIT",
     "web": "https://github.com/achesak/nim-subviewer"
+  },
+  {
+    "name": "Kinto",
+    "url": "https://github.com/OpenSystemsLab/kinto.nim",
+    "method": "git",
+    "tags": [
+      "mozilla",
+      "kinto",
+      "json",
+      "storage",
+      "server",
+      "client"
+    ],
+    "description": "Kinto Client for Nim",
+    "license": "MIT",
+    "web": "https://github.com/OpenSystemsLab/kinto.nim"
   }
 ]
