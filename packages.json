@@ -4426,5 +4426,46 @@
     "description": "A pure-nim implementation of the STOMP protocol for machine messaging.",
     "license": "MIT",
     "web": "http://bitbucket.org/mahlon/nim-stomp"
+  },
+  {
+    "name": "srt",
+    "url": "git://github.com/achesak/nim-srt",
+    "method": "git",
+    "tags": [
+      "srt",
+      "subrip",
+      "subtitle"
+    ],
+    "description": "Nim module for parsing SRT (SubRip) subtitle files",
+    "license": "MIT",
+    "web": "https://github.com/achesak/nim-srt"
+  },
+  {
+    "name": "subviewer",
+    "url": "git://github.co/achesak/nim-subviewer",
+    "method": "git",
+    "tags": [
+      "subviewer",
+      "subtitle"
+    ],
+    "description": "Nim module for parsing SubViewer subtitle files",
+    "license": "MIT",
+    "web": "https://github.com/achesak/nim-subviewer"
+  },
+  {
+    "name": "Kinto",
+    "url": "https://github.com/OpenSystemsLab/kinto.nim",
+    "method": "git",
+    "tags": [
+      "mozilla",
+      "kinto",
+      "json",
+      "storage",
+      "server",
+      "client"
+    ],
+    "description": "Kinto Client for Nim",
+    "license": "MIT",
+    "web": "https://github.com/OpenSystemsLab/kinto.nim"
   }
 ]
