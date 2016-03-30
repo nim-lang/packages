@@ -4467,5 +4467,19 @@
     "description": "Kinto Client for Nim",
     "license": "MIT",
     "web": "https://github.com/OpenSystemsLab/kinto.nim"
+  },
+  {
+    "name": "xmltools",
+    "url": "https://github.com/vegansk/xmltools",
+    "method": "git",
+    "tags": [
+      "xml",
+      "functional",
+      "library",
+      "parsing"
+    ],
+    "description": "High level xml library for Nim",
+    "license": "MIT",
+    "web": "https://github.com/vegansk/xmltools"
   }
 ]
