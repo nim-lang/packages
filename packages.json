@@ -4481,5 +4481,21 @@
     "description": "High level xml library for Nim",
     "license": "MIT",
     "web": "https://github.com/vegansk/xmltools"
+  },
+  {
+    "name": "nimongo",
+    "url": "https://github.com/SSPkrolik/nimongo",
+    "method": "git",
+    "tags": [
+      "mongo",
+      "mongodb",
+      "database",
+      "server",
+      "driver",
+      "storage"
+    ],
+    "description": "MongoDB driver in pure Nim language with synchronous and asynchronous I/O support",
+    "license": "MIT",
+    "web": "https://github.com/SSPkrolik/nimongo"
   }
 ]
