@@ -4421,7 +4421,7 @@
       "stomp",
       "library",
       "messaging",
-	  "events"
+      "events"
     ],
     "description": "A pure-nim implementation of the STOMP protocol for machine messaging.",
     "license": "MIT",
@@ -4481,5 +4481,16 @@
     "description": "High level xml library for Nim",
     "license": "MIT",
     "web": "https://github.com/vegansk/xmltools"
+  },
+  {
+    "name": "xxtea_nim",
+    "url": "https://github.com/xxtea/xxtea-nim",
+    "method": "git",
+    "tags": [
+      "y"
+    ],
+    "description": "XXTEA for encryption algorithm library Nim.",
+    "license": "MIT",
+    "web": "https://github.com/xxtea/xxtea-nim"
   }
 ]
