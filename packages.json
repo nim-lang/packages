@@ -4481,5 +4481,18 @@
     "description": "High level xml library for Nim",
     "license": "MIT",
     "web": "https://github.com/vegansk/xmltools"
+  },
+  {
+    "name": "nimboost",
+    "url": "https://github.com/vegansk/nimboost",
+    "method": "git",
+    "tags": [
+      "stdlib",
+      "library",
+      "utility"
+    ],
+    "description": "Additions to the Nim's standard library, like boost for C++",
+    "license": "MIT",
+    "web": "https://github.com/vegansk/nimboost"
   }
 ]
