@@ -4522,5 +4522,17 @@
     "description": "Asynchronous docker client written by Nim-lang",
     "license": "MIT",
     "web": "http://tulayang.github.io/asyncdocker.html"
+  },
+  {
+    "name": "python3",
+    "url": "git://github.com/matkuki/python3",
+    "method": "git",
+    "tags": [
+      "python",
+      "wrapper"
+    ],
+    "description": "Wrapper to interface with the Python 3 interpreter",
+    "license": "MIT",
+    "web": "https://github.com/matkuki/python3"
   }
 ]
