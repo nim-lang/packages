@@ -4510,5 +4510,17 @@
     "description": "Additions to the Nim's standard library, like boost for C++",
     "license": "MIT",
     "web": "https://github.com/vegansk/nimboost"
+  },
+  {
+    "name": "asyncdocker",
+    "url": "https://github.com/tulayang/asyncdocker",
+    "method": "git",
+    "tags": [
+      "async",
+      "docker"
+    ],
+    "description": "Asynchronous docker client written by Nim-lang",
+    "license": "MIT",
+    "web": "http://tulayang.github.io/asyncdocker.html"
   }
 ]
