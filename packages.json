@@ -3197,7 +3197,7 @@
   },
   {
     "name": "xxtea",
-    "url": "https://github.com/rgv151/xxtea.nim",
+    "url": "https://github.com/xxtea/xxtea-nim",
     "method": "git",
     "tags": [
       "xxtea",
@@ -3205,9 +3205,9 @@
       "decrypt",
       "crypto"
     ],
-    "description": "XXTEA wrapper for Nim",
+    "description": "XXTEA encryption algorithm library written in pure Nim.",
     "license": "MIT",
-    "web": "https://github.com/rgv151/xxtea.nim"
+    "web": "https://github.com/xxtea/xxtea-nim"
   },
   {
     "name": "xxhash",
