@@ -85,8 +85,6 @@ License :: OSI Approved :: Intel Open Source License
 License :: OSI Approved :: ISC License (ISCL)
 License :: OSI Approved :: Jabber Open Source License
 License :: OSI Approved :: MIT License
-License :: OSI Approved :: MITRE Collaborative Virtual Workspace License (CVW)
-License :: OSI Approved :: Motosoto License
 License :: OSI Approved :: Mozilla Public License 1.0 (MPL)
 License :: OSI Approved :: Mozilla Public License 1.1 (MPL 1.1)
 License :: OSI Approved :: Mozilla Public License 2.0 (MPL 2.0)
@@ -96,19 +94,14 @@ License :: OSI Approved :: Open Group Test Suite License
 License :: OSI Approved :: Python License (CNRI Python License)
 License :: OSI Approved :: Python Software Foundation License
 License :: OSI Approved :: Qt Public License (QPL)
-License :: OSI Approved :: Ricoh Source Code Public License
-License :: OSI Approved :: Sleepycat License
-License :: OSI Approved :: Sun Industry Standards Source License (SISSL)
 License :: OSI Approved :: Sun Public License
 License :: OSI Approved :: University of Illinois/NCSA Open Source License
 License :: OSI Approved :: Vovida Software License 1.0
 License :: OSI Approved :: W3C License
 License :: OSI Approved :: X.Net License
 License :: OSI Approved :: zlib/libpng License
-License :: OSI Approved :: Zope Public License
 License :: Other/Proprietary License
 License :: Public Domain
-License :: Repoze Public License
 Natural Language :: Afrikaans
 Natural Language :: Arabic
 Natural Language :: Bengali
@@ -196,10 +189,10 @@ Operating System :: POSIX :: SCO
 Operating System :: POSIX :: SunOS/Solaris
 Operating System :: Unix
 Programming Language :: Nim
-Programming Language :: Python
-Programming Language :: Python :: 0.12
-Programming Language :: Python :: 0.13
-Programming Language :: Python :: 1.0
+Programming Language :: Nim
+Programming Language :: Nim :: 0.12
+Programming Language :: Nim :: 0.13
+Programming Language :: Nim :: 1.0
 Topic :: Adaptive Technologies
 Topic :: Artistic Software
 Topic :: Communications
