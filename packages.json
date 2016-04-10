@@ -4421,7 +4421,7 @@
       "stomp",
       "library",
       "messaging",
-	  "events"
+      "events"
     ],
     "description": "A pure-nim implementation of the STOMP protocol for machine messaging.",
     "license": "MIT",
@@ -4534,5 +4534,18 @@
     "description": "Wrapper to interface with the Python 3 interpreter",
     "license": "MIT",
     "web": "https://github.com/matkuki/python3"
+  },
+  {
+    "name": "jser",
+    "url": "https://github.com/niv/jser.nim",
+    "method": "git",
+    "tags": [
+      "json",
+      "serialize",
+      "tuple"
+    ],
+    "description": "json de/serializer for tuples and more",
+    "license": "MIT",
+    "web": "https://github.com/niv/jser.nim"
   }
 ]
