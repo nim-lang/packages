@@ -4547,5 +4547,17 @@
     "description": "json de/serializer for tuples and more",
     "license": "MIT",
     "web": "https://github.com/niv/jser.nim"
+  },
+  {
+    "name": "pledge",
+    "url": "https://github.com/euantorano/pledge.nim",
+    "method": "git",
+    "tags": [
+      "pledge",
+      "openbsd"
+    ],
+    "description": "OpenBSDs pledge(2) for Nim.",
+    "license": "BSD",
+    "web": "https://github.com/euantorano/pledge.nim"
   }
 ]
