@@ -3384,17 +3384,17 @@
     "web": "https://github.com/Senketsu/nim-db-ex"
   },
   {
-    "name": "ni",
-    "url": "git://github.com/gokr/ni/",
+    "name": "spry",
+    "url": "git://github.com/gokr/spry",
     "method": "git",
     "tags": [
       "language",
       "library",
       "scripting"
     ],
-    "description": "A Rebol-ish language implemented as an AST interpreter",
+    "description": "A Smalltalk and Rebol inspired language implemented as an AST interpreter",
     "license": "MIT",
-    "web": "https://github.com/gokr/ni"
+    "web": "https://github.com/gokr/spry"
   },
   {
     "name": "nimBMP",
@@ -4559,5 +4559,18 @@
     "description": "OpenBSDs pledge(2) for Nim.",
     "license": "BSD",
     "web": "https://github.com/euantorano/pledge.nim"
+  },
+  {
+    "name": "sophia",
+    "url": "git://github.com/gokr/nim-sophia",
+    "method": "git",
+    "tags": [
+      "library",
+      "wrapper",
+      "database"
+    ],
+    "description": "Nim wrapper of the Sophia key/value store",
+    "license": "MIT",
+    "web": "https://github.com/gokr/nim-sophia"
   }
 ]
