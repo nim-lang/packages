@@ -4572,5 +4572,19 @@
     "description": "Nim wrapper of the Sophia key/value store",
     "license": "MIT",
     "web": "https://github.com/gokr/nim-sophia"
+  },
+  {
+    "name": "progress",
+    "url": "https://github.com/euantorano/progress.nim",
+    "method": "git",
+    "tags": [
+      "progress",
+      "bar",
+      "terminal",
+      "ui"
+    ],
+    "description": "A simple progress bar for Nim.",
+    "license": "BSD",
+    "web": "https://github.com/euantorano/progress.nim"
   }
 ]
