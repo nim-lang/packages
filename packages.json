@@ -4586,5 +4586,20 @@
     "description": "A simple progress bar for Nim.",
     "license": "BSD",
     "web": "https://github.com/euantorano/progress.nim"
+  },
+  {
+    "name": "websocket",
+    "url": "https://github.com/niv/websocket.nim",
+    "method": "git",
+    "tags": [
+      "http",
+      "websockets",
+      "async",
+      "client",
+      "server"
+    ],
+    "description": "websockets for nim",
+    "license": "MIT",
+    "web": "https://github.com/niv/websocket.nim"
   }
 ]
