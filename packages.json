@@ -4601,5 +4601,16 @@
     "description": "websockets for nim",
     "license": "MIT",
     "web": "https://github.com/niv/websocket.nim"
+  },
+  {
+    "name": "cucumber",
+    "url": "https://github.com/shaunc/cucumber_nim",
+    "method": "git",
+    "tags": [
+      "testing", "cucumber", "bdd"
+    ],
+    "description": "implements the cucumber BDD framework in the nim language",
+    "license": "MIT",
+    "web": "https://github.com/shaunc/cucumber_nim"
   }
 ]
