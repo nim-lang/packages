@@ -4624,4 +4624,15 @@
     "license": "BSD",
     "web": "https://github.com/lompik/libmpdclient.nim"
   }
+  {
+    "name": "awk",
+    "url": "https://github.com/greencardamom/awk",
+    "method": "git",
+    "tags": [
+      "awk"
+    ],
+    "description": "Nim for awk programmers",
+    "license": "MIT",
+    "web": "https://github.com/greencardamom/awk"
+  }
 ]
