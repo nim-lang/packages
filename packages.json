@@ -4623,7 +4623,7 @@
     "description": "Bindings for the Music Player Daemon C client library",
     "license": "BSD",
     "web": "https://github.com/lompik/libmpdclient.nim"
-  }
+  },
   {
     "name": "awk",
     "url": "https://github.com/greencardamom/awk",
