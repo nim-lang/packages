@@ -4607,7 +4607,9 @@
     "url": "https://github.com/shaunc/cucumber_nim",
     "method": "git",
     "tags": [
-      "testing", "cucumber", "bdd"
+      "testing",
+      "cucumber",
+      "bdd"
     ],
     "description": "implements the cucumber BDD framework in the nim language",
     "license": "MIT",
@@ -4618,7 +4620,8 @@
     "url": "https://github.com/lompik/libmpdclient.nim",
     "method": "git",
     "tags": [
-      "MPD", "Music Player Daemon"
+      "MPD",
+      "Music Player Daemon"
     ],
     "description": "Bindings for the Music Player Daemon C client library",
     "license": "BSD",
@@ -4634,5 +4637,19 @@
     "description": "Nim for awk programmers",
     "license": "MIT",
     "web": "https://github.com/greencardamom/awk"
+  },
+  {
+    "name": "dotenv",
+    "url": "https://github.com/euantorano/dotenv.nim",
+    "method": "git",
+    "tags": [
+      "env",
+      "dotenv",
+      "configuration",
+      "environment"
+    ],
+    "description": "Loads environment variables from `.env`.",
+    "license": "BSD",
+    "web": "https://github.com/euantorano/dotenv.nim"
   }
 ]
