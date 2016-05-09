@@ -5,16 +5,16 @@ language: c
 
 install:
   - |
-      wget http://nim-lang.org/download/nim-0.11.2.tar.xz
-      tar xf nim-0.11.2.tar.xz
-      cd nim-0.11.2
+      wget http://nim-lang.org/download/nim-0.13.0.tar.xz
+      tar xf nim-0.13.0.tar.xz
+      cd nim-0.13.0
       sh build.sh
       cd ..
 
 before_script:
   - set -e
   - set -x
-  - export PATH=`pwd`/nim-0.11.2/bin:$PATH
+  - export PATH=`pwd`/nim-0.13.0/bin:$PATH
 
 script:
   - nim c -d:ssl -r package_scanner.nim
