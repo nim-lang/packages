@@ -4651,5 +4651,19 @@
     "description": "Loads environment variables from `.env`.",
     "license": "BSD",
     "web": "https://github.com/euantorano/dotenv.nim"
+  },
+  {
+    "name": "sph",
+    "url": "https://github.com/aidansteele/sph",
+    "method": "git",
+    "tags": [
+      "crypto",
+      "hashes",
+      "md5",
+      "sha"
+    ],
+    "description": "Large number of cryptographic hashes for Nim",
+    "license": "MIT",
+    "web": "https://github.com/aidansteele/sph"
   }
 ]
