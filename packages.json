@@ -4665,5 +4665,17 @@
     "description": "Large number of cryptographic hashes for Nim",
     "license": "MIT",
     "web": "https://github.com/aidansteele/sph"
+  },
+  {
+    "name": "aws_sdk",
+    "url": "https://github.com/aidansteele/aws_sdk.nim",
+    "method": "git",
+    "tags": [
+      "aws",
+      "amazon"
+    ],
+    "description": "Library for interacting with Amazon Web Services (AWS)",
+    "license": "MIT",
+    "web": "https://github.com/aidansteele/aws_sdk.nim"
   }
 ]
