@@ -4679,5 +4679,17 @@
     "description": "libsodium wrapper",
     "license": "LGPLv3",
     "web": "https://github.com/FedericoCeratto/nim-libsodium"
+  },
+  {
+    "name": "aws_sdk",
+    "url": "https://github.com/aidansteele/aws_sdk.nim",
+    "method": "git",
+    "tags": [
+      "aws",
+      "amazon"
+    ],
+    "description": "Library for interacting with Amazon Web Services (AWS)",
+    "license": "MIT",
+    "web": "https://github.com/aidansteele/aws_sdk.nim"
   }
 ]
