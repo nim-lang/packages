@@ -4674,7 +4674,7 @@
       "wrapper",
       "library",
       "security",
-      "crypto",
+      "crypto"
     ],
     "description": "libsodium wrapper",
     "license": "LGPLv3",
