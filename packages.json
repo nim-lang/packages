@@ -4691,5 +4691,18 @@
     "description": "Library for interacting with Amazon Web Services (AWS)",
     "license": "MIT",
     "web": "https://github.com/aidansteele/aws_sdk.nim"
+  },
+  {
+    "name": "i18n",
+    "url": "https://github.com/Parashurama/nim-i18n",
+    "method": "git",
+    "tags": [
+      "gettext",
+      "i18n",
+      "internationalisation"
+    ],
+    "description": "Bring a gettext-like internationalisation module to Nim",
+    "license": "MIT",
+    "web": "https://github.com/Parashurama/nim-i18n"
   }
 ]
