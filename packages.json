@@ -4704,5 +4704,18 @@
     "description": "Bring a gettext-like internationalisation module to Nim",
     "license": "MIT",
     "web": "https://github.com/Parashurama/nim-i18n"
+  },
+  {
+    "name": "persistent_enums",
+    "url": "https://github.com/yglukhov/persistent_enums",
+    "method": "git",
+    "tags": [
+      "enum",
+      "binary",
+      "protocol"
+    ],
+    "description": "Define enums which values preserve their binary representation upon inserting or reordering",
+    "license": "MIT",
+    "web": "https://github.com/yglukhov/persistent_enums"
   }
 ]
