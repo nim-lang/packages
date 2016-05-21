@@ -4717,5 +4717,19 @@
     "description": "Define enums which values preserve their binary representation upon inserting or reordering",
     "license": "MIT",
     "web": "https://github.com/yglukhov/persistent_enums"
+  },
+  {
+    "name": "nimzend",
+    "url": "https://github.com/metatexx/nimzend",
+    "method": "git",
+    "tags": [
+      "zend",
+      "php",
+      "binding",
+      "extension"
+    ],
+    "description": "Native Nim Zend API glue for easy PHP extension development.",
+    "license": "MIT",
+    "web": "https://github.com/metatexx/nimzend"
   }
 ]
