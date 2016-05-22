@@ -4717,5 +4717,31 @@
     "description": "Define enums which values preserve their binary representation upon inserting or reordering",
     "license": "MIT",
     "web": "https://github.com/yglukhov/persistent_enums"
+  },
+  {
+    "name": "nimcl",
+    "url": "https://github.com/unicredit/nimcl",
+    "method": "git",
+    "tags": [
+      "OpenCL",
+      "GPU"
+    ],
+    "description": "High level wrapper over OpenCL",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/unicredit/nimcl"
+  },
+  {
+    "name": "nimblas",
+    "url": "https://github.com/unicredit/nimblas",
+    "method": "git",
+    "tags": [
+      "BLAS",
+      "linear algebra",
+      "vector",
+      "matrix"
+    ],
+    "description": "BLAS for Nim",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/unicredit/nimblas"
   }
 ]
