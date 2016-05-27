@@ -4743,5 +4743,16 @@
     "description": "BLAS for Nim",
     "license": "Apache License 2.0",
     "web": "https://github.com/unicredit/nimblas"
+  },
+  {
+    "name": "fixmath",
+    "url": "https://github.com/Jeff-Ciesielski/fixmath",
+    "method": "git",
+    "tags": [
+      "math"
+    ],
+    "description": "LibFixMath 16:16 fixed point support for nim",
+    "license": "MIT",
+    "web": "https://github.com/Jeff-Ciesielski/fixmath"
   }
 ]
