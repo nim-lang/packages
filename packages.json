@@ -4754,5 +4754,19 @@
     "description": "LibFixMath 16:16 fixed point support for nim",
     "license": "MIT",
     "web": "https://github.com/Jeff-Ciesielski/fixmath"
+  },
+  {
+    "name": "nimzend",
+    "url": "https://github.com/metatexx/nimzend",
+    "method": "git",
+    "tags": [
+      "zend",
+      "php",
+      "binding",
+      "extension"
+    ],
+    "description": "Native Nim Zend API glue for easy PHP extension development.",
+    "license": "MIT",
+    "web": "https://github.com/metatexx/nimzend"
   }
 ]
