@@ -3774,20 +3774,6 @@
     "web": "https://github.com/nim-appkit/utils"
   },
   {
-    "name": "yaml",
-    "url": "https://github.com/nim-appkit/yaml",
-    "method": "git",
-    "tags": [
-      "library",
-      "serialization",
-      "parsing",
-      "yaml"
-    ],
-    "description": "YAML parser",
-    "license": "MIT",
-    "web": "https://github.com/nim-appkit/yaml"
-  },
-  {
     "name": "pymod",
     "url": "https://github.com/jboy/nim-pymod",
     "method": "git",
@@ -4317,7 +4303,7 @@
     "web": "https://github.com/Electric-Blue/NimBluez"
   },
   {
-    "name": "nimyaml",
+    "name": "yaml",
     "url": "git://github.com/flyx/NimYAML",
     "method": "git",
     "tags": [
