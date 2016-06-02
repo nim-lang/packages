@@ -3774,20 +3774,6 @@
     "web": "https://github.com/nim-appkit/utils"
   },
   {
-    "name": "yaml",
-    "url": "https://github.com/nim-appkit/yaml",
-    "method": "git",
-    "tags": [
-      "library",
-      "serialization",
-      "parsing",
-      "yaml"
-    ],
-    "description": "YAML parser",
-    "license": "MIT",
-    "web": "https://github.com/nim-appkit/yaml"
-  },
-  {
     "name": "pymod",
     "url": "https://github.com/jboy/nim-pymod",
     "method": "git",
@@ -4315,6 +4301,20 @@
     "description": "Nim modules for access to system Bluetooth resources.",
     "license": "BSD",
     "web": "https://github.com/Electric-Blue/NimBluez"
+  },
+  {
+    "name": "yaml",
+    "url": "git://github.com/flyx/NimYAML",
+    "method": "git",
+    "tags": [
+      "serialization",
+      "parsing",
+      "library",
+      "yaml"
+    ],
+    "description": "YAML 1.2 implementation for Nim",
+    "license": "MIT",
+    "web": "http://flyx.github.io/NimYAML/"
   },
   {
     "name": "nimyaml",
