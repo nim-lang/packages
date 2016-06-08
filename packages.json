@@ -565,14 +565,14 @@
   },
   {
     "name": "dropbox_filename_sanitizer",
-    "url": "git://github.com/gradha/dropbox_filename_sanitizer/",
+    "url": "git://github.com/Araq/dropbox_filename_sanitizer/",
     "method": "git",
     "tags": [
       "dropbox"
     ],
     "description": "Tool to clean up filenames shared on Dropbox",
     "license": "MIT",
-    "web": "https://github.com/gradha/dropbox_filename_sanitizer/"
+    "web": "https://github.com/Araq/dropbox_filename_sanitizer/"
   },
   {
     "name": "csv",
@@ -779,7 +779,7 @@
   },
   {
     "name": "awesome_rmdir",
-    "url": "git://github.com/gradha/awesome_rmdir/",
+    "url": "git://github.com/Araq/awesome_rmdir/",
     "method": "git",
     "tags": [
       "rmdir",
@@ -788,7 +788,7 @@
     ],
     "description": "Command to remove acceptably empty directories.",
     "license": "MIT",
-    "web": "https://github.com/gradha/awesome_rmdir/"
+    "web": "https://github.com/Araq/awesome_rmdir/"
   },
   {
     "name": "nimalpm",
@@ -951,7 +951,7 @@
   },
   {
     "name": "number_files",
-    "url": "git://github.com/gradha/number_files/",
+    "url": "git://github.com/Araq/number_files/",
     "method": "git",
     "tags": [
       "rename",
@@ -960,7 +960,7 @@
     ],
     "description": "Command to add counter suffix/prefix to a list of files.",
     "license": "MIT",
-    "web": "https://github.com/gradha/number_files/"
+    "web": "https://github.com/Araq/number_files/"
   },
   {
     "name": "redissessions",
@@ -1097,7 +1097,7 @@
   },
   {
     "name": "gh_nimrod_doc_pages",
-    "url": "git://github.com/gradha/gh_nimrod_doc_pages",
+    "url": "git://github.com/Araq/gh_nimrod_doc_pages",
     "method": "git",
     "tags": [
       "commandline",
@@ -1107,11 +1107,11 @@
     ],
     "description": "Generates a GitHub documentation website for Nim projects.",
     "license": "MIT",
-    "web": "http://gradha.github.io/gh_nimrod_doc_pages/"
+    "web": "https://github.com/Araq/gh_nimrod_doc_pages"
   },
   {
     "name": "midnight_dynamite",
-    "url": "git://github.com/gradha/midnight_dynamite",
+    "url": "git://github.com/Araq/midnight_dynamite",
     "method": "git",
     "tags": [
       "wrapper",
@@ -1122,7 +1122,7 @@
     ],
     "description": "Wrapper for the markdown rendering hoedown library",
     "license": "MIT",
-    "web": "http://gradha.github.io/midnight_dynamite/"
+    "web": "https://github.com/Araq/midnight_dynamite"
   },
   {
     "name": "rsvg",
@@ -1353,7 +1353,7 @@
   },
   {
     "name": "lazy_rest",
-    "url": "git://github.com/gradha/lazy_rest",
+    "url": "git://github.com/Araq/lazy_rest",
     "method": "git",
     "tags": [
       "library",
@@ -1364,7 +1364,7 @@
     ],
     "description": "Simple reST HTML generation with some extras.",
     "license": "MIT",
-    "web": "https://github.com/gradha/lazy_rest"
+    "web": "https://github.com/Araq/lazy_rest"
   },
   {
     "name": "Phosphor",
