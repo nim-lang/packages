@@ -1287,7 +1287,7 @@
     "web": "https://h3rald.com/hastyscribe"
   },
   {
-    "name": "nim-nanomsg",
+    "name": "nanomsg",
     "url": "git://github.com/def-/nim-nanomsg",
     "method": "git",
     "tags": [
