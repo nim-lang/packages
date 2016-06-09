@@ -10,6 +10,7 @@
 #  * Missing tags
 #  * Missing description
 #  * Missing/unknown license
+#  * Insecure git:// url on GitHub
 #
 # Usage: nim c -d:ssl -r package_scanner.nim
 #
@@ -101,7 +102,7 @@ proc check(): int =
       echo "E: ", name, " has no URL"
       result.inc()
 
-    elif not canFetchNimbleRepository(name, pdata["web"]):
+    elif pdata.hasKey("web") and not canFetchNimbleRepository(name, pdata["web"]):
       result.inc()
 
     elif not pdata.hasKey("tags"):
@@ -114,6 +115,10 @@ proc check(): int =
 
     elif not pdata.hasKey("license"):
       echo "E: ", name, " has no license"
+      result.inc()
+
+    elif pdata["url"].str.normalize.startsWith("git://github.com/"):
+      echo "E: ", name, " has an insecure git:// URL instead of https://"
       result.inc()
 
     else:
