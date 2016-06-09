@@ -1,7 +1,7 @@
 [
   {
     "name": "argument_parser",
-    "url": "git://github.com/Xe/argument_parser/",
+    "url": "https://github.com/Xe/argument_parser/",
     "method": "git",
     "tags": [
       "library",
@@ -16,7 +16,7 @@
   },
   {
     "name": "genieos",
-    "url": "git://github.com/Araq/genieos/",
+    "url": "https://github.com/Araq/genieos/",
     "method": "git",
     "tags": [
       "library",
@@ -31,7 +31,7 @@
   },
   {
     "name": "jester",
-    "url": "git://github.com/dom96/jester/",
+    "url": "https://github.com/dom96/jester/",
     "method": "git",
     "tags": [
       "web",
@@ -58,7 +58,7 @@
   },
   {
     "name": "murmur",
-    "url": "git://github.com/olahol/nimrod-murmur/",
+    "url": "https://github.com/olahol/nimrod-murmur/",
     "method": "git",
     "tags": [
       "hash",
@@ -70,7 +70,7 @@
   },
   {
     "name": "libtcod-nim",
-    "url": "git://github.com/Vladar4/libtcod-nim/",
+    "url": "https://github.com/Vladar4/libtcod-nim/",
     "method": "git",
     "tags": [
       "roguelike",
@@ -87,7 +87,7 @@
   },
   {
     "name": "nimgame",
-    "url": "git://github.com/Vladar4/nimgame/",
+    "url": "https://github.com/Vladar4/nimgame/",
     "method": "git",
     "tags": [
       "game",
@@ -100,7 +100,7 @@
   },
   {
     "name": "sfml",
-    "url": "git://github.com/fowlmouth/nimrod-sfml/",
+    "url": "https://github.com/fowlmouth/nimrod-sfml/",
     "method": "git",
     "tags": [
       "game",
@@ -113,7 +113,7 @@
   },
   {
     "name": "enet",
-    "url": "git://github.com/fowlmouth/nimrod-enet/",
+    "url": "https://github.com/fowlmouth/nimrod-enet/",
     "method": "git",
     "tags": [
       "game",
@@ -126,7 +126,7 @@
   },
   {
     "name": "nim-locale",
-    "url": "git://github.com/Amrykid/nim-locale/",
+    "url": "https://github.com/Amrykid/nim-locale/",
     "method": "git",
     "tags": [
       "library",
@@ -142,7 +142,7 @@
   },
   {
     "name": "fowltek",
-    "url": "git://github.com/fowlmouth/nimlibs/",
+    "url": "https://github.com/fowlmouth/nimlibs/",
     "method": "git",
     "tags": [
       "game",
@@ -157,7 +157,7 @@
   },
   {
     "name": "nake",
-    "url": "git://github.com/fowlmouth/nake/",
+    "url": "https://github.com/fowlmouth/nake/",
     "method": "git",
     "tags": [
       "build",
@@ -170,7 +170,7 @@
   },
   {
     "name": "nimrod-glfw",
-    "url": "git://github.com/rafaelvasco/nimrod-glfw/",
+    "url": "https://github.com/rafaelvasco/nimrod-glfw/",
     "method": "git",
     "tags": [
       "library",
@@ -185,7 +185,7 @@
   },
   {
     "name": "chipmunk",
-    "url": "git://github.com/fowlmouth/nimrod-chipmunk/",
+    "url": "https://github.com/fowlmouth/nimrod-chipmunk/",
     "method": "git",
     "tags": [
       "library",
@@ -198,7 +198,7 @@
   },
   {
     "name": "chipmunk6",
-    "url": "git://github.com/fowlmouth/nimrod-chipmunk/",
+    "url": "https://github.com/fowlmouth/nimrod-chipmunk/",
     "method": "git",
     "tags": [
       "library",
@@ -211,7 +211,7 @@
   },
   {
     "name": "nim-glfw",
-    "url": "git://github.com/EXetoC/nim-glfw/",
+    "url": "https://github.com/EXetoC/nim-glfw/",
     "method": "git",
     "tags": [
       "library",
@@ -226,7 +226,7 @@
   },
   {
     "name": "nim-ao",
-    "url": "git://github.com/EXetoC/nim-ao/",
+    "url": "https://github.com/EXetoC/nim-ao/",
     "method": "git",
     "tags": [
       "library",
@@ -238,7 +238,7 @@
   },
   {
     "name": "termbox",
-    "url": "git://github.com/fowlmouth/nim-termbox",
+    "url": "https://github.com/fowlmouth/nim-termbox",
     "method": "git",
     "tags": [
       "library",
@@ -265,7 +265,7 @@
   },
   {
     "name": "kwin",
-    "url": "git://github.com/reactormonk/nim-kwin",
+    "url": "https://github.com/reactormonk/nim-kwin",
     "method": "git",
     "tags": [
       "library",
@@ -278,7 +278,7 @@
   },
   {
     "name": "opencv",
-    "url": "git://github.com/dom96/nim-opencv",
+    "url": "https://github.com/dom96/nim-opencv",
     "method": "git",
     "tags": [
       "library",
@@ -293,7 +293,7 @@
   },
   {
     "name": "nimble",
-    "url": "git://github.com/nim-lang/nimble",
+    "url": "https://github.com/nim-lang/nimble",
     "method": "git",
     "tags": [
       "app",
@@ -307,7 +307,7 @@
   },
   {
     "name": "aporia",
-    "url": "git://github.com/nim-lang/Aporia",
+    "url": "https://github.com/nim-lang/Aporia",
     "method": "git",
     "tags": [
       "app",
@@ -322,7 +322,7 @@
   },
   {
     "name": "c2nim",
-    "url": "git://github.com/nim-lang/c2nim",
+    "url": "https://github.com/nim-lang/c2nim",
     "method": "git",
     "tags": [
       "app",
@@ -338,7 +338,7 @@
   },
   {
     "name": "pas2nim",
-    "url": "git://github.com/nim-lang/pas2nim",
+    "url": "https://github.com/nim-lang/pas2nim",
     "method": "git",
     "tags": [
       "app",
@@ -353,7 +353,7 @@
   },
   {
     "name": "ipsumgenera",
-    "url": "git://github.com/dom96/ipsumgenera",
+    "url": "https://github.com/dom96/ipsumgenera",
     "method": "git",
     "tags": [
       "app",
@@ -382,7 +382,7 @@
   },
   {
     "name": "pastebin",
-    "url": "git://github.com/achesak/nim-pastebin",
+    "url": "https://github.com/achesak/nim-pastebin",
     "method": "git",
     "tags": [
       "library",
@@ -395,7 +395,7 @@
   },
   {
     "name": "yahooweather",
-    "url": "git://github.com/achesak/nim-yahooweather",
+    "url": "https://github.com/achesak/nim-yahooweather",
     "method": "git",
     "tags": [
       "library",
@@ -408,7 +408,7 @@
   },
   {
     "name": "noaa",
-    "url": "git://github.com/achesak/nim-noaa",
+    "url": "https://github.com/achesak/nim-noaa",
     "method": "git",
     "tags": [
       "library",
@@ -421,7 +421,7 @@
   },
   {
     "name": "rss",
-    "url": "git://github.com/achesak/nim-rss",
+    "url": "https://github.com/achesak/nim-rss",
     "method": "git",
     "tags": [
       "library",
@@ -435,7 +435,7 @@
   },
   {
     "name": "extmath",
-    "url": "git://github.com/achesak/extmath.nim",
+    "url": "https://github.com/achesak/extmath.nim",
     "method": "git",
     "tags": [
       "library",
@@ -448,7 +448,7 @@
   },
   {
     "name": "gtk2",
-    "url": "git://github.com/nim-lang/gtk2",
+    "url": "https://github.com/nim-lang/gtk2",
     "method": "git",
     "tags": [
       "wrapper",
@@ -461,7 +461,7 @@
   },
   {
     "name": "cairo",
-    "url": "git://github.com/nim-lang/cairo",
+    "url": "https://github.com/nim-lang/cairo",
     "method": "git",
     "tags": [
       "wrapper"
@@ -472,7 +472,7 @@
   },
   {
     "name": "x11",
-    "url": "git://github.com/nim-lang/x11",
+    "url": "https://github.com/nim-lang/x11",
     "method": "git",
     "tags": [
       "wrapper"
@@ -483,7 +483,7 @@
   },
   {
     "name": "opengl",
-    "url": "git://github.com/nim-lang/opengl",
+    "url": "https://github.com/nim-lang/opengl",
     "method": "git",
     "tags": [
       "wrapper"
@@ -494,7 +494,7 @@
   },
   {
     "name": "lua",
-    "url": "git://github.com/nim-lang/lua",
+    "url": "https://github.com/nim-lang/lua",
     "method": "git",
     "tags": [
       "wrapper"
@@ -505,7 +505,7 @@
   },
   {
     "name": "tcl",
-    "url": "git://github.com/nim-lang/tcl",
+    "url": "https://github.com/nim-lang/tcl",
     "method": "git",
     "tags": [
       "wrapper"
@@ -531,7 +531,7 @@
   },
   {
     "name": "python",
-    "url": "git://github.com/nim-lang/python",
+    "url": "https://github.com/nim-lang/python",
     "method": "git",
     "tags": [
       "wrapper"
@@ -542,7 +542,7 @@
   },
   {
     "name": "NimBorg",
-    "url": "git://github.com/micklat/NimBorg",
+    "url": "https://github.com/micklat/NimBorg",
     "method": "git",
     "tags": [
       "wrapper"
@@ -565,7 +565,7 @@
   },
   {
     "name": "dropbox_filename_sanitizer",
-    "url": "git://github.com/Araq/dropbox_filename_sanitizer/",
+    "url": "https://github.com/Araq/dropbox_filename_sanitizer/",
     "method": "git",
     "tags": [
       "dropbox"
@@ -576,7 +576,7 @@
   },
   {
     "name": "csv",
-    "url": "git://github.com/achesak/nim-csv",
+    "url": "https://github.com/achesak/nim-csv",
     "method": "git",
     "tags": [
       "csv",
@@ -590,7 +590,7 @@
   },
   {
     "name": "geonames",
-    "url": "git://github.com/achesak/nim-geonames",
+    "url": "https://github.com/achesak/nim-geonames",
     "method": "git",
     "tags": [
       "library",
@@ -603,7 +603,7 @@
   },
   {
     "name": "gravatar",
-    "url": "git://github.com/achesak/nim-gravatar",
+    "url": "https://github.com/achesak/nim-gravatar",
     "method": "git",
     "tags": [
       "library",
@@ -616,7 +616,7 @@
   },
   {
     "name": "coverartarchive",
-    "url": "git://github.com/achesak/nim-coverartarchive",
+    "url": "https://github.com/achesak/nim-coverartarchive",
     "method": "git",
     "tags": [
       "library",
@@ -729,7 +729,7 @@
   },
   {
     "name": "commandeer",
-    "url": "git://github.com/fenekku/commandeer",
+    "url": "https://github.com/fenekku/commandeer",
     "method": "git",
     "tags": [
       "library",
@@ -762,7 +762,7 @@
   },
   {
     "name": "bloom",
-    "url": "git://github.com/boydgreenfield/nimrod-bloom",
+    "url": "https://github.com/boydgreenfield/nimrod-bloom",
     "method": "git",
     "tags": [
       "Bloom filter",
@@ -779,7 +779,7 @@
   },
   {
     "name": "awesome_rmdir",
-    "url": "git://github.com/Araq/awesome_rmdir/",
+    "url": "https://github.com/Araq/awesome_rmdir/",
     "method": "git",
     "tags": [
       "rmdir",
@@ -792,7 +792,7 @@
   },
   {
     "name": "nimalpm",
-    "url": "git://github.com/barcharcraz/nimalpm/",
+    "url": "https://github.com/barcharcraz/nimalpm/",
     "method": "git",
     "tags": [
       "alpm",
@@ -806,7 +806,7 @@
   },
   {
     "name": "nimlibpng",
-    "url": "git://github.com/barcharcraz/nimlibpng",
+    "url": "https://github.com/barcharcraz/nimlibpng",
     "method": "git",
     "tags": [
       "png",
@@ -821,7 +821,7 @@
   },
   {
     "name": "sdl2",
-    "url": "git://github.com/nim-lang/sdl2",
+    "url": "https://github.com/nim-lang/sdl2",
     "method": "git",
     "tags": [
       "wrapper",
@@ -835,7 +835,7 @@
   },
   {
     "name": "sdl2_nim",
-    "url": "git://github.com/Vladar4/sdl2_nim",
+    "url": "https://github.com/Vladar4/sdl2_nim",
     "method": "git",
     "tags": [
       "library",
@@ -854,7 +854,7 @@
   },
   {
     "name": "assimp",
-    "url": "git://github.com/barcharcraz/nim-assimp",
+    "url": "https://github.com/barcharcraz/nim-assimp",
     "method": "git",
     "tags": [
       "wrapper",
@@ -869,7 +869,7 @@
   },
   {
     "name": "freeimage",
-    "url": "git://github.com/barcharcraz/nim-freeimage",
+    "url": "https://github.com/barcharcraz/nim-freeimage",
     "method": "git",
     "tags": [
       "wrapper",
@@ -884,7 +884,7 @@
   },
   {
     "name": "bcrypt",
-    "url": "git://github.com/ithkuil/bcryptnim/",
+    "url": "https://github.com/ithkuil/bcryptnim/",
     "method": "git",
     "tags": [
       "hash",
@@ -899,7 +899,7 @@
   },
   {
     "name": "opencl",
-    "url": "git://github.com/nim-lang/opencl",
+    "url": "https://github.com/nim-lang/opencl",
     "method": "git",
     "tags": [
       "library"
@@ -910,7 +910,7 @@
   },
   {
     "name": "DevIL",
-    "url": "git://github.com/Varriount/DevIL",
+    "url": "https://github.com/Varriount/DevIL",
     "method": "git",
     "tags": [
       "image",
@@ -924,7 +924,7 @@
   },
   {
     "name": "signals",
-    "url": "git://github.com/fowlmouth/signals.nim",
+    "url": "https://github.com/fowlmouth/signals.nim",
     "method": "git",
     "tags": [
       "event-based",
@@ -937,7 +937,7 @@
   },
   {
     "name": "sling",
-    "url": "git://github.com/Druage/sling",
+    "url": "https://github.com/Druage/sling",
     "method": "git",
     "tags": [
       "signal",
@@ -951,7 +951,7 @@
   },
   {
     "name": "number_files",
-    "url": "git://github.com/Araq/number_files/",
+    "url": "https://github.com/Araq/number_files/",
     "method": "git",
     "tags": [
       "rename",
@@ -964,7 +964,7 @@
   },
   {
     "name": "redissessions",
-    "url": "git://github.com/ithkuil/redissessions/",
+    "url": "https://github.com/ithkuil/redissessions/",
     "method": "git",
     "tags": [
       "jester",
@@ -977,7 +977,7 @@
   },
   {
     "name": "horde3d",
-    "url": "git://github.com/fowlmouth/horde3d",
+    "url": "https://github.com/fowlmouth/horde3d",
     "method": "git",
     "tags": [
       "graphics",
@@ -991,7 +991,7 @@
   },
   {
     "name": "mongo",
-    "url": "git://github.com/nim-lang/mongo",
+    "url": "https://github.com/nim-lang/mongo",
     "method": "git",
     "tags": [
       "library",
@@ -1004,7 +1004,7 @@
   },
   {
     "name": "allegro5",
-    "url": "git://github.com/fowlmouth/allegro5",
+    "url": "https://github.com/fowlmouth/allegro5",
     "method": "git",
     "tags": [
       "wrapper",
@@ -1019,7 +1019,7 @@
   },
   {
     "name": "physfs",
-    "url": "git://github.com/fowlmouth/physfs",
+    "url": "https://github.com/fowlmouth/physfs",
     "method": "git",
     "tags": [
       "wrapper",
@@ -1044,7 +1044,7 @@
   },
   {
     "name": "murmur3",
-    "url": "git://github.com/boydgreenfield/nimrod-murmur",
+    "url": "https://github.com/boydgreenfield/nimrod-murmur",
     "method": "git",
     "tags": [
       "MurmurHash",
@@ -1082,7 +1082,7 @@
   },
   {
     "name": "jade-nim",
-    "url": "git://github.com/idlewan/jade-nim",
+    "url": "https://github.com/idlewan/jade-nim",
     "method": "git",
     "tags": [
       "template",
@@ -1097,7 +1097,7 @@
   },
   {
     "name": "gh_nimrod_doc_pages",
-    "url": "git://github.com/Araq/gh_nimrod_doc_pages",
+    "url": "https://github.com/Araq/gh_nimrod_doc_pages",
     "method": "git",
     "tags": [
       "commandline",
@@ -1111,7 +1111,7 @@
   },
   {
     "name": "midnight_dynamite",
-    "url": "git://github.com/Araq/midnight_dynamite",
+    "url": "https://github.com/Araq/midnight_dynamite",
     "method": "git",
     "tags": [
       "wrapper",
@@ -1126,7 +1126,7 @@
   },
   {
     "name": "rsvg",
-    "url": "git://github.com/def-/rsvg",
+    "url": "https://github.com/def-/rsvg",
     "method": "git",
     "tags": [
       "wrapper",
@@ -1139,7 +1139,7 @@
   },
   {
     "name": "emerald",
-    "url": "git://github.com/flyx/emerald",
+    "url": "https://github.com/flyx/emerald",
     "method": "git",
     "tags": [
       "dsl",
@@ -1153,7 +1153,7 @@
   },
   {
     "name": "niminst",
-    "url": "git://github.com/nim-lang/niminst",
+    "url": "https://github.com/nim-lang/niminst",
     "method": "git",
     "tags": [
       "app",
@@ -1169,7 +1169,7 @@
   },
   {
     "name": "redis",
-    "url": "git://github.com/nim-lang/redis",
+    "url": "https://github.com/nim-lang/redis",
     "method": "git",
     "tags": [
       "redis",
@@ -1182,7 +1182,7 @@
   },
   {
     "name": "dialogs",
-    "url": "git://github.com/nim-lang/dialogs",
+    "url": "https://github.com/nim-lang/dialogs",
     "method": "git",
     "tags": [
       "library",
@@ -1197,7 +1197,7 @@
   },
   {
     "name": "vectors",
-    "url": "git://github.com/blamestross/nimrod-vectors",
+    "url": "https://github.com/blamestross/nimrod-vectors",
     "method": "git",
     "tags": [
       "math",
@@ -1210,7 +1210,7 @@
   },
   {
     "name": "bitarray",
-    "url": "git://github.com/onecodex/nim-bitarray",
+    "url": "https://github.com/onecodex/nim-bitarray",
     "method": "git",
     "tags": [
       "Bit arrays",
@@ -1224,7 +1224,7 @@
   },
   {
     "name": "appdirs",
-    "url": "git://github.com/MrJohz/appdirs",
+    "url": "https://github.com/MrJohz/appdirs",
     "method": "git",
     "tags": [
       "utility",
@@ -1236,7 +1236,7 @@
   },
   {
     "name": "nim-sndfile",
-    "url": "git://github.com/julienaubert/nim-sndfile",
+    "url": "https://github.com/julienaubert/nim-sndfile",
     "method": "git",
     "tags": [
       "audio",
@@ -1250,7 +1250,7 @@
   },
   {
     "name": "bigints",
-    "url": "git://github.com/def-/bigints",
+    "url": "https://github.com/def-/bigints",
     "method": "git",
     "tags": [
       "math",
@@ -1263,7 +1263,7 @@
   },
   {
     "name": "iterutils",
-    "url": "git://github.com/def-/iterutils",
+    "url": "https://github.com/def-/iterutils",
     "method": "git",
     "tags": [
       "library",
@@ -1275,7 +1275,7 @@
   },
   {
     "name": "hastyscribe",
-    "url": "git://github.com/h3rald/hastyscribe",
+    "url": "https://github.com/h3rald/hastyscribe",
     "method": "git",
     "tags": [
       "markdown",
@@ -1288,7 +1288,7 @@
   },
   {
     "name": "nanomsg",
-    "url": "git://github.com/def-/nim-nanomsg",
+    "url": "https://github.com/def-/nim-nanomsg",
     "method": "git",
     "tags": [
       "library",
@@ -1315,7 +1315,7 @@
   },
   {
     "name": "imghdr",
-    "url": "git://github.com/achesak/nim-imghdr",
+    "url": "https://github.com/achesak/nim-imghdr",
     "method": "git",
     "tags": [
       "image",
@@ -1328,7 +1328,7 @@
   },
   {
     "name": "csv2json",
-    "url": "git://github.com/achesak/nim-csv2json",
+    "url": "https://github.com/achesak/nim-csv2json",
     "method": "git",
     "tags": [
       "csv",
@@ -1340,7 +1340,7 @@
   },
   {
     "name": "vecmath",
-    "url": "git://github.com/barcharcraz/vecmath",
+    "url": "https://github.com/barcharcraz/vecmath",
     "method": "git",
     "tags": [
       "library",
@@ -1353,7 +1353,7 @@
   },
   {
     "name": "lazy_rest",
-    "url": "git://github.com/Araq/lazy_rest",
+    "url": "https://github.com/Araq/lazy_rest",
     "method": "git",
     "tags": [
       "library",
@@ -1368,7 +1368,7 @@
   },
   {
     "name": "Phosphor",
-    "url": "git://github.com/barcharcraz/Phosphor",
+    "url": "https://github.com/barcharcraz/Phosphor",
     "method": "git",
     "tags": [
       "library",
@@ -1381,7 +1381,7 @@
   },
   {
     "name": "colorsys",
-    "url": "git://github.com/achesak/nim-colorsys",
+    "url": "https://github.com/achesak/nim-colorsys",
     "method": "git",
     "tags": [
       "library",
@@ -1397,7 +1397,7 @@
   },
   {
     "name": "pythonfile",
-    "url": "git://github.com/achesak/nim-pythonfile",
+    "url": "https://github.com/achesak/nim-pythonfile",
     "method": "git",
     "tags": [
       "library",
@@ -1411,7 +1411,7 @@
   },
   {
     "name": "sndhdr",
-    "url": "git://github.com/achesak/nim-sndhdr",
+    "url": "https://github.com/achesak/nim-sndhdr",
     "method": "git",
     "tags": [
       "library",
@@ -1426,7 +1426,7 @@
   },
   {
     "name": "irc",
-    "url": "git://github.com/nim-lang/irc",
+    "url": "https://github.com/nim-lang/irc",
     "method": "git",
     "tags": [
       "library",
@@ -1439,7 +1439,7 @@
   },
   {
     "name": "random",
-    "url": "git://github.com/BlaXpirit/nim-random",
+    "url": "https://github.com/BlaXpirit/nim-random",
     "method": "git",
     "tags": [
       "library",
@@ -1452,7 +1452,7 @@
   },
   {
     "name": "zmq",
-    "url": "git://github.com/nim-lang/nim-zmq",
+    "url": "https://github.com/nim-lang/nim-zmq",
     "method": "git",
     "tags": [
       "library",
@@ -1467,7 +1467,7 @@
   },
   {
     "name": "uuid",
-    "url": "git://github.com/idlewan/nim-uuid",
+    "url": "https://github.com/idlewan/nim-uuid",
     "method": "git",
     "tags": [
       "library",
@@ -1480,7 +1480,7 @@
   },
   {
     "name": "robotparser",
-    "url": "git://github.com/achesak/nim-robotparser",
+    "url": "https://github.com/achesak/nim-robotparser",
     "method": "git",
     "tags": [
       "library",
@@ -1494,7 +1494,7 @@
   },
   {
     "name": "epub",
-    "url": "git://github.com/achesak/nim-epub",
+    "url": "https://github.com/achesak/nim-epub",
     "method": "git",
     "tags": [
       "library",
@@ -1507,7 +1507,7 @@
   },
   {
     "name": "hashids",
-    "url": "git://github.com/achesak/nim-hashids",
+    "url": "https://github.com/achesak/nim-hashids",
     "method": "git",
     "tags": [
       "library",
@@ -1519,7 +1519,7 @@
   },
   {
     "name": "openssl_evp",
-    "url": "git://github.com/cowboy-coders/nim-openssl-evp",
+    "url": "https://github.com/cowboy-coders/nim-openssl-evp",
     "method": "git",
     "tags": [
       "library",
@@ -1532,7 +1532,7 @@
   },
   {
     "name": "monad",
-    "url": "git://github.com/superfunc/monad",
+    "url": "https://github.com/superfunc/monad",
     "method": "git",
     "tags": [
       "library",
@@ -1546,7 +1546,7 @@
   },
   {
     "name": "eternity",
-    "url": "git://github.com/hiteshjasani/nim-eternity",
+    "url": "https://github.com/hiteshjasani/nim-eternity",
     "method": "git",
     "tags": [
       "library",
@@ -1573,7 +1573,7 @@
   },
   {
     "name": "ludens",
-    "url": "git://github.com/rnentjes/nim-ludens",
+    "url": "https://github.com/rnentjes/nim-ludens",
     "method": "git",
     "tags": [
       "library",
@@ -1587,7 +1587,7 @@
   },
   {
     "name": "ffbookmarks",
-    "url": "git://github.com/achesak/nim-ffbookmarks",
+    "url": "https://github.com/achesak/nim-ffbookmarks",
     "method": "git",
     "tags": [
       "firefox",
@@ -1654,7 +1654,7 @@
   },
   {
     "name": "nimqml",
-    "url": "git://github.com/filcuc/nimqml",
+    "url": "https://github.com/filcuc/nimqml",
     "method": "git",
     "tags": [
       "Qt",
@@ -1668,7 +1668,7 @@
   },
   {
     "name": "XPLM-Nim",
-    "url": "git://github.com/jpoirier/XPLM-Nim",
+    "url": "https://github.com/jpoirier/XPLM-Nim",
     "method": "git",
     "tags": [
       "X-Plane",
@@ -1682,7 +1682,7 @@
   },
   {
     "name": "csfml",
-    "url": "git://github.com/BlaXpirit/nim-csfml",
+    "url": "https://github.com/BlaXpirit/nim-csfml",
     "method": "git",
     "tags": [
       "sfml",
@@ -1698,7 +1698,7 @@
   },
   {
     "name": "optional_t",
-    "url": "git://github.com/flaviut/optional_t",
+    "url": "https://github.com/flaviut/optional_t",
     "method": "git",
     "tags": [
       "option",
@@ -1710,7 +1710,7 @@
   },
   {
     "name": "nimrtlsdr",
-    "url": "git://github.com/jpoirier/nimrtlsdr",
+    "url": "https://github.com/jpoirier/nimrtlsdr",
     "method": "git",
     "tags": [
       "rtl-sdr",
@@ -1791,7 +1791,7 @@
   },
   {
     "name": "docopt",
-    "url": "git://github.com/docopt/docopt.nim",
+    "url": "https://github.com/docopt/docopt.nim",
     "method": "git",
     "tags": [
       "commandline",
@@ -1805,7 +1805,7 @@
   },
   {
     "name": "bpg",
-    "url": "git://github.com/def-/nim-bpg.git",
+    "url": "https://github.com/def-/nim-bpg.git",
     "method": "git",
     "tags": [
       "image",
@@ -1818,7 +1818,7 @@
   },
   {
     "name": "io-spacenav",
-    "url": "git://github.com/nimious/io-spacenav.git",
+    "url": "https://github.com/nimious/io-spacenav.git",
     "method": "git",
     "tags": [
       "binding",
@@ -1921,7 +1921,7 @@
   },
   {
     "name": "pythonpathlib",
-    "url": "git://github.com/achesak/nim-pythonpathlib.git",
+    "url": "https://github.com/achesak/nim-pythonpathlib.git",
     "method": "git",
     "tags": [
       "path",
@@ -1950,7 +1950,7 @@
   },
   {
     "name": "nimrat",
-    "url": "git://github.com/apense/nimrat",
+    "url": "https://github.com/apense/nimrat",
     "method": "git",
     "tags": [
       "library",
@@ -1963,7 +1963,7 @@
   },
   {
     "name": "io-isense",
-    "url": "git://github.com/nimious/io-isense.git",
+    "url": "https://github.com/nimious/io-isense.git",
     "method": "git",
     "tags": [
       "binding",
@@ -1982,7 +1982,7 @@
   },
   {
     "name": "io-usb",
-    "url": "git://github.com/nimious/io-usb.git",
+    "url": "https://github.com/nimious/io-usb.git",
     "method": "git",
     "tags": [
       "binding",
@@ -2010,7 +2010,7 @@
   },
   {
     "name": "glossolalia",
-    "url": "git://github.com/fowlmouth/glossolalia",
+    "url": "https://github.com/fowlmouth/glossolalia",
     "method": "git",
     "tags": [
       "parser",
@@ -2061,7 +2061,7 @@
   },
   {
     "name": "io-myo",
-    "url": "git://github.com/nimious/io-myo.git",
+    "url": "https://github.com/nimious/io-myo.git",
     "method": "git",
     "tags": [
       "binding",
@@ -2076,7 +2076,7 @@
   },
   {
     "name": "io-oculus",
-    "url": "git://github.com/nimious/io-oculus.git",
+    "url": "https://github.com/nimious/io-oculus.git",
     "method": "git",
     "tags": [
       "binding",
@@ -2095,7 +2095,7 @@
   },
   {
     "name": "closure_compiler",
-    "url": "git://github.com/yglukhov/closure_compiler.git",
+    "url": "https://github.com/yglukhov/closure_compiler.git",
     "method": "git",
     "tags": [
       "binding",
@@ -2109,7 +2109,7 @@
   },
   {
     "name": "io-serialport",
-    "url": "git://github.com/nimious/io-serialport.git",
+    "url": "https://github.com/nimious/io-serialport.git",
     "method": "git",
     "tags": [
       "binding",
@@ -2123,7 +2123,7 @@
   },
   {
     "name": "beanstalkd",
-    "url": "git://github.com/tormaroe/beanstalkd.nim.git",
+    "url": "https://github.com/tormaroe/beanstalkd.nim.git",
     "method": "git",
     "tags": [
       "library",
@@ -2136,7 +2136,7 @@
   },
   {
     "name": "wiki2text",
-    "url": "git://github.com/rspeer/wiki2text.git",
+    "url": "https://github.com/rspeer/wiki2text.git",
     "method": "git",
     "tags": [
       "nlp",
@@ -2332,7 +2332,7 @@
   },
   {
     "name": "io-gles",
-    "url": "git://github.com/nimious/io-gles.git",
+    "url": "https://github.com/nimious/io-gles.git",
     "method": "git",
     "tags": [
       "binding",
@@ -2346,7 +2346,7 @@
   },
   {
     "name": "io-egl",
-    "url": "git://github.com/nimious/io-egl.git",
+    "url": "https://github.com/nimious/io-egl.git",
     "method": "git",
     "tags": [
       "binding",
@@ -2362,7 +2362,7 @@
   },
   {
     "name": "io-sixense",
-    "url": "git://github.com/nimious/io-sixense.git",
+    "url": "https://github.com/nimious/io-sixense.git",
     "method": "git",
     "tags": [
       "binding",
@@ -2483,7 +2483,7 @@
   },
   {
     "name": "uri2",
-    "url": "git://github.com/achesak/nim-uri2",
+    "url": "https://github.com/achesak/nim-uri2",
     "method": "git",
     "tags": [
       "uri",
@@ -2642,7 +2642,7 @@
   },
   {
     "name": "lazy",
-    "url": "git://github.com/petermora/nimLazy/",
+    "url": "https://github.com/petermora/nimLazy/",
     "method": "git",
     "tags": [
       "library",
@@ -2730,7 +2730,7 @@
   },
   {
     "name": "oldwinapi",
-    "url": "git://github.com/nim-lang/oldwinapi",
+    "url": "https://github.com/nim-lang/oldwinapi",
     "method": "git",
     "tags": [
       "library",
@@ -2743,7 +2743,7 @@
   },
   {
     "name": "nimx",
-    "url": "git://github.com/yglukhov/nimx",
+    "url": "https://github.com/yglukhov/nimx",
     "method": "git",
     "tags": [
       "gui",
@@ -2871,7 +2871,7 @@
   },
   {
     "name": "ncurses",
-    "url": "git://github.com/rnowley/nim-ncurses/",
+    "url": "https://github.com/rnowley/nim-ncurses/",
     "method": "git",
     "tags": [
       "library",
@@ -2899,7 +2899,7 @@
   },
   {
     "name": "pwd",
-    "url": "git://github.com/achesak/nim-pwd",
+    "url": "https://github.com/achesak/nim-pwd",
     "method": "git",
     "tags": [
       "library",
@@ -2913,7 +2913,7 @@
   },
   {
     "name": "spwd",
-    "url": "git://github.com/achesak/nim-spwd",
+    "url": "https://github.com/achesak/nim-spwd",
     "method": "git",
     "tags": [
       "library",
@@ -2928,7 +2928,7 @@
   },
   {
     "name": "grp",
-    "url": "git://github.com/achesak/nim-grp",
+    "url": "https://github.com/achesak/nim-grp",
     "method": "git",
     "tags": [
       "library",
@@ -3312,7 +3312,7 @@
   },
   {
     "name": "nimeverything",
-    "url": "git://github.com/xland/nimeverything/",
+    "url": "https://github.com/xland/nimeverything/",
     "method": "git",
     "tags": [
       "everything",
@@ -3325,7 +3325,7 @@
   },
   {
     "name": "vidhdr",
-    "url": "git://github.com/achesak/nim-vidhdr",
+    "url": "https://github.com/achesak/nim-vidhdr",
     "method": "git",
     "tags": [
       "video",
@@ -3338,7 +3338,7 @@
   },
   {
     "name": "gitapi",
-    "url": "git://github.com/achesak/nim-gitapi",
+    "url": "https://github.com/achesak/nim-gitapi",
     "method": "git",
     "tags": [
       "git",
@@ -3385,7 +3385,7 @@
   },
   {
     "name": "spry",
-    "url": "git://github.com/gokr/spry",
+    "url": "https://github.com/gokr/spry",
     "method": "git",
     "tags": [
       "language",
@@ -3892,7 +3892,7 @@
   },
   {
     "name": "pythonmath",
-    "url": "git://github.com/achesak/nim-pythonmath",
+    "url": "https://github.com/achesak/nim-pythonmath",
     "method": "git",
     "tags": [
       "library",
@@ -3947,7 +3947,7 @@
   },
   {
     "name": "fnmatch",
-    "url": "git://github.com/achesak/nim-fnmatch",
+    "url": "https://github.com/achesak/nim-fnmatch",
     "method": "git",
     "tags": [
       "library",
@@ -3961,7 +3961,7 @@
   },
   {
     "name": "shorturl",
-    "url": "git://github.com/achesak/nim-shorturl",
+    "url": "https://github.com/achesak/nim-shorturl",
     "method": "git",
     "tags": [
       "library",
@@ -4002,7 +4002,7 @@
   },
   {
     "name": "impulse_engine",
-    "url": "git://github.com/matkuki/Nim-Impulse-Engine",
+    "url": "https://github.com/matkuki/Nim-Impulse-Engine",
     "method": "git",
     "tags": [
       "physics",
@@ -4015,7 +4015,7 @@
   },
   {
     "name": "notifications",
-    "url": "git://github.com/dom96/notifications",
+    "url": "https://github.com/dom96/notifications",
     "method": "git",
     "tags": [
       "notifications",
@@ -4071,7 +4071,7 @@
   },
   {
     "name": "biscuits",
-    "url": "git://github.com/achesak/nim-biscuits",
+    "url": "https://github.com/achesak/nim-biscuits",
     "method": "git",
     "tags": [
       "cookie",
@@ -4083,7 +4083,7 @@
   },
   {
     "name": "pari",
-    "url": "git://github.com/lompik/pari.nim",
+    "url": "https://github.com/lompik/pari.nim",
     "method": "git",
     "tags": [
       "number theory",
@@ -4095,7 +4095,7 @@
   },
   {
     "name": "spacenav",
-    "url": "git://github.com/nimious/spacenav.git",
+    "url": "https://github.com/nimious/spacenav.git",
     "method": "git",
     "tags": [
       "binding",
@@ -4113,7 +4113,7 @@
   },
   {
     "name": "isense",
-    "url": "git://github.com/nimious/isense.git",
+    "url": "https://github.com/nimious/isense.git",
     "method": "git",
     "tags": [
       "binding",
@@ -4132,7 +4132,7 @@
   },
   {
     "name": "libusb",
-    "url": "git://github.com/nimious/libusb.git",
+    "url": "https://github.com/nimious/libusb.git",
     "method": "git",
     "tags": [
       "binding",
@@ -4145,7 +4145,7 @@
   },
   {
     "name": "myo",
-    "url": "git://github.com/nimious/myo.git",
+    "url": "https://github.com/nimious/myo.git",
     "method": "git",
     "tags": [
       "binding",
@@ -4160,7 +4160,7 @@
   },
   {
     "name": "oculus",
-    "url": "git://github.com/nimious/oculus.git",
+    "url": "https://github.com/nimious/oculus.git",
     "method": "git",
     "tags": [
       "binding",
@@ -4179,7 +4179,7 @@
   },
   {
     "name": "serialport",
-    "url": "git://github.com/nimious/serialport.git",
+    "url": "https://github.com/nimious/serialport.git",
     "method": "git",
     "tags": [
       "binding",
@@ -4193,7 +4193,7 @@
   },
   {
     "name": "gles",
-    "url": "git://github.com/nimious/gles.git",
+    "url": "https://github.com/nimious/gles.git",
     "method": "git",
     "tags": [
       "binding",
@@ -4207,7 +4207,7 @@
   },
   {
     "name": "egl",
-    "url": "git://github.com/nimious/egl.git",
+    "url": "https://github.com/nimious/egl.git",
     "method": "git",
     "tags": [
       "binding",
@@ -4223,7 +4223,7 @@
   },
   {
     "name": "sixense",
-    "url": "git://github.com/nimious/sixense.git",
+    "url": "https://github.com/nimious/sixense.git",
     "method": "git",
     "tags": [
       "binding",
@@ -4238,7 +4238,7 @@
   },
   {
     "name": "listsv",
-    "url": "git://github.com/srwiley/listsv.git",
+    "url": "https://github.com/srwiley/listsv.git",
     "method": "git",
     "tags": [
       "singly linked list",
@@ -4250,7 +4250,7 @@
   },
   {
     "name": "kissfft",
-    "url": "git://github.com/m13253/nim-kissfft",
+    "url": "https://github.com/m13253/nim-kissfft",
     "method": "git",
     "tags": [
       "fft",
@@ -4263,7 +4263,7 @@
   },
   {
     "name": "nimbench",
-    "url": "git://github.com/ivankoster/nimbench.git",
+    "url": "https://github.com/ivankoster/nimbench.git",
     "method": "git",
     "tags": [
       "benchmark",
@@ -4276,7 +4276,7 @@
   },
   {
     "name": "nest",
-    "url": "git://github.com/kedean/nest.git",
+    "url": "https://github.com/kedean/nest.git",
     "method": "git",
     "tags": [
       "library",
@@ -4290,7 +4290,7 @@
   },
   {
     "name": "nimbluez",
-    "url": "git://github.com/Electric-Blue/NimBluez.git",
+    "url": "https://github.com/Electric-Blue/NimBluez.git",
     "method": "git",
     "tags": [
       "bluetooth",
@@ -4304,7 +4304,7 @@
   },
   {
     "name": "yaml",
-    "url": "git://github.com/flyx/NimYAML",
+    "url": "https://github.com/flyx/NimYAML",
     "method": "git",
     "tags": [
       "serialization",
@@ -4318,7 +4318,7 @@
   },
   {
     "name": "nimyaml",
-    "url": "git://github.com/flyx/NimYAML",
+    "url": "https://github.com/flyx/NimYAML",
     "method": "git",
     "tags": [
       "serialization",
@@ -4373,7 +4373,7 @@
   },
   {
     "name": "rosencrantz",
-    "url": "git://github.com/andreaferretti/rosencrantz",
+    "url": "https://github.com/andreaferretti/rosencrantz",
     "method": "git",
     "tags": [
       "web",
@@ -4402,7 +4402,7 @@
   },
   {
     "name": "twitter",
-    "url": "git://github.com/kubo39/twitter",
+    "url": "https://github.com/kubo39/twitter",
     "method": "git",
     "tags": [
       "library",
@@ -4429,7 +4429,7 @@
   },
   {
     "name": "srt",
-    "url": "git://github.com/achesak/nim-srt",
+    "url": "https://github.com/achesak/nim-srt",
     "method": "git",
     "tags": [
       "srt",
@@ -4442,7 +4442,7 @@
   },
   {
     "name": "subviewer",
-    "url": "git://github.co/achesak/nim-subviewer",
+    "url": "https://github.co/achesak/nim-subviewer",
     "method": "git",
     "tags": [
       "subviewer",
@@ -4525,7 +4525,7 @@
   },
   {
     "name": "python3",
-    "url": "git://github.com/matkuki/python3",
+    "url": "https://github.com/matkuki/python3",
     "method": "git",
     "tags": [
       "python",
@@ -4562,7 +4562,7 @@
   },
   {
     "name": "sophia",
-    "url": "git://github.com/gokr/nim-sophia",
+    "url": "https://github.com/gokr/nim-sophia",
     "method": "git",
     "tags": [
       "library",
