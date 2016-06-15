@@ -4794,5 +4794,20 @@
     "description": "Writing a 2D Platform Game in Nim with SDL2",
     "license": "MIT",
     "web": "https://github.com/def-/nim-platformer"
+  },
+  {
+    "name": "nimCEF",
+    "url": "https://github.com/jangko/nimCEF",
+    "method": "git",
+    "tags": [
+      "chromium",
+      "embedded",
+      "framework",
+      "cef",
+      "wrapper"
+    ],
+    "description": "Nim wrapper for the Chromium Embedded Framework",
+    "license": "MIT",
+    "web": "https://github.com/jangko/nimCEF"
   }
 ]
