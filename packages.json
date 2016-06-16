@@ -4557,7 +4557,7 @@
       "openbsd"
     ],
     "description": "OpenBSDs pledge(2) for Nim.",
-    "license": "BSD",
+    "license": "BSD3",
     "web": "https://github.com/euantorano/pledge.nim"
   },
   {
@@ -4584,7 +4584,7 @@
       "ui"
     ],
     "description": "A simple progress bar for Nim.",
-    "license": "BSD",
+    "license": "BSD3",
     "web": "https://github.com/euantorano/progress.nim"
   },
   {
@@ -4649,7 +4649,7 @@
       "environment"
     ],
     "description": "Loads environment variables from `.env`.",
-    "license": "BSD",
+    "license": "BSD3",
     "web": "https://github.com/euantorano/dotenv.nim"
   },
   {
@@ -4809,5 +4809,18 @@
     "description": "Nim wrapper for the Chromium Embedded Framework",
     "license": "MIT",
     "web": "https://github.com/jangko/nimCEF"
+  },
+  {
+    "name": "migrate",
+    "url": "https://github.com/euantorano/migrate.nim",
+    "method": "git",
+    "tags": [
+      "migrate",
+      "database",
+      "db"
+    ],
+    "description": "A simple database migration utility for Nim.",
+    "license": "BSD3",
+    "web": "https://github.com/euantorano/migrate.nim"
   }
 ]
