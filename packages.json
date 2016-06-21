@@ -4442,7 +4442,7 @@
   },
   {
     "name": "subviewer",
-    "url": "https://github.co/achesak/nim-subviewer",
+    "url": "https://github.com/achesak/nim-subviewer",
     "method": "git",
     "tags": [
       "subviewer",
