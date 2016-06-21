@@ -4822,5 +4822,17 @@
     "description": "A simple database migration utility for Nim.",
     "license": "BSD3",
     "web": "https://github.com/euantorano/migrate.nim"
+  },
+  {
+    "name": "subfield",
+    "url": "https://github.com/jyapayne/subfield",
+    "method": "git",
+    "tags": [
+      "subfield",
+      "macros"
+    ],
+    "description": "Override the dot operator to access nested subfields of a Nim object.",
+    "license": "MIT",
+    "web": "https://github.com/jyapayne/subfield"
   }
 ]
