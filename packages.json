@@ -4847,5 +4847,17 @@
     "description": "Semantic versioning parser for Nim. Allows the parsing of version strings into objects and the comparing of version objects.",
     "license": "BSD3",
     "web": "https://github.com/euantorano/semver.nim"
+  },
+  {
+    "name": "ad",
+    "tags": [
+      "calculator",
+      "rpn"
+    ],
+    "method": "git",
+    "license": "MIT",
+    "web": "https://github.com/subsetpark/ad",
+    "url": "https://github.com/subsetpark/ad",
+    "description": "A simple RPN calculator"
   }
 ]
