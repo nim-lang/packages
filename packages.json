@@ -2222,7 +2222,7 @@
   },
   {
     "name": "jnim",
-    "url": "https://github.com/yglukhov/jnim",
+    "url": "https://github.com/vegansk/jnim",
     "method": "git",
     "tags": [
       "library",
@@ -2233,7 +2233,7 @@
     ],
     "description": "Nim - Java bridge",
     "license": "MIT",
-    "web": "https://github.com/yglukhov/jnim"
+    "web": "https://github.com/vegansk/jnim"
   },
   {
     "name": "nimPDF",
