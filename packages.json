@@ -2280,7 +2280,7 @@
   },
   {
     "name": "nuuid",
-    "url": "https://github.com/wheineman/nim-only-uuid",
+    "url": "https://github.com/yglukhov/nim-only-uuid",
     "method": "git",
     "tags": [
       "library",
@@ -2289,7 +2289,7 @@
     ],
     "description": "A Nim source only UUID generator",
     "license": "MIT",
-    "web": "https://github.com/wheineman/nim-only-uuid"
+    "web": "https://github.com/yglukhov/nim-only-uuid"
   },
   {
     "name": "fftw3",
