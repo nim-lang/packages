@@ -4876,5 +4876,18 @@
     "description": "Asynchronous PostgreSQL driver for Nim Language.",
     "license": "MIT",
     "web": "https://github.com/cheatfate/asyncpg"
+  },
+  {
+    "name": "registry",
+    "description": "Deal with Windows Registry from Nim.",
+    "tags": [
+      "registry",
+      "windows",
+      "library"
+    ],
+    "url": "https://github.com/miere43/nim-registry",
+    "web": "https://github.com/miere43/nim-registry",
+    "license": "MIT",
+    "method": "git"
   }
 ]
