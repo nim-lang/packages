@@ -4891,7 +4891,7 @@
     "method": "git"
   },
   {
-    "name": "luna.nim",
+    "name": "luna",
     "description": "Lua convenience library for nim",
     "tags": [
       "lua",
