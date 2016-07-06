@@ -4901,5 +4901,18 @@
     "web": "https://github.com/smallfx/luna.nim",
     "license": "MIT",
     "method": "git"
+  },
+  {
+    "name": "qrcode",
+    "description": "module for creating and reading QR codes using http://goqr.me/",
+    "tags": [
+      "qr",
+      "qrcode",
+      "api"
+    ],
+    "url": "https://github.com/achesak/nim-qrcode",
+    "web": "https://github.com/achesak/nim-qrcode",
+    "license": "MIT",
+    "method": "git"
   }
 ]
