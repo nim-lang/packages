@@ -4901,5 +4901,17 @@
     "web": "https://github.com/smallfx/luna.nim",
     "license": "MIT",
     "method": "git"
-  }
+  },
+  {
+    "name": "iup",
+    "description": "Bindings for the IUP widget toolkit",
+    "tags": [
+      "GUI",
+      "IUP"
+    ],
+    "url": "https://github.com/nim-lang/iup",
+    "web": "https://github.com/nim-lang/iup",
+    "license": "MIT",
+    "method": "git"
+   }
 ]
