@@ -4914,5 +4914,17 @@
     "web": "https://github.com/achesak/nim-qrcode",
     "license": "MIT",
     "method": "git"
+  },
+  {
+    "name": "circleci_client",
+    "tags": [
+      "circleci",
+      "client"
+    ],
+    "method": "git",
+    "license": "LGPLv3",
+    "web": "https://github.com/FedericoCeratto/nim-circleci",
+    "url": "https://github.com/FedericoCeratto/nim-circleci",
+    "description": "CircleCI API client"
   }
 ]
