@@ -4926,5 +4926,17 @@
     "web": "https://github.com/FedericoCeratto/nim-circleci",
     "url": "https://github.com/FedericoCeratto/nim-circleci",
     "description": "CircleCI API client"
+  },
+  {
+    "name": "iup",
+    "description": "Bindings for the IUP widget toolkit",
+    "tags": [
+      "GUI",
+      "IUP"
+    ],
+    "url": "https://github.com/nim-lang/iup",
+    "web": "https://github.com/nim-lang/iup",
+    "license": "MIT",
+    "method": "git"
   }
 ]
