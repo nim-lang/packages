@@ -4903,7 +4903,6 @@
     "method": "git"
   },
   {
-<<<<<<< 73db28fae3155dc8d9f8747abf0453cbf5ea61f5
     "name": "qrcode",
     "description": "module for creating and reading QR codes using http://goqr.me/",
     "tags": [
@@ -4928,6 +4927,7 @@
     "url": "https://github.com/FedericoCeratto/nim-circleci",
     "description": "CircleCI API client"
   },
+  {
     "name": "iup",
     "description": "Bindings for the IUP widget toolkit",
     "tags": [
