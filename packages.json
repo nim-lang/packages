@@ -4938,5 +4938,17 @@
     "web": "https://github.com/nim-lang/iup",
     "license": "MIT",
     "method": "git"
+  },
+  {
+    "name": "barbarus",
+    "tags": [
+      "i18n",
+      "internationalization"
+    ],
+    "method": "git",
+    "license": "MIT",
+    "web": "https://github.com/cjxgm/barbarus",
+    "url": "https://github.com/cjxgm/barbarus",
+    "description": "A simple extensible i18n engine."
   }
 ]
