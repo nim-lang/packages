@@ -4950,5 +4950,18 @@
     "web": "https://github.com/cjxgm/barbarus",
     "url": "https://github.com/cjxgm/barbarus",
     "description": "A simple extensible i18n engine."
+  },
+  {
+    "name": "jsonob",
+    "tags": [
+      "json",
+      "object",
+      "marshal"
+    ],
+    "method": "git",
+    "license": "MIT",
+    "web": "https://github.com/cjxgm/jsonob",
+    "url": "https://github.com/cjxgm/jsonob",
+    "description": "JSON / Object mapper"
   }
 ]
