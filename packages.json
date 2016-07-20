@@ -4963,5 +4963,18 @@
     "web": "https://github.com/cjxgm/jsonob",
     "url": "https://github.com/cjxgm/jsonob",
     "description": "JSON / Object mapper"
+  },
+  {
+    "name": "autome",
+    "description": "Write GUI automation scripts with Nim",
+    "tags": [
+      "gui",
+      "automation",
+      "windows"
+    ],
+    "license": "MIT",
+    "web": "https://github.com/miere43/autome",
+    "url": "https://github.com/miere43/autome",
+    "method": "git"
   }
 ]
