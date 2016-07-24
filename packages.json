@@ -4988,5 +4988,19 @@
     "web": "https://github.com/roose/nim-wox",
     "url": "https://github.com/roose/nim-wox",
     "method": "git"
+  },
+  {
+    "name": "seccomp",
+    "description": "Linux Seccomp sandbox library",
+    "tags": [
+      "linux",
+      "security",
+      "sandbox",
+      "seccomp"
+    ],
+    "license": "LGPLv2.1",
+    "web": "https://github.com/FedericoCeratto/nim-seccomp",
+    "url": "https://github.com/FedericoCeratto/nim-seccomp",
+    "method": "git"
   }
 ]
