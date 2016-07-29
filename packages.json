@@ -5002,5 +5002,20 @@
     "web": "https://github.com/FedericoCeratto/nim-seccomp",
     "url": "https://github.com/FedericoCeratto/nim-seccomp",
     "method": "git"
+  },
+  {
+    "name": "taglib",
+    "description": "TagLib Audio Meta-Data Library wrapper",
+    "license": "MIT",
+    "tags": [
+      "audio",
+      "metadata",
+      "tags",
+      "library",
+      "wrapper"
+    ],
+    "url": "https://github.com/alex-laskin/nim-taglib",
+    "web": "https://github.com/alex-laskin/nim-taglib",
+    "method": "git"
   }
 ]
