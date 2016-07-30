@@ -5002,5 +5002,55 @@
     "web": "https://github.com/FedericoCeratto/nim-seccomp",
     "url": "https://github.com/FedericoCeratto/nim-seccomp",
     "method": "git"
+  },
+  {
+    "name": "AntTweakBar",
+    "tags": [
+      "gui",
+      "opengl",
+      "rendering"
+    ],
+    "method": "git",
+    "license": "MIT",
+    "web": "https://github.com/krux02/nimAntTweakBar",
+    "url": "https://github.com/krux02/nimAntTweakBar",
+    "description": "nim wrapper around the AntTweakBar c library"
+  },
+  {
+    "name": "slimdown",
+    "tags": [
+      "markdown",
+      "parser",
+      "library"
+    ],
+    "method": "git",
+    "license": "MIT",
+    "web": "https://github.com/ruivieira/nim-slimdown",
+    "url": "https://github.com/ruivieira/nim-slimdown",
+    "description": "Nim module that converts Markdown text to HTML using only regular expressions. Based on jbroadway's Slimdown."
+  },
+  {
+    "name": "taglib",
+    "description": "TagLib Audio Meta-Data Library wrapper",
+    "license": "MIT",
+    "tags": [
+      "audio",
+      "metadata",
+      "tags",
+      "library",
+      "wrapper"
+    ],
+    "url": "https://github.com/alex-laskin/nim-taglib",
+    "web": "https://github.com/alex-laskin/nim-taglib",
+    "method": "git"
+  },
+  {
+    "name": "des",
+    "description": "3DES native library for Nim",
+    "tags": ["library", "encryption", "crypto"],
+    "license": "MIT",
+    "web": "https://github.com/LucaWolf/des.nim",
+    "url": "https://github.com/LucaWolf/des.nim",
+    "method": "git"
   }
 ]
