@@ -5068,5 +5068,18 @@
 	"description": "BGFX wrapper for the nim programming language.",
 	"license": "BSD2",
 	"web": "https://github.com/Halsys/nim-bgfx"
+  },
+  {
+    "name": "json_builder",
+    "tags": [
+      "json",
+      "generator",
+      "builder"
+    ],
+    "method": "git",
+    "license": "MIT",
+    "web": "https://github.com/undecided/json_builder",
+    "url": "https://github.com/undecided/json_builder",
+    "description": "Easy and fast generator for valid json in nim"
   }
 ]
