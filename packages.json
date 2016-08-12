@@ -5081,5 +5081,20 @@
     "web": "https://github.com/undecided/json_builder",
     "url": "https://github.com/undecided/json_builder",
     "description": "Easy and fast generator for valid json in nim"
+  },
+  {
+    "name": "mapbits",
+    "tags": [
+      "map",
+      "bits",
+      "byte",
+      "word",
+      "binary"
+    ],
+    "method": "git",
+    "license": "MIT",
+    "description": "Access bit mapped portions of bytes in binary data as int variables",
+    "web": "https://github.com/jlp765/mapbits",
+    "url": "https://github.com/jlp765/mapbits"
   }
 ]
