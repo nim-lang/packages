@@ -4412,5 +4412,21 @@
     "description": "Low-level twitter API wrapper library for Nim.",
     "license": "MIT",
     "web": "https://github.com/kubo39/twitter"
+  },
+  {
+    "name": "mapbits",
+    "url": "git://github.com/jlp765/mapbits",
+    "method": "git",
+    "tags": [
+      "map",
+      "binary",
+      "bit",
+      "byte",
+      "word",
+      "uint"
+    ],
+    "description": "Access mapped portions of bytes as int variables",
+    "license": "MIT",
+    "web": "https://github.com/jlp765/mapbits"
   }
 ]
