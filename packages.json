@@ -5096,5 +5096,12 @@
     "description": "Access bit mapped portions of bytes in binary data as int variables",
     "web": "https://github.com/jlp765/mapbits",
     "url": "https://github.com/jlp765/mapbits"
+  },
+  {
+    "name": "faststack",
+    "license": "MIT",
+    "description": "Dynamically resizable data structure optimized for fast iteration.",
+    "web": "https://github.com/Vladar4/FastStack",
+    "url": "https://github.com/Vladar4/FastStack"
   }
 ]
