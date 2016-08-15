@@ -5099,6 +5099,8 @@
   },
   {
     "name": "faststack",
+    "tags": ["collection"],
+    "method": "git",
     "license": "MIT",
     "description": "Dynamically resizable data structure optimized for fast iteration.",
     "web": "https://github.com/Vladar4/FastStack",
