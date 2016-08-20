@@ -5105,5 +5105,16 @@
     "description": "Dynamically resizable data structure optimized for fast iteration.",
     "web": "https://github.com/Vladar4/FastStack",
     "url": "https://github.com/Vladar4/FastStack"
+  },
+  {
+    "name": "gemf",
+    "url": "https://bitbucket.org/abudden/gemf.nim",
+    "method": "hg",
+    "license": "MIT",
+    "description": "Library for reading GEMF map tile stores",
+    "web": "http://www.cgtk.co.uk/gemf",
+    "tags": [
+      "maps", "gemf", "parser"
+    ]
   }
 ]
