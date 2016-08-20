@@ -5068,5 +5068,42 @@
 	"description": "BGFX wrapper for the nim programming language.",
 	"license": "BSD2",
 	"web": "https://github.com/Halsys/nim-bgfx"
+  },
+  {
+    "name": "json_builder",
+    "tags": [
+      "json",
+      "generator",
+      "builder"
+    ],
+    "method": "git",
+    "license": "MIT",
+    "web": "https://github.com/undecided/json_builder",
+    "url": "https://github.com/undecided/json_builder",
+    "description": "Easy and fast generator for valid json in nim"
+  },
+  {
+    "name": "mapbits",
+    "tags": [
+      "map",
+      "bits",
+      "byte",
+      "word",
+      "binary"
+    ],
+    "method": "git",
+    "license": "MIT",
+    "description": "Access bit mapped portions of bytes in binary data as int variables",
+    "web": "https://github.com/jlp765/mapbits",
+    "url": "https://github.com/jlp765/mapbits"
+  },
+  {
+    "name": "faststack",
+    "tags": ["collection"],
+    "method": "git",
+    "license": "MIT",
+    "description": "Dynamically resizable data structure optimized for fast iteration.",
+    "web": "https://github.com/Vladar4/FastStack",
+    "url": "https://github.com/Vladar4/FastStack"
   }
 ]
