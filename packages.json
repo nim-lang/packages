@@ -5105,5 +5105,31 @@
     "description": "Dynamically resizable data structure optimized for fast iteration.",
     "web": "https://github.com/Vladar4/FastStack",
     "url": "https://github.com/Vladar4/FastStack"
+  },
+  {
+    "name": "picohttpparser",
+    "tags": [
+      "web",
+      "http"
+    ],
+    "method": "git",
+    "license": "MIT",
+    "description": "Bindings for picohttpparser.",
+    "web": "https://github.com/philip-wernersbach/nim-picohttpparser",
+    "url": "https://github.com/philip-wernersbach/nim-picohttpparser"
+  },
+  {
+    "name": "microasynchttpserver",
+    "tags": [
+      "web",
+      "http",
+      "async",
+      "server"
+    ],
+    "method": "git",
+    "license": "MIT",
+    "description": "A thin asynchronous HTTP server library, API compatible with Nim\'s built-in asynchttpserver.",
+    "web": "https://github.com/philip-wernersbach/microasynchttpserver",
+    "url": "https://github.com/philip-wernersbach/microasynchttpserver"
   }
 ]
