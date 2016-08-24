@@ -5105,5 +5105,33 @@
     "description": "Dynamically resizable data structure optimized for fast iteration.",
     "web": "https://github.com/Vladar4/FastStack",
     "url": "https://github.com/Vladar4/FastStack"
+  },
+  {
+    "name": "gpx",
+    "tags": [
+      "GPX",
+      "GPS",
+      "waypoint",
+      "route"
+    ],
+    "method": "git",
+    "license": "MIT",
+    "description": "Nim module for parsing GPX (GPS Exchange format) files",
+    "web": "https://github.com/achesak/nim-gpx",
+    "url": "https://github.com/achesak/nim-gpx"
+  },
+  {
+    "name": "itn",
+    "tags": [
+      "GPS",
+      "intinerary",
+      "tomtom",
+      "ITN"
+    ],
+    "method": "git",
+    "license": "MIT",
+    "description": "Nim module for parsing ITN (TomTom intinerary) files",
+    "web": "https://github.com/achesak/nim-itn",
+    "url": "https://github.com/achesak/nim-itn"
   }
 ]
