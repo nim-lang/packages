@@ -2751,7 +2751,7 @@
       "library"
     ],
     "description": "Cross-platform GUI framework",
-    "license": "BSD",
+    "license": "MIT",
     "web": "https://github.com/yglukhov/nimx"
   },
   {
