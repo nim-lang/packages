@@ -5122,5 +5122,26 @@
     "description": "Nim module for parsing ITN (TomTom intinerary) files",
     "web": "https://github.com/achesak/nim-itn",
     "url": "https://github.com/achesak/nim-itn"
+  },
+  {
+    "name": "foliant",
+    "tags": [
+      "foliant",
+      "docs",
+      "pdf",
+      "docx",
+      "word",
+      "latex",
+      "tex",
+      "pandoc",
+      "markdown",
+      "md",
+      "restream"
+    ],
+    "method": "git",
+    "license": "MIT",
+    "web": "https://github.com/foliant-docs/foliant-nim",
+    "url": "https://github.com/foliant-docs/foliant-nim",
+    "description": "Documentation generator that produces pdf and docx from Markdown. Uses Pandoc and LaTeX behind the scenes."
   }
 ]
