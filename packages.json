@@ -5043,20 +5043,20 @@
     "method": "git"
   },
   {
-	"name": "bgfx",
-	"url": "https://github.com/Halsys/nim-bgfx",
-	"method": "git",
-	"tags": [
-	  "wrapper",
-	  "media",
-	  "graphics",
-	  "3d",
-	  "rendering",
-	  "opengl"
-	],
-	"description": "BGFX wrapper for the nim programming language.",
-	"license": "BSD2",
-	"web": "https://github.com/Halsys/nim-bgfx"
+    "name": "bgfx",
+    "url": "https://github.com/Halsys/nim-bgfx",
+    "method": "git",
+    "tags": [
+      "wrapper",
+      "media",
+      "graphics",
+      "3d",
+      "rendering",
+      "opengl"
+    ],
+    "description": "BGFX wrapper for the nim programming language.",
+    "license": "BSD2",
+    "web": "https://github.com/Halsys/nim-bgfx"
   },
   {
     "name": "json_builder",
