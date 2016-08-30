@@ -5154,5 +5154,20 @@
     "tags": [
       "maps", "gemf", "parser"
     ]
+  },
+  {
+    "name": "Remotery",
+    "url": "https://github.com/Halsys/Nim-Remotery",
+    "method": "git",
+    "tags": [
+      "wrapper",
+      "opengl",
+      "direct3d",
+      "cuda",
+      "profiler"
+    ],
+    "description": "Nim wrapper for (and with) Celtoys's Remotery",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/Halsys/Nim-Remotery"
   }
 ]
