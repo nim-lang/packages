@@ -5143,5 +5143,16 @@
     "web": "https://github.com/foliant-docs/foliant-nim",
     "url": "https://github.com/foliant-docs/foliant-nim",
     "description": "Documentation generator that produces pdf and docx from Markdown. Uses Pandoc and LaTeX behind the scenes."
+  },
+  {
+    "name": "gemf",
+    "url": "https://bitbucket.org/abudden/gemf.nim",
+    "method": "hg",
+    "license": "MIT",
+    "description": "Library for reading GEMF map tile stores",
+    "web": "http://www.cgtk.co.uk/gemf",
+    "tags": [
+      "maps", "gemf", "parser"
+    ]
   }
 ]
