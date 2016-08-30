@@ -313,8 +313,7 @@
       "app",
       "binary",
       "ide",
-      "gtk",
-      "nimrod"
+      "gtk"
     ],
     "description": "A Nim IDE.",
     "license": "GPLv2",
@@ -329,8 +328,7 @@
       "binary",
       "tool",
       "header",
-      "C",
-      "nimrod"
+      "C"
     ],
     "description": "c2nim is a tool to translate Ansi C code to Nim.",
     "license": "MIT",
@@ -344,8 +342,7 @@
       "app",
       "binary",
       "tool",
-      "Pascal",
-      "nimrod"
+      "Pascal"
     ],
     "description": "pas2nim is a tool to translate Pascal code to Nim.",
     "license": "MIT",
@@ -1160,8 +1157,7 @@
       "binary",
       "tool",
       "installation",
-      "generator",
-      "nim"
+      "generator"
     ],
     "description": "tool to generate installers for Nim programs",
     "license": "MIT",
@@ -1757,8 +1753,7 @@
     "url": "https://github.com/ziotom78/parsetoml.git",
     "method": "git",
     "tags": [
-      "library",
-      "nim"
+      "library"
     ],
     "description": "Library for parsing TOML files.",
     "license": "MIT",
@@ -1769,8 +1764,7 @@
     "url": "https://github.com/Araq/Nim.git",
     "method": "git",
     "tags": [
-      "library",
-      "nim"
+      "library"
     ],
     "description": "Compiler package providing the compiler sources as a library.",
     "license": "MIT",
@@ -1899,8 +1893,7 @@
       "app",
       "suggest",
       "compiler",
-      "autocomplete",
-      "nim"
+      "autocomplete"
     ],
     "description": "Tool for providing auto completion data for Nim source code.",
     "license": "MIT",
@@ -2297,7 +2290,6 @@
     "method": "git",
     "tags": [
       "library",
-      "nim",
       "math",
       "fft"
     ],
@@ -3372,7 +3364,6 @@
     "tags": [
       "extension",
       "database",
-      "Nim",
       "convenience",
       "db",
       "mysql",
@@ -3510,8 +3501,7 @@
       "interactive",
       "compiler",
       "code",
-      "language",
-      "Nim"
+      "language"
     ],
     "description": "tnim is a Nim REPL - an interactive sandbox for testing Nim code",
     "license": "MIT",
@@ -3662,7 +3652,6 @@
     "tags": [
       "webapp",
       "execution",
-      "nim",
       "code",
       "sandbox"
     ],
