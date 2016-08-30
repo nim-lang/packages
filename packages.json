@@ -5195,5 +5195,20 @@
     "description": "A thin asynchronous HTTP server library, API compatible with Nim\'s built-in asynchttpserver.",
     "web": "https://github.com/philip-wernersbach/microasynchttpserver",
     "url": "https://github.com/philip-wernersbach/microasynchttpserver"
+  },
+  {
+    "name": "react",
+    "url": "https://github.com/andreaferretti/react.nim",
+    "method": "git",
+    "tags": [
+      "js",
+      "react",
+      "frontend",
+      "ui",
+      "single page application"
+    ],
+    "description": "React.js bindings for Nim",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/andreaferretti/react.nim"
   }
 ]
