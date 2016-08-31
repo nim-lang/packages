@@ -5192,7 +5192,7 @@
     ],
     "method": "git",
     "license": "MIT",
-    "description": "A thin asynchronous HTTP server library, API compatible with Nim\'s built-in asynchttpserver.",
+    "description": "A thin asynchronous HTTP server library, API compatible with Nim's built-in asynchttpserver.",
     "web": "https://github.com/philip-wernersbach/microasynchttpserver",
     "url": "https://github.com/philip-wernersbach/microasynchttpserver"
   },
