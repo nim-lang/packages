@@ -5210,5 +5210,19 @@
     "description": "React.js bindings for Nim",
     "license": "Apache License 2.0",
     "web": "https://github.com/andreaferretti/react.nim"
+  },
+  {
+    "name": "oauth",
+    "url": "https://github.com/CORDEA/oauth",
+    "method": "git",
+    "tags": [
+      "library",
+      "oauth",
+      "oauth2",
+      "authorization"
+    ],
+    "description": "OAuth library for nim",
+    "license": "Apache License 2.0",
+    "web": "http://cordea.github.io/oauth"
   }
 ]
