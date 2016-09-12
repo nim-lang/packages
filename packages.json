@@ -4498,7 +4498,7 @@
     ],
     "description": "Additions to the Nim's standard library, like boost for C++",
     "license": "MIT",
-    "web": "https://github.com/vegansk/nimboost"
+    "web": "http://vegansk.github.io/nimboost/"
   },
   {
     "name": "asyncdocker",
