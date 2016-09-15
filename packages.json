@@ -5237,5 +5237,32 @@
     "description": "Define bindings to JavaScript and Emscripten",
     "license": "MIT",
     "web": "https://github.com/yglukhov/jsbind"
+  },
+  {
+    "name": "uuids",
+    "url": "https://github.com/pragmagic/uuids/",
+    "method": "git",
+    "tags": [
+      "library",
+      "uuid",
+      "id"
+    ],
+    "description": "UUID library for Nim",
+    "license": "MIT",
+    "web": "https://github.com/pragmagic/uuids/"
+  },
+  {
+    "name": "isaac",
+    "url": "https://github.com/pragmagic/isaac/",
+    "method": "git",
+    "tags": [
+      "library",
+      "algorithms",
+      "random",
+      "crypto"
+    ],
+    "description": "ISAAC PRNG implementation on Nim",
+    "license": "MIT",
+    "web": "https://github.com/pragmagic/isaac/"
   }
 ]
