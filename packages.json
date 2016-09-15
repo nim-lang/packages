@@ -5224,5 +5224,18 @@
     "description": "OAuth library for nim",
     "license": "Apache License 2.0",
     "web": "http://cordea.github.io/oauth"
+  },
+  {
+    "name": "jsbind",
+    "url": "https://github.com/yglukhov/jsbind",
+    "method": "git",
+    "tags": [
+      "bindings",
+      "emscripten",
+      "javascript"
+    ],
+    "description": "Define bindings to JavaScript and Emscripten",
+    "license": "MIT",
+    "web": "https://github.com/yglukhov/jsbind"
   }
 ]
