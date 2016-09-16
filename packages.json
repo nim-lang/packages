@@ -5264,5 +5264,22 @@
     "description": "ISAAC PRNG implementation on Nim",
     "license": "MIT",
     "web": "https://github.com/pragmagic/isaac/"
+  },
+  {
+    "name": "SDF.nim",
+    "url": "https://github.com/Halsys/SDF.nim",
+    "method": "git",
+    "tags": [
+      "sdf",
+      "text",
+      "contour",
+      "texture",
+      "signed",
+	  "distance",
+	  "transform"
+    ],
+    "description": "Signed Distance Field builder for contour texturing in Nim",
+    "license": "MIT",
+    "web": "https://github.com/Halsys/SDF.nim"
   }
 ]
