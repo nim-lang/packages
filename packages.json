@@ -5266,7 +5266,7 @@
     "web": "https://github.com/pragmagic/isaac/"
   },
   {
-    "name": "SDF.nim",
+    "name": "SDF",
     "url": "https://github.com/Halsys/SDF.nim",
     "method": "git",
     "tags": [
