@@ -5281,5 +5281,22 @@
     "description": "Signed Distance Field builder for contour texturing in Nim",
     "license": "MIT",
     "web": "https://github.com/Halsys/SDF.nim"
+  },
+  {
+    "name": "WebGL",
+    "url": "https://github.com/stisa/webgl",
+    "method": "git",
+    "tags": [
+      "webgl",
+      "graphic",
+      "js",
+      "javascript",
+      "wrapper",
+      "3D",
+      "2D"
+    ],
+    "description": "Experimental wrapper to webgl for Nim",
+    "license": "MIT",
+    "web": "http://stisa.space/webgl/"
   }
 ]
