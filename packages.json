@@ -210,6 +210,19 @@
     "web": "https://github.com/fowlmouth/nimrod-chipmunk"
   },
   {
+    "name": "chipmunk7_demos",
+    "url": "https://github.com/matkuki/chipmunk7_demos/",
+    "method": "git",
+    "tags": [
+      "demos",
+      "physics",
+      "game"
+    ],
+    "description": "Chipmunk7 demos for Nim",
+    "license": "MIT",
+    "web": "https://github.com/matkuki/chipmunk7_demos"
+  },
+  {
     "name": "nim-glfw",
     "url": "https://github.com/EXetoC/nim-glfw/",
     "method": "git",
