@@ -844,6 +844,19 @@
     "web": "https://github.com/nim-lang/sdl2"
   },
   {
+    "name": "gamelib",
+    "url": "https://github.com/PMunch/SDLGamelib",
+    "method": "git",
+    "tags": [
+      "sdl",
+      "game",
+      "library"
+    ],
+    "description": "A library of functions to make creating games using Nim and SDL2 easier. This does not intend to be a full blown engine and tries to keep all the components loosely coupled so that individual parts can be used separately.",
+    "license": "MIT",
+    "web": "https://github.com/PMunch/SDLGamelib"
+  },
+  {
     "name": "sdl2_nim",
     "url": "https://github.com/Vladar4/sdl2_nim",
     "method": "git",
