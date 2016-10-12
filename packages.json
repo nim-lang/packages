@@ -5324,5 +5324,18 @@
     "description": "Experimental wrapper to webgl for Nim",
     "license": "MIT",
     "web": "http://stisa.space/webgl/"
+  },
+  {
+    "name": "fileinput",
+    "url": "https://github.com/achesak/nim-fileinput",
+    "method": "git",
+    "tags": [
+      "file",
+      "io",
+      "input"
+    ],
+    "description": "iterate through files and lines",
+    "license": "MIT",
+    "web": "https://github.com/achesak/nim-fileinput"
   }
 ]
