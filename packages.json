@@ -5358,5 +5358,18 @@
     "description": "typeclasses for Nim",
     "license": "Unlicense",
     "web": "https://github.com/nigredo-tori/classy"
+  },
+  {
+    "name": "MiNiM",
+    "url": "https://github.com/h3rald/minim",
+    "method": "git",
+    "tags": [
+      "concatenative",
+      "language",
+      "shell"
+    ],
+    "description": "A tiny concatenative programming language and shell.",
+    "license": "MIT",
+    "web": "https://h3rald.com/minim"
   }
 ]
