@@ -5062,7 +5062,11 @@
   {
     "name": "des",
     "description": "3DES native library for Nim",
-    "tags": ["library", "encryption", "crypto"],
+    "tags": [
+      "library",
+      "encryption",
+      "crypto"
+    ],
     "license": "MIT",
     "web": "https://github.com/LucaWolf/des.nim",
     "url": "https://github.com/LucaWolf/des.nim",
@@ -5114,7 +5118,9 @@
   },
   {
     "name": "faststack",
-    "tags": ["collection"],
+    "tags": [
+      "collection"
+    ],
     "method": "git",
     "license": "MIT",
     "description": "Dynamically resizable data structure optimized for fast iteration.",
@@ -5178,7 +5184,9 @@
     "description": "Library for reading GEMF map tile stores",
     "web": "http://www.cgtk.co.uk/gemf",
     "tags": [
-      "maps", "gemf", "parser"
+      "maps",
+      "gemf",
+      "parser"
     ]
   },
   {
@@ -5301,8 +5309,8 @@
       "contour",
       "texture",
       "signed",
-	  "distance",
-	  "transform"
+      "distance",
+      "transform"
     ],
     "description": "Signed Distance Field builder for contour texturing in Nim",
     "license": "MIT",
@@ -5337,5 +5345,18 @@
     "description": "iterate through files and lines",
     "license": "MIT",
     "web": "https://github.com/achesak/nim-fileinput"
+  },
+  {
+    "name": "classy",
+    "url": "https://github.com/nigredo-tori/classy",
+    "method": "git",
+    "tags": [
+      "library",
+      "typeclasses",
+      "macros"
+    ],
+    "description": "typeclasses for Nim",
+    "license": "Unlicense",
+    "web": "https://github.com/nigredo-tori/classy"
   }
 ]
