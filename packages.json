@@ -5371,5 +5371,18 @@
     "description": "A tiny concatenative programming language and shell.",
     "license": "MIT",
     "web": "https://h3rald.com/minim"
+  },
+  {
+    "name": "boneGPIO",
+    "url": "https://github.com/xyz32/boneGPIO",
+    "method": "git",
+    "tags": [
+      "library",
+      "GPIO",
+      "BeagleBone"
+    ],
+    "description": "A low level GPIO library for the BeagleBone board family",
+    "license": "MIT",
+    "web": "https://vimeo.com/134834958"
   }
 ]
