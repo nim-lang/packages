@@ -5384,5 +5384,19 @@
     "description": "A low level GPIO library for the BeagleBone board family",
     "license": "MIT",
     "web": "https://vimeo.com/134834958"
+  },
+  {
+    "name": "ui",
+    "url": "https://github.com/nim-lang/ui",
+    "method": "git",
+    "tags": [
+      "library",
+      "GUI",
+      "libui",
+      "toolkit"
+    ],
+    "description": "A wrapper for libui",
+    "license": "MIT",
+    "web": "https://github.com/nim-lang/ui"
   }
 ]
