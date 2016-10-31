@@ -5398,5 +5398,19 @@
     "description": "A wrapper for libui",
     "license": "MIT",
     "web": "https://github.com/nim-lang/ui"
+  },
+  {
+    "name": "fractions",
+    "url": "https://github.com/konqoro/fractions",
+    "method": "git",
+    "tags": [
+      "library",
+      "rationals",
+      "arithmetic",
+      "tuple"
+    ],
+    "description": "Implements rational number arithmetic",
+    "license": "MIT",
+    "web": "https://github.com/konqoro/fractions"
   }
 ]
