@@ -30,6 +30,7 @@ const
     "Allegro 4 Giftware",
     "Apache License 2.0",
     "BSD",
+    "BSD2",
     "BSD3",
     "CC0",
     "GPL",
@@ -43,7 +44,8 @@ const
     "WTFPL",
     "libpng",
     "zlib",
-    "ISC"
+    "ISC",
+    "Unlicense"
   ]
 
   VCS_TYPES = @["git", "hg"]
@@ -59,7 +61,7 @@ proc canFetchNimbleRepository(name: string, urlJson: JsonNode): bool =
     url = urlJson.str
 
     try:
-      discard getContent(url, timeout=5000)
+      discard getContent(url, timeout=10000)
     except HttpRequestError, TimeoutError:
       echo "E: ", name, ": unable to fetch repository ", url, " ",
            getCurrentExceptionMsg()

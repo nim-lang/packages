@@ -5383,7 +5383,7 @@
     ],
     "description": "A low level GPIO library for the BeagleBone board family",
     "license": "MIT",
-    "web": "https://vimeo.com/134834958"
+    "web": "https://github.com/xyz32/boneGPIO"
   },
   {
     "name": "ui",
