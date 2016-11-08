@@ -5412,5 +5412,16 @@
     "description": "Implements rational number arithmetic",
     "license": "MIT",
     "web": "https://github.com/konqoro/fractions"
+  },
+  {
+    "name": "mmgeoip",
+    "url": "https://github.com/FedericoCeratto/nim-mmgeoip",
+    "method": "git",
+    "tags": [
+      "geoip"
+    ],
+    "description": "MaxMind GeoIP library",
+    "license": "LGPLv2.1",
+    "web": "https://github.com/FedericoCeratto/nim-mmgeoip"
   }
 ]
