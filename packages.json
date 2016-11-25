@@ -5465,5 +5465,21 @@
     "description": "ForestDB is fast key-value storage engine that is based on a Hierarchical B+-Tree based Trie, or HB+-Trie.",
     "license": "Apache License 2.0",
     "web": "https://github.com/nimscale/forestdb"
+  },
+  {
+    "name": "psutil",
+    "url": "https://github.com/johnscillieri/psutil-nim",
+    "method": "git",
+    "tags": [
+      "psutil",
+      "process",
+      "network",
+      "system",
+      "disk",
+      "cpu"
+    ],
+    "description": "psutil is a cross-platform library for retrieving information on running processes and system utilization (CPU, memory, disks, network)",
+    "license": "BSD",
+    "web": "https://github.com/johnscillieri/psutil-nim"
   }
 ]
