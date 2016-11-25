@@ -5465,5 +5465,22 @@
     "description": "ForestDB is fast key-value storage engine that is based on a Hierarchical B+-Tree based Trie, or HB+-Trie.",
     "license": "Apache License 2.0",
     "web": "https://github.com/nimscale/forestdb"
+  },
+  {
+    "name": "nimbox",
+    "url": "https://notabug.org/vktec/nimbox.git",
+    "method": "git",
+    "tags": [
+      "library",
+      "wrapper",
+      "termbox",
+      "commandline",
+      "ui",
+      "tui",
+      "gui"
+    ],
+    "description": "A Rustbox-inspired termbox wrapper",
+    "license": "GPLv3",
+    "web": "https://notabug.org/vktec/nimbox"
   }
 ]
