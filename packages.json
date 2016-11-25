@@ -5482,5 +5482,21 @@
     "description": "A Rustbox-inspired termbox wrapper",
     "license": "GPLv3",
     "web": "https://notabug.org/vktec/nimbox"
+  },
+  {
+    "name": "psutil",
+    "url": "https://github.com/johnscillieri/psutil-nim",
+    "method": "git",
+    "tags": [
+      "psutil",
+      "process",
+      "network",
+      "system",
+      "disk",
+      "cpu"
+    ],
+    "description": "psutil is a cross-platform library for retrieving information on running processes and system utilization (CPU, memory, disks, network)",
+    "license": "BSD",
+    "web": "https://github.com/johnscillieri/psutil-nim"
   }
 ]
