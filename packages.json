@@ -5480,7 +5480,7 @@
       "gui"
     ],
     "description": "A Rustbox-inspired termbox wrapper",
-    "license": "GPLv3",
+    "license": "MIT",
     "web": "https://notabug.org/vktec/nimbox"
   },
   {
