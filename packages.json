@@ -5508,7 +5508,7 @@
       "seq",
       "sequence",
       "string",
-      "gap buffer"
+      "gapbuffer"
     ],
     "description": "A simple gap buffer implementation",
     "license": "MIT",
