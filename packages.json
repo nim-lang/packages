@@ -5498,5 +5498,20 @@
     "description": "psutil is a cross-platform library for retrieving information on running processes and system utilization (CPU, memory, disks, network)",
     "license": "BSD",
     "web": "https://github.com/johnscillieri/psutil-nim"
+  },
+  {
+    "name": "gapbuffer",
+    "url": "https://notabug.org/vktec/nim-gapbuffer.git",
+    "method": "git",
+    "tags": [
+      "buffer",
+      "seq",
+      "sequence",
+      "string",
+      "gap buffer"
+    ],
+    "description": "A simple gap buffer implementation",
+    "license": "MIT",
+    "web": "https://notabug.org/vktec/nim-gapbuffer"
   }
 ]
