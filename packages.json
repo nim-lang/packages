@@ -1787,7 +1787,7 @@
   },
   {
     "name": "compiler",
-    "url": "https://github.com/Araq/Nim.git",
+    "url": "https://github.com/nim-lang/Nim.git",
     "method": "git",
     "tags": [
       "library"
