@@ -5526,5 +5526,17 @@
     "description": "Pudge Db - it's modern key/value storage with memcached protocol support. Pudge Db implements a high-level cross-platform sockets interface to sophia db.",
     "license": "MIT",
     "web": "https://github.com/recoilme/pudge"
+  },
+  {
+    "name": "etcd_client",
+    "url": "https://github.com/FedericoCeratto/nim-etcd-client",
+    "method": "git",
+    "tags": [
+      "library",
+      "etcd"
+    ],
+    "description": "etcd client library",
+    "license": "LGPLv3",
+    "web": "https://github.com/FedericoCeratto/nim-etcd-client"
   }
 ]
