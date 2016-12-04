@@ -1927,7 +1927,7 @@
   },
   {
     "name": "jwt",
-    "url": "https://github.com/ekarlso/nim-jwt.git",
+    "url": "https://github.com/yglukhov/nim-jwt.git",
     "method": "git",
     "tags": [
       "library",
@@ -1936,7 +1936,7 @@
     ],
     "description": "JSON Web Tokens for Nim",
     "license": "MIT",
-    "web": "https://github.com/ekarlso/nim-jwt"
+    "web": "https://github.com/yglukhov/nim-jwt"
   },
   {
     "name": "pythonpathlib",
