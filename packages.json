@@ -5538,5 +5538,17 @@
     "description": "etcd client library",
     "license": "LGPLv3",
     "web": "https://github.com/FedericoCeratto/nim-etcd-client"
+  },
+  {
+    "name": "ad",
+    "url": "https://github.com/subsetpark/ad",
+    "method": "git",
+    "tags": [
+      "rpn",
+      "calculator"
+    ],
+    "description": "A simple RPN calculator",
+    "license": "MIT",
+    "web": "https://github.com/subsetpark/ad"
   }
 ]
