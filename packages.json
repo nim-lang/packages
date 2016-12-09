@@ -5539,4 +5539,19 @@
     "license": "LGPLv3",
     "web": "https://github.com/FedericoCeratto/nim-etcd-client"
   }
+  {
+    "name": "stb_image",
+    "url": "https://gitlab.com/define-private-public/stb_image-Nim",
+    "method": "git",
+    "tags": [
+      "stb",
+      "image",
+      "graphics",
+      "io",
+      "wrapper"
+    ],
+    "description": "A wrapper for stb_image, stb_image_write, and stb_image_resize.",
+    "license": "Unlicense (Public Domain)",
+    "web": "https://gitlab.com/define-private-public/stb_image-Nim"  
+  }
 ]
