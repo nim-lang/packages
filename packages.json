@@ -5538,7 +5538,7 @@
     "description": "etcd client library",
     "license": "LGPLv3",
     "web": "https://github.com/FedericoCeratto/nim-etcd-client"
-  }
+  },
   {
     "name": "stb_image",
     "url": "https://gitlab.com/define-private-public/stb_image-Nim",
