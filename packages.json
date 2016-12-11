@@ -2960,15 +2960,18 @@
   },
   {
     "name": "stopwatch",
-    "url": "https://github.com/rbmz/stopwatch",
+    "url": "https://gitlab.com/define-private-public/stopwatch",
     "method": "git",
     "tags": [
       "timer",
-      "benchmarking"
+      "timing",
+      "benchmarking",
+      "watch",
+      "clock"
     ],
     "description": "A simple benchmarking/timer library based on nim's lib/system/timers.nim",
     "license": "MIT",
-    "web": "https://github.com/rbmz/stopwatch"
+    "web": "https://gitlab.com/define-private-public/stopwatch"
   },
   {
     "name": "nimFinLib",
@@ -5553,20 +5556,5 @@
     "description": "A wrapper for stb_image, stb_image_write, and stb_image_resize.",
     "license": "Unlicense (Public Domain)",
     "web": "https://gitlab.com/define-private-public/stb_image-Nim"  
-  },
-  {
-    "name": "stopwatch2",
-    "url": "https://gitlab.com/define-private-public/stopwatch",
-    "method": "git",
-    "tags": [
-      "timer",
-      "timing",
-      "benchmarking",
-      "watch",
-      "clock"
-    ],
-    "description": "A fork of rbmz's stopwatch library that adds extra features.",
-    "license": "MIT",
-    "web": "https://gitlab.com/define-private-public/stopwatch"
   }
 ]
