@@ -5553,7 +5553,7 @@
       "io",
       "wrapper"
     ],
-    "description": "A wrapper for stb_image, stb_image_write, and stb_image_resize.",
+    "description": "A wrapper for stb_image and stb_image_write.",
     "license": "Unlicense (Public Domain)",
     "web": "https://gitlab.com/define-private-public/stb_image-Nim"  
   }
