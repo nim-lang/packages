@@ -5561,7 +5561,10 @@
     "name": "mutableseqs",
     "url": "https://github.com/iourinski/mutableseqs",
     "method": "git",
-    "tags": [],
+    "tags": [
+      "sequences",
+      "mapreduce"
+    ],
     "description": "utilities for transforming sequences",
     "license": "MIT",
     "web": "https://github.com/iourinski/mutableseqs"
