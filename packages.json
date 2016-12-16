@@ -5555,6 +5555,15 @@
     ],
     "description": "A wrapper for stb_image and stb_image_write.",
     "license": "Unlicense (Public Domain)",
-    "web": "https://gitlab.com/define-private-public/stb_image-Nim"  
+    "web": "https://gitlab.com/define-private-public/stb_image-Nim"
+  },
+  {
+    "name": "mutableseqs",
+    "url": "https://github.com/iourinski/mutableseqs",
+    "method": "git",
+    "tags": [],
+    "description": "utilities for transforming sequences",
+    "license": "MIT",
+    "web": "https://github.com/iourinski/mutableseqs"
   }
 ]
