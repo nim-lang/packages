@@ -5570,7 +5570,7 @@
     "web": "https://github.com/iourinski/mutableseqs"
   },
   {
-    "name": "nimscale_stor",
+    "name": "stor",
     "url": "https://github.com/nimscale/stor",
     "method": "git",
     "tags": [
