@@ -5568,5 +5568,17 @@
     "description": "utilities for transforming sequences",
     "license": "MIT",
     "web": "https://github.com/iourinski/mutableseqs"
+  },
+  {
+    "name": "stor",
+    "url": "https://github.com/nimscale/stor",
+    "method": "git",
+    "tags": [
+      "storage",
+      "io"
+    ],
+    "description": "Efficient object storage system",
+    "license": "MIT",
+    "web": "https://github.com/nimscale/stor"
   }
 ]
