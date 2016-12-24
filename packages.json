@@ -2969,7 +2969,7 @@
       "watch",
       "clock"
     ],
-    "description": "A simple benchmarking/timer library based on nim's lib/system/timers.nim",
+    "description": "A simple timing library for benchmarking code and other things.",
     "license": "MIT",
     "web": "https://gitlab.com/define-private-public/stopwatch"
   },
