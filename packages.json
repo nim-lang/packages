@@ -5580,5 +5580,18 @@
     "description": "Efficient object storage system",
     "license": "MIT",
     "web": "https://github.com/nimscale/stor"
+  },
+  {
+    "name": "linuxfb",
+    "url": "https://github.com/luked99/linuxfb.nim",
+    "method": "git",
+    "tags": [
+      "wrapper",
+      "graphics",
+      "linux"
+    ],
+    "description": "Wrapper around the Linux framebuffer driver ioctl API",
+    "license": "MIT",
+    "web": "https://github.com/luked99/linuxfb.nim"
   }
 ]
