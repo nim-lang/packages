@@ -5593,5 +5593,18 @@
     "description": "Wrapper around the Linux framebuffer driver ioctl API",
     "license": "MIT",
     "web": "https://github.com/luked99/linuxfb.nim"
-  }
+  },
+  {
+    "name": "porter",
+    "url": "https://github.com/iourinski/porter",
+    "method": "git",
+    "tags": [
+      "stemmer",
+      "multilanguage",
+      "snowball"
+    ],
+    "description": "Simple extensible implementation of Porter stemmer algorithm",
+    "license": "MIT",
+    "web": "https://github.com/iourinski/porter"
+  }  
 ]
