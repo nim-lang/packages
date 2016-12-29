@@ -5625,7 +5625,7 @@
     "method": "git",
     "tags": [
       "Array",
-      "Linear Algebry",
+      "Linear Algebra",
       "Scientific Computing"
     ],
     "description": "A nim warpper for ArrayFire",
