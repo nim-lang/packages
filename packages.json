@@ -5618,5 +5618,18 @@
     "description": "Simple extensible implementation of Porter stemmer algorithm",
     "license": "MIT",
     "web": "https://github.com/iourinski/porter"
+  },
+  {
+    "name": "arrayfire-nim",
+    "url": "https://github.com/bitstormGER/ArrayFire-Nim",
+    "method": "git",
+    "tags": [
+      "Array",
+      "Linear Algebry",
+      "Scientific Computing"
+    ],
+    "description": "A nim warpper for ArrayFire",
+    "license": "BSD",
+    "web": "https://github.com/bitstormGER/ArrayFire-Nim"
   }
 ]
