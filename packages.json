@@ -5605,5 +5605,18 @@
     "description": "Actors library for Nim inspired by akka-actors",
     "license": "MIT",
     "web": "https://github.com/vegansk/nimactors"
+  },
+  {
+    "name": "porter",
+    "url": "https://github.com/iourinski/porter",
+    "method": "git",
+    "tags": [
+      "stemmer",
+      "multilanguage",
+      "snowball"
+    ],
+    "description": "Simple extensible implementation of Porter stemmer algorithm",
+    "license": "MIT",
+    "web": "https://github.com/iourinski/porter"
   }
 ]
