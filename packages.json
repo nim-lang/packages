@@ -5620,6 +5620,7 @@
     "web": "https://github.com/iourinski/porter"
   },
   {
+<<<<<<< HEAD
     "name": "kiwi",
     "url": "https://github.com/yglukhov/kiwi",
     "method": "git",
@@ -5631,5 +5632,18 @@
     "description": "Cassowary constraint solving",
     "license": "MIT",
     "web": "https://github.com/yglukhov/kiwi"
+=======
+    "name": "ArrayFireNim",
+    "url": "https://github.com/bitstormGER/ArrayFire-Nim",
+    "method": "git",
+    "tags": [
+      "Array",
+      "Linear Algebra",
+      "Scientific Computing"
+    ],
+    "description": "A nim warpper for ArrayFire",
+    "license": "BSD",
+    "web": "https://github.com/bitstormGER/ArrayFire-Nim"
+>>>>>>> refs/remotes/origin/master
   }
 ]
