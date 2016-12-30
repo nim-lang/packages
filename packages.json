@@ -5620,7 +5620,7 @@
     "web": "https://github.com/iourinski/porter"
   },
   {
-    "name": "arrayfire-nim",
+    "name": "ArrayFireNim",
     "url": "https://github.com/bitstormGER/ArrayFire-Nim",
     "method": "git",
     "tags": [
