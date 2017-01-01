@@ -5631,5 +5631,18 @@
     "description": "Cassowary constraint solving",
     "license": "MIT",
     "web": "https://github.com/yglukhov/kiwi"
+  },
+  {
+    "name": "issue289",
+    "url": "https://github.com/nim-lang/nimble",
+    "method": "git",
+    "tags": [
+      "foo",
+      "bar",
+      "baz"
+    ],
+    "description": "Package reproducing issues depending on #head and concrete version of the same package.",
+    "license": "MIT",
+    "web": "https://github.com/nim-lang/nimble"
   }
 ]
