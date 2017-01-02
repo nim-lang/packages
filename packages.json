@@ -5631,5 +5631,20 @@
     "description": "Cassowary constraint solving",
     "license": "MIT",
     "web": "https://github.com/yglukhov/kiwi"
+  },
+  {
+    "name": "ArrayFireNim",
+    "url": "https://github.com/bitstormGER/ArrayFire-Nim",
+    "method": "git",
+    "tags": [
+      "array",
+      "linear",
+      "algebra",
+      "scientific",
+      "computing"
+    ],
+    "description": "A nim wrapper for ArrayFire",
+    "license": "BSD",
+    "web": "https://github.com/bitstormGER/ArrayFire-Nim"
   }
 ]
