@@ -5646,5 +5646,20 @@
     "description": "A nim wrapper for ArrayFire",
     "license": "BSD",
     "web": "https://github.com/bitstormGER/ArrayFire-Nim"
+  },
+  {
+    "name": "statsd_client",
+    "url": "https://github.com/FedericoCeratto/nim-statsd-client",
+    "method": "git",
+    "tags": [
+      "library",
+      "statsd",
+      "client",
+      "statistics",
+      "metrics"
+    ],
+    "description": "A simple, stateless StatsD client library",
+    "license": "LGPLv3",
+    "web": "https://github.com/FedericoCeratto/nim-statsd-client"
   }
 ]
