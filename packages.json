@@ -5661,5 +5661,22 @@
     "description": "A simple, stateless StatsD client library",
     "license": "LGPLv3",
     "web": "https://github.com/FedericoCeratto/nim-statsd-client"
-  }
+  },
+  {
+    "name": "html5_canvas",
+    "url": "https://gitlab.com/define-private-public/HTML5-Canvas-Nim",
+    "method": "git",
+    "tags": [
+      "html5",
+      "canvas",
+      "drawing",
+      "graphics",
+      "rendering",
+      "browser",
+      "javascript"
+    ],
+    "description": "HTML5 Canvas and drawing for the JavaScript backend.",
+    "license": "MIT",
+    "web": "https://gitlab.com/define-private-public/HTML5-Canvas-Nim"
+  },
 ]
