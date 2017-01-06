@@ -5568,5 +5568,98 @@
     "description": "utilities for transforming sequences",
     "license": "MIT",
     "web": "https://github.com/iourinski/mutableseqs"
+  },
+  {
+    "name": "stor",
+    "url": "https://github.com/nimscale/stor",
+    "method": "git",
+    "tags": [
+      "storage",
+      "io"
+    ],
+    "description": "Efficient object storage system",
+    "license": "MIT",
+    "web": "https://github.com/nimscale/stor"
+  },
+  {
+    "name": "linuxfb",
+    "url": "https://github.com/luked99/linuxfb.nim",
+    "method": "git",
+    "tags": [
+      "wrapper",
+      "graphics",
+      "linux"
+    ],
+    "description": "Wrapper around the Linux framebuffer driver ioctl API",
+    "license": "MIT",
+    "web": "https://github.com/luked99/linuxfb.nim"
+  },
+  {
+    "name": "nimactors",
+    "url": "https://github.com/vegansk/nimactors",
+    "method": "git",
+    "tags": [
+      "actors",
+      "library"
+    ],
+    "description": "Actors library for Nim inspired by akka-actors",
+    "license": "MIT",
+    "web": "https://github.com/vegansk/nimactors"
+  },
+  {
+    "name": "porter",
+    "url": "https://github.com/iourinski/porter",
+    "method": "git",
+    "tags": [
+      "stemmer",
+      "multilanguage",
+      "snowball"
+    ],
+    "description": "Simple extensible implementation of Porter stemmer algorithm",
+    "license": "MIT",
+    "web": "https://github.com/iourinski/porter"
+  },
+  {
+    "name": "kiwi",
+    "url": "https://github.com/yglukhov/kiwi",
+    "method": "git",
+    "tags": [
+      "cassowary",
+      "constraint",
+      "solving"
+    ],
+    "description": "Cassowary constraint solving",
+    "license": "MIT",
+    "web": "https://github.com/yglukhov/kiwi"
+  },
+  {
+    "name": "ArrayFireNim",
+    "url": "https://github.com/bitstormGER/ArrayFire-Nim",
+    "method": "git",
+    "tags": [
+      "array",
+      "linear",
+      "algebra",
+      "scientific",
+      "computing"
+    ],
+    "description": "A nim wrapper for ArrayFire",
+    "license": "BSD",
+    "web": "https://github.com/bitstormGER/ArrayFire-Nim"
+  },
+  {
+    "name": "statsd_client",
+    "url": "https://github.com/FedericoCeratto/nim-statsd-client",
+    "method": "git",
+    "tags": [
+      "library",
+      "statsd",
+      "client",
+      "statistics",
+      "metrics"
+    ],
+    "description": "A simple, stateless StatsD client library",
+    "license": "LGPLv3",
+    "web": "https://github.com/FedericoCeratto/nim-statsd-client"
   }
 ]
