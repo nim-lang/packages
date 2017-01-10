@@ -5679,4 +5679,19 @@
     "license": "MIT",
     "web": "https://gitlab.com/define-private-public/HTML5-Canvas-Nim"
   },
+  {
+    "name": "alea",
+    "url": "https://github.com/unicredit/alea",
+    "method": "git",
+    "tags": [
+      "random variables",
+      "distributions",
+      "probability",
+      "gaussian",
+      "sampling"
+    ],
+    "description": "Define and compose random variables",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/unicredit/alea"
+  }
 ]
