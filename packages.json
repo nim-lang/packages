@@ -5693,5 +5693,20 @@
     "description": "Define and compose random variables",
     "license": "Apache License 2.0",
     "web": "https://github.com/unicredit/alea"
+  },
+  {
+    "name": "ajax",
+    "url": "https://gitlab.com/define-private-public/AJAX-Nim",
+    "method": "git",
+    "tags": [
+      "html5",
+      "javascript",
+      "ajax",
+      "browser",
+      "web"
+    ],
+    "description": "AJAX bindings for Nim's JavaScript target",
+    "license": "MIT",
+    "web": "https://gitlab.com/define-private-public/AJAX-Nim"
   }
 ]
