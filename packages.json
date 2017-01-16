@@ -94,9 +94,23 @@
       "engine",
       "sdl"
     ],
-    "description": "Simple 2D game engine for Nim language.",
+    "description": "A simple 2D game engine for Nim language. Deprecated, use nimgame2 instead.",
     "license": "MIT",
     "web": "https://github.com/Vladar4/nimgame"
+  },
+  {
+    "name": "nimgame2",
+    "url": "https://github.com/Vladar4/nimgame2/",
+    "method": "git",
+    "tags": [
+      "game",
+      "engine",
+      "sdl",
+      "sdl2"
+    ],
+    "description": "A simple 2D game engine for Nim language.",
+    "license": "MIT",
+    "web": "https://github.com/Vladar4/nimgame2"
   },
   {
     "name": "sfml",
