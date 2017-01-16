@@ -90,6 +90,7 @@
     "url": "https://github.com/Vladar4/nimgame/",
     "method": "git",
     "tags": [
+      "deprecated",
       "game",
       "engine",
       "sdl"
