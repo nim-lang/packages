@@ -5708,5 +5708,19 @@
     "description": "AJAX bindings for Nim's JavaScript target",
     "license": "MIT",
     "web": "https://gitlab.com/define-private-public/AJAX-Nim"
+  },
+  {
+    "name": "winim",
+    "url": "https://github.com/khchen/winim",
+    "method": "git",
+    "tags": [
+      "library",
+      "windows",
+      "api",
+      "com"
+    ],
+    "description": "Nim's Windows API and COM Library",
+    "license": "MIT",
+    "web": "https://github.com/khchen/winim"
   }
 ]
