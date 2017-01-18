@@ -5755,5 +5755,18 @@
     "description": "ed25519 key crypto bindings",
     "license": "MIT",
     "web": "https://github.com/niv/ed25519.nim"
+  },
+  {
+    "name": "libevdev",
+    "url": "https://github.com/luked99/libevdev.nim",
+    "method": "git",
+    "tags": [
+      "wrapper",
+      "os",
+      "linux"
+    ],
+    "description": "Wrapper for libevdev, Linux input device processing library",
+    "license": "MIT",
+    "web": "https://github.com/luked99/libevdev.nim"
   }
 ]
