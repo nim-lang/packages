@@ -5737,5 +5737,23 @@
     "description": "Nim's Windows API and COM Library",
     "license": "MIT",
     "web": "https://github.com/khchen/winim"
+  },
+  {
+    "name": "ed25519",
+    "url": "https://github.com/niv/ed25519.nim",
+    "method": "git",
+    "tags": [
+      "ed25519",
+      "cryptography",
+      "crypto",
+      "publickey",
+      "privatekey",
+      "signing",
+      "keyexchange",
+      "native"
+    ],
+    "description": "ed25519 key crypto bindings",
+    "license": "MIT",
+    "web": "https://github.com/niv/ed25519.nim"
   }
 ]
