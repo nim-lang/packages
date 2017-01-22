@@ -5768,5 +5768,19 @@
     "description": "Wrapper for libevdev, Linux input device processing library",
     "license": "MIT",
     "web": "https://github.com/luked99/libevdev.nim"
+  },
+  {
+    "name": "sdnotify",
+    "url": "https://github.com/FedericoCeratto/nim-sdnotify",
+    "method": "git",
+    "tags": [
+      "os",
+      "linux",
+      "systemd",
+      "sdnotify"
+    ],
+    "description": "Systemd service notification helper",
+    "license": "MIT",
+    "web": "https://github.com/FedericoCeratto/nim-sdnotify"
   }
 ]
