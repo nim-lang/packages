@@ -5770,6 +5770,20 @@
     "web": "https://github.com/luked99/libevdev.nim"
   },
   {
+    "name": "nesm",
+    "url": "https://github.com/xomachine/NESM.git",
+    "method": "git",
+    "tags": [
+      "metaprogramming",
+      "parser",
+      "pure",
+      "serialization"
+    ],
+    "description": "A macro for generating [de]serializers for given objects",
+    "license": "MIT",
+    "web": "https://xomachine.github.io/NESM/"
+  },
+  {
     "name": "sdnotify",
     "url": "https://github.com/FedericoCeratto/nim-sdnotify",
     "method": "git",
