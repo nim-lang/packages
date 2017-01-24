@@ -69,8 +69,8 @@
     "web": "https://github.com/olahol/nimrod-murmur"
   },
   {
-    "name": "libtcod-nim",
-    "url": "https://github.com/Vladar4/libtcod-nim/",
+    "name": "libtcod_nim",
+    "url": "https://github.com/Vladar4/libtcod_nim/",
     "method": "git",
     "tags": [
       "roguelike",
@@ -83,7 +83,7 @@
     ],
     "description": "Wrapper of the libtcod library for the Nim language.",
     "license": "zlib",
-    "web": "https://github.com/Vladar4/libtcod-nim"
+    "web": "https://github.com/Vladar4/libtcod_nim"
   },
   {
     "name": "nimgame",
