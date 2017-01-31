@@ -1,6 +1,6 @@
 os:
   - linux
-distro: trusty
+dist: trusty
 
 language: c
 
