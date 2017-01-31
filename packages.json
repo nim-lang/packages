@@ -5810,5 +5810,17 @@
     "description": "interactive command prompt",
     "license": "BSD 3-Clause",
     "web": "https://github.com/samdmarshall/cmd.nim"
-  }
+  },
+  {
+    "name": "csvtable",
+    "url": "https://github.com/apahl/csvtable",
+    "method": "git",
+    "tags": [
+      "csv",
+      "table"
+    ],
+    "description": "tools for handling CSV files (comma or tab-separated) with an API similar to Python's CSVDictReader and -Writer.",
+    "license": "MIT",
+    "web": "https://github.com/apahl/csvtable"
+}
 ]
