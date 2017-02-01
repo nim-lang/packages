@@ -5822,5 +5822,18 @@
     "description": "tools for handling CSV files (comma or tab-separated) with an API similar to Python's CSVDictReader and -Writer.",
     "license": "MIT",
     "web": "https://github.com/apahl/csvtable"
+  },
+  {
+    "name": "gnuplot",
+    "url": "https://github.com/dvolk/gnuplot.nim",
+    "method": "git",
+    "tags": [
+      "plot",
+      "graphing",
+      "data"
+    ],
+    "description": "Nim interface to gnuplot",
+    "license": "MIT",
+    "web": "https://github.com/dvolk/gnuplot.nim"
 }
 ]
