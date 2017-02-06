@@ -5850,5 +5850,17 @@
     "description": "utf-8 string",
     "license": "MIT",
     "web": "https://github.com/rokups/nim-ustring"
+  },
+  {
+    "name": "imap",
+    "url": "https://github.com/ehmry/imap",
+    "method": "git",
+    "tags": [
+      "imap",
+      "email"
+    ],
+    "description": "IMAP client library",
+    "license": "GPL2",
+    "web": "https://github.com/ehmry/imap"
   }
 ]
