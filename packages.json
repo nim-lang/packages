@@ -5876,5 +5876,21 @@
     "description": "Binding for Intel Storage Acceleration library",
     "license": "Apache License 2.0",
     "web": "https://github.com/nimscale/isa"
+  },
+  {
+    "name": "untar",
+    "url": "https://github.com/dom96/untar",
+    "method": "git",
+    "tags": [
+      "library",
+      "tar",
+      "gz",
+      "compression",
+      "archive",
+      "decompression"
+    ],
+    "description": "Library for decompressing tar.gz files.",
+    "license": "MIT",
+    "web": "https://github.com/dom96/untar"
   }
 ]
