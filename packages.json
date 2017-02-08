@@ -5862,5 +5862,19 @@
     "description": "IMAP client library",
     "license": "GPL2",
     "web": "https://github.com/ehmry/imap"
+  },
+  {
+    "name": "isa",
+    "url": "https://github.com/nimscale/isa",
+    "method": "git",
+    "tags": [
+      "erasure",
+      "hash",
+      "crypto",
+      "compression"
+    ],
+    "description": "Binding for Intel Storage Acceleration library",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/nimscale/isa"
   }
 ]
