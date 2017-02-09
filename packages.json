@@ -5892,5 +5892,16 @@
     "description": "Library for decompressing tar.gz files.",
     "license": "MIT",
     "web": "https://github.com/dom96/untar"
+  },
+  {
+    "name": "NimCx",
+    "url": "https://github.com/qqtop/NimCx",
+    "method": "git",
+    "tags": [
+      "yes"
+    ],
+    "description": "Color and utilities library for a happy linux terminal.",
+    "license": "MIT",
+    "web": "https://github.com/qqtop/NimCx"
   }
 ]
