@@ -5892,5 +5892,19 @@
     "description": "Library for decompressing tar.gz files.",
     "license": "MIT",
     "web": "https://github.com/dom96/untar"
+  },
+  {
+    "name": "dpdk",
+    "url": "https://github.com/nimscale/dpdk",
+    "method": "git",
+    "tags": [
+      "library",
+      "dpdk",
+      "packet",
+      "processing"
+    ],
+    "description": "Library for fast packet processing",
+    "license": "Apache License 2.0",
+    "web": "http://dpdk.org/"
   }
 ]
