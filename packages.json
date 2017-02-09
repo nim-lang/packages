@@ -4926,7 +4926,7 @@
     "web": "https://github.com/cheatfate/asyncpg"
   },
   {
-    "name": "registry",
+    "name": "winregistry",
     "description": "Deal with Windows Registry from Nim.",
     "tags": [
       "registry",
