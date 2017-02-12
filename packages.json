@@ -5906,5 +5906,18 @@
     "description": "Library for fast packet processing",
     "license": "Apache License 2.0",
     "web": "http://dpdk.org/"
+  },
+  {
+    "name": "serialport",
+    "url": "https://github.com/euantorano/serialport.nim",
+    "method": "git",
+    "tags": [
+      "serial",
+      "rs232",
+      "io"
+    ],
+    "description": "A library to operate serial ports using pure Nim.",
+    "license": "BSD3",
+    "web": "https://github.com/euantorano/serialport.nim"
   }
 ]
