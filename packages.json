@@ -5894,6 +5894,18 @@
     "web": "https://github.com/dom96/untar"
   },
   {
+    "name": "nimcx",
+    "url": "https://github.com/qqtop/nimcx",
+    "method": "git",
+    "tags": [
+        "library",
+        "linux"
+    ],
+   "description": "Color and utilities library for linux terminal.",
+   "license": "MIT",
+   "web": "https://github.com/qqtop/nimcx"
+  },
+  {
     "name": "dpdk",
     "url": "https://github.com/nimscale/dpdk",
     "method": "git",
