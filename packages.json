@@ -4926,7 +4926,7 @@
     "web": "https://github.com/cheatfate/asyncpg"
   },
   {
-    "name": "registry",
+    "name": "winregistry",
     "description": "Deal with Windows Registry from Nim.",
     "tags": [
       "registry",
@@ -5904,5 +5904,32 @@
    "description": "Color and utilities library for linux terminal.",
    "license": "MIT",
    "web": "https://github.com/qqtop/nimcx"
-} 
+  },
+  {
+    "name": "dpdk",
+    "url": "https://github.com/nimscale/dpdk",
+    "method": "git",
+    "tags": [
+      "library",
+      "dpdk",
+      "packet",
+      "processing"
+    ],
+    "description": "Library for fast packet processing",
+    "license": "Apache License 2.0",
+    "web": "http://dpdk.org/"
+  },
+  {
+    "name": "libserialport",
+    "url": "https://github.com/euantorano/serialport.nim",
+    "method": "git",
+    "tags": [
+      "serial",
+      "rs232",
+      "io"
+    ],
+    "description": "A library to operate serial ports using pure Nim.",
+    "license": "BSD3",
+    "web": "https://github.com/euantorano/serialport.nim"
+  }
 ]
