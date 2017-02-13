@@ -5931,5 +5931,20 @@
     "description": "A library to operate serial ports using pure Nim.",
     "license": "BSD3",
     "web": "https://github.com/euantorano/serialport.nim"
+  },
+  {
+    "name": "libspdk",
+    "url": "https://github.com/nimscale/spdk.git",
+    "method": "git",
+    "tags": [
+      "library",
+      "SSD",
+      "NVME",
+      "io",
+      "storage"
+    ],
+    "description": "The Storage Performance Development Kit(SPDK) provides a set of tools and libraries for writing high performance, scalable, user-mode storage applications.",
+    "license": "MIT",
+    "web": "https://github.com/nimscale/spdk.git"
   }
 ]
