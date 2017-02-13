@@ -5952,6 +5952,7 @@
     "url": "https://github.com/bluenote10/NimData",
     "method": "git",
     "tags": [
+      "library",
       "dataframe"
     ],
     "description": "DataFrame API enabling fast out-of-core data analytics",
