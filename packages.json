@@ -5898,12 +5898,12 @@
     "url": "https://github.com/qqtop/nimcx",
     "method": "git",
     "tags": [
-        "library",
-        "linux"
+      "library",
+      "linux"
     ],
-   "description": "Color and utilities library for linux terminal.",
-   "license": "MIT",
-   "web": "https://github.com/qqtop/nimcx"
+    "description": "Color and utilities library for linux terminal.",
+    "license": "MIT",
+    "web": "https://github.com/qqtop/nimcx"
   },
   {
     "name": "dpdk",
@@ -5973,5 +5973,17 @@
     "description": "Test runner with file monitoring and desktop notification capabilities",
     "license": "GPLv3",
     "web": "https://github.com/FedericoCeratto/nim-testrunner"
+  },
+  {
+    "name": "AntTweakBar",
+    "url": "https://github.com/krux02/nimAntTweakBar",
+    "method": "git",
+    "tags": [
+      "gui",
+      "opengl"
+    ],
+    "description": "nim wrapper around the AntTweakBar c library",
+    "license": "MIT",
+    "web": "https://github.com/krux02/nimAntTweakBar"
   }
 ]
