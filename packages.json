@@ -5933,7 +5933,7 @@
     "web": "https://github.com/euantorano/serialport.nim"
   },
   {
-    "name": "libspdk",
+    "name": "spdk",
     "url": "https://github.com/nimscale/spdk.git",
     "method": "git",
     "tags": [
