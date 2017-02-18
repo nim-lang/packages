@@ -5946,5 +5946,32 @@
     "description": "The Storage Performance Development Kit(SPDK) provides a set of tools and libraries for writing high performance, scalable, user-mode storage applications.",
     "license": "MIT",
     "web": "https://github.com/nimscale/spdk.git"
+  },
+  {
+    "name": "NimData",
+    "url": "https://github.com/bluenote10/NimData",
+    "method": "git",
+    "tags": [
+      "library",
+      "dataframe"
+    ],
+    "description": "DataFrame API enabling fast out-of-core data analytics",
+    "license": "MIT",
+    "web": "https://github.com/bluenote10/NimData"
+  },
+  {
+    "name": "testrunner",
+    "url": "https://github.com/FedericoCeratto/nim-testrunner",
+    "method": "git",
+    "tags": [
+      "test",
+      "tests",
+      "unittest",
+      "utility",
+      "tdd"
+    ],
+    "description": "Test runner with file monitoring and desktop notification capabilities",
+    "license": "GPLv3",
+    "web": "https://github.com/FedericoCeratto/nim-testrunner"
   }
 ]
