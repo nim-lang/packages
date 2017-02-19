@@ -5973,5 +5973,17 @@
     "description": "Test runner with file monitoring and desktop notification capabilities",
     "license": "GPLv3",
     "web": "https://github.com/FedericoCeratto/nim-testrunner"
+  },
+  {
+    "name": "reactorfuse",
+    "url": "https://github.com/zielmicha/reactorfuse",
+    "method": "git",
+    "tags": [
+      "filesystem",
+      "fuse"
+    ],
+    "description": "Filesystem in userspace (FUSE) for Nim (for reactor.nim library)",
+    "license": "MIT",
+    "web": "https://github.com/zielmicha/reactorfuse"
   }
 ]
