@@ -5898,12 +5898,12 @@
     "url": "https://github.com/qqtop/nimcx",
     "method": "git",
     "tags": [
-        "library",
-        "linux"
+      "library",
+      "linux"
     ],
-   "description": "Color and utilities library for linux terminal.",
-   "license": "MIT",
-   "web": "https://github.com/qqtop/nimcx"
+    "description": "Color and utilities library for linux terminal.",
+    "license": "MIT",
+    "web": "https://github.com/qqtop/nimcx"
   },
   {
     "name": "dpdk",
@@ -5985,5 +5985,16 @@
     "description": "Filesystem in userspace (FUSE) for Nim (for reactor.nim library)",
     "license": "MIT",
     "web": "https://github.com/zielmicha/reactorfuse"
+  },
+  {
+    "name": "offlinemail",
+    "url": "https://github.com/ehmry/offlinemail",
+    "method": "git",
+    "tags": [
+      "jsonprettytest\u000F"
+    ],
+    "description": "Relay email via Secure Scuttlebutt",
+    "license": "GPL2",
+    "web": "https://github.com/ehmry/offlinemail"
   }
 ]
