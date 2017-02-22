@@ -5898,12 +5898,12 @@
     "url": "https://github.com/qqtop/nimcx",
     "method": "git",
     "tags": [
-        "library",
-        "linux"
+      "library",
+      "linux"
     ],
-   "description": "Color and utilities library for linux terminal.",
-   "license": "MIT",
-   "web": "https://github.com/qqtop/nimcx"
+    "description": "Color and utilities library for linux terminal.",
+    "license": "MIT",
+    "web": "https://github.com/qqtop/nimcx"
   },
   {
     "name": "dpdk",
@@ -5985,5 +5985,17 @@
     "description": "Filesystem in userspace (FUSE) for Nim (for reactor.nim library)",
     "license": "MIT",
     "web": "https://github.com/zielmicha/reactorfuse"
+  },
+  {
+    "name": "nimr",
+    "url": "https://github.com/Jeff-Ciesielski/nimr",
+    "method": "git",
+    "tags": [
+      "script",
+      "utils"
+    ],
+    "description": "Helper to run nim code like a script",
+    "license": "MIT",
+    "web": "https://github.com/Jeff-Ciesielski/nimr"
   }
 ]
