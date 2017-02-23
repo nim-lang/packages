@@ -5997,5 +5997,23 @@
     "description": "Helper to run nim code like a script",
     "license": "MIT",
     "web": "https://github.com/Jeff-Ciesielski/nimr"
+  },
+  {
+    "name": "neverwinter",
+    "url": "https://github.com/niv/neverwinter.nim",
+    "method": "git",
+    "tags": [
+      "nwn",
+      "neverwinternights",
+      "neverwinter",
+      "game",
+      "bioware",
+      "fileformats",
+      "reader",
+      "writer"
+    ],
+    "description": "Neverwinter Nights 1 data accessor library",
+    "license": "MIT",
+    "web": "https://github.com/niv/neverwinter.nim"
   }
 ]
