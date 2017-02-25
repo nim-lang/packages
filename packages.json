@@ -3325,7 +3325,10 @@
       "hash",
       "crypto",
       "library",
-      "sha2"
+      "sha256",
+      "sha224",
+      "sha384",
+      "sha512"
     ],
     "description": "Secure Hash Algorithm - 2, [224, 256, 384, and 512 bits]",
     "license": "MIT",
