@@ -6003,5 +6003,32 @@
     "description": "Neverwinter Nights 1 data accessor library",
     "license": "MIT",
     "web": "https://github.com/niv/neverwinter.nim"
+  },
+  {
+    "name": "snail",
+    "url": "https://github.com/stisa/snail",
+    "method": "git",
+    "tags": [
+      "js",
+      "matrix",
+      "linear algebra"
+    ],
+    "description": "Simple linear algebra for nim. Js too.",
+    "license": "MIT",
+    "web": "http://stisa.space/snail/"
+  },
+  {
+    "name": "websockets",
+    "url": "https://github.com/stisa/websockets",
+    "method": "git",
+    "tags": [
+      "js",
+      "javascripts",
+      "ws",
+      "websockets"
+    ],
+    "description": "Websockets wrapper for nim js backend.",
+    "license": "MIT",
+    "web": "http://stisa.space/websockets/"
   }
 ]
