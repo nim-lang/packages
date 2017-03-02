@@ -6018,8 +6018,8 @@
     "web": "http://stisa.space/snail/"
   },
   {
-    "name": "websockets",
-    "url": "https://github.com/stisa/websockets",
+    "name": "jswebsockets",
+    "url": "https://github.com/stisa/jswebsockets",
     "method": "git",
     "tags": [
       "js",
@@ -6029,6 +6029,6 @@
     ],
     "description": "Websockets wrapper for nim js backend.",
     "license": "MIT",
-    "web": "http://stisa.space/websockets/"
+    "web": "http://stisa.space/jswebsockets/"
   }
 ]
