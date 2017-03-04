@@ -6030,5 +6030,20 @@
     "description": "Websockets wrapper for nim js backend.",
     "license": "MIT",
     "web": "http://stisa.space/jswebsockets/"
+  },
+  {
+    "name": "morelogging",
+    "url": "https://github.com/FedericoCeratto/nim-morelogging",
+    "method": "git",
+    "tags": [
+      "log",
+      "logging",
+      "library",
+      "systemd",
+      "journald"
+    ],
+    "description": "Logging library with support for async IO, multithreading, Journald.",
+    "license": "LGPLv3",
+    "web": "https://github.com/FedericoCeratto/nim-morelogging"
   }
 ]
