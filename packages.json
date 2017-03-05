@@ -6045,5 +6045,19 @@
     "description": "Logging library with support for async IO, multithreading, Journald.",
     "license": "LGPLv3",
     "web": "https://github.com/FedericoCeratto/nim-morelogging"
+  },
+  {
+    "name": "ajax",
+    "url": "https://github.com/stisa/ajax",
+    "method": "git",
+    "tags": [
+      "js",
+      "javascripts",
+      "ajax",
+      "xmlhttprequest"
+    ],
+    "description": "AJAX wrapper for nim js backend.",
+    "license": "MIT",
+    "web": "http://stisa.space/ajax/"
   }
 ]
