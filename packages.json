@@ -872,17 +872,16 @@
     "web": "https://github.com/PMunch/SDLGamelib"
   },
   {
-    "name": "gamelib",
-    "url": "https://github.com/PMunch/SDLGamelib",
+    "name": "nimcr",
+    "url": "https://github.com/PMunch/nimcr",
     "method": "git",
     "tags": [
-      "sdl",
-      "game",
-      "library"
+      "shebang",
+      "utility"
     ],
-    "description": "A library of functions to make creating games using Nim and SDL2 easier. This does not intend to be a full blown engine and tries to keep all the components loosely coupled so that individual parts can be used separately.",
+    "description": "A small program to make Nim shebang-able without the overhead of compiling each time",
     "license": "MIT",
-    "web": "https://github.com/PMunch/SDLGamelib"
+    "web": "https://github.com/PMunch/nimcr"
   },
   {
     "name": "sdl2_nim",
