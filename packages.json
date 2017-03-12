@@ -6083,5 +6083,17 @@
     "description": "reCAPTCHA support for Nim, supporting rendering a capctcha and verifying a user's response.",
     "license": "BSD3",
     "web": "https://github.com/euantorano/recaptcha.nim"
+  },
+  {
+    "name": "influx",
+    "url": "https://github.com/samdmarshall/influx.nim",
+    "method": "git",
+    "tags": [
+      "influx",
+      "influxdb"
+    ],
+    "description": "wrapper for communicating with InfluxDB over the REST interface",
+    "license": "BSD 3-Clause",
+    "web": "https://github.com/samdmarshall/influx.nim"
   }
 ]
