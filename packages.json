@@ -872,6 +872,18 @@
     "web": "https://github.com/PMunch/SDLGamelib"
   },
   {
+    "name": "nimcr",
+    "url": "https://github.com/PMunch/nimcr",
+    "method": "git",
+    "tags": [
+      "shebang",
+      "utility"
+    ],
+    "description": "A small program to make Nim shebang-able without the overhead of compiling each time",
+    "license": "MIT",
+    "web": "https://github.com/PMunch/nimcr"
+  },
+  {
     "name": "sdl2_nim",
     "url": "https://github.com/Vladar4/sdl2_nim",
     "method": "git",
