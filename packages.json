@@ -6124,5 +6124,17 @@
     "description": "Storage, localStorage, and sessionStorage bindigs for Nim's JavaScript backend.",
     "license": "MIT",
     "web": "https://bitbucket.org/moigagoo/storage/"
+  },
+  {
+    "name": "fontconfig",
+    "url": "https://github.com/Parashurama/fontconfig",
+    "method": "git",
+    "tags": [
+      "fontconfig",
+      "font"
+    ],
+    "description": "Low level wrapper for the fontconfig library.",
+    "license": "Fontconfig License",
+    "web": "https://github.com/Parashurama/fontconfig"
   }
 ]
