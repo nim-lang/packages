@@ -6124,5 +6124,18 @@
     "description": "Storage, localStorage, and sessionStorage bindigs for Nim's JavaScript backend.",
     "license": "MIT",
     "web": "https://bitbucket.org/moigagoo/storage/"
+  },
+  {
+    "name": "sysrandom",
+    "url": "https://github.com/euantorano/sysrandom.nim",
+    "method": "git",
+    "tags": [
+      "random",
+      "RNG",
+      "PRNG"
+    ],
+    "description": "A simple library to generate random data, using the system's PRNG.",
+    "license": "BSD3",
+    "web": "https://github.com/euantorano/sysrandom.nim"
   }
 ]
