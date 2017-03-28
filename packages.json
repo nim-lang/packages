@@ -6136,5 +6136,31 @@
     "description": "Low level wrapper for the fontconfig library.",
     "license": "Fontconfig License",
     "web": "https://github.com/Parashurama/fontconfig"
+  },
+  {
+    "name": "sysrandom",
+    "url": "https://github.com/euantorano/sysrandom.nim",
+    "method": "git",
+    "tags": [
+      "random",
+      "RNG",
+      "PRNG"
+    ],
+    "description": "A simple library to generate random data, using the system's PRNG.",
+    "license": "BSD3",
+    "web": "https://github.com/euantorano/sysrandom.nim"
+  },
+  {
+    "name": "colorize",
+    "url": "https://github.com/molnarmark/colorize",
+    "method": "git",
+    "tags": [
+      "color",
+      "colors",
+      "colorize"
+    ],
+    "description": "A simple and lightweight terminal coloring library.",
+    "license": "MIT",
+    "web": "https://github.com/molnarmark/colorize"
   }
 ]
