@@ -6126,6 +6126,18 @@
     "web": "https://bitbucket.org/moigagoo/storage/"
   },
   {
+    "name": "fontconfig",
+    "url": "https://github.com/Parashurama/fontconfig",
+    "method": "git",
+    "tags": [
+      "fontconfig",
+      "font"
+    ],
+    "description": "Low level wrapper for the fontconfig library.",
+    "license": "Fontconfig License",
+    "web": "https://github.com/Parashurama/fontconfig"
+  },
+  {
     "name": "sysrandom",
     "url": "https://github.com/euantorano/sysrandom.nim",
     "method": "git",
