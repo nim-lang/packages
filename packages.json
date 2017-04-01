@@ -6162,5 +6162,22 @@
     "description": "A simple and lightweight terminal coloring library.",
     "license": "MIT",
     "web": "https://github.com/molnarmark/colorize"
+  },
+  {
+    "name": "cello",
+    "url": "https://github.com/unicredit/cello",
+    "method": "git",
+    "tags": [
+      "string",
+      "succinct-data-structure",
+      "rank",
+      "select",
+      "Burrows-Wheeler",
+      "FM-index",
+      "wavelet-tree"
+    ],
+    "description": "String algorithms with succinct data structures",
+    "license": "Apache2",
+    "web": "https://unicredit.github.io/cello/"
   }
 ]
