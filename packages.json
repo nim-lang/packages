@@ -6169,12 +6169,12 @@
     "method": "git",
     "tags": [
       "string",
-      "succint data structure",
+      "succinct-data-structure",
       "rank",
       "select",
       "Burrows-Wheeler",
-      "FM index",
-      "wavelet tree"
+      "FM-index",
+      "wavelet-tree"
     ],
     "description": "String algorithms with succinct data structures",
     "license": "Apache2",
