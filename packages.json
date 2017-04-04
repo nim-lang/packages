@@ -1488,7 +1488,7 @@
   },
   {
     "name": "random",
-    "url": "https://github.com/BlaXpirit/nim-random",
+    "url": "https://github.com/oprypin/nim-random",
     "method": "git",
     "tags": [
       "library",
@@ -1497,7 +1497,7 @@
     ],
     "description": "Pseudo-random number generation library inspired by Python",
     "license": "MIT",
-    "web": "https://github.com/BlaXpirit/nim-random"
+    "web": "https://github.com/oprypin/nim-random"
   },
   {
     "name": "zmq",
@@ -1731,7 +1731,7 @@
   },
   {
     "name": "csfml",
-    "url": "https://github.com/BlaXpirit/nim-csfml",
+    "url": "https://github.com/oprypin/nim-csfml",
     "method": "git",
     "tags": [
       "sfml",
@@ -1743,7 +1743,7 @@
     ],
     "description": "Bindings for Simple and Fast Multimedia Library (through CSFML)",
     "license": "zlib",
-    "web": "https://github.com/BlaXpirit/nim-csfml"
+    "web": "https://github.com/oprypin/nim-csfml"
   },
   {
     "name": "optional_t",
