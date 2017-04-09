@@ -6197,7 +6197,7 @@
     "url": "https://github.com/samdmarshall/notmuch.nim",
     "method": "git",
     "tags": [
-      "notmuch"
+      "notmuch", "wrapper", "email", "tagging"
     ],
     "description": "wrapper for the notmuch mail library",
     "license": "BSD 3-Clause",
