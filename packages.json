@@ -6,7 +6,7 @@
     "tags": [
       "library",
       "discord"
-     ],
+    ],
     "description": "Discord library for Nim",
     "license": "MIT",
     "web": "https://github.com/Krognol/discordnim"
@@ -6191,5 +6191,16 @@
     "description": "String algorithms with succinct data structures",
     "license": "Apache2",
     "web": "https://unicredit.github.io/cello/"
+  },
+  {
+    "name": "notmuch",
+    "url": "https://github.com/samdmarshall/notmuch.nim",
+    "method": "git",
+    "tags": [
+      "notmuch", "wrapper", "email", "tagging"
+    ],
+    "description": "wrapper for the notmuch mail library",
+    "license": "BSD 3-Clause",
+    "web": "https://github.com/samdmarshall/notmuch.nim"
   }
 ]
