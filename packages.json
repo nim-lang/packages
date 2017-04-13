@@ -6210,6 +6210,7 @@
     "tags": [
       "async",
       "io",
+      "socket",
       "net", 
       "tcp",
       "http",
