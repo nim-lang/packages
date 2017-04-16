@@ -6213,8 +6213,7 @@
     "tags": [
       "plugin",
       "dylib",
-      "manager",
-      ""
+      "manager"
     ],
     "description": "Simple plugin implementation",
     "license": "BSD 3-Clause",
