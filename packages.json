@@ -6197,10 +6197,27 @@
     "url": "https://github.com/samdmarshall/notmuch.nim",
     "method": "git",
     "tags": [
-      "notmuch", "wrapper", "email", "tagging"
+      "notmuch",
+      "wrapper",
+      "email",
+      "tagging"
     ],
     "description": "wrapper for the notmuch mail library",
     "license": "BSD 3-Clause",
     "web": "https://github.com/samdmarshall/notmuch.nim"
+  },
+  {
+    "name": "pluginmanager",
+    "url": "https://github.com/samdmarshall/plugin-manager",
+    "method": "git",
+    "tags": [
+      "plugin",
+      "dylib",
+      "manager",
+      ""
+    ],
+    "description": "Simple plugin implementation",
+    "license": "BSD 3-Clause",
+    "web": "https://github.com/samdmarshall/plugin-manager"
   }
 ]
