@@ -6202,5 +6202,22 @@
     "description": "wrapper for the notmuch mail library",
     "license": "BSD 3-Clause",
     "web": "https://github.com/samdmarshall/notmuch.nim"
+  },
+  {
+    "name": "node",
+    "url": "https://github.com/tulayang/nimnode",
+    "method": "git",
+    "tags": [
+      "async",
+      "io",
+      "socket",
+      "net", 
+      "tcp",
+      "http",
+      "libuv"
+    ],
+    "description": "Library for async programming and communication. This Library uses a future/promise, non-blocking I/O model based on libuv.",
+    "license": "MIT",
+    "web": "http://tulayang.github.io/node/"
   }
 ]
