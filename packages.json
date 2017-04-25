@@ -6227,7 +6227,7 @@
       "async",
       "io",
       "socket",
-      "net", 
+      "net",
       "tcp",
       "http",
       "libuv"
@@ -6235,5 +6235,18 @@
     "description": "Library for async programming and communication. This Library uses a future/promise, non-blocking I/O model based on libuv.",
     "license": "MIT",
     "web": "http://tulayang.github.io/node/"
+  },
+  {
+    "name": "tempdir",
+    "url": "https://github.com/euantorano/tempdir.nim",
+    "method": "git",
+    "tags": [
+      "temp",
+      "io",
+      "tmp"
+    ],
+    "description": "A Nim library to create and manage temporary directories.",
+    "license": "BSD3",
+    "web": "https://github.com/euantorano/tempdir.nim"
   }
 ]
