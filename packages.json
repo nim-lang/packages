@@ -6248,5 +6248,18 @@
     "description": "A Nim library to create and manage temporary directories.",
     "license": "BSD3",
     "web": "https://github.com/euantorano/tempdir.nim"
+  },
+  {
+    "name": "mathexpr",
+    "url": "https://github.com/TiberiumN/nim-mathexpr",
+    "method": "git",
+    "tags": [
+      "math",
+      "mathparser",
+      "tinyexpr"
+    ],
+    "description": "MathExpr - wrapper around TinyExpr C library",
+    "license": "MIT",
+    "web": "https://github.com/TiberiumN/nim-mathexpr"
   }
 ]
