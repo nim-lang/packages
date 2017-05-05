@@ -6275,5 +6275,18 @@
     "description": "A 2D|3D game engine",
     "license": "MIT",
     "web": "https://github.com/fragworks/frag"
+  },
+  {
+    "name": "freetype",
+    "url": "https://github.com/jangko/freetype",
+    "method": "git",
+    "tags": [
+      "font",
+      "renderint",
+      "library"
+    ],
+    "description": "wrapper for FreeType2 library",
+    "license": "MIT",
+    "web": "https://github.com/jangko/freetype"
   }
 ]
