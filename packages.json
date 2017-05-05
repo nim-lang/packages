@@ -6288,5 +6288,18 @@
     "description": "wrapper for FreeType2 library",
     "license": "MIT",
     "web": "https://github.com/jangko/freetype"
+  },
+  {
+    "name": "polyBool",
+    "url": "https://github.com/jangko/polyBool",
+    "method": "git",
+    "tags": [
+      "polygon",
+      "clipper",
+      "library"
+    ],
+    "description": "Polygon Clipper Library (Martinez Algorithm)",
+    "license": "MIT",
+    "web": "https://github.com/jangko/polyBool"
   }
 ]
