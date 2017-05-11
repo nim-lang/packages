@@ -6288,5 +6288,17 @@
     "description": "wrapper for FreeType2 library",
     "license": "MIT",
     "web": "https://github.com/jangko/freetype"
+  },
+  {
+    "name": "primme",
+    "url": "https://github.com/jxy/primme",
+    "method": "git",
+    "tags": [
+      "library",
+      "eigenvalues"
+    ],
+    "description": "Nim interface for PRIMME: PReconditioned Iterative MultiMethod Eigensolver",
+    "license": "MIT",
+    "web": "https://github.com/jxy/primme"
   }
 ]
