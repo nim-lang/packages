@@ -6288,5 +6288,19 @@
     "description": "wrapper for FreeType2 library",
     "license": "MIT",
     "web": "https://github.com/jangko/freetype"
+  },
+  {
+    "name": "sitmo",
+    "url": "https://github.com/jxy/sitmo",
+    "method": "git",
+    "tags": [
+      "RNG",
+      "Sitmo",
+      "high-performance",
+      "random"
+    ],
+    "description": "Sitmo parallel random number generator in Nim",
+    "license": "MIT",
+    "web": "https://github.com/jxy/sitmo"
   }
 ]
