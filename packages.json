@@ -6290,6 +6290,34 @@
     "web": "https://github.com/jangko/freetype"
   },
   {
+    "name": "polyBool",
+    "url": "https://github.com/jangko/polyBool",
+    "method": "git",
+    "tags": [
+      "polygon",
+      "clipper",
+      "library"
+    ],
+    "description": "Polygon Clipper Library (Martinez Algorithm)",
+    "license": "MIT",
+    "web": "https://github.com/jangko/polyBool"
+  },
+  {
+    "name": "nimAGG",
+    "url": "https://github.com/jangko/nimAGG",
+    "method": "git",
+    "tags": [
+      "renderer",
+      "rasterizer",
+      "library",
+      "2D",
+      "graphics"
+    ],
+    "description": "Hi Fidelity Rendering Engine",
+    "license": "MIT",
+    "web": "https://github.com/jangko/nimAGG"
+  },
+  {
     "name": "primme",
     "url": "https://github.com/jxy/primme",
     "method": "git",
