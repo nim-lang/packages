@@ -6316,5 +6316,33 @@
     "description": "Hi Fidelity Rendering Engine",
     "license": "MIT",
     "web": "https://github.com/jangko/nimAGG"
+  },
+  {
+    "name": "primme",
+    "url": "https://github.com/jxy/primme",
+    "method": "git",
+    "tags": [
+      "library",
+      "eigenvalues",
+      "high-performance",
+      "singular-value-decomposition"
+    ],
+    "description": "Nim interface for PRIMME: PReconditioned Iterative MultiMethod Eigensolver",
+    "license": "MIT",
+    "web": "https://github.com/jxy/primme"
+  },
+  {
+    "name": "sitmo",
+    "url": "https://github.com/jxy/sitmo",
+    "method": "git",
+    "tags": [
+      "RNG",
+      "Sitmo",
+      "high-performance",
+      "random"
+    ],
+    "description": "Sitmo parallel random number generator in Nim",
+    "license": "MIT",
+    "web": "https://github.com/jxy/sitmo"
   }
 ]
