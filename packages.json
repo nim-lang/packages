@@ -1592,18 +1592,18 @@
     "web": "https://github.com/cowboy-coders/nim-openssl-evp"
   },
   {
-    "name": "monad",
-    "url": "https://github.com/superfunc/monad",
+    "name": "maybe",
+    "url": "https://github.com/superfunc/maybe",
     "method": "git",
     "tags": [
       "library",
       "functional",
-      "monad",
-      "functor"
+      "optional",
+      "monad"
     ],
-    "description": "basic monadic data types for Nim",
+    "description": "basic monadic maybe type for Nim",
     "license": "BSD3",
-    "web": "https://github.com/superfunc/monad"
+    "web": "https://github.com/superfunc/maybe"
   },
   {
     "name": "eternity",
