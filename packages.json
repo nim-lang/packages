@@ -5433,8 +5433,8 @@
     "web": "https://h3rald.com/minim"
   },
   {
-    "name": "boneGPIO",
-    "url": "https://github.com/xyz32/boneGPIO",
+    "name": "boneIO",
+    "url": "https://github.com/xyz32/boneIO",
     "method": "git",
     "tags": [
       "library",
@@ -5443,7 +5443,7 @@
     ],
     "description": "A low level GPIO library for the BeagleBone board family",
     "license": "MIT",
-    "web": "https://github.com/xyz32/boneGPIO"
+    "web": "https://github.com/xyz32/boneIO"
   },
   {
     "name": "ui",
@@ -6372,5 +6372,18 @@
     "description": "CUDA bindings",
     "license": "Apache2",
     "web": "https://github.com/unicredit/nimcuda"
+  },
+  {
+    "name": "gifwriter",
+    "url": "https://github.com/rxi/gifwriter",
+    "method": "git",
+    "tags": [
+      "gif",
+      "image",
+      "library"
+    ],
+    "description": "Animated GIF writing library based on jo_gif",
+    "license": "MIT",
+    "web": "https://github.com/rxi/gifwriter"
   }
 ]
