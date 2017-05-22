@@ -6360,5 +6360,18 @@
     "description": "API for Web Audio (JS)",
     "license": "MIT",
     "web": "https://github.com/ftsf/nim-webaudio"
+  },
+  {
+    "name": "gifwriter",
+    "url": "https://github.com/rxi/gifwriter",
+    "method": "git",
+    "tags": [
+      "gif",
+      "image",
+      "library"
+    ],
+    "description": "Animated GIF writing library based on jo_gif",
+    "license": "MIT",
+    "web": "https://github.com/rxi/gifwriter"
   }
 ]
