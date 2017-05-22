@@ -6362,6 +6362,18 @@
     "web": "https://github.com/ftsf/nim-webaudio"
   },
   {
+    "name": "nimcuda",
+    "url": "https://github.com/unicredit/nimcuda",
+    "method": "git",
+    "tags": [
+      "CUDA",
+      "GPU"
+    ],
+    "description": "CUDA bindings",
+    "license": "Apache2",
+    "web": "https://github.com/unicredit/nimcuda"
+  },
+  {
     "name": "gifwriter",
     "url": "https://github.com/rxi/gifwriter",
     "method": "git",
