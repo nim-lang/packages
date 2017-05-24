@@ -6385,5 +6385,23 @@
     "description": "Animated GIF writing library based on jo_gif",
     "license": "MIT",
     "web": "https://github.com/rxi/gifwriter"
+  },
+  {
+    "name": "libplist",
+    "url": "https://github.com/samdmarshall/libplist.nim",
+    "method": "git",
+    "tags": [
+      "libplist",
+      "property",
+      "list",
+      "property-list",
+      "parsing",
+      "binary",
+      "xml",
+      "format"
+    ],
+    "description": "wrapper around libplist https://github.com/libimobiledevice/libplist",
+    "license": "MIT",
+    "web": "https://github.com/samdmarshall/libplist.nim"
   }
 ]
