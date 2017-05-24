@@ -6385,5 +6385,18 @@
     "description": "Animated GIF writing library based on jo_gif",
     "license": "MIT",
     "web": "https://github.com/rxi/gifwriter"
-  }
+  },
+  {
+    "name": "odbc",
+    "url": "https://github.com/coffeepots/odbc",
+    "method": "git",
+    "tags": [
+      "odbc",
+      "database",
+      "sqlserver"
+    ],
+    "description": "ODBC library around the odbcsql wrapper.",
+    "license": "MIT",
+    "web": "https://github.com/coffeepots/odbc"
+  }  
 ]
