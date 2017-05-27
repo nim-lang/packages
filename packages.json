@@ -6415,5 +6415,17 @@
     "description": "getch() for Windows and Unix",
     "license": "MIT",
     "web": "https://github.com/6A/getch"
+  },
+  {
+    "name": "gifenc",
+    "url": "https://github.com/ftsf/gifenc",
+    "method": "git",
+    "tags": [
+      "gif",
+      "encoder"
+    ],
+    "description": "Gif Encoder",
+    "license": "Public Domain",
+    "web": "https://github.com/ftsf/gifenc"
   }
 ]
