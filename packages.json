@@ -6427,5 +6427,17 @@
     "description": "Gif Encoder",
     "license": "Public Domain",
     "web": "https://github.com/ftsf/gifenc"
+  },
+  {
+    "name": "nimlapack",
+    "url": "https://github.com/unicredit/nimlapack",
+    "method": "git",
+    "tags": [
+      "LAPACK",
+      "linear-algebra"
+    ],
+    "description": "LAPACK bindings",
+    "license": "Apache2",
+    "web": "https://github.com/unicredit/nimlapack"
   }
 ]
