@@ -6439,5 +6439,19 @@
     "description": "LAPACK bindings",
     "license": "Apache2",
     "web": "https://github.com/unicredit/nimlapack"
+  },
+  {
+    "name": "jack",
+    "url": "https://github.com/Skrylar/nim-jack",
+    "method": "git",
+    "tags": [
+      "jack",
+      "audio",
+      "binding",
+      "wrapper"
+    ],
+    "description": "Shiny bindings to the JACK Audio Connection Kit.",
+    "license": "MIT",
+    "web": "https://github.com/Skrylar/nim-jack"
   }
 ]
