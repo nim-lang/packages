@@ -6480,6 +6480,6 @@
     ],
     "description": "Linear algebra for Nim",
     "license": "Apache License 2.0",
-    "web": "https://github.com/unicredit/neo"
+    "web": "https://unicredit.github.io/neo/"
   }
 ]
