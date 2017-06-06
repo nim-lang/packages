@@ -2747,7 +2747,7 @@
     "tags": [
       "vector",
       "matrix",
-      "linear algebra",
+      "linear-algebra",
       "BLAS",
       "LAPACK"
     ],
@@ -6473,7 +6473,7 @@
     "tags": [
       "vector",
       "matrix",
-      "linear algebra",
+      "linear-algebra",
       "BLAS",
       "LAPACK",
       "CUDA"
