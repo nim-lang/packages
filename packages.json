@@ -6465,5 +6465,21 @@
     "description": "Support for serialization of objects",
     "license": "MIT",
     "web": "https://github.com/JeffersonLab/serializetools"
+  },
+  {
+    "name": "neo",
+    "url": "https://github.com/unicredit/neo",
+    "method": "git",
+    "tags": [
+      "vector",
+      "matrix",
+      "linear algebra",
+      "BLAS",
+      "LAPACK",
+      "CUDA"
+    ],
+    "description": "Linear algebra for Nim",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/unicredit/neo"
   }
 ]
