@@ -6481,5 +6481,21 @@
     "description": "Linear algebra for Nim",
     "license": "Apache License 2.0",
     "web": "https://unicredit.github.io/neo/"
+  },
+  {
+    "name": "httpkit",
+    "url": "https://github.com/tulayang/httpkit",
+    "method": "git",
+    "tags": [
+      "http",
+      "request",
+      "response",
+      "stream",
+      "big file",
+      "async"
+    ],
+    "description": "An efficient HTTP tool suite written in pure nim. Help you to write HTTP services or clients via TCP, UDP, or even Unix Domain socket, etc.",
+    "license": "MIT",
+    "web": "http://tulayang.github.io/httpkit.html"
   }
 ]
