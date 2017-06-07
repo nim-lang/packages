@@ -6496,6 +6496,6 @@
     ],
     "description": "An efficient HTTP tool suite written in pure nim. Help you to write HTTP services or clients via TCP, UDP, or even Unix Domain socket, etc.",
     "license": "MIT",
-    "web": "http://tulayang.github.io/httpkit.html"
+    "web": "https://github.com/tulayang/httpkit"
   }
 ]
