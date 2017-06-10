@@ -6491,7 +6491,7 @@
       "request",
       "response",
       "stream",
-      "big file",
+      "bigfile",
       "async"
     ],
     "description": "An efficient HTTP tool suite written in pure nim. Help you to write HTTP services or clients via TCP, UDP, or even Unix Domain socket, etc.",
