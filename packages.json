@@ -6497,5 +6497,20 @@
     "description": "An efficient HTTP tool suite written in pure nim. Help you to write HTTP services or clients via TCP, UDP, or even Unix Domain socket, etc.",
     "license": "MIT",
     "web": "https://github.com/tulayang/httpkit"
+  },
+  {
+    "name": "ulid",
+    "url": "https://github.com/adelq/ulid",
+    "method": "git",
+    "tags": [
+      "library",
+      "id",
+      "ulid",
+      "uuid",
+      "guid"
+    ],
+    "description": "Universally Unique Lexicographically Sortable Identifier",
+    "license": "MIT",
+    "web": "https://github.com/adelq/ulid"
   }
 ]
