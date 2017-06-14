@@ -6512,5 +6512,20 @@
     "description": "Universally Unique Lexicographically Sortable Identifier",
     "license": "MIT",
     "web": "https://github.com/adelq/ulid"
+  },
+  {
+    "name": "nodejs",
+    "url": "https://github.com/lcrees/electron",
+    "method": "git",
+    "tags": [
+      "javascript",
+      "js",
+      "node",
+      "nodejs",
+      "server-side"
+    ],
+    "description": "Node.js bindings for Nim",
+    "license": "MIT",
+    "web": "https://github.com/lcrees/electron"
   }
 ]
