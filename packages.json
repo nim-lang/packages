@@ -4351,7 +4351,7 @@
   },
   {
     "name": "nest",
-    "url": "https://github.com/kedean/nest.git",
+    "url": "https://github.com/yglukhov/nest.git",
     "method": "git",
     "tags": [
       "library",
@@ -4361,7 +4361,7 @@
     ],
     "description": "RESTful URI router",
     "license": "MIT",
-    "web": "https://github.com/kedean/nest"
+    "web": "https://github.com/yglukhov/nest"
   },
   {
     "name": "nimbluez",
