@@ -6512,5 +6512,20 @@
     "description": "Universally Unique Lexicographically Sortable Identifier",
     "license": "MIT",
     "web": "https://github.com/adelq/ulid"
+  },
+  {
+  "name": "osureplay",
+  "url": "https://github.com/TiberiumN/nim-osureplay",
+  "method": "git",
+  "tags": [
+    "library",
+    "osu!",
+    "parser",
+    "osugame",
+    "replay"
+  ],
+  "description": "osu! replay parser",
+  "license": "MIT",
+  "web": "https://github.com/TiberiumN/nim-osureplay"
   }
 ]
