@@ -6512,5 +6512,16 @@
     "description": "Universally Unique Lexicographically Sortable Identifier",
     "license": "MIT",
     "web": "https://github.com/adelq/ulid"
+  },
+  {
+    "name": "tiger",
+    "url": "https://github.com/ehmry/tiger",
+    "method": "git",
+    "tags": [
+      "hash"
+    ],
+    "description": "Tiger hash function",
+    "license": "MIT",
+    "web": "https://github.com/ehmry/tiger"
   }
 ]
