@@ -6518,7 +6518,10 @@
     "url": "https://github.com/5paceToast/pipe",
     "method": "git",
     "tags": [
-      "v0.1.0"
+      "pipe",
+      "macro",
+      "operator",
+      "functional"
     ],
     "description": "Pipe operator for nim.",
     "license": "MIT",
