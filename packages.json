@@ -6512,5 +6512,19 @@
     "description": "Universally Unique Lexicographically Sortable Identifier",
     "license": "MIT",
     "web": "https://github.com/adelq/ulid"
+  },
+  {
+    "name": "pipe",
+    "url": "https://github.com/5paceToast/pipe",
+    "method": "git",
+    "tags": [
+      "pipe",
+      "macro",
+      "operator",
+      "functional"
+    ],
+    "description": "Pipe operator for nim.",
+    "license": "MIT",
+    "web": "https://github.com/5paceToast/pipe"
   }
 ]
