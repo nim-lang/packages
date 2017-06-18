@@ -5450,5 +5450,31 @@
     "description": "Bindings for libjwt",
     "license": "LGPLv2.1",
     "web": "https://github.com/nimscale/nim-libjwt"
-  }
+  },
+  {
+    "name": "flatdb",
+    "url": "https://github.com/enthus1ast/flatdb",
+    "method": "git",
+    "tags": [
+      "database",
+      "json",
+      "pure"
+    ],
+    "description": "small/tiny, flatfile, jsonl based, inprogress database for nim",
+    "license": "MIT",
+    "web": "https://github.com/enthus1ast/flatdb"
+  },
+  {
+    "name": "nwt",
+    "url": "https://github.com/enthus1ast/nimWebTemplates",
+    "method": "git",
+    "tags": [
+      "database",
+      "json",
+      "pure"
+    ],
+    "description": "small/tiny, flatfile, jsonl based, inprogress database for nim",
+    "license": "MIT",
+    "web": "https://github.com/enthus1ast/nimWebTemplates"
+  }      
 ]
