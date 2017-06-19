@@ -251,7 +251,7 @@
   },
   {
     "name": "nim-glfw",
-    "url": "https://github.com/EXetoC/nim-glfw/",
+    "url": "https://github.com/ephja/nim-glfw",
     "method": "git",
     "tags": [
       "library",
@@ -262,11 +262,11 @@
     ],
     "description": "A high-level GLFW 3 wrapper",
     "license": "MIT",
-    "web": "https://github.com/EXetoC/nim-glfw"
+    "web": "https://github.com/ephja/nim-glfw"
   },
   {
     "name": "nim-ao",
-    "url": "https://github.com/EXetoC/nim-ao/",
+    "url": "https://github.com/ephja/nim-ao",
     "method": "git",
     "tags": [
       "library",
@@ -274,7 +274,7 @@
     ],
     "description": "A high-level libao wrapper",
     "license": "MIT",
-    "web": "https://github.com/EXetoC/nim-ao"
+    "web": "https://github.com/ephja/nim-ao"
   },
   {
     "name": "termbox",
@@ -6523,5 +6523,19 @@
     "description": "Tiger hash function",
     "license": "MIT",
     "web": "https://github.com/ehmry/tiger"
+  },
+  {
+    "name": "pipe",
+    "url": "https://github.com/5paceToast/pipe",
+    "method": "git",
+    "tags": [
+      "pipe",
+      "macro",
+      "operator",
+      "functional"
+    ],
+    "description": "Pipe operator for nim.",
+    "license": "MIT",
+    "web": "https://github.com/5paceToast/pipe"
   }
 ]
