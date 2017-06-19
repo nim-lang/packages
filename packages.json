@@ -6514,6 +6514,17 @@
     "web": "https://github.com/adelq/ulid"
   },
   {
+    "name": "tiger",
+    "url": "https://github.com/ehmry/tiger",
+    "method": "git",
+    "tags": [
+      "hash"
+    ],
+    "description": "Tiger hash function",
+    "license": "MIT",
+    "web": "https://github.com/ehmry/tiger"
+  },
+  {
     "name": "pipe",
     "url": "https://github.com/5paceToast/pipe",
     "method": "git",
