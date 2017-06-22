@@ -6537,5 +6537,32 @@
     "description": "Pipe operator for nim.",
     "license": "MIT",
     "web": "https://github.com/5paceToast/pipe"
-  }
+  },
+  {
+    "name": "flatdb",
+    "url": "https://github.com/enthus1ast/flatdb",
+    "method": "git",
+    "tags": [
+      "database",
+      "json",
+      "pure"
+    ],
+    "description": "small/tiny, flatfile, jsonl based, inprogress database for nim",
+    "license": "MIT",
+    "web": "https://github.com/enthus1ast/flatdb"
+  },
+  {
+    "name": "nwt",
+    "url": "https://github.com/enthus1ast/nimWebTemplates",
+    "method": "git",
+    "tags": [
+      "template",
+      "html",
+      "pure",
+      "jinja"
+    ],
+    "description": "experiment to build a jinja like template parser",
+    "license": "MIT",
+    "web": "https://github.com/enthus1ast/nimWebTemplates"
+  }     
 ]
