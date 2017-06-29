@@ -6564,5 +6564,18 @@
     "description": "experiment to build a jinja like template parser",
     "license": "MIT",
     "web": "https://github.com/enthus1ast/nimWebTemplates"
-  }     
+  },
+  {
+    "name": "chebyshev",
+    "url": "https://github.com/jxy/chebyshev",
+    "method": "git",
+    "tags": [
+      "math",
+      "approximation",
+      "numerical"
+    ],
+    "description": "Chebyshev approximation.",
+    "license": "MIT",
+    "web": "https://github.com/jxy/chebyshev"
+  }
 ]
