@@ -6596,5 +6596,18 @@
     "description": "Lightweight audio mixer for SDL2",
     "license": "MIT",
     "web": "https://github.com/rxi/cmixer_sdl2-nim"
+  },
+  {
+    "name": "chebyshev",
+    "url": "https://github.com/jxy/chebyshev",
+    "method": "git",
+    "tags": [
+      "math",
+      "approximation",
+      "numerical"
+    ],
+    "description": "Chebyshev approximation.",
+    "license": "MIT",
+    "web": "https://github.com/jxy/chebyshev"
   }
 ]
