@@ -6609,5 +6609,21 @@
     "description": "Chebyshev approximation.",
     "license": "MIT",
     "web": "https://github.com/jxy/chebyshev"
+  },
+  {
+    "name": "scram",
+    "url": "https://github.com/rgv151/scram",
+    "method": "git",
+    "tags": [
+      "scram",
+      "sasl",
+      "authentication",
+      "salted",
+      "challenge",
+      "response"
+    ],
+    "description": "Salted Challenge Response Authentication Mechanism (SCRAM) ",
+    "license": "MIT",
+    "web": "https://github.com/rgv151/scram"
   }
 ]
