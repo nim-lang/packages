@@ -6625,7 +6625,7 @@
     "description": "Salted Challenge Response Authentication Mechanism (SCRAM) ",
     "license": "MIT",
     "web": "https://github.com/rgv151/scram"
-  }
+  },
   {
     "name": "blake2",
     "url": "https://bitbucket.org/mihailp/blake2/",
