@@ -6626,4 +6626,18 @@
     "license": "MIT",
     "web": "https://github.com/rgv151/scram"
   }
+  {
+    "name": "blake2",
+    "url": "https://bitbucket.org/mihailp/blake2/",
+    "method": "hg",
+    "tags": [
+      "crypto",
+      "cryptography",
+      "hash",
+      "security"
+    ],
+    "description": "blake2 - cryptographic hash function",
+    "license": "CC0",
+    "web": "https://bitbucket.org/mihailp/blake2/"
+  }
 ]
