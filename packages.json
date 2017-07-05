@@ -6639,5 +6639,19 @@
     "description": "blake2 - cryptographic hash function",
     "license": "CC0",
     "web": "https://bitbucket.org/mihailp/blake2/"
+  },
+  {
+    "name": "spinny",
+    "url": "https://github.com/molnarmark/spinny",
+    "method": "git",
+    "tags": [
+      "terminal",
+      "spinner",
+      "spinny",
+      "load"
+    ],
+    "description": "Spinny is a tiny terminal spinner package for the Nim Programming Language.",
+    "license": "MIT",
+    "web": "https://github.com/molnarmark/spinny"
   }
 ]
