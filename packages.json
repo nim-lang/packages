@@ -6653,5 +6653,18 @@
     "description": "Spinny is a tiny terminal spinner package for the Nim Programming Language.",
     "license": "MIT",
     "web": "https://github.com/molnarmark/spinny"
+  },
+  {
+    "name": "nigui",
+    "url": "https://github.com/trustable-code/NiGui",
+    "method": "git",
+    "tags": [
+      "gui",
+      "windows",
+      "gtk"
+    ],
+    "description": "NiGui is a cross-platform, desktop GUI toolkit using native widgets.",
+    "license": "MIT",
+    "web": "https://github.com/trustable-code/NiGui"
   }
 ]
