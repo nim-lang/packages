@@ -6679,4 +6679,16 @@
     "license": "MIT",
     "web": "http://www3.cs.stonybrook.edu/~algorith/implement/reingold/implement.shtml"
   }
+  {
+    "name": "nimcalcal",
+    "url": "https://github.com/skilchen/nimcalcal",
+    "method": "git",
+    "tags": [
+      "calendar",
+      "library"
+    ],
+    "description": "nimcalcal - PyCalCal translated to Nim, Calendrical Calculations from Reingold/Dershowitz",
+    "license": "MIT",
+    "web": "http://www3.cs.stonybrook.edu/~algorith/implement/reingold/implement.shtml"
+  }
 ]
