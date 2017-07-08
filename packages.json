@@ -1592,6 +1592,10 @@
     "web": "https://github.com/cowboy-coders/nim-openssl-evp"
   },
   {
+    "name": "monad",
+    "alias": "maybe"
+  },
+  {
     "name": "maybe",
     "url": "https://github.com/superfunc/maybe",
     "method": "git",
