@@ -30,3 +30,30 @@ Your packages may be removed if the url stops working. It goes without saying
 that your pull request will not be accepted unless you fill out all of the
 above required fields correctly, the package that ``url`` points to must also
 contain a .nimble file, or else it will be rejected.
+
+## Renaming packages
+
+To rename a package you will need to add a new entry for your package. Simply
+perform the following steps:
+
+* Duplicate your package's current entry.
+* Remove every field in one of the entries apart from the `name` field.
+* Add an `alias` field to that entry.
+* Change the name in the other package entry.
+
+For example:
+
+```
+...
+  {
+    "name": "myoldname",
+    "alias": "mynewname"
+  },
+  {
+    "name": "mynewname",
+    "url": "...",
+    "method": "git",
+    ...
+  },
+...
+```

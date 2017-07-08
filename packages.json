@@ -251,7 +251,7 @@
   },
   {
     "name": "nim-glfw",
-    "url": "https://github.com/EXetoC/nim-glfw/",
+    "url": "https://github.com/ephja/nim-glfw",
     "method": "git",
     "tags": [
       "library",
@@ -262,11 +262,11 @@
     ],
     "description": "A high-level GLFW 3 wrapper",
     "license": "MIT",
-    "web": "https://github.com/EXetoC/nim-glfw"
+    "web": "https://github.com/ephja/nim-glfw"
   },
   {
     "name": "nim-ao",
-    "url": "https://github.com/EXetoC/nim-ao/",
+    "url": "https://github.com/ephja/nim-ao",
     "method": "git",
     "tags": [
       "library",
@@ -274,7 +274,7 @@
     ],
     "description": "A high-level libao wrapper",
     "license": "MIT",
-    "web": "https://github.com/EXetoC/nim-ao"
+    "web": "https://github.com/ephja/nim-ao"
   },
   {
     "name": "termbox",
@@ -1593,17 +1593,21 @@
   },
   {
     "name": "monad",
-    "url": "https://github.com/superfunc/monad",
+    "alias": "maybe"
+  },
+  {
+    "name": "maybe",
+    "url": "https://github.com/superfunc/maybe",
     "method": "git",
     "tags": [
       "library",
       "functional",
-      "monad",
-      "functor"
+      "optional",
+      "monad"
     ],
-    "description": "basic monadic data types for Nim",
+    "description": "basic monadic maybe type for Nim",
     "license": "BSD3",
-    "web": "https://github.com/superfunc/monad"
+    "web": "https://github.com/superfunc/maybe"
   },
   {
     "name": "eternity",
@@ -6527,5 +6531,171 @@
   "description": "osu! replay parser",
   "license": "MIT",
   "web": "https://github.com/TiberiumN/nim-osureplay"
+  },
+  {
+    "name": "tiger",
+    "url": "https://github.com/ehmry/tiger",
+    "method": "git",
+    "tags": [
+      "hash"
+    ],
+    "description": "Tiger hash function",
+    "license": "MIT",
+    "web": "https://github.com/ehmry/tiger"
+  },
+  {
+    "name": "pipe",
+    "url": "https://github.com/5paceToast/pipe",
+    "method": "git",
+    "tags": [
+      "pipe",
+      "macro",
+      "operator",
+      "functional"
+    ],
+    "description": "Pipe operator for nim.",
+    "license": "MIT",
+    "web": "https://github.com/5paceToast/pipe"
+  },
+  {
+    "name": "flatdb",
+    "url": "https://github.com/enthus1ast/flatdb",
+    "method": "git",
+    "tags": [
+      "database",
+      "json",
+      "pure"
+    ],
+    "description": "small/tiny, flatfile, jsonl based, inprogress database for nim",
+    "license": "MIT",
+    "web": "https://github.com/enthus1ast/flatdb"
+  },
+  {
+    "name": "nwt",
+    "url": "https://github.com/enthus1ast/nimWebTemplates",
+    "method": "git",
+    "tags": [
+      "template",
+      "html",
+      "pure",
+      "jinja"
+    ],
+    "description": "experiment to build a jinja like template parser",
+    "license": "MIT",
+    "web": "https://github.com/enthus1ast/nimWebTemplates"
+  },
+  {
+    "name": "cmixer",
+    "url": "https://github.com/rxi/cmixer-nim",
+    "method": "git",
+    "tags": [
+      "library",
+      "audio",
+      "mixer",
+      "sound",
+      "wav",
+      "ogg"
+    ],
+    "description": "Lightweight audio mixer for games",
+    "license": "MIT",
+    "web": "https://github.com/rxi/cmixer-nim"
+  },
+  {
+    "name": "cmixer_sdl2",
+    "url": "https://github.com/rxi/cmixer_sdl2-nim",
+    "method": "git",
+    "tags": [
+      "library",
+      "audio",
+      "mixer",
+      "sound",
+      "wav",
+      "ogg"
+    ],
+    "description": "Lightweight audio mixer for SDL2",
+    "license": "MIT",
+    "web": "https://github.com/rxi/cmixer_sdl2-nim"
+  },
+  {
+    "name": "chebyshev",
+    "url": "https://github.com/jxy/chebyshev",
+    "method": "git",
+    "tags": [
+      "math",
+      "approximation",
+      "numerical"
+    ],
+    "description": "Chebyshev approximation.",
+    "license": "MIT",
+    "web": "https://github.com/jxy/chebyshev"
+  },
+  {
+    "name": "scram",
+    "url": "https://github.com/rgv151/scram",
+    "method": "git",
+    "tags": [
+      "scram",
+      "sasl",
+      "authentication",
+      "salted",
+      "challenge",
+      "response"
+    ],
+    "description": "Salted Challenge Response Authentication Mechanism (SCRAM) ",
+    "license": "MIT",
+    "web": "https://github.com/rgv151/scram"
+  },
+  {
+    "name": "blake2",
+    "url": "https://bitbucket.org/mihailp/blake2/",
+    "method": "hg",
+    "tags": [
+      "crypto",
+      "cryptography",
+      "hash",
+      "security"
+    ],
+    "description": "blake2 - cryptographic hash function",
+    "license": "CC0",
+    "web": "https://bitbucket.org/mihailp/blake2/"
+  },
+  {
+    "name": "spinny",
+    "url": "https://github.com/molnarmark/spinny",
+    "method": "git",
+    "tags": [
+      "terminal",
+      "spinner",
+      "spinny",
+      "load"
+    ],
+    "description": "Spinny is a tiny terminal spinner package for the Nim Programming Language.",
+    "license": "MIT",
+    "web": "https://github.com/molnarmark/spinny"
+  },
+  {
+    "name": "nigui",
+    "url": "https://github.com/trustable-code/NiGui",
+    "method": "git",
+    "tags": [
+      "gui",
+      "windows",
+      "gtk"
+    ],
+    "description": "NiGui is a cross-platform, desktop GUI toolkit using native widgets.",
+    "license": "MIT",
+    "web": "https://github.com/trustable-code/NiGui"
+  },
+  {
+    "name": "nimcalcal",
+    "url": "https://github.com/skilchen/nimcalcal",
+    "method": "git",
+    "tags": [
+      "calendar",
+      "library"
+    ],
+    "description": "nimcalcal - PyCalCal translated to Nim, Calendrical Calculations from Reingold/Dershowitz",
+    "license": "MIT",
+    "web": "http://www3.cs.stonybrook.edu/~algorith/implement/reingold/implement.shtml"
   }
 ]
