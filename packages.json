@@ -6697,5 +6697,18 @@
     "description": "nimcalcal - PyCalCal translated to Nim, Calendrical Calculations from Reingold/Dershowitz",
     "license": "MIT",
     "web": "http://www3.cs.stonybrook.edu/~algorith/implement/reingold/implement.shtml"
+  },
+  {
+    "name": "currying",
+    "url": "https://github.com/t8m8/currying",
+    "method": "git",
+    "tags": [
+      "library",
+      "functional",
+      "currying"
+    ],
+    "description": "Currying library for Nim",
+    "license": "MIT",
+    "web": "https://github.com/t8m8/currying"
   }
 ]
