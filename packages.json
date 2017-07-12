@@ -6710,5 +6710,18 @@
     "description": "Currying library for Nim",
     "license": "MIT",
     "web": "https://github.com/t8m8/currying"
+  },
+  {
+    "name": "rect_packer",
+    "url": "https://github.com/yglukhov/rect_packer",
+    "method": "git",
+    "tags": [
+      "library",
+      "geometry",
+      "packing"
+    ],
+    "description": "Pack rects into bigger rect",
+    "license": "MIT",
+    "web": "https://github.com/yglukhov/rect_packer"
   }
 ]
