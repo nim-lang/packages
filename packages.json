@@ -6740,5 +6740,5 @@
     "description": "A tensor (multidimensional array) library for Nim",
     "license": "Apache License 2.0",
     "web": "https://mratsim.github.io/Arraymancer/"
-  },
+  }
 ]
