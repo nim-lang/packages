@@ -6518,19 +6518,19 @@
     "web": "https://github.com/adelq/ulid"
   },
   {
-  "name": "osureplay",
-  "url": "https://github.com/TiberiumN/nim-osureplay",
-  "method": "git",
-  "tags": [
-    "library",
-    "osu!",
-    "parser",
-    "osugame",
-    "replay"
-  ],
-  "description": "osu! replay parser",
-  "license": "MIT",
-  "web": "https://github.com/TiberiumN/nim-osureplay"
+    "name": "osureplay",
+    "url": "https://github.com/TiberiumN/nim-osureplay",
+    "method": "git",
+    "tags": [
+      "library",
+      "osu!",
+      "parser",
+      "osugame",
+      "replay"
+    ],
+    "description": "osu! replay parser",
+    "license": "MIT",
+    "web": "https://github.com/TiberiumN/nim-osureplay"
   },
   {
     "name": "tiger",
@@ -6723,5 +6723,16 @@
     "description": "Pack rects into bigger rect",
     "license": "MIT",
     "web": "https://github.com/yglukhov/rect_packer"
+  },
+  {
+    "name": "gintro",
+    "url": "https://github.com/stefansalewski/gintro",
+    "method": "git",
+    "tags": [
+      "yes"
+    ],
+    "description": "High level GObject-Introspection based GTK3 bindings",
+    "license": "MIT",
+    "web": "https://github.com/stefansalewski/gintro"
   }
 ]
