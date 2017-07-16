@@ -6740,5 +6740,19 @@
     "description": "A tensor (multidimensional array) library for Nim",
     "license": "Apache License 2.0",
     "web": "https://mratsim.github.io/Arraymancer/"
+  },
+  {
+    "name": "sha3",
+    "url": "https://bitbucket.org/mihailp/sha3/",
+    "method": "hg",
+    "tags": [
+      "crypto",
+      "cryptography",
+      "hash",
+      "security"
+    ],
+    "description": "sha3 - cryptographic hash function",
+    "license": "CC0",
+    "web": "https://bitbucket.org/mihailp/sha3/"
   }
 ]
