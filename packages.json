@@ -6782,5 +6782,16 @@
     "description": "A nil coalescing operator ?? for Nim",
     "license": "MIT",
     "web": "https://github.com/piedar/coalesce"
+  },
+  {
+    "name": "NimbleExample",
+    "url": "https://github.com/PeterWebTrax/NimbleExample",
+    "method": "git",
+    "tags": [
+      "y"
+    ],
+    "description": "Simple package to learn about Nimble",
+    "license": "MIT",
+    "web": "https://github.com/PeterWebTrax/NimbleExample"
   }
 ]
