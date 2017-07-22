@@ -6791,7 +6791,7 @@
       "mysql",
       "async",
       "asynchronous",
-      "packet parser"
+      "parser"
     ],
     "description": "Asynchronous MySQL connector written in pure Nim",
     "license": "MIT",
