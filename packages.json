@@ -6782,5 +6782,19 @@
     "description": "A nil coalescing operator ?? for Nim",
     "license": "MIT",
     "web": "https://github.com/piedar/coalesce"
+  },
+  {
+    "name": "asyncmysql",
+    "url": "https://github.com/tulayang/asyncmysql",
+    "method": "git",
+    "tags": [
+      "mysql",
+      "async",
+      "asynchronous",
+      "parser"
+    ],
+    "description": "Asynchronous MySQL connector written in pure Nim",
+    "license": "MIT",
+    "web": "https://github.com/tulayang/asyncmysql"
   }
 ]
