@@ -6796,5 +6796,20 @@
     "description": "Asynchronous MySQL connector written in pure Nim",
     "license": "MIT",
     "web": "https://github.com/tulayang/asyncmysql"
+  },
+  {
+    "name": "cassandra",
+    "url": "https://github.com/yglukhov/cassandra",
+    "method": "git",
+    "tags": [
+      "cassandra",
+      "database",
+      "wrapper",
+      "bindings",
+      "driver"
+    ],
+    "description": "Bindings to Cassandra DB driver",
+    "license": "MIT",
+    "web": "https://github.com/yglukhov/cassandra"
   }
 ]
