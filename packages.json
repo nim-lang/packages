@@ -6811,5 +6811,19 @@
     "description": "Bindings to Cassandra DB driver",
     "license": "MIT",
     "web": "https://github.com/yglukhov/cassandra"
+  },
+  {
+    "name": "tf2plug",
+    "url": "https://gitlab.com/waylon531/tf2plug",
+    "method": "git",
+    "tags": [
+      "app",
+      "binary",
+      "tool",
+      "tf2"
+    ],
+    "description": "A mod manager for TF2",
+    "license": "GPLv3",
+    "web": "https://gitlab.com/waylon531/tf2plug"
   }
 ]
