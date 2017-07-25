@@ -908,7 +908,7 @@
     "web": "https://github.com/PMunch/gtkgenui"
   },
   {
-    "name": "nim-persistent-vector",
+    "name": "persvector",
     "url": "https://github.com/PMunch/nim-persistent-vector",
     "method": "git",
     "tags": [
@@ -921,7 +921,7 @@
     "web": "https://github.com/PMunch/nim-persistent-vector"
   },
   {
-    "name": "nim-pcap",
+    "name": "pcap",
     "url": "https://github.com/PMunch/nim-pcap",
     "method": "git",
     "tags": [
