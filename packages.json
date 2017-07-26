@@ -6862,5 +6862,19 @@
     "description": "A mod manager for TF2",
     "license": "GPLv3",
     "web": "https://gitlab.com/waylon531/tf2plug"
+  },
+  {
+    "name": "godot",
+    "url": "https://github.com/pragmagic/godot-nim",
+    "method": "git",
+    "tags": [
+      "game",
+      "engine",
+      "2d",
+      "3d"
+    ],
+    "description": "Nim bindings for Godot Engine",
+    "license": "MIT",
+    "web": "https://github.com/pragmagic/godot-nim"
   }
 ]
