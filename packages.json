@@ -6825,5 +6825,19 @@
     "description": "A mod manager for TF2",
     "license": "GPLv3",
     "web": "https://gitlab.com/waylon531/tf2plug"
+  },
+  {
+    "name": "libgit2",
+    "url": "https://github.com/barcharcraz/libgit2-nim",
+    "method": "git",
+    "tags": [
+      "git",
+      "libgit2",
+      "git2",
+      "wrapper"
+    ],
+    "description": "Libgit2 low level wrapper",
+    "license": "MIT",
+    "web": "https://github.com/barcharcraz/libgit2-nim"
   }
 ]
