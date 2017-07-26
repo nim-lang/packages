@@ -896,6 +896,43 @@
     "web": "https://github.com/PMunch/nimcr"
   },
   {
+    "name": "gtkgenui",
+    "url": "https://github.com/PMunch/gtkgenui",
+    "method": "git",
+    "tags": [
+      "gtk2",
+      "utility"
+    ],
+    "description": "This module provides the genui macro for the Gtk2 toolkit. Genui is a way to specify graphical interfaces in a hierarchical way to more clearly show the structure of the interface as well as simplifying the code.",
+    "license": "MIT",
+    "web": "https://github.com/PMunch/gtkgenui"
+  },
+  {
+    "name": "persvector",
+    "url": "https://github.com/PMunch/nim-persistent-vector",
+    "method": "git",
+    "tags": [
+      "datastructures",
+      "immutable",
+      "persistent"
+    ],
+    "description": "This is an implementation of Clojures persistent vectors in Nim.",
+    "license": "MIT",
+    "web": "https://github.com/PMunch/nim-persistent-vector"
+  },
+  {
+    "name": "pcap",
+    "url": "https://github.com/PMunch/nim-pcap",
+    "method": "git",
+    "tags": [
+      "pcap",
+      "fileformats"
+    ],
+    "description": "Tiny pure Nim library to read PCAP files used by TcpDump/WinDump/Wireshark.",
+    "license": "MIT",
+    "web": "https://github.com/PMunch/nim-pcap"
+  },
+  {
     "name": "sdl2_nim",
     "url": "https://github.com/Vladar4/sdl2_nim",
     "method": "git",
