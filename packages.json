@@ -6876,5 +6876,19 @@
     "description": "Nim bindings for Godot Engine",
     "license": "MIT",
     "web": "https://github.com/pragmagic/godot-nim"
+  },
+  {
+    "name": "vkapi",
+    "url": "https://github.com/cyberlis/nimvkapi",
+    "method": "git",
+    "tags": [
+      "wrapper",
+      "vkontakte",
+      "vk",
+      "library"
+    ],
+    "description": "A wrapper for the vk.com API (russian social network)",
+    "license": "MIT",
+    "web": "https://github.com/cyberlis/nimvkapi"
   }
 ]
