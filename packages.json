@@ -6862,5 +6862,19 @@
     "description": "A mod manager for TF2",
     "license": "GPLv3",
     "web": "https://gitlab.com/waylon531/tf2plug"
+  },
+  {
+    "name": "vkapi",
+    "url": "https://github.com/cyberlis/nimvkapi",
+    "method": "git",
+    "tags": [
+      "wrapper",
+      "vkontakte",
+      "vk",
+      "library"
+    ],
+    "description": "A wrapper for the vk.com API (russian social network)",
+    "license": "MIT",
+    "web": "https://github.com/cyberlis/nimvkapi"
   }
 ]
