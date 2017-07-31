@@ -6868,13 +6868,42 @@
     "url": "https://github.com/stefansalewski/oldgtk3",
     "method": "git",
     "tags": [
-      "library,",
-      "gtk,",
-      "wrapper,",
+      "library",
+      "gtk",
+      "wrapper",
       "gui"
     ],
     "description": "Low level bindings for GTK3 related libraries",
     "license": "MIT",
     "web": "https://github.com/stefansalewski/oldgtk3"
+  },
+  {
+    "name": "godot",
+    "url": "https://github.com/pragmagic/godot-nim",
+    "method": "git",
+    "tags": [
+      "game",
+      "engine",
+      "2d",
+      "3d"
+    ],
+    "description": "Nim bindings for Godot Engine",
+    "license": "MIT",
+    "web": "https://github.com/pragmagic/godot-nim"
+  },
+  {
+    "name": "vkapi",
+    "url": "https://github.com/TiberiumN/nimvkapi",
+    "method": "git",
+    "tags": [
+      "wrapper",
+      "vkontakte",
+      "vk",
+      "library",
+      "api"
+    ],
+    "description": "A wrapper for the vk.com API (russian social network)",
+    "license": "MIT",
+    "web": "https://github.com/TiberiumN/nimvkapi"
   }
 ]
