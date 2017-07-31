@@ -6879,16 +6879,17 @@
   },
   {
     "name": "vkapi",
-    "url": "https://github.com/cyberlis/nimvkapi",
+    "url": "https://github.com/TiberiumN/nimvkapi",
     "method": "git",
     "tags": [
       "wrapper",
       "vkontakte",
       "vk",
-      "library"
+      "library",
+      "api"
     ],
     "description": "A wrapper for the vk.com API (russian social network)",
     "license": "MIT",
-    "web": "https://github.com/cyberlis/nimvkapi"
+    "web": "https://github.com/TiberiumN/nimvkapi"
   }
 ]
