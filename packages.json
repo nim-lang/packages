@@ -6905,5 +6905,20 @@
     "description": "A wrapper for the vk.com API (russian social network)",
     "license": "MIT",
     "web": "https://github.com/TiberiumN/nimvkapi"
-  }
+  },
+  {
+    "name": "slacklib",
+    "url": "https://github.com/ThomasTJdev/nim_slacklib",
+    "method": "git",
+    "tags": [
+      "library",
+      "wrapper",
+      "slack",
+      "slackapp",
+      "api"
+    ],
+    "description": "Library for working with a slack app or sending messages to a slack channel (slack.com)",
+    "license": "MIT",
+    "web": "https://github.com/ThomasTJdev/nim_slacklib"
+  } 
 ]
