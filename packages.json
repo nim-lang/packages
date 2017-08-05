@@ -6920,5 +6920,18 @@
     "description": "Library for working with a slack app or sending messages to a slack channel (slack.com)",
     "license": "MIT",
     "web": "https://github.com/ThomasTJdev/nim_slacklib"
-  } 
+  },
+  {
+    "name": "calendar",
+    "url": "https://github.com/skilchen/calendar",
+    "method": "git",
+    "tags": [
+      "calendar",
+      "dates",
+      "library"
+    ],
+    "description": "calendar.py from Pythons stdlib translated to Nim",
+    "license": "MIT",
+    "web": "https://docs.python.org/2/library/calendar.html"
+  }  
 ]
