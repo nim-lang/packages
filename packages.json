@@ -896,6 +896,43 @@
     "web": "https://github.com/PMunch/nimcr"
   },
   {
+    "name": "gtkgenui",
+    "url": "https://github.com/PMunch/gtkgenui",
+    "method": "git",
+    "tags": [
+      "gtk2",
+      "utility"
+    ],
+    "description": "This module provides the genui macro for the Gtk2 toolkit. Genui is a way to specify graphical interfaces in a hierarchical way to more clearly show the structure of the interface as well as simplifying the code.",
+    "license": "MIT",
+    "web": "https://github.com/PMunch/gtkgenui"
+  },
+  {
+    "name": "persvector",
+    "url": "https://github.com/PMunch/nim-persistent-vector",
+    "method": "git",
+    "tags": [
+      "datastructures",
+      "immutable",
+      "persistent"
+    ],
+    "description": "This is an implementation of Clojures persistent vectors in Nim.",
+    "license": "MIT",
+    "web": "https://github.com/PMunch/nim-persistent-vector"
+  },
+  {
+    "name": "pcap",
+    "url": "https://github.com/PMunch/nim-pcap",
+    "method": "git",
+    "tags": [
+      "pcap",
+      "fileformats"
+    ],
+    "description": "Tiny pure Nim library to read PCAP files used by TcpDump/WinDump/Wireshark.",
+    "license": "MIT",
+    "web": "https://github.com/PMunch/nim-pcap"
+  },
+  {
     "name": "sdl2_nim",
     "url": "https://github.com/Vladar4/sdl2_nim",
     "method": "git",
@@ -1593,17 +1630,21 @@
   },
   {
     "name": "monad",
-    "url": "https://github.com/superfunc/monad",
+    "alias": "maybe"
+  },
+  {
+    "name": "maybe",
+    "url": "https://github.com/superfunc/maybe",
     "method": "git",
     "tags": [
       "library",
       "functional",
-      "monad",
-      "functor"
+      "optional",
+      "monad"
     ],
-    "description": "basic monadic data types for Nim",
+    "description": "basic monadic maybe type for Nim",
     "license": "BSD3",
-    "web": "https://github.com/superfunc/monad"
+    "web": "https://github.com/superfunc/maybe"
   },
   {
     "name": "eternity",
@@ -6514,6 +6555,21 @@
     "web": "https://github.com/adelq/ulid"
   },
   {
+    "name": "osureplay",
+    "url": "https://github.com/TiberiumN/nim-osureplay",
+    "method": "git",
+    "tags": [
+      "library",
+      "osu!",
+      "parser",
+      "osugame",
+      "replay"
+    ],
+    "description": "osu! replay parser",
+    "license": "MIT",
+    "web": "https://github.com/TiberiumN/nim-osureplay"
+  },
+  {
     "name": "tiger",
     "url": "https://github.com/ehmry/tiger",
     "method": "git",
@@ -6678,5 +6734,191 @@
     "description": "nimcalcal - PyCalCal translated to Nim, Calendrical Calculations from Reingold/Dershowitz",
     "license": "MIT",
     "web": "http://www3.cs.stonybrook.edu/~algorith/implement/reingold/implement.shtml"
-  }
+  },
+  {
+    "name": "currying",
+    "url": "https://github.com/t8m8/currying",
+    "method": "git",
+    "tags": [
+      "library",
+      "functional",
+      "currying"
+    ],
+    "description": "Currying library for Nim",
+    "license": "MIT",
+    "web": "https://github.com/t8m8/currying"
+  },
+  {
+    "name": "rect_packer",
+    "url": "https://github.com/yglukhov/rect_packer",
+    "method": "git",
+    "tags": [
+      "library",
+      "geometry",
+      "packing"
+    ],
+    "description": "Pack rects into bigger rect",
+    "license": "MIT",
+    "web": "https://github.com/yglukhov/rect_packer"
+  },
+  {
+    "name": "gintro",
+    "url": "https://github.com/stefansalewski/gintro",
+    "method": "git",
+    "tags": [
+      "library",
+      "gtk",
+      "wrapper",
+      "gui"
+    ],
+    "description": "High level GObject-Introspection based GTK3 bindings",
+    "license": "MIT",
+    "web": "https://github.com/stefansalewski/gintro"
+  },
+  {
+    "name": "arraymancer",
+    "url": "https://github.com/mratsim/Arraymancer",
+    "method": "git",
+    "tags": [
+      "vector",
+      "matrix",
+      "array",
+      "ndarray",
+      "multidimensional-array",
+      "linear-algebra",
+      "tensor"
+    ],
+    "description": "A tensor (multidimensional array) library for Nim",
+    "license": "Apache License 2.0",
+    "web": "https://mratsim.github.io/Arraymancer/"
+  },
+  {
+    "name": "sha3",
+    "url": "https://bitbucket.org/mihailp/sha3/",
+    "method": "hg",
+    "tags": [
+      "crypto",
+      "cryptography",
+      "hash",
+      "security"
+    ],
+    "description": "sha3 - cryptographic hash function",
+    "license": "CC0",
+    "web": "https://bitbucket.org/mihailp/sha3/"
+  },
+  {
+    "name": "coalesce",
+    "url": "https://github.com/piedar/coalesce",
+    "method": "git",
+    "tags": [
+      "nil",
+      "null",
+      "options",
+      "operator"
+    ],
+    "description": "A nil coalescing operator ?? for Nim",
+    "license": "MIT",
+    "web": "https://github.com/piedar/coalesce"
+  },
+  {
+    "name": "asyncmysql",
+    "url": "https://github.com/tulayang/asyncmysql",
+    "method": "git",
+    "tags": [
+      "mysql",
+      "async",
+      "asynchronous",
+      "parser"
+    ],
+    "description": "Asynchronous MySQL connector written in pure Nim",
+    "license": "MIT",
+    "web": "https://github.com/tulayang/asyncmysql"
+  },
+  {
+    "name": "cassandra",
+    "url": "https://github.com/yglukhov/cassandra",
+    "method": "git",
+    "tags": [
+      "cassandra",
+      "database",
+      "wrapper",
+      "bindings",
+      "driver"
+    ],
+    "description": "Bindings to Cassandra DB driver",
+    "license": "MIT",
+    "web": "https://github.com/yglukhov/cassandra"
+  },
+  {
+    "name": "tf2plug",
+    "url": "https://gitlab.com/waylon531/tf2plug",
+    "method": "git",
+    "tags": [
+      "app",
+      "binary",
+      "tool",
+      "tf2"
+    ],
+    "description": "A mod manager for TF2",
+    "license": "GPLv3",
+    "web": "https://gitlab.com/waylon531/tf2plug"
+  },
+  {
+    "name": "oldgtk3",
+    "url": "https://github.com/stefansalewski/oldgtk3",
+    "method": "git",
+    "tags": [
+      "library",
+      "gtk",
+      "wrapper",
+      "gui"
+    ],
+    "description": "Low level bindings for GTK3 related libraries",
+    "license": "MIT",
+    "web": "https://github.com/stefansalewski/oldgtk3"
+  },
+  {
+    "name": "godot",
+    "url": "https://github.com/pragmagic/godot-nim",
+    "method": "git",
+    "tags": [
+      "game",
+      "engine",
+      "2d",
+      "3d"
+    ],
+    "description": "Nim bindings for Godot Engine",
+    "license": "MIT",
+    "web": "https://github.com/pragmagic/godot-nim"
+  },
+  {
+    "name": "vkapi",
+    "url": "https://github.com/TiberiumN/nimvkapi",
+    "method": "git",
+    "tags": [
+      "wrapper",
+      "vkontakte",
+      "vk",
+      "library",
+      "api"
+    ],
+    "description": "A wrapper for the vk.com API (russian social network)",
+    "license": "MIT",
+    "web": "https://github.com/TiberiumN/nimvkapi"
+  },
+  {
+    "name": "slacklib",
+    "url": "https://github.com/ThomasTJdev/nim_slacklib",
+    "method": "git",
+    "tags": [
+      "library",
+      "wrapper",
+      "slack",
+      "slackapp",
+      "api"
+    ],
+    "description": "Library for working with a slack app or sending messages to a slack channel (slack.com)",
+    "license": "MIT",
+    "web": "https://github.com/ThomasTJdev/nim_slacklib"
+  } 
 ]

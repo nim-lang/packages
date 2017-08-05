@@ -73,6 +73,12 @@ proc canFetchNimbleRepository(name: string, urlJson: JsonNode): bool =
       echo "W: Another error attempting to request: ", url
       echo "  Error was: ", getCurrentExceptionMsg()
 
+proc verifyAlias(pdata: JsonNode, result: var int) =
+  if not pdata.hasKey("name"):
+    echo "E: missing alias' package name"
+    result.inc()
+
+  # TODO: Verify that 'alias' points to a known package.
 
 proc check(): int =
   var
@@ -88,45 +94,48 @@ proc check(): int =
   for pdata in pkg_list:
     name = if pdata.hasKey("name"): pdata["name"].str else: nil
 
-    if name.isNil:
-      echo "E: missing package name"
-      result.inc()
-
-    elif not pdata.hasKey("method"):
-      echo "E: ", name, " has no method"
-      result.inc()
-
-    elif not (pdata["method"].str in VCS_TYPES):
-      echo "E: ", name, " has an unknown method: ", pdata["method"].str
-      result.inc()
-
-    elif not pdata.hasKey("url"):
-      echo "E: ", name, " has no URL"
-      result.inc()
-
-    elif pdata.hasKey("web") and not canFetchNimbleRepository(name, pdata["web"]):
-      result.inc()
-
-    elif not pdata.hasKey("tags"):
-      echo "E: ", name, " has no tags"
-      result.inc()
-
-    elif not pdata.hasKey("description"):
-      echo "E: ", name, " has no description"
-      result.inc()
-
-    elif not pdata.hasKey("license"):
-      echo "E: ", name, " has no license"
-      result.inc()
-
-    elif pdata["url"].str.normalize.startsWith("git://github.com/"):
-      echo "E: ", name, " has an insecure git:// URL instead of https://"
-      result.inc()
-
+    if pdata.hasKey("alias"):
+      verifyAlias(pdata, result)
     else:
-      # Other warnings should go here
-      if not (pdata["license"].str in LICENSES):
-        echo "W: ", name, " has an unexpected license: ", pdata["license"]
+      if name.isNil:
+        echo "E: missing package name"
+        result.inc()
+
+      elif not pdata.hasKey("method"):
+        echo "E: ", name, " has no method"
+        result.inc()
+
+      elif not (pdata["method"].str in VCS_TYPES):
+        echo "E: ", name, " has an unknown method: ", pdata["method"].str
+        result.inc()
+
+      elif not pdata.hasKey("url"):
+        echo "E: ", name, " has no URL"
+        result.inc()
+
+      elif pdata.hasKey("web") and not canFetchNimbleRepository(name, pdata["web"]):
+        result.inc()
+
+      elif not pdata.hasKey("tags"):
+        echo "E: ", name, " has no tags"
+        result.inc()
+
+      elif not pdata.hasKey("description"):
+        echo "E: ", name, " has no description"
+        result.inc()
+
+      elif not pdata.hasKey("license"):
+        echo "E: ", name, " has no license"
+        result.inc()
+
+      elif pdata["url"].str.normalize.startsWith("git://github.com/"):
+        echo "E: ", name, " has an insecure git:// URL instead of https://"
+        result.inc()
+
+      else:
+        # Other warnings should go here
+        if not (pdata["license"].str in LICENSES):
+          echo "W: ", name, " has an unexpected license: ", pdata["license"]
 
     if name.normalize notin names:
       names.incl(name.normalize)
