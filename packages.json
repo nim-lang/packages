@@ -6948,5 +6948,16 @@
     "description": "Wrapper that implements some of wiringPi's function for controlling a Raspberry Pi",
     "license": "MIT",
     "web": "https://github.com/ThomasTJdev/nim_wiringPiNim"
+  },
+  {
+    "name": "redux",
+    "url": "https://github.com/pragmagic/redux.nim",
+    "method": "git",
+    "tags": [
+      "redux"
+    ],
+    "description": "Predictable state container.",
+    "license": "MIT",
+    "web": "https://github.com/pragmagic/redux.nim"
   }
 ]
