@@ -6933,5 +6933,16 @@
     "description": "calendar.py from Pythons stdlib translated to Nim",
     "license": "MIT",
     "web": "https://docs.python.org/2/library/calendar.html"
-  }  
+  },
+  {
+    "name": "redux",
+    "url": "https://github.com/pragmagic/redux.nim",
+    "method": "git",
+    "tags": [
+      "redux"
+    ],
+    "description": "Predictable state container.",
+    "license": "MIT",
+    "web": "https://github.com/pragmagic/redux.nim"
+  }
 ]
