@@ -1665,7 +1665,7 @@
   },
   {
     "name": "gmp",
-    "url": "https://github.com/FedeOmoto/nim-gmp",
+    "url": "https://github.com/subsetpark/nim-gmp",
     "method": "git",
     "tags": [
       "library",
@@ -1675,7 +1675,7 @@
     ],
     "description": "wrapper for the GNU multiple precision arithmetic library (GMP)",
     "license": "LGPLv3 or GPLv2",
-    "web": "https://github.com/FedeOmoto/nim-gmp"
+    "web": "https://github.com/subsetpark/nim-gmp"
   },
   {
     "name": "ludens",
