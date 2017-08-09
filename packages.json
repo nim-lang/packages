@@ -6963,5 +6963,18 @@
     "description": "Predictable state container.",
     "license": "MIT",
     "web": "https://github.com/pragmagic/redux.nim"
+  },
+  {
+    "name": "skEasing",
+    "url": "https://github.com/Skrylar/skEasing",
+    "method": "git",
+    "tags": [
+      "curves",
+      "math",
+      "animation"
+    ],
+    "description": "A collection of easing curves for animation purposes.",
+    "license": "BSD",
+    "web": "https://github.com/Skrylar/skEasing"
   }
 ]
