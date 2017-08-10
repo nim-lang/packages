@@ -3374,8 +3374,8 @@
     "web": "https://github.com/rogercloud/nim-rpc"
   },
     {
-    "name": "nimrpc-milis",
-    "url": "https://github.com/milisarge/nimrpc-milis",
+    "name": "nimrpc_milis",
+    "url": "https://github.com/milisarge/nimrpc_milis",
     "method": "git",
     "tags": [
       "msgpack",
@@ -3385,7 +3385,7 @@
     ],
     "description": "RPC implementation for Nim based on msgpack4nim",
     "license": "MIT",
-    "web": "https://github.com/milisarge/nimrpc-milis"
+    "web": "https://github.com/milisarge/nimrpc_milis"
   },
   {
     "name": "asyncevents",
