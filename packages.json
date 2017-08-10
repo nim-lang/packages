@@ -6976,5 +6976,16 @@
     "description": "A collection of easing curves for animation purposes.",
     "license": "BSD",
     "web": "https://github.com/Skrylar/skEasing"
+  },
+  {
+    "name": "nimble",
+    "url": "https://github.com/nim-lang/nimble",
+    "method": "git",
+    "tags": [
+      "test"
+    ],
+    "description": "Nim package manager.",
+    "license": "BSD",
+    "web": "https://github.com/nim-lang/nimble"
   }
 ]
