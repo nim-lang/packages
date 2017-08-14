@@ -3373,7 +3373,7 @@
     "license": "MIT",
     "web": "https://github.com/rogercloud/nim-rpc"
   },
-    {
+  {
     "name": "nimrpc_milis",
     "url": "https://github.com/milisarge/nimrpc_milis",
     "method": "git",
@@ -7003,5 +7003,17 @@
     "description": "Library for querying HTML using CSS-selectors, like JavaScripts document.querySelector",
     "license": "MIT",
     "web": "https://github.com/GULPF/nimquery"
+  },
+  {
+    "name": "usha",
+    "url": "https://github.com/subsetpark/untitled-shell-history-application",
+    "method": "git",
+    "tags": [
+      "shell",
+      "utility"
+    ],
+    "description": "untitled shell history application",
+    "license": "MIT",
+    "web": "https://github.com/subsetpark/untitled-shell-history-application"
   }
 ]
