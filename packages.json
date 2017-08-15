@@ -5991,6 +5991,10 @@
     "web": "http://dpdk.org/"
   },
   {
+    "name": "libserialport",
+    "alias": "serial",
+  },
+  {
     "name": "serial",
     "url": "https://github.com/euantorano/serial.nim",
     "method": "git",
