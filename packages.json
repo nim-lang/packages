@@ -7030,5 +7030,19 @@
     "description": "Libgit2 low level wrapper",
     "license": "MIT",
     "web": "https://github.com/barcharcraz/libgit2-nim"
-  }
+  },
+  {
+    "name": "multicast",
+    "url": "https://github.com/enthus1ast/nimMulticast",
+    "method": "git",
+    "tags": [
+      "multicast",
+      "udp",
+      "socket",
+      "net"
+    ],
+    "description": "proc to join (and leave) a multicast group",
+    "license": "MIT",
+    "web": "https://github.com/enthus1ast/nimMulticast"
+  }  
 ]
