@@ -6845,8 +6845,7 @@
     "tags": [
       "mysql",
       "async",
-      "asynchronous",
-      "parser"
+      "asynchronous"
     ],
     "description": "Asynchronous MySQL connector written in pure Nim",
     "license": "MIT",
@@ -7044,5 +7043,18 @@
     "description": "proc to join (and leave) a multicast group",
     "license": "MIT",
     "web": "https://github.com/enthus1ast/nimMulticast"
-  }  
+  },
+  {
+    "name": "mysqlparser",
+    "url": "https://github.com/tulayang/mysqlparser.git",
+    "method": "git",
+    "tags": [
+      "mysql",
+      "protocol",
+      "parser"
+    ],
+    "description": "An efficient packet parser for MySQL Client/Server Protocol. Help you to write Mysql communication in either BLOCKIONG-IO or NON-BLOCKING-IO.",
+    "license": "MIT",
+    "web": "https://github.com/tulayang/mysqlparser"
+  }
 ]
