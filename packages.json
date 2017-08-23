@@ -5992,7 +5992,7 @@
   },
   {
     "name": "libserialport",
-    "alias": "serial",
+    "alias": "serial"
   },
   {
     "name": "serial",
@@ -7061,5 +7061,21 @@
     "description": "An efficient packet parser for MySQL Client/Server Protocol. Help you to write Mysql communication in either BLOCKIONG-IO or NON-BLOCKING-IO.",
     "license": "MIT",
     "web": "https://github.com/tulayang/mysqlparser"
+  },
+  {
+    "name": "fugitive",
+    "url": "https://github.com/citycide/fugitive",
+    "method": "git",
+    "tags": [
+      "git",
+      "github",
+      "cli",
+      "extras",
+      "utility",
+      "tool"
+    ],
+    "description": "Simple command line tool to make git more intuitive, along with useful GitHub addons.",
+    "license": "MIT",
+    "web": "https://github.com/citycide/fugitive"
   }
 ]
