@@ -939,8 +939,8 @@
     "tags": [
       "drawile",
       "terminal",
-			"graphics"
-		],
+      "graphics"
+    ],
     "description": "Drawing in terminal with Unicode Braille characters.",
     "license": "MIT",
     "web": "https://github.com/PMunch/drawille-nim"
