@@ -7101,8 +7101,22 @@
       "dbg",
       "debug"
     ],
-    "description": "dbg template; in debug echo" ,
+    "description": "dbg template; in debug echo",
     "license": "MIT",
     "web": "https://github.com/enthus1ast/nimDbg"
-  }  
+  },
+  {
+    "name": "pylib",
+    "url": "https://github.com/Yardanico/nimpylib",
+    "method": "git",
+    "tags": [
+      "python",
+      "compatibility",
+      "library",
+      "pure"
+    ],
+    "description": "Nim library with python-like functions and operators",
+    "license": "MIT",
+    "web": "https://github.com/Yardanico/nimpylib"
+  }
 ]
