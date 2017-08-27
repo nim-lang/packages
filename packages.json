@@ -6328,7 +6328,7 @@
   },
   {
     "name": "mathexpr",
-    "url": "https://github.com/TiberiumN/nim-mathexpr",
+    "url": "https://github.com/Yardanico/nim-mathexpr",
     "method": "git",
     "tags": [
       "math",
@@ -6337,7 +6337,7 @@
     ],
     "description": "MathExpr - wrapper around TinyExpr C library",
     "license": "MIT",
-    "web": "https://github.com/TiberiumN/nim-mathexpr"
+    "web": "https://github.com/Yardanico/nim-mathexpr"
   },
   {
     "name": "frag",
@@ -6592,7 +6592,7 @@
   },
   {
     "name": "osureplay",
-    "url": "https://github.com/TiberiumN/nim-osureplay",
+    "url": "https://github.com/Yardanico/nim-osureplay",
     "method": "git",
     "tags": [
       "library",
@@ -6603,7 +6603,7 @@
     ],
     "description": "osu! replay parser",
     "license": "MIT",
-    "web": "https://github.com/TiberiumN/nim-osureplay"
+    "web": "https://github.com/Yardanico/nim-osureplay"
   },
   {
     "name": "tiger",
@@ -6928,7 +6928,7 @@
   },
   {
     "name": "vkapi",
-    "url": "https://github.com/TiberiumN/nimvkapi",
+    "url": "https://github.com/Yardanico/nimvkapi",
     "method": "git",
     "tags": [
       "wrapper",
@@ -6939,7 +6939,7 @@
     ],
     "description": "A wrapper for the vk.com API (russian social network)",
     "license": "MIT",
-    "web": "https://github.com/TiberiumN/nimvkapi"
+    "web": "https://github.com/Yardanico/nimvkapi"
   },
   {
     "name": "slacklib",
