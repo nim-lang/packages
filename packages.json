@@ -7124,8 +7124,8 @@
     "url": "https://github.com/nitely/nim-graphemes",
     "method": "git",
     "tags": [
-      "graphemes,",
-      "grapheme-cluster,",
+      "graphemes",
+      "grapheme-cluster",
       "unicode"
     ],
     "description": "Grapheme aware string handling (Unicode tr29)",
