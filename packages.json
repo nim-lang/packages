@@ -7118,5 +7118,18 @@
     "description": "Nim library with python-like functions and operators",
     "license": "MIT",
     "web": "https://github.com/Yardanico/nimpylib"
+  },
+  {
+    "name": "graphemes",
+    "url": "https://github.com/nitely/nim-graphemes",
+    "method": "git",
+    "tags": [
+      "graphemes,",
+      "grapheme-cluster,",
+      "unicode"
+    ],
+    "description": "Grapheme aware string handling (Unicode tr29)",
+    "license": "MIT",
+    "web": "https://github.com/nitely/nim-graphemes"
   }
 ]
