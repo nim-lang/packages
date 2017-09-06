@@ -7131,5 +7131,17 @@
     "description": "Grapheme aware string handling (Unicode tr29)",
     "license": "MIT",
     "web": "https://github.com/nitely/nim-graphemes"
+  },
+  {
+    "name": "rfc3339",
+    "url": "http://raziel.local:3000/skrylar/rfc3339",
+    "method": "git",
+    "tags": [
+      "rfc3339",
+      "datetime"
+    ],
+    "description": "RFC3339 (dates and times) implementation for Nim.",
+    "license": "BSD",
+    "web": "http://raziel.local:3000/skrylar/rfc3339"
   }
 ]
