@@ -7131,5 +7131,18 @@
     "description": "Grapheme aware string handling (Unicode tr29)",
     "license": "MIT",
     "web": "https://github.com/nitely/nim-graphemes"
+  },
+  {
+    "name": "monero",
+    "url": "https://github.com/ehmry/nim-monero",
+    "method": "git",
+    "tags": [
+      "monero",
+      "cryptonote",
+      "vanity"
+    ],
+    "description": "Libraries and utilites related to Monero, a CryptoNote cryptocurrency.",
+    "license": "MIT",
+    "web": "https://github.com/ehmry/nim-monero"
   }
 ]
