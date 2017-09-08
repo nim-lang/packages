@@ -7134,7 +7134,7 @@
   },
   {
     "name": "rfc3339",
-    "url": "http://raziel.local:3000/skrylar/rfc3339",
+    "url": "https://github.com/Skrylar/rfc3339",
     "method": "git",
     "tags": [
       "rfc3339",
