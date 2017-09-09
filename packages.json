@@ -7133,6 +7133,18 @@
     "web": "https://github.com/nitely/nim-graphemes"
   },
   {
+    "name": "rfc3339",
+    "url": "https://github.com/Skrylar/rfc3339",
+    "method": "git",
+    "tags": [
+      "rfc3339",
+      "datetime"
+    ],
+    "description": "RFC3339 (dates and times) implementation for Nim.",
+    "license": "BSD",
+    "web": "https://github.com/Skrylar/rfc3339"
+  },
+  {
     "name": "monero",
     "url": "https://github.com/ehmry/nim-monero",
     "method": "git",
