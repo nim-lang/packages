@@ -7156,5 +7156,19 @@
     "description": "Libraries and utilites related to Monero, a CryptoNote cryptocurrency.",
     "license": "MIT",
     "web": "https://github.com/ehmry/nim-monero"
+  },
+  {
+    "name": "presto",
+    "url": "https://github.com/Bennyelg/nimPresto",
+    "method": "git",
+    "tags": [
+      "prestodb",
+      "connector",
+      "database",
+      "nim-lang"
+    ],
+    "description": "prestodb simple connector",
+    "license": "MIT",
+    "web": "https://github.com/Bennyelg/nimPresto"
   }
 ]
