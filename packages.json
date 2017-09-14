@@ -7170,5 +7170,23 @@
     "description": "prestodb simple connector",
     "license": "MIT",
     "web": "https://github.com/Bennyelg/nimPresto"
+  },
+  {
+    "name": "csvql",
+    "url": "https://github.com/Bennyelg/csvql",
+    "method": "git",
+    "tags": [
+      "csv",
+      "read",
+      "ansisql",
+      "query",
+      "database",
+      "files",
+      "nim",
+      "nim-lang"
+    ],
+    "description": "csvql.",
+    "license": "MIT",
+    "web": "https://github.com/Bennyelg/csvql"
   }
 ]
