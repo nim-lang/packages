@@ -7170,5 +7170,9 @@
     "description": "prestodb simple connector",
     "license": "MIT",
     "web": "https://github.com/Bennyelg/nimPresto"
-  }
+  },
+  {
+    "name": "db_presto",
+    "alias": "presto"
+  },
 ]
