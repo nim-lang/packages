@@ -7170,5 +7170,16 @@
     "description": "prestodb simple connector",
     "license": "MIT",
     "web": "https://github.com/Bennyelg/nimPresto"
+  },
+  {
+    "name": "nimbomb",
+    "url": "https://github.com/Tyler-Yocolano/nimbomb",
+    "method": "git",
+    "tags": [
+      "giant bomb"
+    ],
+    "description": "A GiantBomb-wiki wrapper for nim",
+    "license": "MIT",
+    "web": "https://github.com/Tyler-Yocolano/nimbomb"
   }
 ]
