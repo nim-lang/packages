@@ -7235,5 +7235,19 @@
     "description": "An implementation of the tabu search heuristic in Nim.",
     "license": "BSD-3",
     "web": "https://github.com/makingspace/syphus-nim"
-  }
+  },
+  {
+    "name": "analytics",
+    "url": "https://github.com/dom96/analytics",
+    "method": "git",
+    "tags": [
+      "google",
+      "telemetry",
+      "statistics"
+    ],
+    "description": "Allows statistics to be sent to and recorded in Google Analytics.",
+    "license": "MIT",
+    "web": "https://github.com/dom96/analytics"
+  },
+  
 ]
