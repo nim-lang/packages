@@ -7248,6 +7248,5 @@
     "description": "Allows statistics to be sent to and recorded in Google Analytics.",
     "license": "MIT",
     "web": "https://github.com/dom96/analytics"
-  },
-  
+  }
 ]
