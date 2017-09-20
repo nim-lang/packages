@@ -7223,5 +7223,17 @@
     "description": "Design by Contract (DbC) library with minimal runtime.",
     "license": "MIT",
     "web": "https://github.com/Udiknedormin/NimContracts"
+  },
+  {
+    "name": "syphus",
+    "url": "https://github.com/makingspace/syphus-nim",
+    "method": "git",
+    "tags": [
+      "optimization",
+      "tabu"
+    ],
+    "description": "An implementation of the tabu search heuristic in Nim.",
+    "license": "BSD-3",
+    "web": "https://github.com/makingspace/syphus-nim"
   }
 ]
