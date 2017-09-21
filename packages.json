@@ -7158,14 +7158,13 @@
     "web": "https://github.com/ehmry/nim-monero"
   },
   {
-    "name": "presto",
+    "name": "db_presto",
     "url": "https://github.com/Bennyelg/nimPresto",
     "method": "git",
     "tags": [
       "prestodb",
       "connector",
-      "database",
-      "nim-lang"
+      "database"
     ],
     "description": "prestodb simple connector",
     "license": "MIT",
