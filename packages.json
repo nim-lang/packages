@@ -7247,5 +7247,18 @@
     "description": "Allows statistics to be sent to and recorded in Google Analytics.",
     "license": "MIT",
     "web": "https://github.com/dom96/analytics"
+  },
+  {
+    "name": "arraymancer_vision",
+    "url": "https://github.com/edubart/arraymancer-vision",
+    "method": "git",
+    "tags": [
+      "arraymancer",
+      "image",
+      "vision"
+    ],
+    "description": "Image transformation and visualization utilities for arraymancer",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/edubart/arraymancer-vision"
   }
 ]
