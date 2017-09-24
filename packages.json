@@ -7281,7 +7281,11 @@
     "url": "https://github.com/IoTone/huenim",
     "method": "git",
     "tags": [
-      "hue,philips,iot,lighting"
+      "hue",
+      "iot",
+      "lighting",
+      "philips",
+      "library"
     ],
     "description": "Huenim",
     "license": "MIT",
