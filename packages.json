@@ -7275,5 +7275,16 @@
     "description": "Google Play APK Uploader",
     "license": "MIT",
     "web": "https://github.com/yglukhov/gplay"
+  },
+  {
+    "name": "huenim",
+    "url": "https://github.com/IoTone/huenim",
+    "method": "git",
+    "tags": [
+      "hue,philips,iot,lighting"
+    ],
+    "description": "Huenim",
+    "license": "MIT",
+    "web": "https://github.com/IoTone/huenim"
   }
 ]
