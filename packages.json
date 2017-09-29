@@ -7307,7 +7307,8 @@
     "url": "https://github.com/JeffersonLab/ensem",
     "method": "git",
     "tags": [
-      "yes"
+      "jackknife",
+      "statistics",
     ],
     "description": "Support for ensemble file format and arithmetic using jackknife/bootstrap propagation of errors",
     "license": "BSD3",
