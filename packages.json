@@ -7296,7 +7296,9 @@
     "url": "https://github.com/JeffersonLab/drand48",
     "method": "git",
     "tags": [
-      "random number generator"
+      "random",
+      "number",
+      "generator"
     ],
     "description": "Nim implementation of the standard unix drand48 pseudo random number generator",
     "license": "BSD3",
