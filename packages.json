@@ -7290,5 +7290,16 @@
     "description": "Huenim",
     "license": "MIT",
     "web": "https://github.com/IoTone/huenim"
-  }
+  },
+  {
+    "name": "drand48",
+    "url": "https://github.com/JeffersonLab/drand48",
+    "method": "git",
+    "tags": [
+      "random number generator"
+    ],
+    "description": "Nim implementation of the standard unix drand48 pseudo random number generator",
+    "license": "BSD3",
+    "web": "https://github.com/JeffersonLab/drand48"
+  },
 ]
