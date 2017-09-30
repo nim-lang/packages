@@ -2583,7 +2583,7 @@
   },
   {
     "name": "struct",
-    "url": "https://github.com/rgv151/struct.nim",
+    "url": "https://github.com/OpenSystemsLab/struct.nim",
     "method": "git",
     "tags": [
       "struct",
@@ -2594,7 +2594,7 @@
     ],
     "description": "Python-like 'struct' for Nim",
     "license": "MIT",
-    "web": "https://github.com/rgv151/struct.nim"
+    "web": "https://github.com/OpenSystemsLab/struct.nim"
   },
   {
     "name": "uri2",
@@ -2611,7 +2611,7 @@
   },
   {
     "name": "hmac",
-    "url": "https://github.com/rgv151/hmac.nim",
+    "url": "https://github.com/OpenSystemsLab/hmac.nim",
     "method": "git",
     "tags": [
       "hmac",
@@ -2622,7 +2622,7 @@
     ],
     "description": "HMAC-SHA1 and HMAC-MD5 hashing in Nim",
     "license": "MIT",
-    "web": "https://github.com/rgv151/hmac.nim"
+    "web": "https://github.com/OpenSystemsLab/hmac.nim"
   },
   {
     "name": "mongrel2",
@@ -2653,7 +2653,7 @@
   },
   {
     "name": "base32",
-    "url": "https://github.com/rgv151/base32.nim",
+    "url": "https://github.com/OpenSystemsLab/base32.nim",
     "method": "git",
     "tags": [
       "base32",
@@ -2662,11 +2662,11 @@
     ],
     "description": "Base32 library for Nim",
     "license": "MIT",
-    "web": "https://github.com/rgv151/base32.nim"
+    "web": "https://github.com/OpenSystemsLab/base32.nim"
   },
   {
     "name": "otp",
-    "url": "https://github.com/rgv151/otp.nim",
+    "url": "https://github.com/OpenSystemsLab/otp.nim",
     "method": "git",
     "tags": [
       "otp",
@@ -2680,11 +2680,11 @@
     ],
     "description": "One Time Password library for Nim",
     "license": "MIT",
-    "web": "https://github.com/rgv151/otp.nim"
+    "web": "https://github.com/OpenSystemsLab/otp.nim"
   },
   {
     "name": "q",
-    "url": "https://github.com/rgv151/q.nim",
+    "url": "https://github.com/OpenSystemsLab/q.nim",
     "method": "git",
     "tags": [
       "css",
@@ -2698,7 +2698,7 @@
     ],
     "description": "Simple package for query HTML/XML elements using a CSS3 or jQuery-like selector syntax",
     "license": "MIT",
-    "web": "https://github.com/rgv151/q.nim"
+    "web": "https://github.com/OpenSystemsLab/q.nim"
   },
   {
     "name": "bignum",
@@ -2729,7 +2729,7 @@
   },
   {
     "name": "anybar",
-    "url": "https://github.com/rgv151/anybar.nim",
+    "url": "https://github.com/ba0f3/anybar.nim",
     "method": "git",
     "tags": [
       "anybar",
@@ -2739,7 +2739,7 @@
     ],
     "description": "Control AnyBar instances with Nim",
     "license": "MIT",
-    "web": "https://github.com/rgv151/anybar.nim"
+    "web": "https://github.com/ba0f3/anybar.nim"
   },
   {
     "name": "astar",
@@ -2898,7 +2898,7 @@
   },
   {
     "name": "telebot",
-    "url": "https://github.com/rgv151/telebot.nim",
+    "url": "https://github.com/ba0f3/telebot.nim",
     "method": "git",
     "tags": [
       "telebot",
@@ -2910,11 +2910,11 @@
     ],
     "description": "Async Telegram Bot API Client",
     "license": "MIT",
-    "web": "https://github.com/rgv151/telebot.nim"
+    "web": "https://github.com/ba0f3/telebot.nim"
   },
   {
     "name": "tempfile",
-    "url": "https://github.com/rgv151/tempfile.nim",
+    "url": "https://github.com/OpenSystemsLab/tempfile.nim",
     "method": "git",
     "tags": [
       "temp",
@@ -2926,7 +2926,7 @@
     ],
     "description": "Temporary files and directories",
     "license": "MIT",
-    "web": "https://github.com/rgv151/tempfile.nim"
+    "web": "https://github.com/OpenSystemsLab/tempfile.nim"
   },
   {
     "name": "AstroNimy",
@@ -3083,7 +3083,7 @@
   },
   {
     "name": "libssh2",
-    "url": "https://github.com/rgv151/libssh2.nim",
+    "url": "https://github.com/ba0f3/libssh2.nim",
     "method": "git",
     "tags": [
       "lib",
@@ -3096,11 +3096,11 @@
     ],
     "description": "Nim wrapper for libssh2",
     "license": "MIT",
-    "web": "https://github.com/rgv151/libssh2.nim"
+    "web": "https://github.com/ba0f3/libssh2.nim"
   },
   {
     "name": "rethinkdb",
-    "url": "https://github.com/rgv151/rethinkdb.nim",
+    "url": "https://github.com/OpenSystemsLab/rethinkdb.nim",
     "method": "git",
     "tags": [
       "rethinkdb",
@@ -3110,7 +3110,7 @@
     ],
     "description": "RethinkDB driver for Nim",
     "license": "MIT",
-    "web": "https://github.com/rgv151/rethinkdb.nim"
+    "web": "https://github.com/OpenSystemsLab/rethinkdb.nim"
   },
   {
     "name": "dbus",
@@ -3297,7 +3297,7 @@
   },
   {
     "name": "pfring",
-    "url": "https://github.com/rgv151/pfring.nim",
+    "url": "https://github.com/ba0f3/pfring.nim",
     "method": "git",
     "tags": [
       "pf_ring",
@@ -3311,7 +3311,7 @@
     ],
     "description": "PF_RING wrapper for Nim",
     "license": "MIT",
-    "web": "https://github.com/rgv151/pfring.nim"
+    "web": "https://github.com/ba0f3/pfring.nim"
   },
   {
     "name": "xxtea",
@@ -3329,7 +3329,7 @@
   },
   {
     "name": "xxhash",
-    "url": "https://github.com/rgv151/xxhash.nim",
+    "url": "https://github.com/OpenSystemsLab/xxhash.nim",
     "method": "git",
     "tags": [
       "fast",
@@ -3338,11 +3338,11 @@
     ],
     "description": "xxhash wrapper for Nim",
     "license": "MIT",
-    "web": "https://github.com/rgv151/xxhash.nim"
+    "web": "https://github.com/OpenSystemsLab/xxhash.nim"
   },
   {
     "name": "libipset",
-    "url": "https://github.com/rgv151/libipset.nim",
+    "url": "https://github.com/ba0f3/libipset.nim",
     "method": "git",
     "tags": [
       "ipset",
@@ -3357,7 +3357,7 @@
     ],
     "description": "libipset wrapper for Nim",
     "license": "MIT",
-    "web": "https://github.com/rgv151/libipset.nim"
+    "web": "https://github.com/ba0f3/libipset.nim"
   },
   {
     "name": "pop3",
@@ -3486,7 +3486,7 @@
   },
   {
     "name": "ptrace",
-    "url": "https://github.com/rgv151/ptrace.nim",
+    "url": "https://github.com/ba0f3/ptrace.nim",
     "method": "git",
     "tags": [
       "ptrace",
@@ -3498,7 +3498,7 @@
     ],
     "description": "ptrace wrapper for Nim",
     "license": "MIT",
-    "web": "https://github.com/rgv151/ptrace.nim"
+    "web": "https://github.com/ba0f3/ptrace.nim"
   },
   {
     "name": "ndbex",
@@ -3620,7 +3620,7 @@
   },
   {
     "name": "daemonize",
-    "url": "https://github.com/rgv151/daemonize.nim",
+    "url": "https://github.com/OpenSystemsLab/daemonize.nim",
     "method": "git",
     "tags": [
       "daemonize",
@@ -3632,7 +3632,7 @@
     ],
     "description": "This library makes your code run as a daemon process on Unix-like systems",
     "license": "MIT",
-    "web": "https://github.com/rgv151/daemonize.nim"
+    "web": "https://github.com/OpenSystemsLab/daemonize.nim"
   },
   {
     "name": "tnim",
