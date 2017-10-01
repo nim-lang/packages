@@ -18,7 +18,7 @@ before_script:
   - export PATH=`pwd`/nim-0.13.0/bin:$PATH
 
 script:
-  - nim c -d:ssl -r package_scanner.nim
+  - nim c -d:ssl -r package_scanner.nim && node ./validate_json.js
 
 notifications:
   email: false # noisy
