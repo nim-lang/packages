@@ -7315,5 +7315,33 @@
     "description": "Support for ensemble file format and arithmetic using jackknife/bootstrap propagation of errors",
     "license": "BSD3",
     "web": "https://github.com/JeffersonLab/ensem"
+  },
+  {
+    "name": "basic2d",
+    "url": "https://github.com/nim-lang/basic2d",
+    "method": "git",
+    "tags": [
+      "deprecated",
+      "vector",
+      "stdlib",
+      "library"
+    ],
+    "description": "Deprecated module for vector/matrices operations.",
+    "license": "MIT",
+    "web": "https://github.com/nim-lang/basic2d"
+  },
+  {
+    "name": "basic3d",
+    "url": "https://github.com/nim-lang/basic3d",
+    "method": "git",
+    "tags": [
+      "deprecated",
+      "vector",
+      "stdlib",
+      "library"
+    ],
+    "description": "Deprecated module for vector/matrices operations.",
+    "license": "MIT",
+    "web": "https://github.com/nim-lang/basic3d"
   }
 ]
