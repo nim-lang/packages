@@ -7310,7 +7310,7 @@
     "method": "git",
     "tags": [
       "jackknife",
-      "statistics",
+      "statistics"
     ],
     "description": "Support for ensemble file format and arithmetic using jackknife/bootstrap propagation of errors",
     "license": "BSD3",
