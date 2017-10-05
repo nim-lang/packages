@@ -7343,5 +7343,18 @@
     "description": "Deprecated module for vector/matrices operations.",
     "license": "MIT",
     "web": "https://github.com/nim-lang/basic3d"
+  },
+  {
+    "name": "shiori",
+    "url": "https://github.com/Narazaka/shiori-nim",
+    "method": "git",
+    "tags": [
+      "ukagaka",
+      "shiori",
+      "protocol"
+    ],
+    "description": "SHIORI Protocol Parser/Builder",
+    "license": "MIT",
+    "web": "https://github.com/Narazaka/shiori-nim"
   }
 ]
