@@ -7266,9 +7266,9 @@
     "url": "https://github.com/brentp/kexpr-nim",
     "method": "git",
     "tags": [
-        "math",
-        "expression",
-        "evalute"
+      "math",
+      "expression",
+      "evalute"
     ],
     "description": "wrapper for kexpr math expression evaluation library",
     "license": "MIT",
@@ -7369,5 +7369,17 @@
     "description": "SHIORI Protocol Parser/Builder",
     "license": "MIT",
     "web": "https://github.com/Narazaka/shiori-nim"
+  },
+  {
+    "name": "shioridll",
+    "url": "https://github.com/Narazaka/shioridll-nim",
+    "method": "git",
+    "tags": [
+      "shiori",
+      "ukagaka"
+    ],
+    "description": "The SHIORI DLL interface",
+    "license": "MIT",
+    "web": "https://github.com/Narazaka/shioridll-nim"
   }
 ]
