@@ -7381,5 +7381,20 @@
     "description": "The SHIORI DLL interface",
     "license": "MIT",
     "web": "https://github.com/Narazaka/shioridll-nim"
+  },
+  {
+    "name": "httpauth",
+    "url": "https://github.com/FedericoCeratto/nim-httpauth",
+    "method": "git",
+    "tags": [
+      "http",
+      "authentication",
+      "authorization",
+      "library",
+      "security"
+    ],
+    "description": "HTTP Authentication and Authorization",
+    "license": "LGPLv3",
+    "web": "https://github.com/FedericoCeratto/nim-httpauth"
   }
 ]
