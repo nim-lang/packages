@@ -7396,5 +7396,19 @@
     "description": "HTTP Authentication and Authorization",
     "license": "LGPLv3",
     "web": "https://github.com/FedericoCeratto/nim-httpauth"
+  },
+  {
+    "name": "cbor",
+    "url": "https://github.com/ehmry/nim-cbor",
+    "method": "git",
+    "tags": [
+      "library",
+      "cbor",
+      "binary",
+      "encoding"
+    ],
+    "description": "Concise Binary Object Representation decoder (RFC7049).",
+    "license": "MIT",
+    "web": "https://github.com/ehmry/nim-cbor"
   }
 ]
