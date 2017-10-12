@@ -7410,5 +7410,21 @@
     "description": "Concise Binary Object Representation decoder (RFC7049).",
     "license": "MIT",
     "web": "https://github.com/ehmry/nim-cbor"
+  },
+  {
+    "name": "base58",
+    "url": "https://github.com/ehmry/nim-base58",
+    "method": "git",
+    "tags": [
+      "base58",
+      "bitcoin",
+      "cryptonote",
+      "monero",
+      "encoding",
+      "library"
+    ],
+    "description": "Base58 encoders and decoders for Bitcoin and CryptoNote addresses.",
+    "license": "MIT",
+    "web": "https://github.com/ehmry/nim-base58"
   }
 ]
