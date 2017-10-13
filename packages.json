@@ -7426,5 +7426,19 @@
     "description": "Base58 encoders and decoders for Bitcoin and CryptoNote addresses.",
     "license": "MIT",
     "web": "https://github.com/ehmry/nim-base58"
+  },
+  {
+    "name": "webdriver",
+    "url": "https://github.com/dom96/webdriver",
+    "method": "git",
+    "tags": [
+      "webdriver",
+      "selenium",
+      "library",
+      "firefox"
+    ],
+    "description": "Implementation of the WebDriver w3c spec.",
+    "license": "MIT",
+    "web": "https://github.com/dom96/webdriver"
   }
 ]
