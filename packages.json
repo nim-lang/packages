@@ -553,7 +553,7 @@
   },
   {
     "name": "glm",
-    "url": "https://github.com/stavenko/nim-glm",
+    "url": "https://github.com/krux02/nim-glm",
     "method": "git",
     "tags": [
       "opengl",
@@ -564,7 +564,7 @@
     ],
     "description": "Port of c++ glm library with shader-like syntax",
     "license": "MIT",
-    "web": "https://github.com/stavenko/nim-glm"
+    "web": "https://github.com/krux02/nim-glm"
   },
   {
     "name": "python",
