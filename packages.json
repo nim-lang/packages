@@ -7440,5 +7440,16 @@
     "description": "Implementation of the WebDriver w3c spec.",
     "license": "MIT",
     "web": "https://github.com/dom96/webdriver"
+  },
+  {
+    "name": "interfaced",
+    "url": "https://github.com/andreaferretti/interfaced",
+    "method": "git",
+    "tags": [
+      "interface"
+    ],
+    "description": "Go-like interfaces",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/andreaferretti/interfaced"
   }
 ]
