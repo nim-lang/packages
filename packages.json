@@ -7451,5 +7451,17 @@
     "description": "Go-like interfaces",
     "license": "Apache License 2.0",
     "web": "https://github.com/andreaferretti/interfaced"
+  },
+  {
+    "name": "vla",
+    "url": "https://github.com/bpr/vla",
+    "method": "git",
+    "tags": [
+      "vla",
+      "alloca"
+    ],
+    "description": "Variable length arrays for Nim",
+    "license": "MIT",
+    "web": "https://github.com/bpr/vla"
   }
 ]
