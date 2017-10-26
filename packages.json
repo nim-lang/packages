@@ -7463,5 +7463,17 @@
     "description": "Variable length arrays for Nim",
     "license": "MIT",
     "web": "https://github.com/bpr/vla"
+  },
+  {
+    "name": "metatools",
+    "url": "https://github.com/jxy/metatools",
+    "method": "git",
+    "tags": [
+      "macros",
+      "metaprogramming"
+    ],
+    "description": "Metaprogramming tools for Nim",
+    "license": "MIT",
+    "web": "https://github.com/jxy/metatools"
   }
 ]
