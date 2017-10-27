@@ -10,7 +10,7 @@
       "client"
     ],
     "description": "Nim wrapper for the GitHub API",
-    "license": "WTFNMFPL-1.0",
+    "license": "WTFPL",
     "web": "https://github.com/watzon/github-api-nim"
   },
   {
