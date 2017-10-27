@@ -1,5 +1,19 @@
 [
   {
+    "name": "github_api",
+    "url": "https://github.com/watzon/github-api-nim",
+    "method": "git",
+    "tags": [
+      "library",
+      "api",
+      "github",
+      "client"
+    ],
+    "description": "Nim wrapper for the GitHub API",
+    "license": "WTFPL",
+    "web": "https://github.com/watzon/github-api-nim"
+  },
+  {
     "name": "discordnim",
     "url": "https://github.com/Krognol/discordnim",
     "method": "git",
