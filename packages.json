@@ -1,6 +1,6 @@
 [
   {
-    "name": "github-api",
+    "name": "github_api",
     "url": "https://github.com/watzon/github-api-nim",
     "method": "git",
     "tags": [
