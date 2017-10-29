@@ -7489,5 +7489,19 @@
     "description": "Metaprogramming tools for Nim",
     "license": "MIT",
     "web": "https://github.com/jxy/metatools"
+  },
+  {
+    "name": "libuv",
+    "url": "https://github.com/lcrees/libuv",
+    "method": "git",
+    "tags": [
+      "libuv",
+      "wrapper",
+      "node",
+      "networking"
+    ],
+    "description": "libuv bindings for Nim",
+    "license": "MIT",
+    "web": "https://github.com/lcrees/libuv"
   }
 ]
