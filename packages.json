@@ -7503,5 +7503,17 @@
     "description": "libuv bindings for Nim",
     "license": "MIT",
     "web": "https://github.com/lcrees/libuv"
+  },
+  {
+    "name": "romans",
+    "url": "https://github.com/lcrees/romans",
+    "method": "git",
+    "tags": [
+      "roman",
+      "numerals"
+    ],
+    "description": "Conversion between integers and Roman numerals",
+    "license": "MIT",
+    "web": "https://github.com/lcrees/romans"
   }
 ]
