@@ -14,6 +14,19 @@
     "web": "https://github.com/watzon/github-api-nim"
   },
   {
+    "name": "nimates",
+    "url": "https://github.com/jamesalbert/nimates",
+    "method": "git",
+    "tags": [
+      "library",
+      "postmates",
+      "delivery"
+    ],
+    "description": "Client library for the Postmates API",
+    "license": "Apache",
+    "web": "https://github.com/jamesalbert/nimates"
+  },
+  {
     "name": "discordnim",
     "url": "https://github.com/Krognol/discordnim",
     "method": "git",
