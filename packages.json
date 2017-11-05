@@ -7542,5 +7542,16 @@
     "description": "Conversion between integers and Roman numerals",
     "license": "MIT",
     "web": "https://github.com/lcrees/romans"
+  },
+  {
+    "name": "simpleAST",
+    "url": "https://github.com/lguzzon/simpleAST",
+    "method": "git",
+    "tags": [
+      "ast"
+    ],
+    "description": "Simple AST in NIM",
+    "license": "MIT",
+    "web": "https://github.com/lguzzon/simpleAST"
   }
 ]
