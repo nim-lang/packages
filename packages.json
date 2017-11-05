@@ -7542,5 +7542,19 @@
     "description": "Conversion between integers and Roman numerals",
     "license": "MIT",
     "web": "https://github.com/lcrees/romans"
+  },
+   {
+    "name": "timerpool",
+    "url": "https://github.com/mikra01/timerpool/",
+    "method": "git",
+    "tags": [
+      "timer",
+      "pool",
+      "events",
+      "thread"
+    ],
+    "description": "threadsafe timerpool implementation for event purpose",
+    "license": "MIT",
+    "web": "https://github.com/mikra01/timerpool"
   }
 ]
