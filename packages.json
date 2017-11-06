@@ -7567,5 +7567,19 @@
     "description": "threadsafe timerpool implementation for event purpose",
     "license": "MIT",
     "web": "https://github.com/mikra01/timerpool"
+  },
+  {
+    "name": "zero_functional",
+    "url": "https://github.com/alehander42/zero-functional",
+    "method": "git",
+    "tags": [
+      "functional",
+      "dsl",
+      "chaining",
+      "seq"
+    ],
+    "description": "A library providing zero-cost chaining for functional abstractions in Nim",
+    "license": "MIT",
+    "web": "https://github.com/alehander42/zero-functional"
   }
 ]
