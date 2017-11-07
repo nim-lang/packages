@@ -7595,5 +7595,19 @@
     "description": "Prepared SQL statement generator. A lightweight ORM.",
     "license": "MIT",
     "web": "https://github.com/Araq/ormin"
+  },
+  {
+    "name": "karax",
+    "url": "https://github.com/pragmagic/karax",
+    "method": "git",
+    "tags": [
+      "browser",
+      "DOM",
+      "virtual-DOM",
+      "UI"
+    ],
+    "description": "Karax is a framework for developing single page applications in Nim.",
+    "license": "MIT",
+    "web": "https://github.com/pragmagic/karax"
   }
 ]
