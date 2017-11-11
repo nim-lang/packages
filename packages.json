@@ -7609,5 +7609,20 @@
     "description": "Karax is a framework for developing single page applications in Nim.",
     "license": "MIT",
     "web": "https://github.com/pragmagic/karax"
+  },
+  {
+    "name": "cascade",
+    "url": "https://github.com/citycide/cascade",
+    "method": "git",
+    "tags": [
+      "macro",
+      "cascade",
+      "operator",
+      "dart",
+      "with"
+    ],
+    "description": "Method & assignment cascades for Nim, inspired by Smalltalk & Dart.",
+    "license": "MIT",
+    "web": "https://github.com/citycide/cascade"
   }
 ]
