@@ -7624,5 +7624,20 @@
     "description": "Method & assignment cascades for Nim, inspired by Smalltalk & Dart.",
     "license": "MIT",
     "web": "https://github.com/citycide/cascade"
+  },
+  {
+    "name": "chrono",
+    "url": "https://github.com/treeform/chrono",
+    "method": "git",
+    "tags": [
+      "library",
+      "timestamp",
+      "calendar",
+      "timezone",
+      ""
+    ],
+    "description": "Calendars, Timestamps and Timezones utilities.",
+    "license": "MIT",
+    "web": "https://github.com/treeform/chrono"
   }
 ]
