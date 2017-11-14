@@ -7633,8 +7633,7 @@
       "library",
       "timestamp",
       "calendar",
-      "timezone",
-      ""
+      "timezone"
     ],
     "description": "Calendars, Timestamps and Timezones utilities.",
     "license": "MIT",
