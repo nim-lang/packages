@@ -7651,5 +7651,19 @@
     "description": "Database schema migration library for Nim language.",
     "license": "MIT",
     "web": "https://github.com/vegansk/dbschema"
+  },
+  {
+    "name": "gentabs",
+    "url": "https://github.com/lcrees/gentabs",
+    "method": "git",
+    "tags": [
+      "table",
+      "string",
+      "key",
+      "value"
+    ],
+    "description": "Efficient hash table that is a key-value mapping (removed from stdlib)",
+    "license": "MIT",
+    "web": "https://github.com/lcrees/gentabs"
   }
 ]
