@@ -7638,5 +7638,18 @@
     "description": "Calendars, Timestamps and Timezones utilities.",
     "license": "MIT",
     "web": "https://github.com/treeform/chrono"
+  },
+  {
+    "name": "dbschema",
+    "url": "https://github.com/vegansk/dbschema",
+    "method": "git",
+    "tags": [
+      "library",
+      "database",
+      "db"
+    ],
+    "description": "Database schema migration library for Nim language.",
+    "license": "MIT",
+    "web": "https://github.com/vegansk/dbschema"
   }
 ]
