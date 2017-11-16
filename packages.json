@@ -7680,5 +7680,17 @@
     "description": "Converts 2D linear graph coordinates to pixels on screen",
     "license": "MIT",
     "web": "https://github.com/Mnenmenth/libgraphnim"
+  },
+  {
+    "name": "polynumeric",
+    "url": "https://github.com/lcrees/polynumeric",
+    "method": "git",
+    "tags": [
+      "polynomial",
+      "numeric"
+    ],
+    "description": "Polynomial operations",
+    "license": "MIT",
+    "web": "https://github.com/lcrees/polynumeric"
   }
 ]
