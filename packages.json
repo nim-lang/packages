@@ -7302,6 +7302,17 @@
     "web": "https://github.com/brentp/kexpr-nim"
   },
   {
+    "name": "lapper",
+    "url": "https://github.com/brentp/nim-lapper",
+    "method": "git",
+    "tags": [
+      "interval"
+    ],
+    "description": "fast interval overlaps",
+    "license": "MIT",
+    "web": "https://github.com/brentp/nim-lapper"
+  },
+  {
     "name": "gplay",
     "url": "https://github.com/yglukhov/gplay",
     "method": "git",
