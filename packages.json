@@ -7716,5 +7716,19 @@
     "description": "Unicode Character Database (UCD) access for Nim",
     "license": "MIT",
     "web": "https://github.com/nitely/nim-unicodedb"
+  },
+  {
+    "name": "normalize",
+    "url": "https://github.com/nitely/nim-normalize",
+    "method": "git",
+    "tags": [
+      "unicode",
+      "normalization",
+      "nfc",
+      "nfd"
+    ],
+    "description": "Unicode normalization forms (tr15)",
+    "license": "MIT",
+    "web": "https://github.com/nitely/nim-normalize"
   }
 ]
