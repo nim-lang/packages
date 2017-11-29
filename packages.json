@@ -7730,5 +7730,20 @@
     "description": "Unicode normalization forms (tr15)",
     "license": "MIT",
     "web": "https://github.com/nitely/nim-normalize"
+  },
+  {
+    "name": "nico",
+    "url": "https://github.com/ftsf/nico",
+    "method": "git",
+    "tags": [
+      "pico-8",
+      "game",
+      "library",
+      "ludum",
+      "dare"
+    ],
+    "description": "Nico game engine",
+    "license": "MIT",
+    "web": "https://github.com/ftsf/nico"
   }
 ]
