@@ -7745,7 +7745,8 @@
     "description": "Nico game engine",
     "license": "MIT",
     "web": "https://github.com/ftsf/nico"
-  },{
+  },
+  {
     "name": "os_files",
     "url": "https://github.com/tormund/os_files",
     "method": "git",
@@ -7757,5 +7758,17 @@
     "description": "Crossplatform (x11, windows, osx) native file dialogs; sytem file/folder icons in any resolution; open file with default application",
     "license": "MIT",
     "web": "https://github.com/tormund/os_files"
+  },
+  {
+    "name": "sprymicro",
+    "url": "https://github.com/gokr/sprymicro",
+    "method": "git",
+    "tags": [
+      "spry",
+      "demo"
+    ],
+    "description": "Small demo Spry interpreters",
+    "license": "MIT",
+    "web": "https://github.com/gokr/sprymicro"
   }
 ]
