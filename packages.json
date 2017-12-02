@@ -7764,6 +7764,19 @@
     "web": "https://github.com/tormund/os_files"
   },
   {
+    "name": "spryvm",
+    "url": "https://github.com/gokr/spryvm",
+    "method": "git",
+    "tags": [
+      "interpreter",
+      "language",
+      "spry"
+    ],
+    "description": "Homoiconic dynamic language interpreter in Nim",
+    "license": "MIT",
+    "web": "https://github.com/gokr/spryvm"
+  },
+  {
     "name": "netpbm",
     "url": "https://github.com/barcharcraz/nim-netpbm",
     "method": "git",
