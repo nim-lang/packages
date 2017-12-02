@@ -869,7 +869,7 @@
     "web": "https://www.github.com/barcharcraz/nimalpm/"
   },
   {
-    "name": "nimlibpng",
+    "name": "png",
     "url": "https://github.com/barcharcraz/nimlibpng",
     "method": "git",
     "tags": [
@@ -882,6 +882,10 @@
     "description": "Nim wrapper for the libpng library",
     "license": "libpng",
     "web": "https://github.com/barcharcraz/nimlibpng"
+  },
+  {
+    "name": "nimlibpng",
+    "alias": "png"
   },
   {
     "name": "sdl2",
@@ -7770,5 +7774,32 @@
     "description": "Small demo Spry interpreters",
     "license": "MIT",
     "web": "https://github.com/gokr/sprymicro"
+  },
+  {
+    "name": "spryvm",
+    "url": "https://github.com/gokr/spryvm",
+    "method": "git",
+    "tags": [
+      "interpreter",
+      "language",
+      "spry"
+    ],
+    "description": "Homoiconic dynamic language interpreter in Nim",
+    "license": "MIT",
+    "web": "https://github.com/gokr/spryvm"
+  },
+  {
+    "name": "netpbm",
+    "url": "https://github.com/barcharcraz/nim-netpbm",
+    "method": "git",
+    "tags": [
+      "pbm",
+      "image",
+      "wrapper",
+      "netpbm"
+    ],
+    "description": "Wrapper for libnetpbm",
+    "license": "MIT",
+    "web": "https://github.com/barcharcraz/nim-netpbm"
   }
 ]
