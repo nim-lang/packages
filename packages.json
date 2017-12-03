@@ -7293,6 +7293,19 @@
     "web": "https://github.com/edubart/arraymancer-vision"
   },
   {
+    "name": "kmer",
+    "url": "https://github.com/brentp/nim-kmer",
+    "method": "git",
+    "tags": [
+      "kmer",
+      "dna",
+      "sequence"
+    ],
+    "description": "encoded kmer library for fast operations on kmers up to 31",
+    "license": "MIT",
+    "web": "https://github.com/brentp/nim-kmer"
+  },
+  {
     "name": "kexpr",
     "url": "https://github.com/brentp/kexpr-nim",
     "method": "git",
