@@ -977,6 +977,18 @@
     "web": "https://github.com/PMunch/drawille-nim"
   },
   {
+    "name": "binaryparse",
+    "url": "https://github.com/PMunch/binaryparse",
+    "method": "git",
+    "tags": [
+      "parsing",
+      "binary"
+    ],
+    "description": "Binary parser (and writer) in pure Nim. Generates efficient parsing procedures that handle many commonly seen patterns seen in binary files and does sub-byte field reading.",
+    "license": "MIT",
+    "web": "https://github.com/PMunch/binaryparse"
+  },
+  {
     "name": "sdl2_nim",
     "url": "https://github.com/Vladar4/sdl2_nim",
     "method": "git",
