@@ -7856,5 +7856,5 @@
     "description": "A native-nim implementaton of the sBOX generic container format.",
     "license": "MIT",
     "web": "https://github.com/Skrylar/sksbox"
-  },
+  }
 ]
