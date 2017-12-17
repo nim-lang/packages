@@ -7841,5 +7841,20 @@
     "description": "C2nim helper to simplify and automate wrapping C libraries",
     "license": "MIT",
     "web": "https://github.com/genotrance/nimgen"
-  }
+  },
+  {
+    "name": "sksbox",
+    "url": "https://github.com/Skrylar/sksbox",
+    "method": "git",
+    "tags": [
+      "sbox",
+      "binary",
+      "binaryformat",
+      "nothings",
+      "container"
+    ],
+    "description": "A native-nim implementaton of the sBOX generic container format.",
+    "license": "MIT",
+    "web": "https://github.com/Skrylar/sksbox"
+  },
 ]
