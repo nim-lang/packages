@@ -7858,8 +7858,8 @@
     "web": "https://github.com/Skrylar/sksbox"
   },
   {
-    "name": "avbin_nim",
-    "url": "https://github.com/Vladar4/avbin_nim",
+    "name": "avbin",
+    "url": "https://github.com/Vladar4/avbin",
     "method": "git",
     "tags": [
       "audio",
@@ -7870,6 +7870,6 @@
     ],
     "description": "Wrapper of the AVbin library for the Nim language.",
     "license": "LGPL",
-    "web": "https://github.com/Vladar4/avbin_nim"
+    "web": "https://github.com/Vladar4/avbin"
   }
 ]
