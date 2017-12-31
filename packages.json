@@ -7856,5 +7856,20 @@
     "description": "A native-nim implementaton of the sBOX generic container format.",
     "license": "MIT",
     "web": "https://github.com/Skrylar/sksbox"
+  },
+  {
+    "name": "avbin",
+    "url": "https://github.com/Vladar4/avbin",
+    "method": "git",
+    "tags": [
+      "audio",
+      "video",
+      "media",
+      "library",
+      "wrapper"
+    ],
+    "description": "Wrapper of the AVbin library for the Nim language.",
+    "license": "LGPL",
+    "web": "https://github.com/Vladar4/avbin"
   }
 ]
