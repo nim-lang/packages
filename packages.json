@@ -1,5 +1,20 @@
 [
   {
+    "name": "sequtils2",
+    "url": "https://github.com/Michedev/sequtils2",
+    "method": "git",
+    "tags": [
+      "library",
+      "sequence",
+      "string",
+      "openArray",
+      "functional"
+    ],
+    "description": "Additional functions for sequences that are not present in sequtils",
+    "license": "MIT",
+    "web": "http://htmlpreview.github.io/?https://github.com/Michedev/sequtils2/blob/master/sequtils2.html"
+  },
+  {
     "name": "github_api",
     "url": "https://github.com/watzon/github-api-nim",
     "method": "git",
