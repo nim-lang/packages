@@ -7320,6 +7320,22 @@
     "web": "https://github.com/edubart/arraymancer-vision"
   },
   {
+    "name": "hts",
+    "url": "https://github.com/brentp/hts-nim",
+    "method": "git",
+    "tags": [
+      "kmer",
+      "dna",
+      "sequence",
+      "bam",
+      "vcf",
+      "genomics"
+    ],
+    "description": "htslib wrapper for nim",
+    "license": "MIT",
+    "web": "https://brentp.github.io/hts-nim/"
+  },
+  {
     "name": "kmer",
     "url": "https://github.com/brentp/nim-kmer",
     "method": "git",
