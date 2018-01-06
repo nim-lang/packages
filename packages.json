@@ -7916,5 +7916,18 @@
     "description": "A simple finite-state machine for @nim-lang",
     "license": "MIT",
     "web": "https://github.com/ba0f3/fsm.nim"
+  },
+  {
+    "name": "timezones",
+    "url": "https://github.com/GULPF/timezones",
+    "method": "git",
+    "tags": [
+      "timezone",
+      "time",
+      "tzdata"
+    ],
+    "description": "Timezone library compatible with the standard library. ",
+    "license": "MIT",
+    "web": "https://github.com/GULPF/timezones"
   }
 ]
