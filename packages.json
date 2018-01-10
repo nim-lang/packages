@@ -7929,5 +7929,20 @@
     "description": "Timezone library compatible with the standard library. ",
     "license": "MIT",
     "web": "https://github.com/GULPF/timezones"
+  },
+  {
+    "name": "ndf",
+    "url": "https://github.com/rustomax/ndf",
+    "method": "git",
+    "tags": [
+      "app",
+      "binary",
+      "duplicates",
+      "utility",
+      "filesystem"
+    ],
+    "description": "Duplicate files finder",
+    "license": "MIT",
+    "web": "https://github.com/rustomax/ndf"
   }
 ]
