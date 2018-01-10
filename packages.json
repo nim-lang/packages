@@ -2928,6 +2928,22 @@
     "web": "https://github.com/yglukhov/nimx"
   },
   {
+    "name": "webview",
+    "url": "https://github.com/oskca/webview",
+    "method": "git",
+    "tags": [
+      "gui",
+      "ui",
+      "webview",
+      "cross",
+      "web",
+      "library"
+    ],
+    "description": "Nim bindings for https://github.com/zserge/webview, a cross platform single header webview library",
+    "license": "MIT",
+    "web": "https://github.com/oskca/webview"
+  },
+  {
     "name": "memo",
     "url": "https://github.com/andreaferretti/memo",
     "method": "git",
