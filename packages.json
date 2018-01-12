@@ -7973,5 +7973,18 @@
     "description": "Duplicate files finder",
     "license": "MIT",
     "web": "https://github.com/rustomax/ndf"
+  },
+  {
+    "name": "unicodeplus",
+    "url": "https://github.com/nitely/nim-unicodeplus",
+    "method": "git",
+    "tags": [
+      "unicode",
+      "isdigit",
+      "isalpha"
+    ],
+    "description": "Common unicode operations",
+    "license": "MIT",
+    "web": "https://github.com/nitely/nim-unicodeplus"
   }
 ]
