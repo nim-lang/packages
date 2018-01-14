@@ -7986,5 +7986,18 @@
     "description": "Common unicode operations",
     "license": "MIT",
     "web": "https://github.com/nitely/nim-unicodeplus"
+  },
+  {
+    "name": "libsvm",
+    "url": "https://github.com/genotrance/libsvm",
+    "method": "git",
+    "tags": [
+      "scientific",
+      "svm",
+      "vector"
+    ],
+    "description": "libsvm wrapper for Nim",
+    "license": "MIT",
+    "web": "https://github.com/genotrance/libsvm"
   }
 ]
