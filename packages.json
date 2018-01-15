@@ -1017,6 +1017,18 @@
     "web": "https://github.com/PMunch/libkeepass"
   },
   {
+    "name": "zhsh",
+    "url": "https://github.com/PMunch/zhangshasha",
+    "method": "git",
+    "tags": [
+      "algorithm",
+      "edit-distance"
+    ],
+    "description": "This module is a port of the Java implementation of the Zhang-Shasha algorithm for tree edit distance",
+    "license": "MIT",
+    "web": "https://github.com/PMunch/zhangshasha"
+  },
+  {
     "name": "sdl2_nim",
     "url": "https://github.com/Vladar4/sdl2_nim",
     "method": "git",
