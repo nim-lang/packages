@@ -8024,5 +8024,17 @@
     "description": "Parsing language",
     "license": "MIT",
     "web": "https://github.com/quelklef/lilt"
+  },
+  {
+    "name": "shiori_charset_convert",
+    "url": "https://github.com/Narazaka/shiori_charset_convert-nim",
+    "method": "git",
+    "tags": [
+      "shiori",
+      "ukagaka"
+    ],
+    "description": "The SHIORI Message charset convert utility",
+    "license": "MIT",
+    "web": "https://github.com/Narazaka/shiori_charset_convert-nim"
   }
 ]
