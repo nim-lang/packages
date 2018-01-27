@@ -8036,5 +8036,21 @@
     "description": "The SHIORI Message charset convert utility",
     "license": "MIT",
     "web": "https://github.com/Narazaka/shiori_charset_convert-nim"
+  },
+  {
+    "name": "rocksdb",
+    "url": "https://github.com/status-im/nim-rocksdb",
+    "method": "git",
+    "tags": [
+      "rocksdb",
+      "database",
+      "wrapper",
+      "key",
+      "value",
+      "storage"
+    ],
+    "description": "Nim wrapper for RocksDB, a persistent key-value store for Flash and RAM Storage.",
+    "license": "Apache v2 or GPLv2",
+    "web": "https://github.com/status-im/nim-rocksdb"
   }
 ]
