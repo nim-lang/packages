@@ -8065,5 +8065,18 @@
     "description": "Nim wrapper for RocksDB, a persistent key-value store for Flash and RAM Storage.",
     "license": "Apache v2 or GPLv2",
     "web": "https://github.com/status-im/nim-rocksdb"
+  },
+  {
+    "name": "grafanim",
+    "url": "https://github.com/jamesalbert/grafanim",
+    "method": "git",
+    "tags": [
+      "library",
+      "grafana",
+      "dashboards"
+    ],
+    "description": "Grafana module for Nim",
+    "license": "GPL",
+    "web": "https://github.com/jamesalbert/grafanim"
   }
 ]
