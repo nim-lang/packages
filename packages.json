@@ -8078,5 +8078,17 @@
     "description": "Grafana module for Nim",
     "license": "GPL",
     "web": "https://github.com/jamesalbert/grafanim"
+  },
+  {
+    "name": "nimpy",
+    "url": "https://github.com/yglukhov/nimpy",
+    "method": "git",
+    "tags": [
+      "python",
+      "bridge"
+    ],
+    "description": "Nim - Python bridge",
+    "license": "MIT",
+    "web": "https://github.com/yglukhov/nimpy"
   }
 ]
