@@ -8093,7 +8093,7 @@
   },
   {
     "name": "simple_graph",
-    "url": "github:erhlee-bird/simple_graph",
+    "url": "https://github.com/erhlee-bird/simple_graph",
     "method": "git",
     "tags": [
       "datastructures",
@@ -8101,6 +8101,6 @@
     ],
     "description": "Simple Graph Library",
     "license": "MIT",
-    "web": "github:erhlee-bird/simple_graph"
+    "web": "https://github.com/erhlee-bird/simple_graph"
   }
 ]
