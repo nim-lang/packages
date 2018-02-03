@@ -8096,7 +8096,8 @@
     "url": "github:erhlee-bird/simple_graph",
     "method": "git",
     "tags": [
-      "nim-lang"
+      "datastructures",
+      "library"
     ],
     "description": "Simple Graph Library",
     "license": "MIT",
