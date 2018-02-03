@@ -8090,5 +8090,16 @@
     "description": "Nim - Python bridge",
     "license": "MIT",
     "web": "https://github.com/yglukhov/nimpy"
+  },
+  {
+    "name": "simple_graph",
+    "url": "github:erhlee-bird/simple_graph",
+    "method": "git",
+    "tags": [
+      "nim-lang"
+    ],
+    "description": "Simple Graph Library",
+    "license": "MIT",
+    "web": "github:erhlee-bird/simple_graph"
   }
 ]
