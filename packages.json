@@ -1,5 +1,16 @@
 [
   {
+    "name": "controlStructures",
+    "url": "https://github.com/TakeYourFreedom/Additional-Control-Structures-for-Nim",
+    "method": "git",
+    "tags": [
+      "library",
+      "controlStructures"
+    ],
+    "description": "Additional functions for sequences that are not present in sequtils",
+    "license": "MIT",
+    },
+  {
     "name": "sequtils2",
     "url": "https://github.com/Michedev/sequtils2",
     "method": "git",
