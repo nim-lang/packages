@@ -8109,7 +8109,8 @@
     "method": "git",
     "tags": [
       "library",
-      "controlStructures"
+      "control",
+      "structure"
     ],
     "description": "Additional control structures",
     "license": "MIT",
