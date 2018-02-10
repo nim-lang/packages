@@ -8102,5 +8102,18 @@
     "description": "Simple Graph Library",
     "license": "MIT",
     "web": "https://github.com/erhlee-bird/simple_graph"
+  },
+  {
+    "name": "controlStructures",
+    "url": "https://github.com/TakeYourFreedom/Additional-Control-Structures-for-Nim",
+    "method": "git",
+    "tags": [
+      "library",
+      "control",
+      "structure"
+    ],
+    "description": "Additional control structures",
+    "license": "MIT",
+    "web": "http://htmlpreview.github.io/?https://github.com/TakeYourFreedom/Additional-Control-Structures-for-Nim/blob/master/controlStructures.html"
   }
 ]
