@@ -8111,7 +8111,7 @@
       "library",
       "controlStructures"
     ],
-    "description": "Additional functions for sequences that are not present in sequtils",
+    "description": "Additional control structures",
     "license": "MIT",
     "web": "http://htmlpreview.github.io/?https://github.com/TakeYourFreedom/Additional-Control-Structures-for-Nim/blob/master/controlStructures.html"
   }
