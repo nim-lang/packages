@@ -8115,5 +8115,18 @@
     "description": "Additional control structures",
     "license": "MIT",
     "web": "http://htmlpreview.github.io/?https://github.com/TakeYourFreedom/Additional-Control-Structures-for-Nim/blob/master/controlStructures.html"
+  },
+  {
+    "name": "breeze",
+    "url": "https://github.com/alehander42/breeze",
+    "method": "git",
+    "tags": [
+      "dsl",
+      "macro",
+      "metaprogramming"
+    ],
+    "description": "A dsl for writing macros in Nim",
+    "license": "MIT",
+    "web": "https://github.com/alehander42/breeze"
   }
 ]
