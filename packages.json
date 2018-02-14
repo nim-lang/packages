@@ -8115,5 +8115,18 @@
     "description": "Additional control structures",
     "license": "MIT",
     "web": "http://htmlpreview.github.io/?https://github.com/TakeYourFreedom/Additional-Control-Structures-for-Nim/blob/master/controlStructures.html"
+  },
+  {
+    "name": "notetxt",
+    "url": "https://github.com/mrshu/nim-notetxt",
+    "method": "git",
+    "tags": [
+      "notetxt,",
+      "note",
+      "taking"
+    ],
+    "description": "A library that implements the note.txt specification for note taking.",
+    "license": "MIT",
+    "web": "https://github.com/mrshu/nim-notetxt"
   }
 ]
