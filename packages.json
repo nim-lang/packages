@@ -8128,5 +8128,18 @@
     "description": "A library that implements the note.txt specification for note taking.",
     "license": "MIT",
     "web": "https://github.com/mrshu/nim-notetxt"
+  },
+  {
+    "name": "breeze",
+    "url": "https://github.com/alehander42/breeze",
+    "method": "git",
+    "tags": [
+      "dsl",
+      "macro",
+      "metaprogramming"
+    ],
+    "description": "A dsl for writing macros in Nim",
+    "license": "MIT",
+    "web": "https://github.com/alehander42/breeze"
   }
 ]
