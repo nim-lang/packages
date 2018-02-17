@@ -8141,5 +8141,31 @@
     "description": "A dsl for writing macros in Nim",
     "license": "MIT",
     "web": "https://github.com/alehander42/breeze"
+  },
+  {
+    "name": "joyent_http_parser",
+    "url": "https://github.com/nim-lang/joyent_http_parser",
+    "method": "git",
+    "tags": [
+      "wrapper",
+      "library",
+      "parsing"
+    ],
+    "description": "Wrapper for high performance HTTP parsing library.",
+    "license": "MIT",
+    "web": "https://github.com/nim-lang/joyent_http_parser"
+  },
+  {
+    "name": "libsvm_legacy",
+    "url": "https://github.com/nim-lang/libsvm_legacy",
+    "method": "git",
+    "tags": [
+      "wrapper",
+      "library",
+      "scientific"
+    ],
+    "description": "Wrapper for libsvm.",
+    "license": "MIT",
+    "web": "https://github.com/nim-lang/libsvm_legacy"
   }
 ]
