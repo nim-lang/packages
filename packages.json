@@ -8175,8 +8175,10 @@
     "tags": [
       "p5",
       "javascript",
-      "creative coding",
-      "processing"
+      "creative",
+      "coding",
+      "processing",
+      "library"
     ],
     "description": "Nim bindings for p5.js.",
     "license": "MIT",
