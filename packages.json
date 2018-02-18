@@ -8167,5 +8167,19 @@
     "description": "Wrapper for libsvm.",
     "license": "MIT",
     "web": "https://github.com/nim-lang/libsvm_legacy"
+  },
+  {
+    "name": "nimp5",
+    "url": "https://github.com/Foldover/nim-p5",
+    "method": "git",
+    "tags": [
+      "p5",
+      "javascript",
+      "creative coding",
+      "processing"
+    ],
+    "description": "Nim bindings for p5.js.",
+    "license": "MIT",
+    "web": "https://github.com/Foldover/nim-p5"
   }
 ]
