@@ -8169,6 +8169,27 @@
     "web": "https://github.com/nim-lang/libsvm_legacy"
   },
   {
+    "name": "clblas",
+    "url": "https://github.com/numforge/nim-clblast",
+    "method": "git",
+    "tags": [
+      "BLAS",
+      "linear",
+      "algebra",
+      "vector",
+      "matrix",
+      "opencl",
+      "high",
+      "performance",
+      "computing",
+      "GPU",
+      "wrapper"
+    ],
+    "description": "Wrapper for CLBlast, an OpenCL BLAS library",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/numforge/nim-clblast"
+  },
+  {
     "name": "nimp5",
     "url": "https://github.com/Foldover/nim-p5",
     "method": "git",
