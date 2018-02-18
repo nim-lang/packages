@@ -8174,16 +8174,35 @@
     "method": "git",
     "tags": [
       "BLAS",
-      "linear algebra",
+      "linear",
+      "algebra",
       "vector",
       "matrix",
       "opencl",
-      "high performance computing",
+      "high",
+      "performance",
+      "computing",
       "GPU",
       "wrapper"
     ],
     "description": "Wrapper for CLBlast, an OpenCL BLAS library",
     "license": "Apache License 2.0",
     "web": "https://github.com/numforge/nim-clblast"
+  },
+  {
+    "name": "nimp5",
+    "url": "https://github.com/Foldover/nim-p5",
+    "method": "git",
+    "tags": [
+      "p5",
+      "javascript",
+      "creative",
+      "coding",
+      "processing",
+      "library"
+    ],
+    "description": "Nim bindings for p5.js.",
+    "license": "MIT",
+    "web": "https://github.com/Foldover/nim-p5"
   }
 ]
