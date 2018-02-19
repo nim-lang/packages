@@ -8169,7 +8169,7 @@
     "web": "https://github.com/nim-lang/libsvm_legacy"
   },
   {
-    "name": "clblas",
+    "name": "clblast",
     "url": "https://github.com/numforge/nim-clblast",
     "method": "git",
     "tags": [
