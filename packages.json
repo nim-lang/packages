@@ -8227,5 +8227,20 @@
     "description": "std / sha1 extension",
     "license": "Apache License 2.0",
     "web": "https://github.com/CORDEA/sha1ext"
+  },
+  {
+    "name": "libsha",
+    "url": "https://github.com/forlan-ua/nim-libsha",
+    "method": "git",
+    "tags": [
+      "sha1",
+      "sha224",
+      "sha256",
+      "sha384",
+      "sha512"
+    ],
+    "description": "Sha1 and Sha2 implementations",
+    "license": "MIT",
+    "web": "https://github.com/forlan-ua/nim-libsha"
   }
 ]
