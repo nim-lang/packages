@@ -8242,5 +8242,19 @@
     "description": "Sha1 and Sha2 implementations",
     "license": "MIT",
     "web": "https://github.com/forlan-ua/nim-libsha"
+  },
+  {
+    "name": "pwned",
+    "url": "https://github.com/dom96/pwned",
+    "method": "git",
+    "tags": [
+      "application",
+      "passwords",
+      "security",
+      "binary"
+    ],
+    "description": "A client for the Pwned passwords API.",
+    "license": "MIT",
+    "web": "https://github.com/dom96/pwned"
   }
 ]
