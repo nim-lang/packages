@@ -8263,7 +8263,7 @@
     "method": "git",
     "tags": [
       "library",
-      "user agent"   
+      "useragent"   
     ],
     "description": "User Agent parser for nim.",
     "license": "MIT",
