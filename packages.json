@@ -8256,5 +8256,19 @@
     "description": "A client for the Pwned passwords API.",
     "license": "MIT",
     "web": "https://github.com/dom96/pwned"
+  },
+  {
+    "name": "metric",
+    "url": "https://github.com/mjendrusch/metric",
+    "method": "git",
+    "tags": [
+      "library",
+      "units",
+      "scientific",
+      "dimensional-analysis"
+    ],
+    "description": "Dimensionful types and dimensional analysis.",
+    "license": "MIT",
+    "web": "https://github.com/mjendrusch/metric"
   }
 ]
