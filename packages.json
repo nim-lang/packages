@@ -5794,7 +5794,7 @@
     "web": "https://github.com/status-im/nim-rlp"
   },
   {
-    "name": "eth-keys",
+    "name": "eth_keys",
     "url": "https://github.com/status-im/nim-eth-keys",
     "method": "git",
     "tags": [
