@@ -8258,6 +8258,19 @@
     "web": "https://github.com/dom96/pwned"
   },
   {
+    "name": "suffer",
+    "url": "https://github.com/emekoi/suffer",
+    "method": "git",
+    "tags": [
+      "graphics",
+      "font",
+      "software"
+    ],
+    "description": "a nim library for drawing 2d shapes, text, and images to 32bit software pixel buffers",
+    "license": "MIT",
+    "web": "https://github.com/emekoi/suffer"
+  },
+  {
     "name": "metric",
     "url": "https://github.com/mjendrusch/metric",
     "method": "git",
