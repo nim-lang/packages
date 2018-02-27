@@ -8269,5 +8269,31 @@
     "description": "a nim library for drawing 2d shapes, text, and images to 32bit software pixel buffers",
     "license": "MIT",
     "web": "https://github.com/emekoi/suffer"
+  },
+  {
+    "name": "metric",
+    "url": "https://github.com/mjendrusch/metric",
+    "method": "git",
+    "tags": [
+      "library",
+      "units",
+      "scientific",
+      "dimensional-analysis"
+    ],
+    "description": "Dimensionful types and dimensional analysis.",
+    "license": "MIT",
+    "web": "https://github.com/mjendrusch/metric"
+  },
+  {
+    "name": "useragents",
+    "url": "https://github.com/treeform/useragents",
+    "method": "git",
+    "tags": [
+      "library",
+      "useragent"   
+    ],
+    "description": "User Agent parser for nim.",
+    "license": "MIT",
+    "web": "https://github.com/treeform/useragents"
   }
 ]
