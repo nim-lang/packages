@@ -4303,6 +4303,23 @@
     "web": "https://networkos.net/nim/reactor.nim"
   },
   {
+    "name": "asynctools",
+    "url": "https://github.com/cheatfate/asynctools",
+    "method": "git",
+    "tags": [
+      "async",
+      "pipes",
+      "processes",
+      "ipc",
+      "synchronization",
+      "dns",
+      "pty"
+    ],
+    "description": "Various asynchronous tools for Nim",
+    "license": "MIT",
+    "web": "https://github.com/cheatfate/asynctools"
+  },
+  {
     "name": "collections",
     "url": "https://github.com/zielmicha/collections.nim",
     "method": "git",
