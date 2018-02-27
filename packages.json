@@ -8258,6 +8258,20 @@
     "web": "https://github.com/dom96/pwned"
   },
   {
+    "name": "metric",
+    "url": "https://github.com/mjendrusch/metric",
+    "method": "git",
+    "tags": [
+      "library",
+      "units",
+      "scientific",
+      "dimensional-analysis"
+    ],
+    "description": "Dimensionful types and dimensional analysis.",
+    "license": "MIT",
+    "web": "https://github.com/mjendrusch/metric"
+  },
+  {
     "name": "useragents",
     "url": "https://github.com/treeform/useragents",
     "method": "git",
