@@ -8270,5 +8270,17 @@
     "description": "Dimensionful types and dimensional analysis.",
     "license": "MIT",
     "web": "https://github.com/mjendrusch/metric"
+  },
+  {
+    "name": "useragents",
+    "url": "https://github.com/treeform/useragents",
+    "method": "git",
+    "tags": [
+      "library",
+      "useragent"   
+    ],
+    "description": "User Agent parser for nim.",
+    "license": "MIT",
+    "web": "https://github.com/treeform/useragents"
   }
 ]
