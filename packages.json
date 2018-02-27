@@ -5769,6 +5769,165 @@
     "web": "https://github.com/FedericoCeratto/nim-etcd-client"
   },
   {
+    "name": "ranges",
+    "url": "https://github.com/status-im/nim-ranges",
+    "method": "git",
+    "tags": [
+      "library",
+      "ranges"
+    ],
+    "description": "Exploration of various implementations of memory range types",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/status-im/nim-ranges"
+  },
+  {
+    "name": "rlp",
+    "url": "https://github.com/status-im/nim-rlp",
+    "method": "git",
+    "tags": [
+      "library",
+      "ethereum",
+      "rlp"
+    ],
+    "description": "RLP serialization library for Nim",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/status-im/nim-rlp"
+  },
+  {
+    "name": "eth-keys",
+    "url": "https://github.com/status-im/nim-eth-keys",
+    "method": "git",
+    "tags": [
+      "library",
+      "ethereum",
+      "cryptography"
+    ],
+    "description": "A reimplementation in pure Nim of eth-keys, the common API for Ethereum key operations.",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/status-im/nim-eth-keys"
+  },
+  {
+    "name": "ethash",
+    "url": "https://github.com/status-im/nim-ethash",
+    "method": "git",
+    "tags": [
+      "library",
+      "ethereum",
+      "ethash",
+      "cryptography",
+      "proof-of-work"
+    ],
+    "description": "A Nim implementation of Ethash, the ethereum proof-of-work hashing function",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/status-im/nim-ethash"
+  },
+  {
+    "name": "evmjit",
+    "url": "https://github.com/status-im/nim-evmjit",
+    "method": "git",
+    "tags": [
+      "library",
+      "ethereum",
+      "evm",
+      "jit",
+      "wrapper"
+    ],
+    "description": "A wrapper for the The Ethereum EVM JIT library",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/status-im/nim-evmjit"
+  },
+  {
+    "name": "keccak_tiny",
+    "url": "https://github.com/status-im/nim-keccak-tiny",
+    "method": "git",
+    "tags": [
+      "library",
+      "sha3",
+      "keccak",
+      "cryptography"
+    ],
+    "description": "A wrapper for the keccak-tiny C library",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/status-im/nim-keccak-tiny"
+  },
+  {
+    "name": "rocksdb",
+    "url": "https://github.com/status-im/nim-rocksdb",
+    "method": "git",
+    "tags": [
+      "library",
+      "wrapper",
+      "database"
+    ],
+    "description": "A wrapper for Facebook's RocksDB, an embeddable, persistent key-value store for fast storage",
+    "license": "Apache License 2.0 or GPLv2",
+    "web": "https://github.com/status-im/nim-rocksdb"
+  },
+  {
+    "name": "secp256k1",
+    "url": "https://github.com/status-im/nim-secp256k1",
+    "method": "git",
+    "tags": [
+      "library",
+      "cryptography",
+      "secp256k1"
+    ],
+    "description": "A wrapper for the libsecp256k1 C library",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/status-im/nim-secp256k1"
+  },
+  {
+    "name": "ethereum_trie",
+    "url": "https://github.com/status-im/nim-trie",
+    "method": "git",
+    "tags": [
+      "library",
+      "ethereum",
+      "trie",
+      "patricia-trie"
+    ],
+    "description": "Merkle Patricia Tries as specified by Ethereum",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/status-im/nim-trie"
+  },
+  {
+    "name": "ttmath",
+    "url": "https://github.com/status-im/nim-ttmath",
+    "method": "git",
+    "tags": [
+      "library",
+      "math",
+      "numbers"
+    ],
+    "description": "A Nim wrapper for ttmath: big numbers with fixed size",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/status-im/nim-ttmath"
+  },
+  {
+    "name": "nimbus",
+    "url": "https://github.com/status-im/nimbus",
+    "method": "git",
+    "tags": [
+      "ethereum"
+    ],
+    "description": "An Ethereum 2.0 Sharding Client for Resource-Restricted Devices",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/status-im/nimbus"
+  },
+  {
+    "name": "mpint",
+    "url": "https://github.com/status-im/mpint",
+    "method": "git",
+    "tags": [
+      "library",
+      "math",
+      "numbers"
+    ],
+    "description": "Efficient multiprecision int in Nim",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/status-im/mpint"
+  },
+  {
     "name": "stb_image",
     "url": "https://gitlab.com/define-private-public/stb_image-Nim",
     "method": "git",
