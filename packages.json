@@ -8455,5 +8455,19 @@
     "description": "User Agent parser for nim.",
     "license": "MIT",
     "web": "https://github.com/treeform/useragents"
+  },
+  {
+    "name": "nimna",
+    "url": "https://github.com/mjendrusch/nimna",
+    "method": "git",
+    "tags": [
+      "library",
+      "nucleic-acid-folding",
+      "scientific",
+      "biology"
+    ],
+    "description": "Nucleic acid folding and design.",
+    "license": "MIT",
+    "web": "https://github.com/mjendrusch/nimna"
   }
 ]
