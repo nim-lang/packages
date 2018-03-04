@@ -8469,5 +8469,17 @@
     "description": "Nucleic acid folding and design.",
     "license": "MIT",
     "web": "https://github.com/mjendrusch/nimna"
+  },
+  {
+    "name": "bencode",
+    "url": "https://github.com/FedericoCeratto/nim-bencode",
+    "method": "git",
+    "tags": [
+      "library",
+      "bencode"
+    ],
+    "description": "Bencode serialization/deserialization library",
+    "license": "LGPLv3",
+    "web": "https://github.com/FedericoCeratto/nim-bencode"
   }
 ]
