@@ -8502,7 +8502,7 @@
       "colors",
       "cmyk",
       "hsl",
-      "hsv",
+      "hsv"
     ],
     "description": "Everything you want to do with colors.",
     "license": "MIT",
