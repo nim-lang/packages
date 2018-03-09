@@ -8450,7 +8450,7 @@
     "method": "git",
     "tags": [
       "library",
-      "useragent"   
+      "useragent"
     ],
     "description": "User Agent parser for nim.",
     "license": "MIT",
@@ -8507,5 +8507,21 @@
     "description": "Everything you want to do with colors.",
     "license": "MIT",
     "web": "https://github.com/treeform/chroma"
-  } 
+  },
+  {
+    "name": "nimssl",
+    "url": "https://github.com/genotrance/nimssl",
+    "method": "git",
+    "tags": [
+      "openssl",
+      "sha",
+      "sha1",
+      "hash",
+      "sha256",
+      "sha512"
+    ],
+    "description": "OpenSSL wrapper for Nim",
+    "license": "MIT",
+    "web": "https://github.com/genotrance/nimssl"
+  }
 ]
