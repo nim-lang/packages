@@ -8550,5 +8550,18 @@
     "description": "WinKerberos wrapper for Nim",
     "license": "MIT",
     "web": "https://github.com/genotrance/nimkerberos"
+  },
+  {
+    "name": "nimssh2",
+    "url": "https://github.com/genotrance/nimssh2",
+    "method": "git",
+    "tags": [
+      "ssh",
+      "library",
+      "wrapper"
+    ],
+    "description": "libssl2 wrapper for Nim",
+    "license": "MIT",
+    "web": "https://github.com/genotrance/nimssh2"
   }
 ]
