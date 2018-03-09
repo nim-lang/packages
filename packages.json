@@ -8450,7 +8450,7 @@
     "method": "git",
     "tags": [
       "library",
-      "useragent"   
+      "useragent"
     ],
     "description": "User Agent parser for nim.",
     "license": "MIT",
@@ -8507,5 +8507,91 @@
     "description": "Everything you want to do with colors.",
     "license": "MIT",
     "web": "https://github.com/treeform/chroma"
-  } 
+  },
+  {
+    "name": "nimrax",
+    "url": "https://github.com/genotrance/nimrax",
+    "method": "git",
+    "tags": [
+      "rax",
+      "radix",
+      "tree",
+      "data",
+      "structure"
+    ],
+    "description": "Radix tree wrapper for Nim",
+    "license": "MIT",
+    "web": "https://github.com/genotrance/nimrax"
+  },
+  {
+    "name": "nimbass",
+    "url": "https://github.com/genotrance/nimbass",
+    "method": "git",
+    "tags": [
+      "bass",
+      "audio",
+      "wrapper"
+    ],
+    "description": "Bass wrapper for Nim",
+    "license": "MIT",
+    "web": "https://github.com/genotrance/nimbass"
+  },
+  {
+    "name": "nimkerberos",
+    "url": "https://github.com/genotrance/nimkerberos",
+    "method": "git",
+    "tags": [
+      "kerberos",
+      "ntlm",
+      "authentication",
+      "auth",
+      "sspi"
+    ],
+    "description": "WinKerberos wrapper for Nim",
+    "license": "MIT",
+    "web": "https://github.com/genotrance/nimkerberos"
+  },
+  {
+    "name": "nimssh2",
+    "url": "https://github.com/genotrance/nimssh2",
+    "method": "git",
+    "tags": [
+      "ssh",
+      "library",
+      "wrapper"
+    ],
+    "description": "libssh2 wrapper for Nim",
+    "license": "MIT",
+    "web": "https://github.com/genotrance/nimssh2"
+  },
+  {
+    "name": "nimssl",
+    "url": "https://github.com/genotrance/nimssl",
+    "method": "git",
+    "tags": [
+      "openssl",
+      "sha",
+      "sha1",
+      "hash",
+      "sha256",
+      "sha512"
+    ],
+    "description": "OpenSSL wrapper for Nim",
+    "license": "MIT",
+    "web": "https://github.com/genotrance/nimssl"
+  },
+  {
+    "name": "snip",
+    "url": "https://github.com/genotrance/snip",
+    "method": "git",
+    "tags": [
+      "console",
+      "editor",
+      "text",
+      "cli"
+    ],
+    "description": "Text editor to speed up testing code snippets",
+    "license": "MIT",
+    "web": "https://github.com/genotrance/snip"
+  }
 ]
