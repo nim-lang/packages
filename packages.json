@@ -8560,8 +8560,24 @@
       "library",
       "wrapper"
     ],
-    "description": "libssl2 wrapper for Nim",
+    "description": "libssh2 wrapper for Nim",
     "license": "MIT",
     "web": "https://github.com/genotrance/nimssh2"
+  },
+  {
+    "name": "nimssl",
+    "url": "https://github.com/genotrance/nimssl",
+    "method": "git",
+    "tags": [
+      "openssl",
+      "sha",
+      "sha1",
+      "hash",
+      "sha256",
+      "sha512"
+    ],
+    "description": "OpenSSL wrapper for Nim",
+    "license": "MIT",
+    "web": "https://github.com/genotrance/nimssl"
   }
 ]
