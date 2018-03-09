@@ -8450,7 +8450,7 @@
     "method": "git",
     "tags": [
       "library",
-      "useragent"   
+      "useragent"
     ],
     "description": "User Agent parser for nim.",
     "license": "MIT",
@@ -8507,5 +8507,19 @@
     "description": "Everything you want to do with colors.",
     "license": "MIT",
     "web": "https://github.com/treeform/chroma"
-  } 
+  },
+  {
+    "name": "snip",
+    "url": "https://github.com/genotrance/snip",
+    "method": "git",
+    "tags": [
+      "console",
+      "editor",
+      "text",
+      "cli"
+    ],
+    "description": "Text editor to speed up testing code snippets",
+    "license": "MIT",
+    "web": "https://github.com/genotrance/snip"
+  }
 ]
