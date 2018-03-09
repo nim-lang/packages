@@ -8450,7 +8450,7 @@
     "method": "git",
     "tags": [
       "library",
-      "useragent"   
+      "useragent"
     ],
     "description": "User Agent parser for nim.",
     "license": "MIT",
@@ -8507,5 +8507,20 @@
     "description": "Everything you want to do with colors.",
     "license": "MIT",
     "web": "https://github.com/treeform/chroma"
-  } 
+  },
+  {
+    "name": "nimrax",
+    "url": "https://github.com/genotrance/nimrax",
+    "method": "git",
+    "tags": [
+      "rax",
+      "radix",
+      "tree",
+      "data",
+      "structure"
+    ],
+    "description": "Radix tree wrapper for Nim",
+    "license": "MIT",
+    "web": "https://github.com/genotrance/nimrax"
+  }
 ]
