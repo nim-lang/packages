@@ -8593,5 +8593,16 @@
     "description": "Text editor to speed up testing code snippets",
     "license": "MIT",
     "web": "https://github.com/genotrance/snip"
+  },
+  {
+    "name": "moduleinit",
+    "url": "https://github.com/skunkiferous/moduleinit",
+    "method": "git",
+    "tags": [
+      "v0.1.0"
+    ],
+    "description": "Nim module/thread initialisation ordering library",
+    "license": "MIT",
+    "web": "https://github.com/skunkiferous/moduleinit"
   }
 ]
