@@ -8599,10 +8599,11 @@
     "url": "https://github.com/2vg/mofuw",
     "method": "git",
     "tags": [
-      "http-server",
+      "web"
+      "http",
       "framework"
     ],
-    "description": "more faster, ultra performance webserver",
+    "description": "mofuw is *MO*re *F*aster, *U*ltra *W*ebserver",
     "license": "MIT",
     "web": "https://github.com/2vg/mofuw"
   }
