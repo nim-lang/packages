@@ -8593,5 +8593,17 @@
     "description": "Text editor to speed up testing code snippets",
     "license": "MIT",
     "web": "https://github.com/genotrance/snip"
+  },
+  {
+    "name": "mofuw",
+    "url": "https://github.com/2vg/mofuw",
+    "method": "git",
+    "tags": [
+      "http-server",
+      "framework"
+    ],
+    "description": "more faster, ultra performance webserver",
+    "license": "MIT",
+    "web": "https://github.com/2vg/mofuw"
   }
 ]
