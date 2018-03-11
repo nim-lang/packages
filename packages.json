@@ -8593,5 +8593,23 @@
     "description": "Text editor to speed up testing code snippets",
     "license": "MIT",
     "web": "https://github.com/genotrance/snip"
+  },
+  {
+    "name": "scnim",
+    "url": "https://github.com/capocasa/scnim",
+    "method": "git",
+    "tags": [
+      "music",
+      "synthesizer",
+      "realtime",
+      "supercollider",
+      "ugen",
+      "plugin",
+      "binding",
+      "audio"
+    ],
+    "description": "Develop SuperCollider UGens in Nim",
+    "license": "MIT",
+    "web": "https://github.com/capocasa/scnim"
   }
 ]
