@@ -8611,5 +8611,21 @@
     "description": "Develop SuperCollider UGens in Nim",
     "license": "MIT",
     "web": "https://github.com/capocasa/scnim"
+  },
+  {
+    "name": "nimgl",
+    "url": "https://github.com/cavariux/nimgl",
+    "method": "git",
+    "tags": [
+      "glfw",
+      "glew",
+      "math",
+      "opengl",
+      "bindings",
+      "gl"
+    ],
+    "description": "Nim Game Library",
+    "license": "MIT",
+    "web": "https://github.com/cavariux/nimgl"
   }
 ]
