@@ -4303,6 +4303,23 @@
     "web": "https://networkos.net/nim/reactor.nim"
   },
   {
+    "name": "asynctools",
+    "url": "https://github.com/cheatfate/asynctools",
+    "method": "git",
+    "tags": [
+      "async",
+      "pipes",
+      "processes",
+      "ipc",
+      "synchronization",
+      "dns",
+      "pty"
+    ],
+    "description": "Various asynchronous tools for Nim",
+    "license": "MIT",
+    "web": "https://github.com/cheatfate/asynctools"
+  },
+  {
     "name": "collections",
     "url": "https://github.com/zielmicha/collections.nim",
     "method": "git",
@@ -5767,6 +5784,165 @@
     "description": "etcd client library",
     "license": "LGPLv3",
     "web": "https://github.com/FedericoCeratto/nim-etcd-client"
+  },
+  {
+    "name": "ranges",
+    "url": "https://github.com/status-im/nim-ranges",
+    "method": "git",
+    "tags": [
+      "library",
+      "ranges"
+    ],
+    "description": "Exploration of various implementations of memory range types",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/status-im/nim-ranges"
+  },
+  {
+    "name": "rlp",
+    "url": "https://github.com/status-im/nim-rlp",
+    "method": "git",
+    "tags": [
+      "library",
+      "ethereum",
+      "rlp"
+    ],
+    "description": "RLP serialization library for Nim",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/status-im/nim-rlp"
+  },
+  {
+    "name": "eth_keys",
+    "url": "https://github.com/status-im/nim-eth-keys",
+    "method": "git",
+    "tags": [
+      "library",
+      "ethereum",
+      "cryptography"
+    ],
+    "description": "A reimplementation in pure Nim of eth-keys, the common API for Ethereum key operations.",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/status-im/nim-eth-keys"
+  },
+  {
+    "name": "ethash",
+    "url": "https://github.com/status-im/nim-ethash",
+    "method": "git",
+    "tags": [
+      "library",
+      "ethereum",
+      "ethash",
+      "cryptography",
+      "proof-of-work"
+    ],
+    "description": "A Nim implementation of Ethash, the ethereum proof-of-work hashing function",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/status-im/nim-ethash"
+  },
+  {
+    "name": "evmjit",
+    "url": "https://github.com/status-im/nim-evmjit",
+    "method": "git",
+    "tags": [
+      "library",
+      "ethereum",
+      "evm",
+      "jit",
+      "wrapper"
+    ],
+    "description": "A wrapper for the The Ethereum EVM JIT library",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/status-im/nim-evmjit"
+  },
+  {
+    "name": "keccak_tiny",
+    "url": "https://github.com/status-im/nim-keccak-tiny",
+    "method": "git",
+    "tags": [
+      "library",
+      "sha3",
+      "keccak",
+      "cryptography"
+    ],
+    "description": "A wrapper for the keccak-tiny C library",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/status-im/nim-keccak-tiny"
+  },
+  {
+    "name": "rocksdb",
+    "url": "https://github.com/status-im/nim-rocksdb",
+    "method": "git",
+    "tags": [
+      "library",
+      "wrapper",
+      "database"
+    ],
+    "description": "A wrapper for Facebook's RocksDB, an embeddable, persistent key-value store for fast storage",
+    "license": "Apache License 2.0 or GPLv2",
+    "web": "https://github.com/status-im/nim-rocksdb"
+  },
+  {
+    "name": "secp256k1",
+    "url": "https://github.com/status-im/nim-secp256k1",
+    "method": "git",
+    "tags": [
+      "library",
+      "cryptography",
+      "secp256k1"
+    ],
+    "description": "A wrapper for the libsecp256k1 C library",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/status-im/nim-secp256k1"
+  },
+  {
+    "name": "ethereum_trie",
+    "url": "https://github.com/status-im/nim-trie",
+    "method": "git",
+    "tags": [
+      "library",
+      "ethereum",
+      "trie",
+      "patricia-trie"
+    ],
+    "description": "Merkle Patricia Tries as specified by Ethereum",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/status-im/nim-trie"
+  },
+  {
+    "name": "ttmath",
+    "url": "https://github.com/status-im/nim-ttmath",
+    "method": "git",
+    "tags": [
+      "library",
+      "math",
+      "numbers"
+    ],
+    "description": "A Nim wrapper for ttmath: big numbers with fixed size",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/status-im/nim-ttmath"
+  },
+  {
+    "name": "nimbus",
+    "url": "https://github.com/status-im/nimbus",
+    "method": "git",
+    "tags": [
+      "ethereum"
+    ],
+    "description": "An Ethereum 2.0 Sharding Client for Resource-Restricted Devices",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/status-im/nimbus"
+  },
+  {
+    "name": "mpint",
+    "url": "https://github.com/status-im/mpint",
+    "method": "git",
+    "tags": [
+      "library",
+      "math",
+      "numbers"
+    ],
+    "description": "Efficient multiprecision int in Nim",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/status-im/mpint"
   },
   {
     "name": "stb_image",
@@ -8051,22 +8227,6 @@
     "web": "https://github.com/Narazaka/shiori_charset_convert-nim"
   },
   {
-    "name": "rocksdb",
-    "url": "https://github.com/status-im/nim-rocksdb",
-    "method": "git",
-    "tags": [
-      "rocksdb",
-      "database",
-      "wrapper",
-      "key",
-      "value",
-      "storage"
-    ],
-    "description": "Nim wrapper for RocksDB, a persistent key-value store for Flash and RAM Storage.",
-    "license": "Apache v2 or GPLv2",
-    "web": "https://github.com/status-im/nim-rocksdb"
-  },
-  {
     "name": "grafanim",
     "url": "https://github.com/jamesalbert/grafanim",
     "method": "git",
@@ -8258,6 +8418,19 @@
     "web": "https://github.com/dom96/pwned"
   },
   {
+    "name": "suffer",
+    "url": "https://github.com/emekoi/suffer",
+    "method": "git",
+    "tags": [
+      "graphics",
+      "font",
+      "software"
+    ],
+    "description": "a nim library for drawing 2d shapes, text, and images to 32bit software pixel buffers",
+    "license": "MIT",
+    "web": "https://github.com/emekoi/suffer"
+  },
+  {
     "name": "metric",
     "url": "https://github.com/mjendrusch/metric",
     "method": "git",
@@ -8277,7 +8450,7 @@
     "method": "git",
     "tags": [
       "library",
-      "useragent"   
+      "useragent"
     ],
     "description": "User Agent parser for nim.",
     "license": "MIT",
@@ -8296,5 +8469,203 @@
     "description": "A wrapper for ttmath",
     "license": "Apache2",
     "web": "https://github.com/status-im/nim-ttmath"
+  },
+  {
+    "name": "nimna",
+    "url": "https://github.com/mjendrusch/nimna",
+    "method": "git",
+    "tags": [
+      "library",
+      "nucleic-acid-folding",
+      "scientific",
+      "biology"
+    ],
+    "description": "Nucleic acid folding and design.",
+    "license": "MIT",
+    "web": "https://github.com/mjendrusch/nimna"
+  },
+  {
+    "name": "bencode",
+    "url": "https://github.com/FedericoCeratto/nim-bencode",
+    "method": "git",
+    "tags": [
+      "library",
+      "bencode"
+    ],
+    "description": "Bencode serialization/deserialization library",
+    "license": "LGPLv3",
+    "web": "https://github.com/FedericoCeratto/nim-bencode"
+  },
+  {
+    "name": "i3ipc",
+    "url": "https://github.com/FedericoCeratto/nim-i3ipc",
+    "method": "git",
+    "tags": [
+      "library",
+      "i3"
+    ],
+    "description": "i3 IPC client library",
+    "license": "LGPLv3",
+    "web": "https://github.com/FedericoCeratto/nim-i3ipc"
+  },
+  {
+    "name": "chroma",
+    "url": "https://github.com/treeform/chroma",
+    "method": "git",
+    "tags": [
+      "colors",
+      "cmyk",
+      "hsl",
+      "hsv"
+    ],
+    "description": "Everything you want to do with colors.",
+    "license": "MIT",
+    "web": "https://github.com/treeform/chroma"
+  },
+  {
+    "name": "nimrax",
+    "url": "https://github.com/genotrance/nimrax",
+    "method": "git",
+    "tags": [
+      "rax",
+      "radix",
+      "tree",
+      "data",
+      "structure"
+    ],
+    "description": "Radix tree wrapper for Nim",
+    "license": "MIT",
+    "web": "https://github.com/genotrance/nimrax"
+  },
+  {
+    "name": "nimbass",
+    "url": "https://github.com/genotrance/nimbass",
+    "method": "git",
+    "tags": [
+      "bass",
+      "audio",
+      "wrapper"
+    ],
+    "description": "Bass wrapper for Nim",
+    "license": "MIT",
+    "web": "https://github.com/genotrance/nimbass"
+  },
+  {
+    "name": "nimkerberos",
+    "url": "https://github.com/genotrance/nimkerberos",
+    "method": "git",
+    "tags": [
+      "kerberos",
+      "ntlm",
+      "authentication",
+      "auth",
+      "sspi"
+    ],
+    "description": "WinKerberos wrapper for Nim",
+    "license": "MIT",
+    "web": "https://github.com/genotrance/nimkerberos"
+  },
+  {
+    "name": "nimssh2",
+    "url": "https://github.com/genotrance/nimssh2",
+    "method": "git",
+    "tags": [
+      "ssh",
+      "library",
+      "wrapper"
+    ],
+    "description": "libssh2 wrapper for Nim",
+    "license": "MIT",
+    "web": "https://github.com/genotrance/nimssh2"
+  },
+  {
+    "name": "nimssl",
+    "url": "https://github.com/genotrance/nimssl",
+    "method": "git",
+    "tags": [
+      "openssl",
+      "sha",
+      "sha1",
+      "hash",
+      "sha256",
+      "sha512"
+    ],
+    "description": "OpenSSL wrapper for Nim",
+    "license": "MIT",
+    "web": "https://github.com/genotrance/nimssl"
+  },
+  {
+    "name": "snip",
+    "url": "https://github.com/genotrance/snip",
+    "method": "git",
+    "tags": [
+      "console",
+      "editor",
+      "text",
+      "cli"
+    ],
+    "description": "Text editor to speed up testing code snippets",
+    "license": "MIT",
+    "web": "https://github.com/genotrance/snip"
+  },
+  {
+    "name": "moduleinit",
+    "url": "https://github.com/skunkiferous/moduleinit",
+    "method": "git",
+    "tags": [
+      "library",
+      "parallelism",
+      "threads"
+    ],
+    "description": "Nim module/thread initialisation ordering library",
+    "license": "MIT",
+    "web": "https://github.com/skunkiferous/moduleinit"
+  },
+  {
+    "name": "mofuw",
+    "url": "https://github.com/2vg/mofuw",
+    "method": "git",
+    "tags": [
+      "web",
+      "http",
+      "framework"
+    ],
+    "description": "mofuw is *MO*re *F*aster, *U*ltra *W*ebserver",
+    "license": "MIT",
+    "web": "https://github.com/2vg/mofuw"
+  },
+  {
+    "name": "scnim",
+    "url": "https://github.com/capocasa/scnim",
+    "method": "git",
+    "tags": [
+      "music",
+      "synthesizer",
+      "realtime",
+      "supercollider",
+      "ugen",
+      "plugin",
+      "binding",
+      "audio"
+    ],
+    "description": "Develop SuperCollider UGens in Nim",
+    "license": "MIT",
+    "web": "https://github.com/capocasa/scnim"
+  },
+  {
+    "name": "nimgl",
+    "url": "https://github.com/cavariux/nimgl",
+    "method": "git",
+    "tags": [
+      "glfw",
+      "glew",
+      "math",
+      "opengl",
+      "bindings",
+      "gl"
+    ],
+    "description": "Nim Game Library",
+    "license": "MIT",
+    "web": "https://github.com/cavariux/nimgl"
   }
 ]
