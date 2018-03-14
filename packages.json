@@ -8457,20 +8457,6 @@
     "web": "https://github.com/treeform/useragents"
   },
   {
-    "name": "ttmath",
-    "url": "https://github.com/status-im/nim-ttmath",
-    "method": "git",
-    "tags": [
-      "library",
-      "math",
-      "bigint",
-      "numbers"
-    ],
-    "description": "A wrapper for ttmath",
-    "license": "Apache2",
-    "web": "https://github.com/status-im/nim-ttmath"
-  },
-  {
     "name": "nimna",
     "url": "https://github.com/mjendrusch/nimna",
     "method": "git",
