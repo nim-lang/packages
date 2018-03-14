@@ -8667,5 +8667,18 @@
     "description": "Nim Game Library",
     "license": "MIT",
     "web": "https://github.com/cavariux/nimgl"
+  },
+  {
+    "name": "inim",
+    "url": "https://github.com/AndreiRegiani/INim",
+    "method": "git",
+    "tags": [
+      "repl",
+      "playground",
+      "shell"
+    ],
+    "description": "Interactive Nim Shell",
+    "license": "MIT",
+    "web": "https://github.com/AndreiRegiani/INim"
   }
 ]
