@@ -8690,5 +8690,18 @@
     "description": "Linear time regex matching",
     "license": "MIT",
     "web": "https://github.com/nitely/nim-regex"
+  },
+  {
+    "name": "tsundoku",
+    "url": "https://github.com/FedericoCeratto/tsundoku",
+    "method": "git",
+    "tags": [
+      "OPDS",
+      "ebook",
+      "server"
+    ],
+    "description": "Simple and lightweight OPDS ebook server",
+    "license": "GPLv3",
+    "web": "https://github.com/FedericoCeratto/tsundoku"
   }
 ]
