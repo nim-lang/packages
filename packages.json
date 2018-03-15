@@ -8666,5 +8666,18 @@
     "description": "Interactive Nim Shell",
     "license": "MIT",
     "web": "https://github.com/AndreiRegiani/INim"
+  },
+  {
+    "name": "nimbigwig",
+    "url": "https://github.com/genotrance/nimbigwig",
+    "method": "git",
+    "tags": [
+      "bigwig",
+      "bigbend",
+      "genome"
+    ],
+    "description": "libBigWig wrapper for Nim",
+    "license": "MIT",
+    "web": "https://github.com/genotrance/nimbigwig"
   }
 ]
