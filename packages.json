@@ -8703,5 +8703,19 @@
     "description": "Simple and lightweight OPDS ebook server",
     "license": "GPLv3",
     "web": "https://github.com/FedericoCeratto/tsundoku"
+  },
+  {
+    "name": "nimlibxlsxwriter",
+    "url": "https://github.com/KeepCoolWithCoolidge/nimlibxlsxwriter",
+    "method": "git",
+    "tags": [
+      "Excel",
+      "wrapper",
+      "nim",
+      "xlsx"
+    ],
+    "description": "libxslxwriter wrapper for Nim",
+    "license": "MIT",
+    "web": "https://github.com/KeepCoolWithCoolidge/nimlibxlsxwriter"
   }
 ]
