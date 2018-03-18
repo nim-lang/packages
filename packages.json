@@ -8745,5 +8745,22 @@
     "description": "Nim bindings for Clutter toolkit.",
     "license": "LGPLv2.1",
     "web": "https://github.com/KeepCoolWithCoolidge/nimclutter"
+  },
+  {
+    "name": "nimhdf5",
+    "url": "https://github.com/Vindaar/nimhdf5",
+    "method": "git",
+    "tags": [
+        "library",
+        "wrapper",
+        "binding",
+        "libhdf5",
+        "hdf5",
+        "ndarray",
+        "storage"
+    ],
+    "description": "Bindings for the HDF5 data format C library",
+    "license": "MIT",
+    "web": "https://github.com/Vindaar/nimhdf5"
   }
 ]
