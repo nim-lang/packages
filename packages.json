@@ -8703,5 +8703,20 @@
     "description": "Simple and lightweight OPDS ebook server",
     "license": "GPLv3",
     "web": "https://github.com/FedericoCeratto/tsundoku"
+  },
+  {
+    "name": "msqueue",
+    "url": "https://github.com/2vg/MSQueue",
+    "method": "git",
+    "tags": [
+      "algorithm",
+      "queue",
+      "MichaelScott",
+      "fast",
+      "concurrent"
+    ],
+    "description": "Michael-Scott queue implemented in Nim",
+    "license": "MIT",
+    "web": "https://github.com/2vg/MSQueue"
   }
 ]
