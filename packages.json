@@ -8716,5 +8716,34 @@
     "description": "Template generator for gester",
     "license": "MIT",
     "web": "https://github.com/shinriyo/nim_exodus"
+  },
+  {
+    "name": "nimlibxlsxwriter",
+    "url": "https://github.com/KeepCoolWithCoolidge/nimlibxlsxwriter",
+    "method": "git",
+    "tags": [
+      "Excel",
+      "wrapper",
+      "nim",
+      "xlsx"
+    ],
+    "description": "libxslxwriter wrapper for Nim",
+    "license": "MIT",
+    "web": "https://github.com/KeepCoolWithCoolidge/nimlibxlsxwriter"
+  },
+  {
+    "name": "msqueue",
+    "url": "https://github.com/2vg/MSQueue",
+    "method": "git",
+    "tags": [
+      "algorithm",
+      "queue",
+      "MichaelScott",
+      "fast",
+      "concurrent"
+    ],
+    "description": "Michael-Scott queue implemented in Nim",
+    "license": "MIT",
+    "web": "https://github.com/2vg/MSQueue"
   }
 ]
