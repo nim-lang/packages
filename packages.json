@@ -8732,5 +8732,18 @@
     "description": "Michael-Scott queue implemented in Nim",
     "license": "MIT",
     "web": "https://github.com/2vg/MSQueue"
+  },
+  {
+    "name": "nimclutter",
+    "url": "https://github.com/KeepCoolWithCoolidge/nimclutter",
+    "method": "git",
+    "tags": [
+      "clutter",
+      "gtk",
+      "gui"
+    ],
+    "description": "Nim bindings for Clutter toolkit.",
+    "license": "LGPLv2.1",
+    "web": "https://github.com/KeepCoolWithCoolidge/nimclutter"
   }
 ]
