@@ -8717,5 +8717,20 @@
     "description": "libxslxwriter wrapper for Nim",
     "license": "MIT",
     "web": "https://github.com/KeepCoolWithCoolidge/nimlibxlsxwriter"
+  },
+  {
+    "name": "msqueue",
+    "url": "https://github.com/2vg/MSQueue",
+    "method": "git",
+    "tags": [
+      "algorithm",
+      "queue",
+      "MichaelScott",
+      "fast",
+      "concurrent"
+    ],
+    "description": "Michael-Scott queue implemented in Nim",
+    "license": "MIT",
+    "web": "https://github.com/2vg/MSQueue"
   }
 ]
