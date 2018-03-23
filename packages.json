@@ -8772,16 +8772,30 @@
     "url": "https://github.com/Vindaar/nimhdf5",
     "method": "git",
     "tags": [
-        "library",
-        "wrapper",
-        "binding",
-        "libhdf5",
-        "hdf5",
-        "ndarray",
-        "storage"
+      "library",
+      "wrapper",
+      "binding",
+      "libhdf5",
+      "hdf5",
+      "ndarray",
+      "storage"
     ],
     "description": "Bindings for the HDF5 data format C library",
     "license": "MIT",
     "web": "https://github.com/Vindaar/nimhdf5"
+  },
+  {
+    "name": "loopfusion",
+    "url": "https://github.com/numforge/loopfusion",
+    "method": "git",
+    "tags": [
+      "loop",
+      "iterator",
+      "zip",
+      "variadic"
+    ],
+    "description": "Loop efficiently over a variadic number of containers",
+    "license": "MIT or Apache License 2.0",
+    "web": "https://github.com/numforge/loopfusion"
   }
 ]
