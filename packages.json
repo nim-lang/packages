@@ -8796,5 +8796,24 @@
     "description": "Itertools for Nim",
     "license": "MIT",
     "web": "https://github.com/narimiran/itertools"
+  },
+  {
+    "name": "sol",
+    "url": "https://github.com/davidgarland/sol",
+    "method": "git",
+    "tags": [
+      "simd",
+      "vector",
+      "math",
+      "avx",
+      "avx2",
+      "neon",
+      "c",
+      "c11",
+      "fma"
+    ],
+    "description": "A SIMD-accelerated vector library written in C11 with Nim bindings.",
+    "license": "MIT",
+    "web": "https://github.com/davidgarland/sol"
   }
 ]
