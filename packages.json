@@ -6644,7 +6644,7 @@
       "mathparser",
       "tinyexpr"
     ],
-    "description": "MathExpr - wrapper around TinyExpr C library",
+    "description": "MathExpr - pure-Nim mathematical expression evaluator library",
     "license": "MIT",
     "web": "https://github.com/Yardanico/nim-mathexpr"
   },
