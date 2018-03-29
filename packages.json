@@ -8796,5 +8796,16 @@
     "description": "Itertools for Nim",
     "license": "MIT",
     "web": "https://github.com/narimiran/itertools"
+  },
+  {
+    "name": "contest",
+    "url": "https://github.com/mkanenobu/myutils",
+    "method": "git",
+    "tags": [
+      "tags"
+    ],
+    "description": "Library for programming contest",
+    "license": "MIT",
+    "web": "https://github.com/mkanenobu/myutils"
   }
 ]
