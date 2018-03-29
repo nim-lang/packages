@@ -8796,5 +8796,16 @@
     "description": "Itertools for Nim",
     "license": "MIT",
     "web": "https://github.com/narimiran/itertools"
+  },
+  {
+    "name": "typelists",
+    "url": "https://github.com/yglukhov/typelists",
+    "method": "git",
+    "tags": [
+      "metaprogramming"
+    ],
+    "description": "Typelists in Nim",
+    "license": "MIT",
+    "web": "https://github.com/yglukhov/typelists"
   }
 ]
