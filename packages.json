@@ -8807,5 +8807,23 @@
     "description": "Typelists in Nim",
     "license": "MIT",
     "web": "https://github.com/yglukhov/typelists"
+  },
+  {
+    "name": "sol",
+    "url": "https://github.com/davidgarland/sol",
+    "method": "git",
+    "tags": [
+      "c99",
+      "c11",
+      "c",
+      "vector",
+      "simd",
+      "avx",
+      "avx2",
+      "neon"
+    ],
+    "description": "A SIMD-accelerated vector library written in C99 with Nim bindings.",
+    "license": "MIT",
+    "web": "https://github.com/davidgarland/sol"
   }
 ]
