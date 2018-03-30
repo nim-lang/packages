@@ -1054,7 +1054,7 @@
     "web": "https://github.com/PMunch/combparser"
   },
   {
-    "name": "protobuf-nim",
+    "name": "protobuf",
     "url": "https://github.com/PMunch/protobuf-nim",
     "method": "git",
     "tags": [
