@@ -8836,5 +8836,20 @@
     "description": "Wrappers for X86 SIMD intrinsics",
     "license": "MIT",
     "web": "https://github.com/nimlibs/simdX86"
+  },
+  {
+    "name": "loopfusion",
+    "url": "https://github.com/numforge/loopfusion",
+    "method": "git",
+    "tags": [
+      "loop",
+      "iterator",
+      "zip",
+      "forEach",
+      "variadic"
+    ],
+    "description": "Loop efficiently over a variadic number of containers",
+    "license": "MIT or Apache License 2.0",
+    "web": "https://github.com/numforge/loopfusion"
   }
 ]
