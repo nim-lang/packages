@@ -8851,5 +8851,17 @@
     "description": "Loop efficiently over a variadic number of containers",
     "license": "MIT or Apache License 2.0",
     "web": "https://github.com/numforge/loopfusion"
+  },
+  {
+    "name": "tinamou",
+    "url": "https://github.com/Double-oxygeN/tinamou",
+    "method": "git",
+    "tags": [
+      "game",
+      "sdl2"
+    ],
+    "description": "Game Library in Nim with SDL2",
+    "license": "MIT",
+    "web": "https://github.com/Double-oxygeN/tinamou"
   }
 ]
