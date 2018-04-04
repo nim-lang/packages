@@ -8864,5 +8864,16 @@
     "description": "Loop efficiently over a variadic number of containers",
     "license": "MIT or Apache License 2.0",
     "web": "https://github.com/numforge/loopfusion"
+  },
+  {
+    "name": "consul",
+    "url": "https://github.com/makingspace/nim_consul",
+    "method": "git",
+    "tags": [
+      "consul"
+    ],
+    "description": "A simple interface to a running Consul agent.",
+    "license": "BSD2",
+    "web": "https://github.com/makingspace/nim_consul"
   }
 ]
