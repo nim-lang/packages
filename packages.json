@@ -8878,5 +8878,16 @@
     "description": "A simple PubSub framework using STOMP.",
     "license": "BSD2",
     "web": "https://github.com/makingspace/cittadino"
+  },
+  {
+    "name": "consul",
+    "url": "https://github.com/makingspace/nim_consul",
+    "method": "git",
+    "tags": [
+      "consul"
+    ],
+    "description": "A simple interface to a running Consul agent.",
+    "license": "BSD2",
+    "web": "https://github.com/makingspace/nim_consul"
   }
 ]
