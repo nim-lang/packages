@@ -8726,6 +8726,19 @@
     "web": "https://github.com/FedericoCeratto/tsundoku"
   },
   {
+    "name": "nim_exodus",
+    "url": "https://github.com/shinriyo/nim_exodus",
+    "method": "git",
+    "tags": [
+      "web",
+      "html",
+      "template"
+    ],
+    "description": "Template generator for gester",
+    "license": "MIT",
+    "web": "https://github.com/shinriyo/nim_exodus"
+  },
+  {
     "name": "nimlibxlsxwriter",
     "url": "https://github.com/KeepCoolWithCoolidge/nimlibxlsxwriter",
     "method": "git",
