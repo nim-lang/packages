@@ -8864,5 +8864,19 @@
     "description": "Loop efficiently over a variadic number of containers",
     "license": "MIT or Apache License 2.0",
     "web": "https://github.com/numforge/loopfusion"
+  },
+  {
+    "name": "cittadino",
+    "url": "https://github.com/makingspace/cittadino",
+    "method": "git",
+    "tags": [
+      "pubsub",
+      "stomp",
+      "rabbitmq",
+      "amqp"
+    ],
+    "description": "A simple PubSub framework using STOMP.",
+    "license": "BSD2",
+    "web": "https://github.com/makingspace/cittadino"
   }
 ]
