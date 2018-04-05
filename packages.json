@@ -8726,6 +8726,19 @@
     "web": "https://github.com/FedericoCeratto/tsundoku"
   },
   {
+    "name": "nim_exodus",
+    "url": "https://github.com/shinriyo/nim_exodus",
+    "method": "git",
+    "tags": [
+      "web",
+      "html",
+      "template"
+    ],
+    "description": "Template generator for gester",
+    "license": "MIT",
+    "web": "https://github.com/shinriyo/nim_exodus"
+  },
+  {
     "name": "nimlibxlsxwriter",
     "url": "https://github.com/KeepCoolWithCoolidge/nimlibxlsxwriter",
     "method": "git",
@@ -8863,5 +8876,30 @@
     "description": "Game Library in Nim with SDL2",
     "license": "MIT",
     "web": "https://github.com/Double-oxygeN/tinamou"
+  },
+  {
+    "name": "cittadino",
+    "url": "https://github.com/makingspace/cittadino",
+    "method": "git",
+    "tags": [
+      "pubsub",
+      "stomp",
+      "rabbitmq",
+      "amqp"
+    ],
+    "description": "A simple PubSub framework using STOMP.",
+    "license": "BSD2",
+    "web": "https://github.com/makingspace/cittadino"
+  },
+  {
+    "name": "consul",
+    "url": "https://github.com/makingspace/nim_consul",
+    "method": "git",
+    "tags": [
+      "consul"
+    ],
+    "description": "A simple interface to a running Consul agent.",
+    "license": "BSD2",
+    "web": "https://github.com/makingspace/nim_consul"
   }
 ]
