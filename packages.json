@@ -8901,5 +8901,21 @@
     "description": "A simple interface to a running Consul agent.",
     "license": "BSD2",
     "web": "https://github.com/makingspace/nim_consul"
+  },
+  {
+    "name": "keystone",
+    "url": "https://github.com/6A/Keystone.nim",
+    "method": "git",
+    "tags": [
+      "binding",
+      "keystone",
+      "asm",
+      "assembler",
+      "x86",
+      "arm"
+    ],
+    "description": "Bindings to the Keystone Assembler.",
+    "license": "MIT",
+    "web": "https://github.com/6A/Keystone.nim"
   }
 ]
