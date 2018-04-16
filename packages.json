@@ -8917,5 +8917,17 @@
     "description": "Bindings to the Keystone Assembler.",
     "license": "MIT",
     "web": "https://github.com/6A/Keystone.nim"
+  },
+  {
+    "name": "morpheus",
+    "url": "https://github.com/notTito/morpheus",
+    "method": "git",
+    "tags": [
+      "matrix",
+      "linear-algebra"
+    ],
+    "description": "Nim Matrix module",
+    "license": "MIT",
+    "web": "https://github.com/notTito/morpheus"
   }
 ]
