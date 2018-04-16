@@ -2491,6 +2491,20 @@
     "web": "https://github.com/Senketsu/nshout"
   },
   {
+    "name": "nsu",
+    "url": "https://github.com/Senketsu/nsu",
+    "method": "git",
+    "tags": [
+      "library",
+      "tool",
+      "utility",
+      "screenshot"
+    ],
+    "description": "Simple screenshot library & cli tool made in Nim",
+    "license": "MIT",
+    "web": "https://github.com/Senketsu/nsu"
+  },
+  {
     "name": "nuuid",
     "url": "https://github.com/yglukhov/nim-only-uuid",
     "method": "git",
@@ -8929,5 +8943,22 @@
     "description": "Nim Matrix module",
     "license": "MIT",
     "web": "https://github.com/notTito/morpheus"
+  },
+  {
+    "name": "units",
+    "url": "https://github.com/Udiknedormin/NimUnits",
+    "method": "git",
+    "tags": [
+      "library",
+      "pure",
+      "units",
+      "physics",
+      "science",
+      "documentation",
+      "safety"
+    ],
+    "description": " Statically-typed quantity units.",
+    "license": "MIT",
+    "web": "https://github.com/Udiknedormin/NimUnits"
   }
 ]
