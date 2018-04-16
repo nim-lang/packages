@@ -8917,5 +8917,22 @@
     "description": "Bindings to the Keystone Assembler.",
     "license": "MIT",
     "web": "https://github.com/6A/Keystone.nim"
+  },
+  {
+    "name": "units",
+    "url": "https://github.com/Udiknedormin/NimUnits",
+    "method": "git",
+    "tags": [
+      "library",
+      "pure",
+      "units",
+      "physics",
+      "science",
+      "documentation",
+      "safety"
+    ],
+    "description": " Statically-typed quantity units.",
+    "license": "MIT",
+    "web": "https://github.com/Udiknedormin/NimUnits"
   }
 ]
