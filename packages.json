@@ -595,7 +595,7 @@
   },
   {
     "name": "glm",
-    "url": "https://github.com/krux02/nim-glm",
+    "url": "https://github.com/stavenko/nim-glm",
     "method": "git",
     "tags": [
       "opengl",
