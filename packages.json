@@ -606,7 +606,7 @@
     ],
     "description": "Port of c++ glm library with shader-like syntax",
     "license": "MIT",
-    "web": "https://github.com/stavenko/nim-glm"
+    "web": "https://github.com/krux02/nim-glm"
   },
   {
     "name": "python",
@@ -8960,5 +8960,17 @@
     "description": " Statically-typed quantity units.",
     "license": "MIT",
     "web": "https://github.com/Udiknedormin/NimUnits"
+  },
+  {
+    "name": "ast_pattern_matching",
+    "url": "https://github.com/krux02/ast-pattern-matching",
+    "method": "git",
+    "tags": [
+      "macros",
+      "pattern-matching"
+    ],
+    "description": "a general ast pattern matching library with a focus on correctness and good error messages",
+    "license": "MIT",
+    "web": "https://github.com/krux02/ast-pattern-matching"
   }
 ]
