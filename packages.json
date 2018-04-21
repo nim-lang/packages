@@ -8973,5 +8973,20 @@
     "description": "a general ast pattern matching library with a focus on correctness and good error messages",
     "license": "MIT",
     "web": "https://github.com/krux02/ast-pattern-matching"
+  },
+  {
+    "name": "tissue",
+    "url": "https://github.com/genotrance/tissue",
+    "method": "git",
+    "tags": [
+      "github",
+      "issue",
+      "debug",
+      "test",
+      "testament"
+    ],
+    "description": "Test failing snippets from Nim's issues",
+    "license": "MIT",
+    "web": "https://github.com/genotrance/tissue"
   }
 ]
