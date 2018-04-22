@@ -8988,5 +8988,18 @@
     "description": "Test failing snippets from Nim's issues",
     "license": "MIT",
     "web": "https://github.com/genotrance/tissue"
+  },
+  {
+    "name": "xxhash",
+    "url": "https://github.com/ifduyue/nim-xxhash",
+    "method": "git",
+    "tags": [
+      "xxhash",
+      "xxh32",
+      "xxh64"
+    ],
+    "description": "xxhash for nim",
+    "license": "BSD2",
+    "web": "https://github.com/ifduyue/nim-xxhash"
   }
 ]
