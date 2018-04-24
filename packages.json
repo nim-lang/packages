@@ -9010,7 +9010,7 @@
     "tags": [
       "serialization",
       "protocol-buffers",
-      "protobuf",
+      "protobuf"
     ],
     "description": "Protocol Buffers compiler support package for nimpb",
     "license": "MIT",
