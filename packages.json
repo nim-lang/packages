@@ -8988,5 +8988,18 @@
     "description": "Test failing snippets from Nim's issues",
     "license": "MIT",
     "web": "https://github.com/genotrance/tissue"
+  },
+  {
+    "name": "sphincs",
+    "url": "https://github.com/ehmry/nim-sphincs",
+    "method": "git",
+    "tags": [
+      "crypto",
+      "pqcrypto",
+      "signing"
+    ],
+    "description": "SPHINCS⁺ stateless hash-based signature scheme",
+    "license": "MIT",
+    "web": "https://github.com/ehmry/nim-sphincs"
   }
 ]
