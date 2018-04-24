@@ -9025,5 +9025,32 @@
     "description": "SPHINCS⁺ stateless hash-based signature scheme",
     "license": "MIT",
     "web": "https://github.com/ehmry/nim-sphincs"
+  },
+  {
+    "name": "nimpb",
+    "url": "https://github.com/oswjk/nimpb",
+    "method": "git",
+    "tags": [
+      "serialization",
+      "protocol-buffers",
+      "protobuf",
+      "library"
+    ],
+    "description": "A Protocol Buffers library for Nim",
+    "license": "MIT",
+    "web": "https://github.com/oswjk/nimpb"
+  },
+  {
+    "name": "nimpb_protoc",
+    "url": "https://github.com/oswjk/nimpb_protoc",
+    "method": "git",
+    "tags": [
+      "serialization",
+      "protocol-buffers",
+      "protobuf"
+    ],
+    "description": "Protocol Buffers compiler support package for nimpb",
+    "license": "MIT",
+    "web": "https://github.com/oswjk/nimpb_protoc"
   }
 ]
