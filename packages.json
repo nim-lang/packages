@@ -1042,6 +1042,30 @@
     "web": "https://github.com/PMunch/termstyle"
   },
   {
+    "name": "combparser",
+    "url": "https://github.com/PMunch/combparser",
+    "method": "git",
+    "tags": [
+      "parser",
+      "combinator"
+    ],
+    "description": "A parser combinator library for easy generation of complex parsers",
+    "license": "MIT",
+    "web": "https://github.com/PMunch/combparser"
+  },
+  {
+    "name": "protobuf",
+    "url": "https://github.com/PMunch/protobuf-nim",
+    "method": "git",
+    "tags": [
+      "protobuf",
+      "serialization"
+    ],
+    "description": "Protobuf implementation in pure Nim that leverages the power of the macro system to not depend on any external tools",
+    "license": "MIT",
+    "web": "https://github.com/PMunch/protobuf-nim"
+  },
+  {
     "name": "sdl2_nim",
     "url": "https://github.com/Vladar4/sdl2_nim",
     "method": "git",
