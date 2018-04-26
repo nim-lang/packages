@@ -9065,5 +9065,18 @@
     "description": "Swift-like unicode string handling",
     "license": "MIT",
     "web": "https://github.com/nitely/nim-strunicode"
+  },
+  {
+    "name": "turn_based_game",
+    "url": "https://github.com/JohnAD/turn_based_game",
+    "method": "git",
+    "tags": [
+      "rules-engine",
+      "game",
+      "turn-based"
+    ],
+    "description": "Game rules engine for simulating or playing turn-based games",
+    "license": "MIT",
+    "web": "https://github.com/JohnAD/turn_based_game/wiki"
   }
 ]
