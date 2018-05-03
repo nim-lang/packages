@@ -9084,10 +9084,10 @@
     "url": "https://github.com/juancarlospaco/nim-tinyslation",
     "method": "git",
     "tags": [
-      "translation,",
-      "tinyslation,",
-      "api,",
-      "strings,",
+      "translation",
+      "tinyslation",
+      "api",
+      "strings",
       "minimalism"
     ],
     "description": "Text string translation from free online crowdsourced API. Tinyslation a tiny translation.",
