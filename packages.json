@@ -9093,5 +9093,18 @@
     "description": "Text string translation from free online crowdsourced API. Tinyslation a tiny translation.",
     "license": "LGPLv3",
     "web": "https://github.com/juancarlospaco/nim-tinyslation"
+  },
+  {
+    "name": "magic",
+    "url": "https://github.com/xmonader/nim-magic",
+    "method": "git",
+    "tags": [
+      "libmagic",
+      "magic",
+      "guessfile"
+    ],
+    "description": "libmagic for nim",
+    "license": "MIT",
+    "web": "https://github.com/xmonader/nim-magic"
   }
 ]
