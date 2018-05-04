@@ -1,5 +1,20 @@
 [
   {
+    "name": "sha1",
+    "url": "https://github.com/nim-lang/Nim/blob/master/lib/std/sha1.nim",
+    "method": "git",
+    "tags": [
+      "sha1",
+      "cryptography",
+      "standard-library",
+      "openArray",
+      "functional"
+    ],
+    "description": "",
+    "license": "MIT",
+    "web": "https://nim-lang.org/docs/sha1.html"
+  },
+  {
     "name": "sequtils2",
     "url": "https://github.com/Michedev/sequtils2",
     "method": "git",
