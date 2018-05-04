@@ -9093,5 +9093,20 @@
     "description": "Text string translation from free online crowdsourced API. Tinyslation a tiny translation.",
     "license": "LGPLv3",
     "web": "https://github.com/juancarlospaco/nim-tinyslation"
+  },
+  {
+    "name": "random_font_color",
+    "url": "https://github.com/juancarlospaco/nim-random-font-color",
+    "method": "git",
+    "tags": [
+      "fonts",
+      "colors",
+      "pastel",
+      "design",
+      "random"
+    ],
+    "description": "Random curated Fonts and pastel Colors for your UI/UX design, design for non-designers.",
+    "license": "LGPLv3",
+    "web": "https://github.com/juancarlospaco/nim-random-font-color"
   }
 ]
