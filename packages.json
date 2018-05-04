@@ -9095,6 +9095,19 @@
     "web": "https://github.com/juancarlospaco/nim-tinyslation"
   },
   {
+    "name": "configparser",
+    "url": "https://github.com/xmonader/nim-configparser",
+    "method": "git",
+    "tags": [
+      "configparser",
+      "ini",
+      "parser"
+    ],
+    "description": "pure Ini configurations parser",
+    "license": "MIT",
+    "web": "https://github.com/xmonader/nim-configparser"
+  },
+  {
     "name": "random_font_color",
     "url": "https://github.com/juancarlospaco/nim-random-font-color",
     "method": "git",
