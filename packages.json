@@ -9106,5 +9106,33 @@
     "description": "libmagic for nim",
     "license": "MIT",
     "web": "https://github.com/xmonader/nim-magic"
+  },
+  {
+    "name": "configparser",
+    "url": "https://github.com/xmonader/nim-configparser",
+    "method": "git",
+    "tags": [
+      "configparser",
+      "ini",
+      "parser"
+    ],
+    "description": "pure Ini configurations parser",
+    "license": "MIT",
+    "web": "https://github.com/xmonader/nim-configparser"
+  },
+  {
+    "name": "random_font_color",
+    "url": "https://github.com/juancarlospaco/nim-random-font-color",
+    "method": "git",
+    "tags": [
+      "fonts",
+      "colors",
+      "pastel",
+      "design",
+      "random"
+    ],
+    "description": "Random curated Fonts and pastel Colors for your UI/UX design, design for non-designers.",
+    "license": "LGPLv3",
+    "web": "https://github.com/juancarlospaco/nim-random-font-color"
   }
 ]
