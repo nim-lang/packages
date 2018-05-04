@@ -9095,6 +9095,19 @@
     "web": "https://github.com/juancarlospaco/nim-tinyslation"
   },
   {
+    "name": "magic",
+    "url": "https://github.com/xmonader/nim-magic",
+    "method": "git",
+    "tags": [
+      "libmagic",
+      "magic",
+      "guessfile"
+    ],
+    "description": "libmagic for nim",
+    "license": "MIT",
+    "web": "https://github.com/xmonader/nim-magic"
+  },
+  {
     "name": "configparser",
     "url": "https://github.com/xmonader/nim-configparser",
     "method": "git",
