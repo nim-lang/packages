@@ -9134,5 +9134,19 @@
     "description": "Random curated Fonts and pastel Colors for your UI/UX design, design for non-designers.",
     "license": "LGPLv3",
     "web": "https://github.com/juancarlospaco/nim-random-font-color"
+  },
+  {
+    "name": "bytes2human",
+    "url": "https://github.com/juancarlospaco/nim-bytes2human",
+    "method": "git",
+    "tags": [
+      "bytes",
+      "human",
+      "minimalism",
+      "size"
+    ],
+    "description": "Convert bytes to kilobytes, megabytes, gigabytes, etc.",
+    "license": "LGPLv3",
+    "web": "https://github.com/juancarlospaco/nim-bytes2human"
   }
 ]
