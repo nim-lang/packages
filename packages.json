@@ -9134,5 +9134,18 @@
     "description": "Random curated Fonts and pastel Colors for your UI/UX design, design for non-designers.",
     "license": "LGPLv3",
     "web": "https://github.com/juancarlospaco/nim-random-font-color"
+  },
+  {
+    "name": "bencodeparser",
+    "url": "https://github.com/xmonader/nim-bencode",
+    "method": "git",
+    "tags": [
+      "bencode",
+      "torrent",
+      "parser"
+    ],
+    "description": "bencode library",
+    "license": "MIT",
+    "web": "https://github.com/xmonader/nim-bencode"
   }
 ]
