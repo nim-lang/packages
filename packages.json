@@ -9159,7 +9159,7 @@
       "minimalism"
     ],
     "description": "CRC32, 2 proc, copied from RosettaCode.",
-    "license": "LGPLv3",
+    "license": "MIT",
     "web": "https://github.com/juancarlospaco/nim-crc32"
   }
 ]
