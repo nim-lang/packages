@@ -9161,5 +9161,20 @@
     "description": "CRC32, 2 proc, copied from RosettaCode.",
     "license": "MIT",
     "web": "https://github.com/juancarlospaco/nim-crc32"
+  },
+  {
+    "name": "httpbeast",
+    "url": "https://github.com/dom96/httpbeast",
+    "method": "git",
+    "tags": [
+      "http",
+      "server",
+      "parallel",
+      "linux",
+      "unix"
+    ],
+    "description": "A performant and scalable HTTP server.",
+    "license": "MIT",
+    "web": "https://github.com/dom96/httpbeast"
   }
 ]
