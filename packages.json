@@ -9148,5 +9148,18 @@
     "description": "Convert bytes to kilobytes, megabytes, gigabytes, etc.",
     "license": "LGPLv3",
     "web": "https://github.com/juancarlospaco/nim-bytes2human"
+  },
+  {
+    "name": "crc32",
+    "url": "https://github.com/juancarlospaco/nim-crc32",
+    "method": "git",
+    "tags": [
+      "crc32",
+      "checksum",
+      "minimalism"
+    ],
+    "description": "CRC32, 2 proc, copied from RosettaCode.",
+    "license": "MIT",
+    "web": "https://github.com/juancarlospaco/nim-crc32"
   }
 ]
