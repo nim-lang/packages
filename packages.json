@@ -9148,5 +9148,21 @@
     "description": "Convert bytes to kilobytes, megabytes, gigabytes, etc.",
     "license": "LGPLv3",
     "web": "https://github.com/juancarlospaco/nim-bytes2human"
+  },
+  {
+    "name": "datetime2human",
+    "url": "https://github.com/juancarlospaco/nim-datetime2human",
+    "method": "git",
+    "tags": [
+      "date",
+      "time",
+      "datetime",
+      "ISO-8601",
+      "human",
+      "minimalism"
+    ],
+    "description": "Human friendly DateTime string representations, seconds to millenniums.",
+    "license": "LGPLv3",
+    "web": "https://github.com/juancarlospaco/nim-datetime2human"
   }
 ]
