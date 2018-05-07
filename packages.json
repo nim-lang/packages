@@ -9206,5 +9206,21 @@
     "description": "Human friendly DateTime string representations, seconds to millenniums.",
     "license": "LGPLv3",
     "web": "https://github.com/juancarlospaco/nim-datetime2human"
+  },
+  {
+    "name": "sass",
+    "url": "https://github.com/dom96/sass",
+    "method": "git",
+    "tags": [
+      "css",
+      "compiler",
+      "wrapper",
+      "library",
+      "scss",
+      "web"
+    ],
+    "description": "A wrapper for the libsass library.",
+    "license": "MIT",
+    "web": "https://github.com/dom96/sass"
   }
 ]
