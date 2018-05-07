@@ -9190,5 +9190,20 @@
     "description": "A performant and scalable HTTP server.",
     "license": "MIT",
     "web": "https://github.com/dom96/httpbeast"
+  },
+  {
+    "name": "set_display_off",
+    "url": "https://github.com/juancarlospaco/nim-set-display-off",
+    "method": "git",
+    "tags": [
+      "monitor",
+      "display",
+      "mobile",
+      "battery",
+      "minimalism"
+    ],
+    "description": "Turn Display OFF using Nim, it should Auto-ON when needed, crossplatform, designed for long running tasks on mobile devices and notebooks.",
+    "license": "LGPLv3",
+    "web": "https://github.com/juancarlospaco/nim-set-display-off"
   }
 ]
