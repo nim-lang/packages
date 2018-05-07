@@ -9150,6 +9150,48 @@
     "web": "https://github.com/juancarlospaco/nim-bytes2human"
   },
   {
+    "name": "nimhttpd",
+    "url": "https://github.com/h3rald/nimhttpd",
+    "method": "git",
+    "tags": [
+      "web-server",
+      "static-file-server",
+      "server",
+      "http"
+    ],
+    "description": "A tiny static file web server.",
+    "license": "MIT",
+    "web": "https://github.com/h3rald/nimhttpd"
+  },
+  {
+    "name": "crc32",
+    "url": "https://github.com/juancarlospaco/nim-crc32",
+    "method": "git",
+    "tags": [
+      "crc32",
+      "checksum",
+      "minimalism"
+    ],
+    "description": "CRC32, 2 proc, copied from RosettaCode.",
+    "license": "MIT",
+    "web": "https://github.com/juancarlospaco/nim-crc32"
+  },
+  {
+    "name": "httpbeast",
+    "url": "https://github.com/dom96/httpbeast",
+    "method": "git",
+    "tags": [
+      "http",
+      "server",
+      "parallel",
+      "linux",
+      "unix"
+    ],
+    "description": "A performant and scalable HTTP server.",
+    "license": "MIT",
+    "web": "https://github.com/dom96/httpbeast"
+  },
+  {
     "name": "datetime2human",
     "url": "https://github.com/juancarlospaco/nim-datetime2human",
     "method": "git",
