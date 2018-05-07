@@ -9190,5 +9190,19 @@
     "description": "A performant and scalable HTTP server.",
     "license": "MIT",
     "web": "https://github.com/dom96/httpbeast"
+  },
+  {
+    "name": "set_process_name",
+    "url": "https://github.com/juancarlospaco/nim-set-process-name",
+    "method": "git",
+    "tags": [
+      "process",
+      "daemon",
+      "name",
+      "monitoring"
+    ],
+    "description": "Set Process name in Nim, shows up on system monitor with custom name.",
+    "license": "LGPLv3",
+    "web": "https://github.com/juancarlospaco/nim-set-process-name"
   }
 ]
