@@ -9190,5 +9190,21 @@
     "description": "A performant and scalable HTTP server.",
     "license": "MIT",
     "web": "https://github.com/dom96/httpbeast"
+  },
+  {
+    "name": "sass",
+    "url": "https://github.com/dom96/sass",
+    "method": "git",
+    "tags": [
+      "css",
+      "compiler",
+      "wrapper",
+      "library",
+      "scss",
+      "web"
+    ],
+    "description": "A wrapper for the libsass library.",
+    "license": "MIT",
+    "web": "https://github.com/dom96/sass"
   }
 ]
