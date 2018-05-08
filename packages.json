@@ -9222,5 +9222,21 @@
     "description": "A wrapper for the libsass library.",
     "license": "MIT",
     "web": "https://github.com/dom96/sass"
+  },
+  {
+    "name": "osutil",
+    "url": "https://github.com/juancarlospaco/nim-osutil",
+    "method": "git",
+    "tags": [
+      "utils",
+      "helpers",
+      "minimalism",
+      "process",
+      "mobile",
+      "battery"
+    ],
+    "description": "OS Utils for Nim, simple tiny but useful procs for OS. Turn Display OFF and set Process Name.",
+    "license": "LGPLv3",
+    "web": "https://github.com/juancarlospaco/nim-osutil"
   }
 ]
