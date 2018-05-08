@@ -5,7 +5,7 @@
     "method": "git",
     "tags": [
       "library",
-      "api"
+      "api",
       "binance"
     ],
     "description": "A Nim library to access the Binance API.",
