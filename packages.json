@@ -5993,6 +5993,7 @@
   {
     "name": "stint",
     "url": "https://github.com/status-im/nim-stint",
+    "method": "git",
     "tags": [
       "library",
       "math",
