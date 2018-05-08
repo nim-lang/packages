@@ -1,5 +1,18 @@
 [
   {
+    "name": "binance",
+    "url": "https://github.com/Imperator26/binance-api",
+    "method": "git",
+    "tags": [
+      "library",
+      "api"
+      "binance"
+    ],
+    "description": "A Nim library to access the Binance API.",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/Imperator26/binance-api"
+  },
+  {
     "name": "sequtils2",
     "url": "https://github.com/Michedev/sequtils2",
     "method": "git",
