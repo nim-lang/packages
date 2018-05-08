@@ -5991,9 +5991,8 @@
     "web": "https://github.com/status-im/nimbus"
   },
   {
-    "name": "mpint",
-    "url": "https://github.com/status-im/mpint",
-    "method": "git",
+    "name": "stint",
+    "url": "https://github.com/status-im/nim-stint",
     "tags": [
       "library",
       "math",
@@ -6001,7 +6000,18 @@
     ],
     "description": "Efficient multiprecision int in Nim",
     "license": "Apache License 2.0",
-    "web": "https://github.com/status-im/mpint"
+    "web": "https://github.com/status-im/nim-stint"
+  },
+  {
+    "name": "mpint",
+    "url": "https://github.com/status-im/nim-stint",
+    "method": "git",
+    "tags": [
+      "deprecated"
+    ],
+    "description": "Deprecated. Alias for stint.",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/status-im/nim-stint"
   },
   {
     "name": "stb_image",
