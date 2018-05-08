@@ -9147,5 +9147,77 @@
     "description": "Random curated Fonts and pastel Colors for your UI/UX design, design for non-designers.",
     "license": "LGPLv3",
     "web": "https://github.com/juancarlospaco/nim-random-font-color"
+  },
+  {
+    "name": "bytes2human",
+    "url": "https://github.com/juancarlospaco/nim-bytes2human",
+    "method": "git",
+    "tags": [
+      "bytes",
+      "human",
+      "minimalism",
+      "size"
+    ],
+    "description": "Convert bytes to kilobytes, megabytes, gigabytes, etc.",
+    "license": "LGPLv3",
+    "web": "https://github.com/juancarlospaco/nim-bytes2human"
+  },
+  {
+    "name": "nimhttpd",
+    "url": "https://github.com/h3rald/nimhttpd",
+    "method": "git",
+    "tags": [
+      "web-server",
+      "static-file-server",
+      "server",
+      "http"
+    ],
+    "description": "A tiny static file web server.",
+    "license": "MIT",
+    "web": "https://github.com/h3rald/nimhttpd"
+  },
+  {
+    "name": "crc32",
+    "url": "https://github.com/juancarlospaco/nim-crc32",
+    "method": "git",
+    "tags": [
+      "crc32",
+      "checksum",
+      "minimalism"
+    ],
+    "description": "CRC32, 2 proc, copied from RosettaCode.",
+    "license": "MIT",
+    "web": "https://github.com/juancarlospaco/nim-crc32"
+  },
+  {
+    "name": "httpbeast",
+    "url": "https://github.com/dom96/httpbeast",
+    "method": "git",
+    "tags": [
+      "http",
+      "server",
+      "parallel",
+      "linux",
+      "unix"
+    ],
+    "description": "A performant and scalable HTTP server.",
+    "license": "MIT",
+    "web": "https://github.com/dom96/httpbeast"
+  },
+  {
+    "name": "sass",
+    "url": "https://github.com/dom96/sass",
+    "method": "git",
+    "tags": [
+      "css",
+      "compiler",
+      "wrapper",
+      "library",
+      "scss",
+      "web"
+    ],
+    "description": "A wrapper for the libsass library.",
+    "license": "MIT",
+    "web": "https://github.com/dom96/sass"
   }
 ]
