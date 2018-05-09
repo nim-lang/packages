@@ -5999,9 +5999,33 @@
       "math",
       "numbers"
     ],
-    "description": "Stack-based arbitrary-precision integers - Fast and portable with natural syntax for resource-restricted devices.",
+    "description": "Stack-based arbitrary-precision integers - Fast and portable with natural syntax for resource-restricted devices",
     "license": "Apache License 2.0",
     "web": "https://github.com/status-im/nim-stint"
+  },
+  {
+    "name": "daemon",
+    "url": "https://github.com/status-im/nim-daemon",
+    "method": "git",
+    "tags": [
+      "servers",
+      "daemonization"
+    ],
+    "description": "Cross-platform process daemonization library",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/status-im/nim-daemon"
+  },
+  {
+    "name": "chronicles",
+    "url": "https://github.com/status-im/nim-chronicles",
+    "method": "git",
+    "tags": [
+      "logging",
+      "json"
+    ],
+    "description": "A crafty implementation of structured logging for Nim",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/status-im/nim-chronicles"
   },
   {
     "name": "stb_image",
