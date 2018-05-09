@@ -5991,17 +5991,17 @@
     "web": "https://github.com/status-im/nimbus"
   },
   {
-    "name": "mpint",
-    "url": "https://github.com/status-im/mpint",
+    "name": "stint",
+    "url": "https://github.com/status-im/nim-stint",
     "method": "git",
     "tags": [
       "library",
       "math",
       "numbers"
     ],
-    "description": "Efficient multiprecision int in Nim",
+    "description": "Stack-based arbitrary-precision integers - Fast and portable with natural syntax for resource-restricted devices.",
     "license": "Apache License 2.0",
-    "web": "https://github.com/status-im/mpint"
+    "web": "https://github.com/status-im/nim-stint"
   },
   {
     "name": "stb_image",
