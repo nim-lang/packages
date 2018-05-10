@@ -6279,6 +6279,20 @@
     "web": "https://github.com/apahl/csvtable"
   },
   {
+    "name": "plotly",
+    "url": "https://github.com/brentp/nim-plotly",
+    "method": "git",
+    "tags": [
+      "plot",
+      "graphing",
+      "chart",
+      "data"
+    ],
+    "description": "Nim interface to plotly",
+    "license": "MIT",
+    "web": "https://github.com/brentp/nim-plotly"
+  },
+  {
     "name": "gnuplot",
     "url": "https://github.com/konqoro/gnuplot.nim",
     "method": "git",
