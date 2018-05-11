@@ -9276,5 +9276,18 @@
     "description": "OS Utils for Nim, simple tiny but useful procs for OS. Turn Display OFF and set Process Name.",
     "license": "LGPLv3",
     "web": "https://github.com/juancarlospaco/nim-osutil"
+  },
+  {
+    "name": "binance",
+    "url": "https://github.com/Imperator26/binance",
+    "method": "git",
+    "tags": [
+      "library",
+      "api",
+      "binance"
+    ],
+    "description": "A Nim library to access the Binance API.",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/Imperator26/binance"
   }
 ]
