@@ -9262,5 +9262,16 @@
     "description": "OS Utils for Nim, simple tiny but useful procs for OS. Turn Display OFF and set Process Name.",
     "license": "LGPLv3",
     "web": "https://github.com/juancarlospaco/nim-osutil"
+  },
+  {
+    "name": "glfw",
+    "url": "https://github.com/ephja/nim-glfw",
+    "method": "git",
+    "tags": [
+      "n"
+    ],
+    "description": "A GLFW 3 wrapper",
+    "license": "BSD",
+    "web": "https://github.com/ephja/nim-glfw"
   }
 ]
