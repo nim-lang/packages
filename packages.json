@@ -9289,5 +9289,19 @@
     "description": "A Nim library to access the Binance API.",
     "license": "Apache License 2.0",
     "web": "https://github.com/Imperator26/binance"
+  },
+  {
+    "name": "jdec",
+    "tags": [
+      "json",
+      "marshal",
+      "helper",
+      "utils"
+    ],
+    "method": "git",
+    "license": "MIT",
+    "web": "https://github.com/diegogub/jdec",
+    "url": "https://github.com/diegogub/jdec",
+    "description": "Flexible JSON manshal/unmarshal library for nim"
   }
 ]
