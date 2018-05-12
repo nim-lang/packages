@@ -9303,5 +9303,19 @@
     "web": "https://github.com/diegogub/jdec",
     "url": "https://github.com/diegogub/jdec",
     "description": "Flexible JSON manshal/unmarshal library for nim"
+  },
+  {
+    "name": "nimsnappyc",
+    "url": "https://github.com/data-man/nimsnappyc",
+    "method": "git",
+    "tags": [
+      "snappy",
+      "compression",
+      "wrapper",
+      "library"
+    ],
+    "description": "Wrapper for the Snappy-C compression library",
+    "license": "MIT",
+    "web": "https://github.com/data-man/nimsnappyc"
   }
 ]
