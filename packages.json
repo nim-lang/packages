@@ -9317,5 +9317,18 @@
     "description": "Wrapper for the Snappy-C compression library",
     "license": "MIT",
     "web": "https://github.com/data-man/nimsnappyc"
+  },
+  {
+    "name": "websitecreator",
+    "url": "https://github.com/ThomasTJdev/nim_websitecreator",
+    "method": "git",
+    "tags": [
+      "website",
+      "webpage",
+      "blog"
+    ],
+    "description": "A website management tool. Run the file and access your webpage.",
+    "license": "GPLv3",
+    "web": "https://nimwc.org/"
   }
 ]
