@@ -9331,5 +9331,18 @@
     "description": "A website management tool. Run the file and access your webpage.",
     "license": "GPLv3",
     "web": "https://nimwc.org/"
+  },
+  {
+    "name": "shaname",
+    "url": "https://github.com/Torro/nimble-packages?subdir=shaname",
+    "method": "git",
+    "tags": [
+      "sha1",
+      "commandline",
+      "utilities"
+    ],
+    "description": "Rename files to their sha1sums",
+    "license": "BSD",
+    "web": "gttps://github.com/Torro/nimble-packages/tree/master/shaname"
   }
 ]
