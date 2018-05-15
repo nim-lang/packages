@@ -9331,5 +9331,17 @@
     "description": "A website management tool. Run the file and access your webpage.",
     "license": "GPLv3",
     "web": "https://nimwc.org/"
+  },
+  {
+    "name": "about",
+    "url": "https://github.com/aleandros/about",
+    "method": "git",
+    "tags": [
+      "cli",
+      "tool"
+    ],
+    "description": "Executable for finding information about programs in PATH",
+    "license": "MIT",
+    "web": "https://github.com/aleandros/about"
   }
 ]
