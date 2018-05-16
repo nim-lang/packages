@@ -9344,5 +9344,17 @@
     "description": "Rename files to their sha1sums",
     "license": "BSD",
     "web": "gttps://github.com/Torro/nimble-packages/tree/master/shaname"
+  },
+  {
+    "name": "about",
+    "url": "https://github.com/aleandros/about",
+    "method": "git",
+    "tags": [
+      "cli",
+      "tool"
+    ],
+    "description": "Executable for finding information about programs in PATH",
+    "license": "MIT",
+    "web": "https://github.com/aleandros/about"
   }
 ]
