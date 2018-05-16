@@ -9343,7 +9343,7 @@
     ],
     "description": "Rename files to their sha1sums",
     "license": "BSD",
-    "web": "gttps://github.com/Torro/nimble-packages/tree/master/shaname"
+    "web": "https://github.com/Torro/nimble-packages/tree/master/shaname"
   },
   {
     "name": "about",
