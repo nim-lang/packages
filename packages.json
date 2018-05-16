@@ -9333,6 +9333,19 @@
     "web": "https://nimwc.org/"
   },
   {
+    "name": "shaname",
+    "url": "https://github.com/Torro/nimble-packages?subdir=shaname",
+    "method": "git",
+    "tags": [
+      "sha1",
+      "commandline",
+      "utilities"
+    ],
+    "description": "Rename files to their sha1sums",
+    "license": "BSD",
+    "web": "gttps://github.com/Torro/nimble-packages/tree/master/shaname"
+  },
+  {
     "name": "about",
     "url": "https://github.com/aleandros/about",
     "method": "git",
