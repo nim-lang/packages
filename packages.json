@@ -9356,5 +9356,21 @@
     "description": "Executable for finding information about programs in PATH",
     "license": "MIT",
     "web": "https://github.com/aleandros/about"
+  },
+  {
+    "name": "findtests",
+    "url": "https://github.com/jackvandrunen/findtests",
+    "method": "git",
+    "tags": [
+      "test",
+      "tests",
+      "testing",
+      "unit test",
+      "unit tests",
+      "unit testing"
+    ],
+    "description": "A helper module for writing unit tests in Nim with nake or similar build system.",
+    "license": "ISC",
+    "web": "https://github.com/jackvandrunen/findtests"
   }
 ]
