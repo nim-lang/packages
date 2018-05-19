@@ -1993,14 +1993,15 @@
   },
   {
     "name": "parsetoml",
-    "url": "https://github.com/ziotom78/parsetoml.git",
+    "url": "https://github.com/NimParsers/parsetoml.git",
     "method": "git",
     "tags": [
-      "library"
+      "library",
+      "parse"
     ],
     "description": "Library for parsing TOML files.",
     "license": "MIT",
-    "web": "https://github.com/ziotom78/parsetoml"
+    "web": "https://github.com/NimParsers/parsetoml"
   },
   {
     "name": "compiler",
