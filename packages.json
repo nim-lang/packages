@@ -9366,9 +9366,7 @@
       "test",
       "tests",
       "testing",
-      "unit test",
-      "unit tests",
-      "unit testing"
+      "unit"
     ],
     "description": "A helper module for writing unit tests in Nim with nake or similar build system.",
     "license": "ISC",
