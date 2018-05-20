@@ -9119,6 +9119,21 @@
     "web": "https://github.com/JohnAD/turn_based_game/wiki"
   },
   {
+    "name": "negamax",
+    "url": "https://github.com/JohnAD/negamax",
+    "method": "git",
+    "tags": [
+      "negamax",
+      "minimax",
+      "game",
+      "ai",
+      "turn-based"
+    ],
+    "description": "Negamax AI search-tree algorithm for two player games",
+    "license": "MIT",
+    "web": "https://github.com/JohnAD/negamax"
+  },
+  {
     "name": "translation",
     "url": "https://github.com/juancarlospaco/nim-tinyslation",
     "method": "git",
