@@ -1066,6 +1066,19 @@
     "web": "https://github.com/PMunch/protobuf-nim"
   },
   {
+    "name": "strslice",
+    "url": "https://github.com/PMunch/strslice",
+    "method": "git",
+    "tags": [
+      "optimization",
+      "strings",
+      "library"
+    ],
+    "description": "Simple implementation of string slices with some of the strutils ported or wrapped to work on them. String slices offer a performance enhancement when working with large amounts of slices from one base string",
+    "license": "MIT",
+    "web": "https://github.com/PMunch/strslice"
+  },
+  {
     "name": "sdl2_nim",
     "url": "https://github.com/Vladar4/sdl2_nim",
     "method": "git",
@@ -9400,5 +9413,21 @@
     "description": "Converts a number into a specially formatted Unicode string",
     "license": "MIT",
     "web": "https://github.com/Aearnus/unicode_numbers"
+  },
+  {
+    "name": "glob",
+    "url": "https://github.com/citycide/glob",
+    "method": "git",
+    "tags": [
+      "glob",
+      "pattern",
+      "match",
+      "walk",
+      "filesystem",
+      "pure"
+    ],
+    "description": "Pure library for matching file paths against Unix style glob patterns.",
+    "license": "MIT",
+    "web": "https://github.com/citycide/glob"
   }
 ]
