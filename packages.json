@@ -9061,7 +9061,7 @@
       "pqcrypto",
       "signing"
     ],
-    "description": "SPHINCS⁺ stateless hash-based signature scheme",
+    "description": "SPHINCS\u207A stateless hash-based signature scheme",
     "license": "MIT",
     "web": "https://github.com/ehmry/nim-sphincs"
   },
@@ -9386,5 +9386,19 @@
     "description": "A helper module for writing unit tests in Nim with nake or similar build system.",
     "license": "ISC",
     "web": "https://github.com/jackvandrunen/findtests"
+  },
+  {
+    "name": "nimble",
+    "url": "https://github.com/Aearnus/nimble",
+    "method": "git",
+    "tags": [
+      "library",
+      "string",
+      "format",
+      "unicode"
+    ],
+    "description": "Nim package manager.",
+    "license": "BSD",
+    "web": "https://github.com/Aearnus/nimble"
   }
 ]
