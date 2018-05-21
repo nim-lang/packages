@@ -9386,5 +9386,21 @@
     "description": "A helper module for writing unit tests in Nim with nake or similar build system.",
     "license": "ISC",
     "web": "https://github.com/jackvandrunen/findtests"
+  },
+  {
+    "name": "glob",
+    "url": "https://github.com/citycide/glob",
+    "method": "git",
+    "tags": [
+      "glob",
+      "pattern",
+      "match",
+      "walk",
+      "filesystem",
+      "pure"
+    ],
+    "description": "Pure library for matching file paths against Unix style glob patterns.",
+    "license": "MIT",
+    "web": "https://github.com/citycide/glob"
   }
 ]
