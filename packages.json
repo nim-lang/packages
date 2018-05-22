@@ -9447,8 +9447,8 @@
     "method": "git",
     "tags": [
       "LDA",
-      "topic modeling",
-      "text clustering",
+      "topic-modeling",
+      "text-clustering",
       "NLP"
     ],
     "description": "Latent Dirichlet Allocation",
