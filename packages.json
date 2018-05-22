@@ -9440,5 +9440,19 @@
     "description": "Pure library for matching file paths against Unix style glob patterns.",
     "license": "MIT",
     "web": "https://github.com/citycide/glob"
+  },
+  {
+    "name": "lda",
+    "url": "https://github.com/unicredit/lda",
+    "method": "git",
+    "tags": [
+      "LDA",
+      "topic modeling",
+      "text clustering",
+      "NLP"
+    ],
+    "description": "Latent Dirichlet Allocation",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/unicredit/lda"
   }
 ]
