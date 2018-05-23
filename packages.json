@@ -9074,7 +9074,7 @@
       "pqcrypto",
       "signing"
     ],
-    "description": "SPHINCS\u207A stateless hash-based signature scheme",
+    "description": "SPHINCS⁺ stateless hash-based signature scheme",
     "license": "MIT",
     "web": "https://github.com/ehmry/nim-sphincs"
   },
@@ -9454,5 +9454,19 @@
     "description": "Latent Dirichlet Allocation",
     "license": "Apache License 2.0",
     "web": "https://github.com/unicredit/lda"
+  },
+  {
+    "name": "mdevolve",
+    "url": "https://github.com/jxy/MDevolve",
+    "method": "git",
+    "tags": [
+      "MD",
+      "integrator",
+      "numerical",
+      "evolution"
+    ],
+    "description": "Integrator framework for Molecular Dynamic evolutions",
+    "license": "MIT",
+    "web": "https://github.com/jxy/MDevolve"
   }
 ]
