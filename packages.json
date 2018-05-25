@@ -9335,7 +9335,7 @@
   },
   {
     "name": "nimsnappyc",
-    "url": "https://github.com/data-man/nimsnappyc",
+    "url": "https://github.com/NimCompression/nimsnappyc",
     "method": "git",
     "tags": [
       "snappy",
@@ -9345,7 +9345,7 @@
     ],
     "description": "Wrapper for the Snappy-C compression library",
     "license": "MIT",
-    "web": "https://github.com/data-man/nimsnappyc"
+    "web": "https://github.com/NimCompression/nimsnappyc"
   },
   {
     "name": "websitecreator",
