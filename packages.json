@@ -844,8 +844,8 @@
     "url": "https://github.com/boydgreenfield/nimrod-bloom",
     "method": "git",
     "tags": [
-      "Bloom filter",
-      "Bloom",
+      "bloom-filter",
+      "bloom",
       "probabilistic",
       "data structure",
       "set membership",
@@ -5910,6 +5910,20 @@
     "description": "A Nim implementation of Ethash, the ethereum proof-of-work hashing function",
     "license": "Apache License 2.0",
     "web": "https://github.com/status-im/nim-ethash"
+  },
+  {
+    "name": "eth_bloom",
+    "url": "https://github.com/status-im/nim-eth-bloom",
+    "method": "git",
+    "tags": [
+      "library",
+      "ethereum",
+      "bloom",
+      "bloom-filter"
+    ],
+    "description": "Ethereum bloom filter",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/status-im/nim-eth-bloom"
   },
   {
     "name": "evmjit",
