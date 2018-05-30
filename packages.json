@@ -9484,6 +9484,32 @@
     "web": "https://github.com/jxy/MDevolve"
   },
   {
+    "name": "sctp",
+    "url": "https://github.com/metacontainer/sctp.nim",
+    "method": "git",
+    "tags": [
+      "sctp",
+      "networking",
+      "userspace"
+    ],
+    "description": "Userspace SCTP bindings",
+    "license": "BSD",
+    "web": "https://github.com/metacontainer/sctp.nim"
+  },
+  {
+    "name": "sodium",
+    "url": "https://github.com/zielmicha/libsodium.nim",
+    "method": "git",
+    "tags": [
+      "crypto",
+      "security",
+      "sodium"
+    ],
+    "description": "High-level libsodium bindings",
+    "license": "MIT",
+    "web": "https://github.com/zielmicha/libsodium.nim"
+  },
+  {
     "name": "db_clickhouse",
     "url": "https://github.com/leonardoce/nim-clickhouse",
     "method": "git",
