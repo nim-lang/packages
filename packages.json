@@ -9508,5 +9508,18 @@
     "description": "High-level libsodium bindings",
     "license": "MIT",
     "web": "https://github.com/zielmicha/libsodium.nim"
+  },
+  {
+    "name": "db_clickhouse",
+    "url": "https://github.com/leonardoce/nim-clickhouse",
+    "method": "git",
+    "tags": [
+      "wrapper",
+      "database",
+      "clickhouse"
+    ],
+    "description": "ClickHouse Nim interface",
+    "license": "MIT",
+    "web": "https://github.com/leonardoce/nim-clickhouse"
   }
 ]
