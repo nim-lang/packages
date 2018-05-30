@@ -9521,5 +9521,17 @@
     "description": "ClickHouse Nim interface",
     "license": "MIT",
     "web": "https://github.com/leonardoce/nim-clickhouse"
+  },
+  {
+    "name": "hpack",
+    "url": "https://github.com/nitely/nim-hpack",
+    "method": "git",
+    "tags": [
+      "http2",
+      "hpack"
+    ],
+    "description": "HPACK (Header Compression for HTTP/2)",
+    "license": "MIT",
+    "web": "https://github.com/nitely/nim-hpack"
   }
 ]
