@@ -9523,6 +9523,19 @@
     "web": "https://github.com/leonardoce/nim-clickhouse"
   },
   {
+    "name": "webterminal",
+    "url": "https://github.com/JohnAD/webterminal",
+    "method": "git",
+    "tags": [
+      "javascript",
+      "terminal",
+      "tty"
+    ],
+    "description": "Very simple browser Javascript TTY web terminal",
+    "license": "MIT",
+    "web": "https://github.com/JohnAD/webterminal"
+  },
+  {
     "name": "hpack",
     "url": "https://github.com/nitely/nim-hpack",
     "method": "git",
