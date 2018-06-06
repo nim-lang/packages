@@ -9546,5 +9546,20 @@
     "description": "HPACK (Header Compression for HTTP/2)",
     "license": "MIT",
     "web": "https://github.com/nitely/nim-hpack"
+  },
+  {
+    "name": "cobs",
+    "url": "https://github.com/keyme/nim_cobs",
+    "method": "git",
+    "tags": [
+      "serialization",
+      "encoding",
+      "wireline",
+      "framing",
+      "cobs"
+    ],
+    "description": "Consistent Overhead Byte Stuffing for Nim",
+    "license": "MIT",
+    "web": "https://github.com/keyme/nim_cobs"
   }
 ]
