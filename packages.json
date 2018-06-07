@@ -6254,7 +6254,7 @@
   },
   {
     "name": "nesm",
-    "url": "https://github.com/xomachine/NESM.git",
+    "url": "https://gitlab.com/xomachine/NESM.git",
     "method": "git",
     "tags": [
       "metaprogramming",
@@ -6264,7 +6264,7 @@
     ],
     "description": "A macro for generating [de]serializers for given objects",
     "license": "MIT",
-    "web": "https://xomachine.github.io/NESM/"
+    "web": "https://xomachine.gitlab.io/NESM/"
   },
   {
     "name": "sdnotify",
