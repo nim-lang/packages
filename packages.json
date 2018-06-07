@@ -9561,5 +9561,18 @@
     "description": "Consistent Overhead Byte Stuffing for Nim",
     "license": "MIT",
     "web": "https://github.com/keyme/nim_cobs"
+  },
+  {
+    "name": "bitvec",
+    "url": "https://github.com/keyme/nim_bitvec",
+    "method": "git",
+    "tags": [
+      "serialization",
+      "encoding",
+      "wireline"
+    ],
+    "description": "Extensible bit vector integer encoding library",
+    "license": "MIT",
+    "web": "https://github.com/keyme/nim_bitvec"
   }
 ]
