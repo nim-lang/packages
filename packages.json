@@ -9574,5 +9574,16 @@
     "description": "Extensible bit vector integer encoding library",
     "license": "MIT",
     "web": "https://github.com/keyme/nim_bitvec"
+  },
+  {
+    "name": "nimsvg",
+    "url": "https://github.com/bluenote10/NimSvg",
+    "method": "git",
+    "tags": [
+      "n"
+    ],
+    "description": "Nim-based DSL allowing to generate SVG files and GIF animations.",
+    "license": "MIT",
+    "web": "https://github.com/bluenote10/NimSvg"
   }
 ]
