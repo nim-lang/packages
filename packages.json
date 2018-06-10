@@ -9585,5 +9585,17 @@
     "description": "Nim-based DSL allowing to generate SVG files and GIF animations.",
     "license": "MIT",
     "web": "https://github.com/bluenote10/NimSvg"
+  },
+   {
+    "name": "validation",
+    "url": "https://github.com/captainbland/nim-validation",
+    "method": "git",
+    "tags": [
+      "validation",
+      "library"
+    ],
+    "description": "Nim object validation using type field pragmas",
+    "license": "GPLv3",
+    "web": "https://github.com/captainbland/nim-validation"
   }
 ]
