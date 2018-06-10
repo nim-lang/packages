@@ -9580,7 +9580,7 @@
     "url": "https://github.com/bluenote10/NimSvg",
     "method": "git",
     "tags": [
-      "n"
+      "svg"
     ],
     "description": "Nim-based DSL allowing to generate SVG files and GIF animations.",
     "license": "MIT",
