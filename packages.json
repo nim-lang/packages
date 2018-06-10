@@ -9586,7 +9586,7 @@
     "license": "MIT",
     "web": "https://github.com/bluenote10/NimSvg"
   },
-   {
+  {
     "name": "validation",
     "url": "https://github.com/captainbland/nim-validation",
     "method": "git",
