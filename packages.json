@@ -9585,5 +9585,20 @@
     "description": "Nim-based DSL allowing to generate SVG files and GIF animations.",
     "license": "MIT",
     "web": "https://github.com/bluenote10/NimSvg"
+  },
+  {
+    "name": "nimgraphviz",
+    "url": "https://github.com/QuinnFreedman/nimgraphviz",
+    "method": "git",
+    "tags": [
+      "graph",
+      "viz",
+      "graphviz",
+      "dot",
+      "pygraphviz"
+    ],
+    "description": "Nim bindings for the GraphViz tool and the DOT graph language",
+    "license": "MIT",
+    "web": "https://github.com/QuinnFreedman/nimgraphviz"
   }
 ]
