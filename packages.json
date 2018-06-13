@@ -1079,6 +1079,20 @@
     "web": "https://github.com/PMunch/strslice"
   },
   {
+    "name": "jsonschema",
+    "url": "https://github.com/PMunch/jsonschema",
+    "method": "git",
+    "tags": [
+      "json",
+      "schema",
+      "library",
+      "validation"
+    ],
+    "description": "JSON schema validation and creation.",
+    "license": "MIT",
+    "web": "https://github.com/PMunch/jsonschema"
+  },
+  {
     "name": "sdl2_nim",
     "url": "https://github.com/Vladar4/sdl2_nim",
     "method": "git",
