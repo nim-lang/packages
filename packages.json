@@ -9614,5 +9614,20 @@
     "description": "Nim bindings for the GraphViz tool and the DOT graph language",
     "license": "MIT",
     "web": "https://github.com/QuinnFreedman/nimgraphviz"
+  },
+  {
+	  "name": "fab",
+	  "url": "https://github.com/icyphox/fab",
+	  "method": "git",
+	  "tags": [
+		  "colors",
+		  "terminal",
+		  "formatting",
+		  "text",
+		  "fun"
+	  ],
+	  "description": "Print fabulously in your terminal",
+	  "license": "MIT",
+	  "web": "https://github.com/icyphox/fab"
   }
 ]
