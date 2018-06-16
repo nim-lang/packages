@@ -37,7 +37,12 @@ While we really appreciate your contribution, please follow the requirements: ot
 * The package should build correctly with the latest Nim release
 * The package should not contain files without a license or in breach of 3rd parties licensing
 * Non-mature packages should be flagged as such, especially if they perform security-critical tasks (e.g. encryption)
+* Tiny libraries should be avoided where possible
+* Avoid having many dependencies. Use "when defined(...)" to enable optional features.
 * If abandoning a package, please tag it as "abandoned"
+* The package name should be unique and specific. Avoid overly generic names e.g. "math", "http"
+* Provide a contact email address.
+* Optionally try to support older Nim releases (6 months to 1 year)
 * Optionally GPG-sign your releases
 * Optionally follow [SemVer](http://semver.org)
 
