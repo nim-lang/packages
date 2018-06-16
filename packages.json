@@ -5995,8 +5995,8 @@
     "web": "https://github.com/status-im/nim-secp256k1"
   },
   {
-    "name": "ethereum_trie",
-    "url": "https://github.com/status-im/nim-trie",
+    "name": "eth_trie",
+    "url": "https://github.com/status-im/nim-eth-trie",
     "method": "git",
     "tags": [
       "library",
@@ -6006,7 +6006,52 @@
     ],
     "description": "Merkle Patricia Tries as specified by Ethereum",
     "license": "Apache License 2.0",
-    "web": "https://github.com/status-im/nim-trie"
+    "web": "https://github.com/status-im/nim-eth-trie"
+  },
+  {
+    "name": "eth_p2p",
+    "url": "https://github.com/status-im/nim-eth-p2p",
+    "method": "git",
+    "tags": [
+      "library",
+      "ethereum",
+      "p2p",
+      "devp2p",
+      "rplx",
+      "networking",
+      "whisper",
+      "swarm"
+    ],
+    "description": "Implementation of the Ethereum suite of P2P protocols",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/status-im/nim-eth-p2p"
+  },
+  {
+    "name": "eth_keyfile",
+    "url": "https://github.com/status-im/nim-eth-keyfile",
+    "method": "git",
+    "tags": [
+      "library",
+      "ethereum",
+      "keyfile",
+      "wallet"
+    ],
+    "description": "Library for handling Ethereum private keys and wallets",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/status-im/nim-eth-keyfile"
+  },
+  {
+    "name": "byteutils",
+    "url": "https://github.com/status-im/nim-byteutils",
+    "method": "git",
+    "tags": [
+      "library",
+      "blobs",
+      "hex-dump"
+    ],
+    "description": "Useful utilities for manipulating and visualizing byte blobs",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/status-im/nim-byteutils"
   },
   {
     "name": "ttmath",
