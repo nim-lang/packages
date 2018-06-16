@@ -1079,6 +1079,20 @@
     "web": "https://github.com/PMunch/strslice"
   },
   {
+    "name": "jsonschema",
+    "url": "https://github.com/PMunch/jsonschema",
+    "method": "git",
+    "tags": [
+      "json",
+      "schema",
+      "library",
+      "validation"
+    ],
+    "description": "JSON schema validation and creation.",
+    "license": "MIT",
+    "web": "https://github.com/PMunch/jsonschema"
+  },
+  {
     "name": "sdl2_nim",
     "url": "https://github.com/Vladar4/sdl2_nim",
     "method": "git",
@@ -9597,5 +9611,35 @@
     "description": "Nim object validation using type field pragmas",
     "license": "GPLv3",
     "web": "https://github.com/captainbland/nim-validation"
+  },
+  {
+    "name": "nimgraphviz",
+    "url": "https://github.com/QuinnFreedman/nimgraphviz",
+    "method": "git",
+    "tags": [
+      "graph",
+      "viz",
+      "graphviz",
+      "dot",
+      "pygraphviz"
+    ],
+    "description": "Nim bindings for the GraphViz tool and the DOT graph language",
+    "license": "MIT",
+    "web": "https://github.com/QuinnFreedman/nimgraphviz"
+  },
+  {
+	  "name": "fab",
+	  "url": "https://github.com/icyphox/fab",
+	  "method": "git",
+	  "tags": [
+		  "colors",
+		  "terminal",
+		  "formatting",
+		  "text",
+		  "fun"
+	  ],
+	  "description": "Print fabulously in your terminal",
+	  "license": "MIT",
+	  "web": "https://github.com/icyphox/fab"
   }
 ]
