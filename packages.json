@@ -9646,6 +9646,18 @@
     "web": "https://github.com/bluenote10/NimSvg"
   },
   {
+    "name": "validation",
+    "url": "https://github.com/captainbland/nim-validation",
+    "method": "git",
+    "tags": [
+      "validation",
+      "library"
+    ],
+    "description": "Nim object validation using type field pragmas",
+    "license": "GPLv3",
+    "web": "https://github.com/captainbland/nim-validation"
+  },
+  {
     "name": "nimgraphviz",
     "url": "https://github.com/QuinnFreedman/nimgraphviz",
     "method": "git",
