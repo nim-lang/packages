@@ -388,6 +388,20 @@
     "web": "https://github.com/nim-lang/nimble"
   },
   {
+    "name": "libnx",
+    "url": "https://github.com/jyapayne/nim-libnx",
+    "method": "git",
+    "tags": [
+      "switch",
+      "nintendo switch",
+      "libnx",
+      "nx"
+    ],
+    "description": "A port of libnx to Nim",
+    "license": "The Unlicense",
+    "web": "https://github.com/jyapayne/nim-libnx"
+  },
+  {
     "name": "aporia",
     "url": "https://github.com/nim-lang/Aporia",
     "method": "git",
