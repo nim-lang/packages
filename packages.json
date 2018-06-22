@@ -29,6 +29,19 @@
     "web": "https://github.com/watzon/github-api-nim"
   },
   {
+    "name": "extensions",
+    "url": "https://github.com/jyapayne/nim-extensions",
+    "method": "git",
+    "tags": [
+      "library",
+      "extensions",
+      "addons"
+    ],
+    "description": "A library that will add useful tools to Nim's arsenal.",
+    "license": "MIT",
+    "web": "https://github.com/jyapayne/nim-extensions"
+  },
+  {
     "name": "nimates",
     "url": "https://github.com/jamesalbert/nimates",
     "method": "git",
