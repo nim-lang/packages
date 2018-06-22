@@ -9674,5 +9674,64 @@
 	  "description": "Print fabulously in your terminal",
 	  "license": "MIT",
 	  "web": "https://github.com/icyphox/fab"
+  },
+  {
+    "name": "nim7z",
+    "url": "https://github.com/genotrance/nim7z",
+    "method": "git",
+    "tags": [
+      "7zip",
+      "7z",
+      "extract",
+      "archive"
+    ],
+    "description": "7z extraction for Nim",
+    "license": "MIT",
+    "web": "https://github.com/genotrance/nim7z"
+  },
+  {
+    "name": "nimarchive",
+    "url": "https://github.com/genotrance/nimarchive",
+    "method": "git",
+    "tags": [
+      "7z",
+      "zip",
+      "tar",
+      "rar",
+      "gz",
+      "libarchive",
+      "compress",
+      "extract",
+      "archive"
+    ],
+    "description": "libarchive wrapper for Nim",
+    "license": "MIT",
+    "web": "https://github.com/genotrance/nimarchive"
+  },
+  {
+    "name": "nimpcre",
+    "url": "https://github.com/genotrance/nimpcre",
+    "method": "git",
+    "tags": [
+      "pcre",
+      "regex"
+    ],
+    "description": "PCRE wrapper for Nim",
+    "license": "MIT",
+    "web": "https://github.com/genotrance/nimpcre"
+  },
+  {
+    "name": "nimdeps",
+    "url": "https://github.com/genotrance/nimdeps",
+    "method": "git",
+    "tags": [
+      "dependency",
+      "bundle",
+      "installer",
+      "package"
+    ],
+    "description": "Nim library to bundle dependency files into executable",
+    "license": "MIT",
+    "web": "https://github.com/genotrance/nimdeps"
   }
 ]
