@@ -29,6 +29,19 @@
     "web": "https://github.com/watzon/github-api-nim"
   },
   {
+    "name": "extensions",
+    "url": "https://github.com/jyapayne/nim-extensions",
+    "method": "git",
+    "tags": [
+      "library",
+      "extensions",
+      "addons"
+    ],
+    "description": "A library that will add useful tools to Nim's arsenal.",
+    "license": "MIT",
+    "web": "https://github.com/jyapayne/nim-extensions"
+  },
+  {
     "name": "nimates",
     "url": "https://github.com/jamesalbert/nimates",
     "method": "git",
@@ -8973,6 +8986,24 @@
     "description": "Bindings for the HDF5 data format C library",
     "license": "MIT",
     "web": "https://github.com/Vindaar/nimhdf5"
+  },
+  {
+    "name": "mpfit",
+    "url": "https://github.com/Vindaar/nim-mpfit",
+    "method": "git",
+    "tags": [
+      "library",
+      "wrapper",
+      "binding",
+      "nonlinear",
+      "least-squares",
+      "fitting",
+      "levenberg-marquardt",
+      "regression"
+    ],
+    "description": "A wrapper for the cMPFIT non-linear least squares fitting library",
+    "license": "MIT",
+    "web": "https://github.com/Vindaar/nim-mpfit"
   },
   {
     "name": "itertools",
