@@ -306,6 +306,10 @@
   },
   {
     "name": "nim-glfw",
+    "alias": "glfw"
+  },
+  {
+    "name": "glfw",
     "url": "https://github.com/ephja/nim-glfw",
     "method": "git",
     "tags": [
