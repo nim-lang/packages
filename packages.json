@@ -5814,7 +5814,7 @@
   },
   {
     "name": "nimbox",
-    "url": "https://notabug.org/vktec/nimbox.git",
+    "url": "https://github.com/dom96/nimbox",
     "method": "git",
     "tags": [
       "library",
@@ -5827,7 +5827,7 @@
     ],
     "description": "A Rustbox-inspired termbox wrapper",
     "license": "MIT",
-    "web": "https://notabug.org/vktec/nimbox"
+    "web": "https://github.com/dom96/nimbox"
   },
   {
     "name": "psutil",
