@@ -419,7 +419,7 @@
     "web": "https://github.com/jyapayne/nim-libnx"
   },
   {
-    "name": "switch-build",
+    "name": "switch_build",
     "url": "https://github.com/jyapayne/switch-build",
     "method": "git",
     "tags": [
