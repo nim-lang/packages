@@ -419,6 +419,20 @@
     "web": "https://github.com/jyapayne/nim-libnx"
   },
   {
+    "name": "switch-build",
+    "url": "https://github.com/jyapayne/switch-build",
+    "method": "git",
+    "tags": [
+      "switch",
+      "nintendo",
+      "build",
+      "builder"
+    ],
+    "description": "An easy way to build homebrew files for the Nintendo Switch",
+    "license": "MIT",
+    "web": "https://github.com/jyapayne/switch-build"
+  },
+  {
     "name": "aporia",
     "url": "https://github.com/nim-lang/Aporia",
     "method": "git",
