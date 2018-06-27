@@ -5779,20 +5779,6 @@
     "web": "https://github.com/nim-lang/ui"
   },
   {
-    "name": "fractions",
-    "url": "https://github.com/konqoro/fractions",
-    "method": "git",
-    "tags": [
-      "library",
-      "rationals",
-      "arithmetic",
-      "tuple"
-    ],
-    "description": "Implements rational number arithmetic",
-    "license": "MIT",
-    "web": "https://github.com/konqoro/fractions"
-  },
-  {
     "name": "mmgeoip",
     "url": "https://github.com/FedericoCeratto/nim-mmgeoip",
     "method": "git",
