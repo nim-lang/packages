@@ -6398,7 +6398,7 @@
   },
   {
     "name": "gnuplot",
-    "url": "https://github.com/konqoro/gnuplot.nim",
+    "url": "https://github.com/dvolk/gnuplot.nim",
     "method": "git",
     "tags": [
       "plot",
@@ -6407,7 +6407,7 @@
     ],
     "description": "Nim interface to gnuplot",
     "license": "MIT",
-    "web": "https://github.com/konqoro/gnuplot.nim"
+    "web": "https://github.com/dvolk/gnuplot.nim"
   },
   {
     "name": "ustring",
