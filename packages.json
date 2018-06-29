@@ -5779,20 +5779,6 @@
     "web": "https://github.com/nim-lang/ui"
   },
   {
-    "name": "fractions",
-    "url": "https://github.com/konqoro/fractions",
-    "method": "git",
-    "tags": [
-      "library",
-      "rationals",
-      "arithmetic",
-      "tuple"
-    ],
-    "description": "Implements rational number arithmetic",
-    "license": "MIT",
-    "web": "https://github.com/konqoro/fractions"
-  },
-  {
     "name": "mmgeoip",
     "url": "https://github.com/FedericoCeratto/nim-mmgeoip",
     "method": "git",
@@ -6412,7 +6398,7 @@
   },
   {
     "name": "gnuplot",
-    "url": "https://github.com/konqoro/gnuplot.nim",
+    "url": "https://github.com/dvolk/gnuplot.nim",
     "method": "git",
     "tags": [
       "plot",
@@ -6421,7 +6407,7 @@
     ],
     "description": "Nim interface to gnuplot",
     "license": "MIT",
-    "web": "https://github.com/konqoro/gnuplot.nim"
+    "web": "https://github.com/dvolk/gnuplot.nim"
   },
   {
     "name": "ustring",
@@ -9723,6 +9709,19 @@
 	  "description": "Print fabulously in your terminal",
 	  "license": "MIT",
 	  "web": "https://github.com/icyphox/fab"
+  },
+  {
+    "name": "intel_hex",
+    "url": "https://github.com/keyme/nim_intel_hex",
+    "method": "git",
+    "tags": [
+      "utils",
+      "parsing",
+      "hex"
+    ],
+    "description": "Intel hex file utility library",
+    "license": "MIT",
+    "web": "https://github.com/keyme/nim_intel_hex"
   },
   {
     "name": "nimha",
