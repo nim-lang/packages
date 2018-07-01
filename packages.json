@@ -9736,5 +9736,19 @@
     "description": "Intel hex file utility library",
     "license": "MIT",
     "web": "https://github.com/keyme/nim_intel_hex"
+  },
+  {
+    "name": "nimha",
+    "url": "https://github.com/ThomasTJdev/nim_homeassistant",
+    "method": "git",
+    "tags": [
+      "smarthome",
+      "automation",
+      "mqtt",
+      "xiaomi"
+    ],
+    "description": "Nim Home Assistant (NimHA) is a hub for combining multiple home automation devices and automating jobs",
+    "license": "GPLv3",
+    "web": "https://github.com/ThomasTJdev/nim_homeassistant"
   }
 ]
