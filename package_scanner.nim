@@ -63,9 +63,8 @@ proc canFetchNimbleRepository(name: string, urlJson: JsonNode): bool =
     try:
       discard getContent(url, timeout=10000)
     except HttpRequestError, TimeoutError:
-      echo "E: ", name, ": unable to fetch repository ", url, " ",
+      echo "W: ", name, ": unable to fetch repo ", url, " ",
            getCurrentExceptionMsg()
-      result = false
     except AssertionError:
       echo "W: ", name, ": httpclient failed ", url, " ",
            getCurrentExceptionMsg()
