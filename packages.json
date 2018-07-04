@@ -9459,6 +9459,10 @@
   },
   {
     "name": "websitecreator",
+    "alias": "nimwc"
+  },
+  {
+    "name": "nimwc",
     "url": "https://github.com/ThomasTJdev/nim_websitecreator",
     "method": "git",
     "tags": [
