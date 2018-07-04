@@ -9728,6 +9728,37 @@
     "web": "https://github.com/QuinnFreedman/nimgraphviz"
   },
   {
+    "name": "fab",
+    "url": "https://github.com/icyphox/fab",
+    "method": "git",
+    "tags": [
+      "colors",
+      "terminal",
+      "formatting",
+      "text",
+      "fun"
+    ],
+    "description": "Print fabulously in your terminal",
+    "license": "MIT",
+    "web": "https://github.com/icyphox/fab"
+  },
+  {
+    "name": "kdialog",
+    "url": "https://github.com/juancarlospaco/nim-kdialog",
+    "method": "git",
+    "tags": [
+      "kdialog",
+      "qt5",
+      "kde",
+      "gui",
+      "easy",
+      "qt"
+    ],
+    "description": "KDialog Qt5 Wrapper, easy API, KISS design",
+    "license": "LGPLv3",
+    "web": "https://github.com/juancarlospaco/nim-kdialog"
+  },
+  {
 	  "name": "fab",
 	  "url": "https://github.com/icyphox/fab",
 	  "method": "git",
