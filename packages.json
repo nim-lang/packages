@@ -8996,6 +8996,20 @@
     "web": "https://github.com/Vindaar/nim-mpfit"
   },
   {
+    "name": "nlopt",
+    "url": "https://github.com/Vindaar/nimnlopt",
+    "method": "git",
+    "tags": [
+      "library",
+      "wrapper",
+      "binding",
+      "nonlinear-optimization",
+    ],
+    "description": "A wrapper for the non-linear optimization C library Nlopt",
+    "license": "MIT",
+    "web": "https://github.com/Vindaar/nimnlopt"
+  },
+  {
     "name": "itertools",
     "url": "https://github.com/narimiran/itertools",
     "method": "git",
