@@ -9017,7 +9017,7 @@
       "library",
       "wrapper",
       "binding",
-      "nonlinear-optimization",
+      "nonlinear-optimization"
     ],
     "description": "A wrapper for the non-linear optimization C library Nlopt",
     "license": "MIT",
