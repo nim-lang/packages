@@ -9843,5 +9843,20 @@
     "description": "Nim Home Assistant (NimHA) is a hub for combining multiple home automation devices and automating jobs",
     "license": "GPLv3",
     "web": "https://github.com/ThomasTJdev/nim_homeassistant"
+  },
+  {
+    "name": "fmod",
+    "url": "https://github.com/johnnovak/nim-fmod",
+    "method": "git",
+    "tags": [
+      "library",
+      "fmod",
+      "audio",
+      "game",
+      "sound"
+    ],
+    "description": "Nim wrapper for the FMOD Low Level C API",
+    "license": "MIT",
+    "web": "https://github.com/johnnovak/nim-fmod"
   }
 ]
