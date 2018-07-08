@@ -9858,5 +9858,18 @@
     "description": "Nim wrapper for the FMOD Low Level C API",
     "license": "MIT",
     "web": "https://github.com/johnnovak/nim-fmod"
+  },
+  {
+    "name": "figures",
+    "url": "https://github.com/cavariux/figures",
+    "method": "git",
+    "tags": [
+      "unicode",
+      "cli",
+      "figures"
+    ],
+    "description": "unicode symbols",
+    "license": "MIT",
+    "web": "https://github.com/cavariux/figures"
   }
 ]
