@@ -9858,5 +9858,16 @@
     "description": "Nim wrapper for the FMOD Low Level C API",
     "license": "MIT",
     "web": "https://github.com/johnnovak/nim-fmod"
+  },
+  {
+    "name": "compare",
+    "url": "https://github.com/k0pernicus/compare",
+    "method": "git",
+    "tags": [
+      "compare"
+    ],
+    "description": "Compare two different values, and get an enum as response",
+    "license": "GPLv3",
+    "web": "https://github.com/k0pernicus/compare"
   }
 ]
