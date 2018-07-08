@@ -9871,5 +9871,20 @@
     "description": "unicode symbols",
     "license": "MIT",
     "web": "https://github.com/cavariux/figures"
+  },
+  {
+    "name": "ur",
+    "url": "https://github.com/JohnAD/ur",
+    "method": "git",
+    "tags": [
+      "library",
+      "universal",
+      "result",
+      "return"
+    ],
+    "description": "A Universal Result macro/object that normalizes the information returned from a procedure",
+    "license": "MIT",
+    "web": "https://github.com/JohnAD/ur",
+    "doc": "https://github.com/JohnAD/ur/blob/master/docs/ur.rst"
   }
 ]
