@@ -37,6 +37,7 @@ While we really appreciate your contribution, please follow the requirements: ot
 * The package should build correctly with the latest Nim release
 * The package should not contain files without a license or in breach of 3rd parties licensing
 * Non-mature packages should be flagged as such, especially if they perform security-critical tasks (e.g. encryption)
+* If a vulnerability is found, make a patch release against the latest stable release (or more) that fixes the issue without introducing any other change.
 * Tiny libraries should be avoided where possible
 * Avoid having many dependencies. Use "when defined(...)" to enable optional features.
 * If abandoning a package, please tag it as "abandoned"
@@ -44,7 +45,7 @@ While we really appreciate your contribution, please follow the requirements: ot
 * Provide a contact email address.
 * Optionally try to support older Nim releases (6 months to 1 year)
 * Optionally GPG-sign your releases
-* Optionally follow [SemVer](http://semver.org)
+* Optionally follow [SemVer 2](http://semver.org)
 
 Your packages may be removed if the url stops working. It goes without saying
 that your pull request will not be accepted unless you fill out all of the
