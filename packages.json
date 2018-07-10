@@ -9886,5 +9886,18 @@
     "license": "MIT",
     "web": "https://github.com/JohnAD/ur",
     "doc": "https://github.com/JohnAD/ur/blob/master/docs/ur.rst"
+  },
+  {
+    "name": "blosc",
+    "url": "https://github.com/Skrylar/nblosc",
+    "method": "git",
+    "tags": [
+      "blosc",
+      "wrapper",
+      "compression"
+    ],
+    "description": "Bit Shuffling Block Compressor (C-Blosc)",
+    "license": "BSD",
+    "web": "https://github.com/Skrylar/nblosc"
   }
 ]
