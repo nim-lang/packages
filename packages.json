@@ -9899,5 +9899,19 @@
     "description": "Bit Shuffling Block Compressor (C-Blosc)",
     "license": "BSD",
     "web": "https://github.com/Skrylar/nblosc"
+  },
+  {
+    "name": "fltk",
+    "url": "https://github.com/Skrylar/nfltk",
+    "method": "git",
+    "tags": [
+      "gui",
+      "fltk",
+      "wrapper",
+      "c++"
+    ],
+    "description": "The Fast-Light Tool Kit",
+    "license": "LGPL",
+    "web": "https://github.com/Skrylar/nfltk"
   }
 ]
