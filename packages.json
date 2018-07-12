@@ -9901,6 +9901,20 @@
     "web": "https://github.com/Skrylar/nblosc"
   },
   {
+    "name": "fltk",
+    "url": "https://github.com/Skrylar/nfltk",
+    "method": "git",
+    "tags": [
+      "gui",
+      "fltk",
+      "wrapper",
+      "c++"
+    ],
+    "description": "The Fast-Light Tool Kit",
+    "license": "LGPL",
+    "web": "https://github.com/Skrylar/nfltk"
+  },
+  {
     "name": "nim_cexc",
     "url": "https://github.com/metasyn/nim-cexc-splunk",
     "method": "git",
