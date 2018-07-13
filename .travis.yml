@@ -4,18 +4,20 @@ dist: trusty
 
 language: c
 
+cache:
+  directories:
+    - "$HOME/.choosenim"
+
 install:
+  - export CHOOSENIM_CHOOSE_VERSION="0.18.0"
   - |
-      wget http://nim-lang.org/download/nim-0.13.0.tar.xz
-      tar xf nim-0.13.0.tar.xz
-      cd nim-0.13.0
-      sh build.sh
-      cd ..
+      curl https://nim-lang.org/choosenim/init.sh -sSf > init.sh
+      sh init.sh -y
+  - export PATH=$HOME/.nimble/bin:$PATH
 
 before_script:
   - set -e
   - set -x
-  - export PATH=`pwd`/nim-0.13.0/bin:$PATH
 
 script:
   - nim c -d:ssl -r package_scanner.nim && node ./validate_json.js
