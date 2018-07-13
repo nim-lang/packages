@@ -9927,5 +9927,21 @@
     "description": "A simple chunked external protocol interface for Splunk custom search commands.",
     "license": "Apache2",
     "web": "https://github.com/metasyn/nim-cexc-splunk"
+  },
+  {
+    "name": "nimclipboard",
+    "url": "https://github.com/genotrance/nimclipboard",
+    "method": "git",
+    "tags": [
+      "clipboard",
+      "wrapper",
+      "clip",
+      "copy",
+      "paste",
+      "nimgen"
+    ],
+    "description": "Nim wrapper for libclipboard",
+    "license": "MIT",
+    "web": "https://github.com/genotrance/nimclipboard"
   }
 ]
