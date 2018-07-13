@@ -9818,6 +9818,65 @@
     "web": "https://github.com/genotrance/nimdeps"
   },
   {
+    "name": "nim7z",
+    "url": "https://github.com/genotrance/nim7z",
+    "method": "git",
+    "tags": [
+      "7zip",
+      "7z",
+      "extract",
+      "archive"
+    ],
+    "description": "7z extraction for Nim",
+    "license": "MIT",
+    "web": "https://github.com/genotrance/nim7z"
+  },
+  {
+    "name": "nimarchive",
+    "url": "https://github.com/genotrance/nimarchive",
+    "method": "git",
+    "tags": [
+      "7z",
+      "zip",
+      "tar",
+      "rar",
+      "gz",
+      "libarchive",
+      "compress",
+      "extract",
+      "archive"
+    ],
+    "description": "libarchive wrapper for Nim",
+    "license": "MIT",
+    "web": "https://github.com/genotrance/nimarchive"
+  },
+  {
+    "name": "nimpcre",
+    "url": "https://github.com/genotrance/nimpcre",
+    "method": "git",
+    "tags": [
+      "pcre",
+      "regex"
+    ],
+    "description": "PCRE wrapper for Nim",
+    "license": "MIT",
+    "web": "https://github.com/genotrance/nimpcre"
+  },
+  {
+    "name": "nimdeps",
+    "url": "https://github.com/genotrance/nimdeps",
+    "method": "git",
+    "tags": [
+      "dependency",
+      "bundle",
+      "installer",
+      "package"
+    ],
+    "description": "Nim library to bundle dependency files into executable",
+    "license": "MIT",
+    "web": "https://github.com/genotrance/nimdeps"
+  },
+  {
     "name": "intel_hex",
     "url": "https://github.com/keyme/nim_intel_hex",
     "method": "git",
@@ -9927,5 +9986,21 @@
     "description": "A simple chunked external protocol interface for Splunk custom search commands.",
     "license": "Apache2",
     "web": "https://github.com/metasyn/nim-cexc-splunk"
+  },
+  {
+    "name": "nimclipboard",
+    "url": "https://github.com/genotrance/nimclipboard",
+    "method": "git",
+    "tags": [
+      "clipboard",
+      "wrapper",
+      "clip",
+      "copy",
+      "paste",
+      "nimgen"
+    ],
+    "description": "Nim wrapper for libclipboard",
+    "license": "MIT",
+    "web": "https://github.com/genotrance/nimclipboard"
   }
 ]
