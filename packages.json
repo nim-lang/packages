@@ -9943,5 +9943,17 @@
     "description": "Nim wrapper for libclipboard",
     "license": "MIT",
     "web": "https://github.com/genotrance/nimclipboard"
+  },
+  {
+    "name": "skinterpolate",
+    "url": "https://github.com/Skrylar/skInterpolate",
+    "method": "git",
+    "tags": [
+      "interpolation",
+      "animation"
+    ],
+    "description": "Interpolation routines for data and animation.",
+    "license": "MIT",
+    "web": "https://github.com/Skrylar/skInterpolate"
   }
 ]
