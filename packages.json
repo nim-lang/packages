@@ -9955,5 +9955,31 @@
     "description": "Interpolation routines for data and animation.",
     "license": "MIT",
     "web": "https://github.com/Skrylar/skInterpolate"
+  },
+  {
+    "name": "nimspice",
+    "url": "https://github.com/CodeDoes/nimspice",
+    "method": "git",
+    "tags": [
+      "macro",
+      "template",
+      "class",
+      "collection"
+    ],
+    "description": "A bunch of macros. sugar if you would",
+    "license": "MIT",
+    "web": "https://github.com/CodeDoes/nimspice"
+  },
+  {
+    "name": "BN",
+    "url": "https://github.com/kayabaNerve/BN",
+    "method": "git",
+    "tags": [
+      "bignumber",
+      "multiprecision",
+      "imath"
+    ],
+    "description": "A Nim Wrapper of the imath BigNumber library.",
+    "license": "MIT"
   }
 ]
