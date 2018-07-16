@@ -9981,5 +9981,18 @@
     ],
     "description": "A Nim Wrapper of the imath BigNumber library.",
     "license": "MIT"
+  },
+  {
+    "name": "nimbioseq",
+    "url": "https://github.com/jhbadger/nimbioseq",
+    "method": "git",
+    "tags": [
+      "bioinformatics",
+      "fasta",
+      "fastq"
+    ],
+    "description": "Nim Library for sequence (protein/nucleotide) bioinformatics",
+    "license": "BSD-3",
+    "web": "https://github.com/jhbadger/nimbioseq"
   }
 ]
