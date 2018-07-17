@@ -7728,7 +7728,7 @@
   },
   {
     "name": "syphus",
-    "url": "https://github.com/makingspace/syphus-nim",
+    "url": "https://github.com/makingspace/syphus",
     "method": "git",
     "tags": [
       "optimization",
