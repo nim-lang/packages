@@ -8086,7 +8086,7 @@
   },
   {
     "name": "zero_functional",
-    "url": "https://github.com/alehander42/zero-functional",
+    "url": "https://github.com/zero-functional/zero-functional",
     "method": "git",
     "tags": [
       "functional",
@@ -8096,7 +8096,7 @@
     ],
     "description": "A library providing zero-cost chaining for functional abstractions in Nim",
     "license": "MIT",
-    "web": "https://github.com/alehander42/zero-functional"
+    "web": "https://github.com/zero-functional/zero-functional"
   },
   {
     "name": "ormin",
