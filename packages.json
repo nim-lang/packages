@@ -9994,5 +9994,23 @@
     "description": "Nim Library for sequence (protein/nucleotide) bioinformatics",
     "license": "BSD-3",
     "web": "https://github.com/jhbadger/nimbioseq"
+  },
+  {
+    "name": "subhook",
+    "url": "https://github.com/ba0f3/subhook.nim",
+    "method": "git",
+    "tags": [
+      "hook",
+      "hooking",
+      "subhook",
+      "x86",
+      "windows",
+      "linux",
+      "unix",
+      ""
+    ],
+    "description": "subhook wrapper",
+    "license": "BSD2",
+    "web": "https://github.com/ba0f3/subhook.nim"
   }
 ]
