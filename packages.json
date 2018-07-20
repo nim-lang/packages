@@ -10025,5 +10025,23 @@
     "description": "Time travelling for Nim",
     "license": "MIT",
     "web": "https://github.com/ba0f3/timecop.nim"
+  },
+  {
+    "name": "openexchangerates",
+    "url": "https://github.com/juancarlospaco/nim-openexchangerates",
+    "method": "git",
+    "tags": [
+      "money",
+      "exchange",
+      "openexchangerates",
+      "bitcoin",
+      "gold",
+      "dollar",
+      "euro",
+      "prices"
+    ],
+    "description": "OpenExchangeRates API Client for Nim. Works with/without SSL. Partially works with/without Free API Key.",
+    "license": "MIT",
+    "web": "https://github.com/juancarlospaco/nim-openexchangerates"
   }
 ]
