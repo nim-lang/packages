@@ -5916,6 +5916,22 @@
     "web": "https://github.com/status-im/nim-ranges"
   },
   {
+    "name": "json_rpc",
+    "url": "https://github.com/status-im/nim-json-rpc",
+    "method": "git",
+    "tags": [
+      "library",
+      "json-rpc",
+      "server",
+      "client",
+      "rpc",
+      "json"
+    ],
+    "description": "Nim library for implementing JSON-RPC clients and servers",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/status-im/nim-json-rpc"
+  },
+  {
     "name": "rlp",
     "url": "https://github.com/status-im/nim-rlp",
     "method": "git",
