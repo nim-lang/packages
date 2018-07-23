@@ -10059,5 +10059,20 @@
     "description": "OpenExchangeRates API Client for Nim. Works with/without SSL. Partially works with/without Free API Key.",
     "license": "MIT",
     "web": "https://github.com/juancarlospaco/nim-openexchangerates"
+  },
+  {
+    "name": "clr",
+    "url": "https://github.com/Calinou/clr",
+    "method": "git",
+    "tags": [
+      "commandline",
+      "color",
+      "rgb",
+      "hsl",
+      "hsv"
+    ],
+    "description": "Get information about colors and convert them in the command line",
+    "license": "MIT",
+    "web": "https://github.com/Calinou/clr"
   }
 ]
