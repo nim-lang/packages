@@ -10074,5 +10074,20 @@
     "description": "Get information about colors and convert them in the command line",
     "license": "MIT",
     "web": "https://github.com/Calinou/clr"
+  },
+  {
+    "name": "duktape",
+    "url": "https://github.com/manguluka/duktape-nim",
+    "method": "git",
+    "tags": [
+      "js",
+      "javascript",
+      "scripting",
+      "language",
+      "interpreter"
+    ],
+    "description": "wrapper for the Duktape embeddable Javascript engine",
+    "license": "MIT",
+    "web": "https://github.com/manguluka/duktape-nim"
   }
 ]
