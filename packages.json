@@ -10076,6 +10076,18 @@
     "web": "https://github.com/Calinou/clr"
   },
   {
+    "name": "polypbren",
+    "url": "https://github.com/guibar64/polypbren",
+    "method": "git",
+    "tags": [
+      "science",
+      "equation"
+    ],
+    "description": "Renormalization of colloidal charges of polydipserse dispersions using the Poisson-Boltzmann equation",
+    "license": "MIT",
+    "web": "https://github.com/guibar64/polypbren"
+  },
+  {
     "name": "spdx_licenses",
     "url": "https://github.com/euantorano/spdx_licenses.nim",
     "method": "git",
