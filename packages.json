@@ -10074,5 +10074,17 @@
     "description": "Get information about colors and convert them in the command line",
     "license": "MIT",
     "web": "https://github.com/Calinou/clr"
+  },
+  {
+    "name": "polypbren",
+    "url": "https://github.com/guibar64/polypbren",
+    "method": "git",
+    "tags": [
+      "science",
+      "equation"
+    ],
+    "description": "Renormalization of colloidal charges of polydipserse dispersions using the Poisson-Boltzmann equation",
+    "license": "MIT",
+    "web": "https://github.com/guibar64/polypbren"
   }
 ]
