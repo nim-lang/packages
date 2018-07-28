@@ -10089,5 +10089,29 @@
     "description": "wrapper for the Duktape embeddable Javascript engine",
     "license": "MIT",
     "web": "https://github.com/manguluka/duktape-nim"
+  },
+  {
+    "name": "polypbren",
+    "url": "https://github.com/guibar64/polypbren",
+    "method": "git",
+    "tags": [
+      "science",
+      "equation"
+    ],
+    "description": "Renormalization of colloidal charges of polydipserse dispersions using the Poisson-Boltzmann equation",
+    "license": "MIT",
+    "web": "https://github.com/guibar64/polypbren"
+  },
+  {
+    "name": "spdx_licenses",
+    "url": "https://github.com/euantorano/spdx_licenses.nim",
+    "method": "git",
+    "tags": [
+      "spdx",
+      "license"
+    ],
+    "description": "A library to retrieve the list of commonly used licenses from the SPDX License List.",
+    "license": "BSD3",
+    "web": "https://github.com/euantorano/spdx_licenses.nim"
   }
 ]
