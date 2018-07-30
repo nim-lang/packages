@@ -10113,5 +10113,20 @@
     "description": "A library to retrieve the list of commonly used licenses from the SPDX License List.",
     "license": "BSD3",
     "web": "https://github.com/euantorano/spdx_licenses.nim"
+  },
+  {
+    "name": "texttospeech",
+    "url": "https://github.com/dom96/texttospeech",
+    "method": "git",
+    "tags": [
+      "tts",
+      "text-to-speech",
+      "google-cloud",
+      "gcloud",
+      "api"
+    ],
+    "description": "A client for the Google Cloud Text to Speech API.",
+    "license": "MIT",
+    "web": "https://github.com/dom96/texttospeech"
   }
 ]
