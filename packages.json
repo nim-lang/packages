@@ -9988,7 +9988,7 @@
   },
   {
     "name": "BN",
-    "url": "https://github.com/kayabaNerve/BN",
+    "url": "https://github.com/EmberCrypto/BN",
     "method": "git",
     "tags": [
       "bignumber",
