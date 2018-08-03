@@ -10128,5 +10128,23 @@
     "description": "A client for the Google Cloud Text to Speech API.",
     "license": "MIT",
     "web": "https://github.com/dom96/texttospeech"
+  },
+  {
+    "name": "signals",
+    "url": "https://github.com/ba0f3/signals.nim",
+    "method": "git",
+    "tags": [
+      "unix",
+      "signal",
+      "hook",
+      "sighup",
+      "sigint",
+      "sigkill",
+      "linux",
+      "handler"
+    ],
+    "description": "Small library for Unix signal handling",
+    "license": "MIT",
+    "web": "https://github.com/ba0f3/signals.nim"
   }
 ]
