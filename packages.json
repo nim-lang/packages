@@ -10128,5 +10128,19 @@
     "description": "A client for the Google Cloud Text to Speech API.",
     "license": "MIT",
     "web": "https://github.com/dom96/texttospeech"
+  },
+  {
+    "name": "nim-tiled",
+    "url": "https://github.com/SkyVault/nim-tiled",
+    "method": "git",
+    "tags": [
+        "tiled",
+        "gamedev",
+        "tilemap",
+        "tile"
+    ],
+    "description": "Tiled map loader",
+    "license": "MIT",
+    "web": "https://github.com/SkyVault/nim-tiled"
   }
 ]
