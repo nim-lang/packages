@@ -10160,5 +10160,21 @@
     "description": "Our very personal collection of utilities",
     "license": "MIT",
     "web": "https://github.com/fragcolor-xyz/fragments"
+  },
+  {
+    "name": "nim_telegram_bot",
+    "url": "https://github.com/juancarlospaco/nim-telegram-bot",
+    "method": "git",
+    "tags": [
+      "telegram",
+      "bot",
+      "telebot",
+      "async",
+      "multipurpose",
+      "chat"
+    ],
+    "description": "Generic Configurable Telegram Bot for Nim, with builtin basic functionality and Plugins",
+    "license": "MIT",
+    "web": "https://github.com/juancarlospaco/nim-telegram-bot"
   }
 ]
