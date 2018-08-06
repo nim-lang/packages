@@ -10142,5 +10142,23 @@
     "description": "Tiled map loader for the Nim programming language",
     "license": "MIT",
     "web": "https://github.com/SkyVault/nim-tiled"
+  },
+  {
+    "name": "fragments",
+    "url": "https://github.com/fragcolor-xyz/fragments",
+    "method": "git",
+    "tags": [
+      "ffi",
+      "math",
+      "threading",
+      "dsl",
+      "memory",
+      "serialization",
+      "cpp",
+      "utilities"
+    ],
+    "description": "Our very personal collection of utilities",
+    "license": "MIT",
+    "web": "https://github.com/fragcolor-xyz/fragments"
   }
 ]
