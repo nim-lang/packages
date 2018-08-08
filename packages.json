@@ -10178,6 +10178,29 @@
     "web": "https://github.com/juancarlospaco/nim-telegram-bot"
   },
   {
+    "name": "uibuilder",
+    "url": "https://github.com/ba0f3/uibuider.nim",
+    "method": "git",
+    "tags": [
+      "ui",
+      "builder",
+      "libui",
+      "designer",
+      "gtk",
+      "gnome",
+      "glade",
+      "interface",
+      "gui",
+      "linux",
+      "windows",
+      "osx",
+      "mac"
+    ],
+    "description": "UI building with Gnome's Glade",
+    "license": "MIT",
+    "web": "https://github.com/ba0f3/uibuider.nim"
+  },
+  {
     "name": "xiaomi",
     "url": "https://github.com/ThomasTJdev/nim_xiaomi.git",
     "method": "git",
@@ -10188,5 +10211,6 @@
     "description": "Read and write to Xiaomi IOT devices.",
     "license": "MIT",
     "web": "https://github.com/ThomasTJdev/nim_xiaomi"
+
   }
 ]
