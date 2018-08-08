@@ -10199,5 +10199,18 @@
     "description": "UI building with Gnome's Glade",
     "license": "MIT",
     "web": "https://github.com/ba0f3/uibuider.nim"
+  },
+  {
+    "name": "xiaomi",
+    "url": "https://github.com/ThomasTJdev/nim_xiaomi.git",
+    "method": "git",
+    "tags": [
+      "xiaomi",
+      "iot"
+    ],
+    "description": "Read and write to Xiaomi IOT devices.",
+    "license": "MIT",
+    "web": "https://github.com/ThomasTJdev/nim_xiaomi"
+
   }
 ]
