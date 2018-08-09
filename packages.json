@@ -10188,5 +10188,23 @@
     "description": "Read and write to Xiaomi IOT devices.",
     "license": "MIT",
     "web": "https://github.com/ThomasTJdev/nim_xiaomi"
+  },
+  {
+    "name": "vecio",
+    "url": "https://github.com/emekoi/vecio.nim",
+    "method": "git",
+    "tags": [
+      "writev",
+      "readv",
+      "scatter",
+      "gather",
+      "vectored",
+      "vector",
+      "io",
+      "networking"
+    ],
+    "description": "vectored io for nim",
+    "license": "MIT",
+    "web": "https://github.com/emekoi/vecio.nim"
   }
 ]
