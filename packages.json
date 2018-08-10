@@ -10206,5 +10206,16 @@
     "description": "vectored io for nim",
     "license": "MIT",
     "web": "https://github.com/emekoi/vecio.nim"
+  },
+  {
+    "name": "lsp",
+    "url": "https://github.com/mcx-lang/lsp",
+    "method": "git",
+    "tags": [
+      "lsp"
+    ],
+    "description": "language server protocol",
+    "license": "MIT",
+    "web": "https://github.com/mcx-lang/lsp"
   }
 ]
