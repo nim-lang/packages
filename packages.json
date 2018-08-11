@@ -10206,5 +10206,16 @@
     "description": "vectored io for nim",
     "license": "MIT",
     "web": "https://github.com/emekoi/vecio.nim"
+  },
+  {
+    "name": "nmiline",
+    "url": "https://github.com/mzteruru52/NmiLine",
+    "method": "git",
+    "tags": [
+      "graph"
+    ],
+    "description": "Plotting tool using NiGui",
+    "license": "MIT",
+    "web": "https://github.com/mzteruru52/NmiLine"
   }
 ]
