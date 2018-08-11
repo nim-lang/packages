@@ -10206,5 +10206,21 @@
     "description": "vectored io for nim",
     "license": "MIT",
     "web": "https://github.com/emekoi/vecio.nim"
+  },
+  {
+    "name": "c_alikes",
+    "url": "https://github.com/ReneSac/c_alikes",
+    "method": "git",
+    "tags": [
+      "library",
+      "bitwise",
+      "bitops",
+      "pointers",
+      "shallowCopy",
+      "C"
+    ],
+    "description": "Operators, commands and functions more c-like, plus a few other utilities",
+    "license": "MIT",
+    "web": "https://github.com/ReneSac/c_alikes"
   }
 ]
