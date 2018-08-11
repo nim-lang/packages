@@ -10222,5 +10222,18 @@
     "description": "Operators, commands and functions more c-like, plus a few other utilities",
     "license": "MIT",
     "web": "https://github.com/ReneSac/c_alikes"
-  }
+  },
+  {
+    "name": "typography",
+    "url": "https://github.com/treeform/typography.git",
+    "method": "git",
+    "tags": [
+      "font",
+      "text",
+      "2d"
+    ],
+    "description": "Fonts, Typesetting and Rasterization.",
+    "license": "MIT",
+    "web": "https://github.com/treeform/typography"
+  }	 
 ]
