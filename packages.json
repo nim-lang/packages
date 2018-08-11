@@ -10222,7 +10222,7 @@
     "description": "Operators, commands and functions more c-like, plus a few other utilities",
     "license": "MIT",
     "web": "https://github.com/ReneSac/c_alikes"
-  }
+  },
   {
     "name": "print",
     "url": "https://github.com/treeform/print.git",
