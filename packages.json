@@ -10248,6 +10248,31 @@
     "web": "https://github.com/juancarlospaco/nim-espeak"
   },
   {
+    "name": "uibuilder",
+    "url": "https://github.com/ba0f3/uibuilder.nim",
+    "method": "git",
+    "tags": [
+      "ui",
+      "builder",
+      "libui",
+      "designer",
+      "gtk",
+      "gnome",
+      "glade",
+      "interface",
+      "gui",
+      "linux",
+      "windows",
+      "osx",
+      "mac",
+      "native",
+      "generator"
+    ],
+    "description": "UI building with Gnome's Glade",
+    "license": "MIT",
+    "web": "https://github.com/ba0f3/uibuilder.nim"
+  },
+  {
     "name": "webp",
     "url": "https://github.com/juancarlospaco/nim-webp",
     "method": "git",
