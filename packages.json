@@ -10235,5 +10235,16 @@
     "description": "Nim Espeak NG wrapper, for super easy Voice and Text-To-Speech",
     "license": "MIT",
     "web": "https://github.com/juancarlospaco/nim-espeak"
+  },
+  {
+    "name": "webp",
+    "url": "https://github.com/juancarlospaco/nim-webp",
+    "method": "git",
+    "tags": [
+      "webp"
+    ],
+    "description": "WebP Tools wrapper for Nim",
+    "license": "MIT",
+    "web": "https://github.com/juancarlospaco/nim-webp"
   }
 ]
