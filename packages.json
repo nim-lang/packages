@@ -10224,6 +10224,19 @@
     "web": "https://github.com/ReneSac/c_alikes"
   },
   {
+    "name": "espeak",
+    "url": "https://github.com/juancarlospaco/nim-espeak",
+    "method": "git",
+    "tags": [
+      "espeak",
+      "voice",
+      "texttospeech"
+    ],
+    "description": "Nim Espeak NG wrapper, for super easy Voice and Text-To-Speech",
+    "license": "MIT",
+    "web": "https://github.com/juancarlospaco/nim-espeak"
+  },
+  {
     "name": "print",
     "url": "https://github.com/treeform/print.git",
     "method": "git",
