@@ -10217,5 +10217,34 @@
     "description": "Plotting tool using NiGui",
     "license": "MIT",
     "web": "https://github.com/mzteruru52/NmiLine"
+  },
+  {
+    "name": "c_alikes",
+    "url": "https://github.com/ReneSac/c_alikes",
+    "method": "git",
+    "tags": [
+      "library",
+      "bitwise",
+      "bitops",
+      "pointers",
+      "shallowCopy",
+      "C"
+    ],
+    "description": "Operators, commands and functions more c-like, plus a few other utilities",
+    "license": "MIT",
+    "web": "https://github.com/ReneSac/c_alikes"
+  },
+  {
+    "name": "espeak",
+    "url": "https://github.com/juancarlospaco/nim-espeak",
+    "method": "git",
+    "tags": [
+      "espeak",
+      "voice",
+      "texttospeech"
+    ],
+    "description": "Nim Espeak NG wrapper, for super easy Voice and Text-To-Speech",
+    "license": "MIT",
+    "web": "https://github.com/juancarlospaco/nim-espeak"
   }
 ]
