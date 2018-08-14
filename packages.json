@@ -10248,6 +10248,20 @@
     "web": "https://github.com/juancarlospaco/nim-espeak"
   },
   {
+    "name": "wstp",
+    "url": "https://github.com/oskca/nim-wstp",
+    "method": "git",
+    "tags": [
+      "wolfram",
+      "mathematica",
+      "bindings",
+      "wstp"
+    ],
+    "description": "Nim bindings for WSTP",
+    "license": "MIT",
+    "web": "https://github.com/oskca/nim-wstp"
+  },
+  {
     "name": "uibuilder",
     "url": "https://github.com/ba0f3/uibuilder.nim",
     "method": "git",
