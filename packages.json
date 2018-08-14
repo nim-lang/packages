@@ -10208,6 +10208,17 @@
     "web": "https://github.com/emekoi/vecio.nim"
   },
   {
+    "name": "nmiline",
+    "url": "https://github.com/mzteruru52/NmiLine",
+    "method": "git",
+    "tags": [
+      "graph"
+    ],
+    "description": "Plotting tool using NiGui",
+    "license": "MIT",
+    "web": "https://github.com/mzteruru52/NmiLine"
+  },
+  {
     "name": "c_alikes",
     "url": "https://github.com/ReneSac/c_alikes",
     "method": "git",
