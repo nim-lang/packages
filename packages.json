@@ -10208,6 +10208,17 @@
     "web": "https://github.com/emekoi/vecio.nim"
   },
   {
+    "name": "nmiline",
+    "url": "https://github.com/mzteruru52/NmiLine",
+    "method": "git",
+    "tags": [
+      "graph"
+    ],
+    "description": "Plotting tool using NiGui",
+    "license": "MIT",
+    "web": "https://github.com/mzteruru52/NmiLine"
+  },
+  {
     "name": "c_alikes",
     "url": "https://github.com/ReneSac/c_alikes",
     "method": "git",
@@ -10238,7 +10249,7 @@
   },
   {
     "name": "uibuilder",
-    "url": "https://github.com/ba0f3/uibuider.nim",
+    "url": "https://github.com/ba0f3/uibuilder.nim",
     "method": "git",
     "tags": [
       "ui",
@@ -10259,6 +10270,68 @@
     ],
     "description": "UI building with Gnome's Glade",
     "license": "MIT",
-    "web": "https://github.com/ba0f3/uibuider.nim"
+    "web": "https://github.com/ba0f3/uibuilder.nim"
+  },
+  {
+    "name": "webp",
+    "url": "https://github.com/juancarlospaco/nim-webp",
+    "method": "git",
+    "tags": [
+      "webp"
+    ],
+    "description": "WebP Tools wrapper for Nim",
+    "license": "MIT",
+    "web": "https://github.com/juancarlospaco/nim-webp"
+  },
+  {
+    "name": "print",
+    "url": "https://github.com/treeform/print.git",
+    "method": "git",
+    "tags": [
+      "pretty"
+    ],
+    "description": "Print is a set of pretty print macros, useful for print-debugging.",
+    "license": "MIT",
+    "web": "https://github.com/treeform/print"
+  },
+  {
+    "name": "vmath",
+    "url": "https://github.com/treeform/vmath.git",
+    "method": "git",
+    "tags": [
+      "math",
+      "graphics",
+      "2d",
+      "3d"
+    ],
+    "description": "Collection of math routines for 2d and 3d graphics.",
+    "license": "MIT",
+    "web": "https://github.com/treeform/vmath"
+  },
+  {
+    "name": "flippy",
+    "url": "https://github.com/treeform/flippy.git",
+    "method": "git",
+    "tags": [
+      "image",
+      "graphics",
+      "2d"
+    ],
+    "description": "Flippy is a simple 2d image and drawing library.",
+    "license": "MIT",
+    "web": "https://github.com/treeform/flippy"
+  },
+  {
+    "name": "typography",
+    "url": "https://github.com/treeform/typography.git",
+    "method": "git",
+    "tags": [
+      "font",
+      "text",
+      "2d"
+    ],
+    "description": "Fonts, Typesetting and Rasterization.",
+    "license": "MIT",
+    "web": "https://github.com/treeform/typography"
   }
 ]
