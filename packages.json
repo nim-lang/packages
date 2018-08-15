@@ -10347,5 +10347,18 @@
     "description": "Fonts, Typesetting and Rasterization.",
     "license": "MIT",
     "web": "https://github.com/treeform/typography"
+  },
+  {
+    "name": "nimblegui",
+    "url": "https://github.com/ThomasTJdev/nim_nimble_gui",
+    "method": "git",
+    "tags": [
+      "nimble",
+      "gui",
+      "packages"
+    ],
+    "description": "A simple GUI front for Nimble.",
+    "license": "MIT",
+    "web": "https://github.com/ThomasTJdev/nim_nimble_gui"
   }
 ]
