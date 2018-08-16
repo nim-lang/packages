@@ -10377,5 +10377,22 @@
     "description": "A simple GUI front for Nimble.",
     "license": "MIT",
     "web": "https://github.com/ThomasTJdev/nim_nimble_gui"
+  },
+  {
+    "name": "xml",
+    "url": "https://github.com/ba0f3/xml.nim",
+    "method": "git",
+    "tags": [
+      "xml",
+      "parser",
+      "compile",
+      "tokenizer",
+      "nim",
+      "html",
+      "cdata"
+    ],
+    "description": "Pure Nim XML parser",
+    "license": "MIT",
+    "web": "https://github.com/ba0f3/xml.nim"
   }
 ]
