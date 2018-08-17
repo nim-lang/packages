@@ -10235,6 +10235,22 @@
     "web": "https://github.com/ReneSac/c_alikes"
   },
   {
+    "name": "memviews",
+    "url": "https://github.com/ReneSac/memviews",
+    "method": "git",
+    "tags": [
+      "library",
+      "slice",
+      "slicing",
+      "shallow",
+      "array",
+      "vector"
+    ],
+    "description": "Unsafe in-place slicing",
+    "license": "MIT",
+    "web": "https://github.com/ReneSac/memviews"
+  },
+  {
     "name": "espeak",
     "url": "https://github.com/juancarlospaco/nim-espeak",
     "method": "git",
