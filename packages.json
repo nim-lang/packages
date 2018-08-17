@@ -10208,6 +10208,17 @@
     "web": "https://github.com/emekoi/vecio.nim"
   },
   {
+    "name": "nmiline",
+    "url": "https://github.com/mzteruru52/NmiLine",
+    "method": "git",
+    "tags": [
+      "graph"
+    ],
+    "description": "Plotting tool using NiGui",
+    "license": "MIT",
+    "web": "https://github.com/mzteruru52/NmiLine"
+  },
+  {
     "name": "c_alikes",
     "url": "https://github.com/ReneSac/c_alikes",
     "method": "git",
@@ -10238,5 +10249,166 @@
     "description": "Unsafe in-place slicing",
     "license": "MIT",
     "web": "https://github.com/ReneSac/memviews"
+  },
+  {
+    "name": "espeak",
+    "url": "https://github.com/juancarlospaco/nim-espeak",
+    "method": "git",
+    "tags": [
+      "espeak",
+      "voice",
+      "texttospeech"
+    ],
+    "description": "Nim Espeak NG wrapper, for super easy Voice and Text-To-Speech",
+    "license": "MIT",
+    "web": "https://github.com/juancarlospaco/nim-espeak"
+  },
+  {
+    "name": "wstp",
+    "url": "https://github.com/oskca/nim-wstp",
+    "method": "git",
+    "tags": [
+      "wolfram",
+      "mathematica",
+      "bindings",
+      "wstp"
+    ],
+    "description": "Nim bindings for WSTP",
+    "license": "MIT",
+    "web": "https://github.com/oskca/nim-wstp"
+  },
+  {
+    "name": "uibuilder",
+    "url": "https://github.com/ba0f3/uibuilder.nim",
+    "method": "git",
+    "tags": [
+      "ui",
+      "builder",
+      "libui",
+      "designer",
+      "gtk",
+      "gnome",
+      "glade",
+      "interface",
+      "gui",
+      "linux",
+      "windows",
+      "osx",
+      "mac",
+      "native",
+      "generator"
+    ],
+    "description": "UI building with Gnome's Glade",
+    "license": "MIT",
+    "web": "https://github.com/ba0f3/uibuilder.nim"
+  },
+  {
+    "name": "webp",
+    "url": "https://github.com/juancarlospaco/nim-webp",
+    "method": "git",
+    "tags": [
+      "webp"
+    ],
+    "description": "WebP Tools wrapper for Nim",
+    "license": "MIT",
+    "web": "https://github.com/juancarlospaco/nim-webp"
+  },
+  {
+    "name": "print",
+    "url": "https://github.com/treeform/print.git",
+    "method": "git",
+    "tags": [
+      "pretty"
+    ],
+    "description": "Print is a set of pretty print macros, useful for print-debugging.",
+    "license": "MIT",
+    "web": "https://github.com/treeform/print"
+  },
+  {
+    "name": "vmath",
+    "url": "https://github.com/treeform/vmath.git",
+    "method": "git",
+    "tags": [
+      "math",
+      "graphics",
+      "2d",
+      "3d"
+    ],
+    "description": "Collection of math routines for 2d and 3d graphics.",
+    "license": "MIT",
+    "web": "https://github.com/treeform/vmath"
+  },
+  {
+    "name": "flippy",
+    "url": "https://github.com/treeform/flippy.git",
+    "method": "git",
+    "tags": [
+      "image",
+      "graphics",
+      "2d"
+    ],
+    "description": "Flippy is a simple 2d image and drawing library.",
+    "license": "MIT",
+    "web": "https://github.com/treeform/flippy"
+  },
+  {
+    "name": "typography",
+    "url": "https://github.com/treeform/typography.git",
+    "method": "git",
+    "tags": [
+      "font",
+      "text",
+      "2d"
+    ],
+    "description": "Fonts, Typesetting and Rasterization.",
+    "license": "MIT",
+    "web": "https://github.com/treeform/typography"
+  },
+  {
+    "name": "xdo",
+    "url": "https://github.com/juancarlospaco/nim-xdo",
+    "method": "git",
+    "tags": [
+      "automation",
+      "linux",
+      "gui",
+      "keyboard",
+      "mouse",
+      "typing",
+      "clicker"
+    ],
+    "description": "Nim GUI Automation Linux, simulate user interaction, mouse and keyboard.",
+    "license": "MIT",
+    "web": "https://github.com/juancarlospaco/nim-xdo"
+  },
+  {
+    "name": "nimblegui",
+    "url": "https://github.com/ThomasTJdev/nim_nimble_gui",
+    "method": "git",
+    "tags": [
+      "nimble",
+      "gui",
+      "packages"
+    ],
+    "description": "A simple GUI front for Nimble.",
+    "license": "MIT",
+    "web": "https://github.com/ThomasTJdev/nim_nimble_gui"
+  },
+  {
+    "name": "xml",
+    "url": "https://github.com/ba0f3/xml.nim",
+    "method": "git",
+    "tags": [
+      "xml",
+      "parser",
+      "compile",
+      "tokenizer",
+      "nim",
+      "html",
+      "cdata"
+    ],
+    "description": "Pure Nim XML parser",
+    "license": "MIT",
+    "web": "https://github.com/ba0f3/xml.nim"
   }
 ]
