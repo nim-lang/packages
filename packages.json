@@ -10410,5 +10410,21 @@
     "description": "Pure Nim XML parser",
     "license": "MIT",
     "web": "https://github.com/ba0f3/xml.nim"
+  },
+  {
+    "name": "soundio",
+    "url": "https://github.com/ul/soundio",
+    "method": "git",
+    "tags": [
+      "library",
+      "wrapper",
+      "binding",
+      "audio",
+      "sound",
+      "media",
+      "io"
+    ],
+    "description": "Bindings for libsoundio",
+    "license": "MIT"
   }
 ]
