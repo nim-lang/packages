@@ -10426,5 +10426,18 @@
     ],
     "description": "Bindings for libsoundio",
     "license": "MIT"
+  },
+  {
+    "name": "miniz",
+    "url": "https://github.com/treeform/miniz",
+    "method": "git",
+    "tags": [
+      "zlib",
+      "zip",
+      "wrapper",
+      "compression"
+    ],
+    "description": "Bindings for Miniz lib.",
+    "license": "MIT"
   }
 ]
