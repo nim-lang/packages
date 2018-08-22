@@ -10439,5 +10439,17 @@
     ],
     "description": "Bindings for Miniz lib.",
     "license": "MIT"
+  },
+  {
+    "name": "nim_cjson",
+    "url": "https://github.com/muxueqz/nim_cjson",
+    "method": "git",
+    "tags": [
+      "cjson",
+      "json"
+    ],
+    "description": "cjson wrapper for Nim",
+    "license": "MIT",
+    "web": "https://github.com/muxueqz/nim_cjson"
   }
 ]
