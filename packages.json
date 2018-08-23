@@ -10451,5 +10451,19 @@
     "description": "cjson wrapper for Nim",
     "license": "MIT",
     "web": "https://github.com/muxueqz/nim_cjson"
+  },
+  {
+    "name": "overpass",
+    "url": "https://github.com/juancarlospaco/nim-overpass",
+    "method": "git",
+    "tags": [
+      "openstreetmap",
+      "overpass",
+      "multisync",
+      "async"
+    ],
+    "description": "OpenStreetMap Overpass API Lib",
+    "license": "MIT",
+    "web": "https://github.com/juancarlospaco/nim-overpass"
   }
 ]
