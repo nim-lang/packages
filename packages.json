@@ -10451,5 +10451,16 @@
     "description": "cjson wrapper for Nim",
     "license": "MIT",
     "web": "https://github.com/muxueqz/nim_cjson"
+  },
+  {
+    "name": "nimobserver",
+    "url": "https://github.com/Tangdongle/nimobserver",
+    "method": "git",
+    "tags": [
+      "v0.1.1"
+    ],
+    "description": "An implementation of the observer pattern",
+    "license": "MIT",
+    "web": "https://github.com/Tangdongle/nimobserver"
   }
 ]
