@@ -10464,5 +10464,19 @@
     "description": "An implementation of the observer pattern",
     "license": "MIT",
     "web": "https://github.com/Tangdongle/nimobserver"
+  },
+  {
+    "name": "nominatim",
+    "url": "https://github.com/juancarlospaco/nim-nominatim",
+    "method": "git",
+    "tags": [
+      "openstreetmap",
+      "nominatim",
+      "multisync",
+      "async"
+    ],
+    "description": "OpenStreetMap Nominatim API Lib for Nim",
+    "license": "MIT",
+    "web": "https://github.com/juancarlospaco/nim-nominatim"
   }
 ]
