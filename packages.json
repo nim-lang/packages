@@ -10464,5 +10464,19 @@
     "description": "An implementation of the observer pattern",
     "license": "MIT",
     "web": "https://github.com/Tangdongle/nimobserver"
+  },
+  {
+    "name": "overpass",
+    "url": "https://github.com/juancarlospaco/nim-overpass",
+    "method": "git",
+    "tags": [
+      "openstreetmap",
+      "overpass",
+      "multisync",
+      "async"
+    ],
+    "description": "OpenStreetMap Overpass API Lib",
+    "license": "MIT",
+    "web": "https://github.com/juancarlospaco/nim-overpass"
   }
 ]
