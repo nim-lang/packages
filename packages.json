@@ -10478,5 +10478,19 @@
     "description": "OpenStreetMap Nominatim API Lib for Nim",
     "license": "MIT",
     "web": "https://github.com/juancarlospaco/nim-nominatim"
+  },
+  {
+    "name": "overpass",
+    "url": "https://github.com/juancarlospaco/nim-overpass",
+    "method": "git",
+    "tags": [
+      "openstreetmap",
+      "overpass",
+      "multisync",
+      "async"
+    ],
+    "description": "OpenStreetMap Overpass API Lib",
+    "license": "MIT",
+    "web": "https://github.com/juancarlospaco/nim-overpass"
   }
 ]
