@@ -10466,6 +10466,33 @@
     "web": "https://github.com/Tangdongle/nimobserver"
   },
   {
+    "name": "nominatim",
+    "url": "https://github.com/juancarlospaco/nim-nominatim",
+    "method": "git",
+    "tags": [
+      "openstreetmap",
+      "nominatim",
+      "multisync",
+      "async"
+    ],
+    "description": "OpenStreetMap Nominatim API Lib for Nim",
+    "license": "MIT",
+    "web": "https://github.com/juancarlospaco/nim-nominatim"
+  },
+  {
+    "name": "systimes",
+    "url": "https://github.com/GULPF/systimes",
+    "method": "git",
+    "tags": [
+      "time",
+      "timezone",
+      "datetime"
+    ],
+    "description": "An alternative DateTime implementation",
+    "license": "MIT",
+    "web": "https://github.com/GULPF/systimes"
+  },
+  {
     "name": "overpass",
     "url": "https://github.com/juancarlospaco/nim-overpass",
     "method": "git",
@@ -10493,5 +10520,17 @@
     "description": "OpenStreetMap API Lib for Nim",
     "license": "MIT",
     "web": "https://github.com/juancarlospaco/nim-openstreetmap"
+  },
+  {
+    "name": "daemonim",
+    "url": "https://github.com/bung87/daemon",
+    "method": "git",
+    "tags": [
+      "unix",
+      "library"
+    ],
+    "description": "daemonizer for Unix, Linux and OS X",
+    "license": "MIT",
+    "web": "https://github.com/bung87/daemon"
   }
 ]
