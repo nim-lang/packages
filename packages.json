@@ -10505,5 +10505,17 @@
     "description": "OpenStreetMap Overpass API Lib",
     "license": "MIT",
     "web": "https://github.com/juancarlospaco/nim-overpass"
+  },
+  {
+    "name": "daemonim",
+    "url": "https://github.com/bung87/daemon",
+    "method": "git",
+    "tags": [
+      "unix",
+      "library"
+    ],
+    "description": "daemonizer for Unix, Linux and OS X",
+    "license": "MIT",
+    "web": "https://github.com/bung87/daemon"
   }
 ]
