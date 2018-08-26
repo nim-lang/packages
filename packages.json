@@ -10478,5 +10478,20 @@
     "description": "OpenStreetMap Overpass API Lib",
     "license": "MIT",
     "web": "https://github.com/juancarlospaco/nim-overpass"
+  },
+  {
+    "name": "openstreetmap",
+    "url": "https://github.com/juancarlospaco/nim-openstreetmap",
+    "method": "git",
+    "tags": [
+      "openstreetmap",
+      "multisync",
+      "async",
+      "geo",
+      "map"
+    ],
+    "description": "OpenStreetMap API Lib for Nim",
+    "license": "MIT",
+    "web": "https://github.com/juancarlospaco/nim-openstreetmap"
   }
 ]
