@@ -10484,7 +10484,8 @@
     "url": "https://github.com/bung87/daemon",
     "method": "git",
     "tags": [
-      "y"
+      "unix",
+      "library"
     ],
     "description": "daemonizer for Unix, Linux and OS X",
     "license": "MIT",
