@@ -10532,5 +10532,16 @@
     "description": "daemonizer for Unix, Linux and OS X",
     "license": "MIT",
     "web": "https://github.com/bung87/daemon"
+  },
+  {
+    "name": "finalseg",
+    "url": "https://github.com/bung87/finalseg",
+    "method": "git",
+    "tags": [
+      "n"
+    ],
+    "description": "jieba's finalseg port to nim",
+    "license": "MIT",
+    "web": "https://github.com/bung87/finalseg"
   }
 ]
