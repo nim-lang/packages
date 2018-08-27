@@ -7468,19 +7468,6 @@
     "web": "https://github.com/Skrylar/rfc3339"
   },
   {
-    "name": "monero",
-    "url": "https://github.com/ehmry/nim-monero",
-    "method": "git",
-    "tags": [
-      "monero",
-      "cryptonote",
-      "vanity"
-    ],
-    "description": "Libraries and utilites related to Monero, a CryptoNote cryptocurrency.",
-    "license": "MIT",
-    "web": "https://github.com/ehmry/nim-monero"
-  },
-  {
     "name": "db_presto",
     "url": "https://github.com/Bennyelg/nimPresto",
     "method": "git",
