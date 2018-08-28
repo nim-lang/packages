@@ -10538,7 +10538,9 @@
     "url": "https://github.com/bung87/finalseg",
     "method": "git",
     "tags": [
-      "n"
+      "library",
+      "chinese",
+      "words"
     ],
     "description": "jieba's finalseg port to nim",
     "license": "MIT",
