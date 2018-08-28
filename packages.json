@@ -10532,5 +10532,23 @@
     "description": "daemonizer for Unix, Linux and OS X",
     "license": "MIT",
     "web": "https://github.com/bung87/daemon"
+  },
+  {
+    "name": "nimtorch",
+    "url": "https://github.com/fragcolor-xyz/nimtorch",
+    "method": "git",
+    "tags": [
+      "machine-learning",
+      "nn",
+      "neural",
+      "networks",
+      "cuda",
+      "wasm",
+      "pytorch",
+      "torch"
+    ],
+    "description": "A nim flavor of pytorch",
+    "license": "MIT",
+    "web": "https://github.com/fragcolor-xyz/nimtorch"
   }
 ]
