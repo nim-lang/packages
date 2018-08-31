@@ -7664,19 +7664,6 @@
     "web": "https://github.com/Skrylar/rfc3339"
   },
   {
-    "name": "monero",
-    "url": "https://github.com/ehmry/nim-monero",
-    "method": "git",
-    "tags": [
-      "monero",
-      "cryptonote",
-      "vanity"
-    ],
-    "description": "Libraries and utilites related to Monero, a CryptoNote cryptocurrency.",
-    "license": "MIT",
-    "web": "https://github.com/ehmry/nim-monero"
-  },
-  {
     "name": "db_presto",
     "url": "https://github.com/Bennyelg/nimPresto",
     "method": "git",
@@ -10550,5 +10537,33 @@
     "description": "A nim flavor of pytorch",
     "license": "MIT",
     "web": "https://github.com/fragcolor-xyz/nimtorch"
+  },
+  {
+    "name": "openweathermap",
+    "url": "https://github.com/juancarlospaco/nim-openweathermap",
+    "method": "git",
+    "tags": [
+      "OpenWeatherMap",
+      "weather",
+      "CreativeCommons",
+      "OpenData",
+      "multisync"
+    ],
+    "description": "OpenWeatherMap API Lib for Nim, Free world wide Creative Commons & Open Data Licensed Weather data",
+    "license": "MIT",
+    "web": "https://github.com/juancarlospaco/nim-openweathermap"
+  },
+  {
+    "name": "finalseg",
+    "url": "https://github.com/bung87/finalseg",
+    "method": "git",
+    "tags": [
+      "library",
+      "chinese",
+      "words"
+    ],
+    "description": "jieba's finalseg port to nim",
+    "license": "MIT",
+    "web": "https://github.com/bung87/finalseg"
   }
 ]
