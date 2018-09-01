@@ -10565,5 +10565,17 @@
     "description": "jieba's finalseg port to nim",
     "license": "MIT",
     "web": "https://github.com/bung87/finalseg"
+  },
+  {
+    "name": "openal",
+    "url": "https://github.com/treeform/openal",
+    "method": "git",
+    "tags": [
+      "sound",
+      "OpenAL",
+      "wrapper"
+    ],
+    "description": "An OpenAL wrapper.",
+    "license": "MIT"
   }
 ]
