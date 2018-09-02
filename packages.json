@@ -10577,5 +10577,16 @@
     ],
     "description": "An OpenAL wrapper.",
     "license": "MIT"
+  },
+  {
+    "name": "ec_events",
+    "url": "https://github.com/EmberCrypto/ec_events",
+    "method": "git",
+    "tags": [
+      "events",
+      "emitter"
+    ],
+    "description": "Event Based Programming for Nim.",
+    "license": "MIT"
   }
 ]
