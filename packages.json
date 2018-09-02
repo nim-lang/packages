@@ -10587,6 +10587,6 @@
       "emitter"
     ],
     "description": "Event Based Programming for Nim.",
-    "license": "MIT",
+    "license": "MIT"
   }
 ]
