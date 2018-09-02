@@ -10579,8 +10579,8 @@
     "license": "MIT"
   },
   {
-    "name": "events",
-    "url": "https://github.com/EmberCrypto/events",
+    "name": "ec_events",
+    "url": "https://github.com/EmberCrypto/ec_events",
     "method": "git",
     "tags": [
       "events",
