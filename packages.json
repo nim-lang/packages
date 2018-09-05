@@ -10597,11 +10597,11 @@
       "library",
       "windows",
       "gui",
-      "ui"      
+      "ui"
     ],
     "description": "Nim's Windows GUI Framework.",
     "license": "MIT",
     "web": "https://github.com/khchen/wNim",
-    "doc": "https://khchen.github.io/wNim/wNim.html'
+    "doc": "https://khchen.github.io/wNim/wNim.html"
   }
 ]
