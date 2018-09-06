@@ -7768,6 +7768,19 @@
     "web": "https://github.com/edubart/arraymancer-vision"
   },
   {
+    "name": "genoiser",
+    "url": "https://github.com/brentp/genoiser",
+    "method": "git",
+    "tags": [
+      "bam",
+      "cram",
+      "vcf",
+      "genomics"
+    ],
+    "description": "functions to tracks for genomics data files",
+    "license": "MIT"
+  },
+  {
     "name": "hts",
     "url": "https://github.com/brentp/hts-nim",
     "method": "git",
