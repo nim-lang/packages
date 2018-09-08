@@ -10601,5 +10601,20 @@
     ],
     "description": "Event Based Programming for Nim.",
     "license": "MIT"
+  },
+  {
+    "name": "wNim",
+    "url": "https://github.com/khchen/wNim",
+    "method": "git",
+    "tags": [
+      "library",
+      "windows",
+      "gui",
+      "ui"
+    ],
+    "description": "Nim's Windows GUI Framework.",
+    "license": "MIT",
+    "web": "https://github.com/khchen/wNim",
+    "doc": "https://khchen.github.io/wNim/wNim.html"
   }
 ]
