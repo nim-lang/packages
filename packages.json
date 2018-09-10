@@ -10616,5 +10616,19 @@
     "license": "MIT",
     "web": "https://github.com/khchen/wNim",
     "doc": "https://khchen.github.io/wNim/wNim.html"
+  },
+  {
+    "name": "redisparser",
+    "url": "https://github.com/xmonader/nim-redisparser",
+    "method": "git",
+    "tags": [
+      "redis",
+      "resp",
+      "parser",
+      "protocol"
+    ],
+    "description": "RESP(REdis Serialization Protocol) Serialization for Nim",
+    "license": "Apache2",
+    "web": "https://github.com/xmonader/nim-redisparser"
   }
 ]
