@@ -10644,5 +10644,25 @@
     "description": "Redis client for Nim",
     "license": "Apache2",
     "web": "https://github.com/xmonader/nim-redisclient"
+  },
+  {
+    "name": "hackpad",
+    "url": "https://github.com/juancarlospaco/nim-hackpad",
+    "method": "git",
+    "tags": [
+      "web",
+      "jester",
+      "lan",
+      "wifi",
+      "hackathon",
+      "hackatton",
+      "pastebin",
+      "crosscompilation",
+      "teaching",
+      "zip"
+    ],
+    "description": "Hackathon Web Scratchpad for teaching Nim on events using Wifi with limited or no Internet",
+    "license": "MIT",
+    "web": "https://github.com/juancarlospaco/nim-hackpad"
   }
 ]
