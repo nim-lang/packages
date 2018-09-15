@@ -3630,7 +3630,7 @@
     "tags": [
       "event",
       "future",
-      "asyncdispath"
+      "asyncdispatch"
     ],
     "description": "Asynchronous event loop for progaming with MVC",
     "license": "MIT",
@@ -5932,6 +5932,25 @@
     "web": "https://github.com/status-im/nim-json-rpc"
   },
   {
+    "name": "asyncdispatch2",
+    "url": "https://github.com/status-im/nim-asyncdispatch2",
+    "method": "git",
+    "tags": [
+      "library",
+      "networking",
+      "async",
+      "asynchronous",
+      "eventloop",
+      "timers",
+      "sendfile",
+      "tcp",
+      "udp"
+    ],
+    "description": "Experimental fork of Nim's asyncdispatch",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/status-im/nim-asyncdispatch2"
+  },
+  {
     "name": "rlp",
     "url": "https://github.com/status-im/nim-rlp",
     "method": "git",
@@ -5956,6 +5975,18 @@
     "description": "A reimplementation in pure Nim of eth-keys, the common API for Ethereum key operations.",
     "license": "Apache License 2.0",
     "web": "https://github.com/status-im/nim-eth-keys"
+  },
+  {
+    "name": "eth_common",
+    "url": "https://github.com/status-im/nim-eth-common",
+    "method": "git",
+    "tags": [
+      "library",
+      "ethereum"
+    ],
+    "description": "Definitions of various data structures used in the Ethereum eco-system",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/status-im/nim-eth-common"
   },
   {
     "name": "ethash",
