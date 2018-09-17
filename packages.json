@@ -10708,5 +10708,17 @@
     "description": "Hackathon Web Scratchpad for teaching Nim on events using Wifi with limited or no Internet",
     "license": "MIT",
     "web": "https://github.com/juancarlospaco/nim-hackpad"
+  },
+  {
+    "name": "redux_nim",
+    "url": "https://github.com/M4RC3L05/redux-nim",
+    "method": "git",
+    "tags": [
+      "",
+      ""
+    ],
+    "description": "Redux Implementation in nim",
+    "license": "MIT",
+    "web": "https://github.com/M4RC3L05/redux-nim"
   }
 ]
