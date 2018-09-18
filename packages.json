@@ -10720,5 +10720,18 @@
     "description": "Redux Implementation in nim",
     "license": "MIT",
     "web": "https://github.com/M4RC3L05/redux-nim"
+  },
+  {
+    "name": "calibre",
+    "url": "https://github.com/juancarlospaco/nim-calibre",
+    "method": "git",
+    "tags": [
+      "calibre",
+      "ebook",
+      "database"
+    ],
+    "description": "Calibre Database Lib for Nim",
+    "license": "MIT",
+    "web": "https://github.com/juancarlospaco/nim-calibre"
   }
 ]
