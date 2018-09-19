@@ -10732,5 +10732,18 @@
     "description": "A simple decimal library",
     "license": "MIT",
     "web": "https://github.com/pigmej/nim-simple-decimal"
+  },
+  {
+    "name": "calibre",
+    "url": "https://github.com/juancarlospaco/nim-calibre",
+    "method": "git",
+    "tags": [
+      "calibre",
+      "ebook",
+      "database"
+    ],
+    "description": "Calibre Database Lib for Nim",
+    "license": "MIT",
+    "web": "https://github.com/juancarlospaco/nim-calibre"
   }
 ]
