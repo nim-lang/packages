@@ -5849,7 +5849,7 @@
   },
   {
     "name": "psutil",
-    "url": "https://github.com/juancarlospaco/packages",
+    "url": "https://github.com/juancarlospaco/psutil-nim",
     "method": "git",
     "tags": [
       "psutil",
