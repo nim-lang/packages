@@ -10722,6 +10722,18 @@
     "web": "https://github.com/M4RC3L05/redux-nim"
   },
   {
+    "name": "simpledecimal",
+    "url": "https://github.com/pigmej/nim-simple-decimal",
+    "method": "git",
+    "tags": [
+      "decimal",
+      "library"
+    ],
+    "description": "A simple decimal library",
+    "license": "MIT",
+    "web": "https://github.com/pigmej/nim-simple-decimal"
+  },
+  {
     "name": "calibre",
     "url": "https://github.com/juancarlospaco/nim-calibre",
     "method": "git",
@@ -10733,5 +10745,17 @@
     "description": "Calibre Database Lib for Nim",
     "license": "MIT",
     "web": "https://github.com/juancarlospaco/nim-calibre"
+  },
+  {
+    "name": "nimcb",
+    "url": "https://github.com/AdrianV/nimcb",
+    "method": "git",
+    "tags": [
+      "c++-builder",
+      "msbuild"
+    ],
+    "description": "Integrate nim projects in the C++Builder build process",
+    "license": "MIT",
+    "web": "https://github.com/AdrianV/nimcb"
   }
 ]
