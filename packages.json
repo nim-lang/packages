@@ -10757,5 +10757,14 @@
     "description": "Integrate nim projects in the C++Builder build process",
     "license": "MIT",
     "web": "https://github.com/AdrianV/nimcb"
+  },
+  {
+    "name": "finals",
+    "url": "https://github.com/quelklef/nim-finals",
+    "method": "git",
+    "tags": ["types"],
+    "description": "Transparently declare single-set attributes on types.",
+    "license": "MIT",
+    "web": "https://github.com/Quelklef/nim-finals"
   }
 ]
