@@ -10762,9 +10762,29 @@
     "name": "finals",
     "url": "https://github.com/quelklef/nim-finals",
     "method": "git",
-    "tags": ["types"],
+    "tags": [
+      "types"
+    ],
     "description": "Transparently declare single-set attributes on types.",
     "license": "MIT",
     "web": "https://github.com/Quelklef/nim-finals"
+  },
+  {
+    "name": "tinyfiledialogs",
+    "url": "https://github.com/juancarlospaco/nim-tinyfiledialogs",
+    "method": "git",
+    "tags": [
+      "gui",
+      "wrapper",
+      "gtk",
+      "qt",
+      "linux",
+      "windows",
+      "mac",
+      "osx"
+    ],
+    "description": "TinyFileDialogs for Nim.",
+    "license": "MIT",
+    "web": "https://github.com/juancarlospaco/nim-tinyfiledialogs"
   }
 ]
