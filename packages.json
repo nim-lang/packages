@@ -10804,5 +10804,23 @@
     "description": "Print Debug for Nim, tiny 3 lines Lib, C Target",
     "license": "MIT",
     "web": "https://github.com/juancarlospaco/nim-printdebug"
+  },
+  {
+    "name": "tinyfiledialogs",
+    "url": "https://github.com/juancarlospaco/nim-tinyfiledialogs",
+    "method": "git",
+    "tags": [
+      "gui",
+      "wrapper",
+      "gtk",
+      "qt",
+      "linux",
+      "windows",
+      "mac",
+      "osx"
+    ],
+    "description": "TinyFileDialogs for Nim.",
+    "license": "MIT",
+    "web": "https://github.com/juancarlospaco/nim-tinyfiledialogs"
   }
 ]
