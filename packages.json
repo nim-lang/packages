@@ -10792,6 +10792,20 @@
     "web": "https://github.com/Quelklef/nim-finals"
   },
   {
+    "name": "printdebug",
+    "url": "https://github.com/juancarlospaco/nim-printdebug",
+    "method": "git",
+    "tags": [
+      "debug",
+      "print",
+      "helper",
+      "util"
+    ],
+    "description": "Print Debug for Nim, tiny 3 lines Lib, C Target",
+    "license": "MIT",
+    "web": "https://github.com/juancarlospaco/nim-printdebug"
+  },
+  {
     "name": "tinyfiledialogs",
     "url": "https://github.com/juancarlospaco/nim-tinyfiledialogs",
     "method": "git",
