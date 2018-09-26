@@ -10601,21 +10601,7 @@
   },
   {
     "name": "nimtorch",
-    "url": "https://github.com/fragcolor-xyz/nimtorch",
-    "method": "git",
-    "tags": [
-      "machine-learning",
-      "nn",
-      "neural",
-      "networks",
-      "cuda",
-      "wasm",
-      "pytorch",
-      "torch"
-    ],
-    "description": "A nim flavor of pytorch",
-    "license": "MIT",
-    "web": "https://github.com/fragcolor-xyz/nimtorch"
+    "alias": "torch"
   },
   {
     "name": "torch",
