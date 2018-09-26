@@ -10833,5 +10833,17 @@
     "description": "A Nim wrapper for the Spotify Web API",
     "license": "Apache License 2.0",
     "web": "https://github.com/CORDEA/spotify"
+  },
+  {
+    "name": "criterion",
+    "url": "https://github.com/LemonBoy/criterion.nim",
+    "method": "git",
+    "tags": [
+      "",
+      "benchmark"
+    ],
+    "description": "Statistic-driven microbenchmark framework",
+    "license": "MIT",
+    "web": "https://github.com/LemonBoy/criterion.nim"
   }
 ]
