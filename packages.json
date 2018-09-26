@@ -10833,5 +10833,18 @@
     "description": "A Nim wrapper for the Spotify Web API",
     "license": "Apache License 2.0",
     "web": "https://github.com/CORDEA/spotify"
+  },
+  {
+    "name": "levenshtein",
+    "url": "https://github.com/juancarlospaco/nim-levenshtein",
+    "method": "git",
+    "tags": [
+      "levenshtein",
+      "string",
+      "fuzzy"
+    ],
+    "description": "Levenshtein Distance Algo for Nim",
+    "license": "MIT",
+    "web": "https://github.com/juancarlospaco/nim-levenshtein"
   }
 ]
