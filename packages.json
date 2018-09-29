@@ -10833,5 +10833,18 @@
     "description": "A Nim wrapper for the Spotify Web API",
     "license": "Apache License 2.0",
     "web": "https://github.com/CORDEA/spotify"
+  },
+  {
+    "name": "noise",
+    "url": "https://github.com/jangko/nim-noise",
+    "method": "git",
+    "tags": [
+      "linenoise",
+      "commandline",
+      "repl"
+    ],
+    "description": "Nim implementation of linenoise command line editor",
+    "license": "MIT",
+    "web": "https://github.com/jangko/nim-noise"
   }
 ]
