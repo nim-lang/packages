@@ -10601,6 +10601,10 @@
   },
   {
     "name": "nimtorch",
+    "alias": "torch"
+  },
+  {
+    "name": "torch",
     "url": "https://github.com/fragcolor-xyz/nimtorch",
     "method": "git",
     "tags": [
