@@ -10856,7 +10856,6 @@
     "url": "https://github.com/LemonBoy/criterion.nim",
     "method": "git",
     "tags": [
-      "",
       "benchmark"
     ],
     "description": "Statistic-driven microbenchmark framework",
