@@ -10850,5 +10850,16 @@
     "description": "Nim implementation of linenoise command line editor",
     "license": "MIT",
     "web": "https://github.com/jangko/nim-noise"
+  },
+  {
+    "name": "criterion",
+    "url": "https://github.com/LemonBoy/criterion.nim",
+    "method": "git",
+    "tags": [
+      "benchmark"
+    ],
+    "description": "Statistic-driven microbenchmark framework",
+    "license": "MIT",
+    "web": "https://github.com/LemonBoy/criterion.nim"
   }
 ]
