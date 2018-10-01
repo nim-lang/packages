@@ -10886,5 +10886,16 @@
     "description": "Statistic-driven microbenchmark framework",
     "license": "MIT",
     "web": "https://github.com/LemonBoy/criterion.nim"
+  },
+  {
+    "name": "nanoid",
+    "url": "https://github.com/icyphox/nanoid.nim",
+    "method": "git",
+    "tags" [
+      "nanoid", "random", "generator"
+    ],
+    "description": "The Nim implementation of NanoID",
+    "license": "MIT",
+    "web": "https://github.com/icyphox/nanoid.nim"
   }
 ]
