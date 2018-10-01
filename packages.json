@@ -10852,6 +10852,31 @@
     "web": "https://github.com/jangko/nim-noise"
   },
   {
+    "name": "proxyproto",
+    "url": "https://github.com/ba0f3/libproxy.nim",
+    "method": "git",
+    "tags": [
+      "proxy",
+      "protocol",
+      "proxy-protocol",
+      "haproxy",
+      "tcp",
+      "ipv6",
+      "ipv4",
+      "linux",
+      "unix",
+      "hook",
+      "load-balancer",
+      "socket",
+      "udp",
+      "ipv6-support",
+      "preload"
+    ],
+    "description": "PROXY Protocol enabler for aged programs",
+    "license": "MIT",
+    "web": "https://github.com/ba0f3/libproxy.nim"
+  },
+  {
     "name": "criterion",
     "url": "https://github.com/LemonBoy/criterion.nim",
     "method": "git",
