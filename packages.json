@@ -10867,9 +10867,7 @@
       "unix",
       "hook",
       "load-balancer",
-      "lb",
-      "socke",
-      "t",
+      "socket",
       "udp",
       "ipv6-support",
       "preload"
