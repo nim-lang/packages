@@ -10891,7 +10891,7 @@
     "name": "nanoid",
     "url": "https://github.com/icyphox/nanoid.nim",
     "method": "git",
-    "tags" [
+    "tags": [
       "nanoid", "random", "generator"
     ],
     "description": "The Nim implementation of NanoID",
