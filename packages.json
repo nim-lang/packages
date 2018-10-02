@@ -10892,7 +10892,9 @@
     "url": "https://github.com/icyphox/nanoid.nim",
     "method": "git",
     "tags": [
-      "nanoid", "random", "generator"
+      "nanoid",
+      "random",
+      "generator"
     ],
     "description": "The Nim implementation of NanoID",
     "license": "MIT",
@@ -10912,5 +10914,23 @@
     "description": "A db_sqlite fork with a proper typing",
     "license": "MIT",
     "web": "https://github.com/xzfc/ndb.nim"
+  },
+  {
+    "name": "dtoa",
+    "url": "https://github.com/LemonBoy/dtoa.nim",
+    "method": "git",
+    "tags": [
+      "algorithms",
+      "serialization",
+      "fast",
+      "grisu",
+      "dtoa",
+      "double",
+      "float",
+      "string"
+    ],
+    "description": "Port of Milo Yip's fast dtoa() implementation",
+    "license": "MIT",
+    "web": "https://github.com/LemonBoy/dtoa.nim"
   }
 ]
