@@ -10892,7 +10892,9 @@
     "url": "https://github.com/icyphox/nanoid.nim",
     "method": "git",
     "tags": [
-      "nanoid", "random", "generator"
+      "nanoid",
+      "random",
+      "generator"
     ],
     "description": "The Nim implementation of NanoID",
     "license": "MIT",
@@ -10912,5 +10914,22 @@
     "description": "A db_sqlite fork with a proper typing",
     "license": "MIT",
     "web": "https://github.com/xzfc/ndb.nim"
+  },
+  {
+    "name": "nimmonocypher",
+    "url": "https://github.com/genotrance/nimmonocypher",
+    "method": "git",
+    "tags": [
+      "monocypher",
+      "crypto",
+      "crypt",
+      "hash",
+      "sha512",
+      "wrapper",
+      ""
+    ],
+    "description": "monocypher wrapper for Nim",
+    "license": "MIT",
+    "web": "https://github.com/genotrance/nimmonocypher"
   }
 ]
