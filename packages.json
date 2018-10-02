@@ -10888,6 +10888,17 @@
     "web": "https://github.com/LemonBoy/criterion.nim"
   },
   {
+    "name": "nanoid",
+    "url": "https://github.com/icyphox/nanoid.nim",
+    "method": "git",
+    "tags": [
+      "nanoid", "random", "generator"
+    ],
+    "description": "The Nim implementation of NanoID",
+    "license": "MIT",
+    "web": "https://github.com/icyphox/nanoid.nim"
+  },
+  {
     "name": "ndb",
     "url": "https://github.com/xzfc/ndb.nim",
     "method": "git",
