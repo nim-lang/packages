@@ -10916,6 +10916,22 @@
     "web": "https://github.com/xzfc/ndb.nim"
   },
   {
+    "name": "nimmonocypher",
+    "url": "https://github.com/genotrance/nimmonocypher",
+    "method": "git",
+    "tags": [
+      "monocypher",
+      "crypto",
+      "crypt",
+      "hash",
+      "sha512",
+      "wrapper"
+    ],
+    "description": "monocypher wrapper for Nim",
+    "license": "MIT",
+    "web": "https://github.com/genotrance/nimmonocypher"
+  },
+  {
     "name": "dtoa",
     "url": "https://github.com/LemonBoy/dtoa.nim",
     "method": "git",
