@@ -10948,5 +10948,16 @@
     "description": "Port of Milo Yip's fast dtoa() implementation",
     "license": "MIT",
     "web": "https://github.com/LemonBoy/dtoa.nim"
+  },
+  {
+    "name": "simpleAST",
+    "url": "https://github.com/lguzzon-NIM/simpleAST",
+    "method": "git",
+    "tags": [
+      "AST"
+    ],
+    "description": "Simple AST in NIM",
+    "license": "MIT",
+    "web": "https://github.com/lguzzon-NIM/simpleAST"
   }
 ]
