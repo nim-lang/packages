@@ -10925,11 +10925,28 @@
       "crypt",
       "hash",
       "sha512",
-      "wrapper",
-      ""
+      "wrapper"
     ],
     "description": "monocypher wrapper for Nim",
     "license": "MIT",
     "web": "https://github.com/genotrance/nimmonocypher"
+  },
+  {
+    "name": "dtoa",
+    "url": "https://github.com/LemonBoy/dtoa.nim",
+    "method": "git",
+    "tags": [
+      "algorithms",
+      "serialization",
+      "fast",
+      "grisu",
+      "dtoa",
+      "double",
+      "float",
+      "string"
+    ],
+    "description": "Port of Milo Yip's fast dtoa() implementation",
+    "license": "MIT",
+    "web": "https://github.com/LemonBoy/dtoa.nim"
   }
 ]
