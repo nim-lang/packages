@@ -8143,14 +8143,14 @@
   },
   {
     "name": "simpleAST",
-    "url": "https://github.com/lguzzon/simpleAST",
+    "url": "https://github.com/lguzzon-NIM/simpleAST",
     "method": "git",
     "tags": [
       "ast"
     ],
     "description": "Simple AST in NIM",
     "license": "MIT",
-    "web": "https://github.com/lguzzon/simpleAST"
+    "web": "https://github.com/lguzzon-NIM/simpleAST"
   },
   {
     "name": "timerpool",
@@ -10929,5 +10929,39 @@
     "description": "github-release package",
     "license": "MIT",
     "web": "https://github.com/kdheepak/github-release"
+  },
+  {
+    "name": "nimmonocypher",
+    "url": "https://github.com/genotrance/nimmonocypher",
+    "method": "git",
+    "tags": [
+      "monocypher",
+      "crypto",
+      "crypt",
+      "hash",
+      "sha512",
+      "wrapper"
+    ],
+    "description": "monocypher wrapper for Nim",
+    "license": "MIT",
+    "web": "https://github.com/genotrance/nimmonocypher"
+  },
+  {
+    "name": "dtoa",
+    "url": "https://github.com/LemonBoy/dtoa.nim",
+    "method": "git",
+    "tags": [
+      "algorithms",
+      "serialization",
+      "fast",
+      "grisu",
+      "dtoa",
+      "double",
+      "float",
+      "string"
+    ],
+    "description": "Port of Milo Yip's fast dtoa() implementation",
+    "license": "MIT",
+    "web": "https://github.com/LemonBoy/dtoa.nim"
   }
 ]
