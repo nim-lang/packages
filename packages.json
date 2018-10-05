@@ -10963,5 +10963,19 @@
     "description": "Port of Milo Yip's fast dtoa() implementation",
     "license": "MIT",
     "web": "https://github.com/LemonBoy/dtoa.nim"
+  },
+  {
+    "name": "nimtess2",
+    "url": "https://github.com/genotrance/nimtess2",
+    "method": "git",
+    "tags": [
+      "glu",
+      "tesselator",
+      "libtess2",
+      "opengl"
+    ],
+    "description": "Nim wrapper for libtess2",
+    "license": "MIT",
+    "web": "https://github.com/genotrance/nimtess2"
   }
 ]
