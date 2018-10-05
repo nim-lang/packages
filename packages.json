@@ -10916,6 +10916,21 @@
     "web": "https://github.com/xzfc/ndb.nim"
   },
   {
+    "name": "github_release",
+    "url": "https://github.com/kdheepak/github-release",
+    "method": "git",
+    "tags": [
+      "github",
+      "release",
+      "upload",
+      "create",
+      "delete"
+    ],
+    "description": "github-release package",
+    "license": "MIT",
+    "web": "https://github.com/kdheepak/github-release"
+  },
+  {
     "name": "nimmonocypher",
     "url": "https://github.com/genotrance/nimmonocypher",
     "method": "git",
