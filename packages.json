@@ -8143,14 +8143,14 @@
   },
   {
     "name": "simpleAST",
-    "url": "https://github.com/lguzzon/simpleAST",
+    "url": "https://github.com/lguzzon-NIM/simpleAST",
     "method": "git",
     "tags": [
       "ast"
     ],
     "description": "Simple AST in NIM",
     "license": "MIT",
-    "web": "https://github.com/lguzzon/simpleAST"
+    "web": "https://github.com/lguzzon-NIM/simpleAST"
   },
   {
     "name": "timerpool",
