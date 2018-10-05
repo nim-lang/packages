@@ -10963,5 +10963,20 @@
     "description": "Port of Milo Yip's fast dtoa() implementation",
     "license": "MIT",
     "web": "https://github.com/LemonBoy/dtoa.nim"
+  },
+  {
+    "name": "ntangle",
+    "url": "https://github.com/OrgTangle/ntangle",
+    "method": "git",
+    "tags": [
+      "literate-programming",
+      "org-mode",
+      "org",
+      "tangling",
+      "emacs"
+    ],
+    "description": "Command-line utility for Tangling of Org mode documents",
+    "license": "MIT",
+    "web": "https://github.com/OrgTangle/ntangle"
   }
 ]
