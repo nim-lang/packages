@@ -10978,5 +10978,19 @@
     "description": "Command-line utility for Tangling of Org mode documents",
     "license": "MIT",
     "web": "https://github.com/OrgTangle/ntangle"
+  },
+  {
+    "name": "nimtess2",
+    "url": "https://github.com/genotrance/nimtess2",
+    "method": "git",
+    "tags": [
+      "glu",
+      "tesselator",
+      "libtess2",
+      "opengl"
+    ],
+    "description": "Nim wrapper for libtess2",
+    "license": "MIT",
+    "web": "https://github.com/genotrance/nimtess2"
   }
 ]
