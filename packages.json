@@ -10992,5 +10992,19 @@
     "description": "Nim wrapper for libtess2",
     "license": "MIT",
     "web": "https://github.com/genotrance/nimtess2"
+  },
+  {
+    "name": "sequoia",
+    "url": "https://github.com/ba0f3/sequoia.nim",
+    "method": "git",
+    "tags": [
+      "sequoia",
+      "pgp",
+      "openpgp",
+      "wrapper"
+    ],
+    "description": "Sequoia PGP wrapper for Nim",
+    "license": "GPLv3",
+    "web": "https://github.com/ba0f3/sequoia.nim"
   }
 ]
