@@ -10992,5 +10992,19 @@
     "description": "Nim wrapper for libtess2",
     "license": "MIT",
     "web": "https://github.com/genotrance/nimtess2"
+  },
+  {
+    "name": "witai",
+    "url": "https://github.com/xmonader/witai-nim",
+    "method": "git",
+    "tags": [
+      "wit.ai",
+      "nim",
+      "client",
+      "witai"
+    ],
+    "description": "wit.ai client",
+    "license": "MIT",
+    "web": "https://github.com/xmonader/witai-nim"
   }
 ]
