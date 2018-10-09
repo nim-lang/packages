@@ -9021,7 +9021,6 @@
     "tags": [
       "Excel",
       "wrapper",
-      "nim",
       "xlsx"
     ],
     "description": "libxslxwriter wrapper for Nim",
@@ -10469,7 +10468,6 @@
       "parser",
       "compile",
       "tokenizer",
-      "nim",
       "html",
       "cdata"
     ],
