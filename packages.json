@@ -11006,5 +11006,18 @@
     "description": "Sequoia PGP wrapper for Nim",
     "license": "GPLv3",
     "web": "https://github.com/ba0f3/sequoia.nim"
+  },
+  {
+    "name": "pykot",
+    "url": "https://github.com/jabbalaci/nimpykot",
+    "method": "git",
+    "tags": [
+      "library",
+      "python",
+      "kotlin"
+    ],
+    "description": "Porting some Python / Kotlin features to Nim",
+    "license": "MIT",
+    "web": "https://github.com/jabbalaci/nimpykot"
   }
 ]
