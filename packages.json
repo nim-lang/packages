@@ -11006,5 +11006,21 @@
     "description": "Sequoia PGP wrapper for Nim",
     "license": "GPLv3",
     "web": "https://github.com/ba0f3/sequoia.nim"
+  },
+  {
+    "name": "witai",
+    "url": "https://github.com/xmonader/witai-nim",
+    "method": "git",
+    "tags": [
+      "witai",
+      "wit.ai",
+      "client",
+      "speech",
+      "freetext",
+      "voice"
+    ],
+    "description": "wit.ai client",
+    "license": "MIT",
+    "web": "https://github.com/xmonader/witai-nim"
   }
 ]
