@@ -11031,5 +11031,19 @@
     "description": "Parses an XML Document into a XML DOM Document representation.",
     "license": "MIT",
     "web": "https://github.com/nim-lang/graveyard/tree/master/xmldomparser"
+  },
+  {
+    "name": "result",
+    "url": "https://github.com/arnetheduck/nim-result",
+    "method": "git",
+    "tags": [
+      "library",
+      "result",
+      "errors",
+      "functional"
+    ],
+    "description": "Friendly, exception-free value-or-error returns, similar to Option[T]",
+    "license": "MIT",
+    "web": "https://github.com/arnetheduck/nim-result"
   }
 ]
