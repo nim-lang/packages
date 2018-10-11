@@ -9021,7 +9021,6 @@
     "tags": [
       "Excel",
       "wrapper",
-      "nim",
       "xlsx"
     ],
     "description": "libxslxwriter wrapper for Nim",
@@ -10469,7 +10468,6 @@
       "parser",
       "compile",
       "tokenizer",
-      "nim",
       "html",
       "cdata"
     ],
@@ -11019,5 +11017,48 @@
     "description": "Porting some Python / Kotlin features to Nim",
     "license": "MIT",
     "web": "https://github.com/jabbalaci/nimpykot"
+  },
+  {
+    "name": "witai",
+    "url": "https://github.com/xmonader/witai-nim",
+    "method": "git",
+    "tags": [
+      "witai",
+      "wit.ai",
+      "client",
+      "speech",
+      "freetext",
+      "voice"
+    ],
+    "description": "wit.ai client",
+    "license": "MIT",
+    "web": "https://github.com/xmonader/witai-nim"
+  },
+  {
+    "name": "xmldom",
+    "url": "https://github.com/nim-lang/graveyard?subdir=xmldom",
+    "method": "git",
+    "tags": [
+      "graveyard",
+      "xml",
+      "dom"
+    ],
+    "description": "Implementation of XML DOM Level 2 Core specification (http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/core.html)",
+    "license": "MIT",
+    "web": "https://github.com/nim-lang/graveyard/tree/master/xmldom"
+  },
+  {
+    "name": "xmldomparser",
+    "url": "https://github.com/nim-lang/graveyard?subdir=xmldomparser",
+    "method": "git",
+    "tags": [
+      "graveyard",
+      "xml",
+      "dom",
+      "parser"
+    ],
+    "description": "Parses an XML Document into a XML DOM Document representation.",
+    "license": "MIT",
+    "web": "https://github.com/nim-lang/graveyard/tree/master/xmldomparser"
   }
 ]
