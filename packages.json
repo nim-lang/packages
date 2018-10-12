@@ -11060,5 +11060,19 @@
     "description": "Parses an XML Document into a XML DOM Document representation.",
     "license": "MIT",
     "web": "https://github.com/nim-lang/graveyard/tree/master/xmldomparser"
+  },
+  {
+    "name": "asciigraph",
+    "url": "https://github.com/KeepCoolWithCoolidge/asciigraph",
+    "method": "git",
+    "tags": [
+      "graph",
+      "plot",
+      "terminal",
+      "io"
+    ],
+    "description": "Console ascii line charts in pure nim",
+    "license": "MIT",
+    "web": "https://github.com/KeepCoolWithCoolidge/asciigraph"
   }
 ]
