@@ -11090,5 +11090,18 @@
     "description": "Wrapper for the C[++] library BearLibTerminal",
     "license": "MIT",
     "web": "https://github.com/irskep/BearLibTerminal-Nim"
+  },
+  {
+    "name": "rexpaint",
+    "url": "https://github.com/irskep/rexpaint_nim",
+    "method": "git",
+    "tags": [
+      "rexpaint",
+      "roguelike",
+      "xp"
+    ],
+    "description": "REXPaint .xp parser",
+    "license": "MIT",
+    "web": "https://github.com/irskep/rexpaint_nim"
   }
 ]
