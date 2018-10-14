@@ -11081,6 +11081,7 @@
     "method": "git",
     "tags": [
       "roguelike",
+      "terminal",
       "bearlibterminal",
       "tcod",
       "libtcod",
