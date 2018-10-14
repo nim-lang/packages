@@ -11074,5 +11074,20 @@
     "description": "Console ascii line charts in pure nim",
     "license": "MIT",
     "web": "https://github.com/KeepCoolWithCoolidge/asciigraph"
+  },
+  {
+    "name": "bearlibterminal",
+    "url": "https://github.com/irskep/BearLibTerminal-Nim",
+    "method": "git",
+    "tags": [
+      "roguelike",
+      "bearlibterminal",
+      "tcod",
+      "libtcod",
+      "tdl"
+    ],
+    "description": "Wrapper for the C[++] library BearLibTerminal",
+    "license": "MIT",
+    "web": "https://github.com/irskep/BearLibTerminal-Nim"
   }
 ]
