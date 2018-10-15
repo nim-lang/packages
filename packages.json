@@ -7345,18 +7345,6 @@
     "web": "https://github.com/trustable-code/NiGui"
   },
   {
-    "name": "nimcalcal",
-    "url": "https://github.com/skilchen/nimcalcal",
-    "method": "git",
-    "tags": [
-      "calendar",
-      "library"
-    ],
-    "description": "nimcalcal - PyCalCal translated to Nim, Calendrical Calculations from Reingold/Dershowitz",
-    "license": "MIT",
-    "web": "http://www3.cs.stonybrook.edu/~algorith/implement/reingold/implement.shtml"
-  },
-  {
     "name": "currying",
     "url": "https://github.com/t8m8/currying",
     "method": "git",
@@ -7540,19 +7528,6 @@
     "description": "Library for working with a slack app or sending messages to a slack channel (slack.com)",
     "license": "MIT",
     "web": "https://github.com/ThomasTJdev/nim_slacklib"
-  },
-  {
-    "name": "calendar",
-    "url": "https://github.com/skilchen/calendar",
-    "method": "git",
-    "tags": [
-      "calendar",
-      "dates",
-      "library"
-    ],
-    "description": "calendar.py from Pythons stdlib translated to Nim",
-    "license": "MIT",
-    "web": "https://docs.python.org/2/library/calendar.html"
   },
   {
     "name": "wiringPiNim",
