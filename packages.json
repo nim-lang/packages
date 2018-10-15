@@ -11103,5 +11103,16 @@
     "description": "REXPaint .xp parser",
     "license": "MIT",
     "web": "https://github.com/irskep/rexpaint_nim"
+  },
+  {
+    "name": "base32",
+    "url": "https://github.com/elktree/nim-base32",
+    "method": "git",
+    "tags": [
+      "base32"
+    ],
+    "description": "base32 encoding",
+    "license": "BSD",
+    "web": "https://github.com/elktree/nim-base32"
   }
 ]
