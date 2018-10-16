@@ -5926,6 +5926,19 @@
     "web": "https://github.com/FedericoCeratto/nim-etcd-client"
   },
   {
+    "name": "package_visible_types",
+    "url": "https://github.com/zah/nim-package-visible-types",
+    "method": "git",
+    "tags": [
+      "library",
+      "packages",
+      "visibility"
+    ],
+    "description": "A hacky helper lib for authoring Nim packages with package-level visiblity",
+    "license": "MIT",
+    "web": "https://github.com/zah/nim-package-visible-types"
+  },
+  {
     "name": "ranges",
     "url": "https://github.com/status-im/nim-ranges",
     "method": "git",
