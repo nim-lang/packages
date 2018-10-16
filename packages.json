@@ -11103,5 +11103,19 @@
     "description": "REXPaint .xp parser",
     "license": "MIT",
     "web": "https://github.com/irskep/rexpaint_nim"
+  },
+  {
+    "name": "ngxcmod",
+    "url": "https://github.com/ba0f3/ngxcmod.nim",
+    "method": "git",
+    "tags": [
+      "nginx",
+      "module",
+      "nginx-c-function",
+      "wrapper"
+    ],
+    "description": "High level wrapper for build nginx module w/ nginx-c-function",
+    "license": "MIT",
+    "web": "https://github.com/ba0f3/ngxcmod.nim"
   }
 ]
