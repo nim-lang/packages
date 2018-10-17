@@ -11130,5 +11130,19 @@
     "description": "High level wrapper for build nginx module w/ nginx-c-function",
     "license": "MIT",
     "web": "https://github.com/ba0f3/ngxcmod.nim"
+  },
+  {
+    "name": "markdown",
+    "url": "https://github.com/soasme/nim-markdown",
+    "method": "git",
+    "tags": [
+      "markdown",
+      "md",
+      "docs",
+      "html"
+    ],
+    "description": "A Beautiful Markdown Parser in the Nim World.",
+    "license": "MIT",
+    "web": "https://github.com/soasme/nim-markdown"
   }
 ]
