@@ -11130,5 +11130,17 @@
     "description": "High level wrapper for build nginx module w/ nginx-c-function",
     "license": "MIT",
     "web": "https://github.com/ba0f3/ngxcmod.nim"
+  },
+  {
+    "name": "usagov",
+    "url": "https://github.com/juancarlospaco/nim-usagov",
+    "method": "git",
+    "tags": [
+      "gov",
+      "opendata"
+    ],
+    "description": "USA Code.Gov MultiSync API Client for Nim",
+    "license": "MIT",
+    "web": "https://github.com/juancarlospaco/nim-usagov"
   }
 ]
