@@ -11118,6 +11118,23 @@
     "web": "https://github.com/irskep/rexpaint_nim"
   },
   {
+    "name": "rodcli",
+    "url": "https://github.com/jabbalaci/NimCliHelper",
+    "method": "git",
+    "tags": [
+      "cli",
+      "compile",
+      "run",
+      "command-line",
+      "init",
+      "project",
+      "skeleton"
+    ],
+    "description": "making Nim development easier in the command-line",
+    "license": "MIT",
+    "web": "https://github.com/jabbalaci/NimCliHelper"
+  },
+  {
     "name": "ngxcmod",
     "url": "https://github.com/ba0f3/ngxcmod.nim",
     "method": "git",
