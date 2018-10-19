@@ -7358,18 +7358,6 @@
     "web": "https://github.com/trustable-code/NiGui"
   },
   {
-    "name": "nimcalcal",
-    "url": "https://github.com/skilchen/nimcalcal",
-    "method": "git",
-    "tags": [
-      "calendar",
-      "library"
-    ],
-    "description": "nimcalcal - PyCalCal translated to Nim, Calendrical Calculations from Reingold/Dershowitz",
-    "license": "MIT",
-    "web": "http://www3.cs.stonybrook.edu/~algorith/implement/reingold/implement.shtml"
-  },
-  {
     "name": "currying",
     "url": "https://github.com/t8m8/currying",
     "method": "git",
@@ -7553,19 +7541,6 @@
     "description": "Library for working with a slack app or sending messages to a slack channel (slack.com)",
     "license": "MIT",
     "web": "https://github.com/ThomasTJdev/nim_slacklib"
-  },
-  {
-    "name": "calendar",
-    "url": "https://github.com/skilchen/calendar",
-    "method": "git",
-    "tags": [
-      "calendar",
-      "dates",
-      "library"
-    ],
-    "description": "calendar.py from Pythons stdlib translated to Nim",
-    "license": "MIT",
-    "web": "https://docs.python.org/2/library/calendar.html"
   },
   {
     "name": "wiringPiNim",
@@ -11118,6 +11093,23 @@
     "web": "https://github.com/irskep/rexpaint_nim"
   },
   {
+    "name": "rodcli",
+    "url": "https://github.com/jabbalaci/NimCliHelper",
+    "method": "git",
+    "tags": [
+      "cli",
+      "compile",
+      "run",
+      "command-line",
+      "init",
+      "project",
+      "skeleton"
+    ],
+    "description": "making Nim development easier in the command-line",
+    "license": "MIT",
+    "web": "https://github.com/jabbalaci/NimCliHelper"
+  },
+  {
     "name": "ngxcmod",
     "url": "https://github.com/ba0f3/ngxcmod.nim",
     "method": "git",
@@ -11130,6 +11122,18 @@
     "description": "High level wrapper for build nginx module w/ nginx-c-function",
     "license": "MIT",
     "web": "https://github.com/ba0f3/ngxcmod.nim"
+  },
+  {
+    "name": "usagov",
+    "url": "https://github.com/juancarlospaco/nim-usagov",
+    "method": "git",
+    "tags": [
+      "gov",
+      "opendata"
+    ],
+    "description": "USA Code.Gov MultiSync API Client for Nim",
+    "license": "MIT",
+    "web": "https://github.com/juancarlospaco/nim-usagov"
   },
   {
     "name": "markdown",
