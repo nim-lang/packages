@@ -11134,5 +11134,19 @@
     "description": "USA Code.Gov MultiSync API Client for Nim",
     "license": "MIT",
     "web": "https://github.com/juancarlospaco/nim-usagov"
+  },
+  {
+    "name": "markdown",
+    "url": "https://github.com/soasme/nim-markdown",
+    "method": "git",
+    "tags": [
+      "markdown",
+      "md",
+      "docs",
+      "html"
+    ],
+    "description": "A Beautiful Markdown Parser in the Nim World.",
+    "license": "MIT",
+    "web": "https://github.com/soasme/nim-markdown"
   }
 ]
