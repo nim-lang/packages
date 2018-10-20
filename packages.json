@@ -11148,5 +11148,18 @@
     "description": "A Beautiful Markdown Parser in the Nim World.",
     "license": "MIT",
     "web": "https://github.com/soasme/nim-markdown"
+  },
+  {
+    "name": "sugerror",
+    "url": "https://github.com/quelklef/nim-sugerror",
+    "method": "git",
+    "tags": [
+      "error",
+      "errors",
+      "error handling"
+    ],
+    "description": "Terse and composable error handling.",
+    "license": "MIT",
+    "web": "https://github.com/quelklef/nim-sugerror"
   }
 ]
