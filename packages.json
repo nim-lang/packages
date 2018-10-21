@@ -11156,7 +11156,7 @@
     "tags": [
       "error",
       "errors",
-      "error handling"
+      "expr"
     ],
     "description": "Terse and composable error handling.",
     "license": "MIT",
