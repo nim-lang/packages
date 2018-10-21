@@ -11148,5 +11148,17 @@
     "description": "A Beautiful Markdown Parser in the Nim World.",
     "license": "MIT",
     "web": "https://github.com/soasme/nim-markdown"
+  },
+  {
+    "name": "nimtomd",
+    "url": "https://github.com/ThomasTJdev/nimtomd",
+    "method": "git",
+    "tags": [
+      "markdown",
+      "md"
+    ],
+    "description": "Convert a Nim file or string to Markdown",
+    "license": "MIT",
+    "web": "https://github.com/ThomasTJdev/nimtomd"
   }
 ]
