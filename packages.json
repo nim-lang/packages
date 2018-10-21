@@ -11160,5 +11160,19 @@
     "description": "Convert a Nim file or string to Markdown",
     "license": "MIT",
     "web": "https://github.com/ThomasTJdev/nimtomd"
+  },
+  {
+    "name": "coco",
+    "url": "https://github.com/samuelroy/coco",
+    "method": "git",
+    "tags": [
+      "code",
+      "coverage",
+      "test"
+    ],
+    "description": "Code coverage CLI + library for Nim using LCOV",
+    "license": "MIT",
+    "web": "https://github.com/samuelroy/coco",
+    "doc": "https://samuelroy.github.io/coco/"
   }
 ]
