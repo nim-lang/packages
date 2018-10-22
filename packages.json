@@ -11160,5 +11160,17 @@
     "description": "Convert a Nim file or string to Markdown",
     "license": "MIT",
     "web": "https://github.com/ThomasTJdev/nimtomd"
+  },
+  {
+    "name": "nifty",
+    "url": "https://github.com/h3rald/nifty",
+    "method": "git",
+    "tags": [
+      "package-manager",
+      "script-runner"
+    ],
+    "description": "A decentralized (pseudo) package manager and script runner.",
+    "license": "MIT",
+    "web": "https://github.com/h3rald/nifty"
   }
 ]
