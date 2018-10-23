@@ -11172,5 +11172,22 @@
     "description": "A decentralized (pseudo) package manager and script runner.",
     "license": "MIT",
     "web": "https://github.com/h3rald/nifty"
+  },
+  {
+    "name": "urlshortener",
+    "url": "https://github.com/jabbalaci/UrlShortener",
+    "method": "git",
+    "tags": [
+      "url",
+      "shorten",
+      "shortener",
+      "bitly",
+      "cli",
+      "shrink",
+      "shrinker"
+    ],
+    "description": "A URL shortener cli app. using bit.ly",
+    "license": "MIT",
+    "web": "https://github.com/jabbalaci/UrlShortener"
   }
 ]
