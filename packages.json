@@ -11189,5 +11189,19 @@
     "description": "A URL shortener cli app. using bit.ly",
     "license": "MIT",
     "web": "https://github.com/jabbalaci/UrlShortener"
+  },
+  {
+    "name": "seriesdetiempoar",
+    "url": "https://github.com/juancarlospaco/nim-seriesdetiempoar",
+    "method": "git",
+    "tags": [
+      "async",
+      "multisync",
+      "gov",
+      "opendata"
+    ],
+    "description": "Series de Tiempo de Argentina Government MultiSync API Client for Nim",
+    "license": "MIT",
+    "web": "https://github.com/juancarlospaco/nim-seriesdetiempoar"
   }
 ]
