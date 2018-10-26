@@ -11189,5 +11189,21 @@
     "description": "A URL shortener cli app. using bit.ly",
     "license": "MIT",
     "web": "https://github.com/jabbalaci/UrlShortener"
+  },
+  {
+    "name": "georefar",
+    "url": "https://github.com/juancarlospaco/nim-georefar",
+    "method": "git",
+    "tags": [
+      "geo",
+      "openstreetmap",
+      "async",
+      "multisync",
+      "opendata",
+      "gov"
+    ],
+    "description": "GeoRef Argentina Government MultiSync API Client for Nim",
+    "license": "MIT",
+    "web": "https://github.com/juancarlospaco/nim-georefar"
   }
 ]
