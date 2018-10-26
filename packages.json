@@ -5926,6 +5926,19 @@
     "web": "https://github.com/FedericoCeratto/nim-etcd-client"
   },
   {
+    "name": "package_visible_types",
+    "url": "https://github.com/zah/nim-package-visible-types",
+    "method": "git",
+    "tags": [
+      "library",
+      "packages",
+      "visibility"
+    ],
+    "description": "A hacky helper lib for authoring Nim packages with package-level visiblity",
+    "license": "MIT",
+    "web": "https://github.com/zah/nim-package-visible-types"
+  },
+  {
     "name": "ranges",
     "url": "https://github.com/status-im/nim-ranges",
     "method": "git",
@@ -7345,18 +7358,6 @@
     "web": "https://github.com/trustable-code/NiGui"
   },
   {
-    "name": "nimcalcal",
-    "url": "https://github.com/skilchen/nimcalcal",
-    "method": "git",
-    "tags": [
-      "calendar",
-      "library"
-    ],
-    "description": "nimcalcal - PyCalCal translated to Nim, Calendrical Calculations from Reingold/Dershowitz",
-    "license": "MIT",
-    "web": "http://www3.cs.stonybrook.edu/~algorith/implement/reingold/implement.shtml"
-  },
-  {
     "name": "currying",
     "url": "https://github.com/t8m8/currying",
     "method": "git",
@@ -7540,19 +7541,6 @@
     "description": "Library for working with a slack app or sending messages to a slack channel (slack.com)",
     "license": "MIT",
     "web": "https://github.com/ThomasTJdev/nim_slacklib"
-  },
-  {
-    "name": "calendar",
-    "url": "https://github.com/skilchen/calendar",
-    "method": "git",
-    "tags": [
-      "calendar",
-      "dates",
-      "library"
-    ],
-    "description": "calendar.py from Pythons stdlib translated to Nim",
-    "license": "MIT",
-    "web": "https://docs.python.org/2/library/calendar.html"
   },
   {
     "name": "wiringPiNim",
@@ -11109,11 +11097,125 @@
     "url": "https://github.com/juancarlospaco/nim-crosscompile",
     "method": "git",
     "tags": [
-      "crosscompile,",
+      "crosscompile",
       "compile"
     ],
     "description": "Crosscompile Nim source code into multiple targets on Linux with this proc.",
     "license": "MIT",
     "web": "https://github.com/juancarlospaco/nim-crosscompile"
+  },
+  {
+    "name": "rodcli",
+    "url": "https://github.com/jabbalaci/NimCliHelper",
+    "method": "git",
+    "tags": [
+      "cli",
+      "compile",
+      "run",
+      "command-line",
+      "init",
+      "project",
+      "skeleton"
+    ],
+    "description": "making Nim development easier in the command-line",
+    "license": "MIT",
+    "web": "https://github.com/jabbalaci/NimCliHelper"
+  },
+  {
+    "name": "ngxcmod",
+    "url": "https://github.com/ba0f3/ngxcmod.nim",
+    "method": "git",
+    "tags": [
+      "nginx",
+      "module",
+      "nginx-c-function",
+      "wrapper"
+    ],
+    "description": "High level wrapper for build nginx module w/ nginx-c-function",
+    "license": "MIT",
+    "web": "https://github.com/ba0f3/ngxcmod.nim"
+  },
+  {
+    "name": "usagov",
+    "url": "https://github.com/juancarlospaco/nim-usagov",
+    "method": "git",
+    "tags": [
+      "gov",
+      "opendata"
+    ],
+    "description": "USA Code.Gov MultiSync API Client for Nim",
+    "license": "MIT",
+    "web": "https://github.com/juancarlospaco/nim-usagov"
+  },
+  {
+    "name": "markdown",
+    "url": "https://github.com/soasme/nim-markdown",
+    "method": "git",
+    "tags": [
+      "markdown",
+      "md",
+      "docs",
+      "html"
+    ],
+    "description": "A Beautiful Markdown Parser in the Nim World.",
+    "license": "MIT",
+    "web": "https://github.com/soasme/nim-markdown"
+  },
+  {
+    "name": "nimtomd",
+    "url": "https://github.com/ThomasTJdev/nimtomd",
+    "method": "git",
+    "tags": [
+      "markdown",
+      "md"
+    ],
+    "description": "Convert a Nim file or string to Markdown",
+    "license": "MIT",
+    "web": "https://github.com/ThomasTJdev/nimtomd"
+  },
+  {
+    "name": "nifty",
+    "url": "https://github.com/h3rald/nifty",
+    "method": "git",
+    "tags": [
+      "package-manager",
+      "script-runner"
+    ],
+    "description": "A decentralized (pseudo) package manager and script runner.",
+    "license": "MIT",
+    "web": "https://github.com/h3rald/nifty"
+  },
+  {
+    "name": "urlshortener",
+    "url": "https://github.com/jabbalaci/UrlShortener",
+    "method": "git",
+    "tags": [
+      "url",
+      "shorten",
+      "shortener",
+      "bitly",
+      "cli",
+      "shrink",
+      "shrinker"
+    ],
+    "description": "A URL shortener cli app. using bit.ly",
+    "license": "MIT",
+    "web": "https://github.com/jabbalaci/UrlShortener"
+  },
+  {
+    "name": "georefar",
+    "url": "https://github.com/juancarlospaco/nim-georefar",
+    "method": "git",
+    "tags": [
+      "geo",
+      "openstreetmap",
+      "async",
+      "multisync",
+      "opendata",
+      "gov"
+    ],
+    "description": "GeoRef Argentina Government MultiSync API Client for Nim",
+    "license": "MIT",
+    "web": "https://github.com/juancarlospaco/nim-georefar"
   }
 ]
