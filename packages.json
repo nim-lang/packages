@@ -11217,5 +11217,17 @@
     "description": "GeoRef Argentina Government MultiSync API Client for Nim",
     "license": "MIT",
     "web": "https://github.com/juancarlospaco/nim-georefar"
+  },
+  {
+    "name": "sugerror",
+    "url": "https://github.com/quelklef/nim-sugerror",
+    "method": "git",
+    "tags": [
+      "errors",
+      "expr"
+    ],
+    "description": "Terse and composable error handling.",
+    "license": "MIT",
+    "web": "https://github.com/quelklef/nim-sugerror"
   }
 ]
