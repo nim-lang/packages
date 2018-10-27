@@ -11229,5 +11229,19 @@
     "description": "Terse and composable error handling.",
     "license": "MIT",
     "web": "https://github.com/quelklef/nim-sugerror"
+  },
+  {
+    "name": "sermon",
+    "url": "https://github.com/ThomasTJdev/nim_sermon",
+    "method": "git",
+    "tags": [
+      "monitor",
+      "storage",
+      "memory",
+      "process"
+    ],
+    "description": "Monitor the state and memory of processes and URL response.",
+    "license": "MIT",
+    "web": "https://github.com/ThomasTJdev/nim_sermon"
   }
 ]
