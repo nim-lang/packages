@@ -94,12 +94,12 @@
     "method": "git",
     "tags": [
       "library",
-      "commandline",
+      "command-line",
       "arguments",
       "switches",
       "parsing"
     ],
-    "description": "Provides a complex commandline parser",
+    "description": "Provides a complex command-line parser",
     "license": "MIT",
     "web": "https://github.com/Xe/argument_parser"
   },
@@ -109,7 +109,7 @@
     "method": "git",
     "tags": [
       "library",
-      "commandline",
+      "command-line",
       "sound",
       "recycle",
       "os"
@@ -879,7 +879,7 @@
     "method": "git",
     "tags": [
       "library",
-      "commandline",
+      "command-line",
       "arguments",
       "switches",
       "parsing",
@@ -930,7 +930,7 @@
     "tags": [
       "rmdir",
       "awesome",
-      "commandline"
+      "command-line"
     ],
     "description": "Command to remove acceptably empty directories.",
     "license": "MIT",
@@ -1426,7 +1426,7 @@
     "url": "https://github.com/Araq/gh_nimrod_doc_pages",
     "method": "git",
     "tags": [
-      "commandline",
+      "command-line",
       "web",
       "automation",
       "documentation"
@@ -2126,7 +2126,7 @@
     "url": "https://github.com/docopt/docopt.nim",
     "method": "git",
     "tags": [
-      "commandline",
+      "command-line",
       "arguments",
       "parsing",
       "library"
@@ -2802,9 +2802,10 @@
     "method": "git",
     "tags": [
       "linenoise",
+      "readline",
       "library",
       "wrapper",
-      "commandline"
+      "command-line"
     ],
     "description": "Wrapper for linenoise, a free, self-contained alternative to GNU readline.",
     "license": "BSD",
@@ -3423,7 +3424,7 @@
     "url": "https://github.com/Xe/vardene",
     "method": "git",
     "tags": [
-      "command line",
+      "command-line",
       "tool",
       "compiler"
     ],
@@ -4327,7 +4328,7 @@
     "method": "git",
     "tags": [
       "library",
-      "commandline",
+      "command-line",
       "arguments",
       "switches",
       "parsing",
@@ -5860,7 +5861,7 @@
       "library",
       "wrapper",
       "termbox",
-      "commandline",
+      "command-line",
       "ui",
       "tui",
       "gui"
@@ -6471,7 +6472,7 @@
     "method": "git",
     "tags": [
       "cmd",
-      "command",
+      "command-line",
       "prompt",
       "interactive"
     ],
@@ -9564,7 +9565,7 @@
     "method": "git",
     "tags": [
       "sha1",
-      "commandline",
+      "command-line",
       "utilities"
     ],
     "description": "Rename files to their sha1sums",
@@ -10118,7 +10119,7 @@
     "url": "https://github.com/Calinou/clr",
     "method": "git",
     "tags": [
-      "commandline",
+      "command-line",
       "color",
       "rgb",
       "hsl",
@@ -10830,12 +10831,26 @@
     "method": "git",
     "tags": [
       "linenoise",
-      "commandline",
+      "readline",
+      "command-line",
       "repl"
     ],
     "description": "Nim implementation of linenoise command line editor",
     "license": "MIT",
     "web": "https://github.com/jangko/nim-noise"
+  },
+  {
+    "name": "prompt",
+    "url": "https://github.com/surf1nb1rd/nim-prompt",
+    "method": "git",
+    "tags": [
+      "command-line",
+      "readline",
+      "repl"
+    ],
+    "description": "Feature-rich readline replacement",
+    "license": "BSD2",
+    "web": "https://github.com/surf1nb1rd/nim-prompt"
   },
   {
     "name": "proxyproto",
@@ -11093,6 +11108,18 @@
     "web": "https://github.com/irskep/rexpaint_nim"
   },
   {
+    "name": "crosscompile",
+    "url": "https://github.com/juancarlospaco/nim-crosscompile",
+    "method": "git",
+    "tags": [
+      "crosscompile",
+      "compile"
+    ],
+    "description": "Crosscompile Nim source code into multiple targets on Linux with this proc.",
+    "license": "MIT",
+    "web": "https://github.com/juancarlospaco/nim-crosscompile"
+  },
+  {
     "name": "rodcli",
     "url": "https://github.com/jabbalaci/NimCliHelper",
     "method": "git",
@@ -11203,5 +11230,45 @@
     "description": "Series de Tiempo de Argentina Government MultiSync API Client for Nim",
     "license": "MIT",
     "web": "https://github.com/juancarlospaco/nim-seriesdetiempoar"
+    "name": "georefar",
+    "url": "https://github.com/juancarlospaco/nim-georefar",
+    "method": "git",
+    "tags": [
+      "geo",
+      "openstreetmap",
+      "async",
+      "multisync",
+      "opendata",
+      "gov"
+    ],
+    "description": "GeoRef Argentina Government MultiSync API Client for Nim",
+    "license": "MIT",
+    "web": "https://github.com/juancarlospaco/nim-georefar"
+  },
+  {
+    "name": "sugerror",
+    "url": "https://github.com/quelklef/nim-sugerror",
+    "method": "git",
+    "tags": [
+      "errors",
+      "expr"
+    ],
+    "description": "Terse and composable error handling.",
+    "license": "MIT",
+    "web": "https://github.com/quelklef/nim-sugerror"
+  },
+  {
+    "name": "sermon",
+    "url": "https://github.com/ThomasTJdev/nim_sermon",
+    "method": "git",
+    "tags": [
+      "monitor",
+      "storage",
+      "memory",
+      "process"
+    ],
+    "description": "Monitor the state and memory of processes and URL response.",
+    "license": "MIT",
+    "web": "https://github.com/ThomasTJdev/nim_sermon"
   }
 ]
