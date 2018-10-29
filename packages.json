@@ -11230,6 +11230,8 @@
     "description": "Series de Tiempo de Argentina Government MultiSync API Client for Nim",
     "license": "MIT",
     "web": "https://github.com/juancarlospaco/nim-seriesdetiempoar"
+  },
+  {
     "name": "georefar",
     "url": "https://github.com/juancarlospaco/nim-georefar",
     "method": "git",
