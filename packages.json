@@ -11218,6 +11218,21 @@
     "web": "https://github.com/jabbalaci/UrlShortener"
   },
   {
+    "name": "usigar",
+    "url": "https://github.com/juancarlospaco/nim-usigar",
+    "method": "git",
+    "tags": [
+      "geo",
+      "opendata",
+      "openstreemap",
+      "multisync",
+      "async"
+    ],
+    "description": "USIG Argentina Government MultiSync API Client for Nim",
+    "license": "MIT",
+    "web": "https://github.com/juancarlospaco/nim-usigar"
+  },
+  {
     "name": "georefar",
     "url": "https://github.com/juancarlospaco/nim-georefar",
     "method": "git",
