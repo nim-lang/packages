@@ -11258,5 +11258,17 @@
     "description": "Monitor the state and memory of processes and URL response.",
     "license": "MIT",
     "web": "https://github.com/ThomasTJdev/nim_sermon"
+  },
+  {
+    "name": "vmvc",
+    "url": "https:///",
+    "method": "",
+    "tags": [
+      "vmvc",
+      "dci"
+    ],
+    "description": "a framework for handling complexity by having a \"middle-man\" focal point to handle user interactions - a variant of the mvc/dci concept",
+    "license": "MIT",
+    "web": "https:///"
   }
 ]
