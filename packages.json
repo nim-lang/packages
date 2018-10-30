@@ -3420,22 +3420,6 @@
     "web": "https://github.com/tulayang/httpform"
   },
   {
-<<<<<<< HEAD
-=======
-    "name": "vardene",
-    "url": "https://github.com/Xe/vardene",
-    "method": "git",
-    "tags": [
-      "command-line",
-      "tool",
-      "compiler"
-    ],
-    "description": "A simple tool to manage multiple installs of Nim.",
-    "license": "MIT",
-    "web": "https://christine.website/projects/Vardene"
-  },
-  {
->>>>>>> 50675d3c049b758edc92438f44305e3d4662f116
     "name": "quadtree",
     "url": "https://github.com/Nycto/QuadtreeNim",
     "method": "git",
