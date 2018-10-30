@@ -11261,7 +11261,7 @@
   },
   {
     "name": "vmvc",
-    "url": "https:///",
+    "url": "https://github.com/kobi2187/vmvc",
     "method": "",
     "tags": [
       "vmvc",
@@ -11269,6 +11269,6 @@
     ],
     "description": "a framework for handling complexity by having a \"middle-man\" focal point to handle user interactions - a variant of the mvc/dci concept",
     "license": "MIT",
-    "web": "https:///"
+    "web": "https://github.com/kobi2187/vmvc"
   }
 ]
