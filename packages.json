@@ -11267,7 +11267,7 @@
       "vmvc",
       "dci"
     ],
-    "description": "a framework for handling complexity by having a \"middle-man\" focal point to handle user interactions - a variant of the mvc/dci concept",
+    "description": "a skeleton/structure for a variation on the mvc pattern, similar to dci. For command line and gui programs. it's a middle ground between rapid application development and handling software complexity.",
     "license": "MIT",
     "web": "https://github.com/kobi2187/vmvc"
   }
