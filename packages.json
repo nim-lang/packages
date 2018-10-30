@@ -11273,5 +11273,16 @@
     "description": "Monitor the state and memory of processes and URL response.",
     "license": "MIT",
     "web": "https://github.com/ThomasTJdev/nim_sermon"
+  },
+  {
+    "name": "arksys",
+    "url": "https://github.com/wolfadex/arksys",
+    "method": "git",
+    "tags": [
+      "yes"
+    ],
+    "description": "An entity component system package",
+    "license": "MIT",
+    "web": "https://github.com/wolfadex/arksys"
   }
 ]
