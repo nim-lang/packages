@@ -11279,7 +11279,8 @@
     "url": "https://github.com/wolfadex/arksys",
     "method": "git",
     "tags": [
-      "yes"
+      "ECS",
+      "library"
     ],
     "description": "An entity component system package",
     "license": "MIT",
