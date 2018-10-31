@@ -11134,5 +11134,18 @@
     "description": "USA Code.Gov MultiSync API Client for Nim",
     "license": "MIT",
     "web": "https://github.com/juancarlospaco/nim-usagov"
+  },
+  {
+    "name": "argparse",
+    "url": "https://github.com/iffy/nim-argparse",
+    "method": "git",
+    "tags": [
+      "cli",
+      "argparse",
+      "optparse"
+    ],
+    "description": "WIP strongly-typed argument parser with sub command support",
+    "license": "MIT",
+    "doc": "https://www.iffycan.com/nim-argparse/argparse.html"
   }
 ]
