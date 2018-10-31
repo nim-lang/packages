@@ -11262,7 +11262,7 @@
   {
     "name": "vmvc",
     "url": "https://github.com/kobi2187/vmvc",
-    "method": "",
+    "method": "git",
     "tags": [
       "vmvc",
       "dci"
