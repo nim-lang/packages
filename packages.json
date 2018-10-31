@@ -11285,5 +11285,19 @@
     "description": "An entity component system package",
     "license": "MIT",
     "web": "https://github.com/wolfadex/arksys"
+  },
+  {
+    "name": "coco",
+    "url": "https://github.com/samuelroy/coco",
+    "method": "git",
+    "tags": [
+      "code",
+      "coverage",
+      "test"
+    ],
+    "description": "Code coverage CLI + library for Nim using LCOV",
+    "license": "MIT",
+    "web": "https://github.com/samuelroy/coco",
+    "doc": "https://samuelroy.github.io/coco/"
   }
 ]
