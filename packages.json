@@ -116,7 +116,7 @@
     ],
     "description": "Too awesome procs to be included in nimrod.os module",
     "license": "MIT",
-    "web": "http://github.com/Araq/genieos/"
+    "web": "https://github.com/Araq/genieos/"
   },
   {
     "name": "jester",
@@ -437,7 +437,7 @@
       "nx"
     ],
     "description": "A port of libnx to Nim",
-    "license": "The Unlicense",
+    "license": "Unlicense",
     "web": "https://github.com/jyapayne/nim-libnx"
   },
   {
@@ -773,7 +773,7 @@
     ],
     "description": "Cover Art Archive API wrapper",
     "license": "MIT",
-    "web": "http://github.com/achesak/nim-coverartarchive"
+    "web": "https://github.com/achesak/nim-coverartarchive"
   },
   {
     "name": "nim-ogg",
@@ -1856,7 +1856,7 @@
       "openssl"
     ],
     "description": "Wrapper for OpenSSL's EVP interface",
-    "license": "OpenSSL License and SSLeay License",
+    "license": "OpenSSL and SSLeay",
     "web": "https://github.com/cowboy-coders/nim-openssl-evp"
   },
   {
@@ -3420,19 +3420,6 @@
     "web": "https://github.com/tulayang/httpform"
   },
   {
-    "name": "vardene",
-    "url": "https://github.com/Xe/vardene",
-    "method": "git",
-    "tags": [
-      "command-line",
-      "tool",
-      "compiler"
-    ],
-    "description": "A simple tool to manage multiple installs of Nim.",
-    "license": "MIT",
-    "web": "https://christine.website/projects/Vardene"
-  },
-  {
     "name": "quadtree",
     "url": "https://github.com/Nycto/QuadtreeNim",
     "method": "git",
@@ -4702,7 +4689,7 @@
       "timer"
     ],
     "description": "Micro benchmarking tool to measure speed of code, with the goal of optimizing it.",
-    "license": "Apache License, Version 2.0",
+    "license": "Apache Version 2.0",
     "web": "https://github.com/ivankoster/nimbench"
   },
   {
@@ -6105,7 +6092,7 @@
       "database"
     ],
     "description": "A wrapper for Facebook's RocksDB, an embeddable, persistent key-value store for fast storage",
-    "license": "Apache License 2.0 or GPLv2",
+    "license": "Apache 2.0 or GPLv2",
     "web": "https://github.com/status-im/nim-rocksdb"
   },
   {
@@ -6253,7 +6240,7 @@
       "wrapper"
     ],
     "description": "A wrapper for stb_image and stb_image_write.",
-    "license": "Unlicense (Public Domain)",
+    "license": "Unlicense",
     "web": "https://gitlab.com/define-private-public/stb_image-Nim"
   },
   {
@@ -6822,7 +6809,7 @@
       "font"
     ],
     "description": "Low level wrapper for the fontconfig library.",
-    "license": "Fontconfig License",
+    "license": "Fontconfig",
     "web": "https://github.com/Parashurama/fontconfig"
   },
   {
@@ -9158,7 +9145,7 @@
       "variadic"
     ],
     "description": "Loop efficiently over a variadic number of containers",
-    "license": "MIT or Apache License 2.0",
+    "license": "MIT or Apache 2.0",
     "web": "https://github.com/numforge/loopfusion"
   },
   {
@@ -10076,8 +10063,7 @@
       "x86",
       "windows",
       "linux",
-      "unix",
-      ""
+      "unix"
     ],
     "description": "subhook wrapper",
     "license": "BSD2",
@@ -10727,8 +10713,7 @@
     "url": "https://github.com/M4RC3L05/redux-nim",
     "method": "git",
     "tags": [
-      "",
-      ""
+      "redux"
     ],
     "description": "Redux Implementation in nim",
     "license": "MIT",
