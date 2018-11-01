@@ -11284,5 +11284,19 @@
     "license": "MIT",
     "web": "https://github.com/samuelroy/coco",
     "doc": "https://samuelroy.github.io/coco/"
+  },
+  {
+    "name": "nimetry",
+    "url": "https://github.com/ijneb/nimetry",
+    "method": "git",
+    "tags": [
+      "plot",
+      "graph",
+      "chart"
+    ],
+    "description": "Plotting module in pure nim",
+    "license": "CC0",
+    "web": "https://github.com/ijneb/nimetry",
+    "doc": "https://ijneb.github.io/nimetry"
   }
 ]
