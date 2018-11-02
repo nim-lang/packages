@@ -11298,5 +11298,18 @@
     "license": "CC0",
     "web": "https://github.com/ijneb/nimetry",
     "doc": "https://ijneb.github.io/nimetry"
+  },
+  {
+    "name": "snappy",
+    "url": "https://github.com/jangko/snappy",
+    "method": "git",
+    "tags": [
+      "compression",
+      "snappy",
+      "lzw"
+    ],
+    "description": "Nim implementation of Snappy compression algorithm",
+    "license": "MIT",
+    "web": "https://github.com/jangko/snappy"
   }
 ]
