@@ -11311,5 +11311,19 @@
     "description": "Nim implementation of Snappy compression algorithm",
     "license": "MIT",
     "web": "https://github.com/jangko/snappy"
+  },
+  {
+    "name": "nimzbar",
+    "url": "https://github.com/genotrance/nimzbar",
+    "method": "git",
+    "tags": [
+      "zbar",
+      "barcode",
+      "bar",
+      "code"
+    ],
+    "description": "zbar wrapper for Nim",
+    "license": "MIT",
+    "web": "https://github.com/genotrance/nimzbar"
   }
 ]
