@@ -11311,5 +11311,22 @@
     "description": "Nim implementation of Snappy compression algorithm",
     "license": "MIT",
     "web": "https://github.com/jangko/snappy"
+  },
+  {
+    "name": "osrm",
+    "url": "https://github.com/juancarlospaco/nim-osrm",
+    "method": "git",
+    "tags": [
+      "openstreetmap",
+      "geo",
+      "gis",
+      "opendata",
+      "routing",
+      "async",
+      "multisync"
+    ],
+    "description": "Open Source Routing Machine for OpenStreetMap API Lib and App",
+    "license": "MIT",
+    "web": "https://github.com/juancarlospaco/nim-osrm"
   }
 ]
