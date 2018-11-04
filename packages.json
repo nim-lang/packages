@@ -11311,5 +11311,18 @@
     "description": "Nim implementation of Snappy compression algorithm",
     "license": "MIT",
     "web": "https://github.com/jangko/snappy"
+  },
+  {
+    "name": "loadenv",
+    "url": "https://github.com/xmonader/nim-loadenv",
+    "method": "git",
+    "tags": [
+      "environment",
+      "variables",
+      "env"
+    ],
+    "description": "load .env variables",
+    "license": "MIT",
+    "web": "https://github.com/xmonader/nim-loadenv"
   }
 ]
