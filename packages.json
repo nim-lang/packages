@@ -11274,6 +11274,18 @@
     "web": "https://github.com/ThomasTJdev/nim_sermon"
   },
   {
+    "name": "vmvc",
+    "url": "https://github.com/kobi2187/vmvc",
+    "method": "git",
+    "tags": [
+      "vmvc",
+      "dci"
+    ],
+    "description": "a skeleton/structure for a variation on the mvc pattern, similar to dci. For command line and gui programs. it's a middle ground between rapid application development and handling software complexity.",
+    "license": "MIT",
+    "web": "https://github.com/kobi2187/vmvc"
+  },
+  {
     "name": "arksys",
     "url": "https://github.com/wolfadex/arksys",
     "method": "git",
