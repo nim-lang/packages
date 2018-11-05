@@ -11203,6 +11203,20 @@
     "web": "https://github.com/jabbalaci/UrlShortener"
   },
   {
+    "name": "seriesdetiempoar",
+    "url": "https://github.com/juancarlospaco/nim-seriesdetiempoar",
+    "method": "git",
+    "tags": [
+      "async",
+      "multisync",
+      "gov",
+      "opendata"
+    ],
+    "description": "Series de Tiempo de Argentina Government MultiSync API Client for Nim",
+    "license": "MIT",
+    "web": "https://github.com/juancarlospaco/nim-seriesdetiempoar"
+  },
+  {
     "name": "usigar",
     "url": "https://github.com/juancarlospaco/nim-usigar",
     "method": "git",
