@@ -11367,5 +11367,18 @@
     "description": "HTML & CSS Minify Lib & App based on Regexes & parallel MultiReplaces",
     "license": "MIT",
     "web": "https://github.com/juancarlospaco/nim-css-html-minify"
+  },
+  {
+    "name": "crap",
+    "url": "https://github.com/icyphox/crap",
+    "method": "git",
+    "tags": [
+      "rm",
+      "delete",
+      "trash",
+      "files"
+    ],
+    "description": "`rm` files without fear",
+    "license": "MIT",
+    "web": "https://github.com/icyphox/crap"
   }
-]
