@@ -8913,19 +8913,19 @@
   },
   {
     "name": "nimgl",
-    "url": "https://github.com/cavariux/nimgl",
+    "url": "https://github.com/lmariscal/nimgl",
     "method": "git",
     "tags": [
       "glfw",
-      "glew",
-      "math",
+      "imgui",
       "opengl",
       "bindings",
-      "gl"
+      "gl",
+      "graphics"
     ],
     "description": "Nim Game Library",
     "license": "MIT",
-    "web": "https://github.com/cavariux/nimgl"
+    "web": "https://github.com/lmariscal/nimgl"
   },
   {
     "name": "inim",
@@ -9918,7 +9918,7 @@
   },
   {
     "name": "figures",
-    "url": "https://github.com/cavariux/figures",
+    "url": "https://github.com/lmariscal/figures",
     "method": "git",
     "tags": [
       "unicode",
@@ -9927,7 +9927,7 @@
     ],
     "description": "unicode symbols",
     "license": "MIT",
-    "web": "https://github.com/cavariux/figures"
+    "web": "https://github.com/lmariscal/figures"
   },
   {
     "name": "ur",
