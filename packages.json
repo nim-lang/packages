@@ -7839,6 +7839,20 @@
     "web": "https://brentp.github.io/hts-nim/"
   },
   {
+    "name": "falas",
+    "url": "https://github.com/brentp/falas",
+    "method": "git",
+    "tags": [
+      "assembly",
+      "dna",
+      "sequence",
+      "genomics"
+    ],
+    "description": "fragment-aware assembler for short reads",
+    "license": "MIT",
+    "web": "https://brentp.github.io/falas/falas.html"
+  },
+  {
     "name": "kmer",
     "url": "https://github.com/brentp/nim-kmer",
     "method": "git",
