@@ -11449,5 +11449,19 @@
     "description": "Algebraic expression parser and evaluator",
     "license": "CC0",
     "web": "https://github.com/ijneb/nim-algebra"
+  },
+  {
+    "name": "nicy",
+    "url": "https://github.com/icyphox/nicy",
+    "method": "git",
+    "tags": [
+      "zsh",
+      "shell",
+      "prompt",
+      "git"
+    ],
+    "description": "A nice and icy ZSH prompt in Nim",
+    "license": "MIT",
+    "web": "https://github.com/icyphox/nicy"
   }
 ]
