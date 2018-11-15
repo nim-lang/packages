@@ -11393,6 +11393,19 @@
     "web": "https://github.com/jangko/snappy"
   },
   {
+    "name": "loadenv",
+    "url": "https://github.com/xmonader/nim-loadenv",
+    "method": "git",
+    "tags": [
+      "environment",
+      "variables",
+      "env"
+    ],
+    "description": "load .env variables",
+    "license": "MIT",
+    "web": "https://github.com/xmonader/nim-loadenv"
+  },
+  {
     "name": "osrm",
     "url": "https://github.com/juancarlospaco/nim-osrm",
     "method": "git",
@@ -11463,5 +11476,19 @@
     "description": "zbar wrapper for Nim",
     "license": "MIT",
     "web": "https://github.com/genotrance/nimzbar"
+  },
+  {
+    "name": "nicy",
+    "url": "https://github.com/icyphox/nicy",
+    "method": "git",
+    "tags": [
+      "zsh",
+      "shell",
+      "prompt",
+      "git"
+    ],
+    "description": "A nice and icy ZSH prompt in Nim",
+    "license": "MIT",
+    "web": "https://github.com/icyphox/nicy"
   }
 ]
