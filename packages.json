@@ -5974,13 +5974,39 @@
     "web": "https://github.com/status-im/nim-asyncdispatch2"
   },
   {
+    "name": "serialization",
+    "url": "https://github.com/status-im/nim-serialization",
+    "method": "git",
+    "tags": [
+      "library",
+      "serialization"
+    ],
+    "description": "A modern and extensible serialization framework for Nim",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/status-im/nim-serialization"
+  },
+  {
+    "name": "json_serialization",
+    "url": "https://github.com/status-im/nim-json-serialization",
+    "method": "git",
+    "tags": [
+      "library",
+      "json",
+      "serialization"
+    ],
+    "description": "Flexible JSON serialization not relying on run-time type information",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/status-im/nim-json-serialization"
+  },
+  {
     "name": "rlp",
     "url": "https://github.com/status-im/nim-rlp",
     "method": "git",
     "tags": [
       "library",
       "ethereum",
-      "rlp"
+      "rlp",
+      "serialization"
     ],
     "description": "RLP serialization library for Nim",
     "license": "Apache License 2.0",
@@ -7839,6 +7865,20 @@
     "web": "https://brentp.github.io/hts-nim/"
   },
   {
+    "name": "falas",
+    "url": "https://github.com/brentp/falas",
+    "method": "git",
+    "tags": [
+      "assembly",
+      "dna",
+      "sequence",
+      "genomics"
+    ],
+    "description": "fragment-aware assembler for short reads",
+    "license": "MIT",
+    "web": "https://brentp.github.io/falas/falas.html"
+  },
+  {
     "name": "kmer",
     "url": "https://github.com/brentp/nim-kmer",
     "method": "git",
@@ -8913,19 +8953,19 @@
   },
   {
     "name": "nimgl",
-    "url": "https://github.com/cavariux/nimgl",
+    "url": "https://github.com/lmariscal/nimgl",
     "method": "git",
     "tags": [
       "glfw",
-      "glew",
-      "math",
+      "imgui",
       "opengl",
       "bindings",
-      "gl"
+      "gl",
+      "graphics"
     ],
     "description": "Nim Game Library",
     "license": "MIT",
-    "web": "https://github.com/cavariux/nimgl"
+    "web": "https://github.com/lmariscal/nimgl"
   },
   {
     "name": "inim",
@@ -9918,7 +9958,7 @@
   },
   {
     "name": "figures",
-    "url": "https://github.com/cavariux/figures",
+    "url": "https://github.com/lmariscal/figures",
     "method": "git",
     "tags": [
       "unicode",
@@ -9927,7 +9967,7 @@
     ],
     "description": "unicode symbols",
     "license": "MIT",
-    "web": "https://github.com/cavariux/figures"
+    "web": "https://github.com/lmariscal/figures"
   },
   {
     "name": "ur",
@@ -11050,6 +11090,20 @@
     "web": "https://github.com/nim-lang/graveyard/tree/master/xmldomparser"
   },
   {
+    "name": "result",
+    "url": "https://github.com/arnetheduck/nim-result",
+    "method": "git",
+    "tags": [
+      "library",
+      "result",
+      "errors",
+      "functional"
+    ],
+    "description": "Friendly, exception-free value-or-error returns, similar to Option[T]",
+    "license": "MIT",
+    "web": "https://github.com/arnetheduck/nim-result"
+  },
+  {
     "name": "asciigraph",
     "url": "https://github.com/KeepCoolWithCoolidge/asciigraph",
     "method": "git",
@@ -11203,6 +11257,20 @@
     "web": "https://github.com/jabbalaci/UrlShortener"
   },
   {
+    "name": "seriesdetiempoar",
+    "url": "https://github.com/juancarlospaco/nim-seriesdetiempoar",
+    "method": "git",
+    "tags": [
+      "async",
+      "multisync",
+      "gov",
+      "opendata"
+    ],
+    "description": "Series de Tiempo de Argentina Government MultiSync API Client for Nim",
+    "license": "MIT",
+    "web": "https://github.com/juancarlospaco/nim-seriesdetiempoar"
+  },
+  {
     "name": "usigar",
     "url": "https://github.com/juancarlospaco/nim-usigar",
     "method": "git",
@@ -11258,6 +11326,18 @@
     "description": "Monitor the state and memory of processes and URL response.",
     "license": "MIT",
     "web": "https://github.com/ThomasTJdev/nim_sermon"
+  },
+  {
+    "name": "vmvc",
+    "url": "https://github.com/kobi2187/vmvc",
+    "method": "git",
+    "tags": [
+      "vmvc",
+      "dci"
+    ],
+    "description": "a skeleton/structure for a variation on the mvc pattern, similar to dci. For command line and gui programs. it's a middle ground between rapid application development and handling software complexity.",
+    "license": "MIT",
+    "web": "https://github.com/kobi2187/vmvc"
   },
   {
     "name": "arksys",
@@ -11324,5 +11404,77 @@
     "description": "load .env variables",
     "license": "MIT",
     "web": "https://github.com/xmonader/nim-loadenv"
+  },
+  {
+    "name": "osrm",
+    "url": "https://github.com/juancarlospaco/nim-osrm",
+    "method": "git",
+    "tags": [
+      "openstreetmap",
+      "geo",
+      "gis",
+      "opendata",
+      "routing",
+      "async",
+      "multisync"
+    ],
+    "description": "Open Source Routing Machine for OpenStreetMap API Lib and App",
+    "license": "MIT",
+    "web": "https://github.com/juancarlospaco/nim-osrm"
+  },
+  {
+    "name": "css_html_minify",
+    "url": "https://github.com/juancarlospaco/nim-css-html-minify",
+    "method": "git",
+    "tags": [
+      "css",
+      "html",
+      "minify"
+    ],
+    "description": "HTML & CSS Minify Lib & App based on Regexes & parallel MultiReplaces",
+    "license": "MIT",
+    "web": "https://github.com/juancarlospaco/nim-css-html-minify"
+  },
+  {
+    "name": "crap",
+    "url": "https://github.com/icyphox/crap",
+    "method": "git",
+    "tags": [
+      "rm",
+      "delete",
+      "trash",
+      "files"
+    ],
+    "description": "`rm` files without fear",
+    "license": "MIT",
+    "web": "https://github.com/icyphox/crap"
+  },
+  {
+    "name": "algebra",
+    "url": "https://github.com/ijneb/nim-algebra",
+    "method": "git",
+    "tags": [
+      "algebra",
+      "parse",
+      "evaluate",
+      "mathematics"
+    ],
+    "description": "Algebraic expression parser and evaluator",
+    "license": "CC0",
+    "web": "https://github.com/ijneb/nim-algebra"
+  },
+  {
+    "name": "nicy",
+    "url": "https://github.com/icyphox/nicy",
+    "method": "git",
+    "tags": [
+      "zsh",
+      "shell",
+      "prompt",
+      "git"
+    ],
+    "description": "A nice and icy ZSH prompt in Nim",
+    "license": "MIT",
+    "web": "https://github.com/icyphox/nicy"
   }
 ]
