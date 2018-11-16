@@ -11423,6 +11423,19 @@
     "web": "https://github.com/juancarlospaco/nim-osrm"
   },
   {
+    "name": "sharedmempool",
+    "url": "https://github.com/mikra01/sharedmempool",
+    "method": "git",
+    "tags": [
+      "pool",
+      "memory",
+      "thread"
+    ],
+    "description": "threadsafe memory pool ",
+    "license": "MIT",
+    "web": "https://github.com/mikra01/sharedmempool"
+  },
+  {
     "name": "css_html_minify",
     "url": "https://github.com/juancarlospaco/nim-css-html-minify",
     "method": "git",
