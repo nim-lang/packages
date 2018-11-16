@@ -11476,5 +11476,18 @@
     "description": "A nice and icy ZSH prompt in Nim",
     "license": "MIT",
     "web": "https://github.com/icyphox/nicy"
+  },
+  {
+    "name": "xander",
+    "url": "https://github.com/sunjohanday/xander",
+    "method": "git",
+    "tags": [
+      "web",
+      "server",
+      "framework"
+    ],
+    "description": "A Nim web application framework",
+    "license": "MIT",
+    "web": "https://github.com/sunjohanday/xander"
   }
 ]
