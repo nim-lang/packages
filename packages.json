@@ -11489,5 +11489,16 @@
     "description": "A nice and icy ZSH prompt in Nim",
     "license": "MIT",
     "web": "https://github.com/icyphox/nicy"
+  },
+  {
+    "name": "replim",
+    "url": "https://github.com/gmshiba/replim",
+    "method": "git",
+    "tags": [
+      "y"
+    ],
+    "description": "most quick REPL of nim",
+    "license": "MIT",
+    "web": "https://github.com/gmshiba/replim"
   }
 ]
