@@ -11495,7 +11495,9 @@
     "url": "https://github.com/gmshiba/replim",
     "method": "git",
     "tags": [
-      "y"
+      "repl",
+      "binary",
+      "program"
     ],
     "description": "most quick REPL of nim",
     "license": "MIT",
