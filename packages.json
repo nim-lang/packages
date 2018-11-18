@@ -9295,7 +9295,7 @@
       "pqcrypto",
       "signing"
     ],
-    "description": "SPHINCS⁺ stateless hash-based signature scheme",
+    "description": "SPHINCS\u207A stateless hash-based signature scheme",
     "license": "MIT",
     "web": "https://github.com/ehmry/nim-sphincs"
   },
@@ -11502,5 +11502,16 @@
     "description": "most quick REPL of nim",
     "license": "MIT",
     "web": "https://github.com/gmshiba/replim"
+  },
+  {
+    "name": "nish",
+    "url": "https://github.com/owlinux1000/nish",
+    "method": "git",
+    "tags": [
+      "v1.0.0"
+    ],
+    "description": "A Toy Shell Application",
+    "license": "MIT",
+    "web": "https://github.com/owlinux1000/nish"
   }
 ]
