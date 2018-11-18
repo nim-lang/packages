@@ -11502,5 +11502,17 @@
     "description": "most quick REPL of nim",
     "license": "MIT",
     "web": "https://github.com/gmshiba/replim"
+  },
+  {
+    "name": "backoff",
+    "url": "https://github.com/CORDEA/backoff",
+    "method": "git",
+    "tags": [
+      "exponential-backoff",
+      "backoff"
+    ],
+    "description": "Implementation of exponential backoff for nim",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/CORDEA/backoff"
   }
 ]
