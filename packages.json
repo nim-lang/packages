@@ -11528,5 +11528,28 @@
     "description": "terminal ascii tables for nim",
     "license": "BSD-3-Clause",
     "web": "https://github.com/xmonader/nim-asciitables"
+  },
+  {
+    "name": "ws",
+    "url": "https://github.com/treeform/ws",
+    "method": "git",
+    "tags": [
+      "websocket"
+    ],
+    "description": "Simple WebSocket library for nim.",
+    "license": "MIT",
+    "web": "https://github.com/treeform/ws"
+  },
+  {
+    "name": "pg",
+    "url": "https://github.com/treeform/pg",
+    "method": "git",
+    "tags": [
+      "postgresql",
+      "db"
+    ],
+    "description": "Very simple PostgreSQL async api for nim.",
+    "license": "MIT",
+    "web": "https://github.com/treeform/pg"
   }
 ]
