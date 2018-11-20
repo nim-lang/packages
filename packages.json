@@ -11528,5 +11528,17 @@
     "description": "terminal ascii tables for nim",
     "license": "BSD-3-Clause",
     "web": "https://github.com/xmonader/nim-asciitables"
+  },
+  {
+    "name": "gara",
+    "url": "https://github.com/alehander42/gara",
+    "method": "git",
+    "tags": [
+      "nim",
+      "pattern"
+    ],
+    "description": "A pattern matching library",
+    "license": "MIT",
+    "web": "https://github.com/alehander42/gara"
   }
 ]
