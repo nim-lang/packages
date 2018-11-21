@@ -11540,5 +11540,17 @@
     "description": "terminal ascii tables for nim",
     "license": "BSD-3-Clause",
     "web": "https://github.com/xmonader/nim-asciitables"
+  },
+  {
+    "name": "haraka",
+    "url": "https://github.com/ehmry/nim-haraka",
+    "method": "git",
+    "tags": [
+      "hash",
+      "haraka"
+    ],
+    "description": "Haraka v2 short-input hash function",
+    "license": "MIT",
+    "web": "https://github.com/ehmry/nim-haraka"
   }
 ]
