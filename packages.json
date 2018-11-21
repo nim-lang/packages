@@ -5999,6 +5999,18 @@
     "web": "https://github.com/status-im/nim-json-serialization"
   },
   {
+    "name": "confutils",
+    "url": "https://github.com/status-im/nim-confutils",
+    "method": "git",
+    "tags": [
+      "library",
+      "configuration"
+    ],
+    "description": "Simplified handling of command line options and config files",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/status-im/nim-confutils"
+  },
+  {
     "name": "rlp",
     "url": "https://github.com/status-im/nim-rlp",
     "method": "git",
