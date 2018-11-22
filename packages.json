@@ -5999,6 +5999,18 @@
     "web": "https://github.com/status-im/nim-json-serialization"
   },
   {
+    "name": "confutils",
+    "url": "https://github.com/status-im/nim-confutils",
+    "method": "git",
+    "tags": [
+      "library",
+      "configuration"
+    ],
+    "description": "Simplified handling of command line options and config files",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/status-im/nim-confutils"
+  },
+  {
     "name": "rlp",
     "url": "https://github.com/status-im/nim-rlp",
     "method": "git",
@@ -9295,7 +9307,7 @@
       "pqcrypto",
       "signing"
     ],
-    "description": "SPHINCS⁺ stateless hash-based signature scheme",
+    "description": "SPHINCS\u207A stateless hash-based signature scheme",
     "license": "MIT",
     "web": "https://github.com/ehmry/nim-sphincs"
   },
@@ -11504,6 +11516,18 @@
     "web": "https://github.com/gmshiba/replim"
   },
   {
+    "name": "nish",
+    "url": "https://github.com/owlinux1000/nish",
+    "method": "git",
+    "tags": [
+      "nish",
+      "shell"
+    ],
+    "description": "A Toy Shell Application",
+    "license": "MIT",
+    "web": "https://github.com/owlinux1000/nish"
+  },
+  {
     "name": "backoff",
     "url": "https://github.com/CORDEA/backoff",
     "method": "git",
@@ -11528,6 +11552,18 @@
     "description": "terminal ascii tables for nim",
     "license": "BSD-3-Clause",
     "web": "https://github.com/xmonader/nim-asciitables"
+  },
+  {
+    "name": "gara",
+    "url": "https://github.com/alehander42/gara",
+    "method": "git",
+    "tags": [
+      "nim",
+      "pattern"
+    ],
+    "description": "A pattern matching library",
+    "license": "MIT",
+    "web": "https://github.com/alehander42/gara"
   },
   {
     "name": "ws",
