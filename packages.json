@@ -6964,20 +6964,6 @@
     "web": "https://github.com/Yardanico/nim-mathexpr"
   },
   {
-    "name": "frag",
-    "url": "https://github.com/fragworks/frag",
-    "method": "git",
-    "tags": [
-      "game",
-      "game-dev",
-      "2d",
-      "3d"
-    ],
-    "description": "A 2D|3D game engine",
-    "license": "MIT",
-    "web": "https://github.com/fragworks/frag"
-  },
-  {
     "name": "freetype",
     "url": "https://github.com/jangko/freetype",
     "method": "git",
