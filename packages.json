@@ -9307,7 +9307,7 @@
       "pqcrypto",
       "signing"
     ],
-    "description": "SPHINCS\u207A stateless hash-based signature scheme",
+    "description": "SPHINCS⁺ stateless hash-based signature scheme",
     "license": "MIT",
     "web": "https://github.com/ehmry/nim-sphincs"
   },
@@ -11677,5 +11677,19 @@
     "description": "A command lined based text editor",
     "license": "GPLv3",
     "web": "https://github.com/fox0430/moe"
+  },
+  {
+    "name": "gatabase",
+    "url": "https://github.com/juancarlospaco/nim-gatabase",
+    "method": "git",
+    "tags": [
+      "database",
+      "orm",
+      "postgres",
+      "sql"
+    ],
+    "description": "Gatabase",
+    "license": "MIT",
+    "web": "https://github.com/juancarlospaco/nim-gatabase"
   }
 ]
