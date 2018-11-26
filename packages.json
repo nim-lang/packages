@@ -9307,7 +9307,7 @@
       "pqcrypto",
       "signing"
     ],
-    "description": "SPHINCS⁺ stateless hash-based signature scheme",
+    "description": "SPHINCS\u207A stateless hash-based signature scheme",
     "license": "MIT",
     "web": "https://github.com/ehmry/nim-sphincs"
   },
@@ -11214,6 +11214,19 @@
     "web": "https://github.com/juancarlospaco/nim-usagov"
   },
   {
+    "name": "argparse",
+    "url": "https://github.com/iffy/nim-argparse",
+    "method": "git",
+    "tags": [
+      "cli",
+      "argparse",
+      "optparse"
+    ],
+    "description": "WIP strongly-typed argument parser with sub command support",
+    "license": "MIT",
+    "doc": "https://www.iffycan.com/nim-argparse/argparse.html"
+  },
+  {
     "name": "markdown",
     "url": "https://github.com/soasme/nim-markdown",
     "method": "git",
@@ -11516,6 +11529,18 @@
     "web": "https://github.com/gmshiba/replim"
   },
   {
+    "name": "nish",
+    "url": "https://github.com/owlinux1000/nish",
+    "method": "git",
+    "tags": [
+      "nish",
+      "shell"
+    ],
+    "description": "A Toy Shell Application",
+    "license": "MIT",
+    "web": "https://github.com/owlinux1000/nish"
+  },
+  {
     "name": "backoff",
     "url": "https://github.com/CORDEA/backoff",
     "method": "git",
@@ -11540,6 +11565,91 @@
     "description": "terminal ascii tables for nim",
     "license": "BSD-3-Clause",
     "web": "https://github.com/xmonader/nim-asciitables"
+  },
+  {
+    "name": "open_elevation",
+    "url": "https://github.com/juancarlospaco/nim-open-elevation",
+    "method": "git",
+    "tags": [
+      "openstreetmap",
+      "geo",
+      "elevation",
+      "multisync",
+      "async"
+    ],
+    "description": "OpenStreetMap Elevation API MultiSync Client for Nim",
+    "license": "MIT",
+    "web": "https://github.com/juancarlospaco/nim-open-elevation"
+  },
+  {
+    "name": "gara",
+    "url": "https://github.com/alehander42/gara",
+    "method": "git",
+    "tags": [
+      "nim",
+      "pattern"
+    ],
+    "description": "A pattern matching library",
+    "license": "MIT",
+    "web": "https://github.com/alehander42/gara"
+  },
+  {
+    "name": "ws",
+    "url": "https://github.com/treeform/ws",
+    "method": "git",
+    "tags": [
+      "websocket"
+    ],
+    "description": "Simple WebSocket library for nim.",
+    "license": "MIT",
+    "web": "https://github.com/treeform/ws"
+  },
+  {
+    "name": "pg",
+    "url": "https://github.com/treeform/pg",
+    "method": "git",
+    "tags": [
+      "postgresql",
+      "db"
+    ],
+    "description": "Very simple PostgreSQL async api for nim.",
+    "license": "MIT",
+    "web": "https://github.com/treeform/pg"
+  },
+  {
+    "name": "niledb",
+    "url": "https://github.com/JeffersonLab/niledb.git",
+    "method": "git",
+    "tags": [
+      "db"
+    ],
+    "description": "Key/Value storage into a fast file-hash",
+    "license": "MIT",
+    "web": "https://github.com/JeffersonLab/niledb.git"
+  },
+  {
+    "name": "siphash",
+    "url": "https://github.com/ehmry/nim-siphash",
+    "method": "git",
+    "tags": [
+      "hash",
+      "siphash"
+    ],
+    "description": "SipHash, a pseudorandom function optimized for short messages.",
+    "license": "GPLv3",
+    "web": "https://github.com/ehmry/nim-siphash"
+  },
+  {
+    "name": "haraka",
+    "url": "https://github.com/ehmry/nim-haraka",
+    "method": "git",
+    "tags": [
+      "hash",
+      "haraka"
+    ],
+    "description": "Haraka v2 short-input hash function",
+    "license": "MIT",
+    "web": "https://github.com/ehmry/nim-haraka"
   },
   {
     "name": "genode",
