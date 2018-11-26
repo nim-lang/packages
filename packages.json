@@ -9307,7 +9307,7 @@
       "pqcrypto",
       "signing"
     ],
-    "description": "SPHINCS⁺ stateless hash-based signature scheme",
+    "description": "SPHINCS\u207A stateless hash-based signature scheme",
     "license": "MIT",
     "web": "https://github.com/ehmry/nim-sphincs"
   },
@@ -11688,7 +11688,7 @@
       "postgres",
       "sql"
     ],
-    "description": "Gatabase",
+    "description": "Postgres Database ORM for Nim",
     "license": "MIT",
     "web": "https://github.com/juancarlospaco/nim-gatabase"
   }
