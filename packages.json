@@ -11652,6 +11652,18 @@
     "web": "https://github.com/ehmry/nim-haraka"
   },
   {
+    "name": "genode",
+    "url": "https://github.com/ehmry/nim-genode",
+    "method": "git",
+    "tags": [
+      "genode",
+      "system"
+    ],
+    "description": "System libraries for the Genode Operating System Framework",
+    "license": "AGPLv3",
+    "web": "https://github.com/ehmry/nim-genode"
+  },
+  {
     "name": "moe",
     "url": "https://github.com/fox0430/moe",
     "method": "git",
