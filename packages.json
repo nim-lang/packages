@@ -11650,5 +11650,20 @@
     "description": "Haraka v2 short-input hash function",
     "license": "MIT",
     "web": "https://github.com/ehmry/nim-haraka"
+  },
+  {
+    "name": "moe",
+    "url": "https://github.com/fox0430/moe",
+    "method": "git",
+    "tags": [
+      "console",
+      "command-line",
+      "editor",
+      "text",
+      "cli"
+    ],
+    "description": "A command lined based text editor",
+    "license": "GPLv3",
+    "web": "https://github.com/fox0430/moe"
   }
 ]
