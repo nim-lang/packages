@@ -11638,5 +11638,17 @@
     "description": "SipHash, a pseudorandom function optimized for short messages.",
     "license": "GPLv3",
     "web": "https://github.com/ehmry/nim-siphash"
+  },
+  {
+    "name": "haraka",
+    "url": "https://github.com/ehmry/nim-haraka",
+    "method": "git",
+    "tags": [
+      "hash",
+      "haraka"
+    ],
+    "description": "Haraka v2 short-input hash function",
+    "license": "MIT",
+    "web": "https://github.com/ehmry/nim-haraka"
   }
 ]
