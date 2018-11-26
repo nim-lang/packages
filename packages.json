@@ -11626,5 +11626,17 @@
     "description": "Key/Value storage into a fast file-hash",
     "license": "MIT",
     "web": "https://github.com/JeffersonLab/niledb.git"
+  },
+  {
+    "name": "haraka",
+    "url": "https://github.com/ehmry/nim-haraka",
+    "method": "git",
+    "tags": [
+      "hash",
+      "haraka"
+    ],
+    "description": "Haraka v2 short-input hash function",
+    "license": "MIT",
+    "web": "https://github.com/ehmry/nim-haraka"
   }
 ]
