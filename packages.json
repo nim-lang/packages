@@ -11628,6 +11628,18 @@
     "web": "https://github.com/JeffersonLab/niledb.git"
   },
   {
+    "name": "siphash",
+    "url": "https://github.com/ehmry/nim-siphash",
+    "method": "git",
+    "tags": [
+      "hash",
+      "siphash"
+    ],
+    "description": "SipHash, a pseudorandom function optimized for short messages.",
+    "license": "GPLv3",
+    "web": "https://github.com/ehmry/nim-siphash"
+  },
+  {
     "name": "haraka",
     "url": "https://github.com/ehmry/nim-haraka",
     "method": "git",
