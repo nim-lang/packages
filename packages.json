@@ -11693,5 +11693,19 @@
     "description": "A command lined based text editor",
     "license": "GPLv3",
     "web": "https://github.com/fox0430/moe"
+  },
+  {
+    "name": "gatabase",
+    "url": "https://github.com/juancarlospaco/nim-gatabase",
+    "method": "git",
+    "tags": [
+      "database",
+      "orm",
+      "postgres",
+      "sql"
+    ],
+    "description": "Postgres Database ORM for Nim",
+    "license": "MIT",
+    "web": "https://github.com/juancarlospaco/nim-gatabase"
   }
 ]
