@@ -11631,5 +11631,67 @@
     "description": "bindings to bgfx c99 api",
     "license": "MIT",
     "web": "https://github.com/zacharycarter/bgfx.nim"
+  },
+  {
+    "name": "niledb",
+    "url": "https://github.com/JeffersonLab/niledb.git",
+    "method": "git",
+    "tags": [
+      "db"
+    ],
+    "description": "Key/Value storage into a fast file-hash",
+    "license": "MIT",
+    "web": "https://github.com/JeffersonLab/niledb.git"
+  },
+  {
+    "name": "siphash",
+    "url": "https://github.com/ehmry/nim-siphash",
+    "method": "git",
+    "tags": [
+      "hash",
+      "siphash"
+    ],
+    "description": "SipHash, a pseudorandom function optimized for short messages.",
+    "license": "GPLv3",
+    "web": "https://github.com/ehmry/nim-siphash"
+  },
+  {
+    "name": "haraka",
+    "url": "https://github.com/ehmry/nim-haraka",
+    "method": "git",
+    "tags": [
+      "hash",
+      "haraka"
+    ],
+    "description": "Haraka v2 short-input hash function",
+    "license": "MIT",
+    "web": "https://github.com/ehmry/nim-haraka"
+  },
+  {
+    "name": "genode",
+    "url": "https://github.com/ehmry/nim-genode",
+    "method": "git",
+    "tags": [
+      "genode",
+      "system"
+    ],
+    "description": "System libraries for the Genode Operating System Framework",
+    "license": "AGPLv3",
+    "web": "https://github.com/ehmry/nim-genode"
+  },
+  {
+    "name": "moe",
+    "url": "https://github.com/fox0430/moe",
+    "method": "git",
+    "tags": [
+      "console",
+      "command-line",
+      "editor",
+      "text",
+      "cli"
+    ],
+    "description": "A command lined based text editor",
+    "license": "GPLv3",
+    "web": "https://github.com/fox0430/moe"
   }
 ]
