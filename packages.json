@@ -9307,7 +9307,7 @@
       "pqcrypto",
       "signing"
     ],
-    "description": "SPHINCS\u207A stateless hash-based signature scheme",
+    "description": "SPHINCS⁺ stateless hash-based signature scheme",
     "license": "MIT",
     "web": "https://github.com/ehmry/nim-sphincs"
   },
@@ -11707,5 +11707,17 @@
     "description": "Postgres Database ORM for Nim",
     "license": "MIT",
     "web": "https://github.com/juancarlospaco/nim-gatabase"
+  },
+  {
+    "name": "awslambda",
+    "url": "https:///",
+    "method": "",
+    "tags": [
+      "aws",
+      "lambda"
+    ],
+    "description": "A package to compile nim functions for AWS Lambda",
+    "license": "MIT",
+    "web": "https:///"
   }
 ]
