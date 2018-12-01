@@ -11709,6 +11709,31 @@
     "web": "https://github.com/juancarlospaco/nim-gatabase"
   },
   {
+    "name": "timespec_get",
+    "url": "https://github.com/Matceporial/nim-timespec_get",
+    "method": "git",
+    "tags": [
+      "time",
+      "timespec_get"
+    ],
+    "description": "Nanosecond-percision time using timespec_get",
+    "license": "0BSD",
+    "web": "https://github.com/Matceporial/nim-timespec_get"
+  },
+  {
+    "name": "urand",
+    "url": "https://github.com/Matceporial/nim-urand",
+    "method": "git",
+    "tags": [
+      "random",
+      "urandom",
+      "crypto"
+    ],
+    "description": "Simple method of obtaining secure random numbers from the OS",
+    "license": "MIT",
+    "web": "https://github.com/Matceporial/nim-urand"
+  },
+  {
     "name": "awslambda",
     "url": "https://github.com/lambci/awslambda.nim",
     "method": "git",
