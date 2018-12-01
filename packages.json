@@ -11719,5 +11719,18 @@
     "description": "A package to compile nim functions for AWS Lambda",
     "license": "MIT",
     "web": "https://github.com/lambci/awslambda.nim"
+  },
+  {
+    "name": "vec",
+    "url": "https://github.com/dom96/vec",
+    "method": "git",
+    "tags": [
+      "vector",
+      "library",
+      "simple"
+    ],
+    "description": "A very simple vector library",
+    "license": "MIT",
+    "web": "https://github.com/dom96/vec"
   }
 ]
