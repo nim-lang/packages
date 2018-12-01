@@ -11757,5 +11757,18 @@
     "description": "A very simple vector library",
     "license": "MIT",
     "web": "https://github.com/dom96/vec"
+  },
+  {
+    "name": "nimgui",
+    "url": "https://github.com/zacharycarter/nimgui",
+    "method": "git",
+    "tags": [
+      "imgui",
+      "gui",
+      "game"
+    ],
+    "description": "bindings to cimgui - https://github.com/cimgui/cimgui",
+    "license": "MIT",
+    "web": "https://github.com/zacharycarter/nimgui"
   }
 ]
