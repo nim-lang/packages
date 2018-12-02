@@ -3371,15 +3371,16 @@
   },
   {
     "name": "lmdb",
-    "url": "https://github.com/fowlmouth/lmdb.nim",
+    "url": "https://github.com/FedericoCeratto/nim-lmdb",
     "method": "git",
     "tags": [
       "wrapper",
-      "lmdb"
+      "lmdb",
+      "key-value"
     ],
     "description": "A wrapper for LMDB the Lightning Memory-Mapped Database",
-    "license": "MIT",
-    "web": "https://github.com/fowlmouth/lmdb.nim"
+    "license": "OpenLDAP",
+    "web": "https://github.com/FedericoCeratto/nim-lmdb"
   },
   {
     "name": "zip",
