@@ -11774,17 +11774,19 @@
   },
   {
     "name": "unpack",
-    "url": "https:///",
-    "method": "",
+    "url": "https://github.com/technicallyagd/unpack",
+    "method": "git",
     "tags": [
       "unpack",
       "seq",
+      "array",
       "object",
       "destructuring",
+      "destructure",
       "unpacking"
     ],
     "description": "Array/Sequence/Object destructuring/unpacking macro",
     "license": "MIT",
-    "web": "https:///"
+    "web": "https://github.com/technicallyagd/unpack"
   }
 ]
