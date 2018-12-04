@@ -11771,5 +11771,20 @@
     "description": "bindings to cimgui - https://github.com/cimgui/cimgui",
     "license": "MIT",
     "web": "https://github.com/zacharycarter/nimgui"
+  },
+  {
+    "name": "unpack",
+    "url": "https:///",
+    "method": "",
+    "tags": [
+      "unpack",
+      "seq",
+      "object",
+      "destructuring",
+      "unpacking"
+    ],
+    "description": "Array/Sequence/Object destructuring/unpacking macro",
+    "license": "MIT",
+    "web": "https:///"
   }
 ]
