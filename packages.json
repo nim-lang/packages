@@ -11788,5 +11788,19 @@
     "description": "Array/Sequence/Object destructuring/unpacking macro",
     "license": "MIT",
     "web": "https://github.com/technicallyagd/unpack"
+  },
+  {
+    "name": "nimfastText",
+    "url": "https://github.com/genotrance/nimfastText",
+    "method": "git",
+    "tags": [
+      "fasttext",
+      "classification",
+      "text",
+      "wrapper"
+    ],
+    "description": "fastText wrapper for Nim",
+    "license": "MIT",
+    "web": "https://github.com/genotrance/nimfastText"
   }
 ]
