@@ -1,4 +1,13 @@
 [
+  { 
+    "name": "elvis",
+    "url": "https://github.com/mattaylor/elvis",
+    "method": "git",
+    "tags": [ "operator", "elvis", "ternary", "template", "truthy", "falsy", "exception", "none", "null", "nil", "0", "NaN", "coalesce" ],
+    "description": "The elvis package implements a 'truthy', 'ternary' and a 'coalesce' operator to Nim as syntactic sugar for working with conditional expressions",
+    "license": "MIT",
+    "web": "https://github.com/mattaylor/elvis"
+  }, 
   {
     "name": "nimrun",
     "url": "https://github.com/lee-b/nimrun",
