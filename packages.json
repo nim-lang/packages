@@ -1,13 +1,27 @@
 [
-  { 
+  {
     "name": "elvis",
     "url": "https://github.com/mattaylor/elvis",
     "method": "git",
-    "tags": [ "operator", "elvis", "ternary", "template", "truthy", "falsy", "exception", "none", "null", "nil", "0", "NaN", "coalesce" ],
+    "tags": [
+      "operator",
+      "elvis",
+      "ternary",
+      "template",
+      "truthy",
+      "falsy",
+      "exception",
+      "none",
+      "null",
+      "nil",
+      "0",
+      "NaN",
+      "coalesce"
+    ],
     "description": "The elvis package implements a 'truthy', 'ternary' and a 'coalesce' operator to Nim as syntactic sugar for working with conditional expressions",
     "license": "MIT",
     "web": "https://github.com/mattaylor/elvis"
-  }, 
+  },
   {
     "name": "nimrun",
     "url": "https://github.com/lee-b/nimrun",
@@ -11811,5 +11825,16 @@
     "description": "Array/Sequence/Object destructuring/unpacking macro",
     "license": "MIT",
     "web": "https://github.com/technicallyagd/unpack"
+  },
+  {
+    "name": "nish",
+    "url": "https://github.com/gmshiba/nish",
+    "method": "git",
+    "tags": [
+      "y"
+    ],
+    "description": "nish: NIm SHell(cross platform)",
+    "license": "MIT",
+    "web": "https://github.com/gmshiba/nish"
   }
 ]
