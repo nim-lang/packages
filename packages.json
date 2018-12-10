@@ -1,5 +1,28 @@
 [
   {
+    "name": "elvis",
+    "url": "https://github.com/mattaylor/elvis",
+    "method": "git",
+    "tags": [
+      "operator",
+      "elvis",
+      "ternary",
+      "template",
+      "truthy",
+      "falsy",
+      "exception",
+      "none",
+      "null",
+      "nil",
+      "0",
+      "NaN",
+      "coalesce"
+    ],
+    "description": "The elvis package implements a 'truthy', 'ternary' and a 'coalesce' operator to Nim as syntactic sugar for working with conditional expressions",
+    "license": "MIT",
+    "web": "https://github.com/mattaylor/elvis"
+  },
+  {
     "name": "nimrun",
     "url": "https://github.com/lee-b/nimrun",
     "method": "git",
@@ -12103,5 +12126,19 @@
     "description": "Nimterop makes C/C++ interop within Nim seamless",
     "license": "MIT",
     "web": "https://github.com/genotrance/nimtreesitter"
+  },
+  {
+    "name": "ringDeque",
+    "url": "https://github.com/technicallyagd/ringDeque",
+    "method": "git",
+    "tags": [
+      "deque",
+      "DoublyLinkedRing",
+      "utility",
+      "python"
+    ],
+    "description": "deque implementatoin using DoublyLinkedRing",
+    "license": "MIT",
+    "web": "https://github.com/technicallyagd/ringDeque"
   }
 ]
