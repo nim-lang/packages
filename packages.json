@@ -11839,5 +11839,19 @@
     "description": "deque implementatoin using DoublyLinkedRing",
     "license": "MIT",
     "web": "https://github.com/technicallyagd/ringDeque"
+  },
+  {
+    "name": "nimfuzzy",
+    "url": "https://github.com/genotrance/nimfuzzy",
+    "method": "git",
+    "tags": [
+      "fuzzy",
+      "search",
+      "match",
+      "fts"
+    ],
+    "description": "Fuzzy search wrapper for Nim",
+    "license": "MIT",
+    "web": "https://github.com/genotrance/nimfuzzy"
   }
 ]
