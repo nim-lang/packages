@@ -1,5 +1,14 @@
 [
-  {
+    { 
+    "name": "whip",
+    "url": "https://github.com/mattaylor/whip",
+    "method": "git",
+    "tags": [ "http", "rest", "server", "httpbeast", "nest", "fast" ],
+    "description": "Whip is high performance web application server based on httpbeast a nest for redix tree based routing with some extra opmtizations.",
+    "license": "MIT",
+    "web": "https://github.com/mattaylor/whip"
+    }, 
+    {
     "name": "elvis",
     "url": "https://github.com/mattaylor/elvis",
     "method": "git",
