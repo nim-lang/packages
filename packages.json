@@ -11836,6 +11836,307 @@
     "web": "https://github.com/technicallyagd/unpack"
   },
   {
+    "name": "treesitter",
+    "url": "https://github.com/genotrance/nimtreesitter?subdir=treesitter",
+    "method": "git",
+    "tags": [
+      "tree-sitter",
+      "parser",
+      "language",
+      "code"
+    ],
+    "description": "Nim wrapper of the tree-sitter incremental parsing library",
+    "license": "MIT",
+    "web": "https://github.com/genotrance/nimtreesitter"
+  },
+  {
+    "name": "treesitter_agda",
+    "url": "https://github.com/genotrance/nimtreesitter?subdir=treesitter_agda",
+    "method": "git",
+    "tags": [
+      "tree-sitter",
+      "agda",
+      "parser",
+      "language",
+      "code"
+    ],
+    "description": "Nim wrapper for Agda language support within tree-sitter",
+    "license": "MIT",
+    "web": "https://github.com/genotrance/nimtreesitter"
+  },
+  {
+    "name": "treesitter_bash",
+    "url": "https://github.com/genotrance/nimtreesitter?subdir=treesitter_bash",
+    "method": "git",
+    "tags": [
+      "tree-sitter",
+      "bash",
+      "parser",
+      "language",
+      "code"
+    ],
+    "description": "Nim wrapper for Bash language support within tree-sitter",
+    "license": "MIT",
+    "web": "https://github.com/genotrance/nimtreesitter"
+  },
+  {
+    "name": "treesitter_c",
+    "url": "https://github.com/genotrance/nimtreesitter?subdir=treesitter_c",
+    "method": "git",
+    "tags": [
+      "tree-sitter",
+      "c",
+      "parser",
+      "language",
+      "code"
+    ],
+    "description": "Nim wrapper for C language support within tree-sitter",
+    "license": "MIT",
+    "web": "https://github.com/genotrance/nimtreesitter"
+  },
+  {
+    "name": "treesitter_c_sharp",
+    "url": "https://github.com/genotrance/nimtreesitter?subdir=treesitter_c_sharp",
+    "method": "git",
+    "tags": [
+      "tree-sitter",
+      "C#",
+      "parser",
+      "language",
+      "code"
+    ],
+    "description": "Nim wrapper for C# language support within tree-sitter",
+    "license": "MIT",
+    "web": "https://github.com/genotrance/nimtreesitter"
+  },
+  {
+    "name": "treesitter_cpp",
+    "url": "https://github.com/genotrance/nimtreesitter?subdir=treesitter_cpp",
+    "method": "git",
+    "tags": [
+      "tree-sitter",
+      "cpp",
+      "parser",
+      "language",
+      "code"
+    ],
+    "description": "Nim wrapper for C++ language support within tree-sitter",
+    "license": "MIT",
+    "web": "https://github.com/genotrance/nimtreesitter"
+  },
+  {
+    "name": "treesitter_css",
+    "url": "https://github.com/genotrance/nimtreesitter?subdir=treesitter_css",
+    "method": "git",
+    "tags": [
+      "tree-sitter",
+      "css",
+      "parser",
+      "language",
+      "code"
+    ],
+    "description": "Nim wrapper for CSS language support within tree-sitter",
+    "license": "MIT",
+    "web": "https://github.com/genotrance/nimtreesitter"
+  },
+  {
+    "name": "treesitter_go",
+    "url": "https://github.com/genotrance/nimtreesitter?subdir=treesitter_go",
+    "method": "git",
+    "tags": [
+      "tree-sitter",
+      "go",
+      "parser",
+      "language",
+      "code"
+    ],
+    "description": "Nim wrapper for Go language support within tree-sitter",
+    "license": "MIT",
+    "web": "https://github.com/genotrance/nimtreesitter"
+  },
+  {
+    "name": "treesitter_haskell",
+    "url": "https://github.com/genotrance/nimtreesitter?subdir=treesitter_haskell",
+    "method": "git",
+    "tags": [
+      "tree-sitter",
+      "haskell",
+      "parser",
+      "language",
+      "code"
+    ],
+    "description": "Nim wrapper for Haskell language support within tree-sitter",
+    "license": "MIT",
+    "web": "https://github.com/genotrance/nimtreesitter"
+  },
+  {
+    "name": "treesitter_html",
+    "url": "https://github.com/genotrance/nimtreesitter?subdir=treesitter_html",
+    "method": "git",
+    "tags": [
+      "tree-sitter",
+      "html",
+      "parser",
+      "language",
+      "code"
+    ],
+    "description": "Nim wrapper for HTML language support within tree-sitter",
+    "license": "MIT",
+    "web": "https://github.com/genotrance/nimtreesitter"
+  },
+  {
+    "name": "treesitter_java",
+    "url": "https://github.com/genotrance/nimtreesitter?subdir=treesitter_java",
+    "method": "git",
+    "tags": [
+      "tree-sitter",
+      "java",
+      "parser",
+      "language",
+      "code"
+    ],
+    "description": "Nim wrapper for Java language support within tree-sitter",
+    "license": "MIT",
+    "web": "https://github.com/genotrance/nimtreesitter"
+  },
+  {
+    "name": "treesitter_javascript",
+    "url": "https://github.com/genotrance/nimtreesitter?subdir=treesitter_javascript",
+    "method": "git",
+    "tags": [
+      "tree-sitter",
+      "javascript",
+      "parser",
+      "language",
+      "code"
+    ],
+    "description": "Nim wrapper for Javascript language support within tree-sitter",
+    "license": "MIT",
+    "web": "https://github.com/genotrance/nimtreesitter"
+  },
+  {
+    "name": "treesitter_ocaml",
+    "url": "https://github.com/genotrance/nimtreesitter?subdir=treesitter_ocaml",
+    "method": "git",
+    "tags": [
+      "tree-sitter",
+      "ocaml",
+      "parser",
+      "language",
+      "code"
+    ],
+    "description": "Nim wrapper for OCaml language support within tree-sitter",
+    "license": "MIT",
+    "web": "https://github.com/genotrance/nimtreesitter"
+  },
+  {
+    "name": "treesitter_php",
+    "url": "https://github.com/genotrance/nimtreesitter?subdir=treesitter_php",
+    "method": "git",
+    "tags": [
+      "tree-sitter",
+      "php",
+      "parser",
+      "language",
+      "code"
+    ],
+    "description": "Nim wrapper for PHP language support within tree-sitter",
+    "license": "MIT",
+    "web": "https://github.com/genotrance/nimtreesitter"
+  },
+  {
+    "name": "treesitter_python",
+    "url": "https://github.com/genotrance/nimtreesitter?subdir=treesitter_python",
+    "method": "git",
+    "tags": [
+      "tree-sitter",
+      "python",
+      "parser",
+      "language",
+      "code"
+    ],
+    "description": "Nim wrapper for Python language support within tree-sitter",
+    "license": "MIT",
+    "web": "https://github.com/genotrance/nimtreesitter"
+  },
+  {
+    "name": "treesitter_ruby",
+    "url": "https://github.com/genotrance/nimtreesitter?subdir=treesitter_ruby",
+    "method": "git",
+    "tags": [
+      "tree-sitter",
+      "ruby",
+      "parser",
+      "language",
+      "code"
+    ],
+    "description": "Nim wrapper for Ruby language support within tree-sitter",
+    "license": "MIT",
+    "web": "https://github.com/genotrance/nimtreesitter"
+  },
+  {
+    "name": "treesitter_rust",
+    "url": "https://github.com/genotrance/nimtreesitter?subdir=treesitter_rust",
+    "method": "git",
+    "tags": [
+      "tree-sitter",
+      "rust",
+      "parser",
+      "language",
+      "code"
+    ],
+    "description": "Nim wrapper for Rust language support within tree-sitter",
+    "license": "MIT",
+    "web": "https://github.com/genotrance/nimtreesitter"
+  },
+  {
+    "name": "treesitter_scala",
+    "url": "https://github.com/genotrance/nimtreesitter?subdir=treesitter_scala",
+    "method": "git",
+    "tags": [
+      "tree-sitter",
+      "scala",
+      "parser",
+      "language",
+      "code"
+    ],
+    "description": "Nim wrapper for Scala language support within tree-sitter",
+    "license": "MIT",
+    "web": "https://github.com/genotrance/nimtreesitter"
+  },
+  {
+    "name": "treesitter_typescript",
+    "url": "https://github.com/genotrance/nimtreesitter?subdir=treesitter_typescript",
+    "method": "git",
+    "tags": [
+      "tree-sitter",
+      "typescript",
+      "parser",
+      "language",
+      "code"
+    ],
+    "description": "Nim wrapper for Typescript language support within tree-sitter",
+    "license": "MIT",
+    "web": "https://github.com/genotrance/nimtreesitter"
+  },
+  {
+    "name": "nimterop",
+    "url": "https://github.com/genotrance/nimterop",
+    "method": "git",
+    "tags": [
+      "c",
+      "c++",
+	  "c2nim",
+	  "interop",
+      "parser",
+      "language",
+      "code"
+    ],
+    "description": "Nimterop makes C/C++ interop within Nim seamless",
+    "license": "MIT",
+    "web": "https://github.com/genotrance/nimtreesitter"
+  },
+  {
     "name": "ringDeque",
     "url": "https://github.com/technicallyagd/ringDeque",
     "method": "git",
