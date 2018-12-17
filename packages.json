@@ -1,14 +1,21 @@
 [
-    { 
+  {
     "name": "whip",
     "url": "https://github.com/mattaylor/whip",
     "method": "git",
-    "tags": [ "http", "rest", "server", "httpbeast", "nest", "fast" ],
+    "tags": [
+      "http",
+      "rest",
+      "server",
+      "httpbeast",
+      "nest",
+      "fast"
+    ],
     "description": "Whip is high performance web application server based on httpbeast a nest for redix tree based routing with some extra opmtizations.",
     "license": "MIT",
     "web": "https://github.com/mattaylor/whip"
-    }, 
-    {
+  },
+  {
     "name": "elvis",
     "url": "https://github.com/mattaylor/elvis",
     "method": "git",
@@ -12126,8 +12133,8 @@
     "tags": [
       "c",
       "c++",
-	  "c2nim",
-	  "interop",
+      "c2nim",
+      "interop",
       "parser",
       "language",
       "code"
@@ -12163,5 +12170,19 @@
     "description": "Fuzzy search wrapper for Nim",
     "license": "MIT",
     "web": "https://github.com/genotrance/nimfuzzy"
+  },
+  {
+    "name": "nimassets",
+    "url": "https://github.com/xmonader/nimassets",
+    "method": "git",
+    "tags": [
+      "assets",
+      "bundle",
+      "go-bindata",
+      "resources"
+    ],
+    "description": "bundle your assets to a nim",
+    "license": "MIT",
+    "web": "https://github.com/xmonader/nimassets"
   }
 ]
