@@ -6051,6 +6051,33 @@
     "web": "https://github.com/status-im/nim-confutils"
   },
   {
+    "name": "std_shims",
+    "url": "https://github.com/status-im/nim-std-shims",
+    "method": "git",
+    "tags": [
+      "library",
+      "backports",
+      "shims"
+    ],
+    "description": "APIs available in the latests version of Nim, backported to older stable releases",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/status-im/nim-std-shims"
+  },
+  {
+    "name": "faststreams",
+    "url": "https://github.com/status-im/nim-faststreams",
+    "method": "git",
+    "tags": [
+      "library",
+      "I/O",
+      "memory-mapping",
+      "streams"
+    ],
+    "description": "RLP serialization library for Nim",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/status-im/nim-faststreams"
+  },
+  {
     "name": "rlp",
     "url": "https://github.com/status-im/nim-rlp",
     "method": "git",
