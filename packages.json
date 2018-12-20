@@ -7915,6 +7915,18 @@
     "web": "https://github.com/edubart/arraymancer-vision"
   },
   {
+    "name": "variantkey",
+    "url": "https://github.com/brentp/variantkey-nim",
+    "method": "git",
+    "tags": [
+      "vcf",
+      "variant",
+      "genomics"
+    ],
+    "description": "encode/decode variants to/from uint64",
+    "license": "MIT"
+  },
+  {
     "name": "genoiser",
     "url": "https://github.com/brentp/genoiser",
     "method": "git",
