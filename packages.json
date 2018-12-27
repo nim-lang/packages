@@ -12251,5 +12251,17 @@
     "description": "Nim wrapper for miniz",
     "license": "MIT",
     "web": "https://github.com/h3rald/nim-miniz"
+  },
+  {
+    "name": "bncurve",
+    "url": "https://github.com/status-im/nim-bncurve",
+    "method": "git",
+    "tags": [
+      "library",
+      "cryptography"
+    ],
+    "description": "pure Nim implementation of Barreto-Naehrig pairing-friendly elliptic curve cryptography",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/status-im/nim-bncurve"
   }
 ]
