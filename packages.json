@@ -11581,6 +11581,19 @@
     "web": "https://github.com/ijneb/nim-algebra"
   },
   {
+    "name": "biblioteca_guarrilla",
+    "url": "https://github.com/juancarlospaco/biblioteca-guarrilla",
+    "method": "git",
+    "tags": [
+      "books",
+      "calibre",
+      "jester"
+    ],
+    "description": "Simple web to share books, Calibre, Jester, Spectre CSS, No JavaScript, WebP & ZIP to reduce bandwidth",
+    "license": "GPL",
+    "web": "https://github.com/juancarlospaco/biblioteca-guarrilla"
+  },
+  {
     "name": "nimzbar",
     "url": "https://github.com/genotrance/nimzbar",
     "method": "git",
