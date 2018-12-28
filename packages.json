@@ -1,5 +1,44 @@
 [
   {
+    "name": "whip",
+    "url": "https://github.com/mattaylor/whip",
+    "method": "git",
+    "tags": [
+      "http",
+      "rest",
+      "server",
+      "httpbeast",
+      "nest",
+      "fast"
+    ],
+    "description": "Whip is high performance web application server based on httpbeast a nest for redix tree based routing with some extra opmtizations.",
+    "license": "MIT",
+    "web": "https://github.com/mattaylor/whip"
+  },
+  {
+    "name": "elvis",
+    "url": "https://github.com/mattaylor/elvis",
+    "method": "git",
+    "tags": [
+      "operator",
+      "elvis",
+      "ternary",
+      "template",
+      "truthy",
+      "falsy",
+      "exception",
+      "none",
+      "null",
+      "nil",
+      "0",
+      "NaN",
+      "coalesce"
+    ],
+    "description": "The elvis package implements a 'truthy', 'ternary' and a 'coalesce' operator to Nim as syntactic sugar for working with conditional expressions",
+    "license": "MIT",
+    "web": "https://github.com/mattaylor/elvis"
+  },
+  {
     "name": "nimrun",
     "url": "https://github.com/lee-b/nimrun",
     "method": "git",
@@ -3371,15 +3410,16 @@
   },
   {
     "name": "lmdb",
-    "url": "https://github.com/fowlmouth/lmdb.nim",
+    "url": "https://github.com/FedericoCeratto/nim-lmdb",
     "method": "git",
     "tags": [
       "wrapper",
-      "lmdb"
+      "lmdb",
+      "key-value"
     ],
     "description": "A wrapper for LMDB the Lightning Memory-Mapped Database",
-    "license": "MIT",
-    "web": "https://github.com/fowlmouth/lmdb.nim"
+    "license": "OpenLDAP",
+    "web": "https://github.com/FedericoCeratto/nim-lmdb"
   },
   {
     "name": "zip",
@@ -5999,6 +6039,45 @@
     "web": "https://github.com/status-im/nim-json-serialization"
   },
   {
+    "name": "confutils",
+    "url": "https://github.com/status-im/nim-confutils",
+    "method": "git",
+    "tags": [
+      "library",
+      "configuration"
+    ],
+    "description": "Simplified handling of command line options and config files",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/status-im/nim-confutils"
+  },
+  {
+    "name": "std_shims",
+    "url": "https://github.com/status-im/nim-std-shims",
+    "method": "git",
+    "tags": [
+      "library",
+      "backports",
+      "shims"
+    ],
+    "description": "APIs available in the latests version of Nim, backported to older stable releases",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/status-im/nim-std-shims"
+  },
+  {
+    "name": "faststreams",
+    "url": "https://github.com/status-im/nim-faststreams",
+    "method": "git",
+    "tags": [
+      "library",
+      "I/O",
+      "memory-mapping",
+      "streams"
+    ],
+    "description": "RLP serialization library for Nim",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/status-im/nim-faststreams"
+  },
+  {
     "name": "rlp",
     "url": "https://github.com/status-im/nim-rlp",
     "method": "git",
@@ -7834,6 +7913,18 @@
     "description": "Image transformation and visualization utilities for arraymancer",
     "license": "Apache License 2.0",
     "web": "https://github.com/edubart/arraymancer-vision"
+  },
+  {
+    "name": "variantkey",
+    "url": "https://github.com/brentp/variantkey-nim",
+    "method": "git",
+    "tags": [
+      "vcf",
+      "variant",
+      "genomics"
+    ],
+    "description": "encode/decode variants to/from uint64",
+    "license": "MIT"
   },
   {
     "name": "genoiser",
@@ -11202,6 +11293,19 @@
     "web": "https://github.com/juancarlospaco/nim-usagov"
   },
   {
+    "name": "argparse",
+    "url": "https://github.com/iffy/nim-argparse",
+    "method": "git",
+    "tags": [
+      "cli",
+      "argparse",
+      "optparse"
+    ],
+    "description": "WIP strongly-typed argument parser with sub command support",
+    "license": "MIT",
+    "doc": "https://www.iffycan.com/nim-argparse/argparse.html"
+  },
+  {
     "name": "markdown",
     "url": "https://github.com/soasme/nim-markdown",
     "method": "git",
@@ -11393,6 +11497,19 @@
     "web": "https://github.com/jangko/snappy"
   },
   {
+    "name": "loadenv",
+    "url": "https://github.com/xmonader/nim-loadenv",
+    "method": "git",
+    "tags": [
+      "environment",
+      "variables",
+      "env"
+    ],
+    "description": "load .env variables",
+    "license": "MIT",
+    "web": "https://github.com/xmonader/nim-loadenv"
+  },
+  {
     "name": "osrm",
     "url": "https://github.com/juancarlospaco/nim-osrm",
     "method": "git",
@@ -11408,6 +11525,19 @@
     "description": "Open Source Routing Machine for OpenStreetMap API Lib and App",
     "license": "MIT",
     "web": "https://github.com/juancarlospaco/nim-osrm"
+  },
+  {
+    "name": "sharedmempool",
+    "url": "https://github.com/mikra01/sharedmempool",
+    "method": "git",
+    "tags": [
+      "pool",
+      "memory",
+      "thread"
+    ],
+    "description": "threadsafe memory pool ",
+    "license": "MIT",
+    "web": "https://github.com/mikra01/sharedmempool"
   },
   {
     "name": "css_html_minify",
@@ -11462,5 +11592,689 @@
     "description": "Simple web to share books, Calibre, Jester, Spectre CSS, No JavaScript, WebP & ZIP to reduce bandwidth",
     "license": "GPL",
     "web": "https://github.com/juancarlospaco/biblioteca-guarrilla"
+  },
+  {
+    "name": "nimzbar",
+    "url": "https://github.com/genotrance/nimzbar",
+    "method": "git",
+    "tags": [
+      "zbar",
+      "barcode",
+      "bar",
+      "code"
+    ],
+    "description": "zbar wrapper for Nim",
+    "license": "MIT",
+    "web": "https://github.com/genotrance/nimzbar"
+  },
+  {
+    "name": "nicy",
+    "url": "https://github.com/icyphox/nicy",
+    "method": "git",
+    "tags": [
+      "zsh",
+      "shell",
+      "prompt",
+      "git"
+    ],
+    "description": "A nice and icy ZSH prompt in Nim",
+    "license": "MIT",
+    "web": "https://github.com/icyphox/nicy"
+  },
+  {
+    "name": "replim",
+    "url": "https://github.com/gmshiba/replim",
+    "method": "git",
+    "tags": [
+      "repl",
+      "binary",
+      "program"
+    ],
+    "description": "most quick REPL of nim",
+    "license": "MIT",
+    "web": "https://github.com/gmshiba/replim"
+  },
+  {
+    "name": "nish",
+    "url": "https://github.com/owlinux1000/nish",
+    "method": "git",
+    "tags": [
+      "nish",
+      "shell"
+    ],
+    "description": "A Toy Shell Application",
+    "license": "MIT",
+    "web": "https://github.com/owlinux1000/nish"
+  },
+  {
+    "name": "backoff",
+    "url": "https://github.com/CORDEA/backoff",
+    "method": "git",
+    "tags": [
+      "exponential-backoff",
+      "backoff"
+    ],
+    "description": "Implementation of exponential backoff for nim",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/CORDEA/backoff"
+  },
+  {
+    "name": "asciitables",
+    "url": "https://github.com/xmonader/nim-asciitables",
+    "method": "git",
+    "tags": [
+      "ascii",
+      "terminal",
+      "tables",
+      "cli"
+    ],
+    "description": "terminal ascii tables for nim",
+    "license": "BSD-3-Clause",
+    "web": "https://github.com/xmonader/nim-asciitables"
+  },
+  {
+    "name": "open_elevation",
+    "url": "https://github.com/juancarlospaco/nim-open-elevation",
+    "method": "git",
+    "tags": [
+      "openstreetmap",
+      "geo",
+      "elevation",
+      "multisync",
+      "async"
+    ],
+    "description": "OpenStreetMap Elevation API MultiSync Client for Nim",
+    "license": "MIT",
+    "web": "https://github.com/juancarlospaco/nim-open-elevation"
+  },
+  {
+    "name": "gara",
+    "url": "https://github.com/alehander42/gara",
+    "method": "git",
+    "tags": [
+      "nim",
+      "pattern"
+    ],
+    "description": "A pattern matching library",
+    "license": "MIT",
+    "web": "https://github.com/alehander42/gara"
+  },
+  {
+    "name": "ws",
+    "url": "https://github.com/treeform/ws",
+    "method": "git",
+    "tags": [
+      "websocket"
+    ],
+    "description": "Simple WebSocket library for nim.",
+    "license": "MIT",
+    "web": "https://github.com/treeform/ws"
+  },
+  {
+    "name": "pg",
+    "url": "https://github.com/treeform/pg",
+    "method": "git",
+    "tags": [
+      "postgresql",
+      "db"
+    ],
+    "description": "Very simple PostgreSQL async api for nim.",
+    "license": "MIT",
+    "web": "https://github.com/treeform/pg"
+  },
+  {
+    "name": "bgfxdotnim",
+    "url": "https://github.com/zacharycarter/bgfx.nim",
+    "method": "git",
+    "tags": [
+      "bgfx",
+      "3d",
+      "vulkan",
+      "opengl",
+      "metal",
+      "directx"
+    ],
+    "description": "bindings to bgfx c99 api",
+    "license": "MIT",
+    "web": "https://github.com/zacharycarter/bgfx.nim"
+  },
+  {
+    "name": "niledb",
+    "url": "https://github.com/JeffersonLab/niledb.git",
+    "method": "git",
+    "tags": [
+      "db"
+    ],
+    "description": "Key/Value storage into a fast file-hash",
+    "license": "MIT",
+    "web": "https://github.com/JeffersonLab/niledb.git"
+  },
+  {
+    "name": "siphash",
+    "url": "https://github.com/ehmry/nim-siphash",
+    "method": "git",
+    "tags": [
+      "hash",
+      "siphash"
+    ],
+    "description": "SipHash, a pseudorandom function optimized for short messages.",
+    "license": "GPLv3",
+    "web": "https://github.com/ehmry/nim-siphash"
+  },
+  {
+    "name": "haraka",
+    "url": "https://github.com/ehmry/nim-haraka",
+    "method": "git",
+    "tags": [
+      "hash",
+      "haraka"
+    ],
+    "description": "Haraka v2 short-input hash function",
+    "license": "MIT",
+    "web": "https://github.com/ehmry/nim-haraka"
+  },
+  {
+    "name": "genode",
+    "url": "https://github.com/ehmry/nim-genode",
+    "method": "git",
+    "tags": [
+      "genode",
+      "system"
+    ],
+    "description": "System libraries for the Genode Operating System Framework",
+    "license": "AGPLv3",
+    "web": "https://github.com/ehmry/nim-genode"
+  },
+  {
+    "name": "moe",
+    "url": "https://github.com/fox0430/moe",
+    "method": "git",
+    "tags": [
+      "console",
+      "command-line",
+      "editor",
+      "text",
+      "cli"
+    ],
+    "description": "A command lined based text editor",
+    "license": "GPLv3",
+    "web": "https://github.com/fox0430/moe"
+  },
+  {
+    "name": "gatabase",
+    "url": "https://github.com/juancarlospaco/nim-gatabase",
+    "method": "git",
+    "tags": [
+      "database",
+      "orm",
+      "postgres",
+      "sql"
+    ],
+    "description": "Postgres Database ORM for Nim",
+    "license": "MIT",
+    "web": "https://github.com/juancarlospaco/nim-gatabase"
+  },
+  {
+    "name": "timespec_get",
+    "url": "https://github.com/Matceporial/nim-timespec_get",
+    "method": "git",
+    "tags": [
+      "time",
+      "timespec_get"
+    ],
+    "description": "Nanosecond-percision time using timespec_get",
+    "license": "0BSD",
+    "web": "https://github.com/Matceporial/nim-timespec_get"
+  },
+  {
+    "name": "urand",
+    "url": "https://github.com/Matceporial/nim-urand",
+    "method": "git",
+    "tags": [
+      "random",
+      "urandom",
+      "crypto"
+    ],
+    "description": "Simple method of obtaining secure random numbers from the OS",
+    "license": "MIT",
+    "web": "https://github.com/Matceporial/nim-urand"
+  },
+  {
+    "name": "awslambda",
+    "url": "https://github.com/lambci/awslambda.nim",
+    "method": "git",
+    "tags": [
+      "aws",
+      "lambda"
+    ],
+    "description": "A package to compile nim functions for AWS Lambda",
+    "license": "MIT",
+    "web": "https://github.com/lambci/awslambda.nim"
+  },
+  {
+    "name": "vec",
+    "url": "https://github.com/dom96/vec",
+    "method": "git",
+    "tags": [
+      "vector",
+      "library",
+      "simple"
+    ],
+    "description": "A very simple vector library",
+    "license": "MIT",
+    "web": "https://github.com/dom96/vec"
+  },
+  {
+    "name": "nimgui",
+    "url": "https://github.com/zacharycarter/nimgui",
+    "method": "git",
+    "tags": [
+      "imgui",
+      "gui",
+      "game"
+    ],
+    "description": "bindings to cimgui - https://github.com/cimgui/cimgui",
+    "license": "MIT",
+    "web": "https://github.com/zacharycarter/nimgui"
+  },
+  {
+    "name": "unpack",
+    "url": "https://github.com/technicallyagd/unpack",
+    "method": "git",
+    "tags": [
+      "unpack",
+      "seq",
+      "array",
+      "object",
+      "destructuring",
+      "destructure",
+      "unpacking"
+    ],
+    "description": "Array/Sequence/Object destructuring/unpacking macro",
+    "license": "MIT",
+    "web": "https://github.com/technicallyagd/unpack"
+  },
+  {
+    "name": "treesitter",
+    "url": "https://github.com/genotrance/nimtreesitter?subdir=treesitter",
+    "method": "git",
+    "tags": [
+      "tree-sitter",
+      "parser",
+      "language",
+      "code"
+    ],
+    "description": "Nim wrapper of the tree-sitter incremental parsing library",
+    "license": "MIT",
+    "web": "https://github.com/genotrance/nimtreesitter"
+  },
+  {
+    "name": "treesitter_agda",
+    "url": "https://github.com/genotrance/nimtreesitter?subdir=treesitter_agda",
+    "method": "git",
+    "tags": [
+      "tree-sitter",
+      "agda",
+      "parser",
+      "language",
+      "code"
+    ],
+    "description": "Nim wrapper for Agda language support within tree-sitter",
+    "license": "MIT",
+    "web": "https://github.com/genotrance/nimtreesitter"
+  },
+  {
+    "name": "treesitter_bash",
+    "url": "https://github.com/genotrance/nimtreesitter?subdir=treesitter_bash",
+    "method": "git",
+    "tags": [
+      "tree-sitter",
+      "bash",
+      "parser",
+      "language",
+      "code"
+    ],
+    "description": "Nim wrapper for Bash language support within tree-sitter",
+    "license": "MIT",
+    "web": "https://github.com/genotrance/nimtreesitter"
+  },
+  {
+    "name": "treesitter_c",
+    "url": "https://github.com/genotrance/nimtreesitter?subdir=treesitter_c",
+    "method": "git",
+    "tags": [
+      "tree-sitter",
+      "c",
+      "parser",
+      "language",
+      "code"
+    ],
+    "description": "Nim wrapper for C language support within tree-sitter",
+    "license": "MIT",
+    "web": "https://github.com/genotrance/nimtreesitter"
+  },
+  {
+    "name": "treesitter_c_sharp",
+    "url": "https://github.com/genotrance/nimtreesitter?subdir=treesitter_c_sharp",
+    "method": "git",
+    "tags": [
+      "tree-sitter",
+      "C#",
+      "parser",
+      "language",
+      "code"
+    ],
+    "description": "Nim wrapper for C# language support within tree-sitter",
+    "license": "MIT",
+    "web": "https://github.com/genotrance/nimtreesitter"
+  },
+  {
+    "name": "treesitter_cpp",
+    "url": "https://github.com/genotrance/nimtreesitter?subdir=treesitter_cpp",
+    "method": "git",
+    "tags": [
+      "tree-sitter",
+      "cpp",
+      "parser",
+      "language",
+      "code"
+    ],
+    "description": "Nim wrapper for C++ language support within tree-sitter",
+    "license": "MIT",
+    "web": "https://github.com/genotrance/nimtreesitter"
+  },
+  {
+    "name": "treesitter_css",
+    "url": "https://github.com/genotrance/nimtreesitter?subdir=treesitter_css",
+    "method": "git",
+    "tags": [
+      "tree-sitter",
+      "css",
+      "parser",
+      "language",
+      "code"
+    ],
+    "description": "Nim wrapper for CSS language support within tree-sitter",
+    "license": "MIT",
+    "web": "https://github.com/genotrance/nimtreesitter"
+  },
+  {
+    "name": "treesitter_go",
+    "url": "https://github.com/genotrance/nimtreesitter?subdir=treesitter_go",
+    "method": "git",
+    "tags": [
+      "tree-sitter",
+      "go",
+      "parser",
+      "language",
+      "code"
+    ],
+    "description": "Nim wrapper for Go language support within tree-sitter",
+    "license": "MIT",
+    "web": "https://github.com/genotrance/nimtreesitter"
+  },
+  {
+    "name": "treesitter_haskell",
+    "url": "https://github.com/genotrance/nimtreesitter?subdir=treesitter_haskell",
+    "method": "git",
+    "tags": [
+      "tree-sitter",
+      "haskell",
+      "parser",
+      "language",
+      "code"
+    ],
+    "description": "Nim wrapper for Haskell language support within tree-sitter",
+    "license": "MIT",
+    "web": "https://github.com/genotrance/nimtreesitter"
+  },
+  {
+    "name": "treesitter_html",
+    "url": "https://github.com/genotrance/nimtreesitter?subdir=treesitter_html",
+    "method": "git",
+    "tags": [
+      "tree-sitter",
+      "html",
+      "parser",
+      "language",
+      "code"
+    ],
+    "description": "Nim wrapper for HTML language support within tree-sitter",
+    "license": "MIT",
+    "web": "https://github.com/genotrance/nimtreesitter"
+  },
+  {
+    "name": "treesitter_java",
+    "url": "https://github.com/genotrance/nimtreesitter?subdir=treesitter_java",
+    "method": "git",
+    "tags": [
+      "tree-sitter",
+      "java",
+      "parser",
+      "language",
+      "code"
+    ],
+    "description": "Nim wrapper for Java language support within tree-sitter",
+    "license": "MIT",
+    "web": "https://github.com/genotrance/nimtreesitter"
+  },
+  {
+    "name": "treesitter_javascript",
+    "url": "https://github.com/genotrance/nimtreesitter?subdir=treesitter_javascript",
+    "method": "git",
+    "tags": [
+      "tree-sitter",
+      "javascript",
+      "parser",
+      "language",
+      "code"
+    ],
+    "description": "Nim wrapper for Javascript language support within tree-sitter",
+    "license": "MIT",
+    "web": "https://github.com/genotrance/nimtreesitter"
+  },
+  {
+    "name": "treesitter_ocaml",
+    "url": "https://github.com/genotrance/nimtreesitter?subdir=treesitter_ocaml",
+    "method": "git",
+    "tags": [
+      "tree-sitter",
+      "ocaml",
+      "parser",
+      "language",
+      "code"
+    ],
+    "description": "Nim wrapper for OCaml language support within tree-sitter",
+    "license": "MIT",
+    "web": "https://github.com/genotrance/nimtreesitter"
+  },
+  {
+    "name": "treesitter_php",
+    "url": "https://github.com/genotrance/nimtreesitter?subdir=treesitter_php",
+    "method": "git",
+    "tags": [
+      "tree-sitter",
+      "php",
+      "parser",
+      "language",
+      "code"
+    ],
+    "description": "Nim wrapper for PHP language support within tree-sitter",
+    "license": "MIT",
+    "web": "https://github.com/genotrance/nimtreesitter"
+  },
+  {
+    "name": "treesitter_python",
+    "url": "https://github.com/genotrance/nimtreesitter?subdir=treesitter_python",
+    "method": "git",
+    "tags": [
+      "tree-sitter",
+      "python",
+      "parser",
+      "language",
+      "code"
+    ],
+    "description": "Nim wrapper for Python language support within tree-sitter",
+    "license": "MIT",
+    "web": "https://github.com/genotrance/nimtreesitter"
+  },
+  {
+    "name": "treesitter_ruby",
+    "url": "https://github.com/genotrance/nimtreesitter?subdir=treesitter_ruby",
+    "method": "git",
+    "tags": [
+      "tree-sitter",
+      "ruby",
+      "parser",
+      "language",
+      "code"
+    ],
+    "description": "Nim wrapper for Ruby language support within tree-sitter",
+    "license": "MIT",
+    "web": "https://github.com/genotrance/nimtreesitter"
+  },
+  {
+    "name": "treesitter_rust",
+    "url": "https://github.com/genotrance/nimtreesitter?subdir=treesitter_rust",
+    "method": "git",
+    "tags": [
+      "tree-sitter",
+      "rust",
+      "parser",
+      "language",
+      "code"
+    ],
+    "description": "Nim wrapper for Rust language support within tree-sitter",
+    "license": "MIT",
+    "web": "https://github.com/genotrance/nimtreesitter"
+  },
+  {
+    "name": "treesitter_scala",
+    "url": "https://github.com/genotrance/nimtreesitter?subdir=treesitter_scala",
+    "method": "git",
+    "tags": [
+      "tree-sitter",
+      "scala",
+      "parser",
+      "language",
+      "code"
+    ],
+    "description": "Nim wrapper for Scala language support within tree-sitter",
+    "license": "MIT",
+    "web": "https://github.com/genotrance/nimtreesitter"
+  },
+  {
+    "name": "treesitter_typescript",
+    "url": "https://github.com/genotrance/nimtreesitter?subdir=treesitter_typescript",
+    "method": "git",
+    "tags": [
+      "tree-sitter",
+      "typescript",
+      "parser",
+      "language",
+      "code"
+    ],
+    "description": "Nim wrapper for Typescript language support within tree-sitter",
+    "license": "MIT",
+    "web": "https://github.com/genotrance/nimtreesitter"
+  },
+  {
+    "name": "nimterop",
+    "url": "https://github.com/genotrance/nimterop",
+    "method": "git",
+    "tags": [
+      "c",
+      "c++",
+      "c2nim",
+      "interop",
+      "parser",
+      "language",
+      "code"
+    ],
+    "description": "Nimterop makes C/C++ interop within Nim seamless",
+    "license": "MIT",
+    "web": "https://github.com/genotrance/nimtreesitter"
+  },
+  {
+    "name": "ringDeque",
+    "url": "https://github.com/technicallyagd/ringDeque",
+    "method": "git",
+    "tags": [
+      "deque",
+      "DoublyLinkedRing",
+      "utility",
+      "python"
+    ],
+    "description": "deque implementatoin using DoublyLinkedRing",
+    "license": "MIT",
+    "web": "https://github.com/technicallyagd/ringDeque"
+  },
+  {
+    "name": "nimfuzzy",
+    "url": "https://github.com/genotrance/nimfuzzy",
+    "method": "git",
+    "tags": [
+      "fuzzy",
+      "search",
+      "match",
+      "fts"
+    ],
+    "description": "Fuzzy search wrapper for Nim",
+    "license": "MIT",
+    "web": "https://github.com/genotrance/nimfuzzy"
+  },
+  {
+    "name": "nimassets",
+    "url": "https://github.com/xmonader/nimassets",
+    "method": "git",
+    "tags": [
+      "assets",
+      "bundle",
+      "go-bindata",
+      "resources"
+    ],
+    "description": "bundle your assets to a nim",
+    "license": "MIT",
+    "web": "https://github.com/xmonader/nimassets"
+  },
+  {
+    "name": "loco",
+    "url": "https://github.com/moigagoo/loco",
+    "method": "git",
+    "tags": [
+      "localization",
+      "translation",
+      "internationalization",
+      "i18n"
+    ],
+    "description": "Localization package for Nim.",
+    "license": "MIT",
+    "web": "https://github.com/moigagoo/loco"
+  },
+  {
+    "name": "nim_miniz",
+    "url": "https://github.com/h3rald/nim-miniz",
+    "method": "git",
+    "tags": [
+      "zip",
+      "compression",
+      "wrapper",
+      "miniz"
+    ],
+    "description": "Nim wrapper for miniz",
+    "license": "MIT",
+    "web": "https://github.com/h3rald/nim-miniz"
+  },
+  {
+    "name": "bncurve",
+    "url": "https://github.com/status-im/nim-bncurve",
+    "method": "git",
+    "tags": [
+      "library",
+      "cryptography"
+    ],
+    "description": "pure Nim implementation of Barreto-Naehrig pairing-friendly elliptic curve cryptography",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/status-im/nim-bncurve"
   }
 ]
