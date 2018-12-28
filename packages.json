@@ -12263,5 +12263,21 @@
     "description": "pure Nim implementation of Barreto-Naehrig pairing-friendly elliptic curve cryptography",
     "license": "Apache License 2.0",
     "web": "https://github.com/status-im/nim-bncurve"
+  },
+  {
+    "name": "unsplash",
+    "url": "https://github.com/juancarlospaco/nim-unsplash",
+    "method": "git",
+    "tags": [
+      "unsplash",
+      "photos",
+      "images",
+      "async",
+      "multisync",
+      "photography"
+    ],
+    "description": "Unsplash API Client for Nim",
+    "license": "MIT",
+    "web": "https://github.com/juancarlospaco/nim-unsplash"
   }
 ]
