@@ -12306,5 +12306,20 @@
     "description": "Unsplash API Client for Nim",
     "license": "MIT",
     "web": "https://github.com/juancarlospaco/nim-unsplash"
+  },
+  {
+    "name": "steam",
+    "url": "https://github.com/juancarlospaco/nim-steam",
+    "method": "git",
+    "tags": [
+      "steam",
+      "game",
+      "gaming",
+      "async",
+      "multisync"
+    ],
+    "description": "Steam API Client for Nim",
+    "license": "MIT",
+    "web": "https://github.com/juancarlospaco/nim-steam"
   }
 ]
