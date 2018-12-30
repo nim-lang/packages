@@ -12321,5 +12321,20 @@
     "description": "Steam API Client for Nim",
     "license": "MIT",
     "web": "https://github.com/juancarlospaco/nim-steam"
+  },
+  {
+    "name": "itchio",
+    "url": "https://github.com/juancarlospaco/nim-itchio",
+    "method": "git",
+    "tags": [
+      "itchio",
+      "game",
+      "gaming",
+      "async",
+      "multisync"
+    ],
+    "description": "itch.io API Client for Nim",
+    "license": "MIT",
+    "web": "https://github.com/juancarlospaco/nim-itchio"
   }
 ]
