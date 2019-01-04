@@ -12336,5 +12336,18 @@
     "description": "itch.io API Client for Nim",
     "license": "MIT",
     "web": "https://github.com/juancarlospaco/nim-itchio"
+  },
+  {
+    "name": "suggest",
+    "url": "https://github.com/c-blake/suggest.git",
+    "method": "git",
+    "tags": [
+      "library",
+      "spell-check",
+      "edit-distance"
+    ],
+    "description": "mmap-persistent SymSpell spell checking algorithm",
+    "license": "MIT",
+    "web": "https://github.com/c-blake/suggest.git"
   }
 ]
