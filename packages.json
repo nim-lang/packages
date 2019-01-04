@@ -12336,5 +12336,19 @@
     "description": "itch.io API Client for Nim",
     "license": "MIT",
     "web": "https://github.com/juancarlospaco/nim-itchio"
+  },
+  {
+    "name": "gurl",
+    "url": "https://github.com/MaxUNof/gurl",
+    "method": "git",
+    "tags": [
+      "tags",
+      "http",
+      "generating",
+      "url"
+    ],
+    "description": "A little lib for generating URL with args.",
+    "license": "MIT",
+    "web": "https://github.com/MaxUNof/gurl"
   }
 ]
