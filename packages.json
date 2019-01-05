@@ -269,6 +269,10 @@
   },
   {
     "name": "nim-locale",
+    "alias": "locale"
+  },
+  {
+    "name": "locale",
     "url": "https://github.com/Amrykid/nim-locale/",
     "method": "git",
     "tags": [
@@ -328,16 +332,7 @@
   },
   {
     "name": "chipmunk",
-    "url": "https://github.com/fowlmouth/nimrod-chipmunk/",
-    "method": "git",
-    "tags": [
-      "library",
-      "physics",
-      "game"
-    ],
-    "description": "Bindings for Chipmunk2D 6.x physics library (for backwards compatibility)",
-    "license": "MIT",
-    "web": "https://github.com/fowlmouth/nimrod-chipmunk"
+    "alias": "chipmunk6"
   },
   {
     "name": "chipmunk6",
@@ -386,6 +381,10 @@
   },
   {
     "name": "nim-ao",
+    "alias": "ao"
+  },
+  {
+    "name": "ao",
     "url": "https://github.com/ephja/nim-ao",
     "method": "git",
     "tags": [
@@ -816,20 +815,7 @@
   },
   {
     "name": "nim-ogg",
-    "url": "https://bitbucket.org/BitPuffin/nim-ogg",
-    "method": "hg",
-    "tags": [
-      "library",
-      "wrapper",
-      "binding",
-      "audio",
-      "sound",
-      "video",
-      "metadata",
-      "media"
-    ],
-    "description": "Binding to libogg",
-    "license": "CC0"
+    "alias": "ogg"
   },
   {
     "name": "ogg",
@@ -850,19 +836,7 @@
   },
   {
     "name": "nim-vorbis",
-    "url": "https://bitbucket.org/BitPuffin/nim-vorbis",
-    "method": "hg",
-    "tags": [
-      "library",
-      "wrapper",
-      "binding",
-      "audio",
-      "sound",
-      "metadata",
-      "media"
-    ],
-    "description": "Binding to libvorbis",
-    "license": "CC0"
+    "alias": "vorbis"
   },
   {
     "name": "vorbis",
@@ -882,19 +856,7 @@
   },
   {
     "name": "nim-portaudio",
-    "url": "https://bitbucket.org/BitPuffin/nim-portaudio",
-    "method": "hg",
-    "tags": [
-      "library",
-      "wrapper",
-      "binding",
-      "audio",
-      "sound",
-      "media",
-      "io"
-    ],
-    "description": "Binding to portaudio",
-    "license": "CC0"
+    "alias": "portaudio"
   },
   {
     "name": "portaudio",
@@ -2013,16 +1975,7 @@
   },
   {
     "name": "nim-libclang",
-    "url": "https://github.com/cowboy-coders/nim-libclang.git",
-    "method": "git",
-    "tags": [
-      "wrapper",
-      "bindings",
-      "clang"
-    ],
-    "description": "Please use libclang instead.",
-    "license": "MIT",
-    "web": "https://github.com/cowboy-coders/nim-libclang"
+    "alias": "libclang"
   },
   {
     "name": "nimqml",
@@ -2702,6 +2655,10 @@
   },
   {
     "name": "nim-geocoding",
+    "alias": "geocoding"
+  },
+  {
+    "name": "geocoding",
     "url": "https://github.com/saratchandra92/nim-geocoding",
     "method": "git",
     "tags": [
@@ -4776,17 +4733,7 @@
   },
   {
     "name": "nimyaml",
-    "url": "https://github.com/flyx/NimYAML",
-    "method": "git",
-    "tags": [
-      "serialization",
-      "parsing",
-      "library",
-      "yaml"
-    ],
-    "description": "YAML 1.2 implementation for Nim",
-    "license": "MIT",
-    "web": "http://flyx.github.io/NimYAML/"
+    "alias": "yaml"
   },
   {
     "name": "jsmn",
