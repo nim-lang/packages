@@ -12377,6 +12377,19 @@
     "web": "https://github.com/MaxUNof/gurl"
   },
   {
+    "name": "wren",
+    "url": "https://github.com/geotre/wren",
+    "method": "git",
+    "tags": [
+      "wren",
+      "scripting",
+      "interpreter"
+    ],
+    "description": "A nim wrapper for Wren, an embedded scripting language",
+    "license": "MIT",
+    "web": "https://github.com/geotre/wren"
+  },
+  {
     "name": "tiny_sqlite",
     "url": "https://github.com/GULPF/tiny_sqlite",
     "method": "git",
