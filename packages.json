@@ -12349,5 +12349,31 @@
     "description": "mmap-persistent SymSpell spell checking algorithm",
     "license": "MIT",
     "web": "https://github.com/c-blake/suggest.git"
+  },
+  {
+    "name": "gurl",
+    "url": "https://github.com/MaxUNof/gurl",
+    "method": "git",
+    "tags": [
+      "tags",
+      "http",
+      "generating",
+      "url"
+    ],
+    "description": "A little lib for generating URL with args.",
+    "license": "MIT",
+    "web": "https://github.com/MaxUNof/gurl"
+  },
+  {
+    "name": "tiny_sqlite",
+    "url": "https://github.com/GULPF/tiny_sqlite",
+    "method": "git",
+    "tags": [
+      "database",
+      "sqlite"
+    ],
+    "description": "A thin SQLite wrapper with proper type safety",
+    "license": "MIT",
+    "web": "https://github.com/GULPF/tiny_sqlite"
   }
 ]
