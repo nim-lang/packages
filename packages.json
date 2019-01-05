@@ -11895,6 +11895,18 @@
     "web": "https://github.com/technicallyagd/unpack"
   },
   {
+    "name": "nsh",
+    "url": "https://github.com/gmshiba/nish",
+    "method": "git",
+    "tags": [
+      "shell",
+      "repl"
+    ],
+    "description": "nsh: Nim SHell(cross platform)",
+    "license": "MIT",
+    "web": "https://github.com/gmshiba/nish"
+  },
+  {
     "name": "nimfastText",
     "url": "https://github.com/genotrance/nimfastText",
     "method": "git",
