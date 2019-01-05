@@ -11895,6 +11895,18 @@
     "web": "https://github.com/technicallyagd/unpack"
   },
   {
+    "name": "nsh",
+    "url": "https://github.com/gmshiba/nish",
+    "method": "git",
+    "tags": [
+      "shell",
+      "repl"
+    ],
+    "description": "nsh: Nim SHell(cross platform)",
+    "license": "MIT",
+    "web": "https://github.com/gmshiba/nish"
+  },
+  {
     "name": "nimfastText",
     "url": "https://github.com/genotrance/nimfastText",
     "method": "git",
@@ -12338,6 +12350,19 @@
     "web": "https://github.com/juancarlospaco/nim-itchio"
   },
   {
+    "name": "suggest",
+    "url": "https://github.com/c-blake/suggest.git",
+    "method": "git",
+    "tags": [
+      "library",
+      "spell-check",
+      "edit-distance"
+    ],
+    "description": "mmap-persistent SymSpell spell checking algorithm",
+    "license": "MIT",
+    "web": "https://github.com/c-blake/suggest.git"
+  },
+  {
     "name": "gurl",
     "url": "https://github.com/MaxUNof/gurl",
     "method": "git",
@@ -12363,5 +12388,17 @@
     "description": "A nim wrapper for Wren, an embedded scripting language",
     "license": "MIT",
     "web": "https://github.com/geotre/wren"
+  },
+  {
+    "name": "tiny_sqlite",
+    "url": "https://github.com/GULPF/tiny_sqlite",
+    "method": "git",
+    "tags": [
+      "database",
+      "sqlite"
+    ],
+    "description": "A thin SQLite wrapper with proper type safety",
+    "license": "MIT",
+    "web": "https://github.com/GULPF/tiny_sqlite"
   }
 ]
