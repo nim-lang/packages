@@ -12338,6 +12338,19 @@
     "web": "https://github.com/juancarlospaco/nim-itchio"
   },
   {
+    "name": "suggest",
+    "url": "https://github.com/c-blake/suggest.git",
+    "method": "git",
+    "tags": [
+      "library",
+      "spell-check",
+      "edit-distance"
+    ],
+    "description": "mmap-persistent SymSpell spell checking algorithm",
+    "license": "MIT",
+    "web": "https://github.com/c-blake/suggest.git"
+  },
+  {
     "name": "gurl",
     "url": "https://github.com/MaxUNof/gurl",
     "method": "git",
