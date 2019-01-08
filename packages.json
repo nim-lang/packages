@@ -1161,6 +1161,19 @@
     "web": "https://github.com/PMunch/jsonschema"
   },
   {
+    "name": "nimlsp",
+    "url": "https://github.com/PMunch/nimlsp",
+    "method": "git",
+    "tags": [
+      "lsp",
+      "nimsuggest",
+      "editor"
+    ],
+    "description": "Language Server Protocol implementation for Nim",
+    "license": "MIT",
+    "web": "https://github.com/PMunch/nimlsp"
+  },
+  {
     "name": "sdl2_nim",
     "url": "https://github.com/Vladar4/sdl2_nim",
     "method": "git",
