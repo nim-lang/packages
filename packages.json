@@ -12360,5 +12360,57 @@
     "description": "A SQLbuilder with support for NULL values",
     "license": "MIT",
     "web": "https://github.com/ThomasTJdev/nim_sqlbuilder"
+  },
+  {
+    "name": "subexes",
+    "url": "https://github.com/nim-lang/graveyard?subdir=subexes",
+    "method": "git",
+    "tags": [
+      "graveyard",
+      "subexes",
+      "substitution expression"
+    ],
+    "description": "Nim support for substitution expressions",
+    "license": "MIT",
+    "web": "https://github.com/nim-lang/graveyard/tree/master/subexes"
+  },
+  {
+    "name": "scgi",
+    "url": "https://github.com/nim-lang/graveyard?subdir=scgi",
+    "method": "git",
+    "tags": [
+      "graveyard",
+      "scgi",
+      "cgi"
+    ],
+    "description": "Helper procs for SCGI applications",
+    "license": "MIT",
+    "web": "https://github.com/nim-lang/graveyard/tree/master/scgi"
+  },
+  {
+    "name": "smtp",
+    "url": "https://github.com/nim-lang/graveyard?subdir=smtp",
+    "method": "git",
+    "tags": [
+      "graveyard",
+      "smtp",
+      "mail"
+    ],
+    "description": "SMTP client protocol",
+    "license": "MIT",
+    "web": "https://github.com/nim-lang/graveyard/tree/master/smtp"
+  },
+  {
+    "name": "oids",
+    "url": "https://github.com/nim-lang/graveyard?subdir=oids",
+    "method": "git",
+    "tags": [
+      "graveyard",
+      "oid",
+      "oids"
+    ],
+    "description": "Nim OID support",
+    "license": "MIT",
+    "web": "https://github.com/nim-lang/graveyard/tree/master/oids"
   }
 ]
