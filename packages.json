@@ -12375,6 +12375,45 @@
     "web": "https://github.com/nim-lang/graveyard/tree/master/subexes"
   },
   {
+    "name": "complex",
+    "url": "https://github.com/nim-lang/graveyard?subdir=complex",
+    "method": "git",
+    "tags": [
+      "graveyard",
+      "complex",
+      "math"
+    ],
+    "description": "The ex-stdlib module complex.",
+    "license": "MIT",
+    "web": "https://github.com/nim-lang/graveyard/tree/master/complex"
+  },
+  {
+    "name": "fsmonitor",
+    "url": "https://github.com/nim-lang/graveyard?subdir=fsmonitor",
+    "method": "git",
+    "tags": [
+      "graveyard",
+      "fsmonitor",
+      "asyncio"
+    ],
+    "description": "The ex-stdlib module fsmonitor.",
+    "license": "MIT",
+    "web": "https://github.com/nim-lang/graveyard/tree/master/fsmonitor"
+  },
+  {
+    "name": "cookies",
+    "url": "https://github.com/nim-lang/graveyard?subdir=cookies",
+    "method": "git",
+    "tags": [
+      "graveyard",
+      "cookies",
+      "parsing"
+    ],
+    "description": "Helper procs for parsing cookies",
+    "license": "MIT",
+    "web": "https://github.com/nim-lang/graveyard/tree/master/cookies"
+  },
+  {
     "name": "scgi",
     "url": "https://github.com/nim-lang/graveyard?subdir=scgi",
     "method": "git",
