@@ -12425,5 +12425,18 @@
     "description": "Helper procs for SCGI applications",
     "license": "MIT",
     "web": "https://github.com/nim-lang/graveyard/tree/master/scgi"
+  },
+  {
+    "name": "cppstl",
+    "url": "https://github.com/BigEpsilon/nim-cppstl",
+    "method": "git",
+    "tags": [
+      "c++",
+      "stl",
+      "bindings"
+    ],
+    "description": "Bindings for the C++ Standard Template Library (STL)",
+    "license": "MIT",
+    "web": "https://github.com/BigEpsilon/nim-cppstl"
   }
 ]
