@@ -12444,7 +12444,7 @@
     "url": "https://github.com/calebwin/pipelines",
     "method": "git",
     "tags": [
-      "python:,
+      "python",
       "pipeline",
       "pipelines",
       "data",
