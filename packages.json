@@ -12438,5 +12438,21 @@
     "description": "Bindings for the C++ Standard Template Library (STL)",
     "license": "MIT",
     "web": "https://github.com/BigEpsilon/nim-cppstl"
+  },
+  {
+    "name": "pipelines",
+    "url": "https://github.com/calebwin/pipelines",
+    "method": "git",
+    "tags": [
+      "python",
+      "pipeline",
+      "pipelines",
+      "data",
+      "parallel"
+    ],
+    "description": "A tiny framework & language for crafting massively parallel data pipelines",
+    "license": "MIT",
+    "web": "https://github.com/calebwin/pipelines",
+    "doc": "https://github.com/calebwin/pipelines"
   }
 ]
