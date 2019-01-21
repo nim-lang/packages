@@ -10120,7 +10120,7 @@
   },
   {
     "name": "BN",
-    "url": "https://github.com/EmberCrypto/BN",
+    "url": "https://github.com/MerosCrypto/BN",
     "method": "git",
     "tags": [
       "bignumber",
@@ -10727,7 +10727,11 @@
   },
   {
     "name": "ec_events",
-    "url": "https://github.com/EmberCrypto/ec_events",
+    "alias": "mc_events"
+  },
+  {
+    "name": "mc_events",
+    "url": "https://github.com/MerosCrypto/mc_events",
     "method": "git",
     "tags": [
       "events",
