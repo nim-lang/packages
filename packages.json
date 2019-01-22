@@ -10293,6 +10293,21 @@
     "web": "https://github.com/fragcolor-xyz/fragments"
   },
   {
+    "name": "nimline",
+    "url": "https://github.com/fragcolor-xyz/nimline",
+    "method": "git",
+    "tags": [
+      "c",
+      "c++",
+      "interop",
+      "ffi",
+      "wrappers"
+    ],
+    "description": "Wrapper-less C/C++ interop for Nim",
+    "license": "MIT",
+    "web": "https://github.com/fragcolor-xyz/nimline"
+  },
+  {
     "name": "nim_telegram_bot",
     "url": "https://github.com/juancarlospaco/nim-telegram-bot",
     "method": "git",
