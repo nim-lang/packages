@@ -12484,5 +12484,21 @@
     "description": "Package for packing and unpacking byte data",
     "license": "MIT",
     "web": "https://github.com/Riderfighter/binio"
+  },
+  {
+    "name": "ladder",
+    "url": "https://gitlab.com/ryukoposting/nim-ladder",
+    "method": "git",
+    "tags": [
+      "ladder",
+      "logic",
+      "PLC",
+      "state",
+      "machine",
+      "ryukoposting"
+    ],
+    "description": "Ladder logic macros for Nim",
+    "license": "Apache-2.0",
+    "web": "https://gitlab.com/ryukoposting/nim-ladder"
   }
 ]
