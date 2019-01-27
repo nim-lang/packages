@@ -12515,5 +12515,20 @@
     "description": "Ladder logic macros for Nim",
     "license": "Apache-2.0",
     "web": "https://gitlab.com/ryukoposting/nim-ladder"
+  },
+  {
+    "name": "cassette",
+    "url": "https://github.com/LemonBoy/cassette",
+    "method": "git",
+    "tags": [
+      "http",
+      "network",
+      "test",
+      "mock",
+      "requests"
+    ],
+    "description": "Record and replay your HTTP sessions!",
+    "license": "MIT",
+    "web": "https://github.com/LemonBoy/cassette"
   }
 ]
