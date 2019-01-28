@@ -12544,5 +12544,17 @@
     "description": "Internationalization at Compile Time for Nim. Macro to translate unmodified code from 1 INI file. NimScript compatible.",
     "license": "MIT",
     "web": "https://github.com/juancarlospaco/nim-internimgua"
+  },
+  {
+    "name": "with",
+    "url": "https://github.com/zevv/with",
+    "method": "git",
+    "tags": [
+      "with",
+      "macro"
+    ],
+    "description": "Simple 'with' macro for Nim",
+    "license": "MIT",
+    "web": "https://github.com/zevv/with"
   }
 ]
