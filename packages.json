@@ -12530,5 +12530,19 @@
     "description": "Record and replay your HTTP sessions!",
     "license": "MIT",
     "web": "https://github.com/LemonBoy/cassette"
+  },
+  {
+    "name": "nimterlingua",
+    "url": "https://github.com/juancarlospaco/nim-internimgua",
+    "method": "git",
+    "tags": [
+      "internationalization",
+      "i18n",
+      "localization",
+      "translation"
+    ],
+    "description": "Internationalization at Compile Time for Nim. Macro to translate unmodified code from 1 INI file. NimScript compatible.",
+    "license": "MIT",
+    "web": "https://github.com/juancarlospaco/nim-internimgua"
   }
 ]
