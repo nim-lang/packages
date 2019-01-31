@@ -12556,5 +12556,22 @@
     "description": "Simple 'with' macro for Nim",
     "license": "MIT",
     "web": "https://github.com/zevv/with"
+  },
+  {
+    "name": "lastfm",
+    "url": "https://gitlab.com/ryukoposting/lastfm-nim",
+    "method": "git",
+    "tags": [
+      "last.fm",
+      "lastfm",
+      "music",
+      "metadata",
+      "api",
+      "async",
+      "ryukoposting"
+    ],
+    "description": "Last.FM API breakouts (documentation: http://ryuk.ooo/nimdocs/lastfm/lastfm.html)",
+    "license": "Apache-2.0",
+    "web": "https://gitlab.com/ryukoposting/lastfm-nim"
   }
 ]
