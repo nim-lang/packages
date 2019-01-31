@@ -12562,12 +12562,12 @@
     "url": "https://gitlab.com/ryukoposting/lastfm-nim",
     "method": "git",
     "tags": [
-      "last.fm,",
-      "lastfm,",
-      "music,",
-      "metadata,",
-      "api,",
-      "async,",
+      "last.fm",
+      "lastfm",
+      "music",
+      "metadata",
+      "api",
+      "async",
       "ryukoposting"
     ],
     "description": "Last.FM API breakouts (documentation: http://ryuk.ooo/nimdocs/lastfm/lastfm.html)",
