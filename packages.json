@@ -12573,5 +12573,24 @@
     "description": "Last.FM API breakouts (documentation: http://ryuk.ooo/nimdocs/lastfm/lastfm.html)",
     "license": "Apache-2.0",
     "web": "https://gitlab.com/ryukoposting/lastfm-nim"
+  },
+  {
+    "name": "firejail",
+    "url": "https://github.com/juancarlospaco/nim-firejail",
+    "method": "git",
+    "tags": [
+      "firejail",
+      "security",
+      "linux",
+      "isolation",
+      "container",
+      "infosec",
+      "hardened",
+      "sandbox",
+      "docker"
+    ],
+    "description": "Firejail wrapper for Nim, Isolate your Production App before its too late!",
+    "license": "MIT",
+    "web": "https://github.com/juancarlospaco/nim-firejail"
   }
 ]
