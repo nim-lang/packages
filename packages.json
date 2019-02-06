@@ -12611,6 +12611,21 @@
     "web": "https://github.com/juancarlospaco/nim-firejail"
   },
   {
+    "name": "jstin",
+    "url": "https://github.com/LemonBoy/jstin",
+    "method": "git",
+    "tags": [
+      "json",
+      "serialize",
+      "deserialize",
+      "easy",
+      "simple"
+    ],
+    "description": "JS {de,}serialization as it says on the tin",
+    "license": "MIT",
+    "web": "https://github.com/LemonBoy/jstin"
+  },
+  {
     "name": "compactdict",
     "url": "https://github.com/LemonBoy/compactdict",
     "method": "git",
