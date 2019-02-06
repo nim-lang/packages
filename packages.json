@@ -5955,8 +5955,8 @@
     "web": "https://github.com/status-im/nim-json-rpc"
   },
   {
-    "name": "asyncdispatch2",
-    "url": "https://github.com/status-im/nim-asyncdispatch2",
+    "name": "chronos",
+    "url": "https://github.com/status-im/nim-chronos",
     "method": "git",
     "tags": [
       "library",
@@ -5969,9 +5969,13 @@
       "tcp",
       "udp"
     ],
-    "description": "Experimental fork of Nim's asyncdispatch",
+    "description": "An efficient library for asynchronous programming",
     "license": "Apache License 2.0",
-    "web": "https://github.com/status-im/nim-asyncdispatch2"
+    "web": "https://github.com/status-im/nim-chronos"
+  },
+  {
+    "name": "asyncdispatch2",
+    "alias": "chronos"
   },
   {
     "name": "serialization",
