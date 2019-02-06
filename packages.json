@@ -12609,5 +12609,20 @@
     "description": "Firejail wrapper for Nim, Isolate your Production App before its too late!",
     "license": "MIT",
     "web": "https://github.com/juancarlospaco/nim-firejail"
+  },
+  {
+    "name": "jstin",
+    "url": "https://github.com/LemonBoy/jstin",
+    "method": "git",
+    "tags": [
+      "json",
+      "serialize",
+      "deserialize",
+      "easy",
+      "simple"
+    ],
+    "description": "JS {de,}serialization as it says on the tin",
+    "license": "MIT",
+    "web": "https://github.com/LemonBoy/jstin"
   }
 ]
