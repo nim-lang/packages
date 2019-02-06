@@ -6033,7 +6033,7 @@
       "memory-mapping",
       "streams"
     ],
-    "description": "RLP serialization library for Nim",
+    "description": "Nearly zero-overhead input/output streams for Nim",
     "license": "Apache License 2.0",
     "web": "https://github.com/status-im/nim-faststreams"
   },
@@ -6053,16 +6053,39 @@
     "web": "https://github.com/status-im/nim-bncurve"
   },
   {
-    "name": "rlp",
-    "url": "https://github.com/status-im/nim-rlp",
+    "name": "eth",
+    "url": "https://github.com/status-im/nim-eth",
     "method": "git",
     "tags": [
       "library",
       "ethereum",
+      "p2p",
+      "devp2p",
+      "rplx",
+      "networking",
+      "whisper",
+      "swarm",
       "rlp",
-      "serialization"
+      "cryptography",
+      "trie",
+      "patricia-trie",
+      "keyfile",
+      "wallet",
+      "bloom",
+      "bloom-filter"
     ],
-    "description": "RLP serialization library for Nim",
+    "description": "A collection of Ethereum related libraries",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/status-im/nim-eth"
+  },
+  {
+    "name": "rlp",
+    "url": "https://github.com/status-im/nim-rlp",
+    "method": "git",
+    "tags": [
+      "deprecated"
+    ],
+    "description": "Deprecated RLP serialization library for Nim (now part of the 'eth' module)",
     "license": "Apache License 2.0",
     "web": "https://github.com/status-im/nim-rlp"
   },
@@ -6071,11 +6094,9 @@
     "url": "https://github.com/status-im/nim-eth-keys",
     "method": "git",
     "tags": [
-      "library",
-      "ethereum",
-      "cryptography"
+      "deprecated"
     ],
-    "description": "A reimplementation in pure Nim of eth-keys, the common API for Ethereum key operations.",
+    "description": "A deprecated reimplementation in pure Nim of eth-keys, the common API for Ethereum key operations (now part of the 'eth' package).",
     "license": "Apache License 2.0",
     "web": "https://github.com/status-im/nim-eth-keys"
   },
@@ -6111,12 +6132,9 @@
     "url": "https://github.com/status-im/nim-eth-bloom",
     "method": "git",
     "tags": [
-      "library",
-      "ethereum",
-      "bloom",
-      "bloom-filter"
+      "deprecated"
     ],
-    "description": "Ethereum bloom filter",
+    "description": "Ethereum bloom filter (deprecated, now part of the 'eth' package)",
     "license": "Apache License 2.0",
     "web": "https://github.com/status-im/nim-eth-bloom"
   },
@@ -6193,12 +6211,9 @@
     "url": "https://github.com/status-im/nim-eth-trie",
     "method": "git",
     "tags": [
-      "library",
-      "ethereum",
-      "trie",
-      "patricia-trie"
+      "deprecated"
     ],
-    "description": "Merkle Patricia Tries as specified by Ethereum",
+    "description": "Merkle Patricia Tries as specified by Ethereum (deprecated, now part of the 'eth' package)",
     "license": "Apache License 2.0",
     "web": "https://github.com/status-im/nim-eth-trie"
   },
@@ -6207,6 +6222,7 @@
     "url": "https://github.com/status-im/nim-eth-p2p",
     "method": "git",
     "tags": [
+      "deprecated",
       "library",
       "ethereum",
       "p2p",
@@ -6216,7 +6232,7 @@
       "whisper",
       "swarm"
     ],
-    "description": "Implementation of the Ethereum suite of P2P protocols",
+    "description": "Deprecated implementation of the Ethereum suite of P2P protocols (now part of the 'eth' package)",
     "license": "Apache License 2.0",
     "web": "https://github.com/status-im/nim-eth-p2p"
   },
@@ -6225,12 +6241,9 @@
     "url": "https://github.com/status-im/nim-eth-keyfile",
     "method": "git",
     "tags": [
-      "library",
-      "ethereum",
-      "keyfile",
-      "wallet"
+      "deprecated"
     ],
-    "description": "Library for handling Ethereum private keys and wallets",
+    "description": "A deprecated library for handling Ethereum private keys and wallets (now part of the 'eth' package)",
     "license": "Apache License 2.0",
     "web": "https://github.com/status-im/nim-eth-keyfile"
   },
