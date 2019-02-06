@@ -12624,5 +12624,20 @@
     "description": "JS {de,}serialization as it says on the tin",
     "license": "MIT",
     "web": "https://github.com/LemonBoy/jstin"
+  },
+  {
+    "name": "compactdict",
+    "url": "https://github.com/LemonBoy/compactdict",
+    "method": "git",
+    "tags": [
+      "dictionary",
+      "hashtable",
+      "data-structure",
+      "hash",
+      "compact"
+    ],
+    "description": "A compact dictionary implementation",
+    "license": "MIT",
+    "web": "https://github.com/LemonBoy/compactdict"
   }
 ]
