@@ -12609,5 +12609,20 @@
     "description": "Firejail wrapper for Nim, Isolate your Production App before its too late!",
     "license": "MIT",
     "web": "https://github.com/juancarlospaco/nim-firejail"
+  },
+  {
+    "name": "compactdict",
+    "url": "https://github.com/LemonBoy/compactdict",
+    "method": "git",
+    "tags": [
+      "dictionary",
+      "hashtable",
+      "data-structure",
+      "hash",
+      "compact"
+    ],
+    "description": "A compact dictionary implementation",
+    "license": "MIT",
+    "web": "https://github.com/LemonBoy/compactdict"
   }
 ]
