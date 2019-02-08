@@ -12653,5 +12653,22 @@
     "description": "A compact dictionary implementation",
     "license": "MIT",
     "web": "https://github.com/LemonBoy/compactdict"
+  },
+  {
+    "name": "z3",
+    "url": "https://github.com/zevv/nimz3",
+    "method": "git",
+    "tags": [
+      "Z3",
+      "sat",
+      "smt",
+      "theorem",
+      "prover",
+      "solver",
+      "optimization"
+    ],
+    "description": "Nim Z3 theorem prover bindings",
+    "license": "MIT",
+    "web": "https://github.com/zevv/nimz3"
   }
 ]
