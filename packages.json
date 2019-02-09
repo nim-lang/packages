@@ -12451,19 +12451,6 @@
     "web": "https://github.com/nim-lang/graveyard/tree/master/fsmonitor"
   },
   {
-    "name": "cookies",
-    "url": "https://github.com/nim-lang/graveyard?subdir=cookies",
-    "method": "git",
-    "tags": [
-      "graveyard",
-      "cookies",
-      "parsing"
-    ],
-    "description": "Helper procs for parsing cookies",
-    "license": "MIT",
-    "web": "https://github.com/nim-lang/graveyard/tree/master/cookies"
-  },
-  {
     "name": "scgi",
     "url": "https://github.com/nim-lang/graveyard?subdir=scgi",
     "method": "git",
