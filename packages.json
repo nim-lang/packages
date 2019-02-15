@@ -12670,5 +12670,17 @@
     "description": "remarker_light is a command line tool for building a remark-based slideshow page very easily.",
     "license": "GPL-2.0",
     "web": "https://github.com/muxueqz/remarker_light"
+  },
+  {
+    "name": "snake",
+    "url": "https:///",
+    "method": "",
+    "tags": [
+      "sfml,",
+      "snake"
+    ],
+    "description": "simple snake game writed with nim",
+    "license": "GPL",
+    "web": "https:///"
   }
 ]
