@@ -12682,7 +12682,7 @@
       "blmvxer"
      ],
     "description": "A pure implementaion of nmap for nim.",
-    "license": MIT",
+    "license": "MIT",
     "web": "https://github.com/blmvxer/nim-nmap"
   }
 ]
