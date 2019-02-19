@@ -12680,9 +12680,22 @@
       "networking",
       "network mapper",
       "blmvxer"
-     ],
+    ],
     "description": "A pure implementaion of nmap for nim.",
     "license": "MIT",
     "web": "https://github.com/blmvxer/nim-nmap"
+  },
+  {
+    "name": "fancygl",
+    "url": "https://github.com/krux02/opengl-sandbox",
+    "method": "git",
+    "tags": [
+      "opengl",
+      "rendering",
+      "dsl"
+    ],
+    "description": "nice way of handling render code",
+    "license": "MIT",
+    "web": "https://github.com/krux02/opengl-sandbox"
   }
 ]
