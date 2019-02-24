@@ -1,5 +1,20 @@
 [
   {
+    "name": "BipBuffer",
+    "url": "https://github.com/MarcAzar/BipBuffer",
+    "method": "git",
+    "tags": [
+      "Bip Buffer",
+      "Circular",
+      "Ring",
+      "Buffer",
+      "nim"
+    ],
+    "description": "A Nim implementation of Simon Cooke's Bip Buffer. A type of circular buffer ensuring contiguous blocks of memory",
+    "license": "MIT",
+    "web": "https://github.com/MarcAzar/BipBuffer"
+  },
+  {
     "name": "whip",
     "url": "https://github.com/mattaylor/whip",
     "method": "git",
