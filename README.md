@@ -4,8 +4,7 @@ This is a central listing of all packages for
 [Nimble](https://github.com/nim-lang/nimble), a package manager for the
 [Nim programming language](http://nim-lang.org).
 
-An overview of all Nimble packages is available in the 
-[library documentation](https://nim-lang.org/docs/lib.html#nimble).
+An overview of all the package is available at https://nimble.directory.
 
 NOTE: The packages listed here are not peer-reviewed or otherwise screened. We try to keep the list up-to-date but we cannot guarantee quality or maturity of the packages.
 
