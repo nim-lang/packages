@@ -12726,5 +12726,18 @@
     "description": "Libravatar library for Nim, Gravatar alternative. Libravatar is an open source free federated avatar api & service.",
     "license": "PPL",
     "web": "https://github.com/juancarlospaco/nim-libravatar"
+  },
+  {
+    "name": "norm",
+    "url": "https://github.com/moigagoo/norm",
+    "method": "git",
+    "tags": [
+      "orm",
+      "db",
+      "database"
+    ],
+    "description": "Nim ORM.",
+    "license": "MIT",
+    "web": "https://github.com/moigagoo/norm"
   }
 ]
