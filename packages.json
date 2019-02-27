@@ -1,20 +1,5 @@
 [
   {
-    "name": "Cyclic-Polynomial-Hash",
-    "url": "https://github.com/MarcAzar/Cyclic-Polynomial-Hash",
-    "method": "git",
-    "tags": [
-      "Cyclic",
-      "Hash",
-      "BuzHash",
-      "Rolling",
-      "n-gram"
-    ],
-    "description": "A Nim implementation of a Cyclic Polynomial Hash, aka BuzHash",
-    "license": "MIT",
-    "web": "https://github.com/MarcAzar/Cyclic-Polynomial-Hash"
-  },
-  {
     "name": "BipBuffer",
     "url": "https://github.com/MarcAzar/BipBuffer",
     "method": "git",
