@@ -12754,5 +12754,17 @@
     "description": "Nim ORM.",
     "license": "MIT",
     "web": "https://github.com/moigagoo/norm"
+  },
+  {
+    "name": "simple_vector",
+    "url": "https://github.com/Ephiiz/simple_vector",
+    "method": "git",
+    "tags": [
+      "vector",
+      "simple_vector"
+    ],
+    "description": "Simple vector library for nim-lang.",
+    "license": "GNU Lesser General Public License v2.1",
+    "web": "https://github.com/Ephiiz/simple_vector"
   }
 ]
