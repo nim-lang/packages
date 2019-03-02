@@ -12766,5 +12766,17 @@
     "description": "Simple vector library for nim-lang.",
     "license": "GNU Lesser General Public License v2.1",
     "web": "https://github.com/Ephiiz/simple_vector"
+  },
+  {
+    "name": "netpipe",
+    "url": "https://github.com/treeform/netpipe/",
+    "method": "git",
+    "tags": [
+      "networking",
+      "udp"
+    ],
+    "description": "Netpipe is a reliable UDP connection for Nim.",
+    "license": "MIT",
+    "web": "https://github.com/treeform/netpipe/"
   }
 ]
