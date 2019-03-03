@@ -12778,5 +12778,23 @@
     "description": "Netpipe is a reliable UDP connection for Nim.",
     "license": "MIT",
     "web": "https://github.com/treeform/netpipe/"
+  },
+  {
+    "name": "fnv",
+    "url": "https://gitlab.com/ryukoposting/nim-fnv",
+    "method": "git",
+    "tags": [
+      "fnv",
+      "fnv1a",
+      "fnv1",
+      "fnv-1a",
+      "fnv-1",
+      "fnv0",
+      "fnv-0",
+      "ryukoposting"
+    ],
+    "description": "FNV-1 and FNV-1a non-cryptographic hash functions (documentation hosted at: http://ryuk.ooo/nimdocs/fnv/fnv.html)",
+    "license": "Apache-2.0",
+    "web": "https://gitlab.com/ryukoposting/nim-fnv"
   }
 ]
