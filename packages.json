@@ -9695,7 +9695,7 @@
       "binary"
     ],
     "description": "A website management tool. Run the file and access your webpage.",
-    "license": "GPLv3",
+    "license": "PPL",
     "web": "https://nimwc.org/"
   },
   {
