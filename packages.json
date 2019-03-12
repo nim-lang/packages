@@ -6127,6 +6127,21 @@
     "web": "https://github.com/status-im/nim-blscurve"
   },
   {
+    "name": "libp2p",
+    "url": "https://github.com/status-im/nim-libp2p",
+    "method": "git",
+    "tags": [
+      "library",
+      "networking",
+      "libp2p",
+      "ipfs",
+      "ethereum"
+    ],
+    "description": "libp2p implementation in Nim",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/status-im/nim-libp2p"
+  },
+  {
     "name": "rlp",
     "url": "https://github.com/status-im/nim-rlp",
     "method": "git",
