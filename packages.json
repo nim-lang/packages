@@ -12811,5 +12811,17 @@
     "description": "FNV-1 and FNV-1a non-cryptographic hash functions (documentation hosted at: http://ryuk.ooo/nimdocs/fnv/fnv.html)",
     "license": "Apache-2.0",
     "web": "https://gitlab.com/ryukoposting/nim-fnv"
+  },
+  {
+    "name": "nim_notify",
+    "url": "https://gitlab.com/xbello/notify-nim",
+    "method": "git",
+    "tags": [
+      "library",
+      "notify"
+    ],
+    "description": "A wrapper to notification libraries",
+    "license": "MIT",
+    "web": "https://gitlab.com/xbello/notify-nim"
   }
 ]
