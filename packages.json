@@ -12824,5 +12824,18 @@
     "description": "A wrapper to notification libraries",
     "license": "MIT",
     "web": "https://github.com/xbello/notify-nim"
+  },
+  {
+    "name": "minmaxheap",
+    "url": "https://github.com/stefansalewski/minmaxheap",
+    "method": "git",
+    "tags": [
+      "minmaxheap",
+      "heap",
+      "priorityqueue"
+    ],
+    "description": "MinMaxHeap",
+    "license": "MIT",
+    "web": "https://github.com/stefansalewski/minmaxheap"
   }
 ]
