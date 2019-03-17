@@ -12837,5 +12837,18 @@
     "description": "MinMaxHeap",
     "license": "MIT",
     "web": "https://github.com/stefansalewski/minmaxheap"
+  },
+  {
+    "name": "dashing",
+    "url": "https://github.com/FedericoCeratto/nim-dashing",
+    "method": "git",
+    "tags": [
+      "library",
+      "pure",
+      "terminal"
+    ],
+    "description": "Terminal dashboards.",
+    "license": "LGPLv3",
+    "web": "https://github.com/FedericoCeratto/nim-dashing"
   }
 ]
