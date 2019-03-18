@@ -12850,5 +12850,18 @@
     "description": "Terminal dashboards.",
     "license": "LGPLv3",
     "web": "https://github.com/FedericoCeratto/nim-dashing"
+  },
+  {
+    "name": "html_tools",
+    "url": "https://github.com/juancarlospaco/nim-html-tools",
+    "method": "git",
+    "tags": [
+      "html",
+      "validation",
+      "frontend"
+    ],
+    "description": "HTML5 Tools for Nim, all Templates, No CSS, No Libs, No JS Framework",
+    "license": "MIT",
+    "web": "https://github.com/juancarlospaco/nim-html-tools"
   }
 ]
