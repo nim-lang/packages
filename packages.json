@@ -1,5 +1,19 @@
 [
   {
+    "name": "BitVector",
+    "url": "https://github.com/MarcAzar/BitVector",
+    "method": "git",
+    "tags": [
+      "Bit",
+      "Array",
+      "Vector",
+      "Bloom"
+    ],
+    "description": "A high performance Nim implementation of BitVector with base SomeUnsignedInt(i.e: uint8-64) with support for slices, and seq supported operations",
+    "license": "MIT",
+    "web": "https://marcazar.github.io/BitVector"
+  },
+  {
     "name": "Cyclic-Polynomial-Hash",
     "url": "https://github.com/MarcAzar/Cyclic-Polynomial-Hash",
     "method": "git",
@@ -12,7 +26,7 @@
     ],
     "description": "A Nim implementation of a Cyclic Polynomial Hash, aka BuzHash",
     "license": "MIT",
-    "web": "https://github.com/MarcAzar/Cyclic-Polynomial-Hash"
+    "web": "https://marcazar.github.io/Cyclic-Polynomial-Hash"
   },
   {
     "name": "BipBuffer",
@@ -27,7 +41,7 @@
     ],
     "description": "A Nim implementation of Simon Cooke's Bip Buffer. A type of circular buffer ensuring contiguous blocks of memory",
     "license": "MIT",
-    "web": "https://github.com/MarcAzar/BipBuffer"
+    "web": "https://marcazar.github.io/BipBuffer"
   },
   {
     "name": "whip",
