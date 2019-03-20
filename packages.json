@@ -12897,5 +12897,17 @@
     "description": "a PEG library",
     "license": "MIT",
     "web": "https://github.com/zevv/npeg"
+  },
+  {
+    "name": "pinggraph",
+    "url": "https://github.com/SolitudeSF/pinggraph",
+    "method": "git",
+    "tags": [
+      "ping",
+      "terminal"
+    ],
+    "description": "Simple terminal ping graph",
+    "license": "MIT",
+    "web": "https://github.com/SolitudeSF/pinggraph"
   }
 ]
