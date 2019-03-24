@@ -4127,7 +4127,7 @@
       "logs"
     ],
     "description": "Advanced logging library for Nim with structured logging, formatters, filters and writers.",
-    "license": "MIT",
+    "license": "LGPLv3",
     "web": "https://github.com/nim-appkit/omnilog"
   },
   {
