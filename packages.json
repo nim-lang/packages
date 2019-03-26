@@ -12923,5 +12923,19 @@
     "description": "Circuit Design language made in Nim",
     "license": "GPLv3",
     "web": "https://gitlab.com/endes123321/nimcdl"
+  },
+  {
+    "name": "easymail",
+    "url": "https://github.com/coocheenin/easymail",
+    "method": "git",
+    "tags": [
+      "email",
+      "sendmail",
+      "net",
+      "mail"
+    ],
+    "description": "wrapper for the sendmail command",
+    "license": "MIT",
+    "web": "https://github.com/coocheenin/easymail"
   }
 ]
