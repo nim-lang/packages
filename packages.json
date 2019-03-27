@@ -12949,5 +12949,20 @@
     "description": "Implementation of Luhn algorithm in nim.",
     "license": "MIT",
     "web": "https://github.com/sillibird/luhncheck"
+  },
+  {
+    "name": "nim-libgd",
+    "url": "https://github.com/mrhdias/nim-libgd",
+    "method": "git",
+    "tags": [
+      "image",
+      "graphics",
+      "wrapper",
+      "libgd",
+      "2d"
+    ],
+    "description": "Nim Wrapper for LibGD 2.x",
+    "license": "MIT",
+    "web": "https://github.com/mrhdias/nim-libgd"
   }
 ]
