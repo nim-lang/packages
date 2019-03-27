@@ -12937,5 +12937,17 @@
     "description": "wrapper for the sendmail command",
     "license": "MIT",
     "web": "https://github.com/coocheenin/easymail"
+  },
+  {
+    "name": "luhncheck",
+    "url": "https://github.com/sillibird/luhncheck",
+    "method": "git",
+    "tags": [
+      "library",
+      "algorithm"
+    ],
+    "description": "Implementation of Luhn algorithm in nim.",
+    "license": "MIT",
+    "web": "https://github.com/sillibird/luhncheck"
   }
 ]
