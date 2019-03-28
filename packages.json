@@ -12964,5 +12964,20 @@
     "description": "Nim Wrapper for LibGD 2.x",
     "license": "MIT",
     "web": "https://github.com/mrhdias/nim-libgd"
+  },
+  {
+    "name": "closure_methods",
+    "url": "https://github.com/bluenote10/closure_methods",
+    "method": "git",
+    "tags": [
+      "macro",
+      "inheritance",
+      "oop",
+      "closure",
+      "methods"
+    ],
+    "description": "Macro for building OOP class hierarchies based on closure methods.",
+    "license": "MIT",
+    "web": "https://github.com/bluenote10/closure_methods"
   }
 ]
