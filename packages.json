@@ -12979,5 +12979,19 @@
     "description": "Macro for building OOP class hierarchies based on closure methods.",
     "license": "MIT",
     "web": "https://github.com/bluenote10/closure_methods"
+  },
+  {
+    "name": "nim_curry",
+    "url": "https://github.com/zer0-star/nim-curry",
+    "method": "git",
+    "tags": [
+      "library",
+      "functional",
+      "macro",
+      "currying"
+    ],
+    "description": "Provides a macro to curry function",
+    "license": "MIT",
+    "web": "https://github.com/zer0-star/nim-curry"
   }
 ]
