@@ -4131,7 +4131,7 @@
       "logs"
     ],
     "description": "Advanced logging library for Nim with structured logging, formatters, filters and writers.",
-    "license": "MIT",
+    "license": "LGPLv3",
     "web": "https://github.com/nim-appkit/omnilog"
   },
   {
@@ -12881,5 +12881,121 @@
     "description": "HTML5 Tools for Nim, all Templates, No CSS, No Libs, No JS Framework",
     "license": "MIT",
     "web": "https://github.com/juancarlospaco/nim-html-tools"
+  },
+  {
+    "name": "npeg",
+    "url": "https://github.com/zevv/npeg",
+    "method": "git",
+    "tags": [
+      "PEG",
+      "parser",
+      "parsing",
+      "regexp",
+      "regular",
+      "grammar",
+      "lexer",
+      "lexing",
+      "pattern",
+      "matching"
+    ],
+    "description": "a PEG library",
+    "license": "MIT",
+    "web": "https://github.com/zevv/npeg"
+  },
+  {
+    "name": "pinggraph",
+    "url": "https://github.com/SolitudeSF/pinggraph",
+    "method": "git",
+    "tags": [
+      "ping",
+      "terminal"
+    ],
+    "description": "Simple terminal ping graph",
+    "license": "MIT",
+    "web": "https://github.com/SolitudeSF/pinggraph"
+  },
+  {
+    "name": "nimcdl",
+    "url": "https://gitlab.com/endes123321/nimcdl",
+    "method": "git",
+    "tags": [
+      "circuit",
+      "HDL",
+      "PCB",
+      "DSL"
+    ],
+    "description": "Circuit Design language made in Nim",
+    "license": "GPLv3",
+    "web": "https://gitlab.com/endes123321/nimcdl"
+  },
+  {
+    "name": "easymail",
+    "url": "https://github.com/coocheenin/easymail",
+    "method": "git",
+    "tags": [
+      "email",
+      "sendmail",
+      "net",
+      "mail"
+    ],
+    "description": "wrapper for the sendmail command",
+    "license": "MIT",
+    "web": "https://github.com/coocheenin/easymail"
+  },
+  {
+    "name": "luhncheck",
+    "url": "https://github.com/sillibird/luhncheck",
+    "method": "git",
+    "tags": [
+      "library",
+      "algorithm"
+    ],
+    "description": "Implementation of Luhn algorithm in nim.",
+    "license": "MIT",
+    "web": "https://github.com/sillibird/luhncheck"
+  },
+  {
+    "name": "nim-libgd",
+    "url": "https://github.com/mrhdias/nim-libgd",
+    "method": "git",
+    "tags": [
+      "image",
+      "graphics",
+      "wrapper",
+      "libgd",
+      "2d"
+    ],
+    "description": "Nim Wrapper for LibGD 2.x",
+    "license": "MIT",
+    "web": "https://github.com/mrhdias/nim-libgd"
+  },
+  {
+    "name": "closure_methods",
+    "url": "https://github.com/bluenote10/closure_methods",
+    "method": "git",
+    "tags": [
+      "macro",
+      "inheritance",
+      "oop",
+      "closure",
+      "methods"
+    ],
+    "description": "Macro for building OOP class hierarchies based on closure methods.",
+    "license": "MIT",
+    "web": "https://github.com/bluenote10/closure_methods"
+  },
+  {
+    "name": "nim_curry",
+    "url": "https://github.com/zer0-star/nim-curry",
+    "method": "git",
+    "tags": [
+      "library",
+      "functional",
+      "macro",
+      "currying"
+    ],
+    "description": "Provides a macro to curry function",
+    "license": "MIT",
+    "web": "https://github.com/zer0-star/nim-curry"
   }
 ]
