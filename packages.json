@@ -12999,7 +12999,9 @@
     "url": "https://github.com/jiro4989/eastasianwidth",
     "method": "git",
     "tags": [
-      "y"
+      "library",
+      "text",
+      "east_asian_width"
     ],
     "description": "eastasianwidth is library for EastAsianWidth.",
     "license": "MIT",
