@@ -12993,5 +12993,18 @@
     "description": "Provides a macro to curry function",
     "license": "MIT",
     "web": "https://github.com/zer0-star/nim-curry"
+  },
+  {
+    "name": "eastasianwidth",
+    "url": "https://github.com/jiro4989/eastasianwidth",
+    "method": "git",
+    "tags": [
+      "library",
+      "text",
+      "east_asian_width"
+    ],
+    "description": "eastasianwidth is library for EastAsianWidth.",
+    "license": "MIT",
+    "web": "https://github.com/jiro4989/eastasianwidth"
   }
 ]
