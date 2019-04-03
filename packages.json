@@ -13006,5 +13006,19 @@
     "description": "eastasianwidth is library for EastAsianWidth.",
     "license": "MIT",
     "web": "https://github.com/jiro4989/eastasianwidth"
+  },
+  {
+    "name": "colorcol",
+    "url": "https://github.com/SolitudeSF/colorcol",
+    "method": "git",
+    "tags": [
+      "kakoune",
+      "plugin",
+      "color",
+      "preview"
+    ],
+    "description": "Kakoune plugin for color preview",
+    "license": "MIT",
+    "web": "https://github.com/SolitudeSF/colorcol"
   }
 ]
