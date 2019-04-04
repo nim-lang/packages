@@ -13020,5 +13020,17 @@
     "description": "Kakoune plugin for color preview",
     "license": "MIT",
     "web": "https://github.com/SolitudeSF/colorcol"
+  },
+  {
+    "name": "nimly",
+    "url": "https://github.com/loloiccl/nimly",
+    "method": "git",
+    "tags": [
+      "v0.0.0",
+      "v0.1.0"
+    ],
+    "description": "A lexer generator and parser generator package work in Nim.",
+    "license": "GPL-3.0",
+    "web": "https://github.com/loloiccl/nimly"
   }
 ]
