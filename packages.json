@@ -13032,5 +13032,19 @@
     "description": "A lexer generator and parser generator package work in Nim.",
     "license": "GPL-3.0",
     "web": "https://github.com/loloiccl/nimly"
+  },
+  {
+    "name": "fswatch",
+    "url": "https://github.com/FedericoCeratto/nim-fswatch",
+    "method": "git",
+    "tags": [
+      "fswatch",
+      "fsmonitor",
+      "libfswatch",
+      "filesystem"
+    ],
+    "description": "Wrapper for the fswatch library.",
+    "license": "GPL-3.0",
+    "web": "https://github.com/FedericoCeratto/nim-fswatch"
   }
 ]
