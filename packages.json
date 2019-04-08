@@ -14,19 +14,23 @@
     "web": "https://marcazar.github.io/BitVector"
   },
   {
-    "name": "Cyclic-Polynomial-Hash",
-    "url": "https://github.com/MarcAzar/Cyclic-Polynomial-Hash",
+    "name": "RollingHash",
+    "url": "https://github.com/MarcAzar/RollingHash",
     "method": "git",
     "tags": [
       "Cyclic",
       "Hash",
       "BuzHash",
       "Rolling",
+      "Rabin",
+      "Karp",
+      "CRC",
+      "Fingerprint",
       "n-gram"
     ],
-    "description": "A Nim implementation of a Cyclic Polynomial Hash, aka BuzHash",
+    "description": "A high performance Nim implementation of a Cyclic Polynomial Hash, aka BuzHash, and the Rabin-Karp algorithm",
     "license": "MIT",
-    "web": "https://marcazar.github.io/Cyclic-Polynomial-Hash"
+    "web": "https://marcazar.github.io/RollingHash"
   },
   {
     "name": "BipBuffer",
