@@ -13050,5 +13050,17 @@
     "description": "Wrapper for the fswatch library.",
     "license": "GPL-3.0",
     "web": "https://github.com/FedericoCeratto/nim-fswatch"
+  },
+  {
+    "name": "parseini",
+    "url": "https://github.com/lihf8515/parseini",
+    "method": "git",
+    "tags": [
+      "parseini",
+      "nim"
+    ],
+    "description": "A high-performance ini parse library for nim.",
+    "license": "MIT",
+    "web": "https://github.com/lihf8515/parseini"
   }
 ]
