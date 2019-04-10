@@ -13030,8 +13030,12 @@
     "url": "https://github.com/loloiccl/nimly",
     "method": "git",
     "tags": [
-      "v0.0.0",
-      "v0.1.0"
+        "BNF",
+        "EBNF",
+        "lexer",
+        "parser",
+        "lexer-generator",
+        "parser-generator"
     ],
     "description": "A lexer generator and parser generator package work in Nim.",
     "license": "GPL-3.0",
