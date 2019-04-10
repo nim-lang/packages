@@ -13062,5 +13062,16 @@
     "description": "A high-performance ini parse library for nim.",
     "license": "MIT",
     "web": "https://github.com/lihf8515/parseini"
+  },
+  {
+    "name": "nimly",
+    "url": "https://github.com/loloiccl/nimly",
+    "method": "git",
+    "tags": [
+      "v0.2.0"
+    ],
+    "description": "A lexer generator and parser generator package work in Nim.",
+    "license": "GPL-3.0",
+    "web": "https://github.com/loloiccl/nimly"
   }
 ]
