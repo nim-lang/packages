@@ -9087,7 +9087,8 @@
     "tags": [
       "web",
       "http",
-      "framework"
+      "framework",
+      "abandoned"
     ],
     "description": "mofuw is *MO*re *F*aster, *U*ltra *W*ebserver",
     "license": "MIT",
