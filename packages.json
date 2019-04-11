@@ -13031,12 +13031,12 @@
     "url": "https://github.com/loloiccl/nimly",
     "method": "git",
     "tags": [
-        "BNF",
-        "EBNF",
-        "lexer",
-        "parser",
-        "lexer-generator",
-        "parser-generator"
+      "BNF",
+      "EBNF",
+      "lexer",
+      "parser",
+      "lexer-generator",
+      "parser-generator"
     ],
     "description": "A lexer generator and parser generator package work in Nim.",
     "license": "GPL-3.0",
@@ -13067,5 +13067,20 @@
     "description": "A high-performance ini parse library for nim.",
     "license": "MIT",
     "web": "https://github.com/lihf8515/parseini"
+  },
+  {
+    "name": "sonic",
+    "url": "https://github.com/xmonader/nim-sonic-client",
+    "method": "git",
+    "tags": [
+      "sonic",
+      "search",
+      "backend",
+      "index",
+      "client"
+    ],
+    "description": "client for sonic search backend",
+    "license": "MIT",
+    "web": "https://github.com/xmonader/nim-sonic-client"
   }
 ]
