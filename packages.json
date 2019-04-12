@@ -13082,5 +13082,19 @@
     "description": "client for sonic search backend",
     "license": "MIT",
     "web": "https://github.com/xmonader/nim-sonic-client"
+  },
+  {
+    "name": "science",
+    "url": "https://github.com/ruivieira/nim-science",
+    "method": "git",
+    "tags": [
+      "science",
+      "algebra",
+      "statistics",
+      "math"
+    ],
+    "description": "A library for scientific computations in pure Nim",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/ruivieira/nim-science"
   }
 ]
