@@ -13099,7 +13099,7 @@
   },
   {
     "name": "gameoflife",
-    "url": "https://github.com/jiro4989/lifegame",
+    "url": "https://github.com/jiro4989/gameoflife",
     "method": "git",
     "tags": [
       "gameoflife",
@@ -13107,6 +13107,6 @@
     ],
     "description": "gameoflife is library for Game of Life.",
     "license": "MIT",
-    "web": "https://github.com/jiro4989/lifegame"
+    "web": "https://github.com/jiro4989/gameoflife"
   }
 ]
