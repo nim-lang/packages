@@ -13096,5 +13096,17 @@
     "description": "A library for scientific computations in pure Nim",
     "license": "Apache License 2.0",
     "web": "https://github.com/ruivieira/nim-science"
+  },
+  {
+    "name": "gameoflife",
+    "url": "https://github.com/jiro4989/lifegame",
+    "method": "git",
+    "tags": [
+      "gameoflife",
+      "library"
+    ],
+    "description": "gameoflife is library for Game of Life.",
+    "license": "MIT",
+    "web": "https://github.com/jiro4989/lifegame"
   }
 ]
