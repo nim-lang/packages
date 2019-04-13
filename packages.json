@@ -12972,10 +12972,15 @@
   },
   {
     "name": "closure_methods",
-    "url": "https://github.com/bluenote10/closure_methods",
+    "alias": "oop_utils"
+  },
+  {
+    "name": "oop_utils",
+    "url": "https://github.com/bluenote10/oop_utils",
     "method": "git",
     "tags": [
       "macro",
+      "class",
       "inheritance",
       "oop",
       "closure",
