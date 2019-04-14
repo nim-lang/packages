@@ -13108,5 +13108,16 @@
     "description": "gameoflife is library for Game of Life.",
     "license": "MIT",
     "web": "https://github.com/jiro4989/gameoflife"
+  },
+  {
+    "name": "about",
+    "url": "https://github.com/aleandros/about",
+    "method": "git",
+    "tags": [
+      "cli"
+    ],
+    "description": "Executable for finding information about programs in PATH",
+    "license": "MIT",
+    "web": "https://github.com/aleandros/about"
   }
 ]
