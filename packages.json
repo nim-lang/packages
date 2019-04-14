@@ -12899,7 +12899,7 @@
       "pattern",
       "matching"
     ],
-    "description": "a PEG library",
+    "description": "PEG (Parsing Expression Grammars) string matching library for Nim",
     "license": "MIT",
     "web": "https://github.com/zevv/npeg"
   },
