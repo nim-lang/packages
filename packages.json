@@ -13113,5 +13113,18 @@
     "description": "gameoflife is library for Game of Life.",
     "license": "MIT",
     "web": "https://github.com/jiro4989/gameoflife"
+  },
+  {
+    "name": "conio",
+    "url": "https://github.com/guevara-chan/conio",
+    "method": "git",
+    "tags": [
+      "console",
+      "terminal",
+      "io"
+    ],
+    "description": ".NET-inspired lightweight terminal library",
+    "license": "MIT",
+    "web": "https://github.com/guevara-chan/conio"
   }
 ]
