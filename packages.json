@@ -13126,5 +13126,17 @@
     "description": ".NET-inspired lightweight terminal library",
     "license": "MIT",
     "web": "https://github.com/guevara-chan/conio"
+  },
+  {
+    "name": "nat_traversal",
+    "url": "https://github.com/status-im/nim-nat-traversal",
+    "method": "git",
+    "tags": [
+      "library",
+      "wrapper"
+    ],
+    "description": "miniupnpc and libnatpmp wrapper",
+    "license": "Apache License 2.0 or MIT",
+    "web": "https://github.com/status-im/nim-nat-traversal"
   }
 ]
