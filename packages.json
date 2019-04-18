@@ -13144,7 +13144,8 @@
     "url": "https://github.com/kidandcat/jsutils",
     "method": "git",
     "tags": [
-      "v0.1.0"
+      "library",
+      "javascript"
     ],
     "description": "Utils to work with javascript",
     "license": "MIT",
