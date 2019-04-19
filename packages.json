@@ -13138,5 +13138,17 @@
     "description": "miniupnpc and libnatpmp wrapper",
     "license": "Apache License 2.0 or MIT",
     "web": "https://github.com/status-im/nim-nat-traversal"
+  },
+  {
+    "name": "jsutils",
+    "url": "https://github.com/kidandcat/jsutils",
+    "method": "git",
+    "tags": [
+      "library",
+      "javascript"
+    ],
+    "description": "Utils to work with javascript",
+    "license": "MIT",
+    "web": "https://github.com/kidandcat/jsutils"
   }
 ]
