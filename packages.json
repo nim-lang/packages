@@ -13150,5 +13150,18 @@
     "description": "Utils to work with javascript",
     "license": "MIT",
     "web": "https://github.com/kidandcat/jsutils"
+  },
+  {
+    "name": "pnm",
+    "url": "https://github.com/jiro4989/pnm",
+    "method": "git",
+    "tags": [
+      "pnm",
+      "image",
+      "library"
+    ],
+    "description": "pnm is library for PNM (Portable AnyMap).",
+    "license": "MIT",
+    "web": "https://github.com/jiro4989/pnm"
   }
 ]
