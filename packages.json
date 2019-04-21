@@ -13150,5 +13150,17 @@
     "description": "Utils to work with javascript",
     "license": "MIT",
     "web": "https://github.com/kidandcat/jsutils"
+  },
+  {
+    "name": "getr",
+    "url": "https://github.com/jrfondren/getr-nim",
+    "method": "git",
+    "tags": [
+      "benchmark",
+      "utility"
+    ],
+    "description": "Benchmarking wrapper around getrusage()",
+    "license": "MIT",
+    "web": "https://github.com/jrfondren/getr-nim"
   }
 ]
