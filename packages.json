@@ -13163,5 +13163,18 @@
     "description": "pnm is library for PNM (Portable AnyMap).",
     "license": "MIT",
     "web": "https://github.com/jiro4989/pnm"
+  },
+  {
+    "name": "ski",
+    "url": "https://github.com/jiro4989/ski",
+    "method": "git",
+    "tags": [
+      "ski",
+      "combinator",
+      "library"
+    ],
+    "description": "ski is library for SKI combinator.",
+    "license": "MIT",
+    "web": "https://github.com/jiro4989/ski"
   }
 ]
