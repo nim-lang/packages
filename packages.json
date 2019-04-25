@@ -13188,5 +13188,19 @@
     "description": "ski is library for SKI combinator.",
     "license": "MIT",
     "web": "https://github.com/jiro4989/ski"
+  },
+  {
+    "name": "imageman",
+    "url": "https://github.com/SolitudeSF/imageman",
+    "method": "git",
+    "tags": [
+      "image",
+      "graphics",
+      "processing",
+      "manipulation"
+    ],
+    "description": "Image manipulation library",
+    "license": "MIT",
+    "web": "https://github.com/SolitudeSF/imageman"
   }
 ]
