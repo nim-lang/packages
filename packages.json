@@ -13202,5 +13202,20 @@
     "description": "Image manipulation library",
     "license": "MIT",
     "web": "https://github.com/SolitudeSF/imageman"
+  },
+  {
+    "name": "matplotnim",
+    "url": "https://github.com/ruivieira/matplotnim",
+    "method": "git",
+    "tags": [
+      "science",
+      "plotting",
+      "graphics",
+      "wrapper",
+      "library"
+    ],
+    "description": "A Nim wrapper for Python's matplotlib",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/ruivieira/matplotnim"
   }
 ]
