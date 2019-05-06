@@ -12899,7 +12899,7 @@
       "pattern",
       "matching"
     ],
-    "description": "a PEG library",
+    "description": "PEG (Parsing Expression Grammars) string matching library for Nim",
     "license": "MIT",
     "web": "https://github.com/zevv/npeg"
   },
@@ -12972,10 +12972,15 @@
   },
   {
     "name": "closure_methods",
-    "url": "https://github.com/bluenote10/closure_methods",
+    "alias": "oop_utils"
+  },
+  {
+    "name": "oop_utils",
+    "url": "https://github.com/bluenote10/oop_utils",
     "method": "git",
     "tags": [
       "macro",
+      "class",
       "inheritance",
       "oop",
       "closure",
@@ -13119,5 +13124,135 @@
     "description": "Executable for finding information about programs in PATH",
     "license": "MIT",
     "web": "https://github.com/aleandros/about"
+  },
+  {
+    "name": "conio",
+    "url": "https://github.com/guevara-chan/conio",
+    "method": "git",
+    "tags": [
+      "console",
+      "terminal",
+      "io"
+    ],
+    "description": ".NET-inspired lightweight terminal library",
+    "license": "MIT",
+    "web": "https://github.com/guevara-chan/conio"
+  },
+  {
+    "name": "nat_traversal",
+    "url": "https://github.com/status-im/nim-nat-traversal",
+    "method": "git",
+    "tags": [
+      "library",
+      "wrapper"
+    ],
+    "description": "miniupnpc and libnatpmp wrapper",
+    "license": "Apache License 2.0 or MIT",
+    "web": "https://github.com/status-im/nim-nat-traversal"
+  },
+  {
+    "name": "jsutils",
+    "url": "https://github.com/kidandcat/jsutils",
+    "method": "git",
+    "tags": [
+      "library",
+      "javascript"
+    ],
+    "description": "Utils to work with javascript",
+    "license": "MIT",
+    "web": "https://github.com/kidandcat/jsutils"
+  },
+  {
+    "name": "getr",
+    "url": "https://github.com/jrfondren/getr-nim",
+    "method": "git",
+    "tags": [
+      "benchmark",
+      "utility"
+    ],
+    "description": "Benchmarking wrapper around getrusage()",
+    "license": "MIT",
+    "web": "https://github.com/jrfondren/getr-nim"
+  },
+  {
+    "name": "pnm",
+    "url": "https://github.com/jiro4989/pnm",
+    "method": "git",
+    "tags": [
+      "pnm",
+      "image",
+      "library"
+    ],
+    "description": "pnm is library for PNM (Portable AnyMap).",
+    "license": "MIT",
+    "web": "https://github.com/jiro4989/pnm"
+  },
+  {
+    "name": "ski",
+    "url": "https://github.com/jiro4989/ski",
+    "method": "git",
+    "tags": [
+      "ski",
+      "combinator",
+      "library"
+    ],
+    "description": "ski is library for SKI combinator.",
+    "license": "MIT",
+    "web": "https://github.com/jiro4989/ski"
+  },
+  {
+    "name": "imageman",
+    "url": "https://github.com/SolitudeSF/imageman",
+    "method": "git",
+    "tags": [
+      "image",
+      "graphics",
+      "processing",
+      "manipulation"
+    ],
+    "description": "Image manipulation library",
+    "license": "MIT",
+    "web": "https://github.com/SolitudeSF/imageman"
+  },
+  {
+    "name": "matplotnim",
+    "url": "https://github.com/ruivieira/matplotnim",
+    "method": "git",
+    "tags": [
+      "science",
+      "plotting",
+      "graphics",
+      "wrapper",
+      "library"
+    ],
+    "description": "A Nim wrapper for Python's matplotlib",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/ruivieira/matplotnim"
+  },
+  {
+    "name": "cliptomania",
+    "url": "https://github.com/Guevara-chan/Cliptomania",
+    "method": "git",
+    "tags": [
+      "clip",
+      "clipboard"
+    ],
+    "description": ".NET-inspired lightweight clipboard library",
+    "license": "MIT",
+    "web": "https://github.com/Guevara-chan/Cliptomania"
+  },
+  {
+    "name": "mpdclient",
+    "url": "https://github.com/SolitudeSF/mpdclient",
+    "method": "git",
+    "tags": [
+      "mpd",
+      "music",
+      "player",
+      "client"
+    ],
+    "description": "MPD client library",
+    "license": "MIT",
+    "web": "https://github.com/SolitudeSF/mpdclient"
   }
 ]
