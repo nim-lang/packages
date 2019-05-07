@@ -13273,5 +13273,19 @@
     "description": "Small wrapper for SystemVerilog DPI-C header svdpi.h",
     "license": "MIT",
     "web": "https://github.com/kaushalmodi/nim-svdpi"
+  },
+  {
+    "name": "shlex",
+    "url": "https://github.com/SolitudeSF/shlex",
+    "method": "git",
+    "tags": [
+      "shlex",
+      "shell",
+      "parse",
+      "split"
+    ],
+    "description": "Library for splitting a string into shell words",
+    "license": "MIT",
+    "web": "https://github.com/SolitudeSF/shlex"
   }
 ]
