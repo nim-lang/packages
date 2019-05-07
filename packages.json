@@ -13259,5 +13259,19 @@
     "description": "A Nim library for data science and machine learning",
     "license": "Apache License 2.0",
     "web": "https://github.com/ruivieira/nim-mentat"
+  },
+  {
+    "name": "svdpi",
+    "url": "https://github.com/kaushalmodi/nim-svdpi",
+    "method": "git",
+    "tags": [
+      "dpi-c",
+      "systemverilog",
+      "foreign-function",
+      "interface"
+    ],
+    "description": "Small wrapper for SystemVerilog DPI-C header svdpi.h",
+    "license": "MIT",
+    "web": "https://github.com/kaushalmodi/nim-svdpi"
   }
 ]
