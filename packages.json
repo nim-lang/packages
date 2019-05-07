@@ -13243,5 +13243,21 @@
     "description": "MPD client library",
     "license": "MIT",
     "web": "https://github.com/SolitudeSF/mpdclient"
+  },
+  {
+    "name": "mentat",
+    "url": "https://github.com/ruivieira/nim-mentat",
+    "method": "git",
+    "tags": [
+      "science",
+      "machine-learning",
+      "data-science",
+      "statistics",
+      "math",
+      "library"
+    ],
+    "description": "A Nim library for data science and machine learning",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/ruivieira/nim-mentat"
   }
 ]
