@@ -13311,5 +13311,17 @@
     "description": "An Atom, RSS, and JSONfeed parser",
     "license": "MIT",
     "web": "https://github.com/johnconway/feed-nim"
+  },
+  {
+    "name": "simplepng",
+    "url": "https://github.com/jrenner/nim-simplepng",
+    "method": "git",
+    "tags": [
+      "png",
+      "image"
+    ],
+    "description": "high level simple way to write PNGs",
+    "license": "MIT",
+    "web": "https://github.com/jrenner/nim-simplepng"
   }
 ]
