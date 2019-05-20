@@ -13311,5 +13311,20 @@
     "description": "An Atom, RSS, and JSONfeed parser",
     "license": "MIT",
     "web": "https://github.com/johnconway/feed-nim"
+  },
+  {
+    "name": "dali",
+    "url": "https://github.com/akavel/dali",
+    "method": "git",
+    "tags": [
+      "android",
+      "apk",
+      "dalvik",
+      "dex",
+      "assembler"
+    ],
+    "description": "Indie assembler/linker for Android's Dalvik VM .dex & .apk files",
+    "license": "AGPL-3.0",
+    "web": "https://github.com/akavel/dali"
   }
 ]
