@@ -13349,7 +13349,7 @@
       "text",
       "rectangle"
     ],
-    "description": "rect is a command to paste text rectangle.",
+    "description": "rect is a command to crop/paste rectangle text.",
     "license": "MIT",
     "web": "https://github.com/jiro4989/rect"
   }
