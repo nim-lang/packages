@@ -13338,5 +13338,19 @@
     "description": "Indie assembler/linker for Android's Dalvik VM .dex & .apk files",
     "license": "AGPL-3.0",
     "web": "https://github.com/akavel/dali"
+  },
+  {
+    "name": "rect",
+    "url": "https://github.com/jiro4989/rect",
+    "method": "git",
+    "tags": [
+      "cli",
+      "tool",
+      "text",
+      "rectangle"
+    ],
+    "description": "rect is a command to paste text rectangle.",
+    "license": "MIT",
+    "web": "https://github.com/jiro4989/rect"
   }
 ]
