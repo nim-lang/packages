@@ -13352,5 +13352,20 @@
     "description": "rect is a command to crop/paste rectangle text.",
     "license": "MIT",
     "web": "https://github.com/jiro4989/rect"
+  },
+  {
+    "name": "p4ztag_to_json",
+    "url": "https://github.com/kaushalmodi/p4ztag_to_json",
+    "method": "git",
+    "tags": [
+      "perforce",
+      "p4",
+      "ztag",
+      "serialization-format",
+      "json"
+    ],
+    "description": "Convert Helix Version Control / Perforce (p4) -ztag output to JSON",
+    "license": "MIT",
+    "web": "https://github.com/kaushalmodi/p4ztag_to_json"
   }
 ]
