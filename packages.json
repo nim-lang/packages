@@ -13367,5 +13367,19 @@
     "description": "Convert Helix Version Control / Perforce (p4) -ztag output to JSON",
     "license": "MIT",
     "web": "https://github.com/kaushalmodi/p4ztag_to_json"
+  },
+  {
+    "name": "terminaltables",
+    "url": "https://github.com/xmonader/nim-terminaltables",
+    "method": "git",
+    "tags": [
+      "terminal",
+      "tables",
+      "ascii",
+      "unicode"
+    ],
+    "description": "terminal tables",
+    "license": "BSD-3-Clause",
+    "web": "https://github.com/xmonader/nim-terminaltables"
   }
 ]
