@@ -13381,5 +13381,20 @@
     "description": "terminal tables",
     "license": "BSD-3-Clause",
     "web": "https://github.com/xmonader/nim-terminaltables"
+  },
+  {
+    "name": "alignment",
+    "url": "https://github.com/jiro4989/alignment",
+    "method": "git",
+    "tags": [
+      "library",
+      "text",
+      "align",
+      "string",
+      "strutils"
+    ],
+    "description": "alignment is a library to align strings.",
+    "license": "MIT",
+    "web": "https://github.com/jiro4989/alignment"
   }
 ]
