@@ -13396,5 +13396,18 @@
     "description": "alignment is a library to align strings.",
     "license": "MIT",
     "web": "https://github.com/jiro4989/alignment"
+  },
+  {
+    "name": "niup",
+    "url": "https://github.com/dariolah/niup",
+    "method": "git",
+    "tags": [
+      "iup",
+      "gui",
+      "nim"
+    ],
+    "description": "IUP FFI bindings",
+    "license": "MIT",
+    "web": "https://github.com/dariolah/niup"
   }
 ]
