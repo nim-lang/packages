@@ -13409,5 +13409,19 @@
     "description": "IUP FFI bindings",
     "license": "MIT",
     "web": "https://github.com/dariolah/niup"
+  },
+  {
+    "name": "libgcrypt",
+    "url": "https://github.com/FedericoCeratto/nim-libgcrypt",
+    "method": "git",
+    "tags": [
+      "wrapper",
+      "library",
+      "security",
+      "crypto"
+    ],
+    "description": "libgcrypt wrapper",
+    "license": "LGPLv2.1",
+    "web": "https://github.com/FedericoCeratto/nim-libgcrypt"
   }
 ]
