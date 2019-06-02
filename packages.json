@@ -13423,5 +13423,18 @@
     "description": "libgcrypt wrapper",
     "license": "LGPLv2.1",
     "web": "https://github.com/FedericoCeratto/nim-libgcrypt"
+  },
+  {
+    "name": "hitest",
+    "url": "https:///",
+    "method": "",
+    "tags": [
+      "a",
+      "b",
+      "c"
+    ],
+    "description": "A new awesome nimble package",
+    "license": "MIT",
+    "web": "https:///"
   }
 ]
