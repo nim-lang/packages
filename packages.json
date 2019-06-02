@@ -13423,5 +13423,18 @@
     "description": "libgcrypt wrapper",
     "license": "LGPLv2.1",
     "web": "https://github.com/FedericoCeratto/nim-libgcrypt"
+  },
+  {
+    "name": "patty",
+    "url": "https://github.com/andreaferretti/patty",
+    "method": "git",
+    "tags": [
+      "a",
+      "b",
+      "c"
+    ],
+    "description": "Algebraic data types and pattern matching",
+    "license": "Apache2",
+    "web": "https://github.com/andreaferretti/patty"
   }
 ]
