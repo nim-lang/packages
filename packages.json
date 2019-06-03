@@ -13423,5 +13423,16 @@
     "description": "libgcrypt wrapper",
     "license": "LGPLv2.1",
     "web": "https://github.com/FedericoCeratto/nim-libgcrypt"
+  },
+  {
+    "name": "svdpi",
+    "url": "https://github.com/kaushalmodi/nim-svdpi",
+    "method": "git",
+    "tags": [
+      "asdf"
+    ],
+    "description": "Small wrapper for SystemVerilog DPI-C header svdpi.h",
+    "license": "MIT",
+    "web": "https://github.com/kaushalmodi/nim-svdpi"
   }
 ]
