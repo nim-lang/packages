@@ -13450,5 +13450,18 @@
     "description": "Master Password command line utility",
     "license": "MIT",
     "web": "https://github.com/SolitudeSF/mpwc"
+  },
+  {
+    "name": "toxcore",
+    "url": "https://github.com/ehmry/nim_tox",
+    "method": "git",
+    "tags": [
+      "tox",
+      "chat",
+      "wrapper"
+    ],
+    "description": "C Tox core wrapper",
+    "license": "GPL-3.0",
+    "web": "https://github.com/ehmry/nim_tox"
   }
 ]
