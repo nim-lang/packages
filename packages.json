@@ -13423,5 +13423,32 @@
     "description": "libgcrypt wrapper",
     "license": "LGPLv2.1",
     "web": "https://github.com/FedericoCeratto/nim-libgcrypt"
+  },
+  {
+    "name": "masterpassword",
+    "url": "https://github.com/SolitudeSF/masterpassword",
+    "method": "git",
+    "tags": [
+      "masterpassword",
+      "password",
+      "stateless"
+    ],
+    "description": "Master Password algorith implementation",
+    "license": "MIT",
+    "web": "https://github.com/SolitudeSF/masterpassword"
+  },
+  {
+    "name": "mpwc",
+    "url": "https://github.com/SolitudeSF/mpwc",
+    "method": "git",
+    "tags": [
+      "masterpassword",
+      "password",
+      "manager",
+      "stateless"
+    ],
+    "description": "Master Password command line utility",
+    "license": "MIT",
+    "web": "https://github.com/SolitudeSF/mpwc"
   }
 ]
