@@ -13463,5 +13463,20 @@
     "description": "C Tox core wrapper",
     "license": "GPL-3.0",
     "web": "https://github.com/ehmry/nim_tox"
+  },
+  {
+    "name": "rapid",
+    "url": "https://github.com/liquid600pgm/rapid",
+    "method": "git",
+    "tags": [
+      "game",
+      "engine",
+      "2d",
+      "graphics",
+      "audio"
+    ],
+    "description": "A game engine for rapid development and easy prototyping",
+    "license": "MIT",
+    "web": "https://github.com/liquid600pgm/rapid"
   }
 ]
