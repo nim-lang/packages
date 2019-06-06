@@ -13478,5 +13478,17 @@
     "description": "A game engine for rapid development and easy prototyping",
     "license": "MIT",
     "web": "https://github.com/liquid600pgm/rapid"
+  },
+  {
+    "name": "niup",
+    "url": "https://github.com/dariolah/niup",
+    "method": "git",
+    "tags": [
+      "iup",
+      "gui"
+    ],
+    "description": "IUP FFI bindings",
+    "license": "MIT",
+    "web": "https://github.com/dariolah/niup"
   }
 ]
