@@ -13478,5 +13478,19 @@
     "description": "A game engine for rapid development and easy prototyping",
     "license": "MIT",
     "web": "https://github.com/liquid600pgm/rapid"
+  },
+  {
+    "name": "gnutls",
+    "url": "https://github.com/FedericoCeratto/nim-gnutls",
+    "method": "git",
+    "tags": [
+      "wrapper",
+      "library",
+      "security",
+      "crypto"
+    ],
+    "description": "GnuTLS wrapper",
+    "license": "LGPLv2.1",
+    "web": "https://github.com/FedericoCeratto/nim-gnutls"
   }
 ]
