@@ -39,7 +39,6 @@
 import httpclient, json, net, os, sets, strutils, logging, unittest, ospaths, sequtils
 
 const
-<<<<<<< HEAD
   allow_broken_url* = true     ## Allow broken Repo URLs
   allow_missing_nimble* = true ## Allow missing ``*.nimble`` files
   check_nimble_file* = true    ## Check if repos have ``*.nimble`` file
@@ -106,30 +105,6 @@ let
   client* = newHttpClient(timeout = http_timeout) ## HTTP Client with Timeout
   console_logger* = newConsoleLogger(fmtStr = verboseFmtStr) ## Basic Logger
 addHandler(console_logger)
-=======
-  LICENSES = @[
-    "Allegro 4 Giftware",
-    "Apache License 2.0",
-    "BSD",
-    "BSD2",
-    "BSD3",
-    "CC0",
-    "GPL",
-    "GPLv2",
-    "GPLv3",
-    "LGPLv2",
-    "LGPLv3",
-    "MIT",
-    "MS-PL",
-    "MPL",
-    "WTFPL",
-    "libpng",
-    "zlib",
-    "ISC",
-    "Unlicense"
-  ]
-  VCS_TYPES = @["git", "hg"]
->>>>>>> efdcc9f9315e9f3c026bfe101b61ce88f01d1db6
 
 func strip_ending_slash*(url: string): string =
   ## Strip the ending '/' if any else return the same string.
@@ -178,7 +153,6 @@ proc git_repo_exists*(url: string): string =
     result = url  # SSH or other non-HTTP kinda URLs?
 
 
-<<<<<<< HEAD
 suite "Packages consistency testing":
 
   var
@@ -300,46 +274,6 @@ suite "Packages consistency testing":
       if nonexistent.len > 0 and allow_broken_url:
         warn "Missing repos list:\n" & nonexistent.join("\n  ")
         warn "Missing repos count: " & $nonexistent.len & " of " & $pckgs_list.len
-=======
-proc check(): int =
-  var name: string
-  echo ""
-  let pkg_list = parseJson(readFile(getCurrentDir() / "packages.json"))
-  var names = initSet[string]()
-
-  for pdata in pkg_list:
-    name = if pdata.hasKey("name"): pdata["name"].str else: ""
-
-    if pdata.hasKey("alias"):
-      verifyAlias(pdata, result)
-    else:
-      if name == "":
-        echo "E: missing package name"
-        result.inc()
-      elif not pdata.hasKey("method"):
-        echo "E: ", name, " has no method"
-        result.inc()
-      elif not (pdata["method"].str in VCS_TYPES):
-        echo "E: ", name, " has an unknown method: ", pdata["method"].str
-        result.inc()
-      elif not pdata.hasKey("url"):
-        echo "E: ", name, " has no URL"
-        result.inc()
-      elif pdata.hasKey("web") and not canFetchNimbleRepository(name, pdata["web"]):
-        result.inc()
-      elif not pdata.hasKey("tags"):
-        echo "E: ", name, " has no tags"
-        result.inc()
-      elif not pdata.hasKey("description"):
-        echo "E: ", name, " has no description"
-        result.inc()
-      elif not pdata.hasKey("license"):
-        echo "E: ", name, " has no license"
-        result.inc()
-      elif pdata["url"].str.normalize.startsWith("git://github.com/"):
-        echo "E: ", name, " has an insecure git:// URL instead of https://"
-        result.inc()
->>>>>>> efdcc9f9315e9f3c026bfe101b61ce88f01d1db6
       else:
         doAssert nonexistent.len == 0, "Missing repos: Broken Packages."
       if nimble_nonexistent.len > 0 and allow_missing_nimble:
