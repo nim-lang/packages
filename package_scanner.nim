@@ -67,7 +67,7 @@ const
   nodeCmd = "node ./validate_json.js"
   pythonCmd = "python3 ./validate_json.py"
   rubyCmd = "ruby ./validate_json.rb"
-  defaultFilePermissions = {fpUserWrite, fpUserRead, fpGroupRead, fpOthersRead}
+  defaultFilePermissions = {fpUserWrite, fpUserRead, fpGroupWrite, fpGroupRead, fpOthersRead}
   packagesFilePath = currentSourcePath().parentDir / "packages.json"
   packagesJsonStr = readFile(packagesFilePath)
   # profanitiesStr = readFile(currentSourcePath().parentDir / "profanities.txt").normalize.splitLines
@@ -161,6 +161,7 @@ func preprocessUrl(url, name): string =
 
 proc existsNimbleFile(url, name): string =
   ## Take **Normalized** URL & Name try to Fetch the Nimble file. Needs SSL.
+  debug url
   if url.startswith("http"):
     try:
       let urly = preprocessUrl(url, name)
@@ -171,8 +172,6 @@ proc existsNimbleFile(url, name): string =
       warn("HttpClient request error fetching repo: " & url, getCurrentExceptionMsg())
     except:
       warn("Unkown Error fetching repo: " & url, getCurrentExceptionMsg())
-    finally:
-      debug url
   else:
     result = url  # SSH or other non-HTTP kinda URLs?
 
@@ -197,7 +196,7 @@ suite "Packages consistency testing":
     urls = initHashSet[string]()
 
   test "Check file permissions":
-    check getFilePermissions(packagesFilePath) == defaultFilePermissions
+    check getFilePermissions(packagesFilePath) in defaultFilePermissions
 
   test "Check validate whole JSON by NodeJS":
     check execCmd(nodeCmd) == 0
