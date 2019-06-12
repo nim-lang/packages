@@ -53,7 +53,7 @@ const
   allowMissingNimble = true  ## Allow missing ``*.nimble`` files
   checkNimbleFile = true     ## Check if repos have ``*.nimble`` file
   checkProfanity = false     ## Check for Profanities
-  checkByGit = false         ## Check via Git
+  checkByGit = true          ## Check via Git
   httpTimeout = 10_000       ## Timeout. Below ~2000 false positives happen?
   tagsMaxLen = 32            ## Maximum lenght for the string in tags
   tagsMaximum = 17           ## Maximum number of tags allowed on the list
