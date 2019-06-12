@@ -176,7 +176,6 @@ proc existsNimbleFile(url, name): string =
 
 proc existsGitRepo(url): string =
   ## Take **Normalized** URL try to Fetch the Git repo index page. Needs SSL.
-  debug url
   if url.startswith("http"):
     try:
       doAssert client.get(url).status == $Http200 # Check that Repo Exists.
@@ -325,6 +324,8 @@ suite "Packages consistency testing":
           if url.startsWith(skipurl):
             skip = true
         if skip: continue
+
+        echo url
 
         # Check that the Git Repo actually exists.
         var this_repo = existsGitRepo(url=url) # Fetch test.
