@@ -196,7 +196,7 @@ suite "Packages consistency testing":
     urls = initHashSet[string]()
 
   test "Check file permissions":
-    check getFilePermissions(packagesFilePath) in defaultFilePermissions
+    check getFilePermissions(packagesFilePath) == defaultFilePermissions
 
   test "Check validate whole JSON by NodeJS":
     check execCmd(nodeCmd) == 0
