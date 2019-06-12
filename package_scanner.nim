@@ -25,7 +25,6 @@
 ## - Maximum number of tags
 ## - Maximum lenght of tags
 ## - Alias relate to Names
-## - Profanity Filter by Levenshtein Distance.
 ## - Try to download the nimble file from the repo.
 ## - Try to Git clone the repo (deletes folder after).
 ## - Works online/offline
@@ -52,13 +51,11 @@ const
   allowBrokenUrl = true      ## Allow broken Repo URLs
   allowMissingNimble = true  ## Allow missing ``*.nimble`` files
   checkNimbleFile = true     ## Check if repos have ``*.nimble`` file
-  checkProfanity = false     ## Check for Profanities
   checkByGit = false         ## Check via Git
   httpTimeout = 10_000       ## Timeout. Below ~2000 false positives happen?
   tagsMaxLen = 32            ## Maximum lenght for the string in tags
   tagsMaximum = 17           ## Maximum number of tags allowed on the list
   lineLenMax = 250           ## Maximum line lenght for values
-  profanityLevensteinMax = 1 ## Levenstein Distance algo threshold
   vcsTypes = ["git", "hg"]   ## Valid known Version Control Systems.
   tagsBlacklist = ["nimrod", "nim"] ## Tags that should be not allowed.
   keysRequired = ["name", "url", "method", "tags", "description", "license"]
@@ -130,8 +127,7 @@ const
     "mit or apache 2.0",
     "lgpl with static linking exception",
   ]  ## All valid known licences for Nimble packages, on lowercase.
-when checkProfanity:
-  const profanitiesStr = readFile(currentSourcePath().parentDir / "profanities.txt").normalize.splitLines
+
 
 let
   packagesJson = parseJson(packagesJsonStr).getElems         ## ``string`` to ``JsonNode``
@@ -141,8 +137,7 @@ let
   report = newJUnitOutputFormatter(openFileStream("report.xml", fmWrite)) ## JUnit Report XML
 addOutputFormatter(defaultConsoleFormatter())
 addOutputFormatter(report)
-when checkProfanity:
-  let profanities = filterIt(profanitiesStr, it.len > 0 and not(it.startsWith"#"))
+
 
 proc handler() {.noconv.} =
   quit("CTRL+C Pressed, package_scanner is shutting down, Bye.")
@@ -292,21 +287,6 @@ suite "Packages consistency testing":
       var alias = pdata["alias"].str
       check alias.len == alias.strip.len
       check alias.strip.toLowerAscii in names  # Alias must relate to a name
-
-  test "Check Profanity Filter by Levenshtein Distance":
-    when checkProfanity:
-      for pdata in pckgsList:
-        # Name
-        for badword in profanities:
-          check editDistanceAscii(pdata["name"].str.normalize, badword) >= profanityLevensteinMax
-        # Tags
-        for tag in pdata["tags"]:
-          for badword in profanities:
-            check editDistanceAscii(tag.str.normalize, badword) >= profanityLevensteinMax
-        # Description
-        for description in pdata["description"].str.normalize.splitWhitespace:
-          for badword in profanities:
-            check editDistanceAscii(description, badword) >= profanityLevensteinMax
 
   test "Check URLs On-Line by Git":
     when checkByGit:
