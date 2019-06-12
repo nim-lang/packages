@@ -7,21 +7,21 @@ language: c
 cache:
   directories:
     - "$HOME/.choosenim"
-    - "$HOME/csources"
 
 env:
   global:
-    - TAG="v0.20.0"
     - CHOOSENIM_CHOOSE_VERSION="0.20.0"
     - CHOOSENIM_NO_ANALYTICS=1
-    - PATH="$PWD/bin:$PWD/csources/bin:$PATH"
-    - CPU=amd64
+    - PATH=$HOME/.nimble/bin:$PATH
 
 install:
-  - git clone --depth 1 --branch $TAG https://github.com/nim-lang/csources.git
+  - |
+      curl https://nim-lang.org/choosenim/init.sh -sSf > init.sh
+      sh init.sh -y
 
 before_script:
-  - make -C csources -j 2 LD=$CC ucpu=$CPU
+  - set -e
+  - set -x
 
 script:
   - nim c -d:ssl -d:release -r package_scanner.nim
