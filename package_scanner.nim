@@ -161,7 +161,6 @@ func preprocessUrl(url, name): string =
 
 proc existsNimbleFile(url, name): string =
   ## Take **Normalized** URL & Name try to Fetch the Nimble file. Needs SSL.
-  debug url
   if url.startswith("http"):
     try:
       let urly = preprocessUrl(url, name)
@@ -177,6 +176,7 @@ proc existsNimbleFile(url, name): string =
 
 proc existsGitRepo(url): string =
   ## Take **Normalized** URL try to Fetch the Git repo index page. Needs SSL.
+  debug url
   if url.startswith("http"):
     try:
       doAssert client.get(url).status == $Http200 # Check that Repo Exists.
