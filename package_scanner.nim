@@ -4,6 +4,9 @@
 ## - Tests the ``package.json`` list from this repository.
 ##
 ## Check the packages for:
+## - Validate by parsing with NodeJS
+## - Validate by parsing with Python
+## - Validate by parsing with Ruby
 ## - Missing name
 ## - Missing/unknown method
 ## - Missing/unreachable repository
@@ -22,6 +25,9 @@
 ## - Maximum number of tags
 ## - Maximum lenght of tags
 ## - Alias relate to Names
+## - Profanity Filter by Levenshtein Distance.
+## - Try to download the nimble file from the repo.
+## - Try to Git clone the repo (deletes folder after).
 ## - Works online/offline
 ##
 ## Use
@@ -36,31 +42,48 @@
 ## Based and inspired on a previous ``package_scanner.nim`` from:
 ## Copyright 2015 Federico Ceratto <federico.ceratto@gmail.com>
 ## Released under GPLv3 License, see /usr/share/common-licenses/GPL-3
-import httpclient, json, net, os, sets, strutils, logging, unittest, ospaths, sequtils
+
+import
+  httpclient, json, net, os, osproc, sets, strutils, streams, logging,
+  unittest, sequtils, std/editdistance
+
 
 const
-  allow_broken_url* = true     ## Allow broken Repo URLs
-  allow_missing_nimble* = true ## Allow missing ``*.nimble`` files
-  check_nimble_file* = true    ## Check if repos have ``*.nimble`` file
-  http_timeout* = 2_000        ## Timeout. Below ~2000 false positives happen?
-  tags_max_len* = 32           ## Maximum lenght for the string in tags
-  tags_maximum* = 16           ## Maximum number of tags allowed on the list
-  vcs_types* = ["git", "hg"]   ## Valid known Version Control Systems.
-  tags_blacklist* = ["nimrod", "nim"] ## Tags that should be not allowed.
-  keys_required* = ["name", "url", "method", "tags", "description", "license"]
-  packages_json_str = readFile(currentSourcePath().parentDir / "packages.json")
-  hosts_skip* = [
+  allowBrokenUrl = true      ## Allow broken Repo URLs
+  allowMissingNimble = true  ## Allow missing ``*.nimble`` files
+  checkNimbleFile = true     ## Check if repos have ``*.nimble`` file
+  checkProfanity = false     ## Check for Profanities
+  checkByGit = false         ## Check via Git
+  httpTimeout = 10_000       ## Timeout. Below ~2000 false positives happen?
+  tagsMaxLen = 32            ## Maximum lenght for the string in tags
+  tagsMaximum = 17           ## Maximum number of tags allowed on the list
+  lineLenMax = 250           ## Maximum line lenght for values
+  profanityLevensteinMax = 1 ## Levenstein Distance algo threshold
+  vcsTypes = ["git", "hg"]   ## Valid known Version Control Systems.
+  tagsBlacklist = ["nimrod", "nim"] ## Tags that should be not allowed.
+  keysRequired = ["name", "url", "method", "tags", "description", "license"]
+  gitTempDir = "/tmp/gitTempDir"
+  gitCmd = "git clone --quiet --no-checkout --no-tags --bare --depth 1 $1 " & gitTempDir
+  nodeCmd = "node ./validate_json.js"
+  pythonCmd = "python3 ./validate_json.py"
+  rubyCmd = "ruby ./validate_json.rb"
+  defaultFilePermissions = {fpUserWrite, fpUserRead, fpGroupRead, fpOthersRead}
+  packagesFilePath = currentSourcePath().parentDir / "packages.json"
+  packagesJsonStr = readFile(packagesFilePath)
+  # profanitiesStr = readFile(currentSourcePath().parentDir / "profanities.txt").normalize.splitLines
+  hostsSkip = [
     "https://bitbucket",
     "https://gitlab.3dicc",
     "https://mahlon@bitbucket",
     "https://notabug",
   ] ## Hostnames to skip checks, for reliability, wont like direct HTTP GET?.
-  licenses* = [
+  licenses = [
     "allegro 4 giftware",
     "apache",
     "apache2",
     "apache2.0",
     "apache 2.0",
+    "apache-2.0",
     "apache version 2.0",
     "apache license 2.0",
     "bsd",
@@ -69,11 +92,15 @@ const
     "bsd3",
     "bsd-3",
     "bsd 2-clause",
+    "bsd-2-clause",
     "bsd 3-clause",
+    "bsd-3-clause",
     "cc0",
     "gpl",
     "gpl2",
+    "gpl-2.0",
     "gpl3",
+    "gpl-3.0",
     "gplv2",
     "gplv3",
     "lgpl",
@@ -83,52 +110,60 @@ const
     "mit",
     "ms-pl",
     "mpl",
+    "ppl",
     "wtfpl",
     "libpng",
     "zlib",
     "isc",
     "unlicense",
     # Not concrete Licenses, but some rare cases observed on the JSON.
+    "0bsd",
+    "agplv3",
+    "agpl-3.0",
+    "apache license 2.0 or mit",
     "fontconfig",
+    "gnu lesser general public license v2.1",
     "public domain",
     "lgplv3 or gplv2",
     "openssl and ssleay",
+    "openldap",
     "apache 2.0 or gplv2",
     "mit or apache 2.0",
     "lgpl with static linking exception",
   ]  ## All valid known licences for Nimble packages, on lowercase.
 
+
 let
-  packages_json* = parseJson(packages_json_str).getElems         ## ``string`` to ``JsonNode``
-  pckgs_list* = filter_it(packages_json, not it.hasKey("alias")) ## Packages, without Aliases
-  alias_list* = filter_it(packages_json, it.hasKey("alias"))     ## Aliases, without Packages
-  client* = newHttpClient(timeout = http_timeout) ## HTTP Client with Timeout
-  console_logger* = newConsoleLogger(fmtStr = verboseFmtStr) ## Basic Logger
-addHandler(console_logger)
+  # profanities = filterIt(profanitiesStr, it.len > 0 and not(it.startsWith"#"))
+  packagesJson = parseJson(packagesJsonStr).getElems         ## ``string`` to ``JsonNode``
+  pckgsList = filterIt(packagesJson, not it.hasKey("alias")) ## Packages, without Aliases
+  aliasList = filterIt(packagesJson, it.hasKey("alias"))     ## Aliases, without Packages
+  client = newHttpClient(timeout = httpTimeout) ## HTTP Client with Timeout
+  report = newJUnitOutputFormatter(openFileStream("report.xml", fmWrite)) ## JUnit Report XML
+addOutputFormatter(defaultConsoleFormatter())
+addOutputFormatter(report)
 
-func strip_ending_slash*(url: string): string =
+using url, name: string
+
+func stripEndingSlash(url): string {.inline.} =
   ## Strip the ending '/' if any else return the same string.
-  if url[url.len - 1] == '/':      # if ends in '/'
-    result = url[0 .. url.len - 2] # Remove it.
-  else:
-    result = url
+  result = if url[^1] == '/': url[0 .. url.len - 2] else: url
 
-func preprocess_url*(url, name: string): string =
+func preprocessUrl(url, name): string =
   ## Take **Normalized** URL & Name return Download link. GitHub & GitLab supported.
-  if url.startswith("https://github.com/"):
+  if likely(url.startswith("https://github.com/")):
     result = url.replace("https://github.com/", "https://raw.githubusercontent.com/")
-    result = strip_ending_slash(result)
+    result = stripEndingSlash(result)
     result &= "/master/" & name & ".nimble"
-  elif url.startswith("https://0xacab.org/") or url.startswith("https://gitlab."):
-    result = strip_ending_slash(result)
+  elif unlikely(url.startswith("https://0xacab.org/") or url.startswith("https://gitlab.")):
+    result = stripEndingSlash(result)
     result &= "/raw/master/" & name & ".nimble"
 
-proc nimble_file_exists*(url, name: string): string =
+proc existsNimbleFile(url, name): string =
   ## Take **Normalized** URL & Name try to Fetch the Nimble file. Needs SSL.
-  debug url
   if url.startswith("http"):
     try:
-      let urly = preprocess_url(url, name)
+      let urly = preprocessUrl(url, name)
       doAssert urly.len > 0, "GIT or HG Hosting not supported: " & url
       doAssert client.get(url).status == $Http200 # Check that Repo Exists.
       result = urly
@@ -136,10 +171,12 @@ proc nimble_file_exists*(url, name: string): string =
       warn("HttpClient request error fetching repo: " & url, getCurrentExceptionMsg())
     except:
       warn("Unkown Error fetching repo: " & url, getCurrentExceptionMsg())
+    finally:
+      debug url
   else:
     result = url  # SSH or other non-HTTP kinda URLs?
 
-proc git_repo_exists*(url: string): string =
+proc existsGitRepo(url): string =
   ## Take **Normalized** URL try to Fetch the Git repo index page. Needs SSL.
   if url.startswith("http"):
     try:
@@ -156,40 +193,54 @@ proc git_repo_exists*(url: string): string =
 suite "Packages consistency testing":
 
   var
-    names = initSet[string]()
-    urls = initSet[string]()
+    names = initHashSet[string]()
+    urls = initHashSet[string]()
+
+  test "Check file permissions":
+    check getFilePermissions(packagesFilePath) == defaultFilePermissions
+
+  test "Check validate whole JSON by NodeJS":
+    check execCmd(nodeCmd) == 0
+
+  test "Check validate whole JSON by Python":
+    check execCmd(pythonCmd) == 0
+
+  test "Check validate whole JSON by Ruby":
+    check execCmd(rubyCmd) == 0
 
   test "Check Basic Structure":
-    for pdata in pckgs_list:
-      for key in keys_required:
+    for pdata in pckgsList:
+      for key in keysRequired:
         if pdata.hasKey(key):
           if key == "tags":
             check pdata[key].kind == JArray  # Tags is array
             check pdata[key].len > 0         # Tags can not be empty
           else:
-            check pdata[key].kind == JString # Other keys are string
-            check pdata[key].str.len > 0     # No field can be empty string
+            check pdata[key].kind == JString      # Other keys are string
+            check pdata[key].str.len > 0          # No field can be empty string
+            check pdata[key].str.len < lineLenMax # No field can be empty string
+            check r"\t" notin pdata[key].str      # No Tabs
         else:
           fatal("Missing Keys on the JSON (making it invalid): " & $key)
 
   test "Check Tags":
-    for pdata in pckgs_list:
+    for pdata in pckgsList:
       check pdata["tags"].len > 0            # Minimum number of tags
-      check tags_maximum > pdata["tags"].len # Maximum number of tags
+      check tagsMaximum > pdata["tags"].len # Maximum number of tags
       for tagy in pdata["tags"]:
         check tagy.str.strip.len >= 1     # No empty string tags
-        check tags_max_len > tagy.str.len # Maximum lenght of tags
-        check tagy.str.strip.toLowerAscii notin tags_blacklist
+        check tagsMaxLen > tagy.str.len # Maximum lenght of tags
+        check tagy.str.strip.toLowerAscii notin tagsBlacklist
 
   test "Check Methods":
-    for pdata in pckgs_list:
+    for pdata in pckgsList:
       var metod = pdata["method"]
       check metod.kind == JString
       check metod.str.len == pdata["method"].str.strip.len
-      check metod.str in vcs_types
+      check metod.str in vcsTypes
 
   test "Check Licenses":
-    for pdata in pckgs_list:
+    for pdata in pckgsList:
       var license = pdata["license"]
       check license.kind == JString
       check license.str.len == license.str.strip.len
@@ -197,7 +248,7 @@ suite "Packages consistency testing":
       check license.str.normalize in licenses
 
   test "Check Names":
-    for pdata in pckgs_list:
+    for pdata in pckgsList:
       var name = pdata["name"]
       check name.kind == JString
       check name.str.len == name.str.strip.len # No Whitespace
@@ -207,7 +258,7 @@ suite "Packages consistency testing":
         fatal("Package by that name already exists: " & $name)
 
   test "Check Webs":
-    for pdata in pckgs_list:
+    for pdata in pckgsList:
       if pdata.hasKey("web"):
         var weeb = pdata["web"]
         check weeb.kind == JString
@@ -219,7 +270,7 @@ suite "Packages consistency testing":
         check(not weeb.str.strip.startsWith("http://0xacab.org"))
 
   test "Check URLs Off-Line":
-    for pdata in pckgs_list:
+    for pdata in pckgsList:
       var url = pdata["url"].str
       check url.len == url.strip.len # No Whitespace
       # Insecure Link URLs
@@ -234,53 +285,78 @@ suite "Packages consistency testing":
 
   test "Check Alias":
     doAssert names.len > 0, $names
-    doAssert alias_list.len > 0, $alias_list
-    for pdata in alias_list:
+    doAssert aliasList.len > 0, $aliasList
+    for pdata in aliasList:
       var alias = pdata["alias"].str
       check alias.len == alias.strip.len
       check alias.strip.toLowerAscii in names  # Alias must relate to a name
 
-  test "Check URLs On-Line":
+  test "Check Profanity Filter by Levenshtein Distance":
+    when checkProfanity:
+      for pdata in pckgsList:
+        # Name
+        for badword in profanities:
+          check editDistanceAscii(pdata["name"].str.normalize, badword) >= profanityLevensteinMax
+        # Tags
+        for tag in pdata["tags"]:
+          for badword in profanities:
+            check editDistanceAscii(tag.str.normalize, badword) >= profanityLevensteinMax
+        # Description
+        for description in pdata["description"].str.normalize.splitWhitespace:
+          for badword in profanities:
+            check editDistanceAscii(description, badword) >= profanityLevensteinMax
+
+  test "Check URLs On-Line by Git":
+    when checkByGit:
+      for pdata in pckgsList:
+        removeDir(gitTempDir)
+        check execCmd(gitCmd.format(pdata["url"].str)) == 0
+
+  test "Check URLs On-Line by HttpClient":
     when defined(ssl):
       var existent, nonexistent, nimble_existent, nimble_nonexistent: seq[string]
-      for pdata in pckgs_list:
+      for pdata in pckgsList:
         var
           skip: bool
           url = pdata["url"].str.strip.toLowerAscii
           name = pdata["name"].str.normalize
 
         # Some hostings randomly timeout or fail sometimes, skip them.
-        for skipurl in hosts_skip:
+        for skipurl in hostsSkip:
           if url.startsWith(skipurl):
             skip = true
         if skip: continue
 
         # Check that the Git Repo actually exists.
-        var this_repo = git_repo_exists(url=url) # Fetch test.
+        var this_repo = existsGitRepo(url=url) # Fetch test.
         if this_repo.len > 0:
           existent.add this_repo
         else:
           nonexistent.add url
 
         # Check for Nimble Files on Existent Repos.
-        if this_repo.len > 0 and check_nimble_file:
-          var this_nimble = nimble_file_exists(url=this_repo, name=name)
+        if this_repo.len > 0 and checkNimbleFile:
+          var this_nimble = existsNimbleFile(url=this_repo, name=name)
           if this_nimble.len > 0:
             nimble_existent.add this_nimble
           else:
             nimble_nonexistent.add url
 
       # Warn or Assert the possible errors at the end.
-      if nonexistent.len > 0 and allow_broken_url:
+      if nonexistent.len > 0 and allowBrokenUrl:
         warn "Missing repos list:\n" & nonexistent.join("\n  ")
-        warn "Missing repos count: " & $nonexistent.len & " of " & $pckgs_list.len
+        warn "Missing repos count: " & $nonexistent.len & " of " & $pckgsList.len
       else:
         doAssert nonexistent.len == 0, "Missing repos: Broken Packages."
-      if nimble_nonexistent.len > 0 and allow_missing_nimble:
+      if nimble_nonexistent.len > 0 and allowMissingNimble:
         warn "Missing Nimble files:\n" & nimble_nonexistent.join("\n  ")
-        warn "Missing Nimble files count: " & $nimble_nonexistent.len & " of " & $pckgs_list.len
+        warn "Missing Nimble files count: " & $nimble_nonexistent.len & " of " & $pckgsList.len
       else:
         doAssert nimble_nonexistent.len == 0, "Missing Nimble files: Broken Packages."
 
     else:
-      info "Compile with SSL to do checking of Repo URLs On-Line: '-d:ssl'."
+      {.hint: "Compile with SSL to do checking of Repo URLs On-Line: '-d:ssl'.".}
+
+
+report.close()
+{.hints: off.}
