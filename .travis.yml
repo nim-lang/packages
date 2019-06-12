@@ -10,18 +10,17 @@ cache:
 
 env:
   global:
+    - TAG="v0.20.0"
     - CHOOSENIM_CHOOSE_VERSION="0.20.0"
     - CHOOSENIM_NO_ANALYTICS=1
-    - PATH=$HOME/.nimble/bin:$PATH
+    - PATH="$PWD/bin${PATH:+:$PATH}"
+    - CPU=amd64
 
 install:
-  - |
-      curl https://nim-lang.org/choosenim/init.sh -sSf > init.sh
-      sh init.sh -y
+  - git clone --depth 1 --branch $TAG https://github.com/nim-lang/csources.git
 
 before_script:
-  - set -e
-  - set -x
+  - make -C csources -j 2 LD=$CC ucpu=$CPU
 
 script:
   - nim c -d:ssl -d:release -r package_scanner.nim

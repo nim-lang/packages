@@ -325,7 +325,7 @@ suite "Packages consistency testing":
             skip = true
         if skip: continue
 
-        echo url
+        echo url  # Do Not remove, Travis quits with "N minutes without output, job cancelled".
 
         # Check that the Git Repo actually exists.
         var this_repo = existsGitRepo(url=url) # Fetch test.
