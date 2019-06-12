@@ -143,6 +143,10 @@ let
 addOutputFormatter(defaultConsoleFormatter())
 addOutputFormatter(report)
 
+proc handler() {.noconv.} =
+  quit("CTRL+C Pressed, package_scanner is shutting down, Bye.")
+setControlCHook(handler)
+
 using url, name: string
 
 func stripEndingSlash(url): string {.inline.} =
