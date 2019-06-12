@@ -63,7 +63,7 @@ const
   tagsBlacklist = ["nimrod", "nim"] ## Tags that should be not allowed.
   keysRequired = ["name", "url", "method", "tags", "description", "license"]
   gitTempDir = "/tmp/gitTempDir"
-  gitCmd = "git clone --quiet --no-checkout --no-tags --bare --depth 1 $1 " & gitTempDir
+  gitCmd = "git clone --no-checkout --no-tags --bare --depth 1 $1 " & gitTempDir
   nodeCmd = "node ./validate_json.js"
   pythonCmd = "python3 ./validate_json.py"
   rubyCmd = "ruby ./validate_json.rb"

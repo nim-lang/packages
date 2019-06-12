@@ -24,7 +24,7 @@ before_script:
   - set -x
 
 script:
-  - nim c -d:ssl -d:release -r package_scanner.nim
+  - nim c -d:ssl -d:release -d:danger -r package_scanner.nim
 
 notifications:
   email: false # noisy
