@@ -148,13 +148,12 @@ proc handler() {.noconv.} =
   quit("CTRL+C Pressed, package_scanner is shutting down, Bye.")
 setControlCHook(handler)
 
-using url, name: string
 
-func stripEndingSlash(url): string {.inline.} =
+func stripEndingSlash(url: string): string {.inline.} =
   ## Strip the ending '/' if any else return the same string.
   result = if url[^1] == '/': url[0 .. url.len - 2] else: url
 
-func preprocessUrl(url, name): string =
+func preprocessUrl(url, name: string): string =
   ## Take **Normalized** URL & Name return Download link. GitHub & GitLab supported.
   if likely(url.startswith("https://github.com/")):
     result = url.replace("https://github.com/", "https://raw.githubusercontent.com/")
@@ -164,7 +163,7 @@ func preprocessUrl(url, name): string =
     result = stripEndingSlash(result)
     result &= "/raw/master/" & name & ".nimble"
 
-proc existsNimbleFile(url, name): string =
+proc existsNimbleFile(url, name: string): string =
   ## Take **Normalized** URL & Name try to Fetch the Nimble file. Needs SSL.
   if url.startswith("http"):
     try:
@@ -179,7 +178,7 @@ proc existsNimbleFile(url, name): string =
   else:
     result = url  # SSH or other non-HTTP kinda URLs?
 
-proc existsGitRepo(url): string =
+proc existsGitRepo(url: string): string =
   ## Take **Normalized** URL try to Fetch the Git repo index page. Needs SSL.
   if url.startswith("http"):
     try:
@@ -317,7 +316,7 @@ suite "Packages consistency testing":
 
   test "Check URLs On-Line by HttpClient":
     when defined(ssl):
-      var existent, nonexistent, nimble_existent, nimble_nonexistent: seq[string]
+      var existent, nonexistent, nimbleExistent, nimbleNonexistent: seq[string]
       for pdata in pckgsList:
         var
           skip: bool
@@ -343,9 +342,9 @@ suite "Packages consistency testing":
         if this_repo.len > 0 and checkNimbleFile:
           var this_nimble = existsNimbleFile(url=this_repo, name=name)
           if this_nimble.len > 0:
-            nimble_existent.add this_nimble
+            nimbleExistent.add this_nimble
           else:
-            nimble_nonexistent.add url
+            nimbleNonexistent.add url
 
       # Warn or Assert the possible errors at the end.
       if nonexistent.len > 0 and allowBrokenUrl:
@@ -353,11 +352,11 @@ suite "Packages consistency testing":
         warn "Missing repos count: " & $nonexistent.len & " of " & $pckgsList.len
       else:
         doAssert nonexistent.len == 0, "Missing repos: Broken Packages."
-      if nimble_nonexistent.len > 0 and allowMissingNimble:
-        warn "Missing Nimble files:\n" & nimble_nonexistent.join("\n  ")
-        warn "Missing Nimble files count: " & $nimble_nonexistent.len & " of " & $pckgsList.len
+      if nimbleNonexistent.len > 0 and allowMissingNimble:
+        warn "Missing Nimble files:\n" & nimbleNonexistent.join("\n  ")
+        warn "Missing Nimble files count: " & $nimbleNonexistent.len & " of " & $pckgsList.len
       else:
-        doAssert nimble_nonexistent.len == 0, "Missing Nimble files: Broken Packages."
+        doAssert nimbleNonexistent.len == 0, "Missing Nimble files: Broken Packages."
 
     else:
       {.hint: "Compile with SSL to do checking of Repo URLs On-Line: '-d:ssl'.".}
