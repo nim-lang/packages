@@ -13492,5 +13492,17 @@
     "description": "GnuTLS wrapper",
     "license": "LGPLv2.1",
     "web": "https://github.com/FedericoCeratto/nim-gnutls"
+  },
+  {
+    "name": "news",
+    "url": "https://github.com/tormund/news",
+    "method": "git",
+    "tags": [
+      "websocket",
+      "chronos"
+    ],
+    "description": "Easy websocket with chronos support",
+    "license": "MIT",
+    "web": "https://github.com/tormund/news"
   }
 ]
