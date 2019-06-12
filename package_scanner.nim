@@ -62,8 +62,6 @@ const
   gitTempDir = "/tmp/gitTempDir"
   gitCmd = "git clone --no-checkout --no-tags --bare --depth 1 $1 " & gitTempDir
   nodeCmd = "node ./validate_json.js"
-  pythonCmd = "python3 ./validate_json.py"
-  rubyCmd = "ruby ./validate_json.rb"
   defaultFilePermissions = {fpUserWrite, fpUserRead, fpGroupWrite, fpGroupRead, fpOthersRead}
   packagesFilePath = currentSourcePath().parentDir / "packages.json"
   packagesJsonStr = readFile(packagesFilePath)
@@ -198,12 +196,6 @@ suite "Packages consistency testing":
 
   test "Check validate whole JSON by NodeJS":
     check execCmd(nodeCmd) == 0
-
-  test "Check validate whole JSON by Python":
-    check execCmd(pythonCmd) == 0
-
-  test "Check validate whole JSON by Ruby":
-    check execCmd(rubyCmd) == 0
 
   test "Check Basic Structure":
     for pdata in pckgsList:
