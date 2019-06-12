@@ -1,6 +1,6 @@
 os:
   - linux
-dist: trusty
+dist: xenial
 
 language: c
 
@@ -8,19 +8,22 @@ cache:
   directories:
     - "$HOME/.choosenim"
 
+env:
+  - CHOOSENIM_CHOOSE_VERSION="0.20.0"
+  - CHOOSENIM_NO_ANALYTICS=1
+  - PATH=$HOME/.nimble/bin:$PATH
+
 install:
-  - export CHOOSENIM_CHOOSE_VERSION="0.19.0"
   - |
       curl https://nim-lang.org/choosenim/init.sh -sSf > init.sh
       sh init.sh -y
-  - export PATH=$HOME/.nimble/bin:$PATH
 
 before_script:
   - set -e
   - set -x
 
 script:
-  - nim c -d:ssl -r package_scanner.nim && node ./validate_json.js
+  - nim c -d:ssl -d:release -r package_scanner.nim
 
 notifications:
   email: false # noisy
