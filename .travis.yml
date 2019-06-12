@@ -24,7 +24,7 @@ before_script:
   - make -C csources -j 2 LD=$CC ucpu=$CPU
 
 script:
-  - nim c -d:ssl -d:release -r package_scanner.nim
+  - $PWD/bin/nim c -d:ssl -d:release -r package_scanner.nim
 
 notifications:
   email: false # noisy
