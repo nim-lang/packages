@@ -70,7 +70,6 @@ const
   defaultFilePermissions = {fpUserWrite, fpUserRead, fpGroupWrite, fpGroupRead, fpOthersRead}
   packagesFilePath = currentSourcePath().parentDir / "packages.json"
   packagesJsonStr = readFile(packagesFilePath)
-  # profanitiesStr = readFile(currentSourcePath().parentDir / "profanities.txt").normalize.splitLines
   hostsSkip = [
     "https://bitbucket",
     "https://gitlab.3dicc",
@@ -131,10 +130,10 @@ const
     "mit or apache 2.0",
     "lgpl with static linking exception",
   ]  ## All valid known licences for Nimble packages, on lowercase.
-
+when checkProfanity:
+  const profanitiesStr = readFile(currentSourcePath().parentDir / "profanities.txt").normalize.splitLines
 
 let
-  # profanities = filterIt(profanitiesStr, it.len > 0 and not(it.startsWith"#"))
   packagesJson = parseJson(packagesJsonStr).getElems         ## ``string`` to ``JsonNode``
   pckgsList = filterIt(packagesJson, not it.hasKey("alias")) ## Packages, without Aliases
   aliasList = filterIt(packagesJson, it.hasKey("alias"))     ## Aliases, without Packages
@@ -142,6 +141,8 @@ let
   report = newJUnitOutputFormatter(openFileStream("report.xml", fmWrite)) ## JUnit Report XML
 addOutputFormatter(defaultConsoleFormatter())
 addOutputFormatter(report)
+when checkProfanity:
+  let profanities = filterIt(profanitiesStr, it.len > 0 and not(it.startsWith"#"))
 
 proc handler() {.noconv.} =
   quit("CTRL+C Pressed, package_scanner is shutting down, Bye.")
