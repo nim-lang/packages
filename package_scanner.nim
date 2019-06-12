@@ -146,15 +146,15 @@ setControlCHook(handler)
 
 func stripEndingSlash(url: string): string {.inline.} =
   ## Strip the ending '/' if any else return the same string.
-  result = if url[^1] == '/': url[0 .. url.len - 2] else: url
+  result = if url[0..^2] == '/': url[0 .. url.len - 2] else: url
 
 func preprocessUrl(url, name: string): string =
   ## Take **Normalized** URL & Name return Download link. GitHub & GitLab supported.
-  if likely(url.startswith("https://github.com/")):
+  if url.startswith("https://github.com/"):
     result = url.replace("https://github.com/", "https://raw.githubusercontent.com/")
     result = stripEndingSlash(result)
     result &= "/master/" & name & ".nimble"
-  elif unlikely(url.startswith("https://0xacab.org/") or url.startswith("https://gitlab.")):
+  elif url.startswith("https://0xacab.org/") or url.startswith("https://gitlab."):
     result = stripEndingSlash(result)
     result &= "/raw/master/" & name & ".nimble"
 
