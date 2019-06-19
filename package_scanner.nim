@@ -5,8 +5,6 @@
 ##
 ## Check the packages for:
 ## - Validate by parsing with NodeJS
-## - Validate by parsing with Python
-## - Validate by parsing with Ruby
 ## - Missing name
 ## - Missing/unknown method
 ## - Missing/unreachable repository
@@ -32,8 +30,8 @@
 ## Use
 ## ---
 ##
-## - Off-line: ``nim c -r package_scanner2.nim`` (Faster, wont use Internet).
-## - On-line: ``nim c -d:ssl -r package_scanner2.nim`` (Checks URLs).
+## - Off-line: ``nim c -r -d:offline package_scanner.nim`` (Faster, wont use Internet).
+## - On-line: ``nim c -r package_scanner.nim`` (Checks URLs, needs SSL).
 ##
 ## Credits
 ## -------
@@ -66,10 +64,10 @@ const
   packagesFilePath = currentSourcePath().parentDir / "packages.json"
   packagesJsonStr = readFile(packagesFilePath)
   hostsSkip = [
-    "https://bitbucket",
-    "https://gitlab.3dicc",
-    "https://mahlon@bitbucket",
-    "https://notabug",
+    "bitbucket.org",
+    "gitlab.3dicc",
+    "mahlon@bitbucket.org",
+    "notabug.org",
   ] ## Hostnames to skip checks, for reliability, wont like direct HTTP GET?.
   licenses = [
     "allegro 4 giftware",
@@ -161,8 +159,10 @@ proc existsNimbleFile(url, name: string): string =
   if url.startswith("http"):
     try:
       let urly = preprocessUrl(url, name)
-      doAssert urly.len > 0, "GIT or HG Hosting not supported: " & url
-      doAssert client.get(url).status == $Http200 # Check that Repo Exists.
+      if urly.len == 0:
+        raise newException(HttpRequestError, "GIT Hosting not supported: " & url)
+      if client.get(url).status != $Http200: # Check that Repo Exists.
+        raise newException(HttpRequestError, "GIT Repo not found: " & url)
       result = urly
     except TimeoutError, HttpRequestError, AssertionError:
       warn("HttpClient request error fetching repo: " & url, getCurrentExceptionMsg())
@@ -175,7 +175,8 @@ proc existsGitRepo(url: string): string =
   ## Take **Normalized** URL try to Fetch the Git repo index page. Needs SSL.
   if url.startswith("http"):
     try:
-      doAssert client.get(url).status == $Http200 # Check that Repo Exists.
+      if client.get(url).status != $Http200:  # Check that Repo Exists.
+        raise newException(HttpRequestError, "GIT Repo not found: " & url)
       result = url
     except TimeoutError, HttpRequestError, AssertionError:
       warn("HttpClient request error fetching repo: " & url, getCurrentExceptionMsg())
@@ -288,47 +289,50 @@ suite "Packages consistency testing":
 
   test "Check URLs On-Line by HttpClient":
     when defined(ssl):
-      var existent, nonexistent, nimbleExistent, nimbleNonexistent: seq[string]
-      for pdata in pckgsList:
-        var
-          skip: bool
-          url = pdata["url"].str.strip.toLowerAscii
-          name = pdata["name"].str.normalize
+      when defined(offline):
+        {.hint: "Compile with no options to do checking of Repo URLs On-Line.".}
+      else:
+        var existent, nonexistent, nimbleExistent, nimbleNonexistent: seq[string]
+        for pdata in pckgsList:
+          var
+            skip: bool
+            url = pdata["url"].str.strip.toLowerAscii
+            name = pdata["name"].str.normalize
 
-        # Some hostings randomly timeout or fail sometimes, skip them.
-        for skipurl in hostsSkip:
-          if url.startsWith(skipurl):
-            skip = true
-        if skip: continue
+          # Some hostings randomly timeout or fail sometimes, skip them.
+          for skipurl in hostsSkip:
+            if url.startsWith(skipurl):
+              skip = true
+          if skip: continue
 
-        echo url  # Do Not remove, Travis quits with "N minutes without output, job cancelled".
+          echo url  # Do Not remove, Travis quits with "N minutes without output, job cancelled".
 
-        # Check that the Git Repo actually exists.
-        var this_repo = existsGitRepo(url=url) # Fetch test.
-        if this_repo.len > 0:
-          existent.add this_repo
-        else:
-          nonexistent.add url
-
-        # Check for Nimble Files on Existent Repos.
-        if this_repo.len > 0 and checkNimbleFile:
-          var this_nimble = existsNimbleFile(url=this_repo, name=name)
-          if this_nimble.len > 0:
-            nimbleExistent.add this_nimble
+          # Check that the Git Repo actually exists.
+          var this_repo = existsGitRepo(url=url) # Fetch test.
+          if this_repo.len > 0:
+            existent.add this_repo
           else:
-            nimbleNonexistent.add url
+            nonexistent.add url
 
-      # Warn or Assert the possible errors at the end.
-      if nonexistent.len > 0 and allowBrokenUrl:
-        warn "Missing repos list:\n" & nonexistent.join("\n  ")
-        warn "Missing repos count: " & $nonexistent.len & " of " & $pckgsList.len
-      else:
-        doAssert nonexistent.len == 0, "Missing repos: Broken Packages."
-      if nimbleNonexistent.len > 0 and allowMissingNimble:
-        warn "Missing Nimble files:\n" & nimbleNonexistent.join("\n  ")
-        warn "Missing Nimble files count: " & $nimbleNonexistent.len & " of " & $pckgsList.len
-      else:
-        doAssert nimbleNonexistent.len == 0, "Missing Nimble files: Broken Packages."
+          # Check for Nimble Files on Existent Repos.
+          if this_repo.len > 0 and checkNimbleFile:
+            var this_nimble = existsNimbleFile(url=this_repo, name=name)
+            if this_nimble.len > 0:
+              nimbleExistent.add this_nimble
+            else:
+              nimbleNonexistent.add url
+
+        # Warn or Assert the possible errors at the end.
+        if nonexistent.len > 0 and allowBrokenUrl:
+          warn "Missing repos list:\n" & nonexistent.join("\n  ")
+          warn "Missing repos count: " & $nonexistent.len & " of " & $pckgsList.len
+        else:
+          doAssert nonexistent.len == 0, "Missing repos: Broken Packages."
+        if nimbleNonexistent.len > 0 and allowMissingNimble:
+          warn "Missing Nimble files:\n" & nimbleNonexistent.join("\n  ")
+          warn "Missing Nimble files count: " & $nimbleNonexistent.len & " of " & $pckgsList.len
+        else:
+          doAssert nimbleNonexistent.len == 0, "Missing Nimble files: Broken Packages."
 
     else:
       {.hint: "Compile with SSL to do checking of Repo URLs On-Line: '-d:ssl'.".}
