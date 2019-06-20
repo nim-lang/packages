@@ -13531,7 +13531,7 @@
       "json",
       "library"
     ],
-    "description": "Command to convert JSON string to Nim types.",
+    "description": "nimjson generates nim object definitions from json documents.",
     "license": "MIT",
     "web": "https://github.com/jiro4989/nimjson"
   }
