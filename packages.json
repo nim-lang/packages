@@ -13534,5 +13534,21 @@
     "description": "nimjson generates nim object definitions from json documents.",
     "license": "MIT",
     "web": "https://github.com/jiro4989/nimjson"
+  },
+  {
+    "name": "nerve",
+    "url": "https://github.com/nepeckman/nerve-rpc",
+    "method": "git",
+    "tags": [
+      "rpc",
+      "framework",
+      "web",
+      "json",
+      "api",
+      "library"
+    ],
+    "description": "A RPC framework for building web APIs",
+    "license": "MIT",
+    "web": "https://github.com/nepeckman/nerve-rpc"
   }
 ]
