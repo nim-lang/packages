@@ -13550,5 +13550,20 @@
     "description": "A RPC framework for building web APIs",
     "license": "MIT",
     "web": "https://github.com/nepeckman/nerve-rpc"
+  },
+  {
+    "name": "lolcat",
+    "url": "https://github.com/OHermesJunior/lolcat.nim",
+    "method": "git",
+    "tags": [
+      "lolcat",
+      "binary",
+      "tool",
+      "colors",
+      "fun"
+    ],
+    "description": "lolcat implementation in Nim",
+    "license": "MIT",
+    "web": "https://github.com/OHermesJunior/lolcat.nim"
   }
 ]
