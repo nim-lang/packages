@@ -13577,5 +13577,19 @@
     "description": "Simple DNS Client & Library",
     "license": "MIT",
     "web": "https://github.com/ba0f3/dnsclient.nim"
+  },
+  {
+    "name": "rain",
+    "url": "https://github.com/OHermesJunior/rain.nim",
+    "method": "git",
+    "tags": [
+      "rain",
+      "simulation",
+      "terminal",
+      "fun"
+    ],
+    "description": "Rain simulation in your terminal",
+    "license": "MIT",
+    "web": "https://github.com/OHermesJunior/rain.nim"
   }
 ]
