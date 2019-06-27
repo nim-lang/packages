@@ -13618,5 +13618,20 @@
     ],
     "description": "Checks if a provided string is actually a correct IP address. Supports detection of Class A to D of IPv4 addresses.",
     "license": "GPLv3+"
+  },
+  {
+    "name": "RC4",
+    "url": "https://github.com/OHermesJunior/nimRC4",
+    "method": "git",
+    "tags": [
+      "RC4",
+      "encryption",
+      "library",
+      "crypto",
+      "simple"
+    ],
+    "description": "RC4 library implementation",
+    "license": "MIT",
+    "web": "https://github.com/OHermesJunior/nimRC4"
   }
 ]
