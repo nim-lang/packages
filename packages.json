@@ -13603,5 +13603,20 @@
     "description": "High-level wrapper for Linux's kmod library",
     "license": "ISC",
     "web": "https://github.com/alaviss/kmod"
+  },
+  {
+    "name": "validateip",
+    "url": "https://github.com/Akito13/nim-validateip",
+    "method": "git",
+    "tags": [
+      "ip",
+      "ipaddress",
+      "ipv4",
+      "ip4",
+      "checker",
+      "check"
+    ],
+    "description": "Checks if a provided string is actually a correct IP address. Supports detection of Class A to D of IPv4 addresses.",
+    "license": "GPLv3+"
   }
 ]
