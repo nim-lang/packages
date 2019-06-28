@@ -13633,5 +13633,19 @@
     "description": "RC4 library implementation",
     "license": "MIT",
     "web": "https://github.com/OHermesJunior/nimRC4"
+  },
+  {
+    "name": "contra",
+    "url": "https://github.com/juancarlospaco/nim-contra",
+    "method": "git",
+    "tags": [
+      "contract",
+      "nimscript",
+      "javascript",
+      "compiletime"
+    ],
+    "description": "Lightweight Contract Programming, Design by Contract, on 9 LoC, NimScript, JavaScript, compile-time.",
+    "license": "MIT",
+    "web": "https://github.com/juancarlospaco/nim-contra"
   }
 ]
