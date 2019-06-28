@@ -2008,8 +2008,8 @@
     "web": "https://github.com/fenekku/moustachu"
   },
   {
-    "name": "easy-bcrypt",
-    "url": "https://github.com/flaviut/easy-bcrypt.git",
+    "name": "easy_bcrypt",
+    "url": "https://github.com/Akito13/easy-bcrypt.git",
     "method": "git",
     "tags": [
       "hash",
@@ -2017,9 +2017,8 @@
       "password",
       "bcrypt"
     ],
-    "description": "simple wrapper providing a convenient interface for the bcrypt password hashing algorithm",
-    "license": "CC0",
-    "web": "https://github.com/flaviut/easy-bcrypt/blob/master/easy-bcrypt.nimble"
+    "description": "A simple wrapper providing a convenient reentrant interface for the bcrypt password hashing algorithm.",
+    "license": "CC0"
   },
   {
     "name": "libclang",
