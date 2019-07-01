@@ -13647,5 +13647,19 @@
     "description": "Lightweight Contract Programming, Design by Contract, on 9 LoC, NimScript, JavaScript, compile-time.",
     "license": "MIT",
     "web": "https://github.com/juancarlospaco/nim-contra"
+  },
+  {
+    "name": "ustring",
+    "url": "https://github.com/rokups/nim-ustring",
+    "method": "git",
+    "tags": [
+      "0.2.1",
+      "0.2.2",
+      "0.2.3",
+      "0.3.0"
+    ],
+    "description": "utf-8 string",
+    "license": "MIT",
+    "web": "https://github.com/rokups/nim-ustring"
   }
 ]
