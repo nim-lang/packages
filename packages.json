@@ -6075,6 +6075,26 @@
     "web": "https://github.com/status-im/nim-std-shims"
   },
   {
+    "name": "stew",
+    "url": "https://github.com/status-im/nim-stew",
+    "method": "git",
+    "tags": [
+      "library",
+      "backports",
+      "shims",
+      "ranges",
+      "bitwise",
+      "bitops",
+      "endianness",
+      "bytes",
+      "blobs",
+      "pointer-arithmetic"
+    ],
+    "description": "stew is collection of utilities, std library extensions and budding libraries that are frequently used at Status, but are too small to deserve their own git repository.",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/status-im/nim-stew"
+  },
+  {
     "name": "faststreams",
     "url": "https://github.com/status-im/nim-faststreams",
     "method": "git",
