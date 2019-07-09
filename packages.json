@@ -1223,7 +1223,7 @@
   },
   {
     "name": "optionsutils",
-    "url": "https://github.com/PMunch/optionsutils",
+    "url": "https://github.com/PMunch/nim-optionsutils",
     "method": "git",
     "tags": [
       "options",
@@ -1232,7 +1232,7 @@
     ],
     "description": "Utility macros for easier handling of options in Nim",
     "license": "MIT",
-    "web": "https://github.com/PMunch/optionsutils"
+    "web": "https://github.com/PMunch/nim-optionsutils"
   },
   {
     "name": "sdl2_nim",
