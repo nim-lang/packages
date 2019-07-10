@@ -6163,6 +6163,20 @@
     "web": "https://github.com/status-im/nim-eth"
   },
   {
+    "name": "metrics",
+    "url": "https://github.com/status-im/nim-metrics",
+    "method": "git",
+    "tags": [
+      "library",
+      "metrics",
+      "prometheus",
+      "statsd"
+    ],
+    "description": "Nim metrics client library supporting the Prometheus monitoring toolkit",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/status-im/nim-metrics"
+  },
+  {
     "name": "blscurve",
     "url": "https://github.com/status-im/nim-blscurve",
     "method": "git",
