@@ -13724,5 +13724,16 @@
     "description": "A post-modern, \"multi-dimensional\" configurable ls/file lister",
     "license": "MIT",
     "web": "https://github.com/c-blake/lc"
+  },
+  {
+    "name": "nasher",
+    "url": "https://github.com/squattingmonk/nasher.nim",
+    "method": "git",
+    "tags": [
+      "0.1.0"
+    ],
+    "description": "A build tool for Neverwinter Nights projects",
+    "license": "MIT",
+    "web": "https://github.com/squattingmonk/nasher.nim"
   }
 ]
