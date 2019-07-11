@@ -13730,7 +13730,12 @@
     "url": "https://github.com/squattingmonk/nasher.nim",
     "method": "git",
     "tags": [
-      "0.1.0"
+      "nwn",
+      "neverwinternights",
+      "neverwinter",
+      "game",
+      "bioware",
+      "build"
     ],
     "description": "A build tool for Neverwinter Nights projects",
     "license": "MIT",
