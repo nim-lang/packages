@@ -13740,5 +13740,19 @@
     "description": "A build tool for Neverwinter Nights projects",
     "license": "MIT",
     "web": "https://github.com/squattingmonk/nasher.nim"
+  },
+  {
+    "name": "illwill",
+    "url": "https://github.com/johnnovak/illwill",
+    "method": "git",
+    "tags": [
+      "terminal",
+      "console",
+      "curses",
+      "ui"
+    ],
+    "description": "A curses inspired simple cross-platform console library for Nim",
+    "license": "MIT",
+    "web": "https://github.com/johnnovak/illwill"
   }
 ]
