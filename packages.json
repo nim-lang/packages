@@ -13754,5 +13754,18 @@
     "description": "A curses inspired simple cross-platform console library for Nim",
     "license": "MIT",
     "web": "https://github.com/johnnovak/illwill"
+  },
+  {
+    "name": "illwill",
+    "url": "https://github.com/johnnovak/illwill",
+    "method": "git",
+    "tags": [
+      "console",
+      "terminal",
+      "ui"
+    ],
+    "description": "A curses inspired simple cross-platform console library for Nim",
+    "license": "WTFPL",
+    "web": "https://github.com/johnnovak/illwill"
   }
 ]
