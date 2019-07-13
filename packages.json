@@ -13752,7 +13752,7 @@
       "ui"
     ],
     "description": "A curses inspired simple cross-platform console library for Nim",
-    "license": "MIT",
+    "license": "WTFPL",
     "web": "https://github.com/johnnovak/illwill"
   }
 ]
