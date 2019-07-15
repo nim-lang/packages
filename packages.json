@@ -13767,5 +13767,18 @@
     "description": "HMAC-Based One-Time Password library for Nim",
     "license": "Apache License 2.0",
     "web": "https://github.com/CORDEA/hotp"
+  },
+  {
+    "name": "totp",
+    "url": "https://github.com/CORDEA/totp",
+    "method": "git",
+    "tags": [
+      "totp",
+      "otp",
+      "rfc6238"
+    ],
+    "description": "Time-Based One-Time Password library for Nim",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/CORDEA/totp"
   }
 ]
