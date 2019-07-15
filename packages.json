@@ -13754,5 +13754,18 @@
     "description": "A curses inspired simple cross-platform console library for Nim",
     "license": "WTFPL",
     "web": "https://github.com/johnnovak/illwill"
+  },
+  {
+    "name": "hotp",
+    "url": "https://github.com/CORDEA/hotp",
+    "method": "git",
+    "tags": [
+      "hotp",
+      "otp",
+      "rfc4226"
+    ],
+    "description": "HMAC-Based One-Time Password library for Nim",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/CORDEA/hotp"
   }
 ]
