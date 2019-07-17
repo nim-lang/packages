@@ -13754,5 +13754,19 @@
     "description": "A curses inspired simple cross-platform console library for Nim",
     "license": "WTFPL",
     "web": "https://github.com/johnnovak/illwill"
+  },
+  {
+    "name": "shared",
+    "url": "https://github.com/genotrance/shared",
+    "method": "git",
+    "tags": [
+      "shared",
+      "seq",
+      "string",
+      "threads"
+    ],
+    "description": "Nim library for shared types",
+    "license": "MIT",
+    "web": "https://github.com/genotrance/shared"
   }
 ]
