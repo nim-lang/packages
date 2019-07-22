@@ -13768,5 +13768,19 @@
     "description": "Nim library for shared types",
     "license": "MIT",
     "web": "https://github.com/genotrance/shared"
+  },
+  {
+    "name": "nimmm",
+    "url": "https://github.com/joachimschmidt557/nimmm",
+    "method": "git",
+    "tags": [
+      "nimmm",
+      "terminal",
+      "nimbox",
+      "tui"
+    ],
+    "description": "A terminal file manager written in nim",
+    "license": "GPL-3.0",
+    "web": "https://github.com/joachimschmidt557/nimmm"
   }
 ]
