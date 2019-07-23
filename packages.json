@@ -1,5 +1,18 @@
 [
   {
+    "name": "QuickJS.nim",
+    "url": "https://github.com/ImVexed/quickjs.nim",
+    "method": "git",
+    "tags": [
+      "QuickJS",
+      "Javascript",
+      "Runtime"
+    ],
+    "description": "A QuickJS wrapper for Nim",
+    "license": "MIT",
+    "web": "https://github.com/ImVexed/quickjs.nim"
+  },
+  {
     "name": "BitVector",
     "url": "https://github.com/MarcAzar/BitVector",
     "method": "git",
