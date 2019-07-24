@@ -13809,5 +13809,19 @@
     "description": "FastQ and Fasta readers for NIM",
     "license": "LGPL-3.0",
     "web": "https://github.com/ahcm/fastx_reader"
+  },
+  {
+    "name": "d3",
+    "url": "https://github.com/hiteshjasani/nim-d3",
+    "method": "git",
+    "tags": [
+      "d3",
+      "javascript",
+      "library",
+      "wrapper"
+    ],
+    "description": "A D3.js wrapper for Nim",
+    "license": "MIT",
+    "web": "https://github.com/hiteshjasani/nim-d3"
   }
 ]
