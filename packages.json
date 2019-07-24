@@ -13809,5 +13809,18 @@
     "description": "FastQ and Fasta readers for NIM",
     "license": "LGPL-3.0",
     "web": "https://github.com/ahcm/fastx_reader"
+  },
+  {
+    "name": "skybook",
+    "url": "https://github.com/muxueqz/skybook",
+    "method": "git",
+    "tags": [
+      "",
+      "bookmark",
+      "manager"
+    ],
+    "description": "Light weight bookmark manager(delicious alternative)",
+    "license": "GPL-2.0",
+    "web": "https://github.com/muxueqz/skybook"
   }
 ]
