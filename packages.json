@@ -13823,5 +13823,19 @@
     "description": "A D3.js wrapper for Nim",
     "license": "MIT",
     "web": "https://github.com/hiteshjasani/nim-d3"
+  },
+  {
+    "name": "baker",
+    "url": "https://github.com/jasonrbriggs/baker",
+    "method": "git",
+    "tags": [
+      "html",
+      "template",
+      "static",
+      "blog"
+    ],
+    "description": "Static website generation",
+    "license": "Apache-2.0",
+    "web": "https://github.com/jasonrbriggs/baker"
   }
 ]
