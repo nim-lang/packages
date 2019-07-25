@@ -13837,5 +13837,20 @@
     "description": "Static website generation",
     "license": "Apache-2.0",
     "web": "https://github.com/jasonrbriggs/baker"
+  },
+  {
+    "name": "rbac",
+    "url": "https://github.com/ba0f3/rbac.nim",
+    "method": "git",
+    "tags": [
+      "rbac",
+      "acl",
+      "role-based-access-control",
+      "role-based",
+      "access-control"
+    ],
+    "description": "Simple Role-based Access Control Library",
+    "license": "MIT",
+    "web": "https://github.com/ba0f3/rbac.nim"
   }
 ]
