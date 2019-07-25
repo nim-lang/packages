@@ -13837,5 +13837,17 @@
     "description": "Static website generation",
     "license": "Apache-2.0",
     "web": "https://github.com/jasonrbriggs/baker"
+  },
+  {
+    "name": "skybook",
+    "url": "https://github.com/muxueqz/skybook",
+    "method": "git",
+    "tags": [
+      "bookmark-manager",
+      "bookmark"
+    ],
+    "description": "Light weight bookmark manager(delicious alternative)",
+    "license": "GPL-2.0",
+    "web": "https://github.com/muxueqz/skybook"
   }
 ]
