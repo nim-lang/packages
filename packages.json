@@ -13837,5 +13837,17 @@
     "description": "Static website generation",
     "license": "Apache-2.0",
     "web": "https://github.com/jasonrbriggs/baker"
+  },
+  {
+    "name": "simpleot",
+    "url": "https://github.com/markspanbroek/simpleot.nim",
+    "method": "git",
+    "tags": [
+      "ot",
+      "mpc"
+    ],
+    "description": "Simple OT wrapper",
+    "license": "MIT",
+    "web": "https://github.com/markspanbroek/simpleot.nim"
   }
 ]
