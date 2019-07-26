@@ -13837,5 +13837,19 @@
     "description": "Static website generation",
     "license": "Apache-2.0",
     "web": "https://github.com/jasonrbriggs/baker"
+  },
+  {
+    "name": "blurhash",
+    "url": "https://github.com/SolitudeSF/blurhash",
+    "method": "git",
+    "tags": [
+      "image",
+      "blur",
+      "hash",
+      "blurhash"
+    ],
+    "description": "Encoder/decoder for blurhash algorithm",
+    "license": "MIT",
+    "web": "https://github.com/SolitudeSF/blurhash"
   }
 ]
