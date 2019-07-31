@@ -13850,5 +13850,19 @@
     "description": "Ethereum Web3 API",
     "license": "Apache License 2.0",
     "web": "https://github.com/status-im/nim-web3"
+  },
+  {
+    "name": "baker",
+    "url": "https://github.com/jasonrbriggs/baker",
+    "method": "git",
+    "tags": [
+      "html",
+      "template",
+      "static",
+      "blog"
+    ],
+    "description": "Static website generation",
+    "license": "Apache-2.0",
+    "web": "https://github.com/jasonrbriggs/baker"
   }
 ]
