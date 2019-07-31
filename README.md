@@ -24,9 +24,23 @@ optional):
   * tags   - A list of tags describing this package.
   * description - A description of this package.
   * license - The license of the source code in the package.
-  * web    - An optional URL for humans to read additional information about
+  * web    - (Optional) A URL for humans to read additional information about
              the package.
-  * doc    - An optional URL for humans to read the package HTML documentation
+  * doc    - (Optional) A URL for humans to read the package HTML documentation
+  * extended-description - (Optional) More information about the package. This
+              can be on multiple lines and could include Markdown styles.
+  * categories - (Optional) A list of global categories this package belongs.
+  * code-quality - (Optional) An integer evaluation of code quality between 1
+              (low) to 4 (highly mature code).
+  * doc-quality - (Optional) An integer evaluation of documentation quality
+              between 1 (no documentation) to 4 (professional documentation).
+  * project-quality - (Optional) An integer evaluation of project maturity from
+              1 (Abandonned project) to 4 (Living project with community).
+  * logo      - (Optional) The URL of the package logo.
+  * screenshots - (Optional) A list of URLs of screenshots of the package.
+
+The optional fields are displayed when using nimble ``search`` or ``list``
+commands or can be used by other tools like https://nimble.directory.
 
 ### Requirements
 
@@ -80,3 +94,71 @@ For example:
 ...
 ```
 
+## Categories
+
+Please stick to using values from the following list of broad categories. If
+some categories are no more discriminating enough, they could be split to
+sub-categories.
+
+A package can be in multiple categories.
+
+* \*Dead\*      - Used to mark dead projects
+* Algorithms
+* Cloud
+* Database
+* Data science
+* Development
+* Education
+* FFI           - Binding to an external library
+* Finance
+* Games
+* GUI
+* Hardware      - Specific to some hardware platform
+* JS            - Compiles to JavaScript
+* Language      - Nim language extensions
+* Maths
+* Miscelaneous  - No other category...
+* Network
+* Reporting     - Showing results
+* Science
+* Tools
+* Video, image and audio
+* Web
+
+## Evaluating package maturity
+
+Package maturity metric helps your fellow coders find packages they could
+use in their projects or packages that need love and that they could help.
+This metric is estimated from the value of 3 metadata fields: ``code-quality``,
+``doc-quality`` and ``project-quality``. The values assigned to these fields
+are of course subjective but could give a good estimate of the maturity of
+a project. Estimate correctly the level of these 3 metadata to help Nim
+community.
+
+================  ===================   =======================   =========================   ==========================
+Evaluate the              1                         2                         3                           4
+level of
+maturity
+of the package
+================  ===================   =======================   =========================   ==========================
+code-quality		  Poor code quality.    Code is structured.       Code is well-structured.    Code is well-structured.
+                  No structure.	        No comments in code.      Code is commented.          Code is commented.
+                  	                                              Tested and run on a         Test sets.
+                                                                  single platform.            Tested and run on
+                                                                  Code examples.              multiple platforms.
+                                                                                              Multiple examples
+                                                                                              provided.
+----------------  -------------------   -----------------------   -------------------------   --------------------------
+doc-quality		    No documentation.	    Minimum documentation.    Good documentation          Good documentation.
+                                        Refers to external        user-oriented.              User-oriented
+                                        documentation.                                        documentation.
+                                                                                              Multiple sources of
+                                                                                              information.
+----------------  -------------------   -----------------------   -------------------------   --------------------------
+project-quality		Single-person job.    Single-person job.        Multiple developpers or     Community of developpers.
+                  Low activity on the   Actively maintained.      contributors.               Roadmap for future
+                  project.                                        Actively maintained.        evolutions.
+                  Long-lasting issues.                                                        Issues are solved.
+================  ===================   =======================   =========================   ==========================
+
+Nimble has been adapted to use maturity metric for packages listing and search.
