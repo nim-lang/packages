@@ -46,7 +46,33 @@ const
     "ISC",
     "Unlicense"
   ]
+
   VCS_TYPES = @["git", "hg"]
+
+  CATEGORIES = @[
+    "*Dead*",
+    "Algorithms",
+    "Cloud",
+    "Database",
+    "Data science",
+    "Development",
+    "Education",
+    "FFI",
+    "Finance",
+    "Games",
+    "GUI",
+    "Hardware",
+    "JS",
+    "Language",
+    "Maths",
+    "Miscelaneous",
+    "Network",
+    "Reporting",
+    "Science",
+    "Tools",
+    "Video, image and audio",
+    "Web"
+  ]
 
 proc canFetchNimbleRepository(name: string, urlJson: JsonNode): bool =
   # The fetch is a lie!
@@ -59,7 +85,8 @@ proc canFetchNimbleRepository(name: string, urlJson: JsonNode): bool =
     url = urlJson.str
 
     try:
-      discard getContent(url, timeout=10000)
+      var client = newHttpClient(userAgent="Nim/Package Scanner", timeout=10000)
+      discard getContent(client, url)
     except HttpRequestError, TimeoutError:
       echo "W: ", name, ": unable to fetch repo ", url, " ",
            getCurrentExceptionMsg()
@@ -81,7 +108,7 @@ proc check(): int =
   var name: string
   echo ""
   let pkg_list = parseJson(readFile(getCurrentDir() / "packages.json"))
-  var names = initSet[string]()
+  var names = initHashSet[string]()
 
   for pdata in pkg_list:
     name = if pdata.hasKey("name"): pdata["name"].str else: ""
@@ -115,10 +142,29 @@ proc check(): int =
       elif pdata["url"].str.normalize.startsWith("git://github.com/"):
         echo "E: ", name, " has an insecure git:// URL instead of https://"
         result.inc()
+      elif pdata.hasKey("code-quality"):
+        if not (pdata["code-quality"].kind == JInt and
+            pdata["code-quality"].num in 0 .. 4):
+          echo "E: ", name, " code-quality must be in range [1..4]"
+          result.inc()
+      elif pdata.hasKey("doc-quality"):
+        if not (pdata["doc-quality"].kind == JInt and
+            pdata["doc-quality"].num in 0 .. 4):
+          echo "E: ", name, " doc-quality must be in range [1..4]"
+          result.inc()
+      elif pdata.hasKey("project-quality"):
+        if not (pdata["project-quality"].kind == JInt and
+            pdata["project-quality"].num in 0 .. 4):
+          echo "E: ", name, " project-quality must be in range [1..4]"
+          result.inc()
       else:
         # Other warnings should go here
         if not (pdata["license"].str in LICENSES):
           echo "W: ", name, " has an unexpected license: ", pdata["license"]
+        elif not (pdata["categories"].str in CATEGORIES):
+          echo "W: ", name, " has an unexpected category: ", pdata["categories"]
+        elif not pdata.hasKey("extended-description"):
+          echo "W: ", name, " has no detailed description"
 
     if name.normalize notin names:
       names.incl(name.normalize)
