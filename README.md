@@ -27,7 +27,7 @@ optional):
   * web    - (Optional) A URL for humans to read additional information about
              the package.
   * doc    - (Optional) A URL for humans to read the package HTML documentation
-  * extended-description - (Optional) More information about the package. This
+  * long-description - (Optional) More information about the package. This
               can be on multiple lines and could include Markdown styles.
   * categories - (Optional) A list of global categories this package belongs.
   * code-quality - (Optional) An integer evaluation of code quality between 1
