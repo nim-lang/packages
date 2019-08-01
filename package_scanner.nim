@@ -163,7 +163,7 @@ proc check(): int =
           echo "W: ", name, " has an unexpected license: ", pdata["license"]
         elif not (pdata["categories"].str in CATEGORIES):
           echo "W: ", name, " has an unexpected category: ", pdata["categories"]
-        elif not pdata.hasKey("extended-description"):
+        elif not pdata.hasKey("long-description"):
           echo "W: ", name, " has no detailed description"
 
     if name.normalize notin names:
