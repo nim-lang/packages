@@ -13850,5 +13850,19 @@
     "description": "Ethereum Web3 API",
     "license": "Apache License 2.0",
     "web": "https://github.com/status-im/nim-web3"
+  },
+  {
+    "name": "proton",
+    "url": "https://github.com/jasonrbriggs/proton-nim",
+    "method": "git",
+    "tags": [
+      "xml",
+      "html",
+      "xhtml",
+      "template"
+    ],
+    "description": "Proton template engine",
+    "license": "MIT",
+    "web": "https://github.com/jasonrbriggs/proton-nim"
   }
 ]
