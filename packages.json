@@ -13850,5 +13850,21 @@
     "description": "Ethereum Web3 API",
     "license": "Apache License 2.0",
     "web": "https://github.com/status-im/nim-web3"
+  },
+  {
+    "name": "lscolors",
+    "url": "https://github.com/joachimschmidt557/nim-lscolors",
+    "method": "git",
+    "tags": [
+      "lscolors",
+      "posix",
+      "unix",
+      "linux",
+      "ls",
+      "terminal"
+    ],
+    "description": "A library for colorizing paths according to LS_COLORS",
+    "license": "MIT",
+    "web": "https://github.com/joachimschmidt557/nim-lscolors"
   }
 ]
