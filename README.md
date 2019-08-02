@@ -104,6 +104,7 @@ A package can be in multiple categories.
 
 * \*Dead\*      - Used to mark dead projects
 * Algorithms
+* Audio
 * Cloud
 * Database
 * Data science
@@ -114,6 +115,7 @@ A package can be in multiple categories.
 * Games
 * GUI
 * Hardware      - Specific to some hardware platform
+* Image
 * JS            - Compiles to JavaScript
 * Language      - Nim language extensions
 * Maths
@@ -121,8 +123,9 @@ A package can be in multiple categories.
 * Network
 * Reporting     - Showing results
 * Science
+* System
 * Tools
-* Video, image and audio
+* Video
 * Web
 
 ## Evaluating package maturity

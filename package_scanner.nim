@@ -52,6 +52,7 @@ const
   CATEGORIES = @[
     "*Dead*",
     "Algorithms",
+    "Audio",
     "Cloud",
     "Database",
     "Data science",
@@ -62,6 +63,7 @@ const
     "Games",
     "GUI",
     "Hardware",
+    "Image",
     "JS",
     "Language",
     "Maths",
@@ -70,7 +72,7 @@ const
     "Reporting",
     "Science",
     "Tools",
-    "Video, image and audio",
+    "Video",
     "Web"
   ]
 
@@ -161,10 +163,18 @@ proc check(): int =
         # Other warnings should go here
         if not (pdata["license"].str in LICENSES):
           echo "W: ", name, " has an unexpected license: ", pdata["license"]
-        elif not (pdata["categories"].str in CATEGORIES):
+        if not pdata.hasKey("categories"):
+          echo "W: ", name, " has no categories"
+        if pdata.hasKey("categories") and not (pdata["categories"].str in CATEGORIES):
           echo "W: ", name, " has an unexpected category: ", pdata["categories"]
-        elif not pdata.hasKey("long-description"):
+        if not pdata.hasKey("long-description"):
           echo "W: ", name, " has no detailed description"
+        if not pdata.hasKey("code-quality"):
+          echo "W: ", name, " has no code-quality. Add value in range [1..4]"
+        if not pdata.hasKey("doc-quality"):
+          echo "W: ", name, " has no doc-quality. Add value in range [1..4]"
+        if not pdata.hasKey("project-quality"):
+          echo "W: ", name, " has no project-quality. Add value in range [1..4]"
 
     if name.normalize notin names:
       names.incl(name.normalize)
