@@ -13850,5 +13850,19 @@
     "description": "Ethereum Web3 API",
     "license": "Apache License 2.0",
     "web": "https://github.com/status-im/nim-web3"
+  },
+  {
+    "name": "shell",
+    "url": "https://github.com/Vindaar/shell",
+    "method": "git",
+    "tags": [
+      "library",
+      "macro",
+      "dsl",
+      "shell"
+    ],
+    "description": "A Nim mini DSL to execute shell commands",
+    "license": "MIT",
+    "web": "https://github.com/Vindaar/shell"
   }
 ]
