@@ -28,7 +28,8 @@ optional):
              the package.
   * doc    - (Optional) A URL for humans to read the package HTML documentation
   * long_description - (Optional) More information about the package. This
-              can be on multiple lines and could include Markdown styles.
+              can be on multiple lines and could include Markdown styles. For
+              a better display with nimble's list command, dont add empty lines.
   * categories - (Optional) A list of global categories this package belongs.
   * code_quality - (Optional) An integer evaluation of code quality between 1
               (low) to 4 (highly mature code).
