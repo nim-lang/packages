@@ -139,30 +139,12 @@ are of course subjective but could give a good estimate of the maturity of
 a project. Estimate correctly the level of these 3 metadata to help Nim
 community.
 
-================  ===================   =======================   =========================   ==========================
-Evaluate the              1                         2                         3                           4
-level of
-maturity
-of the package
-================  ===================   =======================   =========================   ==========================
-code_quality      Poor code quality.    Code is structured.       Code is well-structured.    Code is well-structured.
-                  No structure.	        Some comments in code.    Code is commented.          Code is commented.
-                  No comments.          Nimble enabled.           Tested and run on a         Test sets.
-                  No nimble support.                              single platform.            Tested and run on
-                                                                  Code examples.              multiple platforms.
-                                                                                              Multiple examples
-                                                                                              provided.
-----------------  -------------------   -----------------------   -------------------------   --------------------------
-doc_quality	      No documentation.	    Minimum documentation.    Good documentation          Good documentation.
-                                        Refers to external        user-oriented.              User-oriented
-                                        documentation.                                        documentation.
-                                                                                              Multiple sources of
-                                                                                              information.
-----------------  -------------------   -----------------------   -------------------------   --------------------------
-project_quality	  Single-person job.    Single-person job.        Multiple developpers or     Community of developpers.
-                  Low activity on the   Actively maintained.      contributors.               Roadmap for future
-                  project.                                        Actively maintained.        evolutions.
-                  Long-lasting issues.                                                        Issues are solved.
-================  ===================   =======================   =========================   ==========================
+Evaluate the level of maturity of the package | 1 | 2 | 3 | 4
+--------------------------------------------- | - | - | - | -
+code_quality | Poor code quality. No structure. No comments in code. No nimble support. | Code is structured.
+Some comments in code. Nimble enabled. | Code is well-structured. Code is commented. Tested and run on a single platform. Code examples. | Code is well-structured. Code is commented. Test sets. Tested and run on multiple platforms. Multiple examples provided.
+doc_quality | No documentation | Minimum documentation. Refers to external documentation. | Good documentation.
+User-oriented documentation. | Excellent documentation. Multiple sources of information.
+project_quality | Single-person job. Low activity on the project. Long lasting issues. | Single-person job. Actively maintained. | Multiple developpers. Actively maintained. | Community of developpers. Roadmap for future evolutions. Issues are solved.
 
 Nimble has been adapted to use maturity metric for packages listing and search.
