@@ -139,10 +139,10 @@ are of course subjective but could give a good estimate of the maturity of
 a project. Estimate correctly the level of these 3 metadata to help Nim
 community.
 
-| Evaluate the level of maturity of the package | 1 | 2 | 3 | 4 |
-| --------------------------------------------- | - | - | - | - |
-| code_quality | Poor code quality. No structure. No comments in code. No nimble support. | Code is structured. Some comments in code. Nimble enabled. | Code is well-structured. Code is commented. Tested and run on a single platform. Code examples. | Code is well-structured. Code is commented. Test sets. Tested and run on multiple platforms. Multiple examples provided. |
-| doc_quality | No documentation | Minimum documentation. Refers to external documentation. | Good documentation. User-oriented documentation. | Excellent documentation. Multiple sources of information. |
-| project_quality | Single-person job. Low activity on the project. Long lasting issues. | Single-person job. Actively maintained. | Multiple developpers. Actively maintained. | Community of developpers. Roadmap for future evolutions. Issues are solved. |
+| Evaluate the level of maturity of the package | ..._quality = 1 | ..._quality = 2 | ..._quality = 3 | ..._quality = 4 |
+| --------------------------------------------- | --------------- | --------------- | --------------- | --------------- |
+| `code_quality` | Poor code quality. No structure. No comments in code. No nimble support. | Code is structured. Some comments in code. Nimble enabled. | Code is well-structured. Code is commented. Tested and run on a single platform. Code examples. | Code is well-structured. Code is commented. Test sets. Tested and run on multiple platforms. Multiple examples provided. |
+| `doc_quality` | No documentation | Minimum documentation. Refers to external documentation. | Good documentation. User-oriented documentation. | Excellent documentation. Multiple sources of information. |
+| `project_quality` | Single-person job. Low activity on the project. Long lasting issues. | Single-person job. Actively maintained. | Multiple developpers. Actively maintained. | Community of developpers. Roadmap for future evolutions. Issues are solved. |
 
 Nimble has been adapted to use maturity metric for packages listing and search.
