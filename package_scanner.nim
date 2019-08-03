@@ -144,20 +144,20 @@ proc check(): int =
       elif pdata["url"].str.normalize.startsWith("git://github.com/"):
         echo "E: ", name, " has an insecure git:// URL instead of https://"
         result.inc()
-      elif pdata.hasKey("code-quality"):
-        if not (pdata["code-quality"].kind == JInt and
-            pdata["code-quality"].num in 0 .. 4):
-          echo "E: ", name, " code-quality must be in range [1..4]"
+      elif pdata.hasKey("code_quality"):
+        if not (pdata["code_quality"].kind == JInt and
+            pdata["code_quality"].num in 0 .. 4):
+          echo "E: ", name, " code_quality must be in range [1..4]"
           result.inc()
-      elif pdata.hasKey("doc-quality"):
-        if not (pdata["doc-quality"].kind == JInt and
-            pdata["doc-quality"].num in 0 .. 4):
-          echo "E: ", name, " doc-quality must be in range [1..4]"
+      elif pdata.hasKey("doc_quality"):
+        if not (pdata["doc_quality"].kind == JInt and
+            pdata["doc_quality"].num in 0 .. 4):
+          echo "E: ", name, " doc_quality must be in range [1..4]"
           result.inc()
-      elif pdata.hasKey("project-quality"):
-        if not (pdata["project-quality"].kind == JInt and
-            pdata["project-quality"].num in 0 .. 4):
-          echo "E: ", name, " project-quality must be in range [1..4]"
+      elif pdata.hasKey("project_quality"):
+        if not (pdata["project_quality"].kind == JInt and
+            pdata["project_quality"].num in 0 .. 4):
+          echo "E: ", name, " project_quality must be in range [1..4]"
           result.inc()
       else:
         # Other warnings should go here
@@ -167,14 +167,14 @@ proc check(): int =
           echo "W: ", name, " has no categories"
         if pdata.hasKey("categories") and not (pdata["categories"].str in CATEGORIES):
           echo "W: ", name, " has an unexpected category: ", pdata["categories"]
-        if not pdata.hasKey("long-description"):
+        if not pdata.hasKey("long_description"):
           echo "W: ", name, " has no detailed description"
-        if not pdata.hasKey("code-quality"):
-          echo "W: ", name, " has no code-quality. Add value in range [1..4]"
-        if not pdata.hasKey("doc-quality"):
-          echo "W: ", name, " has no doc-quality. Add value in range [1..4]"
-        if not pdata.hasKey("project-quality"):
-          echo "W: ", name, " has no project-quality. Add value in range [1..4]"
+        if not pdata.hasKey("code_quality"):
+          echo "W: ", name, " has no code_quality. Add value in range [1..4]"
+        if not pdata.hasKey("doc_quality"):
+          echo "W: ", name, " has no doc_quality. Add value in range [1..4]"
+        if not pdata.hasKey("project_quality"):
+          echo "W: ", name, " has no project_quality. Add value in range [1..4]"
 
     if name.normalize notin names:
       names.incl(name.normalize)

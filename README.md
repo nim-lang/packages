@@ -27,14 +27,14 @@ optional):
   * web    - (Optional) A URL for humans to read additional information about
              the package.
   * doc    - (Optional) A URL for humans to read the package HTML documentation
-  * long-description - (Optional) More information about the package. This
+  * long_description - (Optional) More information about the package. This
               can be on multiple lines and could include Markdown styles.
   * categories - (Optional) A list of global categories this package belongs.
-  * code-quality - (Optional) An integer evaluation of code quality between 1
+  * code_quality - (Optional) An integer evaluation of code quality between 1
               (low) to 4 (highly mature code).
-  * doc-quality - (Optional) An integer evaluation of documentation quality
+  * doc_quality - (Optional) An integer evaluation of documentation quality
               between 1 (no documentation) to 4 (professional documentation).
-  * project-quality - (Optional) An integer evaluation of project maturity from
+  * project_quality - (Optional) An integer evaluation of project maturity from
               1 (Abandonned project) to 4 (Living project with community).
   * logo      - (Optional) The URL of the package logo.
   * screenshots - (Optional) A list of URLs of screenshots of the package.
@@ -132,8 +132,8 @@ A package can be in multiple categories.
 
 Package maturity metric helps your fellow coders find packages they could
 use in their projects or packages that need love and that they could help.
-This metric is estimated from the value of 3 metadata fields: ``code-quality``,
-``doc-quality`` and ``project-quality``. The values assigned to these fields
+This metric is estimated from the value of 3 metadata fields: ``code_quality``,
+``doc_quality`` and ``project_quality``. The values assigned to these fields
 are of course subjective but could give a good estimate of the maturity of
 a project. Estimate correctly the level of these 3 metadata to help Nim
 community.
@@ -144,21 +144,21 @@ level of
 maturity
 of the package
 ================  ===================   =======================   =========================   ==========================
-code-quality		  Poor code quality.    Code is structured.       Code is well-structured.    Code is well-structured.
-                  No structure.	        No comments in code.      Code is commented.          Code is commented.
-                  	                                              Tested and run on a         Test sets.
-                                                                  single platform.            Tested and run on
+code_quality      Poor code quality.    Code is structured.       Code is well-structured.    Code is well-structured.
+                  No structure.	        Some comments in code.    Code is commented.          Code is commented.
+                  No comments.          Nimble enabled.           Tested and run on a         Test sets.
+                  No nimble support.                              single platform.            Tested and run on
                                                                   Code examples.              multiple platforms.
                                                                                               Multiple examples
                                                                                               provided.
 ----------------  -------------------   -----------------------   -------------------------   --------------------------
-doc-quality		    No documentation.	    Minimum documentation.    Good documentation          Good documentation.
+doc_quality	      No documentation.	    Minimum documentation.    Good documentation          Good documentation.
                                         Refers to external        user-oriented.              User-oriented
                                         documentation.                                        documentation.
                                                                                               Multiple sources of
                                                                                               information.
 ----------------  -------------------   -----------------------   -------------------------   --------------------------
-project-quality		Single-person job.    Single-person job.        Multiple developpers or     Community of developpers.
+project_quality	  Single-person job.    Single-person job.        Multiple developpers or     Community of developpers.
                   Low activity on the   Actively maintained.      contributors.               Roadmap for future
                   project.                                        Actively maintained.        evolutions.
                   Long-lasting issues.                                                        Issues are solved.
