@@ -13850,5 +13850,16 @@
     "description": "Ethereum Web3 API",
     "license": "Apache License 2.0",
     "web": "https://github.com/status-im/nim-web3"
+  },
+  {
+    "name": "cal",
+    "url": "https://github.com/xflywind/cal",
+    "method": "git",
+    "tags": [
+      "."
+    ],
+    "description": "A simple interactive calculator",
+    "license": "MIT",
+    "web": "https://github.com/xflywind/cal"
   }
 ]
