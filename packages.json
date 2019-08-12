@@ -13850,5 +13850,135 @@
     "description": "Ethereum Web3 API",
     "license": "Apache License 2.0",
     "web": "https://github.com/status-im/nim-web3"
+  },
+  {
+    "name": "skybook",
+    "url": "https://github.com/muxueqz/skybook",
+    "method": "git",
+    "tags": [
+      "bookmark-manager",
+      "bookmark"
+    ],
+    "description": "Light weight bookmark manager(delicious alternative)",
+    "license": "GPL-2.0",
+    "web": "https://github.com/muxueqz/skybook"
+  },
+  {
+    "name": "rbac",
+    "url": "https://github.com/ba0f3/rbac.nim",
+    "method": "git",
+    "tags": [
+      "rbac",
+      "acl",
+      "role-based-access-control",
+      "role-based",
+      "access-control"
+    ],
+    "description": "Simple Role-based Access Control Library",
+    "license": "MIT",
+    "web": "https://github.com/ba0f3/rbac.nim"
+  },
+  {
+    "name": "simpleot",
+    "url": "https://github.com/markspanbroek/simpleot.nim",
+    "method": "git",
+    "tags": [
+      "ot",
+      "mpc"
+    ],
+    "description": "Simple OT wrapper",
+    "license": "MIT",
+    "web": "https://github.com/markspanbroek/simpleot.nim"
+  },
+  {
+    "name": "blurhash",
+    "url": "https://github.com/SolitudeSF/blurhash",
+    "method": "git",
+    "tags": [
+      "image",
+      "blur",
+      "hash",
+      "blurhash"
+    ],
+    "description": "Encoder/decoder for blurhash algorithm",
+    "license": "MIT",
+    "web": "https://github.com/SolitudeSF/blurhash"
+  },
+  {
+    "name": "samson",
+    "url": "https://github.com/GULPF/samson",
+    "method": "git",
+    "tags": [
+      "json",
+      "json5"
+    ],
+    "description": "Implementation of JSON5.",
+    "license": "MIT",
+    "web": "https://github.com/GULPF/samson"
+  },
+  {
+    "name": "proton",
+    "url": "https://github.com/jasonrbriggs/proton-nim",
+    "method": "git",
+    "tags": [
+      "xml",
+      "xhtml",
+      "template"
+    ],
+    "description": "Proton template engine for xml and xhtml files",
+    "license": "MIT",
+    "web": "https://github.com/jasonrbriggs/proton-nim"
+  },
+  {
+    "name": "lscolors",
+    "url": "https://github.com/joachimschmidt557/nim-lscolors",
+    "method": "git",
+    "tags": [
+      "lscolors",
+      "posix",
+      "unix",
+      "linux",
+      "ls",
+      "terminal"
+    ],
+    "description": "A library for colorizing paths according to LS_COLORS",
+    "license": "MIT",
+    "web": "https://github.com/joachimschmidt557/nim-lscolors"
+  },
+  {
+    "name": "shell",
+    "url": "https://github.com/Vindaar/shell",
+    "method": "git",
+    "tags": [
+      "library",
+      "macro",
+      "dsl",
+      "shell"
+    ],
+    "description": "A Nim mini DSL to execute shell commands",
+    "license": "MIT",
+    "web": "https://github.com/Vindaar/shell"
+  },
+  {
+    "name": "mqtt",
+    "url": "https://github.com/barnybug/nim-mqtt",
+    "method": "git",
+    "tags": [
+      "MQTT"
+    ],
+    "description": "MQTT wrapper for nim",
+    "license": "MIT",
+    "web": "https://github.com/barnybug/nim-mqtt"
+  },
+  {
+    "name": "cal",
+    "url": "https://github.com/xflywind/cal",
+    "method": "git",
+    "tags": [
+      "calculator"
+    ],
+    "description": "A simple interactive calculator",
+    "license": "MIT",
+    "web": "https://github.com/xflywind/cal"
   }
 ]
