@@ -13980,5 +13980,20 @@
     "description": "A simple interactive calculator",
     "license": "MIT",
     "web": "https://github.com/xflywind/cal"
+  },
+  {
+    "name": "spurdify",
+    "url": "https://github.com/paradox460/spurdify",
+    "method": "git",
+    "tags": [
+      "funny",
+      "meme",
+      "spurdo",
+      "text-manipulation",
+      "mangle"
+    ],
+    "description": "Spurdification library and CLI",
+    "license": "MIT",
+    "web": "https://github.com/paradox460/spurdify"
   }
 ]
