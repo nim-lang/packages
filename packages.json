@@ -13995,5 +13995,20 @@
     "description": "Spurdification library and CLI",
     "license": "MIT",
     "web": "https://github.com/paradox460/spurdify"
+  },
+  {
+    "name": "c4",
+    "url": "https://github.com/c0ntribut0r/cat-400",
+    "method": "git",
+    "tags": [
+      "game",
+      "framework",
+      "2d",
+      "3d"
+    ],
+    "description": "Game framework, modular and extensible",
+    "license": "MPL-2.0",
+    "web": "https://github.com/c0ntribut0r/cat-400",
+    "doc": "https://github.com/c0ntribut0r/cat-400/tree/master/docs/tutorials"
   }
 ]
