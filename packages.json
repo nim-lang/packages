@@ -14010,5 +14010,19 @@
     "license": "MPL-2.0",
     "web": "https://github.com/c0ntribut0r/cat-400",
     "doc": "https://github.com/c0ntribut0r/cat-400/tree/master/docs/tutorials"
+  },
+  {
+    "name": "murmur",
+    "url": "https://github.com/cwpearson/nim-murmur",
+    "method": "git",
+    "tags": [
+      "murmur",
+      "hash",
+      "MurmurHash3",
+      "MurmurHash2"
+    ],
+    "description": "Pure nim implementation of murmur hash",
+    "license": "MIT",
+    "web": "https://github.com/cwpearson/nim-murmur"
   }
 ]
