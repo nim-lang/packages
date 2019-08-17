@@ -14010,5 +14010,19 @@
     "license": "MPL-2.0",
     "web": "https://github.com/c0ntribut0r/cat-400",
     "doc": "https://github.com/c0ntribut0r/cat-400/tree/master/docs/tutorials"
+  },
+  {
+    "name": "numericalnim",
+    "url": "https://github.com/HugoGranstrom/numericalnim/",
+    "method": "git",
+    "tags": [
+      "numerical",
+      "ode",
+      "integration",
+      "scientific"
+    ],
+    "description": "A collection of numerical methods written in Nim",
+    "license": "MIT",
+    "web": "https://github.com/HugoGranstrom/numericalnim/"
   }
 ]
