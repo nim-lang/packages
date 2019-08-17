@@ -14024,5 +14024,19 @@
     "description": "A collection of numerical methods written in Nim",
     "license": "MIT",
     "web": "https://github.com/HugoGranstrom/numericalnim/"
+  },
+  {
+    "name": "murmurhash",
+    "url": "https://github.com/cwpearson/nim-murmurhash",
+    "method": "git",
+    "tags": [
+      "murmur",
+      "hash",
+      "MurmurHash3",
+      "MurmurHash2"
+    ],
+    "description": "Pure nim implementation of MurmurHash",
+    "license": "MIT",
+    "web": "https://github.com/cwpearson/nim-murmurhash"
   }
 ]
