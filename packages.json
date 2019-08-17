@@ -14012,8 +14012,8 @@
     "doc": "https://github.com/c0ntribut0r/cat-400/tree/master/docs/tutorials"
   },
   {
-    "name": "murmur",
-    "url": "https://github.com/cwpearson/nim-murmur",
+    "name": "murmurhash",
+    "url": "https://github.com/cwpearson/nim-murmurhash",
     "method": "git",
     "tags": [
       "murmur",
@@ -14021,8 +14021,8 @@
       "MurmurHash3",
       "MurmurHash2"
     ],
-    "description": "Pure nim implementation of murmur hash",
+    "description": "Pure nim implementation of MurmurHash",
     "license": "MIT",
-    "web": "https://github.com/cwpearson/nim-murmur"
+    "web": "https://github.com/cwpearson/nim-murmurhash"
   }
 ]
