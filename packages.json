@@ -14038,5 +14038,18 @@
     "description": "Pure nim implementation of MurmurHash",
     "license": "MIT",
     "web": "https://github.com/cwpearson/nim-murmurhash"
+  },
+  {
+    "name": "redneck_translator",
+    "url": "https://github.com/juancarlospaco/redneck-translator",
+    "method": "git",
+    "tags": [
+      "redneck",
+      "string",
+      "slang"
+    ],
+    "description": "Redneck Translator for Y'all",
+    "license": "MIT",
+    "web": "https://github.com/juancarlospaco/redneck-translator"
   }
 ]
