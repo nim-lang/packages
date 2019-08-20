@@ -14064,5 +14064,19 @@
     "description": "Sweet_Anita Translator, help spread awareness about Tourettes",
     "license": "MIT",
     "web": "https://github.com/juancarlospaco/sweetanitify"
+  },
+  {
+    "name": "cmake",
+    "url": "https://github.com/genotrance/cmake",
+    "method": "git",
+    "tags": [
+      "cmake",
+      "build",
+      "tool",
+      "wrapper"
+    ],
+    "description": "CMake for Nimble",
+    "license": "MIT",
+    "web": "https://github.com/genotrance/cmake"
   }
 ]
