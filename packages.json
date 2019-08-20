@@ -14078,5 +14078,18 @@
     "description": "CMake for Nimble",
     "license": "MIT",
     "web": "https://github.com/genotrance/cmake"
+  },
+  {
+    "name": "plz",
+    "url": "https://github.com/juancarlospaco/nim-pypi",
+    "method": "git",
+    "tags": [
+      "python",
+      "pip",
+      "nimpy"
+    ],
+    "description": "PLZ Python PIP alternative",
+    "license": "MIT",
+    "web": "https://github.com/juancarlospaco/nim-pypi"
   }
 ]
