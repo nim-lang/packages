@@ -14104,5 +14104,17 @@
     "description": "Secure multi-party computation",
     "license": "MIT",
     "web": "https://github.com/markspanbroek/nimpc"
+  },
+  {
+    "name": "qrcodegen",
+    "url": "https://github.com/bunkford/qrcodegen",
+    "method": "git",
+    "tags": [
+      "qr",
+      "barcode"
+    ],
+    "description": "QR Code Generator",
+    "license": "MIT",
+    "web": "https://github.com/bunkford/qrcodegen"
   }
 ]
