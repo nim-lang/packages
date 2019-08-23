@@ -14116,5 +14116,17 @@
     "description": "QR Code Generator",
     "license": "MIT",
     "web": "https://github.com/bunkford/qrcodegen"
+  },
+  {
+    "name": "cirru-parser",
+    "url": "https://github.com/Cirru/parser.nim",
+    "method": "git",
+    "tags": [
+      "parser",
+      "cirru"
+    ],
+    "description": "Parser for Cirru syntax",
+    "license": "MIT",
+    "web": "https://github.com/Cirru/parser.nim"
   }
 ]
