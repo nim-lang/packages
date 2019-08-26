@@ -14131,5 +14131,17 @@
     "description": "Parser for Cirru syntax",
     "license": "MIT",
     "web": "https://github.com/Cirru/parser.nim"
+  },
+  {
+    "name": "edn",
+    "url": "https://github.com/rosado/edn.nim",
+    "method": "git",
+    "tags": [
+      "edn",
+      "clojure"
+    ],
+    "description": "EDN and Clojure parser",
+    "license": "EPL-2.0",
+    "web": "https://github.com/rosado/edn.nim"
   }
 ]
