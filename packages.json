@@ -14133,6 +14133,18 @@
     "web": "https://github.com/Cirru/parser.nim"
   },
   {
+    "name": "reframe",
+    "url": "https://github.com/rosado/reframe.nim",
+    "method": "git",
+    "tags": [
+      "clojurescript",
+      "re-frame"
+    ],
+    "description": "Tools for working with re-frame ClojureScript projects",
+    "license": "EPL-2.0",
+    "web": "https://github.com/rosado/reframe.nim"
+  },
+  {
     "name": "edn",
     "url": "https://github.com/rosado/edn.nim",
     "method": "git",
