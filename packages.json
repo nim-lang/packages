@@ -7540,8 +7540,8 @@
   },
   {
     "name": "blake2",
-    "url": "https://bitbucket.org/mihailp/blake2/",
-    "method": "hg",
+    "url": "https://github.com/narimiran/blake2",
+    "method": "git",
     "tags": [
       "crypto",
       "cryptography",
@@ -7550,7 +7550,7 @@
     ],
     "description": "blake2 - cryptographic hash function",
     "license": "CC0",
-    "web": "https://bitbucket.org/mihailp/blake2/"
+    "web": "https://github.com/narimiran/blake2"
   },
   {
     "name": "spinny",
@@ -7638,8 +7638,8 @@
   },
   {
     "name": "sha3",
-    "url": "https://bitbucket.org/mihailp/sha3/",
-    "method": "hg",
+    "url": "https://github.com/narimiran/sha3",
+    "method": "git",
     "tags": [
       "crypto",
       "cryptography",
@@ -7648,7 +7648,7 @@
     ],
     "description": "sha3 - cryptographic hash function",
     "license": "CC0",
-    "web": "https://bitbucket.org/mihailp/sha3/"
+    "web": "https://github.com/narimiran/sha3"
   },
   {
     "name": "coalesce",
@@ -9332,7 +9332,10 @@
     "method": "git",
     "tags": [
       "itertools",
+      "iterutils",
       "python",
+      "iter",
+      "iterator",
       "iterators"
     ],
     "description": "Itertools for Nim",
