@@ -14155,5 +14155,17 @@
     "description": "EDN and Clojure parser",
     "license": "EPL-2.0",
     "web": "https://github.com/rosado/edn.nim"
+  },
+  {
+    "name": "easings",
+    "url": "https://github.com/juancarlospaco/nim-easings",
+    "method": "git",
+    "tags": [
+      "easings",
+      "math"
+    ],
+    "description": "Robert Penner Easing Functions for Nim",
+    "license": "MIT",
+    "web": "https://github.com/juancarlospaco/nim-easings"
   }
 ]
