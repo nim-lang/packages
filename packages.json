@@ -14181,5 +14181,22 @@
     "description": "Euclidean Division & Euclidean Modulo",
     "license": "MIT",
     "web": "https://github.com/juancarlospaco/nim-euclidean"
+  },
+  {
+    "name": "fletcher",
+    "url": "https://github.com/Akito13/nim-fletcher",
+    "method": "git",
+    "tags": [
+      "algorithm",
+      "checksum",
+      "hash",
+      "adler",
+      "crc",
+      "crc32",
+      "embedded"
+    ],
+    "description": "Implementation of the Fletcher checksum algorithm.",
+    "license": "GPLv3+",
+    "web": "https://github.com/Akito13/nim-fletcher"
   }
 ]
