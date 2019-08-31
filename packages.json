@@ -14169,6 +14169,20 @@
     "web": "https://github.com/juancarlospaco/nim-easings"
   },
   {
+    "name": "euclidean",
+    "url": "https://github.com/juancarlospaco/nim-euclidean",
+    "method": "git",
+    "tags": [
+      "euclidean",
+      "modulo",
+      "division",
+      "math"
+    ],
+    "description": "Euclidean Division & Euclidean Modulo",
+    "license": "MIT",
+    "web": "https://github.com/juancarlospaco/nim-euclidean"
+  },
+  {
     "name": "fletcher",
     "url": "https://github.com/Akito13/nim-fletcher",
     "method": "git",
