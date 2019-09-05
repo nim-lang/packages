@@ -14198,5 +14198,20 @@
     "description": "Implementation of the Fletcher checksum algorithm.",
     "license": "GPLv3+",
     "web": "https://github.com/Akito13/nim-fletcher"
+  },
+  {
+    "name": "Xors3D",
+    "url": "https://github.com/Guevara-chan/Xors3D-for-Nim",
+    "method": "git",
+    "tags": [
+      "3d",
+      "game",
+      "engine",
+      "dx9",
+      "graphics"
+    ],
+    "description": "Blitz3D-esque DX9 engine for Nim",
+    "license": "MIT",
+    "web": "https://github.com/Guevara-chan/Xors3D-for-Nim"
   }
 ]
