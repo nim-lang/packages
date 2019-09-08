@@ -14231,6 +14231,20 @@
     "web": "https://github.com/juancarlospaco/nim-constants"
   },
   {
+    "name": "pager",
+    "url": "https://git.sr.ht/~reesmichael1/nim-pager",
+    "method": "git",
+    "tags": [
+      "pager",
+      "paging",
+      "less",
+      "more"
+    ],
+    "description": "A simple library for paging, similar to less",
+    "license": "GPL-3.0",
+    "web": "https://git.sr.ht/~reesmichael1/nim-pager"
+  },
+  {
     "name": "procs",
     "url": "https://github.com/c-blake/procs",
     "method": "git",
