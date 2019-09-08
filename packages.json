@@ -14243,5 +14243,34 @@
     "description": "A simple library for paging, similar to less",
     "license": "GPL-3.0",
     "web": "https://git.sr.ht/~reesmichael1/nim-pager"
+  },
+  {
+    "name": "procs",
+    "url": "https://github.com/c-blake/procs",
+    "method": "git",
+    "tags": [
+      "library",
+      "terminal",
+      "cli",
+      "binary",
+      "linux",
+      "unix",
+      "bsd"
+    ],
+    "description": "Unix process&system query&formatting library&multi-command CLI in Nim",
+    "license": "MIT",
+    "web": "https://github.com/c-blake/procs"
+  },
+  {
+    "name": "laser",
+    "url": "https://github.com/numforge/laser",
+    "method": "git",
+    "tags": [
+      "parallel",
+      "simd"
+    ],
+    "description": "High Performance Computing and Image Toolbox: SIMD, JIT Assembler, OpenMP, runtime CPU feature detection, optimised machine learning primitives",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/numforge/laser"
   }
 ]
