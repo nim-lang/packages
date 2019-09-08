@@ -14229,5 +14229,17 @@
     "description": "Mathematical numerical named static constants useful for different disciplines",
     "license": "MIT",
     "web": "https://github.com/juancarlospaco/nim-constants"
+  },
+  {
+    "name": "laser",
+    "url": "https://github.com/numforge/laser",
+    "method": "git",
+    "tags": [
+      "parallel",
+      "simd"
+    ],
+    "description": "High Performance Computing and Image Toolbox: SIMD, JIT Assembler, OpenMP, runtime CPU feature detection, optimised machine learning primitives",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/numforge/laser"
   }
 ]
