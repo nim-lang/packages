@@ -14272,5 +14272,17 @@
     "description": "High Performance Computing and Image Toolbox: SIMD, JIT Assembler, OpenMP, runtime CPU feature detection, optimised machine learning primitives",
     "license": "Apache License 2.0",
     "web": "https://github.com/numforge/laser"
+  },
+  {
+    "name": "libssh",
+    "url": "https://github.com/dariolah/libssh-nim",
+    "method": "git",
+    "tags": [
+      "ssh",
+      "libssh"
+    ],
+    "description": "libssh FFI bindings",
+    "license": "MIT",
+    "web": "https://github.com/dariolah/libssh-nim"
   }
 ]
