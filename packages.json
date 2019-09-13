@@ -14284,5 +14284,20 @@
     "description": "libssh FFI bindings",
     "license": "MIT",
     "web": "https://github.com/dariolah/libssh-nim"
+  },
+  {
+    "name": "wZeeGrid",
+    "url": "https://github.com/bunkford/wZeeGrid",
+    "method": "git",
+    "tags": [
+      "library",
+      "windows",
+      "gui",
+      "ui"
+    ],
+    "description": "Grid plugin for wNim.",
+    "license": "MIT",
+    "web": "https://github.com/bunkford/wZeeGrid",
+    "doc": "https://bunkford.github.io/wZeeGrid/wZeeGrid.html"
   }
 ]
