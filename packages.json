@@ -8014,6 +8014,27 @@
     ]
   },
   {
+    "name": "laser",
+    "description": "High Performance Computing and Image Toolbox: SIMD, JIT Assembler, OpenMP, runtime CPU feature detection, optimised machine learning primitives",
+    "tags": [
+      "parallel",
+      "simd"
+    ],
+    "license": "Apache License 2.0",
+    "method": "git",
+    "web": "https://github.com/numforge/laser",
+    "url": "https://github.com/numforge/laser",
+    "long_description": "Carefully-tuned primitives for running tensor and image-processing code on CPU, GPUs and accelerators.",
+    "code_quality": 4,
+    "doc_quality": 3,
+    "project_quality": 2,
+    "categories": [
+      "Maths",
+      "Data science",
+      "Hardware"
+    ]
+  },
+  {
     "name": "lastfm",
     "description": "Last.FM API breakouts (documentation: http://ryuk.ooo/nimdocs/lastfm/lastfm.html)",
     "tags": [
@@ -8529,6 +8550,26 @@
     "categories": [
       "FFI",
       "Algorithms",
+      "Network"
+    ]
+  },
+  {
+    "name": "libssh",
+    "description": "libssh FFI bindings",
+    "tags": [
+      "ssh",
+      "libssh"
+    ],
+    "license": "MIT",
+    "method": "git",
+    "web": "https://github.com/dariolah/libssh-nim",
+    "url": "https://github.com/dariolah/libssh-nim",
+    "long_description": "libssh is a multiplatform C library implementing the SSHv2 protocol on client and server side. With libssh, you can remotely execute programs, transfer files, use a secure and transparent tunnel, manage public keys and much more ...",
+    "code_quality": 2,
+    "doc_quality": 2,
+    "project_quality": 2,
+    "categories": [
+      "FFI",
       "Network"
     ]
   },
@@ -14223,6 +14264,28 @@
     ]
   },
   {
+    "name": "pager",
+    "description": "A simple library for paging, similar to less",
+    "tags": [
+      "pager",
+      "paging",
+      "less",
+      "more"
+    ],
+    "license": "GPL-3.0",
+    "method": "git",
+    "web": "https://git.sr.ht/~reesmichael1/nim-pager",
+    "url": "https://git.sr.ht/~reesmichael1/nim-pager",
+    "code_quality": 3,
+    "doc_quality": 3,
+    "project_quality": 2,
+    "categories": [
+      "Miscellaneous",
+      "Reporting",
+      "Tools"
+    ]
+  },
+  {
     "name": "pari",
     "description": "Pari/GP C library wrapper",
     "tags": [
@@ -15010,6 +15073,30 @@
     "categories": [
       "FFI",
       "Development"
+    ]
+  },
+  {
+    "name": "procs",
+    "description": "Unix process&system query&formatting library&multi-command CLI in Nim",
+    "tags": [
+      "library",
+      "terminal",
+      "cli",
+      "binary",
+      "linux",
+      "unix",
+      "bsd"
+    ],
+    "license": "MIT",
+    "method": "git",
+    "web": "https://github.com/c-blake/procs",
+    "url": "https://github.com/c-blake/procs",
+    "code_quality": 2,
+    "doc_quality": 3,
+    "project_quality": 2,
+    "categories": [
+      "System",
+      "Tools"
     ]
   },
   {
