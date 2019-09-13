@@ -11,6 +11,8 @@
 #  * Missing description
 #  * Missing/unknown license
 #  * Insecure git:// url on GitHub
+#  * Quality levels are numeric
+#  * Known categories
 #
 # Usage: nim c -d:ssl -r package_scanner.nim
 #
@@ -97,7 +99,7 @@ proc canFetchNimbleRepository(name: string, urlJson: JsonNode): bool =
       echo "W: ", name, ": httpclient failed ", url, " ",
            getCurrentExceptionMsg()
     except:
-      echo "W: Another error attempting to request: ", url
+      echo "W: ", name, ": Another error attempting to request: ", url
       echo "  Error was: ", getCurrentExceptionMsg()
 
 proc verifyAlias(pdata: JsonNode, result: var int) =

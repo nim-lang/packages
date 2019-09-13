@@ -120,7 +120,7 @@ A package can be in multiple categories.
 * JS            - Compiles to JavaScript
 * Language      - Nim language extensions
 * Maths
-* Miscelaneous  - No other category...
+* Miscelaneous  - No other category fits...
 * Network
 * Reporting     - Showing results
 * Science
