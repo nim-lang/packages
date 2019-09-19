@@ -14328,5 +14328,17 @@
     "description": "Pure Nim stack implementation based on sequences.",
     "license": "MIT",
     "web": "https://github.com/rustomax/nim-stacks"
+  },
+  {
+    "name": "mustache",
+    "url": "https://github.com/soasme/nim-mustache",
+    "method": "git",
+    "tags": [
+      "mustache",
+      "template"
+    ],
+    "description": "Mustache in Nim",
+    "license": "MIT",
+    "web": "https://github.com/soasme/nim-mustache"
   }
 ]
