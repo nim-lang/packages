@@ -14340,5 +14340,16 @@
     "description": "Mustache in Nim",
     "license": "MIT",
     "web": "https://github.com/soasme/nim-mustache"
+  },
+  {
+    "name": "sigv4",
+    "url": "https://github.com/disruptek/sigv4",
+    "method": "git",
+    "tags": [
+      "1.0.0"
+    ],
+    "description": "Amazon Web Services Signature Version 4",
+    "license": "MIT",
+    "web": "https://github.com/disruptek/sigv4"
   }
 ]
