@@ -14340,5 +14340,17 @@
     "description": "Mustache in Nim",
     "license": "MIT",
     "web": "https://github.com/soasme/nim-mustache"
+  },
+  {
+    "name": "htmlview",
+    "url": "https://github.com/yuchunzhou/htmlview",
+    "method": "git",
+    "tags": [
+      "html",
+      "browser"
+    ],
+    "description": "view the online url link with browser",
+    "license": "MIT",
+    "web": "https://github.com/yuchunzhou/htmlview"
   }
 ]
