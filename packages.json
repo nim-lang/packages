@@ -14351,5 +14351,19 @@
     "description": "Amazon Web Services Signature Version 4",
     "license": "MIT",
     "web": "https://github.com/disruptek/sigv4"
+  },
+  {
+    "name": "atoz",
+    "url": "https://github.com/disruptek/atoz",
+    "method": "git",
+    "tags": [
+      "aws",
+      "api",
+      "cloud",
+      "amazon"
+    ],
+    "description": "Amazon Web Services (AWS) APIs",
+    "license": "MIT",
+    "web": "https://github.com/disruptek/atoz"
   }
 ]
