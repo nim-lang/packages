@@ -14353,6 +14353,20 @@
     "web": "https://github.com/disruptek/sigv4"
   },
   {
+    "name": "openapi",
+    "url": "https://github.com/disruptek/openapi",
+    "method": "git",
+    "tags": [
+      "api",
+      "openapi",
+      "rest",
+      "cloud"
+    ],
+    "description": "OpenAPI Code Generator",
+    "license": "MIT",
+    "web": "https://github.com/disruptek/openapi"
+  },
+  {
     "name": "atoz",
     "url": "https://github.com/disruptek/atoz",
     "method": "git",
