@@ -14379,5 +14379,17 @@
     "description": "Amazon Web Services (AWS) APIs",
     "license": "MIT",
     "web": "https://github.com/disruptek/atoz"
+  },
+  {
+    "name": "nimga",
+    "url": "https://github.com/toshikiohnogi/nimga",
+    "method": "git",
+    "tags": [
+      "GeneticAlgorithm",
+      "nimga"
+    ],
+    "description": "Genetic Algorithm Library for Nim.",
+    "license": "MIT",
+    "web": "https://github.com/toshikiohnogi/nimga"
   }
 ]
