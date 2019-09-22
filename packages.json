@@ -14404,5 +14404,18 @@
     "description": "A sugary for loop with syntax for typechecking loop variables",
     "license": "MIT",
     "web": "https://github.com/disruptek/foreach"
+  },
+  {
+    "name": "monit",
+    "url": "https://github.com/jiro4989/monit",
+    "method": "git",
+    "tags": [
+      "cli",
+      "task-runner",
+      "automation"
+    ],
+    "description": "A simple task runner. Run tasks and watch file changes with custom paths.",
+    "license": "MIT",
+    "web": "https://github.com/jiro4989/monit"
   }
 ]
