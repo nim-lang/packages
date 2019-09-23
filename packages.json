@@ -14418,5 +14418,18 @@
     "description": "A simple task runner. Run tasks and watch file changes with custom paths.",
     "license": "MIT",
     "web": "https://github.com/jiro4989/monit"
+  },
+  {
+    "name": "nimga",
+    "url": "https://github.com/toshikiohnogi/nimga",
+    "method": "git",
+    "tags": [
+      "geneticalgorithm",
+      "ga",
+      "optimization"
+    ],
+    "description": "Genetic Algorithm Library for Nim.",
+    "license": "MIT",
+    "web": "https://github.com/toshikiohnogi/nimga"
   }
 ]
