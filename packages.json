@@ -14418,5 +14418,18 @@
     "description": "A simple task runner. Run tasks and watch file changes with custom paths.",
     "license": "MIT",
     "web": "https://github.com/jiro4989/monit"
+  },
+  {
+    "name": "termnovel",
+    "url": "https://github.com/jiro4989/termnovel",
+    "method": "git",
+    "tags": [
+      "cli",
+      "novel",
+      "tui"
+    ],
+    "description": "A command that to read novel on terminal",
+    "license": "MIT",
+    "web": "https://github.com/jiro4989/termnovel"
   }
 ]
