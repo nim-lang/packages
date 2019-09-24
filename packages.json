@@ -14431,5 +14431,17 @@
     "description": "A command that to read novel on terminal",
     "license": "MIT",
     "web": "https://github.com/jiro4989/termnovel"
+  },
+  {
+    "name": "htmlview",
+    "url": "https://github.com/yuchunzhou/htmlview",
+    "method": "git",
+    "tags": [
+      "html",
+      "browser"
+    ],
+    "description": "view the online url link with browser",
+    "license": "MIT",
+    "web": "https://github.com/yuchunzhou/htmlview"
   }
 ]
