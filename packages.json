@@ -14440,7 +14440,7 @@
       "html",
       "browser"
     ],
-    "description": "view the online url link with browser",
+    "description": "View the offline or online html page in browser",
     "license": "MIT",
     "web": "https://github.com/yuchunzhou/htmlview"
   }
