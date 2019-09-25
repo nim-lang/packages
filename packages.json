@@ -14443,5 +14443,18 @@
     "description": "View the offline or online html page in browser",
     "license": "MIT",
     "web": "https://github.com/yuchunzhou/htmlview"
+  },
+  {
+    "name": "tcping",
+    "url": "https://github.com/pdrb/tcping",
+    "method": "git",
+    "tags": [
+      "ping,",
+      "tcp,",
+      "tcping"
+    ],
+    "description": "Ping hosts using tcp packets",
+    "license": "MIT",
+    "web": "https://github.com/pdrb/tcping"
   }
 ]
