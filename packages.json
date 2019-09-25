@@ -9174,7 +9174,7 @@
   },
   {
     "name": "nimgl",
-    "url": "https://github.com/lmariscal/nimgl",
+    "url": "https://github.com/nimgl/nimgl",
     "method": "git",
     "tags": [
       "glfw",
