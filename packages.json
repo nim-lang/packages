@@ -14443,5 +14443,19 @@
     "description": "View the offline or online html page in browser",
     "license": "MIT",
     "web": "https://github.com/yuchunzhou/htmlview"
+  },
+  {
+    "name": "sunvox",
+    "url": "https://github.com/exelotl/nim-sunvox",
+    "method": "git",
+    "tags": [
+      "music",
+      "audio",
+      "sound",
+      "synthesizer"
+    ],
+    "description": "Bindings for SunVox modular synthesizer",
+    "license": "MIT",
+    "web": "https://github.com/exelotl/nim-sunvox"
   }
 ]
