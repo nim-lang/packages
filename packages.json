@@ -14443,5 +14443,17 @@
     "description": "View the offline or online html page in browser",
     "license": "MIT",
     "web": "https://github.com/yuchunzhou/htmlview"
+  },
+  {
+    "name": "funchook",
+    "url": "https://github.com/ba0f3/funchook.nim",
+    "method": "git",
+    "tags": [
+      "hook,",
+      "hooking"
+    ],
+    "description": "funchook wrapper",
+    "license": "GPLv2",
+    "web": "https://github.com/ba0f3/funchook.nim"
   }
 ]
