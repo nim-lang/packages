@@ -14496,5 +14496,25 @@
     "description": "Bindings for SunVox modular synthesizer",
     "license": "MIT",
     "web": "https://github.com/exelotl/nim-sunvox"
+  },
+  {
+    "name": "i3ipc",
+    "url": "https://github.com/disruptek/i3ipc",
+    "method": "git",
+    "tags": [
+      "wayland",
+      "sway",
+      "i3",
+      "i3ipc",
+      "ipc",
+      "client",
+      "window",
+      "x11",
+      "manager",
+      "library"
+    ],
+    "description": "IPC interface to sway (or i3) compositors",
+    "license": "MIT",
+    "web": "https://github.com/disruptek/i3ipc"
   }
 ]
