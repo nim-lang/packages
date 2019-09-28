@@ -14494,7 +14494,7 @@
       "synthesizer"
     ],
     "description": "Bindings for SunVox modular synthesizer",
-    "license": "MIT",
+    "license": "0BSD",
     "web": "https://github.com/exelotl/nim-sunvox"
   }
 ]
