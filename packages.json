@@ -14513,5 +14513,22 @@
     "description": "Google Cloud Platform (GCP) APIs",
     "license": "MIT",
     "web": "https://github.com/disruptek/gcplat"
+  },
+  {
+    "name": "bluu",
+    "url": "https://github.com/disruptek/bluu",
+    "method": "git",
+    "tags": [
+      "microsoft",
+      "azure",
+      "cloud",
+      "api",
+      "rest",
+      "openapi",
+      "web"
+    ],
+    "description": "Microsoft Azure Cloud Computing Platform and Services (MAC) APIs",
+    "license": "MIT",
+    "web": "https://github.com/disruptek/bluu"
   }
 ]
