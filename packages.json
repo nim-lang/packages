@@ -14544,5 +14544,16 @@
     "description": "A Nim wrapper for TheBlueAlliance",
     "license": "MIT",
     "web": "https://github.com/tervay/the-nim-alliance"
+  },
+  {
+    "name": "passgen",
+    "url": "https://github.com/rustomax/nim-passgen",
+    "method": "git",
+    "tags": [
+      "password-generator"
+    ],
+    "description": "Password generation library in Nim",
+    "license": "MIT",
+    "web": "https://github.com/rustomax/nim-passgen"
   }
 ]
