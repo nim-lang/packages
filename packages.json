@@ -14555,5 +14555,19 @@
     "description": "Password generation library in Nim",
     "license": "MIT",
     "web": "https://github.com/rustomax/nim-passgen"
+  },
+  {
+    "name": "fwrite",
+    "url": "https://github.com/pdrb/nim-fwrite",
+    "method": "git",
+    "tags": [
+      "create,",
+      "file,",
+      "write,",
+      "fwrite"
+    ],
+    "description": "Create files of the desired size",
+    "license": "MIT",
+    "web": "https://github.com/pdrb/nim-fwrite"
   }
 ]
