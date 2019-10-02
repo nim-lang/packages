@@ -14581,5 +14581,18 @@
     "description": "Create files of the desired size",
     "license": "MIT",
     "web": "https://github.com/pdrb/nim-fwrite"
+  },
+  {
+    "name": "simplediff",
+    "url": "https://git.sr.ht/~reesmichael1/nim-simplediff",
+    "method": "git",
+    "tags": [
+      "diff",
+      "simplediff",
+      ""
+    ],
+    "description": "A library for straightforward diff calculation",
+    "license": "GPL-3.0",
+    "web": "https://git.sr.ht/~reesmichael1/nim-simplediff"
   }
 ]
