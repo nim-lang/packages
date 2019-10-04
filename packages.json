@@ -14594,5 +14594,17 @@
     "description": "A library for straightforward diff calculation",
     "license": "GPL-3.0",
     "web": "https://git.sr.ht/~reesmichael1/nim-simplediff"
+  },
+  {
+    "name": "xcm",
+    "url": "https://github.com/SolitudeSF/xcm",
+    "method": "git",
+    "tags": [
+      "color",
+      "x11"
+    ],
+    "description": "Color management utility for X",
+    "license": "MIT",
+    "web": "https://github.com/SolitudeSF/xcm"
   }
 ]
