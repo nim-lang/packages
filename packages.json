@@ -14608,6 +14608,21 @@
     "web": "https://github.com/SolitudeSF/xcm"
   },
   {
+    "name": "bearssl",
+    "url": "https://github.com/status-im/nim-bearssl",
+    "method": "git",
+    "tags": [
+      "crypto",
+      "hashes",
+      "ciphers",
+      "ssl",
+      "tls"
+    ],
+    "description": "Bindings to BearSSL library",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/status-im/nim-bearssl"
+  },
+  {
     "name": "schedules",
     "url": "https://github.com/soasme/nim-schedules",
     "method": "git",
