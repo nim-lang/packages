@@ -14648,7 +14648,20 @@
       "string"
     ],
     "description": "The Levenshtein Nim module contains functions for fast computation of Levenshtein distance and string similarity.",
-    "license": "GPLv2",
-    "url": "https://github.com/oswjk/nimlevenshtein"
+    "license": "GPLv2"
+  },
+  {
+    "name": "randpw",
+    "url": "https://github.com/pdrb/nim-randpw",
+    "method": "git",
+    "tags": [
+      "random",
+      "password",
+      "passphrase",
+      "randpw"
+    ],
+    "description": "Random password and passphrase generator",
+    "license": "MIT",
+    "web": "https://github.com/pdrb/nim-randpw"
   }
 ]
