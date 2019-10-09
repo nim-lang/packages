@@ -14665,6 +14665,18 @@
     "web": "https://github.com/pdrb/nim-randpw"
   },
   {
+    "name": "timeit",
+    "url": "https://github.com/xflywind/timeit",
+    "method": "git",
+    "tags": [
+      "timeit",
+      "bench"
+    ],
+    "description": "measuring execution times written in nim.",
+    "license": "MIT",
+    "web": "https://github.com/xflywind/timeit"
+  },
+  {
     "name": "manu",
     "url": "https://github.com/b3liever/manu",
     "method": "git",
