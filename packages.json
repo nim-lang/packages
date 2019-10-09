@@ -14675,5 +14675,73 @@
     "description": "measuring execution times written in nim.",
     "license": "MIT",
     "web": "https://github.com/xflywind/timeit"
+  },
+  {
+    "name": "manu",
+    "url": "https://github.com/b3liever/manu",
+    "method": "git",
+    "tags": [
+      "matrix",
+      "linear-algebra",
+      "scientific"
+    ],
+    "description": "Nim Matrix library",
+    "license": "MIT",
+    "web": "https://github.com/b3liever/manu"
+  },
+  {
+    "name": "jscanvas",
+    "url": "https://github.com/b3liever/jscanvas",
+    "method": "git",
+    "tags": [
+      "html5",
+      "canvas",
+      "drawing",
+      "graphics",
+      "rendering",
+      "browser",
+      "javascript"
+    ],
+    "description": "A Nim wrapper for the Canvas API",
+    "license": "MIT",
+    "web": "https://github.com/b3liever/jscanvas"
+  },
+  {
+    "name": "looper",
+    "url": "https://github.com/b3liever/looper",
+    "method": "git",
+    "tags": [
+      "loop",
+      "iterator",
+      "zip",
+      "enumerate"
+    ],
+    "description": "For loop macros for Nim",
+    "license": "MIT",
+    "web": "https://github.com/b3liever/looper"
+  },
+  {
+    "name": "protocoled",
+    "url": "https://github.com/b3liever/protocoled",
+    "method": "git",
+    "tags": [
+      "interface"
+    ],
+    "description": "An interface macro for Nim",
+    "license": "MIT",
+    "web": "https://github.com/b3liever/protocoled"
+  },
+  {
+    "name": "eminim",
+    "url": "https://github.com/b3liever/eminim",
+    "method": "git",
+    "tags": [
+      "json",
+      "marshal",
+      "deserialize"
+    ],
+    "description": "JSON deserialization macro for Nim",
+    "license": "MIT",
+    "web": "https://github.com/b3liever/eminim"
   }
 ]
