@@ -14743,5 +14743,23 @@
     "description": "JSON deserialization macro for Nim",
     "license": "MIT",
     "web": "https://github.com/b3liever/eminim"
+  },
+  {
+    "name": "golden",
+    "url": "https://github.com/disruptek/golden",
+    "method": "git",
+    "tags": [
+      "benchmark",
+      "profile",
+      "golden",
+      "runtime",
+      "run",
+      "profiling",
+      "bench",
+      "speed"
+    ],
+    "description": "a benchmark tool",
+    "license": "MIT",
+    "web": "https://github.com/disruptek/golden"
   }
 ]
