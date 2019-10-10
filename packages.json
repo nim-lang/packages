@@ -14761,5 +14761,19 @@
     "description": "a benchmark tool",
     "license": "MIT",
     "web": "https://github.com/disruptek/golden"
+  },
+  {
+    "name": "nimgit2",
+    "url": "https://github.com/genotrance/nimgit2",
+    "method": "git",
+    "tags": [
+      "git",
+      "wrapper",
+      "libgit2",
+      "binding"
+    ],
+    "description": "libgit2 wrapper for Nim",
+    "license": "MIT",
+    "web": "https://github.com/genotrance/nimgit2"
   }
 ]
