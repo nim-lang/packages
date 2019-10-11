@@ -14775,5 +14775,18 @@
     "description": "libgit2 wrapper for Nim",
     "license": "MIT",
     "web": "https://github.com/genotrance/nimgit2"
+  },
+  {
+    "name": "rainbow",
+    "url": "https://github.com/thebigbaron/rainbow",
+    "method": "git",
+    "tags": [
+      "library",
+      "256-colors",
+      "cli"
+    ],
+    "description": "256 colors for shell",
+    "license": "MIT",
+    "web": "https://github.com/thebigbaron/rainbow"
   }
 ]
