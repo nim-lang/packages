@@ -14788,5 +14788,23 @@
     "description": "256 colors for shell",
     "license": "MIT",
     "web": "https://github.com/thebigbaron/rainbow"
+  },
+  {
+    "name": "rtree",
+    "url": "https://github.com/stefansalewski/RTree",
+    "method": "git",
+    "tags": [
+      "RTree",
+      "R-Tree",
+      "R*Tree",
+      "R*-Tree",
+      "spatial-index",
+      "search",
+      "nearest-neighbors",
+      "bulk-load"
+    ],
+    "description": "R-Tree",
+    "license": "MIT",
+    "web": "https://github.com/stefansalewski/RTree"
   }
 ]
