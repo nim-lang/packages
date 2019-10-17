@@ -14790,6 +14790,17 @@
     "web": "https://github.com/thebigbaron/rainbow"
   },
   {
+    "name": "rtree",
+    "url": "https://github.com/stefansalewski/RTree",
+    "method": "git",
+    "tags": [
+      "library"
+    ],
+    "description": "R-Tree",
+    "license": "MIT",
+    "web": "https://github.com/stefansalewski/RTree"
+  },
+  {
     "name": "winversion",
     "url": "https://github.com/rockcavera/winversion",
     "method": "git",
