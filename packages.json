@@ -6757,7 +6757,7 @@
   },
   {
     "name": "imap",
-    "url": "https://github.com/ehmry/imap",
+    "url": "https://git.sr.ht/~ehmry/nim_imap",
     "method": "git",
     "tags": [
       "imap",
@@ -6765,7 +6765,7 @@
     ],
     "description": "IMAP client library",
     "license": "GPL2",
-    "web": "https://github.com/ehmry/imap"
+    "web": "https://git.sr.ht/~ehmry/nim_imap"
   },
   {
     "name": "isa",
@@ -7427,14 +7427,14 @@
   },
   {
     "name": "tiger",
-    "url": "https://github.com/ehmry/tiger",
+    "url": "https://git.sr.ht/~ehmry/nim_tiger",
     "method": "git",
     "tags": [
       "hash"
     ],
     "description": "Tiger hash function",
     "license": "MIT",
-    "web": "https://github.com/ehmry/tiger"
+    "web": "https://git.sr.ht/~ehmry/nim_tiger"
   },
   {
     "name": "pipe",
@@ -8260,7 +8260,7 @@
   },
   {
     "name": "cbor",
-    "url": "https://github.com/ehmry/nim-cbor",
+    "url": "https://git.sr.ht/~ehmry/nim_cbor",
     "method": "git",
     "tags": [
       "library",
@@ -8270,11 +8270,11 @@
     ],
     "description": "Concise Binary Object Representation decoder (RFC7049).",
     "license": "MIT",
-    "web": "https://github.com/ehmry/nim-cbor"
+    "web": "https://git.sr.ht/~ehmry/nim_cbor"
   },
   {
     "name": "base58",
-    "url": "https://github.com/ehmry/nim-base58",
+    "url": "https://git.sr.ht/~ehmry/nim_base58",
     "method": "git",
     "tags": [
       "base58",
@@ -8286,7 +8286,7 @@
     ],
     "description": "Base58 encoders and decoders for Bitcoin and CryptoNote addresses.",
     "license": "MIT",
-    "web": "https://github.com/ehmry/nim-base58"
+    "web": "https://git.sr.ht/~ehmry/nim_base58"
   },
   {
     "name": "webdriver",
@@ -9497,7 +9497,7 @@
   },
   {
     "name": "sphincs",
-    "url": "https://github.com/ehmry/nim-sphincs",
+    "url": "https://git.sr.ht/~ehmry/nim_sphincs",
     "method": "git",
     "tags": [
       "crypto",
@@ -9506,7 +9506,7 @@
     ],
     "description": "SPHINCS⁺ stateless hash-based signature scheme",
     "license": "MIT",
-    "web": "https://github.com/ehmry/nim-sphincs"
+    "web": "https://git.sr.ht/~ehmry/nim_sphincs"
   },
   {
     "name": "nimpb",
@@ -11888,7 +11888,7 @@
   },
   {
     "name": "siphash",
-    "url": "https://github.com/ehmry/nim-siphash",
+    "url": "https://git.sr.ht/~ehmry/nim_siphash",
     "method": "git",
     "tags": [
       "hash",
@@ -11896,11 +11896,11 @@
     ],
     "description": "SipHash, a pseudorandom function optimized for short messages.",
     "license": "GPLv3",
-    "web": "https://github.com/ehmry/nim-siphash"
+    "web": "https://git.sr.ht/~ehmry/nim_siphash"
   },
   {
     "name": "haraka",
-    "url": "https://github.com/ehmry/nim-haraka",
+    "url": "https://git.sr.ht/~ehmry/nim_haraka",
     "method": "git",
     "tags": [
       "hash",
@@ -11908,11 +11908,11 @@
     ],
     "description": "Haraka v2 short-input hash function",
     "license": "MIT",
-    "web": "https://github.com/ehmry/nim-haraka"
+    "web": "https://git.sr.ht/~ehmry/nim_haraka"
   },
   {
     "name": "genode",
-    "url": "https://github.com/ehmry/nim-genode",
+    "url": "https://git.sr.ht/~ehmry/nim_genode",
     "method": "git",
     "tags": [
       "genode",
@@ -11920,7 +11920,7 @@
     ],
     "description": "System libraries for the Genode Operating System Framework",
     "license": "AGPLv3",
-    "web": "https://github.com/ehmry/nim-genode"
+    "web": "https://git.sr.ht/~ehmry/nim_genode"
   },
   {
     "name": "moe",
@@ -13516,7 +13516,7 @@
   },
   {
     "name": "toxcore",
-    "url": "https://github.com/ehmry/nim_tox",
+    "url": "https://git.sr.ht/~ehmry/nim_tox",
     "method": "git",
     "tags": [
       "tox",
@@ -13525,7 +13525,7 @@
     ],
     "description": "C Tox core wrapper",
     "license": "GPL-3.0",
-    "web": "https://github.com/ehmry/nim_tox"
+    "web": "https://git.sr.ht/~ehmry/nim_tox"
   },
   {
     "name": "rapid",
@@ -14799,5 +14799,17 @@
     "description": "R-Tree",
     "license": "MIT",
     "web": "https://github.com/stefansalewski/RTree"
+  },
+  {
+    "name": "winversion",
+    "url": "https://github.com/rockcavera/winversion",
+    "method": "git",
+    "tags": [
+      "windows",
+      "version"
+    ],
+    "description": "This package allows you to determine the running version of the Windows operating system.",
+    "license": "MIT",
+    "web": "https://github.com/rockcavera/winversion"
   }
 ]
