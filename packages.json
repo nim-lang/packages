@@ -1,5 +1,17 @@
 [
   {
+    "name": "nimler",
+    "url": "https://github.com/wltsmrz/nimler",
+    "method": "git",
+    "tags": [
+      "Erlang",
+      "Elixir"
+    ],
+    "description": "Erlang/Elixir NIFs for nim",
+    "license": "MIT",
+    "web": "https://github.com/wltsmrz/nimler"
+  },
+  {
     "name": "QuickJS4nim",
     "url": "https://github.com/ImVexed/quickjs4nim",
     "method": "git",
