@@ -14870,5 +14870,18 @@
     "description": "IPC interface to sway (or i3) compositors",
     "license": "MIT",
     "web": "https://github.com/disruptek/swayipc"
+  },
+  {
+    "name": "nimbpf",
+    "url": "https://github.com/jasonk000/nimbpf",
+    "method": "git",
+    "tags": [
+      "libbpf",
+      "ebpf",
+      "bpf"
+    ],
+    "description": "libbpf for nim",
+    "license": "MIT",
+    "web": "https://github.com/jasonk000/nimbpf"
   }
 ]
