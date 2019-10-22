@@ -14870,5 +14870,16 @@
     "description": "IPC interface to sway (or i3) compositors",
     "license": "MIT",
     "web": "https://github.com/disruptek/swayipc"
+  },
+  {
+    "name": "vext",
+    "url": "https:///",
+    "method": "",
+    "tags": [
+      "y"
+    ],
+    "description": "Simple Physics Vector Library; Vec2 & Vec3 using 'import vext'",
+    "license": "MIT",
+    "web": "https:///"
   }
 ]
