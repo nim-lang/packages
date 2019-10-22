@@ -14872,6 +14872,21 @@
     "web": "https://github.com/disruptek/swayipc"
   },
   {
+    "name": "nimpmda",
+    "url": "https://github.com/jasonk000/nimpmda",
+    "method": "git",
+    "tags": [
+      "pcp",
+      "pmda",
+      "performance",
+      "libpcp",
+      "libpmda"
+    ],
+    "description": "PCP PMDA module bindings",
+    "license": "MIT",
+    "web": "https://github.com/jasonk000/nimpmda"
+  },
+  {
     "name": "nimbpf",
     "url": "https://github.com/jasonk000/nimbpf",
     "method": "git",
