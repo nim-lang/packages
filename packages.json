@@ -1,5 +1,17 @@
 [
   {
+    "name": "nimler",
+    "url": "https://github.com/wltsmrz/nimler",
+    "method": "git",
+    "tags": [
+      "Erlang",
+      "Elixir"
+    ],
+    "description": "Erlang/Elixir NIFs for nim",
+    "license": "MIT",
+    "web": "https://github.com/wltsmrz/nimler"
+  },
+  {
     "name": "QuickJS4nim",
     "url": "https://github.com/ImVexed/quickjs4nim",
     "method": "git",
@@ -14837,5 +14849,67 @@
     "description": "oracle odpi-c wrapper for Nim",
     "license": "MIT",
     "web": "https://github.com/mikra01/nimodpi"
+  },
+  {
+    "name": "bump",
+    "url": "https://github.com/disruptek/bump",
+    "method": "git",
+    "tags": [
+      "nimble",
+      "bump",
+      "release",
+      "tag",
+      "package",
+      "tool"
+    ],
+    "description": "a tiny tool to bump nimble versions",
+    "license": "MIT",
+    "web": "https://github.com/disruptek/bump"
+  },
+  {
+    "name": "swayipc",
+    "url": "https://github.com/disruptek/swayipc",
+    "method": "git",
+    "tags": [
+      "wayland",
+      "sway",
+      "i3",
+      "ipc",
+      "i3ipc",
+      "swaymsg",
+      "x11",
+      "swaywm"
+    ],
+    "description": "IPC interface to sway (or i3) compositors",
+    "license": "MIT",
+    "web": "https://github.com/disruptek/swayipc"
+  },
+  {
+    "name": "nimpmda",
+    "url": "https://github.com/jasonk000/nimpmda",
+    "method": "git",
+    "tags": [
+      "pcp",
+      "pmda",
+      "performance",
+      "libpcp",
+      "libpmda"
+    ],
+    "description": "PCP PMDA module bindings",
+    "license": "MIT",
+    "web": "https://github.com/jasonk000/nimpmda"
+  },
+  {
+    "name": "nimbpf",
+    "url": "https://github.com/jasonk000/nimbpf",
+    "method": "git",
+    "tags": [
+      "libbpf",
+      "ebpf",
+      "bpf"
+    ],
+    "description": "libbpf for nim",
+    "license": "MIT",
+    "web": "https://github.com/jasonk000/nimbpf"
   }
 ]
