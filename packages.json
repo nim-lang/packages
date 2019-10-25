@@ -14924,5 +14924,36 @@
     "description": "Nim Static Blog & Site Generator",
     "license": "MIT",
     "web": "https://github.com/thebigbaron/pine"
+  },
+  {
+    "name": "ginger",
+    "url": "https://github.com/Vindaar/ginger",
+    "method": "git",
+    "tags": [
+      "library",
+      "cairo",
+      "graphics",
+      "plotting"
+    ],
+    "description": "A Grid (R) like package in Nim",
+    "license": "MIT",
+    "web": "https://github.com/Vindaar/ginger"
+  },
+  {
+    "name": "ggplotnim",
+    "url": "https://github.com/Vindaar/ggplotnim",
+    "method": "git",
+    "tags": [
+      "library",
+      "grammar of graphics",
+      "gog",
+      "ggplot2",
+      "plotting",
+      "graphics",
+      "dataframe"
+    ],
+    "description": "A port of ggplot2 for Nim",
+    "license": "MIT",
+    "web": "https://github.com/Vindaar/ggplotnim"
   }
 ]
