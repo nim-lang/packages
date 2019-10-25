@@ -14911,5 +14911,18 @@
     "description": "libbpf for nim",
     "license": "MIT",
     "web": "https://github.com/jasonk000/nimbpf"
+  },
+  {
+    "name": "pine",
+    "url": "https://github.com/thebigbaron/pine",
+    "method": "git",
+    "tags": [
+      "static",
+      "site",
+      "generator"
+    ],
+    "description": "Nim Static Blog & Site Generator",
+    "license": "MIT",
+    "web": "https://github.com/thebigbaron/pine"
   }
 ]
