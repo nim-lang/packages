@@ -14955,5 +14955,16 @@
     "description": "A port of ggplot2 for Nim",
     "license": "MIT",
     "web": "https://github.com/Vindaar/ggplotnim"
+  },
+  {
+    "name": "NimTacToe",
+    "url": "https://github.com/JesterOrNot/Nim-Tac-Toe",
+    "method": "git",
+    "tags": [
+      "no"
+    ],
+    "description": "A new awesome nimble package",
+    "license": "MIT",
+    "web": "https://github.com/JesterOrNot/Nim-Tac-Toe"
   }
 ]
