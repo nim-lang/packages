@@ -1,5 +1,17 @@
 [
   {
+    "name": "tsv2json",
+    "url": "https://github.com/hectormonacci/tsv2json",
+    "method": "git",
+    "tags": [
+      "TSV",
+      "JSON"
+    ],
+    "description": "Turn TSV file or stream into JSON file or stream",
+    "license": "MIT",
+    "web": "https://github.com/hectormonacci/tsv2json"
+  },
+  {
     "name": "nimler",
     "url": "https://github.com/wltsmrz/nimler",
     "method": "git",
