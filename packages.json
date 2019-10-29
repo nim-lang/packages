@@ -15006,5 +15006,16 @@
     "description": "A library to hide data in images. Usable as library or cli tool.",
     "license": "MIT",
     "web": "https://github.com/MnlPhlp/nimagehide"
+  },
+  {
+    "name": "srv",
+    "url": "https://github.com/me7/srv",
+    "method": "git",
+    "tags": [
+      "web-server"
+    ],
+    "description": "A tiny static file web server.",
+    "license": "MIT",
+    "web": "https://github.com/me7/srv"
   }
 ]
