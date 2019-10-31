@@ -15053,5 +15053,18 @@
     "description": "libgraphqlparser wrapper for Nim",
     "license": "MIT",
     "web": "https://github.com/genotrance/nimgraphql"
+  },
+  {
+    "name": "fastcgi",
+    "url": "https://github.com/ba0f3/fastcgi.nim",
+    "method": "git",
+    "tags": [
+      "fastcgi",
+      "fcgi",
+      "cgi"
+    ],
+    "description": "FastCGI library for Nim",
+    "license": "MIT",
+    "web": "https://github.com/ba0f3/fastcgi.nim"
   }
 ]
