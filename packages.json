@@ -15042,5 +15042,19 @@
     "description": "DNS /etc/hosts file manager, Block 1 Million malicious domains with 1 command",
     "license": "MIT",
     "web": "https://github.com/juancarlospaco/nim-dnsprotec"
+  },
+  {
+    "name": "iup",
+    "url": "https://github.com/nim-lang/iup",
+    "method": "git",
+    "tags": [
+      "iup",
+      "image",
+      "library",
+      "windows"
+    ],
+    "description": "Nim wrapper for IUP",
+    "license": "MIT",
+    "web": "https://github.com/nim-lang/iup"
   }
 ]
