@@ -15042,5 +15042,16 @@
     "description": "DNS /etc/hosts file manager, Block 1 Million malicious domains with 1 command",
     "license": "MIT",
     "web": "https://github.com/juancarlospaco/nim-dnsprotec"
+  },
+  {
+    "name": "nimgraphql",
+    "url": "https://github.com/genotrance/nimgraphql",
+    "method": "git",
+    "tags": [
+      "graphql"
+    ],
+    "description": "libgraphqlparser wrapper for Nim",
+    "license": "MIT",
+    "web": "https://github.com/genotrance/nimgraphql"
   }
 ]
