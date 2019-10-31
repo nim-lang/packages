@@ -15042,5 +15042,18 @@
     "description": "DNS /etc/hosts file manager, Block 1 Million malicious domains with 1 command",
     "license": "MIT",
     "web": "https://github.com/juancarlospaco/nim-dnsprotec"
+  },
+  {
+    "name": "fastcgi",
+    "url": "https://github.com/ba0f3/fastcgi.nim",
+    "method": "git",
+    "tags": [
+      "fastcgi",
+      "fcgi",
+      "cgi"
+    ],
+    "description": "FastCGI library for Nim",
+    "license": "MIT",
+    "web": "https://github.com/ba0f3/fastcgi.nim"
   }
 ]
