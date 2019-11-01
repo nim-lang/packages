@@ -15089,7 +15089,7 @@
       "research",
       "diff"
     ],
-    "description": "Computes the L2 norm between two image files",
+    "description": "Computes different norms between two images",
     "license": "MIT",
     "web": "https://github.com/jonasrauber/norm"
   }
