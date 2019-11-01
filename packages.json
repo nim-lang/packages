@@ -15044,6 +15044,17 @@
     "web": "https://github.com/juancarlospaco/nim-dnsprotec"
   },
   {
+    "name": "nimgraphql",
+    "url": "https://github.com/genotrance/nimgraphql",
+    "method": "git",
+    "tags": [
+      "graphql"
+    ],
+    "description": "libgraphqlparser wrapper for Nim",
+    "license": "MIT",
+    "web": "https://github.com/genotrance/nimgraphql"
+  },
+  {
     "name": "fastcgi",
     "url": "https://github.com/ba0f3/fastcgi.nim",
     "method": "git",
