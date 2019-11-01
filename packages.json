@@ -15079,5 +15079,18 @@
     "description": "Arch Linux Pacman Optimizer",
     "license": "MIT",
     "web": "https://github.com/juancarlospaco/nim-chonker"
+  },
+  {
+    "name": "norm",
+    "url": "https://github.com/jonasrauber/norm",
+    "method": "git",
+    "tags": [
+      "images",
+      "research",
+      "diff"
+    ],
+    "description": "Computes the L2 norm between two image files",
+    "license": "MIT",
+    "web": "https://github.com/jonasrauber/norm"
   }
 ]
