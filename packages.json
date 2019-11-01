@@ -15055,5 +15055,18 @@
     "description": "FastCGI library for Nim",
     "license": "MIT",
     "web": "https://github.com/ba0f3/fastcgi.nim"
+  },
+  {
+    "name": "chonker",
+    "url": "https://github.com/juancarlospaco/nim-chonker",
+    "method": "git",
+    "tags": [
+      "arch",
+      "linux",
+      "pacman"
+    ],
+    "description": "Arch Linux Pacman Optimizer",
+    "license": "MIT",
+    "web": "https://github.com/juancarlospaco/nim-chonker"
   }
 ]
