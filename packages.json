@@ -15079,5 +15079,19 @@
     "description": "Arch Linux Pacman Optimizer",
     "license": "MIT",
     "web": "https://github.com/juancarlospaco/nim-chonker"
+  },
+  {
+    "name": "maze",
+    "url": "https://github.com/jiro4989/maze",
+    "method": "git",
+    "tags": [
+      "maze",
+      "cli",
+      "library",
+      "algorithm"
+    ],
+    "description": "A command and library to generate mazes",
+    "license": "MIT",
+    "web": "https://github.com/jiro4989/maze"
   }
 ]
