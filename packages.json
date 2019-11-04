@@ -15110,5 +15110,17 @@
     "description": "A command and library to generate mazes",
     "license": "MIT",
     "web": "https://github.com/jiro4989/maze"
+  },
+  {
+    "name": "monocypher",
+    "url": "https://github.com/markspanbroek/monocypher.nim",
+    "method": "git",
+    "tags": [
+      "monocypher",
+      "crypto"
+    ],
+    "description": "Monocypher",
+    "license": "MIT",
+    "web": "https://github.com/markspanbroek/monocypher.nim"
   }
 ]
