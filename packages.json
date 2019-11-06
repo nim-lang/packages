@@ -15137,5 +15137,18 @@
     "description": "A library to create interactive commandline menus without writing boilerplate code.",
     "license": "MIT",
     "web": "https://github.com/MnlPhlp/cli_menu"
+  },
+  {
+    "name": "sim",
+    "url": "https://github.com/ba0f3/sim.nim",
+    "method": "git",
+    "tags": [
+      "config",
+      "parser",
+      "parsing"
+    ],
+    "description": "Parse config by defining an object",
+    "license": "MIT",
+    "web": "https://github.com/ba0f3/sim.nim"
   }
 ]
