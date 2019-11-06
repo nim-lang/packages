@@ -15152,6 +15152,19 @@
     "description": "A wrapper for libu2f, a library for FIDO/U2F",
     "license": "LGPLv3",
     "web": "https://github.com/FedericoCeratto/nim-libu2f"
+  },
+  {
+    "name": "sim",
+    "url": "https://github.com/ba0f3/sim.nim",
+    "method": "git",
+    "tags": [
+      "config",
+      "parser",
+      "parsing"
+    ],
+    "description": "Parse config by defining an object",
+    "license": "MIT",
+    "web": "https://github.com/ba0f3/sim.nim"
   }
 
 ]
