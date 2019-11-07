@@ -15139,6 +15139,21 @@
     "web": "https://github.com/MnlPhlp/cli_menu"
   },
   {
+    "name": "libu2f",
+    "url": "",
+    "method": "git",
+    "tags": [
+      "u2f",
+      "library",
+      "security",
+      "authentication",
+      "fido"
+    ],
+    "description": "A wrapper for libu2f, a library for FIDO/U2F",
+    "license": "LGPLv3",
+    "web": "https://github.com/FedericoCeratto/nim-libu2f"
+  },
+  {
     "name": "sim",
     "url": "https://github.com/ba0f3/sim.nim",
     "method": "git",
@@ -15163,4 +15178,5 @@
     "license": "MIT",
     "web": "https://github.com/zedeus/redpool"
   }
+
 ]
