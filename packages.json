@@ -15150,5 +15150,17 @@
     "description": "Parse config by defining an object",
     "license": "MIT",
     "web": "https://github.com/ba0f3/sim.nim"
+  },
+  {
+    "name": "redpool",
+    "url": "https://github.com/zedeus/redpool",
+    "method": "git",
+    "tags": [
+      "redis",
+      "pool"
+    ],
+    "description": "Redis connection pool",
+    "license": "MIT",
+    "web": "https://github.com/zedeus/redpool"
   }
 ]
