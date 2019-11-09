@@ -15177,6 +15177,36 @@
     "description": "Redis connection pool",
     "license": "MIT",
     "web": "https://github.com/zedeus/redpool"
+  },
+  {
+    "name": "bson",
+    "url": "https://github.com/JohnAD/bson",
+    "method": "git",
+    "tags": [
+      "bson",
+      "serialize",
+      "parser",
+      "json"
+    ],
+    "description": "BSON Binary JSON Serialization",
+    "license": "MIT",
+    "web": "https://github.com/JohnAD/bson"
+  },
+  {
+    "name": "mongopool",
+    "url": "https://github.com/JohnAD/mongopool",
+    "method": "git",
+    "tags": [
+      "mongodb",
+      "mongo",
+      "database",
+      "driver",
+      "client",
+      "nosql"
+    ],
+    "description": "MongoDb pooled driver",
+    "license": "MIT",
+    "web": "https://github.com/JohnAD/mongopool"
   }
 
 ]
