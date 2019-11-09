@@ -15140,7 +15140,7 @@
   },
   {
     "name": "libu2f",
-    "url": "",
+    "url": "https://github.com/FedericoCeratto/nim-libu2f",
     "method": "git",
     "tags": [
       "u2f",
