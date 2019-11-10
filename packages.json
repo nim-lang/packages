@@ -15207,6 +15207,20 @@
     "description": "MongoDb pooled driver",
     "license": "MIT",
     "web": "https://github.com/JohnAD/mongopool"
+  },
+  {
+    "name": "euwren",
+    "url": "https://github.com/liquid600pgm/euwren",
+    "method": "git",
+    "tags": [
+      "wren",
+      "embedded",
+      "scripting",
+      "language",
+      "wrapper"
+    ],
+    "description": "High-level Wren wrapper",
+    "license": "MIT",
+    "web": "https://github.com/liquid600pgm/euwren"
   }
-
 ]
