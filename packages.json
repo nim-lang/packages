@@ -15207,6 +15207,17 @@
     "description": "MongoDb pooled driver",
     "license": "MIT",
     "web": "https://github.com/JohnAD/mongopool"
+  },
+  {
+    "name": "leveldb",
+    "url": "https://github.com/zielmicha/leveldb.nim",
+    "method": "git",
+    "tags": [
+      "leveldb",
+      "database"
+    ],
+    "description": "LevelDB bindings",
+    "license": "MIT",
+    "web": "https://github.com/zielmicha/leveldb.nim"
   }
-
 ]
