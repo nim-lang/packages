@@ -15222,5 +15222,17 @@
     "description": "High-level Wren wrapper",
     "license": "MIT",
     "web": "https://github.com/liquid600pgm/euwren"
+  },
+  {
+    "name": "leveldb",
+    "url": "https://github.com/zielmicha/leveldb.nim",
+    "method": "git",
+    "tags": [
+      "leveldb",
+      "database"
+    ],
+    "description": "LevelDB bindings",
+    "license": "MIT",
+    "web": "https://github.com/zielmicha/leveldb.nim"
   }
 ]
