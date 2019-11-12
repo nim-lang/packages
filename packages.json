@@ -15247,5 +15247,20 @@
     "description": "Python requirements.txt generic parser for Nim",
     "license": "MIT",
     "web": "https://github.com/juancarlospaco/nim-requirementstxt"
+  },
+  {
+    "name": "edens",
+    "url": "https://github.com/jiro4989/edens",
+    "method": "git",
+    "tags": [
+      "cli",
+      "command",
+      "encode",
+      "decode",
+      "joke"
+    ],
+    "description": "A command to encode / decode text with your dictionary",
+    "license": "MIT",
+    "web": "https://github.com/jiro4989/edens"
   }
 ]
