@@ -1273,6 +1273,19 @@
     "web": "https://github.com/PMunch/nim-optionsutils"
   },
   {
+    "name": "getmac",
+    "url": "https://github.com/PMunch/getmac",
+    "method": "git",
+    "tags": [
+      "network",
+      "mac",
+      "ip"
+    ],
+    "description": "A package to get the MAC address of a local IP address",
+    "license": "MIT",
+    "web": "https://github.com/PMunch/getmac"
+  },
+  {
     "name": "sdl2_nim",
     "url": "https://github.com/Vladar4/sdl2_nim",
     "method": "git",
