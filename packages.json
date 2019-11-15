@@ -15291,5 +15291,19 @@
     "description": "A nim wrapper for the Argon2 hashing library",
     "license": "MIT",
     "web": "https://github.com/Ahrotahn/argon2"
+  },
+  {
+    "name": "nap",
+    "url": "https://github.com/madprops/nap",
+    "method": "git",
+    "tags": [
+      "arguments",
+      "parser",
+      "opts",
+      "library"
+    ],
+    "description": "Argument parser",
+    "license": "MIT",
+    "web": "https://github.com/madprops/nap"
   }
 ]
