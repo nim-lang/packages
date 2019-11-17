@@ -15305,5 +15305,18 @@
     "description": "Argument parser",
     "license": "MIT",
     "web": "https://github.com/madprops/nap"
+  },
+  {
+    "name": "illwill_unsafe",
+    "url": "https://github.com/matthewjcavalier/illwill_unsafe",
+    "method": "git",
+    "tags": [
+      "illWill_fork",
+      "terminal",
+      "ncurses"
+    ],
+    "description": "A fork of John Novak (john@johnnovak.net)'s illwill package that is less safe numbers wise",
+    "license": "WTFPL",
+    "web": "https://github.com/matthewjcavalier/illwill_unsafe"
   }
 ]
