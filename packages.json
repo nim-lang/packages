@@ -15318,5 +15318,18 @@
     "description": "A fork of John Novak (john@johnnovak.net)'s illwill package that is less safe numbers wise",
     "license": "WTFPL",
     "web": "https://github.com/matthewjcavalier/illwill_unsafe"
+  },
+  {
+    "name": "sparkline",
+    "url": "https://github.com/aquilax/sparkline-nim",
+    "method": "git",
+    "tags": [
+      "library",
+      "sparkline",
+      "console"
+    ],
+    "description": "Sparkline library",
+    "license": "MIT",
+    "web": "https://github.com/aquilax/sparkline-nim"
   }
 ]
