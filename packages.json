@@ -3365,8 +3365,8 @@
     "web": "https://github.com/rnowley/nim-ncurses"
   },
   {
-    "name": "nanovg.nim",
-    "url": "https://github.com/fowlmouth/nanovg.nim",
+    "name": "nanovg",
+    "url": "https://github.com/johnnovak/nim-nanovg",
     "method": "git",
     "tags": [
       "wrapper",
@@ -3374,9 +3374,9 @@
       "vector graphics",
       "opengl"
     ],
-    "description": "A wrapper for NanoVG vector graphics rendering",
+    "description": "Nim wrapper for the C NanoVG antialiased vector graphics rendering library for OpenGL",
     "license": "MIT",
-    "web": "https://github.com/fowlmouth/nanovg.nim"
+    "web": "https://github.com/johnnovak/nim-nanovg"
   },
   {
     "name": "pwd",
