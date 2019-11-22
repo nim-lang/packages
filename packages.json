@@ -11372,6 +11372,22 @@
     "web": "https://github.com/nim-lang/graveyard/tree/master/xmldomparser"
   },
   {
+    "name": "list_comprehension",
+    "url": "https://github.com/nim-lang/graveyard?subdir=lc",
+    "method": "git",
+    "tags": [
+      "graveyard",
+      "lc",
+      "list",
+      "comprehension",
+      "list_comp",
+      "list_comprehension"
+    ],
+    "description": "List comprehension, for creating sequences.",
+    "license": "MIT",
+    "web": "https://github.com/nim-lang/graveyard/tree/master/lc"
+  },
+  {
     "name": "result",
     "url": "https://github.com/arnetheduck/nim-result",
     "method": "git",
