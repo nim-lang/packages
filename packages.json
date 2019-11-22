@@ -15346,5 +15346,17 @@
     "description": "Wrapper for Heng Li's kseq",
     "license": "MIT",
     "web": "https://github.com/andreas-wilm/nimreadfq"
+  },
+  {
+    "name": "googlesearch",
+    "url": "https://github.com/xyb/googlesearch.nim",
+    "method": "git",
+    "tags": [
+      "google",
+      "search"
+    ],
+    "description": "library for scraping google search results",
+    "license": "MIT",
+    "web": "https://github.com/xyb/googlesearch.nim"
   }
 ]
