@@ -6501,7 +6501,7 @@
   },
   {
     "name": "stb_image",
-    "url": "https://gitlab.com/define-private-public/stb_image-Nim",
+    "url": "https://gitlab.com/define-private-public/stb_image-Nim.git",
     "method": "git",
     "tags": [
       "stb",
