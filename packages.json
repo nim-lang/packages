@@ -15374,5 +15374,19 @@
     "description": "library for scraping google search results",
     "license": "MIT",
     "web": "https://github.com/xyb/googlesearch.nim"
+  },
+  {
+    "name": "rdgui",
+    "url": "https://github.com/liquid600pgm/rdgui",
+    "method": "git",
+    "tags": [
+      "modular",
+      "retained",
+      "gui",
+      "toolkit"
+    ],
+    "description": "A modular GUI toolkit for rapid",
+    "license": "MIT",
+    "web": "https://github.com/liquid600pgm/rdgui"
   }
 ]
