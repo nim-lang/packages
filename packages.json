@@ -15388,5 +15388,16 @@
     "description": "A modular GUI toolkit for rapid",
     "license": "MIT",
     "web": "https://github.com/liquid600pgm/rdgui"
+  },
+  {
+    "name": "asciitype",
+    "url": "https://github.com/chocobo333/asciitype",
+    "method": "git",
+    "tags": [
+      "library"
+    ],
+    "description": "This module performs character tests.",
+    "license": "MIT",
+    "web": "https://github.com/chocobo333/asciitype"
   }
 ]
