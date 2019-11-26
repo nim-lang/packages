@@ -15399,5 +15399,19 @@
     "description": "This module performs character tests.",
     "license": "MIT",
     "web": "https://github.com/chocobo333/asciitype"
+  },
+  {
+    "name": "gen",
+    "url": "https://github.com/Adeohluwa/gen",
+    "method": "git",
+    "tags": [
+      "library",
+      "jester",
+      "boilerplate",
+      "generator"
+    ],
+    "description": "Boilerplate generator for Jester web framework",
+    "license": "MIT",
+    "web": "https://github.com/Adeohluwa/gen"
   }
 ]
