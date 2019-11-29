@@ -15426,5 +15426,23 @@
     "description": "Show start/end datetime and duration of a command-line process using pipe.",
     "license": "MIT",
     "web": "https://github.com/williamd1k0/chrono"
+  },
+  {
+    "name": "simple_parseopt",
+    "url": "https://github.com/onelivesleft/simple_parseopt",
+    "method": "git",
+    "tags": [
+      "parseopt",
+      "command",
+      "line",
+      "simple",
+      "options",
+      "arguments",
+      "parameters",
+      "library"
+    ],
+    "description": "Nim module which provides clean, zero-effort command line parsing.",
+    "license": "MIT",
+    "web": "https://github.com/onelivesleft/simple_parseopt"
   }
 ]
