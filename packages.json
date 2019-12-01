@@ -15444,5 +15444,21 @@
     "description": "Nim module which provides clean, zero-effort command line parsing.",
     "license": "MIT",
     "web": "https://github.com/onelivesleft/simple_parseopt"
+  },
+  {
+    "name": "nimnoise",
+    "url": "https://github.com/blakeanedved/nimnoise",
+    "method": "git",
+    "tags": [
+      "nimnoise",
+      "noise",
+      "coherent",
+      "libnoise",
+      "library"
+    ],
+    "description": "A port of libnoise into pure nim, heavily inspired by Libnoise.Unity, but true to the original Libnoise",
+    "license": "MIT",
+    "web": "https://github.com/blakeanedved/nimnoise",
+    "doc": "https://lib-nimnoise.web.app/"
   }
 ]
