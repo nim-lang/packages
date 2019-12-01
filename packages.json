@@ -15461,5 +15461,21 @@
     "description": "github api",
     "license": "MIT",
     "web": "https://github.com/disruptek/github"
+  },
+  {
+    "name": "nimnoise",
+    "url": "https://github.com/blakeanedved/nimnoise",
+    "method": "git",
+    "tags": [
+      "nimnoise",
+      "noise",
+      "coherent",
+      "libnoise",
+      "library"
+    ],
+    "description": "A port of libnoise into pure nim, heavily inspired by Libnoise.Unity, but true to the original Libnoise",
+    "license": "MIT",
+    "web": "https://github.com/blakeanedved/nimnoise",
+    "doc": "https://lib-nimnoise.web.app/"
   }
 ]
