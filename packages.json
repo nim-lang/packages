@@ -15444,5 +15444,22 @@
     "description": "Nim module which provides clean, zero-effort command line parsing.",
     "license": "MIT",
     "web": "https://github.com/onelivesleft/simple_parseopt"
+  },
+  {
+    "name": "github",
+    "url": "https://github.com/disruptek/github",
+    "method": "git",
+    "tags": [
+      "github",
+      "api",
+      "rest",
+      "openapi",
+      "client",
+      "http",
+      "library"
+    ],
+    "description": "github api",
+    "license": "MIT",
+    "web": "https://github.com/disruptek/github"
   }
 ]
