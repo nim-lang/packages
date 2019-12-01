@@ -15446,6 +15446,23 @@
     "web": "https://github.com/onelivesleft/simple_parseopt"
   },
   {
+    "name": "github",
+    "url": "https://github.com/disruptek/github",
+    "method": "git",
+    "tags": [
+      "github",
+      "api",
+      "rest",
+      "openapi",
+      "client",
+      "http",
+      "library"
+    ],
+    "description": "github api",
+    "license": "MIT",
+    "web": "https://github.com/disruptek/github"
+  },
+  {
     "name": "nimnoise",
     "url": "https://github.com/blakeanedved/nimnoise",
     "method": "git",
