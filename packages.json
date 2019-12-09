@@ -15491,5 +15491,21 @@
     "description": "A module for generating lexer/parser.",
     "license": "MIT",
     "web": "https://github.com/chocobo333/mcmurry"
+  },
+  {
+    "name": "stones",
+    "url": "https://github.com/binhonglee/stones",
+    "method": "git",
+    "tags": [
+      "library",
+      "tools",
+      "string",
+      "hashset",
+      "table",
+      "log"
+    ],
+    "description": "A library of useful functions and tools for nim.",
+    "license": "MIT",
+    "web": "https://github.com/binhonglee/stones"
   }
 ]
