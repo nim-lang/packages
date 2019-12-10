@@ -15507,5 +15507,16 @@
     "description": "A library of useful functions and tools for nim.",
     "license": "MIT",
     "web": "https://github.com/binhonglee/stones"
+  },
+  {
+    "name": "kaitai_struct_nim_runtime",
+    "url": "https://github.com/kaitai-io/kaitai_struct_nim_runtime",
+    "method": "git",
+    "tags": [
+      "library"
+    ],
+    "description": "Kaitai Struct runtime library for Nim",
+    "license": "MIT",
+    "web": "https://github.com/kaitai-io/kaitai_struct_nim_runtime"
   }
 ]
