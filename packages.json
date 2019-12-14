@@ -15531,7 +15531,7 @@
     "license": "MIT",
     "web": "https://github.com/xflywind/docx"
   },
-    {
+  {
     "name": "word2vec",
     "url": "https://github.com/treeform/word2vec",
     "method": "git",
