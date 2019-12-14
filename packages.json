@@ -15518,5 +15518,17 @@
     "description": "Kaitai Struct runtime library for Nim",
     "license": "MIT",
     "web": "https://github.com/kaitai-io/kaitai_struct_nim_runtime"
+  },
+  {
+    "name": "docx",
+    "url": "https://github.com/xflywind/docx",
+    "method": "git",
+    "tags": [
+      "docx",
+      "reader"
+    ],
+    "description": "A simple docx reader.",
+    "license": "MIT",
+    "web": "https://github.com/xflywind/docx"
   }
 ]
