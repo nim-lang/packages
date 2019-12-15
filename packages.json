@@ -15609,5 +15609,23 @@
     "description": "A compile-time, compact, fast, without allocation, state-machine generator.",
     "license": "MIT or Apache License 2.0",
     "web": "https://github.com/mratsim/Synthesis"
+  },
+  {
+    "name": "weave",
+    "url": "https://github.com/mratsim/weave",
+    "method": "git",
+    "tags": [
+      "multithreading",
+      "parallelism",
+      "task-scheduler",
+      "scheduler",
+      "runtime",
+      "task-parallelism",
+      "data-parallelism",
+      "threadpool"
+    ],
+    "description": "a state-of-the-art ùultithreading runtime",
+    "license": "MIT or Apache License 2.0",
+    "web": "https://github.com/mratsim/weave"
   }
 ]
