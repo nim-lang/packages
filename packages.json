@@ -15592,5 +15592,22 @@
     "description": "Wrapper for DigitalOcean HTTP API.",
     "license": "MIT",
     "web": "https://github.com/treeform/digitalocean"
+  },
+  {
+    "name": "synthesis",
+    "url": "https://github.com/mratsim/Synthesis",
+    "method": "git",
+    "tags": [
+      "finite-state-machine",
+      "state-machine",
+      "fsm",
+      "event-driven",
+      "reactive-programming",
+      "embedded",
+      "actor"
+    ],
+    "description": "A compile-time, compact, fast, without allocation, state-machine generator.",
+    "license": "MIT or Apache License 2.0",
+    "web": "https://github.com/mratsim/Synthesis"
   }
 ]
