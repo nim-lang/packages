@@ -15532,6 +15532,68 @@
     "web": "https://github.com/xflywind/docx"
   },
   {
+    "name": "word2vec",
+    "url": "https://github.com/treeform/word2vec",
+    "method": "git",
+    "tags": [
+      "nlp",
+      "natural-language-processing"
+    ],
+    "description": "Word2vec implemented in nim.",
+    "license": "MIT",
+    "web": "https://github.com/treeform/word2vec"
+  },
+  {
+    "name": "steganography",
+    "url": "https://github.com/treeform/steganography",
+    "method": "git",
+    "tags": [
+      "images",
+      "cryptography"
+    ],
+    "description": "Steganography - hide data inside an image.",
+    "license": "MIT",
+    "web": "https://github.com/treeform/steganography"
+  },
+  {
+    "name": "mpeg",
+    "url": "https://github.com/treeform/mpeg",
+    "method": "git",
+    "tags": [
+      "video",
+      "formats",
+      "file"
+    ],
+    "description": "Nim wrapper for pl_mpeg single header mpeg library.",
+    "license": "MIT",
+    "web": "https://github.com/treeform/mpeg"
+  },
+  {
+    "name": "mddoc",
+    "url": "https://github.com/treeform/mddoc",
+    "method": "git",
+    "tags": [
+      "documentation",
+      "markdown"
+    ],
+    "description": "Generated Nim's API docs in markdown for github's README.md files. Great for small libraries with simple APIs.",
+    "license": "MIT",
+    "web": "https://github.com/treeform/mddoc"
+  },
+  {
+    "name": "digitalocean",
+    "url": "https://github.com/treeform/digitalocean",
+    "method": "git",
+    "tags": [
+      "digitalocean",
+      "servers",
+      "api"
+    ],
+    "description": "Wrapper for DigitalOcean HTTP API.",
+    "license": "MIT",
+    "web": "https://github.com/treeform/digitalocean"
+  },
+  {
     "name": "synthesis",
     "url": "https://github.com/mratsim/Synthesis",
     "method": "git",
