@@ -15627,5 +15627,19 @@
     "description": "a state-of-the-art ùultithreading runtime",
     "license": "MIT or Apache License 2.0",
     "web": "https://github.com/mratsim/weave"
+  },
+  {
+    "name": "anycase",
+    "url": "https://github.com/lamartire/anycase",
+    "method": "git",
+    "tags": [
+      "camelcase",
+      "kebabcase",
+      "snakecase",
+      "case"
+    ],
+    "description": "Convert strings to any case",
+    "license": "MIT",
+    "web": "https://github.com/lamartire/anycase"
   }
 ]
