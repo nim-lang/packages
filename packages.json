@@ -6317,6 +6317,10 @@
     "web": "https://github.com/status-im/nim-eth-bloom"
   },
   {
+    "name": "evmjit",
+    "alias": "evmc"
+  },
+  {
     "name": "evmc",
     "url": "https://github.com/status-im/nim-evmc",
     "method": "git",
