@@ -15675,5 +15675,17 @@
     "description": "This library is a wrapper to C GDBM library",
     "license": "MIT",
     "web": "https://github.com/vycb/gdbmc.nim"
+  },
+  {
+    "name": "diff",
+    "url": "https://github.com/mark-summerfield/packages",
+    "method": "hg",
+    "tags": [
+      "diff",
+      "sequencematcher"
+    ],
+    "description": "Library for finding the differences between two sequences",
+    "license": "Apache-2.0",
+    "web": "https://github.com/mark-summerfield/packages"
   }
 ]
