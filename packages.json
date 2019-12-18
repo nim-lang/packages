@@ -15649,16 +15649,28 @@
     "license": "MIT",
     "web": "https://github.com/lamartire/anycase"
   },
+	{
+		"name": "libbacktrace",
+		"url": "https://github.com/status-im/nim-libbacktrace",
+		"method": "git",
+		"tags": [
+			"library",
+			"wrapper"
+		],
+		"description": "Nim wrapper for libbacktrace",
+		"license": "Apache License 2.0 or MIT",
+		"web": "https://github.com/status-im/nim-libbacktrace"
+	},
   {
-    "name": "libbacktrace",
-    "url": "https://github.com/status-im/nim-libbacktrace",
+    "name": "gdbmc",
+    "url": "https://github.com/vycb/gdbmc.nim",
     "method": "git",
     "tags": [
       "library",
       "wrapper"
     ],
-    "description": "Nim wrapper for libbacktrace",
-    "license": "Apache License 2.0 or MIT",
-    "web": "https://github.com/status-im/nim-libbacktrace"
+    "description": "This library is a wrapper to C GDBM library",
+    "license": "MIT",
+    "web": "https://github.com/vycb/gdbmc.nim"
   }
 ]
