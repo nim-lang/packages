@@ -15678,7 +15678,7 @@
   },
   {
     "name": "diff",
-    "url": "https://github.com/mark-summerfield/packages",
+    "url": "https://github.com/mark-summerfield/diff",
     "method": "hg",
     "tags": [
       "diff",
@@ -15686,6 +15686,6 @@
     ],
     "description": "Library for finding the differences between two sequences",
     "license": "Apache-2.0",
-    "web": "https://github.com/mark-summerfield/packages"
+    "web": "https://github.com/mark-summerfield/diff"
   }
 ]
