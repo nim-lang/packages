@@ -15679,7 +15679,7 @@
   {
     "name": "diff",
     "url": "https://github.com/mark-summerfield/diff",
-    "method": "hg",
+    "method": "git",
     "tags": [
       "diff",
       "sequencematcher"
