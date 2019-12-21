@@ -15687,5 +15687,19 @@
     "description": "Library for finding the differences between two sequences",
     "license": "Apache-2.0",
     "web": "https://github.com/mark-summerfield/diff"
+  },
+  {
+    "name": "taps",
+    "url": "https://git.sr.ht/~ehmry/nim_taps",
+    "method": "git",
+    "tags": [
+      "networking",
+      "udp",
+      "tcp",
+      "sctp"
+    ],
+    "description": "Transport Services Interface",
+    "license": "BSD-3-Clause",
+    "web": "https://datatracker.ietf.org/wg/taps/about/"
   }
 ]
