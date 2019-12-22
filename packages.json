@@ -15687,5 +15687,19 @@
     "description": "Library for finding the differences between two sequences",
     "license": "Apache-2.0",
     "web": "https://github.com/mark-summerfield/diff"
+  },
+  {
+    "name": "woocommerce-api-nim",
+    "url": "https://github.com/mrhdias/woocommerce-api-nim",
+    "method": "git",
+    "tags": [
+      "e-commerce",
+      "woocommerce",
+      "rest-api",
+      "wrapper"
+    ],
+    "description": "A Nim wrapper for the WooCommerce REST API",
+    "license": "MIT",
+    "web": "https://github.com/mrhdias/woocommerce-api-nim"
   }
 ]
