@@ -15687,5 +15687,18 @@
     "description": "Library for finding the differences between two sequences",
     "license": "Apache-2.0",
     "web": "https://github.com/mark-summerfield/diff"
+  },
+  {
+    "name": "importc_helpers",
+    "url": "https://github.com/couven92/nim-importc-helpers.git",
+    "method": "git",
+    "tags": [
+      "import",
+      "c",
+      "helper"
+    ],
+    "description": "Helpers for supporting and simplifying import of symbols from C into Nim",
+    "license": "MIT",
+    "web": "https://github.com/couven92/nim-importc-helpers"
   }
 ]
