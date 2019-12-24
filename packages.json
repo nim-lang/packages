@@ -15413,5 +15413,18 @@
     "description": "Boilerplate generator for Jester web framework",
     "license": "MIT",
     "web": "https://github.com/Adeohluwa/gen"
+  },
+  {
+    "name": "validator",
+    "url": "https://github.com/Adeohluwa/validator",
+    "method": "git",
+    "tags": [
+      "strings",
+      "validation",
+      "types"
+    ],
+    "description": "Functions for string validation",
+    "license": "MIT",
+    "web": "https://github.com/Adeohluwa/validator"
   }
 ]
