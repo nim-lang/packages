@@ -15687,5 +15687,17 @@
     "description": "Library for finding the differences between two sequences",
     "license": "Apache-2.0",
     "web": "https://github.com/mark-summerfield/diff"
+  },
+  {
+    "name": "minhash",
+    "url": "https://github.com/bung87/minhash",
+    "method": "git",
+    "tags": [
+      "minhash",
+      "algoritim"
+    ],
+    "description": "Nim implementation of minhash algoritim",
+    "license": "MIT",
+    "web": "https://github.com/bung87/minhash"
   }
 ]
