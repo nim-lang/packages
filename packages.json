@@ -15687,5 +15687,18 @@
     "description": "Library for finding the differences between two sequences",
     "license": "Apache-2.0",
     "web": "https://github.com/mark-summerfield/diff"
+  },
+  {
+    "name": "fasttext",
+    "url": "https://github.com/bung87/fastText",
+    "method": "git",
+    "tags": [
+      "nlp,text",
+      "process,text",
+      "classification"
+    ],
+    "description": "fastText porting in Nim",
+    "license": "MIT",
+    "web": "https://github.com/bung87/fastText"
   }
 ]
