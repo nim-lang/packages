@@ -15687,5 +15687,17 @@
     "description": "Library for finding the differences between two sequences",
     "license": "Apache-2.0",
     "web": "https://github.com/mark-summerfield/diff"
+  },
+  {
+    "name": "simhash",
+    "url": "https://github.com/bung87/simhash-nim",
+    "method": "git",
+    "tags": [
+      "simhash",
+      "algoritim"
+    ],
+    "description": "Nim implementation of simhash algoritim",
+    "license": "MIT",
+    "web": "https://github.com/bung87/simhash-nim"
   }
 ]
