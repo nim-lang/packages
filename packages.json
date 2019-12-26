@@ -6318,7 +6318,11 @@
   },
   {
     "name": "evmjit",
-    "url": "https://github.com/status-im/nim-evmjit",
+    "alias": "evmc"
+  },
+  {
+    "name": "evmc",
+    "url": "https://github.com/status-im/nim-evmc",
     "method": "git",
     "tags": [
       "library",
@@ -6327,9 +6331,9 @@
       "jit",
       "wrapper"
     ],
-    "description": "A wrapper for the The Ethereum EVM JIT library",
+    "description": "A wrapper for the The Ethereum EVMC library",
     "license": "Apache License 2.0",
-    "web": "https://github.com/status-im/nim-evmjit"
+    "web": "https://github.com/status-im/nim-evmc"
   },
   {
     "name": "keccak_tiny",
@@ -15415,7 +15419,276 @@
     "web": "https://github.com/Adeohluwa/gen"
   },
   {
-    "name": "validator",
+    "name": "chronopipe",
+    "url": "https://github.com/williamd1k0/chrono",
+    "method": "git",
+    "tags": [
+      "cli",
+      "timer",
+      "pipe"
+    ],
+    "description": "Show start/end datetime and duration of a command-line process using pipe.",
+    "license": "MIT",
+    "web": "https://github.com/williamd1k0/chrono"
+  },
+  {
+    "name": "simple_parseopt",
+    "url": "https://github.com/onelivesleft/simple_parseopt",
+    "method": "git",
+    "tags": [
+      "parseopt",
+      "command",
+      "line",
+      "simple",
+      "option",
+      "argument",
+      "parameter",
+      "options",
+      "arguments",
+      "parameters",
+      "library"
+    ],
+    "description": "Nim module which provides clean, zero-effort command line parsing.",
+    "license": "MIT",
+    "web": "https://github.com/onelivesleft/simple_parseopt"
+  },
+  {
+    "name": "github",
+    "url": "https://github.com/disruptek/github",
+    "method": "git",
+    "tags": [
+      "github",
+      "api",
+      "rest",
+      "openapi",
+      "client",
+      "http",
+      "library"
+    ],
+    "description": "github api",
+    "license": "MIT",
+    "web": "https://github.com/disruptek/github"
+  },
+  {
+    "name": "nimnoise",
+    "url": "https://github.com/blakeanedved/nimnoise",
+    "method": "git",
+    "tags": [
+      "nimnoise",
+      "noise",
+      "coherent",
+      "libnoise",
+      "library"
+    ],
+    "description": "A port of libnoise into pure nim, heavily inspired by Libnoise.Unity, but true to the original Libnoise",
+    "license": "MIT",
+    "web": "https://github.com/blakeanedved/nimnoise",
+    "doc": "https://lib-nimnoise.web.app/"
+  },
+  {
+    "name": "mcmurry",
+    "url": "https://github.com/chocobo333/mcmurry",
+    "method": "git",
+    "tags": [
+      "parser",
+      "parsergenerator",
+      "library",
+      "lexer"
+    ],
+    "description": "A module for generating lexer/parser.",
+    "license": "MIT",
+    "web": "https://github.com/chocobo333/mcmurry"
+  },
+  {
+    "name": "stones",
+    "url": "https://github.com/binhonglee/stones",
+    "method": "git",
+    "tags": [
+      "library",
+      "tools",
+      "string",
+      "hashset",
+      "table",
+      "log"
+    ],
+    "description": "A library of useful functions and tools for nim.",
+    "license": "MIT",
+    "web": "https://github.com/binhonglee/stones"
+  },
+  {
+    "name": "kaitai_struct_nim_runtime",
+    "url": "https://github.com/kaitai-io/kaitai_struct_nim_runtime",
+    "method": "git",
+    "tags": [
+      "library"
+    ],
+    "description": "Kaitai Struct runtime library for Nim",
+    "license": "MIT",
+    "web": "https://github.com/kaitai-io/kaitai_struct_nim_runtime"
+  },
+  {
+    "name": "docx",
+    "url": "https://github.com/xflywind/docx",
+    "method": "git",
+    "tags": [
+      "docx",
+      "reader"
+    ],
+    "description": "A simple docx reader.",
+    "license": "MIT",
+    "web": "https://github.com/xflywind/docx"
+  },
+  {
+    "name": "word2vec",
+    "url": "https://github.com/treeform/word2vec",
+    "method": "git",
+    "tags": [
+      "nlp",
+      "natural-language-processing"
+    ],
+    "description": "Word2vec implemented in nim.",
+    "license": "MIT",
+    "web": "https://github.com/treeform/word2vec"
+  },
+  {
+    "name": "steganography",
+    "url": "https://github.com/treeform/steganography",
+    "method": "git",
+    "tags": [
+      "images",
+      "cryptography"
+    ],
+    "description": "Steganography - hide data inside an image.",
+    "license": "MIT",
+    "web": "https://github.com/treeform/steganography"
+  },
+  {
+    "name": "mpeg",
+    "url": "https://github.com/treeform/mpeg",
+    "method": "git",
+    "tags": [
+      "video",
+      "formats",
+      "file"
+    ],
+    "description": "Nim wrapper for pl_mpeg single header mpeg library.",
+    "license": "MIT",
+    "web": "https://github.com/treeform/mpeg"
+  },
+  {
+    "name": "mddoc",
+    "url": "https://github.com/treeform/mddoc",
+    "method": "git",
+    "tags": [
+      "documentation",
+      "markdown"
+    ],
+    "description": "Generated Nim's API docs in markdown for github's README.md files. Great for small libraries with simple APIs.",
+    "license": "MIT",
+    "web": "https://github.com/treeform/mddoc"
+  },
+  {
+    "name": "digitalocean",
+    "url": "https://github.com/treeform/digitalocean",
+    "method": "git",
+    "tags": [
+      "digitalocean",
+      "servers",
+      "api"
+    ],
+    "description": "Wrapper for DigitalOcean HTTP API.",
+    "license": "MIT",
+    "web": "https://github.com/treeform/digitalocean"
+  },
+  {
+    "name": "synthesis",
+    "url": "https://github.com/mratsim/Synthesis",
+    "method": "git",
+    "tags": [
+      "finite-state-machine",
+      "state-machine",
+      "fsm",
+      "event-driven",
+      "reactive-programming",
+      "embedded",
+      "actor"
+    ],
+    "description": "A compile-time, compact, fast, without allocation, state-machine generator.",
+    "license": "MIT or Apache License 2.0",
+    "web": "https://github.com/mratsim/Synthesis"
+  },
+  {
+    "name": "weave",
+    "url": "https://github.com/mratsim/weave",
+    "method": "git",
+    "tags": [
+      "multithreading",
+      "parallelism",
+      "task-scheduler",
+      "scheduler",
+      "runtime",
+      "task-parallelism",
+      "data-parallelism",
+      "threadpool"
+    ],
+    "description": "a state-of-the-art ùultithreading runtime",
+    "license": "MIT or Apache License 2.0",
+    "web": "https://github.com/mratsim/weave"
+  },
+  {
+    "name": "anycase",
+    "url": "https://github.com/lamartire/anycase",
+    "method": "git",
+    "tags": [
+      "camelcase",
+      "kebabcase",
+      "snakecase",
+      "case"
+    ],
+    "description": "Convert strings to any case",
+    "license": "MIT",
+    "web": "https://github.com/lamartire/anycase"
+  },
+  {
+    "name": "libbacktrace",
+    "url": "https://github.com/status-im/nim-libbacktrace",
+    "method": "git",
+    "tags": [
+      "library",
+      "wrapper"
+    ],
+    "description": "Nim wrapper for libbacktrace",
+    "license": "Apache License 2.0 or MIT",
+    "web": "https://github.com/status-im/nim-libbacktrace"
+  },
+  {
+    "name": "gdbmc",
+    "url": "https://github.com/vycb/gdbmc.nim",
+    "method": "git",
+    "tags": [
+      "gdbm",
+      "key-value",
+      "nosql",
+      "library",
+      "wrapper"
+    ],
+    "description": "This library is a wrapper to C GDBM library",
+    "license": "MIT",
+    "web": "https://github.com/vycb/gdbmc.nim"
+  },
+  {
+    "name": "diff",
+    "url": "https://github.com/mark-summerfield/diff",
+    "method": "git",
+    "tags": [
+      "diff",
+      "sequencematcher"
+    ],
+    "description": "Library for finding the differences between two sequences",
+    "license": "Apache-2.0",
+    "web": "https://github.com/mark-summerfield/diff"
+  },
+  { "name": "validator",
     "url": "https://github.com/Adeohluwa/validator",
     "method": "git",
     "tags": [
@@ -15426,5 +15699,5 @@
     "description": "Functions for string validation",
     "license": "MIT",
     "web": "https://github.com/Adeohluwa/validator"
-  }
+ }
 ]
