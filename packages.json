@@ -15689,6 +15689,19 @@
     "web": "https://github.com/mark-summerfield/diff"
   },
   {
+    "name": "diffoutput",
+    "url": "https://github.com/JohnAD/diffoutput",
+    "method": "git",
+    "tags": [
+      "diff",
+      "stringification",
+      "reversal"
+    ],
+    "description": "Collection of Diff stringifications (and reversals)",
+    "license": "MIT",
+    "web": "https://github.com/JohnAD/diffoutput"
+  },
+  {
     "name": "importc_helpers",
     "url": "https://github.com/couven92/nim-importc-helpers.git",
     "method": "git",
