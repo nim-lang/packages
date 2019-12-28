@@ -15794,5 +15794,18 @@
     "description": "Directory listing tool",
     "license": "GPL-2.0",
     "web": "https://github.com/madprops/lq"
+  },
+  {
+    "name": "xlsx",
+    "url": "https://github.com/xflywind/xlsx",
+    "method": "git",
+    "tags": [
+      "xlsx",
+      "excel",
+      "reader"
+    ],
+    "description": "Read and parse Excel files",
+    "license": "MIT",
+    "web": "https://github.com/xflywind/xlsx"
   }
 ]
