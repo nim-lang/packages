@@ -15693,7 +15693,10 @@
     "url": "https://git.sr.ht/~skrylar/skrfc3339",
     "method": "git",
     "tags": [
-      "rfc3339,date,datetime,time"
+      "rfc3339",
+      "date",
+      "datetime",
+      "time"
     ],
     "description": "RFC3339 (dates and times) implementation for Nim.",
     "license": "BSD",
