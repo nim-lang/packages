@@ -15701,5 +15701,125 @@
     "description": "RFC3339 (dates and times) implementation for Nim.",
     "license": "BSD",
     "web": "https://git.sr.ht/~skrylar/skrfc3339"
+  },
+  {
+    "name": "importc_helpers",
+    "url": "https://github.com/couven92/nim-importc-helpers.git",
+    "method": "git",
+    "tags": [
+      "import",
+      "c",
+      "helper"
+    ],
+    "description": "Helpers for supporting and simplifying import of symbols from C into Nim",
+    "license": "MIT",
+    "web": "https://github.com/couven92/nim-importc-helpers"
+  },
+  {
+    "name": "taps",
+    "url": "https://git.sr.ht/~ehmry/nim_taps",
+    "method": "git",
+    "tags": [
+      "networking",
+      "udp",
+      "tcp",
+      "sctp"
+    ],
+    "description": "Transport Services Interface",
+    "license": "BSD-3-Clause",
+    "web": "https://datatracker.ietf.org/wg/taps/about/"
+  },
+  {
+    "name": "validator",
+    "url": "https://github.com/Adeohluwa/validator",
+    "method": "git",
+    "tags": [
+      "strings",
+      "validation",
+      "types"
+    ],
+    "description": "Functions for string validation",
+    "license": "MIT",
+    "web": "https://github.com/Adeohluwa/validator"
+  },
+  {
+    "name": "simhash",
+    "url": "https://github.com/bung87/simhash-nim",
+    "method": "git",
+    "tags": [
+      "simhash",
+      "algoritim"
+    ],
+    "description": "Nim implementation of simhash algoritim",
+    "license": "MIT",
+    "web": "https://github.com/bung87/simhash-nim"
+  },
+  {
+    "name": "minhash",
+    "url": "https://github.com/bung87/minhash",
+    "method": "git",
+    "tags": [
+      "minhash",
+      "algoritim"
+    ],
+    "description": "Nim implementation of minhash algoritim",
+    "license": "MIT",
+    "web": "https://github.com/bung87/minhash"
+  },
+  {
+    "name": "fasttext",
+    "url": "https://github.com/bung87/fastText",
+    "method": "git",
+    "tags": [
+      "nlp,text",
+      "process,text",
+      "classification"
+    ],
+    "description": "fastText porting in Nim",
+    "license": "MIT",
+    "web": "https://github.com/bung87/fastText"
+  },
+  {
+    "name": "woocommerce-api-nim",
+    "url": "https://github.com/mrhdias/woocommerce-api-nim",
+    "method": "git",
+    "tags": [
+      "e-commerce",
+      "woocommerce",
+      "rest-api",
+      "wrapper"
+    ],
+    "description": "A Nim wrapper for the WooCommerce REST API",
+    "license": "MIT",
+    "web": "https://github.com/mrhdias/woocommerce-api-nim"
+  },
+  {
+    "name": "lq",
+    "url": "https://github.com/madprops/lq",
+    "method": "git",
+    "tags": [
+      "directory",
+      "file",
+      "listing",
+      "ls",
+      "tree",
+      "stats"
+    ],
+    "description": "Directory listing tool",
+    "license": "GPL-2.0",
+    "web": "https://github.com/madprops/lq"
+  },
+  {
+    "name": "xlsx",
+    "url": "https://github.com/xflywind/xlsx",
+    "method": "git",
+    "tags": [
+      "xlsx",
+      "excel",
+      "reader"
+    ],
+    "description": "Read and parse Excel files",
+    "license": "MIT",
+    "web": "https://github.com/xflywind/xlsx"
   }
 ]
