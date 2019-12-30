@@ -15832,7 +15832,7 @@
       "generator",
       "fakedata"
     ],
-    "description": "A new awesome nimble package",
+    "description": "faker is a Nim package that generates fake data for you.",
     "license": "MIT",
     "web": "https://github.com/jiro4989/faker"
   }
