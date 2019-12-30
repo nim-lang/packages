@@ -15820,5 +15820,20 @@
     "description": "Read and parse Excel files",
     "license": "MIT",
     "web": "https://github.com/xflywind/xlsx"
+  },
+  {
+    "name": "faker",
+    "url": "https://github.com/jiro4989/faker",
+    "method": "git",
+    "tags": [
+      "faker",
+      "library",
+      "cli",
+      "generator",
+      "fakedata"
+    ],
+    "description": "A new awesome nimble package",
+    "license": "MIT",
+    "web": "https://github.com/jiro4989/faker"
   }
 ]
