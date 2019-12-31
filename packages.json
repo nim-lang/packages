@@ -15835,5 +15835,21 @@
     "description": "faker is a Nim package that generates fake data for you.",
     "license": "MIT",
     "web": "https://github.com/jiro4989/faker"
+  },
+  {
+    "name": "gyaric",
+    "url": "https://github.com/jiro4989/gyaric",
+    "method": "git",
+    "tags": [
+      "joke",
+      "library",
+      "cli",
+      "gyaru",
+      "encoder",
+      "text"
+    ],
+    "description": "gyaric is a module to encode/decode text to unreadable gyaru's text.",
+    "license": "MIT",
+    "web": "https://github.com/jiro4989/gyaric"
   }
 ]
