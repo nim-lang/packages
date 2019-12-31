@@ -15851,5 +15851,17 @@
     "description": "gyaric is a module to encode/decode text to unreadable gyaru's text.",
     "license": "MIT",
     "web": "https://github.com/jiro4989/gyaric"
-  }
+  },
+  {
+    "name": "patgraph",
+    "url": "https://github.com/b3liever/patgraph",
+    "method": "git",
+    "tags": [
+      "datastructures",
+      "library"
+    ],
+    "description": "Graph data structure library",
+    "license": "MIT",
+    "web": "https://github.com/b3liever/patgraph"
+  },
 ]
