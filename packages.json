@@ -15871,8 +15871,7 @@
     "tags": [
       "japanese",
       "library",
-      "testing",
-      ""
+      "testing"
     ],
     "description": "random Japanese name and address generator",
     "license": "MIT",
