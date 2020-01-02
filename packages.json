@@ -15863,5 +15863,18 @@
     "description": "Graph data structure library",
     "license": "MIT",
     "web": "https://github.com/b3liever/patgraph"
+  },
+  {
+    "name": "gimei",
+    "url": "https://github.com/mkanenobu/nim-gimei",
+    "method": "git",
+    "tags": [
+      "japanese",
+      "library",
+      "testing"
+    ],
+    "description": "random Japanese name and address generator",
+    "license": "MIT",
+    "web": "https://github.com/mkanenobu/nim-gimei"
   }
 ]
