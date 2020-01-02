@@ -15915,5 +15915,16 @@
     "description": "envconfig provides a function to get config objects from environment variables.",
     "license": "MIT",
     "web": "https://github.com/jiro4989/envconfig"
+  },
+  {
+    "name": "cache",
+    "url": "https://github.com/planety/cached",
+    "method": "git",
+    "tags": [
+      "cache"
+    ],
+    "description": "A cache library.",
+    "license": "MIT",
+    "web": "https://github.com/planety/cached"
   }
 ]
