@@ -15902,5 +15902,16 @@
     "description": "random Japanese name and address generator",
     "license": "MIT",
     "web": "https://github.com/mkanenobu/nim-gimei"
+  },
+  {
+    "name": "cache",
+    "url": "https://github.com/planety/cached",
+    "method": "git",
+    "tags": [
+      "cache"
+    ],
+    "description": "A cache library.",
+    "license": "MIT",
+    "web": "https://github.com/planety/cached"
   }
 ]
