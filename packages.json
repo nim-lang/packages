@@ -15865,6 +15865,32 @@
     "web": "https://github.com/b3liever/patgraph"
   },
   {
+    "name": "skbintext",
+    "url": "https://github.com/skrylar/skbintext",
+    "method": "git",
+    "tags": [
+      "hexdigest",
+      "hexadecimal",
+      "binary"
+    ],
+    "description": "Binary <-> text conversion.",
+    "license": "MPL",
+    "web": "https://github.com/Skrylar/skbintext"
+  },
+  {
+    "name": "skyhash",
+    "url": "https://github.com/Skrylar/skyhash",
+    "method": "git",
+    "tags": [
+      "blake2b",
+      "blake2s",
+      "spookyhash"
+    ],
+    "description": "Collection of hash algorithms ported to Nim",
+    "license": "CC0",
+    "web": "https://github.com/Skrylar/skyhash"
+  },
+  {
     "name": "gimei",
     "url": "https://github.com/mkanenobu/nim-gimei",
     "method": "git",
