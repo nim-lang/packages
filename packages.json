@@ -15902,5 +15902,18 @@
     "description": "random Japanese name and address generator",
     "license": "MIT",
     "web": "https://github.com/mkanenobu/nim-gimei"
+  },
+  {
+    "name": "envconfig",
+    "url": "https://github.com/jiro4989/envconfig",
+    "method": "git",
+    "tags": [
+      "library",
+      "config",
+      "environment-variables"
+    ],
+    "description": "envconfig provides a function to get config objects from environment variables.",
+    "license": "MIT",
+    "web": "https://github.com/jiro4989/envconfig"
   }
 ]
