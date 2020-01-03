@@ -15926,5 +15926,24 @@
     "description": "A cache library.",
     "license": "MIT",
     "web": "https://github.com/planety/cached"
+  },
+  {
+    "name": "basedOn",
+    "url": "https://github.com/KaceCottam/basedOn",
+    "method": "git",
+    "tags": [
+      "nim",
+      "object-oriented",
+      "tuple",
+      "object",
+      "functional",
+      "syntax",
+      "macro",
+      "nimble",
+      "package"
+    ],
+    "description": "A library for cleanly creating an object or tuple based on another object or tuple",
+    "license": "MIT",
+    "web": "https://github.com/KaceCottam/basedOn"
   }
 ]
