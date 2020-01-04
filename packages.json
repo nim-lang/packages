@@ -15945,5 +15945,17 @@
     "description": "A library for cleanly creating an object or tuple based on another object or tuple",
     "license": "MIT",
     "web": "https://github.com/KaceCottam/basedOn"
+  },
+  {
+    "name": "onedrive",
+    "url": "https://github.com/ThomasTJdev/nim_onedrive",
+    "method": "git",
+    "tags": [
+      "onedrive",
+      "cloud"
+    ],
+    "description": "Get information on files and folders in OneDrive",
+    "license": "MIT",
+    "web": "https://github.com/ThomasTJdev/nim_onedrive"
   }
 ]
