@@ -15957,5 +15957,18 @@
     "description": "Get information on files and folders in OneDrive",
     "license": "MIT",
     "web": "https://github.com/ThomasTJdev/nim_onedrive"
+  },
+  {
+    "name": "webdavclient",
+    "url": "https://github.com/beshrkayali/webdavclient",
+    "method": "git",
+    "tags": [
+      "webdav",
+      "library",
+      "async"
+    ],
+    "description": "WebDAV Client for Nim",
+    "license": "MIT",
+    "web": "https://github.com/beshrkayali/webdavclient"
   }
 ]
