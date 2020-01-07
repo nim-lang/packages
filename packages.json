@@ -13173,14 +13173,16 @@
     "url": "https://github.com/loloiccl/nimly",
     "method": "git",
     "tags": [
-      "BNF",
-      "EBNF",
       "lexer",
       "parser",
       "lexer-generator",
-      "parser-generator"
+      "parser-generator",
+      "lex",
+      "yacc",
+      "BNF",
+      "EBNF"
     ],
-    "description": "A lexer generator and parser generator package work in Nim.",
+    "description": "Lexer Generator and Parser Generator as a library in Nim.",
     "license": "GPL-3.0",
     "web": "https://github.com/loloiccl/nimly"
   },
