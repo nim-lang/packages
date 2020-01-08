@@ -15972,5 +15972,18 @@
     "description": "WebDAV Client for Nim",
     "license": "MIT",
     "web": "https://github.com/beshrkayali/webdavclient"
+  },
+  {
+    "name": "bcra",
+    "url": "https://github.com/juancarlospaco/nim-bcra",
+    "method": "git",
+    "tags": [
+      "argentina",
+      "bank",
+      "api"
+    ],
+    "description": "Central Bank of Argentina Gov API Client with debtor corporations info",
+    "license": "MIT",
+    "web": "https://github.com/juancarlospaco/nim-bcra"
   }
 ]
