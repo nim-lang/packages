@@ -15985,5 +15985,19 @@
     "description": "Central Bank of Argentina Gov API Client with debtor corporations info",
     "license": "MIT",
     "web": "https://github.com/juancarlospaco/nim-bcra"
+  },
+  {
+    "name": "socks",
+    "url": "https://github.com/FedericoCeratto/nim-socks5",
+    "method": "git",
+    "tags": [
+      "socks",
+      "library"
+      "networking",
+      "socks5"
+    ],
+    "description": "Socks5 client and server library",
+    "license": "MPLv2",
+    "web": "https://github.com/FedericoCeratto/nim-socks5"
   }
 ]
