@@ -15985,5 +15985,19 @@
     "description": "Central Bank of Argentina Gov API Client with debtor corporations info",
     "license": "MIT",
     "web": "https://github.com/juancarlospaco/nim-bcra"
+  },
+  {
+    "name": "metar",
+    "url": "https://github.com/flenniken/metar",
+    "method": "git",
+    "tags": [
+      "metadate",
+      "image",
+      "python",
+      "library"
+    ],
+    "description": "Metadata Reader for Images",
+    "license": "MIT",
+    "web": "https://github.com/flenniken/metar"
   }
 ]
