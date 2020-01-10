@@ -15999,5 +15999,17 @@
     "description": "Metadata Reader for Images",
     "license": "MIT",
     "web": "https://github.com/flenniken/metar"
+  },
+  {
+    "name": "saya",
+    "url": "https://github.com/Ethosa/saya_nim",
+    "method": "git",
+    "tags": [
+      "VK",
+      "framework"
+    ],
+    "description": "Nim framework for VK",
+    "license": "LGPLv3",
+    "web": "https://github.com/Ethosa/saya_nim"
   }
 ]
