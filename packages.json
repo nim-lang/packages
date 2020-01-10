@@ -16024,5 +16024,17 @@
     "description": "Nim framework for VK",
     "license": "LGPLv3",
     "web": "https://github.com/Ethosa/saya_nim"
+  },
+  {
+    "name": "saya",
+    "url": "https://github.com/Ethosa/saya_nim",
+    "method": "git",
+    "tags": [
+      "VK",
+      "frameork"
+    ],
+    "description": "Nim framework for VK",
+    "license": "LGPLv3",
+    "web": "https://github.com/Ethosa/saya_nim"
   }
 ]
