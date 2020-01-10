@@ -8,7 +8,18 @@
       "translator"
     ],
     "description": "regex translator",
-    "license": "LGPLv3",
-    "web": "https://github.com/linksplatform/RegularExpressions.Transformer"
+    "license": "LGPLv3"
+  },{
+    "name": "saya",
+    "url": "https://github.com/Ethosa/saya",
+    "method": "git",
+    "tags": [
+      "VK",
+      "saya",
+      "ethosa",
+      "framework"
+    ],
+    "description": "VK for Nim",
+    "license": "LGPLv3"
   }
 ]
