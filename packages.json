@@ -16024,5 +16024,18 @@
     "description": "Nim framework for VK",
     "license": "LGPLv3",
     "web": "https://github.com/Ethosa/saya_nim"
+  },
+  {
+    "name": "phoon",
+    "url": "https://github.com/ducdetronquito/phoon",
+    "method": "git",
+    "tags": [
+      "web",
+      "framework",
+      "http"
+    ],
+    "description": "A web framework inspired by ExpressJS 🐇⚡",
+    "license": "Public Domain",
+    "web": "https://github.com/ducdetronquito/phoon"
   }
 ]
