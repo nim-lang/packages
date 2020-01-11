@@ -16037,5 +16037,21 @@
     "description": "A web framework inspired by ExpressJS 🐇⚡",
     "license": "Public Domain",
     "web": "https://github.com/ducdetronquito/phoon"
+  },
+  {
+    "name": "choosenim",
+    "url": "https://github.com/genotrance/choosenim",
+    "method": "git",
+    "tags": [
+      "install",
+      "multiple",
+      "multiplexer",
+      "pyenv",
+      "rustup",
+      "toolchain"
+    ],
+    "description": "The Nim toolchain installer.",
+    "license": "MIT",
+    "web": "https://github.com/genotrance/choosenim"
   }
 ]
