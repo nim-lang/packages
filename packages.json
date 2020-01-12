@@ -16037,5 +16037,16 @@
     "description": "A web framework inspired by ExpressJS 🐇⚡",
     "license": "Public Domain",
     "web": "https://github.com/ducdetronquito/phoon"
+  },
+  {
+    "name": "nimlist",
+    "url": "https://github.com/flenniken/nimlist",
+    "method": "git",
+    "tags": [
+      "exe"
+    ],
+    "description": "Browse nim packages in your browser.",
+    "license": "MIT",
+    "web": "https://github.com/flenniken/nimlist"
   }
 ]
