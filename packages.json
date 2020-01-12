@@ -16053,5 +16053,16 @@
     "description": "The Nim toolchain installer.",
     "license": "MIT",
     "web": "https://github.com/dom96/choosenim"
+  },
+  {
+    "name": "nimlist",
+    "url": "https://github.com/flenniken/nimlist",
+    "method": "git",
+    "tags": [
+      "exe"
+    ],
+    "description": "Browse nim packages in your browser.",
+    "license": "MIT",
+    "web": "https://github.com/flenniken/nimlist"
   }
 ]
