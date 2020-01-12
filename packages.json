@@ -16040,7 +16040,7 @@
   },
   {
     "name": "choosenim",
-    "url": "https://github.com/genotrance/choosenim",
+    "url": "https://github.com/dom96/choosenim",
     "method": "git",
     "tags": [
       "install",
@@ -16052,6 +16052,6 @@
     ],
     "description": "The Nim toolchain installer.",
     "license": "MIT",
-    "web": "https://github.com/genotrance/choosenim"
+    "web": "https://github.com/dom96/choosenim"
   }
 ]
