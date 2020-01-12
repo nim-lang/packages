@@ -16064,5 +16064,18 @@
     "description": "Browse nim packages in your browser.",
     "license": "MIT",
     "web": "https://github.com/flenniken/nimlist"
+  },
+  {
+    "name": "grim",
+    "url": "https://github.com/ebran/grim",
+    "method": "git",
+    "tags": [
+      "graph",
+      "data",
+      "library"
+    ],
+    "description": "Graphs in nim!",
+    "license": "MIT",
+    "web": "https://github.com/ebran/grim"
   }
 ]
