@@ -1,4 +1,18 @@
 [
+    {
+    "name": "decisiontree",
+    "url": "https://github.com/Michedev/DecisionTreeNim",
+    "method": "git",
+    "tags": [
+      "Decision tree",
+      "Machine learning",
+      "Random forest",
+      "CART"
+    ],
+    "description": "Decision tree and Random forest CART implementation in Nim",
+    "license": "GPL-3.0",
+    "web": "https://github.com/Michedev/DecisionTreeNim"
+  },
   {
     "name": "tsv2json",
     "url": "https://github.com/hectormonacci/tsv2json",
