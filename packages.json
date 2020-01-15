@@ -1,5 +1,5 @@
 [
-    {
+  {
     "name": "decisiontree",
     "url": "https://github.com/Michedev/DecisionTreeNim",
     "method": "git",
@@ -16091,5 +16091,18 @@
     "description": "Graphs in nim!",
     "license": "MIT",
     "web": "https://github.com/ebran/grim"
+  },
+  {
+    "name": "retranslator",
+    "url": "https://github.com/linksplatform/RegularExpressions.Transformer",
+    "method": "git",
+    "tags": [
+      "regular",
+      "expressions",
+      "transformer"
+    ],
+    "description": "Transformer",
+    "license": "LGPLv3",
+    "web": "https://github.com/linksplatform/RegularExpressions.Transformer"
   }
 ]
