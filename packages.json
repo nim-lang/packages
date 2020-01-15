@@ -16104,5 +16104,17 @@
     "description": "Transformer",
     "license": "LGPLv3",
     "web": "https://github.com/linksplatform/RegularExpressions.Transformer"
+  },
+  {
+    "name": "barcode",
+    "url": "https://github.com/bunkford/barcode",
+    "method": "git",
+    "tags": [
+      "barcode"
+    ],
+    "description": "Nim barcode library",
+    "license": "MIT",
+    "web": "https://github.com/bunkford/barcode",
+    "doc": "https://bunkford.github.io/barcode/barcode.html"
   }
 ]
