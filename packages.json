@@ -16142,5 +16142,18 @@
     "description": "Static GLFW for nim",
     "license": "MIT",
     "web": "https://github.com/treeform/staticglfw"
+  },
+  {
+    "name": "pg_util",
+    "url": "https://github.com/hiteshjasani/nim-pg-util.git",
+    "method": "git",
+    "tags": [
+      "postgresql",
+      "postgres",
+      "pg"
+    ],
+    "description": "Postgres utility functions",
+    "license": "MIT",
+    "web": "https://github.com/hiteshjasani/nim-pg-util"
   }
 ]
