@@ -16116,5 +16116,31 @@
     "license": "MIT",
     "web": "https://github.com/bunkford/barcode",
     "doc": "https://bunkford.github.io/barcode/barcode.html"
+  },
+  {
+    "name": "quickjwt",
+    "url": "https://github.com/treeform/quickjwt.git",
+    "method": "git",
+    "tags": [
+      "crypto",
+      "hash"
+    ],
+    "description": "JSON Web Tokens for Nim",
+    "license": "MIT",
+    "web": "https://github.com/treeform/quickjwt"
+  },
+  {
+    "name": "staticglfw",
+    "url": "https://github.com/treeform/staticglfw.git",
+    "method": "git",
+    "tags": [
+      "glfw",
+      "opengl",
+      "windowing",
+      "game"
+    ],
+    "description": "Static GLFW for nim",
+    "license": "MIT",
+    "web": "https://github.com/treeform/staticglfw"
   }
 ]
