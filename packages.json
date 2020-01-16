@@ -16142,5 +16142,19 @@
     "description": "Static GLFW for nim",
     "license": "MIT",
     "web": "https://github.com/treeform/staticglfw"
+  },
+  {
+    "name": "rdkit",
+    "url": "https://github.com/apahl/rdkit_nim.git",
+    "method": "git",
+    "tags": [
+      "chemistry",
+      "cheminformatics",
+      "rdkit",
+      "binding
+    ],
+    "description": "Nim bindings for the C++ cheminformatics toolkit RDKit.",
+    "license": "MIT",
+    "web": ""
   }
 ]
