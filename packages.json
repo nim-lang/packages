@@ -16153,7 +16153,7 @@
     ],
     "description": "Google API for nim",
     "license": "MIT",
-    "web": "https://github.com/treeform/googlepai"
+    "web": "https://github.com/treeform/googleapi"
   },
   {
     "name": "fidget",
