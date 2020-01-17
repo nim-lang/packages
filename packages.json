@@ -16144,6 +16144,19 @@
     "web": "https://github.com/treeform/staticglfw"
   },
   {
+    "name": "pg_util",
+    "url": "https://github.com/hiteshjasani/nim-pg-util.git",
+    "method": "git",
+    "tags": [
+      "postgresql",
+      "postgres",
+      "pg"
+    ],
+    "description": "Postgres utility functions",
+    "license": "MIT",
+    "web": "https://github.com/hiteshjasani/nim-pg-util"
+  },
+  {
     "name": "googleapi",
     "url": "https://github.com/treeform/googleapi",
     "method": "git",
