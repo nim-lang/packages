@@ -16170,5 +16170,5 @@
     "description": "Figma based UI library for nim, with HTML and OpenGL backends.",
     "license": "MIT",
     "web": "https://github.com/treeform/fidget"
-  },
+  }
 ]
