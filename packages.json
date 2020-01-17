@@ -10691,7 +10691,7 @@
   },
   {
     "name": "print",
-    "url": "https://github.com/treeform/print.git",
+    "url": "https://github.com/treeform/print",
     "method": "git",
     "tags": [
       "pretty"
@@ -10702,7 +10702,7 @@
   },
   {
     "name": "vmath",
-    "url": "https://github.com/treeform/vmath.git",
+    "url": "https://github.com/treeform/vmath",
     "method": "git",
     "tags": [
       "math",
@@ -10716,7 +10716,7 @@
   },
   {
     "name": "flippy",
-    "url": "https://github.com/treeform/flippy.git",
+    "url": "https://github.com/treeform/flippy",
     "method": "git",
     "tags": [
       "image",
@@ -10729,7 +10729,7 @@
   },
   {
     "name": "typography",
-    "url": "https://github.com/treeform/typography.git",
+    "url": "https://github.com/treeform/typography",
     "method": "git",
     "tags": [
       "font",
@@ -16119,7 +16119,7 @@
   },
   {
     "name": "quickjwt",
-    "url": "https://github.com/treeform/quickjwt.git",
+    "url": "https://github.com/treeform/quickjwt",
     "method": "git",
     "tags": [
       "crypto",
@@ -16131,7 +16131,7 @@
   },
   {
     "name": "staticglfw",
-    "url": "https://github.com/treeform/staticglfw.git",
+    "url": "https://github.com/treeform/staticglfw",
     "method": "git",
     "tags": [
       "glfw",
@@ -16155,5 +16155,33 @@
     "description": "Postgres utility functions",
     "license": "MIT",
     "web": "https://github.com/hiteshjasani/nim-pg-util"
+  },
+  {
+    "name": "googleapi",
+    "url": "https://github.com/treeform/googleapi",
+    "method": "git",
+    "tags": [
+      "jwt",
+      "google"
+    ],
+    "description": "Google API for nim",
+    "license": "MIT",
+    "web": "https://github.com/treeform/googleapi"
+  },
+  {
+    "name": "fidget",
+    "url": "https://github.com/treeform/fidget",
+    "method": "git",
+    "tags": [
+      "ui",
+      "glfw",
+      "opengl",
+      "js",
+      "android",
+      "ios"
+    ],
+    "description": "Figma based UI library for nim, with HTML and OpenGL backends.",
+    "license": "MIT",
+    "web": "https://github.com/treeform/fidget"
   }
 ]
