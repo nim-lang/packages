@@ -16200,5 +16200,54 @@
     "description": "A Nim query builder library inspired by Laravel/PHP and Orator/Python",
     "license": "MIT",
     "web": "https://github.com/itsumura-h/nim-allographer"
+  },
+  {
+    "name": "euphony",
+    "url": "https://github.com/treeform/euphony",
+    "method": "git",
+    "tags": [
+      "sound",
+      "OpenAL"
+    ],
+    "description": "A 3d sound API for nim.",
+    "license": "MIT",
+    "web": "https://github.com/treeform/euphony"
+  },
+  {
+    "name": "steamworks",
+    "url": "https://github.com/treeform/steamworks",
+    "method": "git",
+    "tags": [
+      "steamworks",
+      "game"
+    ],
+    "description": "Steamworks SDK API for shipping games on Steam.",
+    "license": "MIT",
+    "web": "https://github.com/treeform/steamworks"
+  },
+  {
+    "name": "sysinfo",
+    "url": "https://github.com/treeform/sysinfo",
+    "method": "git",
+    "tags": [
+      "system",
+      "cpu",
+      "gpu",
+      "net"
+    ],
+    "description": "Cross platform system information.",
+    "license": "MIT",
+    "web": "https://github.com/treeform/sysinfo"
+  },
+  {
+    "name": "ptest",
+    "url": "https://github.com/treeform/ptest",
+    "method": "git",
+    "tags": [
+      "test"
+    ],
+    "description": "Print-testing for nim.",
+    "license": "MIT",
+    "web": "https://github.com/treeform/ptest"
   }
 ]
