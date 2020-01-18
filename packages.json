@@ -16194,7 +16194,7 @@
       "mysql",
       "postgres",
       "rdb",
-      "query_buulder",
+      "query_builder",
       "orm"
     ],
     "description": "A Nim query builder library inspired by Laravel/PHP and Orator/Python",
