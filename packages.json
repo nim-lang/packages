@@ -16020,12 +16020,14 @@
     "url": "https://github.com/flenniken/metar",
     "method": "git",
     "tags": [
-      "metadate",
+      "metadata",
       "image",
       "python",
+      "cli",
+      "terminal",
       "library"
     ],
-    "description": "Metadata Reader for Images",
+    "description": "Read metadata from jpeg and tiff images.",
     "license": "MIT",
     "web": "https://github.com/flenniken/metar"
   },
