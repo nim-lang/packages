@@ -1,5 +1,34 @@
 [
   {
+    "name":"nio",
+    "url":"https://github.com/KayraG/nio",
+    "method":"git",
+    "tags":[
+      "server",
+      "framework",
+      "express",
+      "http",
+      "library"
+    ],
+    "description":"",
+    "license":"MIT",
+    "web":"https://github.com/KayraG/nio"
+  },
+  {
+    "name": "decisiontree",
+    "url": "https://github.com/Michedev/DecisionTreeNim",
+    "method": "git",
+    "tags": [
+      "Decision tree",
+      "Machine learning",
+      "Random forest",
+      "CART"
+    ],
+    "description": "Decision tree and Random forest CART implementation in Nim",
+    "license": "GPL-3.0",
+    "web": "https://github.com/Michedev/DecisionTreeNim"
+  },
+  {
     "name": "tsv2json",
     "url": "https://github.com/hectormonacci/tsv2json",
     "method": "git",
@@ -10677,7 +10706,7 @@
   },
   {
     "name": "print",
-    "url": "https://github.com/treeform/print.git",
+    "url": "https://github.com/treeform/print",
     "method": "git",
     "tags": [
       "pretty"
@@ -10688,7 +10717,7 @@
   },
   {
     "name": "vmath",
-    "url": "https://github.com/treeform/vmath.git",
+    "url": "https://github.com/treeform/vmath",
     "method": "git",
     "tags": [
       "math",
@@ -10702,7 +10731,7 @@
   },
   {
     "name": "flippy",
-    "url": "https://github.com/treeform/flippy.git",
+    "url": "https://github.com/treeform/flippy",
     "method": "git",
     "tags": [
       "image",
@@ -10715,7 +10744,7 @@
   },
   {
     "name": "typography",
-    "url": "https://github.com/treeform/typography.git",
+    "url": "https://github.com/treeform/typography",
     "method": "git",
     "tags": [
       "font",
@@ -16079,5 +16108,163 @@
     "description": "Graphs in nim!",
     "license": "MIT",
     "web": "https://github.com/ebran/grim"
+  },
+  {
+    "name": "retranslator",
+    "url": "https://github.com/linksplatform/RegularExpressions.Transformer",
+    "method": "git",
+    "tags": [
+      "regular",
+      "expressions",
+      "transformer"
+    ],
+    "description": "Transformer",
+    "license": "LGPLv3",
+    "web": "https://github.com/linksplatform/RegularExpressions.Transformer"
+  },
+  {
+    "name": "barcode",
+    "url": "https://github.com/bunkford/barcode",
+    "method": "git",
+    "tags": [
+      "barcode"
+    ],
+    "description": "Nim barcode library",
+    "license": "MIT",
+    "web": "https://github.com/bunkford/barcode",
+    "doc": "https://bunkford.github.io/barcode/barcode.html"
+  },
+  {
+    "name": "quickjwt",
+    "url": "https://github.com/treeform/quickjwt",
+    "method": "git",
+    "tags": [
+      "crypto",
+      "hash"
+    ],
+    "description": "JSON Web Tokens for Nim",
+    "license": "MIT",
+    "web": "https://github.com/treeform/quickjwt"
+  },
+  {
+    "name": "staticglfw",
+    "url": "https://github.com/treeform/staticglfw",
+    "method": "git",
+    "tags": [
+      "glfw",
+      "opengl",
+      "windowing",
+      "game"
+    ],
+    "description": "Static GLFW for nim",
+    "license": "MIT",
+    "web": "https://github.com/treeform/staticglfw"
+  },
+  {
+    "name": "pg_util",
+    "url": "https://github.com/hiteshjasani/nim-pg-util.git",
+    "method": "git",
+    "tags": [
+      "postgresql",
+      "postgres",
+      "pg"
+    ],
+    "description": "Postgres utility functions",
+    "license": "MIT",
+    "web": "https://github.com/hiteshjasani/nim-pg-util"
+  },
+  {
+    "name": "googleapi",
+    "url": "https://github.com/treeform/googleapi",
+    "method": "git",
+    "tags": [
+      "jwt",
+      "google"
+    ],
+    "description": "Google API for nim",
+    "license": "MIT",
+    "web": "https://github.com/treeform/googleapi"
+  },
+  {
+    "name": "fidget",
+    "url": "https://github.com/treeform/fidget",
+    "method": "git",
+    "tags": [
+      "ui",
+      "glfw",
+      "opengl",
+      "js",
+      "android",
+      "ios"
+    ],
+    "description": "Figma based UI library for nim, with HTML and OpenGL backends.",
+    "license": "MIT",
+    "web": "https://github.com/treeform/fidget"
+  },
+  {
+    "name": "allographer",
+    "url": "https://github.com/itsumura-h/nim-allographer",
+    "method": "git",
+    "tags": [
+      "database",
+      "sqlite",
+      "mysql",
+      "postgres",
+      "rdb",
+      "query_builder",
+      "orm"
+    ],
+    "description": "A Nim query builder library inspired by Laravel/PHP and Orator/Python",
+    "license": "MIT",
+    "web": "https://github.com/itsumura-h/nim-allographer"
+  },
+  {
+    "name": "euphony",
+    "url": "https://github.com/treeform/euphony",
+    "method": "git",
+    "tags": [
+      "sound",
+      "OpenAL"
+    ],
+    "description": "A 3d sound API for nim.",
+    "license": "MIT",
+    "web": "https://github.com/treeform/euphony"
+  },
+  {
+    "name": "steamworks",
+    "url": "https://github.com/treeform/steamworks",
+    "method": "git",
+    "tags": [
+      "steamworks",
+      "game"
+    ],
+    "description": "Steamworks SDK API for shipping games on Steam.",
+    "license": "MIT",
+    "web": "https://github.com/treeform/steamworks"
+  },
+  {
+    "name": "sysinfo",
+    "url": "https://github.com/treeform/sysinfo",
+    "method": "git",
+    "tags": [
+      "system",
+      "cpu",
+      "gpu",
+      "net"
+    ],
+    "description": "Cross platform system information.",
+    "license": "MIT",
+    "web": "https://github.com/treeform/sysinfo"
+  },
+  {
+    "name": "ptest",
+    "url": "https://github.com/treeform/ptest",
+    "method": "git",
+    "tags": [
+      "test"
+    ],
+    "description": "Print-testing for nim.",
+    "license": "MIT",
+    "web": "https://github.com/treeform/ptest"
   }
 ]
