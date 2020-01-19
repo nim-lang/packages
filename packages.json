@@ -16059,9 +16059,11 @@
     "url": "https://github.com/flenniken/nimlist",
     "method": "git",
     "tags": [
-      "exe"
+      "cli",
+      "terminal",
+      "html"
     ],
-    "description": "Browse nim packages in your browser.",
+    "description": "View nim packages in your browser.",
     "license": "MIT",
     "web": "https://github.com/flenniken/nimlist"
   },
