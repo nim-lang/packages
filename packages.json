@@ -8587,7 +8587,7 @@
   },
   {
     "name": "polynumeric",
-    "url": "https://github.com/lcrees/polynumeric",
+    "url": "https://github.com/Vindaar/polynumeric",
     "method": "git",
     "tags": [
       "polynomial",
@@ -8595,7 +8595,7 @@
     ],
     "description": "Polynomial operations",
     "license": "MIT",
-    "web": "https://github.com/lcrees/polynumeric"
+    "web": "https://github.com/Vindaar/polynumeric"
   },
   {
     "name": "unicodedb",
