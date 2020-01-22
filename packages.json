@@ -16294,5 +16294,20 @@
     "description": "A tool that watches Python files and re-runs them on change.",
     "license": "MIT",
     "web": "https://github.com/rburmorrison/pych"
+  },
+  {
+    "name": "baker",
+    "url": "https://github.com/jasonrbriggs/baker",
+    "method": "git",
+    "tags": [
+      "html",
+      "template",
+      "static",
+      "blog",
+      "microblog"
+    ],
+    "description": "Static website generation",
+    "license": "Apache-2.0",
+    "web": "https://github.com/jasonrbriggs/baker"
   }
 ]
