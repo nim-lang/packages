@@ -1,18 +1,18 @@
 [
   {
-    "name":"nio",
-    "url":"https://github.com/KayraG/nio",
-    "method":"git",
-    "tags":[
+    "name": "nio",
+    "url": "https://github.com/KayraG/nio",
+    "method": "git",
+    "tags": [
       "server",
       "framework",
       "express",
       "http",
       "library"
     ],
-    "description":"A Mini Server Framework for Nim language",
-    "license":"MIT",
-    "web":"https://github.com/KayraG/nio"
+    "description": "A Mini Server Framework for Nim language",
+    "license": "MIT",
+    "web": "https://github.com/KayraG/nio"
   },
   {
     "name": "decisiontree",
@@ -16282,5 +16282,17 @@
     "license": "GPL-3.0",
     "doc": "https://markpbaggett.github.io/oaitools.nim/",
     "web": "https://github.com/markpbaggett/oaitools.nim"
+  },
+  {
+    "name": "pych",
+    "url": "https://github.com/rburmorrison/pych",
+    "method": "git",
+    "tags": [
+      "python",
+      "binary"
+    ],
+    "description": "A tool that watches Python files and re-runs them on change.",
+    "license": "MIT",
+    "web": "https://github.com/rburmorrison/pych"
   }
 ]
