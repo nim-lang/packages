@@ -16306,5 +16306,18 @@
     "description": "A tool that watches Python files and re-runs them on change.",
     "license": "MIT",
     "web": "https://github.com/rburmorrison/pych"
+  },
+  {
+    "name": "adb",
+    "url": "https://github.com/Yardanico/nim-adb",
+    "method": "git",
+    "tags": [
+      "adb",
+      "protocol",
+      "android"
+    ],
+    "description": "ADB protocol implementation in Nim",
+    "license": "MIT",
+    "web": "https://github.com/Yardanico/nim-adb"
   }
 ]
