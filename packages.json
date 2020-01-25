@@ -16319,5 +16319,19 @@
     "description": "ADB protocol implementation in Nim",
     "license": "MIT",
     "web": "https://github.com/Yardanico/nim-adb"
+  },
+  {
+    "name": "z3nim",
+    "url": "https://github.com/Double-oxygeN/z3nim",
+    "method": "git",
+    "tags": [
+      "z3",
+      "smt",
+      "wrapper",
+      "library"
+    ],
+    "description": "Z3 binding for Nim",
+    "license": "MIT",
+    "web": "https://github.com/Double-oxygeN/z3nim"
   }
 ]
