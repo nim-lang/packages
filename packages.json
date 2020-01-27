@@ -1,5 +1,22 @@
 [
   {
+    "name": "nbaser",
+    "url": "https://github.com/D-Nice/nbaser",
+    "method": "git",
+    "tags": [
+      "encode",
+      "decode",
+      "base",
+      "unicode",
+      "base58",
+      "base-x"
+    ],
+    "description": "Encode/decode arbitrary unicode bases from size 2 to 256",
+    "license": "Apache-2.0",
+    "web": "https://github.com/D-Nice/nbaser",
+    "doc": "https://d-nice.github.io/nbaser/"
+  },
+  {
     "name": "nio",
     "url": "https://github.com/KayraG/nio",
     "method": "git",
