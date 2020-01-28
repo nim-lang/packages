@@ -5799,12 +5799,30 @@
       "react",
       "frontend",
       "ui",
+      "vdom",
       "single page application"
     ],
     "description": "React.js bindings for Nim",
     "license": "Apache License 2.0",
     "web": "https://github.com/andreaferretti/react.nim"
   },
+  {
+    "name": "react16",
+    "url": "https://github.com/kristianmandrup/react-16.nim",
+    "method": "git",
+    "tags": [
+      "js",
+      "react",
+      "frontend",
+      "ui",
+      "vdom",
+      "hooks",
+      "single page application"
+    ],
+    "description": "React.js 16.x bindings for Nim",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/kristianmandrup/react-16.nim"
+  },  
   {
     "name": "oauth",
     "url": "https://github.com/CORDEA/oauth",
