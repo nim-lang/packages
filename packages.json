@@ -5822,7 +5822,7 @@
     "description": "React.js 16.x bindings for Nim",
     "license": "Apache License 2.0",
     "web": "https://github.com/kristianmandrup/react-16.nim"
-  },  
+  },
   {
     "name": "oauth",
     "url": "https://github.com/CORDEA/oauth",
@@ -16383,5 +16383,20 @@
     "description": "wave is a tiny WAV sound module",
     "license": "MIT",
     "web": "https://github.com/jiro4989/wave"
+  },
+  {
+    "name": "react",
+    "url": "https://github.com/kristianmandrup/react-16.nim",
+    "method": "git",
+    "tags": [
+      "react",
+      "hooks",
+      "suspense",
+      "js",
+      "web"
+    ],
+    "description": "Sample React 16.6 SPA with hooks using Nim",
+    "license": "Apache2",
+    "web": "https://github.com/kristianmandrup/react-16.nim"
   }
 ]
