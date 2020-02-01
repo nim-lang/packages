@@ -5822,7 +5822,7 @@
     "description": "React.js 16.x bindings for Nim",
     "license": "Apache License 2.0",
     "web": "https://github.com/kristianmandrup/react-16.nim"
-  },  
+  },
   {
     "name": "oauth",
     "url": "https://github.com/CORDEA/oauth",
@@ -16398,5 +16398,16 @@
     "description": "Minimalistic Kernel-Syslogd For Linux in Nim",
     "license": "MIT",
     "web": "https://github.com/c-blake/kslog"
+  },
+  {
+    "name": "nregex",
+    "url": "https://github.com/nitely/nregex",
+    "method": "git",
+    "tags": [
+      "regex"
+    ],
+    "description": "A DFA based regex engine",
+    "license": "MIT",
+    "web": "https://github.com/nitely/nregex"
   }
 ]
