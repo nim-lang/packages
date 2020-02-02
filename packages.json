@@ -16409,5 +16409,19 @@
     "description": "A DFA based regex engine",
     "license": "MIT",
     "web": "https://github.com/nitely/nregex"
+  },
+  {
+    "name": "delight",
+    "url": "https://github.com/liquid600pgm/delight",
+    "method": "git",
+    "tags": [
+      "raycasting",
+      "math",
+      "light",
+      "library"
+    ],
+    "description": "Engine-agnostic library for computing 2D raycasted lights",
+    "license": "MIT",
+    "web": "https://github.com/liquid600pgm/delight"
   }
 ]
