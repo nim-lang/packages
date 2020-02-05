@@ -16423,5 +16423,16 @@
     "description": "Engine-agnostic library for computing 2D raycasted lights",
     "license": "MIT",
     "web": "https://github.com/liquid600pgm/delight"
+  },
+  {
+    "name": "nimsuite",
+    "url": "https://github.com/c6h4clch3/nest",
+    "method": "git",
+    "tags": [
+      "unittest"
+    ],
+    "description": "a simple test framework for nim.",
+    "license": "MIT",
+    "web": "https://github.com/c6h4clch3/nest"
   }
 ]
