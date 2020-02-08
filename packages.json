@@ -16434,5 +16434,19 @@
     "description": "a simple test framework for nim.",
     "license": "MIT",
     "web": "https://github.com/c6h4clch3/NimSuite"
+  },
+  {
+    "name": "prologue",
+    "url": "https://github.com/planety/Prologue",
+    "method": "git",
+    "tags": [
+      "web",
+      "prologue",
+      "starlight",
+      "jester"
+    ],
+    "description": "Another micro web framework.",
+    "license": "MIT",
+    "web": "https://github.com/planety/Prologue"
   }
 ]
