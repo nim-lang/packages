@@ -16448,5 +16448,20 @@
     "description": "Another micro web framework.",
     "license": "MIT",
     "web": "https://github.com/planety/Prologue"
+  },
+  {
+    "name": "mort",
+    "url": "https://github.com/jyapayne/mort",
+    "method": "git",
+    "tags": [
+      "macro",
+      "library",
+      "deadcode",
+      "dead",
+      "code"
+    ],
+    "description": "A dead code locator for Nim",
+    "license": "MIT",
+    "web": "https://github.com/jyapayne/mort"
   }
 ]
