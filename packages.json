@@ -16478,5 +16478,21 @@
     "description": "Cryptographic signing for Nim.",
     "license": "BSD-3-Clause",
     "web": "https://github.com/planety/gungnir"
+  },
+  {
+    "name": "anonimongo",
+    "url": "https://github.com/mashingan/anonimongo",
+    "method": "git",
+    "tags": [
+      "mongo",
+      "mongodb",
+      "driver",
+      "pure",
+      "library",
+      "bson"
+    ],
+    "description": "ANOther pure NIm MONGO driver.",
+    "license": "MIT",
+    "web": "https://mashingan.github.io/anonimongo/src/htmldocs/anonimongo.html"
   }
 ]
