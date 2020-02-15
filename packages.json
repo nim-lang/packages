@@ -16480,6 +16480,18 @@
     "web": "https://github.com/planety/gungnir"
   },
   {
+    "name": "segmentation",
+    "url": "https://github.com/nitely/nim-segmentation",
+    "method": "git",
+    "tags": [
+      "unicode",
+      "text-segmentation"
+    ],
+    "description": "Unicode text segmentation tr29",
+    "license": "MIT",
+    "web": "https://github.com/nitely/nim-segmentation"
+  },
+  {
     "name": "anonimongo",
     "url": "https://github.com/mashingan/anonimongo",
     "method": "git",
