@@ -16506,5 +16506,18 @@
     "description": "ANOther pure NIm MONGO driver.",
     "license": "MIT",
     "web": "https://mashingan.github.io/anonimongo/src/htmldocs/anonimongo.html"
+  },
+  {
+    "name": "shizuka",
+    "url": "https://github.com/Ethosa/shizuka",
+    "method": "git",
+    "tags": [
+      "VK",
+      "API",
+      "framework"
+    ],
+    "description": "The Nim framework for VK.",
+    "license": "LGPLv3",
+    "web": "https://github.com/Ethosa/shizuka"
   }
 ]
