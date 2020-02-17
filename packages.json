@@ -16506,5 +16506,18 @@
     "description": "ANOther pure NIm MONGO driver.",
     "license": "MIT",
     "web": "https://mashingan.github.io/anonimongo/src/htmldocs/anonimongo.html"
+  },
+  {
+    "name": "nYara",
+    "url": "https:///",
+    "method": "",
+    "tags": [
+      "yara",
+      "nim",
+      "library"
+    ],
+    "description": "A nim interface for the malware detection library named Yara",
+    "license": "MIT",
+    "web": "https:///"
   }
 ]
