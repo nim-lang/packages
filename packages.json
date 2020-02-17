@@ -16511,7 +16511,10 @@
     "name": "paranim",
     "url": "https://github.com/paranim/paranim",
     "method": "git",
-    "tags": [],
+    "tags": [
+      "games",
+      "opengl"
+    ],
     "description": "A game library",
     "license": "Public Domain"
   },
@@ -16519,7 +16522,10 @@
     "name": "pararules",
     "url": "https://github.com/paranim/pararules",
     "method": "git",
-    "tags": [],
+    "tags": [
+      "rules",
+      "rete"
+    ],
     "description": "A rules engine",
     "license": "Public Domain"
   }
