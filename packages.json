@@ -16506,5 +16506,21 @@
     "description": "ANOther pure NIm MONGO driver.",
     "license": "MIT",
     "web": "https://mashingan.github.io/anonimongo/src/htmldocs/anonimongo.html"
+  },
+  {
+    "name": "paranim",
+    "url": "https://github.com/paranim/paranim",
+    "method": "git",
+    "tags": [],
+    "description": "A game library",
+    "license": "Public Domain"
+  },
+  {
+    "name": "pararules",
+    "url": "https://github.com/paranim/pararules",
+    "method": "git",
+    "tags": [],
+    "description": "A rules engine",
+    "license": "Public Domain"
   }
 ]
