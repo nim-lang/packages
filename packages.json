@@ -16541,5 +16541,17 @@
     "description": "A wrapper for SQLite",
     "license": "Apache License 2.0 or MIT",
     "web": "https://github.com/arnetheduck/nim-sqlite3-abi"
+  },
+  {
+    "name": "anime",
+    "url": "https://github.com/ethosa/anime",
+    "method": "git",
+    "tags": [
+      "tracemoe",
+      "framework"
+    ],
+    "description": "The Nim wrapper for tracemoe.",
+    "license": "AGPLv3",
+    "web": "https://github.com/ethosa/anime"
   }
 ]
