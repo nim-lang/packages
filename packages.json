@@ -16093,11 +16093,11 @@
   },
   {
     "name": "saya",
+    "alias": "shizuka",
     "url": "https://github.com/Ethosa/saya_nim",
     "method": "git",
     "tags": [
-      "VK",
-      "framework"
+      "abandoned"
     ],
     "description": "Nim framework for VK",
     "license": "LGPLv3",
@@ -16553,5 +16553,18 @@
     "description": "The Nim wrapper for tracemoe.",
     "license": "AGPLv3",
     "web": "https://github.com/ethosa/anime"
+  },
+  {
+    "name": "shizuka",
+    "url": "https://github.com/ethosa/shizuka",
+    "method": "git",
+    "tags": [
+      "vk",
+      "api",
+      "framework"
+    ],
+    "description": "The Nim framework for VK API.",
+    "license": "AGPLv3",
+    "web": "https://github.com/ethosa/shizuka"
   }
 ]
