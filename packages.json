@@ -16508,6 +16508,28 @@
     "web": "https://mashingan.github.io/anonimongo/src/htmldocs/anonimongo.html"
   },
   {
+    "name": "paranim",
+    "url": "https://github.com/paranim/paranim",
+    "method": "git",
+    "tags": [
+      "games",
+      "opengl"
+    ],
+    "description": "A game library",
+    "license": "Public Domain"
+  },
+  {
+    "name": "pararules",
+    "url": "https://github.com/paranim/pararules",
+    "method": "git",
+    "tags": [
+      "rules",
+      "rete"
+    ],
+    "description": "A rules engine",
+    "license": "Public Domain"
+  },
+  {
     "name": "sqlite3_abi",
     "url": "https://github.com/arnetheduck/nim-sqlite3-abi",
     "method": "git",
