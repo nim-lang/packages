@@ -16579,5 +16579,18 @@
     "description": "Create SVG-files with QR-codes from strings.",
     "license": "MIT",
     "web": "https://github.com/ThomasTJdev/nim_qr"
+  },
+  {
+    "name": "uri3",
+    "url": "https://github.com/zendbit/nim.uri3",
+    "method": "git",
+    "tags": [
+      "uri",
+      "url",
+      "library"
+    ],
+    "description": "nim.uri3 is a Nim module that provides improved way for working with URIs. It is based on the uri module in the Nim standard library and fork from nim-uri2",
+    "license": "MIT",
+    "web": "https://github.com/zendbit/nim.uri3"
   }
 ]
