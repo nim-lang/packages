@@ -16566,5 +16566,18 @@
     "description": "The Nim framework for VK API.",
     "license": "AGPLv3",
     "web": "https://github.com/ethosa/shizuka"
+  },
+  {
+    "name": "qr",
+    "url": "https://github.com/ThomasTJdev/nim_qr",
+    "method": "git",
+    "tags": [
+      "qr",
+      "qrcode",
+      "svg"
+    ],
+    "description": "Create SVG-files with QR-codes from strings.",
+    "license": "MIT",
+    "web": "https://github.com/ThomasTJdev/nim_qr"
   }
 ]
