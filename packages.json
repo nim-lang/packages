@@ -1,5 +1,24 @@
 [
   {
+    "name": "argon2_bind",
+    "url": "https://github.com/D-Nice/argon2_bind",
+    "method": "git",
+    "tags": [
+      "argon2",
+      "kdf",
+      "hash",
+      "crypto",
+      "phc",
+      "c",
+      "ffi",
+      "cryptography"
+    ],
+    "description": "Bindings to the high-level Argon2 C API",
+    "license": "Apache-2.0",
+    "web": "https://github.com/D-Nice/argon2_bind",
+    "doc": "https://d-nice.github.io/argon2_bind/"
+  },
+  {
     "name": "nbaser",
     "url": "https://github.com/D-Nice/nbaser",
     "method": "git",
