@@ -16625,5 +16625,19 @@
     "description": "The Nim bindings for linksplatform/Data.Triplets.Kernel.",
     "license": "AGPLv3",
     "web": "https://github.com/linksplatform/Data.Triplets"
+  },
+  {
+    "name": "kview",
+    "url": "https://github.com/planety/kview",
+    "method": "git",
+    "tags": [
+      "prologue",
+      "starlight",
+      "karax",
+      "web"
+    ],
+    "description": "For karax html preview.",
+    "license": "BSD-3-Clause",
+    "web": "https://github.com/planety/kview"
   }
 ]
