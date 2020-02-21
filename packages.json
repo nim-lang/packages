@@ -16627,6 +16627,19 @@
     "web": "https://github.com/linksplatform/Data.Triplets"
   },
   {
+    "name": "badgemaker",
+    "url": "https://github.com/ethosa/badgemaker",
+    "method": "git",
+    "tags": [
+      "badge",
+      "badge-generator",
+      "tool"
+    ],
+    "description": "The Nim badgemaker tool.",
+    "license": "AGPLv3",
+    "web": "https://github.com/ethosa/badgemaker"
+  },
+  {
     "name": "osdialog",
     "url": "https://github.com/johnnovak/nim-osdialog",
     "method": "git",
