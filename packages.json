@@ -16625,5 +16625,18 @@
     "description": "The Nim bindings for linksplatform/Data.Triplets.Kernel.",
     "license": "AGPLv3",
     "web": "https://github.com/linksplatform/Data.Triplets"
+  },
+  {
+    "name": "badgemaker",
+    "url": "https://github.com/ethosa/badgemaker",
+    "method": "git",
+    "tags": [
+      "badge",
+      "badge-generator",
+      "tool"
+    ],
+    "description": "The Nim badgemaker tool.",
+    "license": "AGPLv3",
+    "web": "https://github.com/ethosa/badgemaker"
   }
 ]
