@@ -16625,5 +16625,29 @@
     "description": "The Nim bindings for linksplatform/Data.Triplets.Kernel.",
     "license": "AGPLv3",
     "web": "https://github.com/linksplatform/Data.Triplets"
+  },
+  {
+    "name": "osdialog",
+    "url": "https://github.com/johnnovak/nim-osdialog",
+    "method": "git",
+    "tags": [
+      "ui,",
+      "gui,",
+      "dialog,",
+      "wrapper,",
+      "cross-platform,",
+      "windows,",
+      "mac,",
+      "osx,",
+      "linux,",
+      "gtk,",
+      "gtk2,",
+      "gtk3,",
+      "zenity,",
+      "file"
+    ],
+    "description": "Nim wrapper for the osdialog library",
+    "license": "WTFPL",
+    "web": "https://github.com/johnnovak/nim-osdialog"
   }
 ]
