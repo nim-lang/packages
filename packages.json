@@ -3205,7 +3205,7 @@
     "method": "git",
     "tags": [
       "fuzzing",
-      "testing",
+      "unit-testing",
       "hacking",
       "security"
     ],
@@ -5201,7 +5201,7 @@
     "url": "https://github.com/shaunc/cucumber_nim",
     "method": "git",
     "tags": [
-      "testing",
+      "unit-testing",
       "cucumber",
       "bdd"
     ],
@@ -6537,6 +6537,23 @@
     "description": "A Nim wrapper for ttmath: big numbers with fixed size",
     "license": "Apache License 2.0",
     "web": "https://github.com/status-im/nim-ttmath"
+  },
+  {
+    "name": "testutils",
+    "url": "https://github.com/status-im/nim-testutils",
+    "method": "git",
+    "tags": [
+      "library",
+      "tests",
+      "unit-testing",
+      "integration-testing",
+      "compilation-tests",
+      "fuzzing",
+      "doctest"
+    ],
+    "description": "A comprehensive toolkit for all your testing needs",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/status-im/nim-testutils"
   },
   {
     "name": "nimbus",
@@ -8122,8 +8139,7 @@
       "safety",
       "test",
       "tests",
-      "testing",
-      "unittest"
+      "unit-testing"
     ],
     "description": "Design by Contract (DbC) library with minimal runtime.",
     "license": "MIT",
@@ -9968,8 +9984,7 @@
     "tags": [
       "test",
       "tests",
-      "testing",
-      "unit"
+      "unit-testing"
     ],
     "description": "A helper module for writing unit tests in Nim with nake or similar build system.",
     "license": "ISC",
@@ -15994,7 +16009,7 @@
     "tags": [
       "japanese",
       "library",
-      "testing"
+      "unit-testing"
     ],
     "description": "random Japanese name and address generator",
     "license": "MIT",
@@ -16329,7 +16344,9 @@
     "url": "https://github.com/treeform/ptest",
     "method": "git",
     "tags": [
-      "test"
+      "tests",
+      "unit-testing",
+      "integration-testing"
     ],
     "description": "Print-testing for nim.",
     "license": "MIT",
