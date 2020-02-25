@@ -16707,5 +16707,19 @@
     "description": "A small library for writing cli programs in Nim.",
     "license": "Zlib",
     "web": "https://github.com/beshrkayali/loki"
+  },
+  {
+    "name": "yukiko",
+    "url": "https://github.com/ethosa/yukiko",
+    "method": "git",
+    "tags": [
+      "gui",
+      "async",
+      "framework",
+      "sdl2"
+    ],
+    "description": "The Nim GUI asynchronous framework based on SDL2.",
+    "license": "AGPLv3",
+    "web": "https://github.com/ethosa/yukiko"
   }
 ]
