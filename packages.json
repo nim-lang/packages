@@ -16566,6 +16566,17 @@
     "license": "Public Domain"
   },
   {
+    "name": "paratext",
+    "url": "https://github.com/paranim/paratext",
+    "method": "git",
+    "tags": [
+      "text",
+      "opengl"
+    ],
+    "description": "A library for rendering text with paranim",
+    "license": "Public Domain"
+  },
+  {
     "name": "sqlite3_abi",
     "url": "https://github.com/arnetheduck/nim-sqlite3-abi",
     "method": "git",
