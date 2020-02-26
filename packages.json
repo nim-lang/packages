@@ -16591,6 +16591,17 @@
     "license": "Public Domain"
   },
   {
+    "name": "pvim",
+    "url": "https://github.com/paranim/pvim",
+    "method": "git",
+    "tags": [
+      "editor",
+      "vim"
+    ],
+    "description": "A vim-based editor",
+    "license": "Public Domain"
+  },
+  {
     "name": "sqlite3_abi",
     "url": "https://github.com/arnetheduck/nim-sqlite3-abi",
     "method": "git",
