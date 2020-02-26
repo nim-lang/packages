@@ -16102,7 +16102,7 @@
     "method": "git",
     "tags": [
       "socks",
-      "library"
+      "library",
       "networking",
       "socks5"
     ],
