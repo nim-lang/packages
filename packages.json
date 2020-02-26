@@ -16746,5 +16746,17 @@
     "description": "The Nim GUI asynchronous framework based on SDL2.",
     "license": "AGPLv3",
     "web": "https://github.com/ethosa/yukiko"
+  },
+  {
+    "name": "luhny",
+    "url": "https://github.com/sigmapie8/luhny",
+    "method": "git",
+    "tags": [
+      "library",
+      "algorithm"
+    ],
+    "description": "Luhn's Algorithm implementation in Nim",
+    "license": "MIT",
+    "web": "https://github.com/sigmapie8/luhny"
   }
 ]
