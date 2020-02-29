@@ -16769,5 +16769,18 @@
     "description": "Luhn's Algorithm implementation in Nim",
     "license": "MIT",
     "web": "https://github.com/sigmapie8/luhny"
+  },
+  {
+    "name": "nimwebp",
+    "url": "https://github.com/tormund/nimwebp",
+    "method": "git",
+    "tags": [
+      "webp",
+      "encoder",
+      "decoder"
+    ],
+    "description": "Webp encoder and decoder bindings for Nim",
+    "license": "MIT",
+    "web": "https://github.com/tormund/nimwebp"
   }
 ]
