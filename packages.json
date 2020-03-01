@@ -16782,5 +16782,20 @@
     "description": "Webp encoder and decoder bindings for Nim",
     "license": "MIT",
     "web": "https://github.com/tormund/nimwebp"
+  },
+  {
+    "name": "svgo",
+    "url": "https://github.com/jiro4989/svgo",
+    "method": "git",
+    "tags": [
+      "svg",
+      "cli",
+      "awk",
+      "jo",
+      "shell"
+    ],
+    "description": "SVG output from a shell.",
+    "license": "MIT",
+    "web": "https://github.com/jiro4989/svgo"
   }
 ]
