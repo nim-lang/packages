@@ -16822,7 +16822,7 @@
       "api",
       "library"
     ],
-    "description": "A new awesome nimble package",
+    "description": "A library to help you write rest APIs",
     "license": "MIT",
     "web": "https://github.com/paul-nameless/nimbler"
   }
