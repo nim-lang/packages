@@ -16797,7 +16797,8 @@
     "description": "SVG output from a shell.",
     "license": "MIT",
     "web": "https://github.com/jiro4989/svgo"
-  },{
+  },
+  {
     "name": "winserial",
     "url": "https://github.com/bunkford/winserial",
     "method": "git",
@@ -16809,5 +16810,19 @@
     "license": "MIT",
     "web": "https://github.com/bunkford/winserial",
     "doc": "https://bunkford.github.io/winserial/winserial.html"
+  },
+  {
+    "name": "nimbus",
+    "url": "https://github.com/paul-nameless/nimbus",
+    "method": "git",
+    "tags": [
+      "web",
+      "rest",
+      "api",
+      "library"
+    ],
+    "description": "A new awesome nimble package",
+    "license": "MIT",
+    "web": "https://github.com/paul-nameless/nimbus"
   }
 ]
