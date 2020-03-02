@@ -16797,7 +16797,8 @@
     "description": "SVG output from a shell.",
     "license": "MIT",
     "web": "https://github.com/jiro4989/svgo"
-  },{
+  },
+  {
     "name": "winserial",
     "url": "https://github.com/bunkford/winserial",
     "method": "git",
@@ -16809,5 +16810,17 @@
     "license": "MIT",
     "web": "https://github.com/bunkford/winserial",
     "doc": "https://bunkford.github.io/winserial/winserial.html"
+  },
+  {
+    "name": "plugins",
+    "url": "https://github.com/genotrance/plugins",
+    "method": "git",
+    "tags": [
+      "plugin",
+      "shared"
+    ],
+    "description": "Plugin system for Nim",
+    "license": "MIT",
+    "web": "https://github.com/genotrance/plugins"
   }
 ]
