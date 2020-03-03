@@ -16837,5 +16837,20 @@
     "description": "Plugin system for Nim",
     "license": "MIT",
     "web": "https://github.com/genotrance/plugins"
+  },
+  {
+    "name": "libfswatch",
+    "url": "https://github.com/paul-nameless/nim-fswatch",
+    "method": "git",
+    "tags": [
+      "fswatch",
+      "libfswatch",
+      "inotify",
+      "fs"
+    ],
+    "description": "Nim binding to libfswatch",
+    "license": "MIT",
+    "web": "https://github.com/paul-nameless/nim-fswatch"
+
   }
 ]
