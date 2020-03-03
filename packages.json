@@ -16825,5 +16825,19 @@
     "description": "A library to help you write rest APIs",
     "license": "MIT",
     "web": "https://github.com/paul-nameless/nimbler"
+  },
+  {
+    "name": "libfswatch",
+    "url": "https://github.com/paul-nameless/nim-fswatch",
+    "method": "git",
+    "tags": [
+      "fswatch",
+      "libfswatch",
+      "inotify",
+      "fs"
+    ],
+    "description": "Nim binding to libfswatch",
+    "license": "MIT",
+    "web": "https://github.com/paul-nameless/nim-fswatch"
   }
 ]
