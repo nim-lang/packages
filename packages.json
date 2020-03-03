@@ -16825,5 +16825,20 @@
     "description": "Nim binding to libfswatch",
     "license": "MIT",
     "web": "https://github.com/paul-nameless/nim-fswatch"
+  },
+  }
+    "name": "nimbler",
+    "url": "https://github.com/paul-nameless/nimbler",
+    "method": "git",
+    "tags": [
+      "web",
+      "http",
+      "rest",
+      "api",
+      "library"
+    ],
+    "description": "A library to help you write rest APIs",
+    "license": "MIT",
+    "web": "https://github.com/paul-nameless/nimbler"
   }
 ]
