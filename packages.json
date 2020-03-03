@@ -16827,6 +16827,18 @@
     "web": "https://github.com/paul-nameless/nimbler"
   },
   {
+    "name": "plugins",
+    "url": "https://github.com/genotrance/plugins",
+    "method": "git",
+    "tags": [
+      "plugin",
+      "shared"
+    ],
+    "description": "Plugin system for Nim",
+    "license": "MIT",
+    "web": "https://github.com/genotrance/plugins"
+  },
+  {
     "name": "libfswatch",
     "url": "https://github.com/paul-nameless/nim-fswatch",
     "method": "git",
@@ -16839,5 +16851,6 @@
     "description": "Nim binding to libfswatch",
     "license": "MIT",
     "web": "https://github.com/paul-nameless/nim-fswatch"
+
   }
 ]
