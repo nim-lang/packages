@@ -16852,5 +16852,20 @@
     "license": "MIT",
     "web": "https://github.com/paul-nameless/nim-fswatch"
 
+  },
+  {
+    "name": "zfcore",
+    "url": "https://github.com/zendbit/nim.zfcore",
+    "method": "git",
+    "tags": [
+      "web",
+      "http",
+      "framework",
+      "api",
+      "asynchttpserver"
+    ],
+    "description": "zfcore is high performance asynchttpserver and web framework for nim lang",
+    "license": "BSD",
+    "web": "https://github.com/zendbit/nim.zfcore"
   }
 ]
