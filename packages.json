@@ -16605,7 +16605,7 @@
       "framework",
       "api"
     ],
-    "description": "zfcore is high performance asynchttpserver and web framework for mim lang",
+    "description": "zfcore is high performance asynchttpserver and web framework for nim lang",
     "license": "BSD",
     "web": "https://github.com/zendbit/nim.zfcore"
   }
