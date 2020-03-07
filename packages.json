@@ -16855,7 +16855,7 @@
   },
   {
     "name": "zfcore",
-    "url": "https://github.com/zendbit/nim.zfcore",
+    "url": "https://github.com/zendbit/nim.zfcore/tree/nim.zfcore_1.0.1",
     "method": "git",
     "tags": [
       "web",
@@ -16866,6 +16866,6 @@
     ],
     "description": "zfcore is high performance asynchttpserver and web framework for nim lang",
     "license": "BSD",
-    "web": "https://github.com/zendbit/nim.zfcore"
+    "web": "https://github.com/zendbit/nim.zfcore/tree/nim.zfcore_1.0.1"
   }
 ]
