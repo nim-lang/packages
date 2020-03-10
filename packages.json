@@ -16884,5 +16884,19 @@
     "description": "Fast and simple calculation of polygenic scores",
     "license": "MIT",
     "web": "https://github.com/mpinese/nimpress/"
-  }
+  },
+  {
+"name": "weightedgraph",
+"url": "https://github.com/AzamShafiul/weighted_graph",
+"method": "git",
+"tags": [
+  "graph",
+  "weighted",
+  "weighted_graph"
+  "adjacency list"
+],
+"description": "Graph With Weight Libary",
+"license": "MIT",
+"web": "https://github.com/AzamShafiul/weighted_graph"
+}
 ]
