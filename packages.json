@@ -16867,5 +16867,22 @@
     "description": "zfcore is high performance asynchttpserver and web framework for nim lang",
     "license": "BSD",
     "web": "https://github.com/zendbit/nim.zfcore"
+  },
+  {
+    "name": "nimpress",
+    "url": "https://github.com/mpinese/nimpress",
+    "method": "git",
+    "tags": [
+      "dna",
+      "genetics",
+      "genomics",
+      "gwas",
+      "polygenic",
+      "risk",
+      "vcf"
+    ],
+    "description": "Fast and simple calculation of polygenic scores",
+    "license": "MIT",
+    "web": "https://github.com/mpinese/nimpress/"
   }
 ]
