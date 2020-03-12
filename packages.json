@@ -16851,7 +16851,6 @@
     "description": "Nim binding to libfswatch",
     "license": "MIT",
     "web": "https://github.com/paul-nameless/nim-fswatch"
-
   },
   {
     "name": "zfcore",
@@ -16894,9 +16893,24 @@
       "weighted",
       "weighted_graph",
       "adjacency list"
-   ],
-   "description": "Graph With Weight Libary",
-   "license": "MIT",
-   "web": "https://github.com/AzamShafiul/weighted_graph"
- }
+    ],
+    "description": "Graph With Weight Libary",
+    "license": "MIT",
+    "web": "https://github.com/AzamShafiul/weighted_graph"
+  },
+  {
+    "name": "norman",
+    "url": "https://github.com/moigagoo/norman",
+    "method": "git",
+    "tags": [
+      "orm",
+      "migration",
+      "norm",
+      "sqlite",
+      "postgres"
+    ],
+    "description": "Migration manager for Norm.",
+    "license": "MIT",
+    "web": "https://github.com/moigagoo/norman"
+  }
 ]
