@@ -16912,5 +16912,17 @@
     "description": "Migration manager for Norm.",
     "license": "MIT",
     "web": "https://github.com/moigagoo/norman"
+  },
+  {
+    "name": "nimfm",
+    "url": "https://github.com/neonnnnn/nimfm",
+    "method": "git",
+    "tags": [
+      "machine-learning",
+      "factorization-machine"
+    ],
+    "description": "A library for factorization machines in Nim.",
+    "license": "MIT",
+    "web": "https://github.com/neonnnnn/nimfm"
   }
 ]
