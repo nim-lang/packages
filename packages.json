@@ -16949,5 +16949,18 @@
     ],
     "description": "An embedded text editor for paranim games",
     "license": "Public Domain"
+  },
+  {
+    "name": "akane",
+    "url": "https://github.com/ethosa/akane",
+    "method": "git",
+    "tags": [
+      "async",
+      "web",
+      "framework"
+    ],
+    "description": "The Nim asynchronous web framework.",
+    "license": "MIT",
+    "web": "https://github.com/ethosa/akane"
   }
 ]
