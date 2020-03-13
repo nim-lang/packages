@@ -16938,5 +16938,16 @@
     "description": "High performance http server (https://tools.ietf.org/html/rfc2616) with persistent connection for nim language.",
     "license": "BSD",
     "web": "https://github.com/zendbit/nim.zfblast"
+  },
+  {
+    "name": "paravim",
+    "url": "https://github.com/paranim/paravim",
+    "method": "git",
+    "tags": [
+      "editor",
+      "games"
+    ],
+    "description": "An embedded text editor for paranim games",
+    "license": "Public Domain"
   }
 ]
