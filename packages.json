@@ -16951,6 +16951,19 @@
     "license": "Public Domain"
   },
   {
+    "name": "akane",
+    "url": "https://github.com/ethosa/akane",
+    "method": "git",
+    "tags": [
+      "async",
+      "web",
+      "framework"
+    ],
+    "description": "The Nim asynchronous web framework.",
+    "license": "MIT",
+    "web": "https://github.com/ethosa/akane"
+  },
+  {
     "name": "roots",
     "url": "https://github.com/BarrOff/roots",
     "method": "git",
