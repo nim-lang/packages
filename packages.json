@@ -16962,5 +16962,19 @@
     "description": "The Nim asynchronous web framework.",
     "license": "MIT",
     "web": "https://github.com/ethosa/akane"
+  },
+  {
+    "name": "roots",
+    "url": "https://github.com/BarrOff/roots",
+    "method": "git",
+    "tags": [
+      "math",
+      "numerical",
+      "scientific",
+      "root"
+    ],
+    "description": "Root finding functions for Nim",
+    "license": "MIT",
+    "web": "https://github.com/BarrOff/roots"
   }
 ]
