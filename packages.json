@@ -16991,6 +16991,19 @@
     "web": "https://github.com/zevv/nmqtt"
   },
   {
+    "name": "sss",
+    "url": "https://github.com/markspanbroek/sss.nim",
+    "method": "git",
+    "tags": [
+      "shamir",
+      "secret",
+      "sharing"
+    ],
+    "description": "Shamir secret sharing",
+    "license": "MIT",
+    "web": "https://github.com/markspanbroek/sss.nim"
+  },
+  {
     "name": "testify",
     "url": "https://github.com/sealmove/testify",
     "method": "git",
