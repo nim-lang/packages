@@ -16989,5 +16989,16 @@
     "description": "Native MQTT client library",
     "license": "MIT",
     "web": "https://github.com/zevv/nmqtt"
+  },
+  {
+    "name": "testify",
+    "url": "https://github.com/sealmove/testify",
+    "method": "git",
+    "tags": [
+      "binary"
+    ],
+    "description": "File-based unit testing system",
+    "license": "MIT",
+    "web": "https://github.com/sealmove/testify"
   }
 ]
