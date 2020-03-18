@@ -17041,5 +17041,18 @@
     "description": "File-based unit testing system",
     "license": "MIT",
     "web": "https://github.com/sealmove/testify"
+  },
+  {
+    "name": "react16",
+    "url": "https://github.com/kristianmandrup/react-16.nim",
+    "method": "git",
+    "tags": [
+      "react16",
+      "react",
+      "web"
+    ],
+    "description": "Sample React 16.6 SPA with hooks using Nim",
+    "license": "Apache2",
+    "web": "https://github.com/kristianmandrup/react-16.nim"
   }
 ]
