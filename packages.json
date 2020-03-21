@@ -17041,5 +17041,16 @@
     "description": "File-based unit testing system",
     "license": "MIT",
     "web": "https://github.com/sealmove/testify"
+  },
+  {
+    "name": "nimbug",
+    "url": "https://github.com/juancarlospaco/nimbug",
+    "method": "git",
+    "tags": [
+      "bug"
+    ],
+    "description": "Nim Semi-Auto Bug Report Tool",
+    "license": "MIT",
+    "web": "https://github.com/juancarlospaco/nimbug"
   }
 ]
