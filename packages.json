@@ -17043,6 +17043,19 @@
     "web": "https://github.com/sealmove/testify"
   },
   {
+    "name": "eloverblik",
+    "url": "https://github.com/ThomasTJdev/nim_eloverblik_api",
+    "method": "git",
+    "tags": [
+      "api",
+      "elforbrug",
+      "eloverblik"
+    ],
+    "description": "API for www.eloverblik.dk",
+    "license": "MIT",
+    "web": "https://github.com/ThomasTJdev/nim_eloverblik_api"
+  },
+  {
     "name": "nimbug",
     "url": "https://github.com/juancarlospaco/nimbug",
     "method": "git",
