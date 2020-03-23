@@ -17043,6 +17043,18 @@
     "web": "https://github.com/sealmove/testify"
   },
   {
+    "name": "mnemonic",
+    "url": "https://github.com/markspanbroek/mnemonic",
+    "method": "git",
+    "tags": [
+      "mnemonic",
+      "bip-39"
+    ],
+    "description": "Create memorable sentences from byte sequences.",
+    "license": "MIT",
+    "web": "https://github.com/markspanbroek/mnemonic"
+  },
+  {
     "name": "eloverblik",
     "url": "https://github.com/ThomasTJdev/nim_eloverblik_api",
     "method": "git",
