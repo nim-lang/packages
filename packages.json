@@ -17053,5 +17053,42 @@
     "description": "Create memorable sentences from byte sequences.",
     "license": "MIT",
     "web": "https://github.com/markspanbroek/mnemonic"
+  },
+  {
+    "name": "eloverblik",
+    "url": "https://github.com/ThomasTJdev/nim_eloverblik_api",
+    "method": "git",
+    "tags": [
+      "api",
+      "elforbrug",
+      "eloverblik"
+    ],
+    "description": "API for www.eloverblik.dk",
+    "license": "MIT",
+    "web": "https://github.com/ThomasTJdev/nim_eloverblik_api"
+  },
+  {
+    "name": "nimbug",
+    "url": "https://github.com/juancarlospaco/nimbug",
+    "method": "git",
+    "tags": [
+      "bug"
+    ],
+    "description": "Nim Semi-Auto Bug Report Tool",
+    "license": "MIT",
+    "web": "https://github.com/juancarlospaco/nimbug"
+  },
+  {
+    "name": "nordnet",
+    "url": "https://github.com/ThomasTJdev/nim_nordnet_api",
+    "method": "git",
+    "tags": [
+      "nordnet",
+      "stocks",
+      "scrape"
+    ],
+    "description": "Scraping API for www.nordnet.dk ready to integrate with Home Assistant (Hassio)",
+    "license": "MIT",
+    "web": "https://github.com/ThomasTJdev/nim_nordnet_api"
   }
 ]
