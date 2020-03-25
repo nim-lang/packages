@@ -17118,5 +17118,19 @@
     "description": "A simple pomodoro timer for the comandline with cli-output and notifications.",
     "license": "MIT",
     "web": "https://github.com/MnlPhlp/pomTimer"
+  },
+  {
+    "name": "alut",
+    "url": "https://github.com/rmt/alut",
+    "method": "git",
+    "tags": [
+      "alut",
+      "openal",
+      "audio",
+      "sound"
+    ],
+    "description": "OpenAL Utility Toolkit (ALUT)",
+    "license": "LGPL-2.1",
+    "web": "https://github.com/rmt/alut"
   }
 ]
