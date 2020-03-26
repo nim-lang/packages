@@ -17132,5 +17132,18 @@
     "description": "OpenAL Utility Toolkit (ALUT)",
     "license": "LGPL-2.1",
     "web": "https://github.com/rmt/alut"
+  },
+  {
+    "name": "rena",
+    "url": "https://github.com/jiro4989/rena",
+    "method": "git",
+    "tags": [
+      "cli",
+      "command",
+      "rename"
+    ],
+    "description": "rena is a tiny fire/directory renaming command.",
+    "license": "MIT",
+    "web": "https://github.com/jiro4989/rena"
   }
 ]
