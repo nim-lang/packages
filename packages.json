@@ -17145,5 +17145,22 @@
     "description": "rena is a tiny fire/directory renaming command.",
     "license": "MIT",
     "web": "https://github.com/jiro4989/rena"
+  },
+  {
+    "name": "libvlc",
+    "url": "https://github.com/Yardanico/nim-libvlc",
+    "method": "git",
+    "tags": [
+      "vlc",
+      "libvlc",
+      "music",
+      "video",
+      "audio",
+      "media",
+      "wrapper"
+    ],
+    "description": "libvlc bindings for Nim",
+    "license": "MIT",
+    "web": "https://github.com/Yardanico/nim-libvlc"
   }
 ]
