@@ -17165,7 +17165,7 @@
   },
   {
     "name": "nimcoon",
-    "url": "https://njoseph.me/gitweb/nimcoon",
+    "url": "https://njoseph.me/gitweb/nimcoon.git",
     "method": "git",
     "tags": [
       "cli",
