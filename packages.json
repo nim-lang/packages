@@ -17162,5 +17162,20 @@
     "description": "libvlc bindings for Nim",
     "license": "MIT",
     "web": "https://github.com/Yardanico/nim-libvlc"
+  },
+  {
+    "name": "nimcoon",
+    "url": "https://njoseph.me/gitweb/nimcoon",
+    "method": "git",
+    "tags": [
+      "cli",
+      "youtube",
+      "streaming",
+      "downloader",
+      "magnet"
+    ],
+    "description": "A command-line YouTube player and more",
+    "license": "GPL-3.0",
+    "web": "https://gitlab.com/njoseph/nimcoon"
   }
 ]
