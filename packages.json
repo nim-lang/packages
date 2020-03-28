@@ -17177,5 +17177,16 @@
     "description": "A command-line YouTube player and more",
     "license": "GPL-3.0",
     "web": "https://gitlab.com/njoseph/nimcoon"
+  },
+  {
+    "name": "nimage",
+    "url": "https://github.com/ethosa/nimage",
+    "method": "git",
+    "tags": [
+      "image"
+    ],
+    "description": "The image management library written in Nim.",
+    "license": "MIT",
+    "web": "https://github.com/ethosa/nimage"
   }
 ]
