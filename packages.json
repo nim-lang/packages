@@ -17188,5 +17188,25 @@
     "description": "The image management library written in Nim.",
     "license": "MIT",
     "web": "https://github.com/ethosa/nimage"
+  },
+  {
+    "name": "adix",
+    "url": "https://github.com/c-blake/adix",
+    "method": "git",
+    "tags": [
+      "library",
+      "dictionary",
+      "hash tables",
+      "data structures",
+      "hash",
+      "compact",
+      "Fenwick tree",
+      "BIST",
+      "binary trees",
+      "B-Tree"
+    ],
+    "description": "An Adaptive Index Library For Nim",
+    "license": "MIT",
+    "web": "https://github.com/c-blake/adix"
   }
 ]
