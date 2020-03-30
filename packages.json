@@ -17208,5 +17208,15 @@
     "description": "An Adaptive Index Library For Nim",
     "license": "MIT",
     "web": "https://github.com/c-blake/adix"
+  },
+  {
+    "name": "origin",
+    "url": "https://github.com/mfiano/origin.nim",
+    "method": "git",
+    "tags": [
+      "math"
+    ],
+    "description": "A graphics math library",
+    "license": "MIT"
   }
 ]
