@@ -17235,6 +17235,6 @@
     ],
     "description": "A graphics math library",
     "license": "MIT",
-    "web": "https://github.com/mfiano/origin"
+    "web": "https://github.com/mfiano/origin.nim"
   }
 ]
