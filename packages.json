@@ -17208,5 +17208,18 @@
     "description": "An Adaptive Index Library For Nim",
     "license": "MIT",
     "web": "https://github.com/c-blake/adix"
+  },
+  {
+    "name": "nimoji",
+    "url": "https://github.com/pietroppeter/nimoji",
+    "method": "git",
+    "tags": [
+      "emoji",
+      "library",
+      "binary"
+    ],
+    "description": "🍕🍺 emoji support for Nim 👑 and the world 🌍",
+    "license": "MIT",
+    "web": "https://github.com/pietroppeter/nimoji"
   }
 ]
