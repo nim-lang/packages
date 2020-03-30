@@ -17221,5 +17221,20 @@
     "description": "🍕🍺 emoji support for Nim 👑 and the world 🌍",
     "license": "MIT",
     "web": "https://github.com/pietroppeter/nimoji"
+  },
+  {
+    "name": "origin",
+    "url": "https://github.com/mfiano/origin.nim",
+    "method": "git",
+    "tags": [
+      "gamedev",
+      "library",
+      "math",
+      "matrix",
+      "vector"
+    ],
+    "description": "A graphics math library",
+    "license": "MIT",
+    "web": "https://github.com/mfiano/origin"
   }
 ]
