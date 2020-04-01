@@ -17236,5 +17236,17 @@
     "description": "A graphics math library",
     "license": "MIT",
     "web": "https://github.com/mfiano/origin.nim"
+  },
+  {
+    "name": "xpm",
+    "url": "https://github.com/juancarlospaco/xpm",
+    "method": "git",
+    "tags": [
+      "netpbm",
+      "xpm"
+    ],
+    "description": "X-Pixmap & NetPBM",
+    "license": "MIT",
+    "web": "https://github.com/juancarlospaco/xpm"
   }
 ]
