@@ -17248,5 +17248,20 @@
     "description": "X-Pixmap & NetPBM",
     "license": "MIT",
     "web": "https://github.com/juancarlospaco/xpm"
+  },
+  {
+    "name": "omnimax",
+    "url": "https://github.com/vitreo12/omnimax",
+    "method": "git",
+    "tags": [
+      "dsl",
+      "dsp",
+      "audio",
+      "sound",
+      "maxmsp"
+    ],
+    "description": "Max wrapper for omni.",
+    "license": "MIT",
+    "web": "https://github.com/vitreo12/omnimax"
   }
 ]
