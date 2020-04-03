@@ -17248,5 +17248,19 @@
     "description": "X-Pixmap & NetPBM",
     "license": "MIT",
     "web": "https://github.com/juancarlospaco/xpm"
+  },
+  {
+    "name": "omni",
+    "url": "https://github.com/vitreo12/omni",
+    "method": "git",
+    "tags": [
+      "dsl",
+      "dsp",
+      "audio",
+      "sound"
+    ],
+    "description": "omni is a DSL for low-level audio programming.",
+    "license": "MIT",
+    "web": "https://github.com/vitreo12/omni"
   }
 ]
