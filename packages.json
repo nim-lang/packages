@@ -17333,5 +17333,16 @@
     "description": "A static site generator written in Nim",
     "license": "2-clause BSD",
     "web": "https://github.com/DangerOnTheRanger/nimatic"
+  },
+  {
+    "name": "ballena_itcher",
+    "url": "https://github.com/juancarlospaco/ballena-itcher",
+    "method": "git",
+    "tags": [
+      "iso"
+    ],
+    "description": "Flash ISO images to SD cards & USB drives, safely and easily.",
+    "license": "MIT",
+    "web": "https://github.com/juancarlospaco/ballena-itcher"
   }
 ]
