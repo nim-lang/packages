@@ -9358,7 +9358,7 @@
   },
   {
     "name": "inim",
-    "url": "https://github.com/AndreiRegiani/INim",
+    "url": "https://github.com/inim-repl/INim",
     "method": "git",
     "tags": [
       "repl",
