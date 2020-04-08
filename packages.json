@@ -17344,5 +17344,18 @@
     "description": "Flash ISO images to SD cards & USB drives, safely and easily.",
     "license": "MIT",
     "web": "https://github.com/juancarlospaco/ballena-itcher"
+  },
+  {
+    "name": "parselicense",
+    "url": "https://github.com/juancarlospaco/parselicense",
+    "method": "git",
+    "tags": [
+      "spdx",
+      "license",
+      "parser"
+    ],
+    "description": "Parse Standard SPDX Licenses from string to Enum",
+    "license": "MIT",
+    "web": "https://github.com/juancarlospaco/parselicense"
   }
 ]
