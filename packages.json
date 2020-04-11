@@ -17357,5 +17357,18 @@
     "description": "Parse Standard SPDX Licenses from string to Enum",
     "license": "MIT",
     "web": "https://github.com/juancarlospaco/parselicense"
+  },
+  {
+    "name": "darwin",
+    "url": "https://github.com/yglukhov/darwin",
+    "method": "git",
+    "tags": [
+      "macos",
+      "ios",
+      "binding"
+    ],
+    "description": "Bindings to MacOS and iOS frameworks",
+    "license": "MIT",
+    "web": "https://github.com/yglukhov/darwin"
   }
 ]
