@@ -17370,5 +17370,17 @@
     "description": "Bindings to MacOS and iOS frameworks",
     "license": "MIT",
     "web": "https://github.com/yglukhov/darwin"
+  },
+  {
+    "name": "choosenimgui",
+    "url": "https://github.com/ThomasTJdev/choosenim_gui",
+    "method": "git",
+    "tags": [
+      "choosenim",
+      "toolchain"
+    ],
+    "description": "A simple GUI for choosenim.",
+    "license": "MIT",
+    "web": "https://github.com/ThomasTJdev/choosenim_gui"
   }
 ]
