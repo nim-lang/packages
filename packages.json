@@ -17382,5 +17382,18 @@
     "description": "A simple GUI for choosenim.",
     "license": "MIT",
     "web": "https://github.com/ThomasTJdev/choosenim_gui"
+  },
+  {
+    "name": "lrucache",
+    "url": "https://github.com/jackhftang/lrucache",
+    "method": "git",
+    "tags": [
+      "cache",
+      "lru",
+      "data structure"
+    ],
+    "description": "Least recently used (LRU) cache",
+    "license": "MIT",
+    "web": "https://github.com/jackhftang/lrucache"
   }
 ]
