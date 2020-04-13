@@ -17396,5 +17396,18 @@
     "description": "A port of HSLuv, a human friendly alternative to HSL.",
     "license": "MIT",
     "web": "https://github.com/isthisnagee/hsluv-nim"
+  },
+  {
+    "name": "lrucache",
+    "url": "https://github.com/jackhftang/lrucache",
+    "method": "git",
+    "tags": [
+      "cache",
+      "lru",
+      "data structure"
+    ],
+    "description": "Least recently used (LRU) cache",
+    "license": "MIT",
+    "web": "https://github.com/jackhftang/lrucache"
   }
 ]
