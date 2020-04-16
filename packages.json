@@ -17409,5 +17409,19 @@
     "description": "Least recently used (LRU) cache",
     "license": "MIT",
     "web": "https://github.com/jackhftang/lrucache"
+  },
+  {
+    "name": "iputils",
+    "url": "https://github.com/rockcavera/nim-iputils",
+    "method": "git",
+    "tags": [
+      "ip",
+      "ipv4",
+      "ipv6",
+      "cidr"
+    ],
+    "description": "Utilities for use with IP. It has functions for IPv4, IPv6 and CIDR.",
+    "license": "MIT",
+    "web": "https://github.com/rockcavera/nim-iputils"
   }
 ]
