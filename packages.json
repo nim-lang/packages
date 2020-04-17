@@ -17423,5 +17423,17 @@
     "description": "Utilities for use with IP. It has functions for IPv4, IPv6 and CIDR.",
     "license": "MIT",
     "web": "https://github.com/rockcavera/nim-iputils"
+  },
+  {
+    "name": "strenc",
+    "url": "https://github.com/Yardanico/nim-strenc",
+    "method": "git",
+    "tags": [
+      "encryption",
+      "obfuscation"
+    ],
+    "description": "A library to automatically encrypt all string constants in your programs",
+    "license": "MIT",
+    "web": "https://github.com/Yardanico/nim-strenc"
   }
 ]
