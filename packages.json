@@ -102,6 +102,18 @@
     "web": "https://github.com/wltsmrz/nimler"
   },
   {
+    "name": "zstd",
+    "url": "https://github.com/wltsmrz/nim_zstd",
+    "method": "git",
+    "tags": [
+      "zstd",
+      "compression"
+    ],
+    "description": "Bindings for zstd",
+    "license": "MIT",
+    "web": "https://github.com/wltsmrz/nim_zstd"
+  },
+  {
     "name": "QuickJS4nim",
     "url": "https://github.com/ImVexed/quickjs4nim",
     "method": "git",
