@@ -17447,5 +17447,20 @@
     "description": "A library to automatically encrypt all string constants in your programs",
     "license": "MIT",
     "web": "https://github.com/Yardanico/nim-strenc"
+  },
+  {
+    "name": "trick",
+    "url": "https://github.com/exelotl/trick",
+    "method": "git",
+    "tags": [
+      "gba",
+      "nds",
+      "nintendo",
+      "image",
+      "conversion"
+    ],
+    "description": "Game Boy Advance image conversion library and more",
+    "license": "zlib",
+    "web": "https://github.com/exelotl/trick"
   }
 ]
