@@ -17461,6 +17461,7 @@
     ],
     "description": "Game Boy Advance image conversion library and more",
     "license": "zlib",
-    "web": "https://github.com/exelotl/trick"
+    "web": "https://github.com/exelotl/trick",
+    "doc": "https://exelotl.github.io/trick/trick.html"
   }
 ]
