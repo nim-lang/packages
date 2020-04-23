@@ -17465,6 +17465,19 @@
     "doc": "https://exelotl.github.io/trick/trick.html"
   },
   {
+    "name": "pdba",
+    "url": "https://github.com/misebox/pdba",
+    "method": "git",
+    "tags": [
+      "db",
+      "library",
+      "wrapper"
+    ],
+    "description": "A postgres DB adapter for nim.",
+    "license": "MIT",
+    "web": "https://github.com/misebox/pdba"
+  },
+  {
     "name": "wAuto",
     "url": "https://github.com/khchen/wAuto",
     "method": "git",
