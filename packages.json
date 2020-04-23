@@ -17465,6 +17465,20 @@
     "doc": "https://exelotl.github.io/trick/trick.html"
   },
   {
+    "name": "nimQBittorrent",
+    "url": "https://github.com/faulander/nimQBittorrent",
+    "method": "git",
+    "tags": [
+      "torrent",
+      "qbittorrent",
+      "api",
+      "wrapper"
+    ],
+    "description": "a wrapper for the QBittorrent WebAPI for NIM.",
+    "license": "MIT",
+    "web": "https://github.com/faulander/nimQBittorrent"
+  },
+  {
     "name": "pdba",
     "url": "https://github.com/misebox/pdba",
     "method": "git",
