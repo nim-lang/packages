@@ -17463,5 +17463,22 @@
     "license": "zlib",
     "web": "https://github.com/exelotl/trick",
     "doc": "https://exelotl.github.io/trick/trick.html"
+  },
+  {
+    "name": "wAuto",
+    "url": "https://github.com/khchen/wAuto",
+    "method": "git",
+    "tags": [
+      "automation",
+      "windows",
+      "keyboard",
+      "mouse",
+      "registry",
+      "process"
+    ],
+    "description": "Windows automation module",
+    "license": "MIT",
+    "web": "https://github.com/khchen/wAuto",
+    "doc": "https://khchen.github.io/wAuto"
   }
 ]
