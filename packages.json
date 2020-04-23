@@ -1391,6 +1391,32 @@
     "web": "https://github.com/PMunch/macroutils"
   },
   {
+    "name": "ansiparse",
+    "url": "https://github.com/PMunch/ansiparse",
+    "method": "git",
+    "tags": [
+      "ansi",
+      "library",
+      "parsing"
+    ],
+    "description": "Library to parse ANSI escape codes",
+    "license": "MIT",
+    "web": "https://github.com/PMunch/ansiparse"
+  },
+  {
+    "name": "ansitohtml",
+    "url": "https://github.com/PMunch/ansitohtml",
+    "method": "git",
+    "tags": [
+      "ansi",
+      "library",
+      "html"
+    ],
+    "description": "Converts ANSI colour codes to HTML span tags with style tags",
+    "license": "MIT",
+    "web": "https://github.com/PMunch/ansitohtml"
+  },
+  {
     "name": "sdl2_nim",
     "url": "https://github.com/Vladar4/sdl2_nim",
     "method": "git",
