@@ -17464,7 +17464,7 @@
     "web": "https://github.com/exelotl/trick",
     "doc": "https://exelotl.github.io/trick/trick.html"
   },
-    {
+  {
     "name": "nimqt",
     "url": "https://github.com/faulander/nimqt",
     "method": "git",
@@ -17472,7 +17472,7 @@
       "torrent",
       "qbittorrent",
       "api",
-      "wrapper",
+      "wrapper"
     ],
     "description": "a wrapper for the QBittorrent WebAPI for NIM.",
     "license": "MIT",
