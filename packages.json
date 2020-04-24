@@ -17507,5 +17507,21 @@
     "license": "MIT",
     "web": "https://github.com/khchen/wAuto",
     "doc": "https://khchen.github.io/wAuto"
+  },
+  {
+    "name": "dimscord",
+    "url": "https:///",
+    "method": "",
+    "tags": [
+      "discord",
+      "api",
+      "library",
+      "rest",
+      "gateway",
+      "client"
+    ],
+    "description": "A Discord Bot & REST Library.",
+    "license": "MIT",
+    "web": "https:///"
   }
 ]
