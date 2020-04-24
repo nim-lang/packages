@@ -17510,7 +17510,7 @@
   },
   {
     "name": "dimscord",
-    "url": "https:///",
+    "url": "https://github.com/krisppurg/dimscord",
     "method": "",
     "tags": [
       "discord",
@@ -17522,6 +17522,6 @@
     ],
     "description": "A Discord Bot & REST Library.",
     "license": "MIT",
-    "web": "https:///"
+    "web": "https://github.com/krisppurg/dimscord"
   }
 ]
