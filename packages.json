@@ -17511,7 +17511,7 @@
   {
     "name": "dimscord",
     "url": "https://github.com/krisppurg/dimscord",
-    "method": "",
+    "method": "git",
     "tags": [
       "discord",
       "api",
