@@ -17535,5 +17535,28 @@
     "description": "til-tool: Today I Learned tool",
     "license": "MIT",
     "web": "https://github.com/danielecook/til-tool"
+  },
+  {
+    "name": "cpuwhat",
+    "url": "https://github.com/awr1/cpuwhat",
+    "method": "git",
+    "tags": [
+      "cpu",
+      "cpuid",
+      "hardware",
+      "intrinsics",
+      "simd",
+      "sse",
+      "avx",
+      "avx2",
+      "x86",
+      "arm",
+      "architecture",
+      "arch",
+      "nim"
+    ],
+    "description": "Nim utilities for advanced CPU operations: CPU identification, bindings to assorted intrinsics",
+    "license": "ISC",
+    "web": "https://github.com/awr1/cpuwhat"
   }
 ]
