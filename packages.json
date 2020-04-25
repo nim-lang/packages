@@ -17558,5 +17558,21 @@
     "description": "Nim utilities for advanced CPU operations: CPU identification, bindings to assorted intrinsics",
     "license": "ISC",
     "web": "https://github.com/awr1/cpuwhat"
+  },
+  {
+    "name": "nimpari",
+    "url": "https://github.com/BarrOff/nim-pari",
+    "method": "git",
+    "tags": [
+      "library",
+      "wrapper",
+      "math",
+      "cas",
+      "scientific",
+      "number-theory"
+    ],
+    "description": "Nim wrapper for the PARI library",
+    "license": "MIT",
+    "web": "https://github.com/BarrOff/nim-pari"
   }
 ]
