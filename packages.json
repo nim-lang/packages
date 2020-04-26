@@ -17576,7 +17576,7 @@
     "web": "https://github.com/BarrOff/nim-pari"
   },
   {
-    "name": "sdl2",
+    "name": "nim_sdl2",
     "url": "https://github.com/jyapayne/nim-sdl2",
     "method": "git",
     "tags": [
