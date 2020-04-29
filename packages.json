@@ -17615,5 +17615,20 @@
     "description": "Useful Variant Type and Powerful Pattern Matching for Nim",
     "license": "MIT",
     "web": "https://github.com/zer0-star/matsuri"
+  },
+  {
+    "name": "clang",
+    "url": "https://github.com/samdmarshall/libclang-nim",
+    "method": "git",
+    "tags": [
+      "llvm",
+      "clang",
+      "libclang",
+      "wrapper",
+      "library"
+    ],
+    "description": "Wrapper for libclang C headers",
+    "license": "BSD 3-Clause",
+    "web": "https://github.com/samdmarshall/libclang-nim"
   }
 ]
