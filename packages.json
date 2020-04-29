@@ -17601,5 +17601,19 @@
     "description": "HTTP Cookies for Nim.",
     "license": "Apache-2.0",
     "web": "https://github.com/planety/cookies"
+  },
+  {
+    "name": "matsuri",
+    "url": "https://github.com/zer0-star/matsuri",
+    "method": "git",
+    "tags": [
+      "library",
+      "variant",
+      "algebraic_data_type",
+      "pattern_matching"
+    ],
+    "description": "Useful Variant Type and Powerful Pattern Matching for Nim",
+    "license": "MIT",
+    "web": "https://github.com/zer0-star/matsuri"
   }
 ]
