@@ -17677,5 +17677,18 @@
     "description": "Wrapper for libclang C headers",
     "license": "BSD 3-Clause",
     "web": "https://github.com/samdmarshall/libclang-nim"
+  },
+  {
+    "name": "NimMarc",
+    "url": "https://github.com/rsirres/NimMarc",
+    "method": "git",
+    "tags": [
+      "marc21",
+      "library",
+      "parser"
+    ],
+    "description": "Marc21 parser for Nimlang",
+    "license": "MIT",
+    "web": "https://github.com/rsirres/NimMarc"
   }
 ]
