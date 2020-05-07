@@ -17729,6 +17729,19 @@
     "web": "https://github.com/jyapayne/nim-glew"
   },
   {
+    "name": "dotprov",
+    "url": "https://github.com/minefuto/dotprov",
+    "method": "git",
+    "tags": [
+      "tool",
+      "binary",
+      "dotfiles"
+    ],
+    "description": "dotfiles provisioning tool",
+    "license": "MIT",
+    "web": "https://github.com/minefuto/dotprov"
+  },
+  {
     "name": "sqliteral",
     "url": "https://github.com/olliNiinivaara/SQLiteral",
     "method": "git",
