@@ -17740,5 +17740,21 @@
     "description": "dotfiles provisioning tool",
     "license": "MIT",
     "web": "https://github.com/minefuto/dotprov"
+  },
+  {
+    "name": "sqliteral",
+    "url": "https://github.com/olliNiinivaara/SQLiteral",
+    "method": "git",
+    "tags": [
+      "multi-threading",
+      "sqlite",
+      "sql",
+      "database",
+      "wal",
+      "api"
+    ],
+    "description": "A high level SQLite API for Nim",
+    "license": "MIT",
+    "web": "https://github.com/olliNiinivaara/SQLiteral"
   }
 ]
