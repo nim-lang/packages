@@ -17756,5 +17756,17 @@
     "description": "A high level SQLite API for Nim",
     "license": "MIT",
     "web": "https://github.com/olliNiinivaara/SQLiteral"
+  },
+  {
+    "name": "timestamp",
+    "url": "https://github.com/jackhftang/timestamp.nim",
+    "method": "git",
+    "tags": [
+      "time",
+      "timestamp"
+    ],
+    "description": "An alternative time library",
+    "license": "MIT",
+    "web": "https://github.com/jackhftang/timestamp.nim"
   }
 ]
