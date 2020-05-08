@@ -17768,5 +17768,16 @@
     "description": "An alternative time library",
     "license": "MIT",
     "web": "https://github.com/jackhftang/timestamp.nim"
+  },
+  {
+    "name": "bstreams",
+    "url": "https://github.com/sealmove/bstreams",
+    "method": "git",
+    "tags": [
+      "library"
+    ],
+    "description": "Bit & byte streams",
+    "license": "MIT",
+    "web": "https://github.com/sealmove/bstreams"
   }
 ]
