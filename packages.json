@@ -17782,5 +17782,17 @@
     "description": "Decimal type support based on the IEEE 754 2008 specification.",
     "license": "MIT",
     "web": "https://github.com/JohnAD/decimal128"
+  },
+  {
+    "name": "datetime_parse",
+    "url": "https://github.com/bung87/datetime_parse",
+    "method": "git",
+    "tags": [
+      "datetime",
+      "parser"
+    ],
+    "description": "parse datetime from various resources",
+    "license": "MIT",
+    "web": "https://github.com/bung87/datetime_parse"
   }
 ]
