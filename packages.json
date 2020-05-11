@@ -1417,6 +1417,19 @@
     "web": "https://github.com/PMunch/ansitohtml"
   },
   {
+    "name": "xevloop",
+    "url": "https://github.com/PMunch/xevloop",
+    "method": "git",
+    "tags": [
+      "x11",
+      "library",
+      "events"
+    ],
+    "description": "Library to more easily create X11 event loops",
+    "license": "MIT",
+    "web": "https://github.com/PMunch/xevloop"
+  },
+  {
     "name": "sdl2_nim",
     "url": "https://github.com/Vladar4/sdl2_nim",
     "method": "git",
