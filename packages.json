@@ -17826,5 +17826,23 @@
     "description": "A browser automation library written in Nim",
     "license": "MIT",
     "web": "https://github.com/halonium/halonium"
+  },
+  {
+    "name": "lz77",
+    "url": "https://github.com/sealmove/LZ77",
+    "method": "git",
+    "tags": [
+      "library",
+      "compress",
+      "decompress",
+      "encode",
+      "decode",
+      "huffman",
+      "mam",
+      "prefetch"
+    ],
+    "description": "Implementation of various LZ77 algorithms",
+    "license": "MIT",
+    "web": "https://github.com/sealmove/LZ77"
   }
 ]
