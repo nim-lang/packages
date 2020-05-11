@@ -13129,15 +13129,19 @@
   },
   {
     "name": "netpipe",
-    "url": "https://github.com/treeform/netpipe/",
+    "alias": "netty"
+  },
+  {
+    "name": "netty",
+    "url": "https://github.com/treeform/netty/",
     "method": "git",
     "tags": [
       "networking",
       "udp"
     ],
-    "description": "Netpipe is a reliable UDP connection for Nim.",
+    "description": "Netty is a reliable UDP connection for games.",
     "license": "MIT",
-    "web": "https://github.com/treeform/netpipe/"
+    "web": "https://github.com/treeform/netty/"
   },
   {
     "name": "fnv",
