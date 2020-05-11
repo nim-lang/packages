@@ -17844,5 +17844,16 @@
     "description": "Implementation of various LZ77 algorithms",
     "license": "MIT",
     "web": "https://github.com/sealmove/LZ77"
+  },
+  {
+    "name": "stalinsort",
+    "url": "https://github.com/Knaque/stalinsort",
+    "method": "git",
+    "tags": [
+      "y"
+    ],
+    "description": "A Nim implementation of the Stalin Sort algorithm.",
+    "license": "CC0-1.0",
+    "web": "https://github.com/Knaque/stalinsort"
   }
 ]
