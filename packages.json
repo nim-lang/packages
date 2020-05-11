@@ -17837,7 +17837,9 @@
       "decompress",
       "encode",
       "decode",
-      "huffman"
+      "huffman",
+      "mam",
+      "prefetch"
     ],
     "description": "Implementation of various LZ77 algorithms",
     "license": "MIT",
