@@ -17833,7 +17833,10 @@
     "method": "git",
     "tags": [
       "library",
-      "compression",
+      "compress",
+      "decompress",
+      "encode",
+      "decode",
       "huffman"
     ],
     "description": "Implementation of various LZ77 algorithms",
