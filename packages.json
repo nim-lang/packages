@@ -17856,5 +17856,19 @@
     "description": "A Nim implementation of the Stalin Sort algorithm.",
     "license": "CC0-1.0",
     "web": "https://github.com/Knaque/stalinsort"
+  },
+  {
+    "name": "finder",
+    "url": "https://github.com/bung87/finder",
+    "method": "git",
+    "tags": [
+      "finder",
+      "fs",
+      "zip",
+      "memory"
+    ],
+    "description": "fs memory zip finder implement in Nim",
+    "license": "MIT",
+    "web": "https://github.com/bung87/finder"
   }
 ]
