@@ -15898,7 +15898,7 @@
   },
   {
     "name": "importc_helpers",
-    "url": "https://github.com/couven92/nim-importc-helpers.git",
+    "url": "https://github.com/fredrikhr/nim-importc-helpers.git",
     "method": "git",
     "tags": [
       "import",
@@ -15907,7 +15907,7 @@
     ],
     "description": "Helpers for supporting and simplifying import of symbols from C into Nim",
     "license": "MIT",
-    "web": "https://github.com/couven92/nim-importc-helpers"
+    "web": "https://github.com/fredrikhr/nim-importc-helpers"
   },
   {
     "name": "taps",
