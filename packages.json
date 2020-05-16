@@ -17870,5 +17870,17 @@
     "description": "fs memory zip finder implement in Nim",
     "license": "MIT",
     "web": "https://github.com/bung87/finder"
+  },
+  {
+    "name": "bio",
+    "url": "https://github.com/xzeshen/bio",
+    "method": "git",
+    "tags": [
+      "streams",
+      "endians"
+    ],
+    "description": "Bytes utils for Nim.",
+    "license": "Apache-2.0",
+    "web": "https://github.com/xzeshen/bio"
   }
 ]
