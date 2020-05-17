@@ -17913,8 +17913,7 @@
     "method": "git",
     "tags": [
       "stream",
-      "buffer",
-      ""
+      "buffer"
     ],
     "description": "buffer",
     "license": "MIT",
