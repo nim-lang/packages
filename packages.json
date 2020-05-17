@@ -17906,5 +17906,18 @@
     "description": "Bytes utils for Nim.",
     "license": "Apache-2.0",
     "web": "https://github.com/xzeshen/bio"
+  },
+  {
+    "name": "buffer",
+    "url": "https://github.com/bung87/buffer",
+    "method": "git",
+    "tags": [
+      "stream",
+      "buffer",
+      ""
+    ],
+    "description": "buffer",
+    "license": "MIT",
+    "web": "https://github.com/bung87/buffer"
   }
 ]
