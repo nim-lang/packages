@@ -20,7 +20,12 @@ before_script:
   - set -x
 
 script:
-  - nim c -d:ssl -r package_scanner.nim && node ./validate_json.js
+  - nim -v
+  - nim js -r validate_json.nim
+  - nim c -d:ssl -r package_scanner.nim
+  - nim -vbad1
+  - nim -vbad2
+  - nim -v
 
 notifications:
   email: false # noisy

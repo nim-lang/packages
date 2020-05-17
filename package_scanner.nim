@@ -57,9 +57,9 @@ proc canFetchNimbleRepository(name: string, urlJson: JsonNode): bool =
 
   if not urlJson.isNil:
     url = urlJson.str
-
+    var client = newHttpClient(timeout=10000)
     try:
-      discard getContent(url, timeout=10000)
+      discard getContent(client, url)
     except HttpRequestError, TimeoutError:
       echo "W: ", name, ": unable to fetch repo ", url, " ",
            getCurrentExceptionMsg()
@@ -129,7 +129,5 @@ proc check(): int =
   echo ""
   echo "Problematic packages count: ", result
 
-
 when isMainModule:
   quit(check())
-
