@@ -17919,5 +17919,19 @@
     "description": "Desktop notifications",
     "license": "MIT",
     "web": "https://github.com/SolitudeSF/notification"
+  },
+  {
+    "name": "eventemitter",
+    "url": "https://github.com/al-bimani/eventemitter",
+    "method": "git",
+    "tags": [
+      "eventemitter",
+      "events",
+      "on",
+      "emit"
+    ],
+    "description": "event emitter for nim",
+    "license": "MIT",
+    "web": "https://github.com/al-bimani/eventemitter"
   }
 ]
