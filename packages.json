@@ -17889,7 +17889,7 @@
     "url": "https://github.com/nim-lang/fusion",
     "method": "git",
     "tags": [
-      "distribution",
+      "distribution"
     ],
     "description": "Nim's official stdlib extension",
     "license": "MIT",
