@@ -21,10 +21,12 @@ before_script:
 
 script:
   - nim -v
-  - nim js -r validate_json.nim
-  - nim c -d:ssl -r package_scanner.nim
+  - nim -v
   - nim -vbad1
   - nim -vbad2
+  - nim -v
+  - nim js -r validate_json.nim
+  - nim c -d:ssl -r package_scanner.nim
   - nim -v
 
 notifications:
