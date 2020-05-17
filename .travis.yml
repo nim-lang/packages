@@ -9,7 +9,7 @@ cache:
     - "$HOME/.choosenim"
 
 install:
-  - export CHOOSENIM_CHOOSE_VERSION="0.18.0"
+  - export CHOOSENIM_CHOOSE_VERSION="1.2.0"
   - |
       curl https://nim-lang.org/choosenim/init.sh -sSf > init.sh
       sh init.sh -y
@@ -22,8 +22,9 @@ before_script:
 script:
   - nim -v
   - nim -v
-  - nim -vbad1
-  - nim -vbad2
+  - nim --aasdf1
+  - nim -v
+  - nim --aasdf2
   - nim -v
   - nim js -r validate_json.nim
   - nim c -d:ssl -r package_scanner.nim
