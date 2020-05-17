@@ -17919,5 +17919,20 @@
     "description": "Desktop notifications",
     "license": "MIT",
     "web": "https://github.com/SolitudeSF/notification"
+  },
+  {
+    "name": "events",
+    "url": "https:///",
+    "method": "",
+    "tags": [
+      "events",
+      "eventemitter",
+      "on",
+      "emit",
+      "once"
+    ],
+    "description": "event emitter for nim",
+    "license": "MIT",
+    "web": "https:///"
   }
 ]
