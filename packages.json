@@ -17945,5 +17945,17 @@
     "description": "event emitter for nim",
     "license": "MIT",
     "web": "https://github.com/al-bimani/eventemitter"
+  },
+  {
+    "name": "camelize",
+    "url": "https://github.com/kixixixixi/camelize",
+    "method": "git",
+    "tags": [
+      "json",
+      "camelcase"
+    ],
+    "description": "Convert json node to camelcase",
+    "license": "MIT",
+    "web": "https://github.com/kixixixixi/camelize"
   }
 ]
