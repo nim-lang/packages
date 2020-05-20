@@ -2906,7 +2906,7 @@
       "fft"
     ],
     "description": "Bindings to the FFTW library",
-    "license": "MIT",
+    "license": "LGPL",
     "web": "https://github.com/Clonkk/nimfftw3"
   },
   {
