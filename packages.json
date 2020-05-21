@@ -17960,7 +17960,7 @@
   },
   {
     "name": "nmi",
-    "url": "ssh://git@github.com/jiro4989/nmi",
+    "url": "https://github.com/jiro4989/nmi",
     "method": "git",
     "tags": [
       "sl",
@@ -17969,6 +17969,6 @@
     ],
     "description": "nmi display animations aimed to correct users who accidentally enter nmi instead of nim.",
     "license": "MIT",
-    "web": "ssh://git@github.com/jiro4989/nmi"
+    "web": "https://github.com/jiro4989/nmi"
   }
 ]
