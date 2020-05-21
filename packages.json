@@ -17957,5 +17957,18 @@
     "description": "Convert json node to camelcase",
     "license": "MIT",
     "web": "https://github.com/kixixixixi/camelize"
+  },
+  {
+    "name": "nmi",
+    "url": "ssh://git@github.com/jiro4989/nmi",
+    "method": "git",
+    "tags": [
+      "sl",
+      "joke",
+      "cli"
+    ],
+    "description": "nmi display animations aimed to correct users who accidentally enter nmi instead of nim.",
+    "license": "MIT",
+    "web": "ssh://git@github.com/jiro4989/nmi"
   }
 ]
