@@ -13375,9 +13375,9 @@
       "BNF",
       "EBNF"
     ],
-    "description": "Lexer Generator and Parser Generator as a library in Nim.",
-    "license": "GPL-3.0",
-    "web": "https://github.com/loloiccl/nimly"
+    "description": "Lexer Generator and Parser Generator as a Macro Library in Nim.",
+    "license": "MIT",
+    "web": "https://github.com/loloicci/nimly"
   },
   {
     "name": "fswatch",
