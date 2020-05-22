@@ -17970,5 +17970,19 @@
     "description": "nmi display animations aimed to correct users who accidentally enter nmi instead of nim.",
     "license": "MIT",
     "web": "https://github.com/jiro4989/nmi"
+  },
+  {
+    "name": "markx",
+    "url": "https://github.com/jiro4989/markx",
+    "method": "git",
+    "tags": [
+      "exec",
+      "command",
+      "cli",
+      "vi"
+    ],
+    "description": "markx selects execution targets with editor and executes commands.",
+    "license": "MIT",
+    "web": "https://github.com/jiro4989/markx"
   }
 ]
