@@ -17970,5 +17970,19 @@
     "description": "nmi display animations aimed to correct users who accidentally enter nmi instead of nim.",
     "license": "MIT",
     "web": "https://github.com/jiro4989/nmi"
+  },
+  {
+    "name": "gradient",
+    "url": "https://github.com/luminosoda/gradient",
+    "method": "git",
+    "tags": [
+      "gradient",
+      "gradients",
+      "color",
+      "colors"
+    ],
+    "description": "Color gradients generation library",
+    "license": "MIT",
+    "web": "https://github.com/luminosoda/gradient"
   }
 ]
