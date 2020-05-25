@@ -17982,5 +17982,20 @@
     "description": "Type-safe commandline parsing with minimal magic",
     "license": "MIT",
     "web": "https://bitbucket.org/maxgrenderjones/therapist"
+  },
+  {
+    "name": "nodesnim",
+    "url": "https://github.com/Ethosa/nodesnim",
+    "method": "git",
+    "tags": [
+      "GUI",
+      "2D",
+      "framework",
+      "OpenGL",
+      "SDL2"
+    ],
+    "description": "The Nim GUI/2D framework based on OpenGL and SDL2.",
+    "license": "MIT",
+    "web": "https://github.com/Ethosa/nodesnim"
   }
 ]
