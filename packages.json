@@ -17972,6 +17972,18 @@
     "web": "https://github.com/jiro4989/nmi"
   },
   {
+    "name": "therapist",
+    "url": "https://bitbucket.org/maxgrenderjones/therapist",
+    "method": "git",
+    "tags": [
+      "argparse",
+      "library"
+    ],
+    "description": "Type-safe commandline parsing with minimal magic",
+    "license": "MIT",
+    "web": "https://bitbucket.org/maxgrenderjones/therapist"
+  },
+  {
     "name": "nodesnim",
     "url": "https://github.com/Ethosa/nodesnim",
     "method": "git",
