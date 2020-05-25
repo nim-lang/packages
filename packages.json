@@ -17984,5 +17984,32 @@
     "description": "markx selects execution targets with editor and executes commands.",
     "license": "MIT",
     "web": "https://github.com/jiro4989/markx"
+  },
+  {
+    "name": "therapist",
+    "url": "https://bitbucket.org/maxgrenderjones/therapist",
+    "method": "git",
+    "tags": [
+      "argparse",
+      "library"
+    ],
+    "description": "Type-safe commandline parsing with minimal magic",
+    "license": "MIT",
+    "web": "https://bitbucket.org/maxgrenderjones/therapist"
+  },
+  {
+    "name": "nodesnim",
+    "url": "https://github.com/Ethosa/nodesnim",
+    "method": "git",
+    "tags": [
+      "GUI",
+      "2D",
+      "framework",
+      "OpenGL",
+      "SDL2"
+    ],
+    "description": "The Nim GUI/2D framework based on OpenGL and SDL2.",
+    "license": "MIT",
+    "web": "https://github.com/Ethosa/nodesnim"
   }
 ]
