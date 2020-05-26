@@ -1,4 +1,5 @@
-[{
+[
+  {
     "name": "filesize",
     "url": "https://github.com/sergiotapia/filesize",
     "method": "git",
@@ -18012,7 +18013,7 @@
     "license": "MIT",
     "web": "https://github.com/Ethosa/nodesnim"
   },
-  {   
+  {
     "name": "telenim",
     "url": "https://github.com/Yardanico/telenim",
     "method": "git",
