@@ -18060,5 +18060,20 @@
     "license": "MIT",
     "web": "https://github.com/jackhftang/threadproxy.nim",
     "doc": "https://jackhftang.github.io/threadproxy.nim/"
+  },
+  {
+    "name": "jesterwithplugins",
+    "url": "https://github.com/JohnAD/jesterwithplugins/",
+    "method": "git",
+    "tags": [
+      "web",
+      "http",
+      "framework",
+      "dsl",
+      "plugins"
+    ],
+    "description": "A sinatra-like web framework for Nim with plugins.",
+    "license": "MIT",
+    "web": "https://github.com/JohnAD/jesterwithplugins/"
   }
 ]
