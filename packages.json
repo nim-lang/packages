@@ -16400,7 +16400,11 @@
   },
   {
     "name": "euphony",
-    "url": "https://github.com/treeform/euphony",
+    "alias": "slappy"
+  },
+  {
+    "name": "slappy",
+    "url": "https://github.com/treeform/slappy",
     "method": "git",
     "tags": [
       "sound",
@@ -16408,7 +16412,7 @@
     ],
     "description": "A 3d sound API for nim.",
     "license": "MIT",
-    "web": "https://github.com/treeform/euphony"
+    "web": "https://github.com/treeform/slappy"
   },
   {
     "name": "steamworks",
@@ -17784,7 +17788,8 @@
     ],
     "description": "An alternative time library",
     "license": "MIT",
-    "web": "https://github.com/jackhftang/timestamp.nim"
+    "web": "https://github.com/jackhftang/timestamp.nim",
+    "doc": "https://jackhftang.github.io/timestamp.nim/"
   },
   {
     "name": "decimal128",
@@ -18011,5 +18016,53 @@
     "description": "The Nim GUI/2D framework based on OpenGL and SDL2.",
     "license": "MIT",
     "web": "https://github.com/Ethosa/nodesnim"
+  },
+  {
+    "name": "telenim",
+    "url": "https://github.com/Yardanico/telenim",
+    "method": "git",
+    "tags": [
+      "telegram",
+      "tdlib",
+      "bot",
+      "api",
+      "async",
+      "client",
+      "userbot",
+      "telenim"
+    ],
+    "description": "A high-level async TDLib wrapper for Nim",
+    "license": "MIT",
+    "web": "https://github.com/Yardanico/telenim"
+  },
+  {
+    "name": "taskqueue",
+    "url": "https://github.com/jackhftang/taskqueue.nim",
+    "method": "git",
+    "tags": [
+      "task",
+      "scheduler",
+      "timer"
+    ],
+    "description": "High precision and high performance task scheduler ",
+    "license": "MIT",
+    "web": "https://github.com/jackhftang/taskqueue.nim",
+    "doc": "https://jackhftang.github.io/taskqueue.nim/"
+  },
+  {
+    "name": "threadproxy",
+    "url": "https://github.com/jackhftang/threadproxy.nim",
+    "method": "git",
+    "tags": [
+      "thread",
+      "ITC",
+      "communication",
+      "multithreading",
+      "threading"
+    ],
+    "description": "Simplify Nim Inter-Thread Communication",
+    "license": "MIT",
+    "web": "https://github.com/jackhftang/threadproxy.nim",
+    "doc": "https://jackhftang.github.io/threadproxy.nim/"
   }
 ]
