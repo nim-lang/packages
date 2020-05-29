@@ -18064,5 +18064,18 @@
     "license": "MIT",
     "web": "https://github.com/jackhftang/threadproxy.nim",
     "doc": "https://jackhftang.github.io/threadproxy.nim/"
+  },
+  {
+    "name": "tam",
+    "url": "https://github.com/SolitudeSF/tam",
+    "method": "git",
+    "tags": [
+      "tome",
+      "addon",
+      "manager"
+    ],
+    "description": "Tales of Maj'Eyal addon manager",
+    "license": "MIT",
+    "web": "https://github.com/SolitudeSF/tam"
   }
 ]
