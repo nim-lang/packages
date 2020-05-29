@@ -7774,7 +7774,7 @@
   },
   {
     "name": "spinny",
-    "url": "https://github.com/molnarmark/spinny",
+    "url": "https://github.com/Yardanico/spinny",
     "method": "git",
     "tags": [
       "terminal",
@@ -7784,7 +7784,7 @@
     ],
     "description": "Spinny is a tiny terminal spinner package for the Nim Programming Language.",
     "license": "MIT",
-    "web": "https://github.com/molnarmark/spinny"
+    "web": "https://github.com/Yardanico/spinny"
   },
   {
     "name": "nigui",
