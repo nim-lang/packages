@@ -16400,7 +16400,11 @@
   },
   {
     "name": "euphony",
-    "url": "https://github.com/treeform/euphony",
+    "alias": "slappy"
+  },
+  {
+    "name": "slappy",
+    "url": "https://github.com/treeform/slappy",
     "method": "git",
     "tags": [
       "sound",
@@ -16408,7 +16412,7 @@
     ],
     "description": "A 3d sound API for nim.",
     "license": "MIT",
-    "web": "https://github.com/treeform/euphony"
+    "web": "https://github.com/treeform/slappy"
   },
   {
     "name": "steamworks",
