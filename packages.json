@@ -18077,5 +18077,19 @@
     "description": "Tales of Maj'Eyal addon manager",
     "license": "MIT",
     "web": "https://github.com/SolitudeSF/tam"
+  },
+  {
+    "name": "webrtcvad",
+    "url": "https://gitlab.com/eagledot/nim-webrtcvad",
+    "method": "git",
+    "tags":[
+      "wrapper",
+      "vad",
+      "voice",
+      "binding"
+    ],
+    "description": "Nim bindings for the WEBRTC VAD(voice actitvity Detection)",
+    "license": "MIT",
+    "web": "https://gitlab.com/eagledot/nim-webrtcvad"
   }
 ]
