@@ -18077,5 +18077,17 @@
     "description": "Tales of Maj'Eyal addon manager",
     "license": "MIT",
     "web": "https://github.com/SolitudeSF/tam"
+  },
+  {
+    "name": "mccache",
+    "url": "https://github.com/abbeymart/mccache",
+    "method": "git",
+    "tags": [
+      "web",
+      "library"
+    ],
+    "description": "mccache package: in-memory caching",
+    "license": "MIT",
+    "web": "https://github.com/abbeymart/mccache"
   }
 ]
