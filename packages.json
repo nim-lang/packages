@@ -18077,5 +18077,20 @@
     "description": "Tales of Maj'Eyal addon manager",
     "license": "MIT",
     "web": "https://github.com/SolitudeSF/tam"
+  },
+  {
+    "name": "mcresponse",
+    "url": "https://github.com/abbeymart/mcresponse",
+    "method": "git",
+    "tags": [
+      "web",
+      "crud",
+      "rest",
+      "api",
+      "response"
+    ],
+    "description": "mConnect Standardised Response Package",
+    "license": "MIT",
+    "web": "https://github.com/abbeymart/mcresponse"
   }
 ]
