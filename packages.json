@@ -18077,5 +18077,19 @@
     "description": "Tales of Maj'Eyal addon manager",
     "license": "MIT",
     "web": "https://github.com/SolitudeSF/tam"
+  },
+  {
+    "name": "gradient",
+    "url": "https://github.com/luminosoda/gradient",
+    "method": "git",
+    "tags": [
+      "gradient",
+      "gradients",
+      "color",
+      "colors"
+    ],
+    "description": "Color gradients generation",
+    "license": "MIT",
+    "web": "https://github.com/luminosoda/gradient"
   }
 ]
