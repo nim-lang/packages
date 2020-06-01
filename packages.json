@@ -18066,6 +18066,89 @@
     "doc": "https://jackhftang.github.io/threadproxy.nim/"
   },
   {
+    "name": "jesterwithplugins",
+    "url": "https://github.com/JohnAD/jesterwithplugins/",
+    "method": "git",
+    "tags": [
+      "web",
+      "http",
+      "framework",
+      "dsl",
+      "plugins"
+    ],
+    "description": "A sinatra-like web framework for Nim with plugins.",
+    "license": "MIT",
+    "web": "https://github.com/JohnAD/jesterwithplugins/"
+  },
+  {
+    "name": "qeu",
+    "url": "https://github.com/hyu1996/qeu",
+    "method": "git",
+    "tags": [
+      "comparison",
+      "3-way comparison",
+      "three-way comparison"
+    ],
+    "description": "Functionality for compare two values",
+    "license": "MIT",
+    "web": "https://github.com/hyu1996/qeu"
+  },
+  {
+    "name": "mccache",
+    "url": "https://github.com/abbeymart/mccache",
+    "method": "git",
+    "tags": [
+      "web",
+      "library"
+    ],
+    "description": "mccache package: in-memory caching",
+    "license": "MIT",
+    "web": "https://github.com/abbeymart/mccache"
+  },
+  {
+    "name": "mcresponse",
+    "url": "https://github.com/abbeymart/mcresponse",
+    "method": "git",
+    "tags": [
+      "web",
+      "crud",
+      "rest",
+      "api",
+      "response"
+    ],
+    "description": "mConnect Standardised Response Package",
+    "license": "MIT",
+    "web": "https://github.com/abbeymart/mcresponse"
+  },
+  {
+    "name": "webrtcvad",
+    "url": "https://gitlab.com/eagledot/nim-webrtcvad",
+    "method": "git",
+    "tags":[
+      "wrapper",
+      "vad",
+      "voice",
+      "binding"
+    ],
+    "description": "Nim bindings for the WEBRTC VAD(voice actitvity Detection)",
+    "license": "MIT",
+    "web": "https://gitlab.com/eagledot/nim-webrtcvad"
+  },
+  {
+    "name": "gradient",
+    "url": "https://github.com/luminosoda/gradient",
+    "method": "git",
+    "tags": [
+      "gradient",
+      "gradients",
+      "color",
+      "colors"
+    ],
+    "description": "Color gradients generation",
+    "license": "MIT",
+    "web": "https://github.com/luminosoda/gradient"
+  },
+  {
     "name": "tam",
     "url": "https://github.com/SolitudeSF/tam",
     "method": "git",
