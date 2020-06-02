@@ -18124,7 +18124,7 @@
     "name": "webrtcvad",
     "url": "https://gitlab.com/eagledot/nim-webrtcvad",
     "method": "git",
-    "tags":[
+    "tags": [
       "wrapper",
       "vad",
       "voice",
@@ -18160,5 +18160,18 @@
     "description": "Tales of Maj'Eyal addon manager",
     "license": "MIT",
     "web": "https://github.com/SolitudeSF/tam"
+  },
+  {
+    "name": "tim_sort",
+    "url": "https://github.com/bung87/tim_sort",
+    "method": "git",
+    "tags": [
+      "tim",
+      "sort",
+      "algorithm"
+    ],
+    "description": "A new awesome nimble package",
+    "license": "MIT",
+    "web": "https://github.com/bung87/tim_sort"
   }
 ]
