@@ -2898,7 +2898,7 @@
   },
   {
     "name": "fftw3",
-    "url": "https://github.com/ziotom78/nimfftw3",
+    "url": "https://github.com/Clonkk/nimfftw3",
     "method": "git",
     "tags": [
       "library",
@@ -2906,8 +2906,8 @@
       "fft"
     ],
     "description": "Bindings to the FFTW library",
-    "license": "MIT",
-    "web": "https://github.com/ziotom78/nimfftw3"
+    "license": "LGPL",
+    "web": "https://github.com/Clonkk/nimfftw3"
   },
   {
     "name": "nrpl",
