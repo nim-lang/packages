@@ -14857,8 +14857,7 @@
     "method": "git",
     "tags": [
       "diff",
-      "simplediff",
-      ""
+      "simplediff"
     ],
     "description": "A library for straightforward diff calculation",
     "license": "GPL-3.0",
