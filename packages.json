@@ -18201,5 +18201,18 @@
     "description": "Hashicorp Vault HTTP Client",
     "license": "MIT",
     "web": "https://github.com/jackhftang/vaultclient.nim"
+  },
+  {
+    "name": "hashlib",
+    "url": "https://github.com/khchen/hashlib",
+    "method": "git",
+    "tags": [
+      "library",
+      "hashes",
+      "hmac"
+    ],
+    "description": "Hash Library for Nim",
+    "license": "MIT",
+    "web": "https://github.com/khchen/hashlib"
   }
 ]
