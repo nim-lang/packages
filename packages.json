@@ -18214,5 +18214,21 @@
     "description": "Hash Library for Nim",
     "license": "MIT",
     "web": "https://github.com/khchen/hashlib"
+  },
+  {
+    "name":"alsa",
+   "url": "https://gitlab.com/eagledot/nim-alsa",
+   "method": "git",
+   "tags":[
+     "linux",
+     "bindings",
+     "audio",
+     "alsa",
+     "sound"
+    ],
+   "description": "NIM bindings for ALSA-LIB c library",
+   "license": "MIT",
+   "web": "https://gitlab.com/eagledot/nim-alsa"
   }
+     
 ]
