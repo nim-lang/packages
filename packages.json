@@ -7658,7 +7658,7 @@
   },
   {
     "name": "pipe",
-    "url": "https://github.com/5paceToast/pipe",
+    "url": "https://github.com/CosmicToast/pipe",
     "method": "git",
     "tags": [
       "pipe",
@@ -7667,8 +7667,8 @@
       "functional"
     ],
     "description": "Pipe operator for nim.",
-    "license": "MIT",
-    "web": "https://github.com/5paceToast/pipe"
+    "license": "Unlicense",
+    "web": "https://github.com/CosmicToast/pipe"
   },
   {
     "name": "flatdb",
