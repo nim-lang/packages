@@ -18216,19 +18216,31 @@
     "web": "https://github.com/khchen/hashlib"
   },
   {
-    "name":"alsa",
-   "url": "https://gitlab.com/eagledot/nim-alsa",
-   "method": "git",
-   "tags":[
-     "linux",
-     "bindings",
-     "audio",
-     "alsa",
-     "sound"
+    "name": "alsa",
+    "url": "https://gitlab.com/eagledot/nim-alsa",
+    "method": "git",
+    "tags": [
+      "linux",
+      "bindings",
+      "audio",
+      "alsa",
+      "sound"
     ],
-   "description": "NIM bindings for ALSA-LIB c library",
-   "license": "MIT",
-   "web": "https://gitlab.com/eagledot/nim-alsa"
+    "description": "NIM bindings for ALSA-LIB c library",
+    "license": "MIT",
+    "web": "https://gitlab.com/eagledot/nim-alsa"
+  },
+  {
+    "name": "vmprotect",
+    "url": "https://github.com/ba0f3/vmprotect.nim",
+    "method": "git",
+    "tags": [
+      "vmprotect",
+      "sdk",
+      "wrapper"
+    ],
+    "description": "Wrapper for VMProtect SDK",
+    "license": "MIT",
+    "web": "https://github.com/ba0f3/vmprotect.nim"
   }
-     
 ]
