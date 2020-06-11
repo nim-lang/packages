@@ -1,22 +1,42 @@
 [
-   { 
+  {
     "name": "whip",
     "url": "https://github.com/mattaylor/whip",
     "method": "git",
-    "tags": [ "http", "server", "httpbeast", "nest", "fast" ],
+    "tags": [
+      "http",
+      "server",
+      "httpbeast",
+      "nest",
+      "fast"
+    ],
     "description": "Whip is high performance web server based on httpbeast and nest for routing with some extra opmtizations.",
     "license": "MIT",
     "web": "https://github.com/mattaylor/whip"
-    }, 
-    { 
+  },
+  {
     "name": "elvis",
     "url": "https://github.com/mattaylor/elvis",
     "method": "git",
-    "tags": [ "operator", "elvis", "ternary", "template", "truthy", "falsy", "exception", "none", "null", "nil", "0", "NaN", "coalesce" ],
+    "tags": [
+      "operator",
+      "elvis",
+      "ternary",
+      "template",
+      "truthy",
+      "falsy",
+      "exception",
+      "none",
+      "null",
+      "nil",
+      "0",
+      "NaN",
+      "coalesce"
+    ],
     "description": "The elvis package implements a 'truthy', 'ternary' and a 'coalesce' operator to Nim as syntactic sugar for working with conditional expressions",
     "license": "MIT",
     "web": "https://github.com/mattaylor/elvis"
-  }, 
+  },
   {
     "name": "filesize",
     "url": "https://github.com/sergiotapia/filesize",
@@ -18260,5 +18280,21 @@
     "description": "Wrapper for VMProtect SDK",
     "license": "MIT",
     "web": "https://github.com/ba0f3/vmprotect.nim"
+  },
+  {
+    "name": "whip",
+    "url": "https://github.com/mattaylor/whip",
+    "method": "git",
+    "tags": [
+      "web",
+      "nest",
+      "httpbeast",
+      "http",
+      "server",
+      "techempower"
+    ],
+    "description": "Fast http server based on httpbeast and nest for high performance routing",
+    "license": "MIT",
+    "web": "https://github.com/mattaylor/whip"
   }
 ]
