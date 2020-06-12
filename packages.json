@@ -18242,5 +18242,18 @@
     "description": "Wrapper for VMProtect SDK",
     "license": "MIT",
     "web": "https://github.com/ba0f3/vmprotect.nim"
+  },
+  {
+    "name": "nimaterial",
+    "url": "https://github.com/momeemt/nimaterial",
+    "method": "git",
+    "tags": [
+      "web",
+      "library",
+      "css"
+    ],
+    "description": "nimaterial is a CSS output library based on material design.",
+    "license": "MIT",
+    "web": "https://github.com/momeemt/nimaterial"
   }
 ]
