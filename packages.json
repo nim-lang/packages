@@ -18242,5 +18242,19 @@
     "description": "Wrapper for VMProtect SDK",
     "license": "MIT",
     "web": "https://github.com/ba0f3/vmprotect.nim"
+  },
+  {
+    "name": "naw",
+    "url": "https://github.com/capocasa/naw",
+    "method": "git",
+    "tags": [
+      "awk",
+      "csv",
+      "report",
+      "markdown"
+    ],
+    "description": "A glue wrapper to do awk-style text processing with Nim",
+    "license": "MIT",
+    "web": "https://github.com/capocasa/naw"
   }
 ]
