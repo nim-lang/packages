@@ -18282,5 +18282,16 @@
     "description": "A wrapper for the graphviz c api.",
     "license": "MIT",
     "web": "https://github.com/Rekihyt/nimviz"
+  },
+  {
+    "name": "gerbil",
+    "url": "https://github.com/jasonprogrammer/gerbil",
+    "method": "git",
+    "tags": [
+      "web"
+    ],
+    "description": "A dynamic website generator",
+    "license": "MIT",
+    "web": "https://getgerbil.com"
   }
 ]
