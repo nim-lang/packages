@@ -18269,5 +18269,18 @@
     "description": "A glue wrapper to do awk-style text processing with Nim",
     "license": "MIT",
     "web": "https://github.com/capocasa/naw"
+  },
+  {
+    "name": "nimviz",
+    "url": "https://github.com/Rekihyt/nimviz",
+    "method": "git",
+    "tags": [
+      "graphviz",
+      "library",
+      "wrapper"
+    ],
+    "description": "A wrapper for the graphviz c api.",
+    "license": "MIT",
+    "web": "https://github.com/Rekihyt/nimviz"
   }
 ]
