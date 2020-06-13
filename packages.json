@@ -18255,5 +18255,19 @@
     "description": "nimaterial is a CSS output library based on material design.",
     "license": "MIT",
     "web": "https://github.com/momeemt/nimaterial"
+  },
+  {
+    "name": "naw",
+    "url": "https://github.com/capocasa/naw",
+    "method": "git",
+    "tags": [
+      "awk",
+      "csv",
+      "report",
+      "markdown"
+    ],
+    "description": "A glue wrapper to do awk-style text processing with Nim",
+    "license": "MIT",
+    "web": "https://github.com/capocasa/naw"
   }
 ]
