@@ -18345,5 +18345,19 @@
     "description": "A wrapper for the graphviz c api.",
     "license": "MIT",
     "web": "https://github.com/Rekihyt/nimviz"
+  },
+  {
+    "name": "deepspeech",
+    "url": "https://gitlab.com/eagledot/nim-deepspeech",
+    "method":  "git",
+    "tags": [
+      "mozilla",
+      "deepspeech",
+      "speech to text",
+      "bindings"
+      ],
+    "description": "Nim bindings for mozilla's DeepSpeech model.",
+    "license": "MIT",
+    "web": "https://gitlab.com/eagledot/nim-deepspeech"
   }
 ]
