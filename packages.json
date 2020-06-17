@@ -18080,6 +18080,69 @@
     "web": "https://github.com/JohnAD/jesterwithplugins/"
   },
   {
+    "name": "jesterjson",
+    "url": "https://github.com/JohnAD/jesterjson",
+    "method": "git",
+    "tags": [
+      "web",
+      "jester",
+      "json",
+      "plugin"
+    ],
+    "description": "A Jester web plugin that embeds key information into a JSON object.",
+    "license": "MIT",
+    "web": "https://github.com/JohnAD/jesterjson"
+  },
+  {
+    "name": "jestercookiemsgs",
+    "url": "https://github.com/JohnAD/jestercookiemsgs",
+    "method": "git",
+    "tags": [
+      "web",
+      "jester",
+      "cookie",
+      "message",
+      "notify",
+      "notification",
+      "plugin"
+    ],
+    "description": "A Jester web plugin that allows easy message passing between pages using a browser cookie.",
+    "license": "MIT",
+    "web": "https://github.com/JohnAD/jestercookiemsgs"
+  },
+  {
+    "name": "jestermongopool",
+    "url": "https://github.com/JohnAD/jestermongopool",
+    "method": "git",
+    "tags": [
+      "web",
+      "jester",
+      "mongodb",
+      "pooled",
+      "plugin"
+    ],
+    "description": "A Jester web plugin that gets a pooled MongoDB connection for each web query.",
+    "license": "MIT",
+    "web": "https://github.com/JohnAD/jestermongopool"
+  },
+  {
+    "name": "jestergeoip",
+    "url": "https://github.com/JohnAD/jestergeoip",
+    "method": "git",
+    "tags": [
+      "web",
+      "jester",
+      "ip",
+      "geo",
+      "geographic",
+      "tracker",
+      "plugin"
+    ],
+    "description": "A Jester web plugin that determines geographic information for each web request via API. Uses sqlite3 for a cache.",
+    "license": "MIT",
+    "web": "https://github.com/JohnAD/jestergeoip"
+  },
+  {
     "name": "qeu",
     "url": "https://github.com/hyu1996/qeu",
     "method": "git",
@@ -18293,5 +18356,19 @@
     "description": "A dynamic website generator",
     "license": "MIT",
     "web": "https://getgerbil.com"
+  },
+  {
+    "name": "deepspeech",
+    "url": "https://gitlab.com/eagledot/nim-deepspeech",
+    "method":  "git",
+    "tags": [
+      "mozilla",
+      "deepspeech",
+      "speech to text",
+      "bindings"
+      ],
+    "description": "Nim bindings for mozilla's DeepSpeech model.",
+    "license": "MIT",
+    "web": "https://gitlab.com/eagledot/nim-deepspeech"
   }
 ]
