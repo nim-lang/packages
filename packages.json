@@ -18349,15 +18349,29 @@
   {
     "name": "deepspeech",
     "url": "https://gitlab.com/eagledot/nim-deepspeech",
-    "method":  "git",
+    "method": "git",
     "tags": [
       "mozilla",
       "deepspeech",
       "speech to text",
       "bindings"
-      ],
+    ],
     "description": "Nim bindings for mozilla's DeepSpeech model.",
     "license": "MIT",
     "web": "https://gitlab.com/eagledot/nim-deepspeech"
+  },
+  {
+    "name": "opusenc",
+    "url": "https://git.sr.ht/~ehmry/nim_opusenc",
+    "method": "git",
+    "tags": [
+      "opus",
+      "audio",
+      "encoder",
+      "bindings"
+    ],
+    "description": "Bindings to libopusenc",
+    "license": "BSD-3-Clause",
+    "web": "https://git.sr.ht/~ehmry/nim_opusenc"
   }
 ]
