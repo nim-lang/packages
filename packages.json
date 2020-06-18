@@ -18373,5 +18373,19 @@
     "description": "Bindings to libopusenc",
     "license": "BSD-3-Clause",
     "web": "https://git.sr.ht/~ehmry/nim_opusenc"
+  },
+  {
+    "name": "nimtetris",
+    "url": "https://github.com/jiro4989/nimtetris",
+    "method": "git",
+    "tags": [
+      "tetris",
+      "terminal",
+      "game",
+      "command"
+    ],
+    "description": "A simple terminal tetris in Nim",
+    "license": "MIT",
+    "web": "https://github.com/jiro4989/nimtetris"
   }
 ]
