@@ -18253,6 +18253,19 @@
     "web": "https://github.com/dizzyliam/inumon"
   },
   {
+    "name": "gerbil",
+    "url": "https://github.com/jasonprogrammer/gerbil",
+    "method": "git",
+    "tags": [
+      "web",
+      "dynamic",
+      "generator"
+    ],
+    "description": "A dynamic website generator",
+    "license": "MIT",
+    "web": "https://getgerbil.com"
+  },
+  {
     "name": "vaultclient",
     "url": "https://github.com/jackhftang/vaultclient.nim",
     "method": "git",
