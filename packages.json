@@ -18414,5 +18414,17 @@
     "description": "Game Boy Advance development library",
     "license": "zlib",
     "web": "https://github.com/exelotl/natu"
+  },
+  {
+    "name": "nim_searches",
+    "url": "https://github.com/nnahito/nim_searched",
+    "method": "git",
+    "tags": [
+      "Search",
+      "algorithm"
+    ],
+    "description": "search algorithms",
+    "license": "MIT",
+    "web": "https://github.com/nnahito/nim_searched"
   }
 ]
