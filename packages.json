@@ -18387,5 +18387,19 @@
     "description": "A simple terminal tetris in Nim",
     "license": "MIT",
     "web": "https://github.com/jiro4989/nimtetris"
+  },
+  {
+    "name": "natu",
+    "url": "https://github.com/exelotl/natu",
+    "method": "git",
+    "tags": [
+      "gba",
+      "nintendo",
+      "homebrew",
+      "game"
+    ],
+    "description": "Game Boy Advance development library",
+    "license": "zlib",
+    "web": "https://github.com/exelotl/natu"
   }
 ]
