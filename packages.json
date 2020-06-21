@@ -18414,5 +18414,18 @@
     "description": "Game Boy Advance development library",
     "license": "zlib",
     "web": "https://github.com/exelotl/natu"
+  },
+  {
+    "name": "mem",
+    "url": "https:///",
+    "method": "",
+    "tags": [
+      "memory",
+      "process",
+      "windows"
+    ],
+    "description": "Simple library to read/write from/to a windows process",
+    "license": "MIT",
+    "web": "https:///"
   }
 ]
