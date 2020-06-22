@@ -18414,5 +18414,16 @@
     "description": "Game Boy Advance development library",
     "license": "zlib",
     "web": "https://github.com/exelotl/natu"
+  },
+  {
+    "name": "fision",
+    "url": "https://github.com/juancarlospaco/fision",
+    "method": "git",
+    "tags": [
+      "libraries"
+    ],
+    "description": "important_packages with 0 dependencies and all unittests passing",
+    "license": "MIT",
+    "web": "https://github.com/juancarlospaco/fision"
   }
 ]
