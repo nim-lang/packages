@@ -18414,5 +18414,19 @@
     "description": "Game Boy Advance development library",
     "license": "zlib",
     "web": "https://github.com/exelotl/natu"
+  },
+  {
+    "name": "iridium",
+    "url": "https://github.com/KingDarBoja/Iridium",
+    "method": "git",
+    "tags": [
+      "iso3166",
+      "nim",
+      "nim-lang",
+      "countries"
+    ],
+    "description": "The International Standard for country codes and codes for their subdivisions on Nim (ISO-3166)",
+    "license": "MIT",
+    "web": "https://github.com/KingDarBoja/Iridium"
   }
 ]
