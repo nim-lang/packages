@@ -18428,5 +18428,16 @@
     "description": "The International Standard for country codes and codes for their subdivisions on Nim (ISO-3166)",
     "license": "MIT",
     "web": "https://github.com/KingDarBoja/Iridium"
+  },
+  {
+    "name": "nim_searches",
+    "url": "https://github.com/nnahito/nim_searched",
+    "method": "git",
+    "tags": [
+      "search"
+    ],
+    "description": "search algorithms",
+    "license": "MIT",
+    "web": "https://github.com/nnahito/nim_searched"
   }
 ]
