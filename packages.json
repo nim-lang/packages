@@ -9740,7 +9740,7 @@
       "pqcrypto",
       "signing"
     ],
-    "description": "SPHINCS⁺ stateless hash-based signature scheme",
+    "description": "SPHINCS\u207A stateless hash-based signature scheme",
     "license": "MIT",
     "web": "https://git.sr.ht/~ehmry/nim_sphincs"
   },
@@ -15825,7 +15825,7 @@
       "data-parallelism",
       "threadpool"
     ],
-    "description": "a state-of-the-art ùultithreading runtime",
+    "description": "a state-of-the-art \u00F9ultithreading runtime",
     "license": "MIT or Apache License 2.0",
     "web": "https://github.com/mratsim/weave"
   },
@@ -16242,7 +16242,7 @@
       "framework",
       "http"
     ],
-    "description": "A web framework inspired by ExpressJS 🐇⚡",
+    "description": "A web framework inspired by ExpressJS \uF407\u26A1",
     "license": "Public Domain",
     "web": "https://github.com/ducdetronquito/phoon"
   },
@@ -17276,7 +17276,7 @@
       "library",
       "binary"
     ],
-    "description": "🍕🍺 emoji support for Nim 👑 and the world 🌍",
+    "description": "\uF355\uF37A emoji support for Nim \uF451 and the world \uF30D",
     "license": "MIT",
     "web": "https://github.com/pietroppeter/nimoji"
   },
@@ -18428,5 +18428,17 @@
     "description": "The International Standard for country codes and codes for their subdivisions on Nim (ISO-3166)",
     "license": "MIT",
     "web": "https://github.com/KingDarBoja/Iridium"
+  },
+  {
+    "name": "nim_searches",
+    "url": "https://github.com/nnahito/nim_searched",
+    "method": "git",
+    "tags": [
+      "search",
+      ""
+    ],
+    "description": "search algorithms",
+    "license": "MIT",
+    "web": "https://github.com/nnahito/nim_searched"
   }
 ]
