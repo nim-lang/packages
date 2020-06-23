@@ -9740,7 +9740,7 @@
       "pqcrypto",
       "signing"
     ],
-    "description": "SPHINCS\u207A stateless hash-based signature scheme",
+    "description": "SPHINCS⁺ stateless hash-based signature scheme",
     "license": "MIT",
     "web": "https://git.sr.ht/~ehmry/nim_sphincs"
   },
@@ -15825,7 +15825,7 @@
       "data-parallelism",
       "threadpool"
     ],
-    "description": "a state-of-the-art \u00F9ultithreading runtime",
+    "description": "a state-of-the-art ùultithreading runtime",
     "license": "MIT or Apache License 2.0",
     "web": "https://github.com/mratsim/weave"
   },
@@ -16242,7 +16242,7 @@
       "framework",
       "http"
     ],
-    "description": "A web framework inspired by ExpressJS \uF407\u26A1",
+    "description": "A web framework inspired by ExpressJS 🐇⚡",
     "license": "Public Domain",
     "web": "https://github.com/ducdetronquito/phoon"
   },
@@ -17276,7 +17276,7 @@
       "library",
       "binary"
     ],
-    "description": "\uF355\uF37A emoji support for Nim \uF451 and the world \uF30D",
+    "description": "🍕🍺 emoji support for Nim 👑 and the world 🌍",
     "license": "MIT",
     "web": "https://github.com/pietroppeter/nimoji"
   },
