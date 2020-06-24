@@ -18451,5 +18451,18 @@
     "description": "nim tasks apply to git hooks",
     "license": "MIT",
     "web": "https://github.com/bung87/stage"
+  },
+  {
+    "name": "flickr_image_bot",
+    "url": "https://github.com/snus-kin/twitter-image-bot",
+    "method": "git",
+    "tags": [
+      "twitter",
+      "twitter-bot",
+      "flickr"
+    ],
+    "description": "Twitter bot for fetching flickr images with tags",
+    "license": "GPL-3.0",
+    "web": "https://github.com/snus-kin/twitter-image-bot"
   }
 ]
