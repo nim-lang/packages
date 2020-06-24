@@ -18464,5 +18464,19 @@
     "description": "Twitter bot for fetching flickr images with tags",
     "license": "GPL-3.0",
     "web": "https://github.com/snus-kin/flickr-image-bot"
+  },
+  {
+    "name": "flatty",
+    "url": "https://github.com/treeform/flatty",
+    "method": "git",
+    "tags": [
+      "binary",
+      "serialize",
+      "marshal",
+      "hash"
+    ],
+    "description": "Serializer and tools for flat binary files.",
+    "license": "MIT",
+    "web": "https://github.com/treeform/flatty"
   }
 ]
