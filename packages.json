@@ -18492,5 +18492,17 @@
     "description": "A safe, high-level, optimized OpenGL wrapper",
     "license": "MIT",
     "web": "https://github.com/liquid600pgm/aglet"
+  },
+  {
+    "name": "nimcmaes",
+    "url": "https://github.com/zevv/nimcmaes",
+    "method": "git",
+    "tags": [
+      "cmaes",
+      "optimization"
+    ],
+    "description": "Nim CMAES library",
+    "license": "Apache-2.0",
+    "web": "https://github.com/zevv/nimcmaes"
   }
 ]
