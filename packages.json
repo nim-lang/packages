@@ -18504,5 +18504,18 @@
     "description": "Nim CMAES library",
     "license": "Apache-2.0",
     "web": "https://github.com/zevv/nimcmaes"
+  },
+  {
+    "name": "soundex",
+    "url": "https:///",
+    "method": "",
+    "tags": [
+      "web",
+      "library",
+      "wrapper"
+    ],
+    "description": "soundex algorithm",
+    "license": "MIT",
+    "web": "https:///"
   }
 ]
