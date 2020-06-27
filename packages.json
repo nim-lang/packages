@@ -18507,14 +18507,14 @@
   },
   {
     "name": "soundex",
-    "url": "https:///",
-    "method": "",
+    "url": "https://github.com/Kashiwara0205/soundex",
+    "method": "git",
     "tags": [
       "library",
       "algorithm"
     ],
     "description": "soundex algorithm",
     "license": "MIT",
-    "web": "https:///"
+    "web": "https://github.com/Kashiwara0205/soundex"
   }
 ]
