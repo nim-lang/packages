@@ -18529,5 +18529,20 @@
     "description": "C macro for Nim.",
     "license": "Apache-2.0",
     "web": "https://github.com/xflywind/nimish"
+  },
+  {
+    "name": "kdb",
+    "url": "https://github.com/inv2004/kdb_nim",
+    "method": "git",
+    "tags": [
+      "kdb",
+      "q",
+      "k",
+      "database",
+      "bindings"
+    ],
+    "description": "Nim structs to work with Kdb in type-safe manner and low-level Nim to Kdb bindings",
+    "license": "Apache-2.0",
+    "web": "https://github.com/inv2004/kdb_nim"
   }
 ]
