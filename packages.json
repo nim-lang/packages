@@ -18529,5 +18529,21 @@
     "description": "C macro for Nim.",
     "license": "Apache-2.0",
     "web": "https://github.com/xflywind/nimish"
+  },
+  {
+    "name": "libnetfilter_queue",
+    "url": "https://github.com/ba0f3/libnetfilter_queue.nim",
+    "method": "git",
+    "tags": [
+      "wrapper",
+      "libnetfilter",
+      "queue",
+      "netfilter",
+      "firewall",
+      "iptables"
+    ],
+    "description": "libnetfilter_queue wrapper for Nim",
+    "license": "MIT",
+    "web": "https://github.com/ba0f3/libnetfilter_queue.nim"
   }
 ]
