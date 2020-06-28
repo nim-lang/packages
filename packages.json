@@ -18516,5 +18516,18 @@
     "description": "soundex algorithm",
     "license": "MIT",
     "web": "https://github.com/Kashiwara0205/soundex"
+  },
+  {
+    "name": "nimish",
+    "url": "https://github.com/xflywind/nimish",
+    "method": "git",
+    "tags": [
+      "macro",
+      "library",
+      "c"
+    ],
+    "description": "C macro for Nim.",
+    "license": "Apache-2.0",
+    "web": "https://github.com/xflywind/nimish"
   }
 ]
