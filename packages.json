@@ -18529,5 +18529,16 @@
     "description": "C macro for Nim.",
     "license": "Apache-2.0",
     "web": "https://github.com/xflywind/nimish"
+  },
+  {
+    "name": "calculator",
+    "url": "https:///",
+    "method": "",
+    "tags": [
+      "calculator"
+    ],
+    "description": "calculator my",
+    "license": "MIT",
+    "web": "https:///"
   }
 ]
