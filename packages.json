@@ -18466,6 +18466,22 @@
     "web": "https://github.com/snus-kin/flickr-image-bot"
   },
   {
+    "name": "libnetfilter_queue",
+    "url": "https://github.com/ba0f3/libnetfilter_queue.nim",
+    "method": "git",
+    "tags": [
+      "wrapper",
+      "libnetfilter",
+      "queue",
+      "netfilter",
+      "firewall",
+      "iptables"
+    ],
+    "description": "libnetfilter_queue wrapper for Nim",
+    "license": "MIT",
+    "web": "https://github.com/ba0f3/libnetfilter_queue.nim"
+  },
+  {
     "name": "flatty",
     "url": "https://github.com/treeform/flatty",
     "method": "git",
@@ -18531,19 +18547,18 @@
     "web": "https://github.com/xflywind/nimish"
   },
   {
-    "name": "libnetfilter_queue",
-    "url": "https://github.com/ba0f3/libnetfilter_queue.nim",
+    "name": "kdb",
+    "url": "https://github.com/inv2004/kdb_nim",
     "method": "git",
     "tags": [
-      "wrapper",
-      "libnetfilter",
-      "queue",
-      "netfilter",
-      "firewall",
-      "iptables"
+      "kdb",
+      "q",
+      "k",
+      "database",
+      "bindings"
     ],
-    "description": "libnetfilter_queue wrapper for Nim",
-    "license": "MIT",
-    "web": "https://github.com/ba0f3/libnetfilter_queue.nim"
+    "description": "Nim structs to work with Kdb in type-safe manner and low-level Nim to Kdb bindings",
+    "license": "Apache-2.0",
+    "web": "https://github.com/inv2004/kdb_nim"
   }
 ]
