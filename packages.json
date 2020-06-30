@@ -18560,5 +18560,19 @@
     "description": "Nim structs to work with Kdb in type-safe manner and low-level Nim to Kdb bindings",
     "license": "Apache-2.0",
     "web": "https://github.com/inv2004/kdb_nim"
+  },
+  {
+    "name": "Unit",
+    "url": "https://github.com/momeemt/Unit",
+    "method": "git",
+    "tags": [
+      "unit",
+      "type",
+      "systemOfUnit",
+      "library"
+    ],
+    "description": "A library that provides unit types in nim",
+    "license": "MIT",
+    "web": "https://github.com/momeemt/Unit"
   }
 ]
