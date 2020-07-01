@@ -18425,5 +18425,163 @@
     "description": "important_packages with 0 dependencies and all unittests passing",
     "license": "MIT",
     "web": "https://github.com/juancarlospaco/fision"
+    "name": "iridium",
+    "url": "https://github.com/KingDarBoja/Iridium",
+    "method": "git",
+    "tags": [
+      "iso3166",
+      "nim",
+      "nim-lang",
+      "countries"
+    ],
+    "description": "The International Standard for country codes and codes for their subdivisions on Nim (ISO-3166)",
+    "license": "MIT",
+    "web": "https://github.com/KingDarBoja/Iridium"
+  },
+  {
+    "name": "nim_searches",
+    "url": "https://github.com/nnahito/nim_searched",
+    "method": "git",
+    "tags": [
+      "search"
+    ],
+    "description": "search algorithms",
+    "license": "MIT",
+    "web": "https://github.com/nnahito/nim_searched"
+  },
+  {
+    "name": "stage",
+    "url": "https://github.com/bung87/stage",
+    "method": "git",
+    "tags": [
+      "git",
+      "hook"
+    ],
+    "description": "nim tasks apply to git hooks",
+    "license": "MIT",
+    "web": "https://github.com/bung87/stage"
+  },
+  {
+    "name": "flickr_image_bot",
+    "url": "https://github.com/snus-kin/flickr-image-bot",
+    "method": "git",
+    "tags": [
+      "twitter",
+      "twitter-bot",
+      "flickr"
+    ],
+    "description": "Twitter bot for fetching flickr images with tags",
+    "license": "GPL-3.0",
+    "web": "https://github.com/snus-kin/flickr-image-bot"
+  },
+  {
+    "name": "libnetfilter_queue",
+    "url": "https://github.com/ba0f3/libnetfilter_queue.nim",
+    "method": "git",
+    "tags": [
+      "wrapper",
+      "libnetfilter",
+      "queue",
+      "netfilter",
+      "firewall",
+      "iptables"
+    ],
+    "description": "libnetfilter_queue wrapper for Nim",
+    "license": "MIT",
+    "web": "https://github.com/ba0f3/libnetfilter_queue.nim"
+  },
+  {
+    "name": "flatty",
+    "url": "https://github.com/treeform/flatty",
+    "method": "git",
+    "tags": [
+      "binary",
+      "serialize",
+      "marshal",
+      "hash"
+    ],
+    "description": "Serializer and tools for flat binary files.",
+    "license": "MIT",
+    "web": "https://github.com/treeform/flatty"
+  },
+  {
+    "name": "aglet",
+    "url": "https://github.com/liquid600pgm/aglet",
+    "method": "git",
+    "tags": [
+      "graphics",
+      "opengl",
+      "wrapper",
+      "safe"
+    ],
+    "description": "A safe, high-level, optimized OpenGL wrapper",
+    "license": "MIT",
+    "web": "https://github.com/liquid600pgm/aglet"
+  },
+  {
+    "name": "nimcmaes",
+    "url": "https://github.com/zevv/nimcmaes",
+    "method": "git",
+    "tags": [
+      "cmaes",
+      "optimization"
+    ],
+    "description": "Nim CMAES library",
+    "license": "Apache-2.0",
+    "web": "https://github.com/zevv/nimcmaes"
+  },
+  {
+    "name": "soundex",
+    "url": "https://github.com/Kashiwara0205/soundex",
+    "method": "git",
+    "tags": [
+      "library",
+      "algorithm"
+    ],
+    "description": "soundex algorithm",
+    "license": "MIT",
+    "web": "https://github.com/Kashiwara0205/soundex"
+  },
+  {
+    "name": "nimish",
+    "url": "https://github.com/xflywind/nimish",
+    "method": "git",
+    "tags": [
+      "macro",
+      "library",
+      "c"
+    ],
+    "description": "C macro for Nim.",
+    "license": "Apache-2.0",
+    "web": "https://github.com/xflywind/nimish"
+  },
+  {
+    "name": "kdb",
+    "url": "https://github.com/inv2004/kdb_nim",
+    "method": "git",
+    "tags": [
+      "kdb",
+      "q",
+      "k",
+      "database",
+      "bindings"
+    ],
+    "description": "Nim structs to work with Kdb in type-safe manner and low-level Nim to Kdb bindings",
+    "license": "Apache-2.0",
+    "web": "https://github.com/inv2004/kdb_nim"
+  },
+  {
+    "name": "Unit",
+    "url": "https://github.com/momeemt/Unit",
+    "method": "git",
+    "tags": [
+      "unit",
+      "type",
+      "systemOfUnit",
+      "library"
+    ],
+    "description": "A library that provides unit types in nim",
+    "license": "MIT",
+    "web": "https://github.com/momeemt/Unit"
   }
 ]
