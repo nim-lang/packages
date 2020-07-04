@@ -6162,19 +6162,6 @@
     "web": "https://notabug.org/vktec/nim-gapbuffer"
   },
   {
-    "name": "pudge",
-    "url": "https://github.com/recoilme/pudge.git",
-    "method": "git",
-    "tags": [
-      "wrapper",
-      "database",
-      "sophia"
-    ],
-    "description": "Pudge Db - it's modern key/value storage with memcached protocol support. Pudge Db implements a high-level cross-platform sockets interface to sophia db.",
-    "license": "MIT",
-    "web": "https://github.com/recoilme/pudge"
-  },
-  {
     "name": "etcd_client",
     "url": "https://github.com/FedericoCeratto/nim-etcd-client",
     "method": "git",
