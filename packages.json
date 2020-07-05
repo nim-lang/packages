@@ -18416,6 +18416,17 @@
     "web": "https://github.com/exelotl/natu"
   },
   {
+    "name": "fision",
+    "url": "https://github.com/juancarlospaco/fision",
+    "method": "git",
+    "tags": [
+      "libraries"
+    ],
+    "description": "important_packages with 0 dependencies and all unittests passing",
+    "license": "MIT",
+    "web": "https://github.com/juancarlospaco/fision"
+  },
+  {
     "name": "iridium",
     "url": "https://github.com/KingDarBoja/Iridium",
     "method": "git",
@@ -18589,5 +18600,32 @@
     "description": "Single-producer, single-consumer, lock-free queue implementations for Nim.",
     "license": "MIT",
     "web": "https://github.com/elijahr/lockfreequeues"
+  },
+  {
+    "name": "shene",
+    "url": "https://github.com/xflywind/shene",
+    "method": "git",
+    "tags": [
+      "interface",
+      "library",
+      "prologue"
+    ],
+    "description": "Interface for Nim.",
+    "license": "Apache-2.0",
+    "web": "https://github.com/xflywind/shene"
+  },
+  {
+    "name": "subnet",
+    "url": "https://github.com/jiro4989/subnet",
+    "method": "git",
+    "tags": [
+      "subnet",
+      "ip",
+      "cli",
+      "command"
+    ],
+    "description": "subnet prints subnet mask in human readable.",
+    "license": "MIT",
+    "web": "https://github.com/jiro4989/subnet"
   }
 ]
