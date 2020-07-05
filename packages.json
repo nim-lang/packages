@@ -18587,5 +18587,19 @@
     "description": "Interface for Nim.",
     "license": "Apache-2.0",
     "web": "https://github.com/xflywind/shene"
+  },
+  {
+    "name": "subnet",
+    "url": "https://github.com/jiro4989/subnet",
+    "method": "git",
+    "tags": [
+      "subnet",
+      "ip",
+      "cli",
+      "command"
+    ],
+    "description": "subnet prints subnet mask in human readable.",
+    "license": "MIT",
+    "web": "https://github.com/jiro4989/subnet"
   }
 ]
