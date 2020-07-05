@@ -18574,6 +18574,21 @@
     "web": "https://github.com/momeemt/Unit"
   },
   {
+    "name": "lockfreequeues",
+    "url": "https://github.com/elijahr/lockfreequeues",
+    "method": "git",
+    "tags": [
+      "queue",
+      "circular-buffer",
+      "ring-buffer",
+      "spsc",
+      "lock-free"
+    ],
+    "description": "Single-producer, single-consumer, lock-free queue implementations for Nim.",
+    "license": "MIT",
+    "web": "https://github.com/elijahr/lockfreequeues"
+  },
+  {
     "name": "shene",
     "url": "https://github.com/xflywind/shene",
     "method": "git",
