@@ -18626,5 +18626,20 @@
     "description": "subnet prints subnet mask in human readable.",
     "license": "MIT",
     "web": "https://github.com/jiro4989/subnet"
+  },
+  {
+    "name": "norx",
+    "url": "https://github.com/gokr/norx",
+    "method": "git",
+    "tags": [
+      "game",
+      "engine",
+      "2d",
+      "library",
+      "wrapper"
+    ],
+    "description": "A wrapper of the ORX 2.5D game engine",
+    "license": "Zlib",
+    "web": "https://github.com/gokr/norx"
   }
 ]
