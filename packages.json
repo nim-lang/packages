@@ -18494,6 +18494,18 @@
     "web": "https://github.com/treeform/flatty"
   },
   {
+    "name": "supersnappy",
+    "url": "https://github.com/guzba/supersnappy",
+    "method": "git",
+    "tags": [
+      "compression",
+      "snappy"
+    ],
+    "description": "Dependency-free and performant Nim Snappy implementation.",
+    "license": "MIT",
+    "web": "https://github.com/guzba/supersnappy"
+  },
+  {
     "name": "aglet",
     "url": "https://github.com/liquid600pgm/aglet",
     "method": "git",
