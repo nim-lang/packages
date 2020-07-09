@@ -18641,5 +18641,20 @@
     "description": "A wrapper of the ORX 2.5D game engine",
     "license": "Zlib",
     "web": "https://github.com/gokr/norx"
+  },
+  {
+    "name": "jeknil",
+    "url": "https://github.com/Knaque/jeknil",
+    "method": "git",
+    "tags": [
+      "web",
+      "binary",
+      "blog",
+      "markdown",
+      "html"
+    ],
+    "description": "A blog post generator for people with priorities.",
+    "license": "CC0-1.0",
+    "web": "https://github.com/Knaque/jeknil"
   }
 ]
