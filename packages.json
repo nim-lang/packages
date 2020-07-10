@@ -18670,5 +18670,18 @@
     "description": "Library for attaching files to emails.",
     "license": "MIT",
     "web": "https://github.com/enthus1ast/nimMime"
+  },
+  {
+    "name": "ecdsa",
+    "url": "https://github.com/adelq/nim-ecdsa",
+    "method": "git",
+    "tags": [
+      "ecdsa",
+      "signature",
+      "crypto"
+    ],
+    "description": "Pure Nim implementation of ECDSA cryptography",
+    "license": "MIT",
+    "web": "https://github.com/adelq/nim-ecdsa"
   }
 ]
