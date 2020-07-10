@@ -18656,5 +18656,19 @@
     "description": "A blog post generator for people with priorities.",
     "license": "CC0-1.0",
     "web": "https://github.com/Knaque/jeknil"
+  },
+  {
+    "name": "nimmime",
+    "url": "https://github.com/enthus1ast/nimMime",
+    "method": "git",
+    "tags": [
+      "mime",
+      "email",
+      "mail",
+      "attachment"
+    ],
+    "description": "Library for attaching files to emails.",
+    "license": "MIT",
+    "web": "https://github.com/enthus1ast/nimMime"
   }
 ]
