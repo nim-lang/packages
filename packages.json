@@ -18684,5 +18684,18 @@
     "description": "A small package to create lindenmayer-systems or l-systems.",
     "license": "MIT",
     "web": "https://github.com/eXodiquas/Echon"
+  },
+  {
+    "name": "nimrcon",
+    "url": "https://github.com/mcilya/nimrcon",
+    "method": "git",
+    "tags": [
+      "rcon",
+      "client",
+      "library"
+    ],
+    "description": "Simple RCON client in Nim lang.",
+    "license": "MIT",
+    "web": "https://github.com/mcilya/nimrcon"
   }
 ]
