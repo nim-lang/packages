@@ -18670,5 +18670,18 @@
     "description": "Library for attaching files to emails.",
     "license": "MIT",
     "web": "https://github.com/enthus1ast/nimMime"
+  },
+  {
+    "name": "nimrcon",
+    "url": "https://github.com/mcilya/nimrcon",
+    "method": "git",
+    "tags": [
+      "rcon",
+      "client",
+      "library"
+    ],
+    "description": "Simple RCON client in Nim lang.",
+    "license": "MIT",
+    "web": "https://github.com/mcilya/nimrcon"
   }
 ]
