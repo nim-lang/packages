@@ -6162,19 +6162,6 @@
     "web": "https://notabug.org/vktec/nim-gapbuffer"
   },
   {
-    "name": "pudge",
-    "url": "https://github.com/recoilme/pudge.git",
-    "method": "git",
-    "tags": [
-      "wrapper",
-      "database",
-      "sophia"
-    ],
-    "description": "Pudge Db - it's modern key/value storage with memcached protocol support. Pudge Db implements a high-level cross-platform sockets interface to sophia db.",
-    "license": "MIT",
-    "web": "https://github.com/recoilme/pudge"
-  },
-  {
     "name": "etcd_client",
     "url": "https://github.com/FedericoCeratto/nim-etcd-client",
     "method": "git",
@@ -18416,6 +18403,17 @@
     "web": "https://github.com/exelotl/natu"
   },
   {
+    "name": "fision",
+    "url": "https://github.com/juancarlospaco/fision",
+    "method": "git",
+    "tags": [
+      "libraries"
+    ],
+    "description": "important_packages with 0 dependencies and all unittests passing",
+    "license": "MIT",
+    "web": "https://github.com/juancarlospaco/fision"
+  },
+  {
     "name": "iridium",
     "url": "https://github.com/KingDarBoja/Iridium",
     "method": "git",
@@ -18496,6 +18494,18 @@
     "web": "https://github.com/treeform/flatty"
   },
   {
+    "name": "supersnappy",
+    "url": "https://github.com/guzba/supersnappy",
+    "method": "git",
+    "tags": [
+      "compression",
+      "snappy"
+    ],
+    "description": "Dependency-free and performant Nim Snappy implementation.",
+    "license": "MIT",
+    "web": "https://github.com/guzba/supersnappy"
+  },
+  {
     "name": "aglet",
     "url": "https://github.com/liquid600pgm/aglet",
     "method": "git",
@@ -18547,6 +18557,17 @@
     "web": "https://github.com/xflywind/nimish"
   },
   {
+    "name": "vds",
+    "url": "https://github.com/doongjohn/VDS",
+    "method": "git",
+    "tags": [
+      "vscode"
+    ],
+    "description": "<VSCode Data Swapper> Easily swap between multiple data folders.",
+    "license": "MIT",
+    "web": "https://github.com/doongjohn/VDS"
+  },
+  {
     "name": "kdb",
     "url": "https://github.com/inv2004/kdb_nim",
     "method": "git",
@@ -18574,6 +18595,119 @@
     "description": "A library that provides unit types in nim",
     "license": "MIT",
     "web": "https://github.com/momeemt/Unit"
+  },
+  {
+    "name": "lockfreequeues",
+    "url": "https://github.com/elijahr/lockfreequeues",
+    "method": "git",
+    "tags": [
+      "queue",
+      "circular-buffer",
+      "ring-buffer",
+      "spsc",
+      "lock-free"
+    ],
+    "description": "Single-producer, single-consumer, lock-free queue implementations for Nim.",
+    "license": "MIT",
+    "web": "https://github.com/elijahr/lockfreequeues"
+  },
+  {
+    "name": "shene",
+    "url": "https://github.com/xflywind/shene",
+    "method": "git",
+    "tags": [
+      "interface",
+      "library",
+      "prologue"
+    ],
+    "description": "Interface for Nim.",
+    "license": "Apache-2.0",
+    "web": "https://github.com/xflywind/shene"
+  },
+  {
+    "name": "subnet",
+    "url": "https://github.com/jiro4989/subnet",
+    "method": "git",
+    "tags": [
+      "subnet",
+      "ip",
+      "cli",
+      "command"
+    ],
+    "description": "subnet prints subnet mask in human readable.",
+    "license": "MIT",
+    "web": "https://github.com/jiro4989/subnet"
+  },
+  {
+    "name": "norx",
+    "url": "https://github.com/gokr/norx",
+    "method": "git",
+    "tags": [
+      "game",
+      "engine",
+      "2d",
+      "library",
+      "wrapper"
+    ],
+    "description": "A wrapper of the ORX 2.5D game engine",
+    "license": "Zlib",
+    "web": "https://github.com/gokr/norx"
+  },
+  {
+    "name": "jeknil",
+    "url": "https://github.com/Knaque/jeknil",
+    "method": "git",
+    "tags": [
+      "web",
+      "binary",
+      "blog",
+      "markdown",
+      "html"
+    ],
+    "description": "A blog post generator for people with priorities.",
+    "license": "CC0-1.0",
+    "web": "https://github.com/Knaque/jeknil"
+  },
+  {
+    "name": "mime",
+    "url": "https://github.com/enthus1ast/nimMime",
+    "method": "git",
+    "tags": [
+      "mime",
+      "email",
+      "mail",
+      "attachment"
+    ],
+    "description": "Library for attaching files to emails.",
+    "license": "MIT",
+    "web": "https://github.com/enthus1ast/nimMime"
+  },
+  {
+    "name": "Echon",
+    "url": "https://github.com/eXodiquas/Echon",
+    "method": "git",
+    "tags": [
+      "generative",
+      "l-system",
+      "fractal",
+      "art"
+    ],
+    "description": "A small package to create lindenmayer-systems or l-systems.",
+    "license": "MIT",
+    "web": "https://github.com/eXodiquas/Echon"
+  },
+  {
+    "name": "nimrcon",
+    "url": "https://github.com/mcilya/nimrcon",
+    "method": "git",
+    "tags": [
+      "rcon",
+      "client",
+      "library"
+    ],
+    "description": "Simple RCON client in Nim lang.",
+    "license": "MIT",
+    "web": "https://github.com/mcilya/nimrcon"
   },
   {
     "name": "zfplugs",
