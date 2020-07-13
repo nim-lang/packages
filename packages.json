@@ -18724,5 +18724,24 @@
     "description": "This is the plugins for the zfcore framework https://github.com/zendbit/nim.zfcore",
     "license": "BSD",
     "web": "https://github.com/zendbit/nim.zfplugs"
+  },
+  {
+    "name": "hldiff",
+    "url": "https://github.com/c-blake/hldiff",
+    "method": "git",
+    "tags": [
+      "difflib",
+      "diff",
+      "terminal",
+      "text",
+      "color",
+      "colors",
+      "colorize",
+      "highlight",
+      "highlighting"
+    ],
+    "description": "A highlighter for diff -u-like output & port of Python difflib",
+    "license": "MIT/ISC",
+    "web": "https://github.com/c-blake/hldiff"
   }
 ]
