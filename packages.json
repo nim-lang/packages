@@ -18743,5 +18743,18 @@
     "description": "A highlighter for diff -u-like output & port of Python difflib",
     "license": "MIT/ISC",
     "web": "https://github.com/c-blake/hldiff"
+  },
+  {
+    "name": "mctranslog",
+    "url": "https://github.com/abbeymart/mctranslog",
+    "method": "git",
+    "tags": [
+      "transaction",
+      "audit",
+      "log"
+    ],
+    "description": "mctranslog - Transaction Log Package",
+    "license": "MIT",
+    "web": "https://github.com/abbeymart/mctranslog"
   }
 ]
