@@ -15558,7 +15558,8 @@
     ],
     "description": "library for scraping google search results",
     "license": "MIT",
-    "web": "https://github.com/xyb/googlesearch.nim"
+    "web": "https://github.com/xyb/googlesearch.nim",
+    "doc": "https://xyb.github.io/googlesearch.nim/"
   },
   {
     "name": "rdgui",
