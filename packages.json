@@ -15447,7 +15447,8 @@
     ],
     "description": "LevelDB bindings",
     "license": "MIT",
-    "web": "https://github.com/zielmicha/leveldb.nim"
+    "web": "https://github.com/zielmicha/leveldb.nim",
+    "doc": "https://zielmicha.github.io/leveldb.nim/"
   },
   {
     "name": "requirementstxt",
