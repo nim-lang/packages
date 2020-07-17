@@ -18757,5 +18757,18 @@
     "description": "mctranslog - Transaction Log Package",
     "license": "MIT",
     "web": "https://github.com/abbeymart/mctranslog"
+  },
+  {
+    "name": "base64_decoder",
+    "url": "https://github.com/momeemt/base64_cui",
+    "method": "git",
+    "tags": [
+      "base64",
+      "cui",
+      "tool"
+    ],
+    "description": "base64 cui",
+    "license": "MIT",
+    "web": "https://github.com/momeemt/base64_cui"
   }
 ]
