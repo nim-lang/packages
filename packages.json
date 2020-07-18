@@ -18770,5 +18770,17 @@
     "description": "base64 cui",
     "license": "MIT",
     "web": "https://github.com/momeemt/base64_cui"
+  },
+  {
+    "name": "nimnews",
+    "url": "https://github.com/mildred/nimnews",
+    "method": "git",
+    "tags": [
+      "nntp",
+      "newsgroups"
+    ],
+    "description": "Immature Newsgroup NNTP server using SQLite as backend",
+    "license": "GPL-3.0",
+    "web": "https://github.com/mildred/nimnews"
   }
 ]
