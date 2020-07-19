@@ -13131,6 +13131,18 @@
     "web": "https://github.com/treeform/netty/"
   },
   {
+    "name": "bitty",
+    "url": "https://github.com/treeform/bitty/",
+    "method": "git",
+    "tags": [
+      "networking",
+      "udp"
+    ],
+    "description": "Utilities with dealing with 1d and 2d bit arrays.",
+    "license": "MIT",
+    "web": "https://github.com/treeform/bitty/"
+  },
+  {
     "name": "fnv",
     "url": "https://gitlab.com/ryukoposting/nim-fnv",
     "method": "git",
