@@ -18783,5 +18783,17 @@
     "description": "Immature Newsgroup NNTP server using SQLite as backend",
     "license": "GPL-3.0",
     "web": "https://github.com/mildred/nimnews"
+  },
+  {
+    "name": "soundex",
+    "url": "https://github.com/ire4ever1190/soundex-nim",
+    "method": "git",
+    "tags": [
+      "algorithm",
+      "hash"
+    ],
+    "description": "Implements soundex hash algorithm",
+    "license": "MIT",
+    "web": "https://github.com/ire4ever1190/soundex-nim"
   }
 ]
