@@ -18795,5 +18795,19 @@
     "description": "Immature Newsgroup NNTP server using SQLite as backend",
     "license": "GPL-3.0",
     "web": "https://github.com/mildred/nimnews"
+  },
+  {
+    "name": "zopflipng",
+    "url": "https://github.com/bung87/zopflipng",
+    "method": "git",
+    "tags": [
+      "image",
+      "processing",
+      "png",
+      "optimization"
+    ],
+    "description": "zopflipng-like png optimization",
+    "license": "MIT",
+    "web": "https://github.com/bung87/zopflipng"
   }
 ]
