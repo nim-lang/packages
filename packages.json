@@ -5075,7 +5075,7 @@
   },
   {
     "name": "twitter",
-    "url": "https://github.com/dchem/twitter.nim",
+    "url": "https://github.com/snus-kin/twitter.nim",
     "method": "git",
     "tags": [
       "library",
@@ -5084,7 +5084,7 @@
     ],
     "description": "Low-level twitter API wrapper library for Nim.",
     "license": "MIT",
-    "web": "https://github.com/dchem/twitter.nim"
+    "web": "https://github.com/snus-kin/twitter.nim"
   },
   {
     "name": "stomp",
