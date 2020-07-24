@@ -18809,5 +18809,20 @@
     "description": "zopflipng-like png optimization",
     "license": "MIT",
     "web": "https://github.com/bung87/zopflipng"
+  },
+  {
+    "name": "ms",
+    "url": "https://github.com/fox-cat/ms",
+    "method": "git",
+    "tags": [
+      "library",
+      "time",
+      "format",
+      "ms"
+    ],
+    "description": "Convert various time formats to milliseconds",
+    "license": "MIT",
+    "web": "https://fox-cat.github.io/ms/",
+    "doc": "https://fox-cat.github.io/ms/"
   }
 ]
