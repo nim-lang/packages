@@ -18824,5 +18824,18 @@
     "license": "MIT",
     "web": "https://fox-cat.github.io/ms/",
     "doc": "https://fox-cat.github.io/ms/"
+  },
+  {
+    "name": "calendar",
+    "url": "https://github.com/adam-mcdaniel/calendar",
+    "method": "git",
+    "tags": [
+      "time",
+      "calendar",
+      "library"
+    ],
+    "description": "A tiny calendar program",
+    "license": "MIT",
+    "web": "https://github.com/adam-mcdaniel/calendar"
   }
 ]
