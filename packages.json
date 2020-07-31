@@ -18837,5 +18837,18 @@
     "description": "A tiny calendar program",
     "license": "MIT",
     "web": "https://github.com/adam-mcdaniel/calendar"
+  },
+  {
+    "name": "hayaa",
+    "url": "https://github.com/angus-lherrou/hayaa",
+    "method": "git",
+    "tags": [
+      "conway",
+      "game",
+      "life"
+    ],
+    "description": "Conway's Game of Life implemented in Nim",
+    "license": "MIT",
+    "web": "https://github.com/angus-lherrou/hayaa"
   }
 ]
