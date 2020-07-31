@@ -18850,5 +18850,18 @@
     "description": "Conway's Game of Life implemented in Nim",
     "license": "MIT",
     "web": "https://github.com/angus-lherrou/hayaa"
+  },
+  {
+    "name": "wepoll",
+    "url": "https://github.com/xflywind/wepoll",
+    "method": "git",
+    "tags": [
+      "epoll",
+      "windows",
+      "wrapper"
+    ],
+    "description": "Windows epoll wrapper.",
+    "license": "MIT",
+    "web": "https://github.com/xflywind/wepoll"
   }
 ]
