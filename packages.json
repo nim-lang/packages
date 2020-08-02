@@ -1,5 +1,5 @@
 [
-   {
+  {
     "name": "numnim",
     "url": "https://github.com/YesDrX/numnim",
     "method": "git",
@@ -18880,5 +18880,17 @@
     "description": "Windows epoll wrapper.",
     "license": "MIT",
     "web": "https://github.com/xflywind/wepoll"
+  },
+  {
+    "name": "nim_midi",
+    "url": "https://github.com/jerous86/nim_midi",
+    "method": "git",
+    "tags": [
+      "midi",
+      "library"
+    ],
+    "description": "Read and write midi files",
+    "license": "MIT",
+    "web": "https://github.com/jerous86/nim_midi"
   }
 ]
