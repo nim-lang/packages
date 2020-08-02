@@ -1,4 +1,21 @@
 [
+   {
+    "name": "numnim",
+    "url": "https://github.com/YesDrX/numnim",
+    "method": "git",
+    "tags": [
+      "numnim",
+      "numpy",
+      "ndarray",
+      "matrix",
+      "pandas",
+      "dataframe"
+    ],
+    "description": "A numpy like ndarray and dataframe library for nim-lang.",
+    "license": "MIT",
+    "web": "https://github.com/YesDrX/numnim",
+    "doc": "https://github.com/YesDrX/numnim"
+  },
   {
     "name": "filesize",
     "url": "https://github.com/sergiotapia/filesize",
