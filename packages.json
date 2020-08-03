@@ -18880,5 +18880,23 @@
     "description": "Windows epoll wrapper.",
     "license": "MIT",
     "web": "https://github.com/xflywind/wepoll"
+  },
+  {
+    "name": "geometryutils",
+    "url": "https://github.com/pseudo-random/geometryutils",
+    "method": "git",
+    "tags": [
+      "library",
+      "geometry",
+      "math",
+      "utilities",
+      "graphics",
+      "rendering",
+      "3d",
+      "2d"
+    ],
+    "description": "A collection of geometry utilities for nim",
+    "license": "MIT",
+    "web": "https://github.com/pseudo-random/geometryutils"
   }
 ]
