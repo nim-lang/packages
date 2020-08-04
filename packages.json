@@ -18926,5 +18926,18 @@
     "description": "A lightweight discrete event simulator",
     "license": "MIT",
     "web": "http://github.com/jayvanderwall/desim"
+  },
+  {
+    "name": "ioselectors",
+    "url": "https://github.com/xflywind/ioselectors",
+    "method": "git",
+    "tags": [
+      "selectors",
+      "epoll",
+      "io"
+    ],
+    "description": "Selectors extension.",
+    "license": "Apache-2.0",
+    "web": "https://github.com/xflywind/ioselectors"
   }
 ]
