@@ -18589,14 +18589,18 @@
   },
   {
     "name": "vds",
-    "url": "https://github.com/doongjohn/VDS",
+    "alias": "vscds",
+  },
+  {
+    "name": "vscds",
+    "url": "https://github.com/doongjohn/vscds",
     "method": "git",
     "tags": [
       "vscode"
     ],
-    "description": "<VSCode Data Swapper> Easily swap between multiple data folders.",
+    "description": "<VS Code Data Swapper> Easily swap between multiple data folders.",
     "license": "MIT",
-    "web": "https://github.com/doongjohn/VDS"
+    "web": "https://github.com/doongjohn/vscds"
   },
   {
     "name": "kdb",
