@@ -18910,5 +18910,21 @@
     "description": "A collection of geometry utilities for nim",
     "license": "MIT",
     "web": "https://github.com/pseudo-random/geometryutils"
+  },
+  {
+    "name": "desim",
+    "url": "http://github.com/jayvanderwall/desim",
+    "method": "git",
+    "tags": [
+      "library",
+      "modeling",
+      "discrete",
+      "event",
+      "simulation",
+      "simulator"
+    ],
+    "description": "A lightweight discrete event simulator",
+    "license": "MIT",
+    "web": "http://github.com/jayvanderwall/desim"
   }
 ]
