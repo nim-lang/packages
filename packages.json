@@ -18943,5 +18943,18 @@
     "description": "Selectors extension.",
     "license": "Apache-2.0",
     "web": "https://github.com/xflywind/ioselectors"
+  },
+  {
+    "name": "nwatchdog",
+    "url": "https://github.com/zendbit/nim.nwatchdog",
+    "method": "git",
+    "tags": [
+      "watchdog",
+      "files",
+      "io"
+    ],
+    "description": "Simple watchdog (watch file changes modified, deleted, created) in nim lang.",
+    "license": "BSD",
+    "web": "https://github.com/zendbit/nim.nwatchdog"
   }
 ]
