@@ -19073,5 +19073,17 @@
     ],
     "description": "Soundfonts for paramidi",
     "license": "Public Domain"
+    "name": "toml_serialization",
+    "url": "https://github.com/status-im/nim-toml-serialization",
+    "method": "git",
+    "tags": [
+      "library",
+      "toml",
+      "serialization",
+      "parser"
+    ],
+    "description": "Flexible TOML serialization [not] relying on run-time type information",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/status-im/nim-toml-serialization"
   }
 ]
