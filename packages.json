@@ -19085,5 +19085,20 @@
     "description": "Flexible TOML serialization [not] relying on run-time type information",
     "license": "Apache License 2.0",
     "web": "https://github.com/status-im/nim-toml-serialization"
+  },
+  {
+    "name": "protobuf_serialization",
+    "url": "https://github.com/status-im/nim-protobuf-serialization",
+    "method": "git",
+    "tags": [
+      "library",
+      "protobuf",
+      "serialization",
+      "proto2",
+      "proto3"
+    ],
+    "description": "Protobuf implementation compatible with the nim-serialization framework.",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/status-im/nim-protobuf-serialization"
   }
 ]
