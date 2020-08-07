@@ -1,5 +1,20 @@
 [
   {
+    "name": "randgen",
+    "url": "https://github.com/YesDrX/randgen",
+    "method": "git",
+    "tags": [
+      "random",
+       "nim",
+       "pdf",
+       "cdf"
+    ],
+    "description": "A random variable generating library for nim.",
+    "license": "MIT",
+    "web": "https://yesdrx.github.io/randgen/",
+    "doc": "https://yesdrx.github.io/randgen/"
+  },
+  {
     "name": "numnim",
     "url": "https://github.com/YesDrX/numnim",
     "method": "git",
