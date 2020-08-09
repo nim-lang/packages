@@ -1,4 +1,17 @@
-[
+[ 
+  {
+    "name": "bitarray",
+    "url": "https://github.com/YesDrX/bitarray",
+    "method": "git",
+    "tags": [
+      "bitarray",
+       "nim"
+    ],
+    "description": "A simple bitarray library for nim.",
+    "license": "MIT",
+    "web": "https://yesdrx.github.io/bitarray/",
+    "doc": "https://yesdrx.github.io/bitarray/"
+  },
   {
     "name": "randgen",
     "url": "https://github.com/YesDrX/randgen",
