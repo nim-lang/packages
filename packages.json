@@ -5,9 +5,9 @@
     "method": "git",
     "tags": [
       "random",
-       "nim",
-       "pdf",
-       "cdf"
+      "nim",
+      "pdf",
+      "cdf"
     ],
     "description": "A random variable generating library for nim.",
     "license": "MIT",
@@ -18984,5 +18984,18 @@
     "description": "Command line tools for Prologue.",
     "license": "Apache-2.0",
     "web": "https://github.com/planety/logue"
+  },
+  {
+    "name": "httpx",
+    "url": "https://github.com/xflywind/httpx",
+    "method": "git",
+    "tags": [
+      "web",
+      "server",
+      "prologue"
+    ],
+    "description": "A super-fast epoll-backed and parallel HTTP server.",
+    "license": "MIT",
+    "web": "https://github.com/xflywind/httpx"
   }
 ]
