@@ -18651,15 +18651,23 @@
     "url": "https://github.com/elijahr/lockfreequeues",
     "method": "git",
     "tags": [
+      "spsc",
+      "mpsc",
+      "mpmc",
       "queue",
+      "lockfree",
+      "lock-free",
+      "waitfree",
+      "wait-free",
+      "circularbuffer",
       "circular-buffer",
       "ring-buffer",
-      "spsc",
-      "lock-free"
+      "ringbuffer"
     ],
-    "description": "Single-producer, single-consumer, lock-free queue implementations for Nim.",
+    "description": "Lock-free queue implementations for Nim.",
     "license": "MIT",
-    "web": "https://github.com/elijahr/lockfreequeues"
+    "web": "https://github.com/elijahr/lockfreequeues",
+    "doc": "https://elijahr.github.io/lockfreequeues/"
   },
   {
     "name": "shene",
