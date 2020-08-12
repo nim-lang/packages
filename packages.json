@@ -19027,5 +19027,38 @@
     "description": "meowhash wrapper for Nim",
     "license": "MIT",
     "web": "https://github.com/disruptek/meow"
+  },
+  {
+    "name": "parasound",
+    "url": "https://github.com/paranim/parasound",
+    "method": "git",
+    "tags": [
+      "audio",
+      "sound"
+    ],
+    "description": "A library for playing audio files",
+    "license": "Public Domain"
+  },
+  {
+    "name": "paramidi",
+    "url": "https://github.com/paranim/paramidi",
+    "method": "git",
+    "tags": [
+      "midi",
+      "synthesizer"
+    ],
+    "description": "A library for making MIDI music",
+    "license": "Public Domain"
+  },
+  {
+    "name": "paramidi_soundfonts",
+    "url": "https://github.com/paranim/paramidi_soundfonts",
+    "method": "git",
+    "tags": [
+      "midi",
+      "soundfonts"
+    ],
+    "description": "Soundfonts for paramidi",
+    "license": "Public Domain"
   }
 ]
