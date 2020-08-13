@@ -19029,6 +19029,19 @@
     "web": "https://github.com/disruptek/meow"
   },
   {
+    "name": "noisy",
+    "url": "https://github.com/guzba/noisy",
+    "method": "git",
+    "tags": [
+      "perlin",
+      "simplex",
+      "noise"
+    ],
+    "description": "Simple noise generation.",
+    "license": "MIT",
+    "web": "https://github.com/guzba/noisy"
+  },
+  {
     "name": "parasound",
     "url": "https://github.com/paranim/parasound",
     "method": "git",
