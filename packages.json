@@ -3,11 +3,16 @@
     "name": "jupyternim",
     "url": "https://github.com/stisa/jupyternim",
     "method": "git",
-    "tags": ["jupyter", "nteract", "ipython", "jupyter-kernel"],
+    "tags": [
+      "jupyter",
+      "nteract",
+      "ipython",
+      "jupyter-kernel"
+    ],
     "description": "A Jupyter kernel for nim.",
     "license": "MIT",
     "web": "https://github.com/stisa/jupyternim/blob/master/README.md",
-    "doc": "https://github.com/stisa/jupyternim"  
+    "doc": "https://github.com/stisa/jupyternim"
   },
   {
     "name": "randgen",
@@ -19073,5 +19078,19 @@
     ],
     "description": "Soundfonts for paramidi",
     "license": "Public Domain"
+  },
+  {
+    "name": "opentrivadb",
+    "url": "https://github.com/ire4ever1190/nim-opentmdb",
+    "method": "git",
+    "tags": [
+      "wrapper",
+      "library",
+      "quiz",
+      "api"
+    ],
+    "description": "Wrapper around the open trivia db api",
+    "license": "MIT",
+    "web": "https://github.com/ire4ever1190/nim-opentmdb"
   }
 ]
