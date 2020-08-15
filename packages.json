@@ -7,7 +7,7 @@
     "description": "A Jupyter kernel for nim.",
     "license": "MIT",
     "web": "https://github.com/stisa/jupyternim/blob/master/README.md",
-    "doc": "https://github.com/stisa/jupyternim"  
+    "doc": "https://github.com/stisa/jupyternim"
   },
   {
     "name": "randgen",
@@ -19073,6 +19073,8 @@
     ],
     "description": "Soundfonts for paramidi",
     "license": "Public Domain"
+  },
+  {
     "name": "toml_serialization",
     "url": "https://github.com/status-im/nim-toml-serialization",
     "method": "git",
