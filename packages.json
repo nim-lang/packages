@@ -19047,6 +19047,18 @@
     "web": "https://github.com/guzba/noisy"
   },
   {
+    "name": "battery_widget",
+    "url": "https://github.com/Cu7ious/nim-battery-widget",
+    "method": "git",
+    "tags": [
+      "rompt-widget",
+      "battery-widget"
+    ],
+    "description": "Battery widget for command prompt. Written in Nim",
+    "license": "GPL-3.0",
+    "web": "https://github.com/Cu7ious/nim-battery-widget"
+  },
+  {
     "name": "parasound",
     "url": "https://github.com/paranim/parasound",
     "method": "git",
