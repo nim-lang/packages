@@ -19122,6 +19122,10 @@
   },
   {
     "name": "opentrivadb",
+    "alias": "opentdb"
+  },
+  {
+    "name": "opentdb",
     "url": "https://github.com/ire4ever1190/nim-opentmdb",
     "method": "git",
     "tags": [
@@ -19132,6 +19136,7 @@
     ],
     "description": "Wrapper around the open trivia db api",
     "license": "MIT",
-    "web": "https://github.com/ire4ever1190/nim-opentmdb"
+    "web": "https://github.com/ire4ever1190/nim-opentmdb",
+    "doc": "https://ire4ever1190.github.io/nim-opentmdb/opentdb.html"
   }
 ]
