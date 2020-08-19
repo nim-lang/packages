@@ -1,5 +1,18 @@
 [
   {
+    "name": "torim",
+    "url": "https://github.com/KittyTechnoProgrammer/torim",
+    "method": "git",
+    "tags": [
+      "tor",
+      "hiddenservice"
+    ],
+    "description": "Updated version of tor.nim from Updated version of tor.nim from https://github.com/FedericoCeratto/nim-tor",
+    "license": "GPL-3.0",
+    "web": "https://github.com/KittyTechnoProgrammer/torim",
+    "doc": "https://github.com/KittyTechnoProgrammer/torim",
+  },
+  {
     "name": "jupyternim",
     "url": "https://github.com/stisa/jupyternim",
     "method": "git",
