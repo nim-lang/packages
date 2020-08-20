@@ -19151,5 +19151,19 @@
     "license": "MIT",
     "web": "https://github.com/ire4ever1190/nim-opentmdb",
     "doc": "https://ire4ever1190.github.io/nim-opentmdb/opentdb.html"
+  },
+  {
+    "name": "hasts",
+    "url": "https://github.com/haxscramper/hasts",
+    "method": "git",
+    "tags": [
+      "wrapper",
+      "graphviz",
+      "html",
+      "latex"
+    ],
+    "description": "AST for various languages",
+    "license": "Apache-2.0",
+    "web": "https://github.com/haxscramper/hasts"
   }
 ]
