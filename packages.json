@@ -19151,5 +19151,20 @@
     "license": "MIT",
     "web": "https://github.com/ire4ever1190/nim-opentmdb",
     "doc": "https://ire4ever1190.github.io/nim-opentmdb/opentdb.html"
+  },
+  {
+    "name": "hparse",
+    "url": "https://github.com/haxscramper/hparse",
+    "method": "git",
+    "tags": [
+      "parser-generator",
+      "parsing",
+      "ebnf-grammar",
+      "ll(*)",
+      "ast"
+    ],
+    "description": "Text parsing utilities",
+    "license": "Apache-2.0",
+    "web": "https://github.com/haxscramper/hparse"
   }
 ]
