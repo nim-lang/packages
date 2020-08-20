@@ -19151,5 +19151,16 @@
     "license": "MIT",
     "web": "https://github.com/ire4ever1190/nim-opentmdb",
     "doc": "https://ire4ever1190.github.io/nim-opentmdb/opentdb.html"
+  },
+  {
+    "name": "hdrawing",
+    "url": "https://github.com/haxscramper/hdrawing",
+    "method": "git",
+    "tags": [
+      "pretty-printing"
+    ],
+    "description": "Simple shape drawing",
+    "license": "Apache-2.0",
+    "web": "https://github.com/haxscramper/hdrawing"
   }
 ]
