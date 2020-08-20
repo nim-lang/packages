@@ -19151,5 +19151,17 @@
     "license": "MIT",
     "web": "https://github.com/ire4ever1190/nim-opentmdb",
     "doc": "https://ire4ever1190.github.io/nim-opentmdb/opentdb.html"
+  },
+  {
+    "name": "hmisc",
+    "url": "https://github.com/haxscramper/hmisc",
+    "method": "git",
+    "tags": [
+      "macro",
+      "template"
+    ],
+    "description": "Collection of helper utilities",
+    "license": "Apache-2.0",
+    "web": "https://github.com/haxscramper/hmisc"
   }
 ]
