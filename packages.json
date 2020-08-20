@@ -19151,5 +19151,21 @@
     "license": "MIT",
     "web": "https://github.com/ire4ever1190/nim-opentmdb",
     "doc": "https://ire4ever1190.github.io/nim-opentmdb/opentdb.html"
+  },
+  {
+    "name": "nimtrs",
+    "url": "https://github.com/haxscramper/nimtrs",
+    "method": "git",
+    "tags": [
+      "term-rewriting",
+      "unification",
+      "pattern-matching",
+      "macro",
+      "ast",
+      "template"
+    ],
+    "description": "Nim term rewriting system",
+    "license": "Apache-2.0",
+    "web": "https://github.com/haxscramper/nimtrs"
   }
 ]
