@@ -1727,14 +1727,14 @@
   },
   {
     "name": "strfmt",
-    "url": "https://bitbucket.org/lyro/strfmt",
-    "method": "hg",
+    "url": "https://github.com/bio-nim/nim-strfmt",
+    "method": "git",
     "tags": [
       "library"
     ],
     "description": "A string formatting library inspired by Python's `format`.",
     "license": "MIT",
-    "web": "https://lyro.bitbucket.org/strfmt"
+    "web": "https://github.com/bio-nim/nim-strfmt"
   },
   {
     "name": "jade-nim",
