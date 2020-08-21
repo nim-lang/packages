@@ -1,5 +1,20 @@
 [
   {
+    "name": "cmark",
+    "url": "https://github.com/zengxs/nim-cmark",
+    "method": "git",
+    "tags": [
+      "library",
+      "wrapper",
+      "cmark",
+      "commonmark",
+      "markdown"
+    ],
+    "description": "libcmark wrapper for Nim",
+    "license": "Apache-2.0",
+    "web": "https://github.com/zengxs/nim-cmark"
+  },
+  {
     "name": "torim",
     "url": "https://github.com/KittyTechnoProgrammer/torim",
     "method": "git",
