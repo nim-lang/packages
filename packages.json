@@ -1,4 +1,18 @@
 [
+    {
+    "name": "psutilim",
+    "url": "https://github.com/KittyTechnoProgrammer/psutilim",
+    "method": "git",
+    "tags": [
+      "psutil",
+      "psutils",
+      "psutilim"
+    ],
+    "description": "Updated version of psutil.nim from psutil.nim from https://github.com/johnscillieri/psutil-nim",
+    "license": "GPL-3.0",
+    "web": "https://github.com/KittyTechnoProgrammer/psutilim",
+    "doc": "https://github.com/KittyTechnoProgrammer/psutilim"
+  },
   {
     "name": "torim",
     "url": "https://github.com/KittyTechnoProgrammer/torim",
