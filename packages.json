@@ -1,4 +1,19 @@
 [
+    {
+    "name": "psutilim",
+    "url": "https://github.com/KittyTechnoProgrammer/psutilim",
+    "method": "git",
+    "tags": [
+      "psutilim",
+      "nim",
+      "psutils",
+      "psutil"
+    ],
+    "description": "Updated psutil module from https://github.com/johnscillieri/psutil-nim",
+    "license": "GPL-3.0",
+    "web": "https://github.com/KittyTechnoProgrammer/psutilim",
+    "doc": "https://github.com/KittyTechnoProgrammer/psutilim"
+  },
   {
     "name": "torim",
     "url": "https://github.com/KittyTechnoProgrammer/torim",
@@ -7,7 +22,7 @@
       "tor",
       "hiddenservice"
     ],
-    "description": "Updated version of tor.nim from Updated version of tor.nim from https://github.com/FedericoCeratto/nim-tor",
+    "description": "Updated version of tor.nim from version of tor.nim from https://github.com/FedericoCeratto/nim-tor",
     "license": "GPL-3.0",
     "web": "https://github.com/KittyTechnoProgrammer/torim",
     "doc": "https://github.com/KittyTechnoProgrammer/torim"
