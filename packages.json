@@ -19151,5 +19151,19 @@
     "license": "MIT",
     "web": "https://github.com/ire4ever1190/nim-opentmdb",
     "doc": "https://ire4ever1190.github.io/nim-opentmdb/opentdb.html"
+  },
+  {
+    "name": "dnsstamps",
+    "url": "https://github.com/alaviss/dnsstamps",
+    "method": "git",
+    "tags": [
+      "dns",
+      "dnscrypt",
+      "dns-over-https",
+      "dns-over-tls"
+    ],
+    "description": "An implementation of DNS server stamps in Nim",
+    "license": "MPL-2.0",
+    "web": "https://github.com/alaviss/dnsstamps"
   }
 ]
