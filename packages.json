@@ -19150,5 +19150,20 @@
     "description": "An implementation of DNS server stamps in Nim",
     "license": "MPL-2.0",
     "web": "https://github.com/alaviss/dnsstamps"
+  },
+  {
+    "name": "async_mysql",
+    "url": "https://github.com/bung87/async_mysql",
+    "method": "git",
+    "tags": [
+      "async",
+      "mysql",
+      "client",
+      "connector",
+      "driver"
+    ],
+    "description": "Async MySQL Connector write in pure Nim.",
+    "license": "MIT",
+    "web": "https://github.com/bung87/async_mysql"
   }
 ]
