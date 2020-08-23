@@ -2543,21 +2543,6 @@
     "web": "https://github.com/def-/nim-brainfuck"
   },
   {
-    "name": "nimsuggest",
-    "url": "https://github.com/nim-lang/nimsuggest.git",
-    "method": "git",
-    "tags": [
-      "binary",
-      "app",
-      "suggest",
-      "compiler",
-      "autocomplete"
-    ],
-    "description": "Tool for providing auto completion data for Nim source code.",
-    "license": "MIT",
-    "web": "https://github.com/nim-lang/nimsuggest"
-  },
-  {
     "name": "jwt",
     "url": "https://github.com/yglukhov/nim-jwt.git",
     "method": "git",
