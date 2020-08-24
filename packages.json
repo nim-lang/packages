@@ -18986,7 +18986,7 @@
     "method": "git",
     "tags": [
       "bitarray",
-       "nim"
+      "nim"
     ],
     "description": "A simple bitarray library for nim.",
     "license": "MIT",
@@ -19313,5 +19313,20 @@
     "description": "An implementation of DNS server stamps in Nim",
     "license": "MPL-2.0",
     "web": "https://github.com/alaviss/dnsstamps"
+  },
+  {
+    "name": "amysql",
+    "url": "https://github.com/bung87/amysql",
+    "method": "git",
+    "tags": [
+      "async",
+      "mysql",
+      "client",
+      "connector",
+      "driver"
+    ],
+    "description": "Async MySQL Connector write in pure Nim.",
+    "license": "MIT",
+    "web": "https://github.com/bung87/amysql"
   }
 ]
