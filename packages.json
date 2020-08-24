@@ -7,7 +7,7 @@
       "tor",
       "hiddenservice"
     ],
-    "description": "Updated version of tor.nim from Updated version of tor.nim from https://github.com/FedericoCeratto/nim-tor",
+    "description": "Updated version of tor.nim from https://github.com/FedericoCeratto/nim-tor",
     "license": "GPL-3.0",
     "web": "https://github.com/KittyTechnoProgrammer/torim",
     "doc": "https://github.com/KittyTechnoProgrammer/torim"
@@ -18966,6 +18966,169 @@
     "description": "A lightweight discrete event simulator",
     "license": "MIT",
     "web": "http://github.com/jayvanderwall/desim"
+  },
+  {
+    "name": "NimpleHTTPServer",
+    "url": "https://github.com/Hydra820/NimpleHTTPServer",
+    "method": "git",
+    "tags": [
+      "Simple",
+      "HTTP",
+      "Server"
+    ],
+    "description": "SimpleHTTPServer module based on net sockets",
+    "license": "HYDRA",
+    "web": "https://github.com/Hydra820/NimpleHTTPServer"
+  },
+  {
+    "name": "nim-bitarray",
+    "url": "https://github.com/YesDrX/bitarray",
+    "method": "git",
+    "tags": [
+      "bitarray",
+       "nim"
+    ],
+    "description": "A simple bitarray library for nim.",
+    "license": "MIT",
+    "web": "https://yesdrx.github.io/bitarray/",
+    "doc": "https://yesdrx.github.io/bitarray/"
+  },
+  {
+    "name": "hmisc",
+    "url": "https://github.com/haxscramper/hmisc",
+    "method": "git",
+    "tags": [
+      "macro",
+      "template"
+    ],
+    "description": "Collection of helper utilities",
+    "license": "Apache-2.0",
+    "web": "https://github.com/haxscramper/hmisc"
+  },
+  {
+    "name": "SMBExec",
+    "url": "https://github.com/elddy/SMB-Nim",
+    "method": "git",
+    "tags": [
+      "SMB",
+      "Pass-The-Hash",
+      "NTLM",
+      "Windows"
+    ],
+    "description": "Nim-SMBExec - SMBExec implementation in Nim",
+    "license": "GPL-3.0",
+    "web": "https://github.com/elddy/SMB-Nim"
+  },
+  {
+    "name": "nimtrs",
+    "url": "https://github.com/haxscramper/nimtrs",
+    "method": "git",
+    "tags": [
+      "term-rewriting",
+      "unification",
+      "pattern-matching",
+      "macro",
+      "ast",
+      "template"
+    ],
+    "description": "Nim term rewriting system",
+    "license": "Apache-2.0",
+    "web": "https://github.com/haxscramper/nimtrs"
+  },
+  {
+    "name": "hparse",
+    "url": "https://github.com/haxscramper/hparse",
+    "method": "git",
+    "tags": [
+      "parser-generator",
+      "parsing",
+      "ebnf-grammar",
+      "ll(*)",
+      "ast"
+    ],
+    "description": "Text parsing utilities",
+    "license": "Apache-2.0",
+    "web": "https://github.com/haxscramper/hparse"
+  },
+  {
+    "name": "hpprint",
+    "url": "https://github.com/haxscramper/hpprint",
+    "method": "git",
+    "tags": [
+      "pretty-printing"
+    ],
+    "description": "Pretty-printer",
+    "license": "Apache-2.0",
+    "web": "https://github.com/haxscramper/hpprint"
+  },
+  {
+    "name": "hasts",
+    "url": "https://github.com/haxscramper/hasts",
+    "method": "git",
+    "tags": [
+      "wrapper",
+      "graphviz",
+      "html",
+      "latex"
+    ],
+    "description": "AST for various languages",
+    "license": "Apache-2.0",
+    "web": "https://github.com/haxscramper/hasts"
+  },
+  {
+    "name": "hdrawing",
+    "url": "https://github.com/haxscramper/hdrawing",
+    "method": "git",
+    "tags": [
+      "pretty-printing"
+    ],
+    "description": "Simple shape drawing",
+    "license": "Apache-2.0",
+    "web": "https://github.com/haxscramper/hdrawing"
+  },
+  {
+    "name": "ngspice",
+    "url": "https://github.com/haxscramper/ngspice",
+    "method": "git",
+    "tags": [
+      "analog-circuit",
+      "circuit",
+      "simulation",
+      "ngspice"
+    ],
+    "description": "Analog electronic circuit simiulator library",
+    "license": "Apache-2.0",
+    "web": "https://github.com/haxscramper/ngspice"
+  },
+  {
+    "name": "cmark",
+    "url": "https://github.com/zengxs/nim-cmark",
+    "method": "git",
+    "tags": [
+      "library",
+      "wrapper",
+      "cmark",
+      "commonmark",
+      "markdown"
+    ],
+    "description": "libcmark wrapper for Nim",
+    "license": "Apache-2.0",
+    "web": "https://github.com/zengxs/nim-cmark"
+  },
+  {
+    "name": "psutilim",
+    "url": "https://github.com/KittyTechnoProgrammer/psutilim",
+    "method": "git",
+    "tags": [
+      "psutilim",
+      "nim",
+      "psutils",
+      "psutil"
+    ],
+    "description": "Updated psutil module from https://github.com/johnscillieri/psutil-nim",
+    "license": "GPL-3.0",
+    "web": "https://github.com/KittyTechnoProgrammer/psutilim",
+    "doc": "https://github.com/KittyTechnoProgrammer/psutilim"
   },
   {
     "name": "ioselectors",
