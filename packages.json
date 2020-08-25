@@ -19315,5 +19315,19 @@
     "description": "Async MySQL Connector write in pure Nim.",
     "license": "MIT",
     "web": "https://github.com/bung87/amysql"
+  },
+  {
+    "name": "pathname",
+    "url": "https://github.com/RaimundHuebel/nimpathname",
+    "method": "git",
+    "tags": [
+      "library",
+      "pathname",
+      "file_utils",
+      "filesystem"
+    ],
+    "description": "Library to support work with pathnames in Windows and Posix-based systems. Inspired by Rubies pathname.",
+    "license": "MIT",
+    "web": "https://github.com/RaimundHuebel/nimpathname"
   }
 ]
