@@ -19342,5 +19342,18 @@
     "description": "Ratio calculator on your terminal",
     "license": "MIT",
     "web": "https://github.com/rafmst/miter"
+  },
+  {
+    "name": "jq",
+    "url": "https://github.com/alialrahahleh/fjq",
+    "method": "git",
+    "tags": [
+      "json",
+      "bin",
+      "parser"
+    ],
+    "description": "Fast JSON parser",
+    "license": "BSD-3-Clause",
+    "web": "https://github.com/alialrahahleh/fjq"
   }
 ]
