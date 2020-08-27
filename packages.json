@@ -1,5 +1,18 @@
 [
   {
+    "name": "torim",
+    "url": "https://github.com/KittyTechnoProgrammer/torim",
+    "method": "git",
+    "tags": [
+      "tor",
+      "hiddenservice"
+    ],
+    "description": "Updated version of tor.nim from https://github.com/FedericoCeratto/nim-tor",
+    "license": "GPL-3.0",
+    "web": "https://github.com/KittyTechnoProgrammer/torim",
+    "doc": "https://github.com/KittyTechnoProgrammer/torim"
+  },
+  {
     "name": "jupyternim",
     "url": "https://github.com/stisa/jupyternim",
     "method": "git",
@@ -1714,14 +1727,14 @@
   },
   {
     "name": "strfmt",
-    "url": "https://bitbucket.org/lyro/strfmt",
-    "method": "hg",
+    "url": "https://github.com/bio-nim/nim-strfmt",
+    "method": "git",
     "tags": [
       "library"
     ],
     "description": "A string formatting library inspired by Python's `format`.",
     "license": "MIT",
-    "web": "https://lyro.bitbucket.org/strfmt"
+    "web": "https://github.com/bio-nim/nim-strfmt"
   },
   {
     "name": "jade-nim",
@@ -2528,21 +2541,6 @@
     "description": "A brainfuck interpreter and compiler",
     "license": "MIT",
     "web": "https://github.com/def-/nim-brainfuck"
-  },
-  {
-    "name": "nimsuggest",
-    "url": "https://github.com/nim-lang/nimsuggest.git",
-    "method": "git",
-    "tags": [
-      "binary",
-      "app",
-      "suggest",
-      "compiler",
-      "autocomplete"
-    ],
-    "description": "Tool for providing auto completion data for Nim source code.",
-    "license": "MIT",
-    "web": "https://github.com/nim-lang/nimsuggest"
   },
   {
     "name": "jwt",
@@ -18970,6 +18968,156 @@
     "web": "http://github.com/jayvanderwall/desim"
   },
   {
+    "name": "NimpleHTTPServer",
+    "url": "https://github.com/Hydra820/NimpleHTTPServer",
+    "method": "git",
+    "tags": [
+      "Simple",
+      "HTTP",
+      "Server"
+    ],
+    "description": "SimpleHTTPServer module based on net sockets",
+    "license": "HYDRA",
+    "web": "https://github.com/Hydra820/NimpleHTTPServer"
+  },
+  {
+    "name": "hmisc",
+    "url": "https://github.com/haxscramper/hmisc",
+    "method": "git",
+    "tags": [
+      "macro",
+      "template"
+    ],
+    "description": "Collection of helper utilities",
+    "license": "Apache-2.0",
+    "web": "https://github.com/haxscramper/hmisc"
+  },
+  {
+    "name": "SMBExec",
+    "url": "https://github.com/elddy/SMB-Nim",
+    "method": "git",
+    "tags": [
+      "SMB",
+      "Pass-The-Hash",
+      "NTLM",
+      "Windows"
+    ],
+    "description": "Nim-SMBExec - SMBExec implementation in Nim",
+    "license": "GPL-3.0",
+    "web": "https://github.com/elddy/SMB-Nim"
+  },
+  {
+    "name": "nimtrs",
+    "url": "https://github.com/haxscramper/nimtrs",
+    "method": "git",
+    "tags": [
+      "term-rewriting",
+      "unification",
+      "pattern-matching",
+      "macro",
+      "ast",
+      "template"
+    ],
+    "description": "Nim term rewriting system",
+    "license": "Apache-2.0",
+    "web": "https://github.com/haxscramper/nimtrs"
+  },
+  {
+    "name": "hparse",
+    "url": "https://github.com/haxscramper/hparse",
+    "method": "git",
+    "tags": [
+      "parser-generator",
+      "parsing",
+      "ebnf-grammar",
+      "ll(*)",
+      "ast"
+    ],
+    "description": "Text parsing utilities",
+    "license": "Apache-2.0",
+    "web": "https://github.com/haxscramper/hparse"
+  },
+  {
+    "name": "hpprint",
+    "url": "https://github.com/haxscramper/hpprint",
+    "method": "git",
+    "tags": [
+      "pretty-printing"
+    ],
+    "description": "Pretty-printer",
+    "license": "Apache-2.0",
+    "web": "https://github.com/haxscramper/hpprint"
+  },
+  {
+    "name": "hasts",
+    "url": "https://github.com/haxscramper/hasts",
+    "method": "git",
+    "tags": [
+      "wrapper",
+      "graphviz",
+      "html",
+      "latex"
+    ],
+    "description": "AST for various languages",
+    "license": "Apache-2.0",
+    "web": "https://github.com/haxscramper/hasts"
+  },
+  {
+    "name": "hdrawing",
+    "url": "https://github.com/haxscramper/hdrawing",
+    "method": "git",
+    "tags": [
+      "pretty-printing"
+    ],
+    "description": "Simple shape drawing",
+    "license": "Apache-2.0",
+    "web": "https://github.com/haxscramper/hdrawing"
+  },
+  {
+    "name": "ngspice",
+    "url": "https://github.com/haxscramper/ngspice",
+    "method": "git",
+    "tags": [
+      "analog-circuit",
+      "circuit",
+      "simulation",
+      "ngspice"
+    ],
+    "description": "Analog electronic circuit simiulator library",
+    "license": "Apache-2.0",
+    "web": "https://github.com/haxscramper/ngspice"
+  },
+  {
+    "name": "cmark",
+    "url": "https://github.com/zengxs/nim-cmark",
+    "method": "git",
+    "tags": [
+      "library",
+      "wrapper",
+      "cmark",
+      "commonmark",
+      "markdown"
+    ],
+    "description": "libcmark wrapper for Nim",
+    "license": "Apache-2.0",
+    "web": "https://github.com/zengxs/nim-cmark"
+  },
+  {
+    "name": "psutilim",
+    "url": "https://github.com/KittyTechnoProgrammer/psutilim",
+    "method": "git",
+    "tags": [
+      "psutilim",
+      "nim",
+      "psutils",
+      "psutil"
+    ],
+    "description": "Updated psutil module from https://github.com/johnscillieri/psutil-nim",
+    "license": "GPL-3.0",
+    "web": "https://github.com/KittyTechnoProgrammer/psutilim",
+    "doc": "https://github.com/KittyTechnoProgrammer/psutilim"
+  },
+  {
     "name": "ioselectors",
     "url": "https://github.com/xflywind/ioselectors",
     "method": "git",
@@ -19138,5 +19286,74 @@
     "license": "MIT",
     "web": "https://github.com/ire4ever1190/nim-opentmdb",
     "doc": "https://ire4ever1190.github.io/nim-opentmdb/opentdb.html"
+  },
+  {
+    "name": "dnsstamps",
+    "url": "https://github.com/alaviss/dnsstamps",
+    "method": "git",
+    "tags": [
+      "dns",
+      "dnscrypt",
+      "dns-over-https",
+      "dns-over-tls"
+    ],
+    "description": "An implementation of DNS server stamps in Nim",
+    "license": "MPL-2.0",
+    "web": "https://github.com/alaviss/dnsstamps"
+  },
+  {
+    "name": "amysql",
+    "url": "https://github.com/bung87/amysql",
+    "method": "git",
+    "tags": [
+      "async",
+      "mysql",
+      "client",
+      "connector",
+      "driver"
+    ],
+    "description": "Async MySQL Connector write in pure Nim.",
+    "license": "MIT",
+    "web": "https://github.com/bung87/amysql"
+  },
+  {
+    "name": "pathname",
+    "url": "https://github.com/RaimundHuebel/nimpathname",
+    "method": "git",
+    "tags": [
+      "library",
+      "pathname",
+      "file_utils",
+      "filesystem"
+    ],
+    "description": "Library to support work with pathnames in Windows and Posix-based systems. Inspired by Rubies pathname.",
+    "license": "MIT",
+    "web": "https://github.com/RaimundHuebel/nimpathname"
+  },
+  {
+    "name": "miter",
+    "url": "https://github.com/rafmst/miter",
+    "method": "git",
+    "tags": [
+      "binary",
+      "tool",
+      "cli"
+    ],
+    "description": "Ratio calculator on your terminal",
+    "license": "MIT",
+    "web": "https://github.com/rafmst/miter"
+  },
+  {
+    "name": "jq",
+    "url": "https://github.com/alialrahahleh/fjq",
+    "method": "git",
+    "tags": [
+      "json",
+      "bin",
+      "parser"
+    ],
+    "description": "Fast JSON parser",
+    "license": "BSD-3-Clause",
+    "web": "https://github.com/alialrahahleh/fjq"
   }
 ]
