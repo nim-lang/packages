@@ -1,6 +1,7 @@
 [ 
   {
     "name": "nimbitarray",
+    "name": "nim-bitarray",
     "url": "https://github.com/YesDrX/bitarray",
     "method": "git",
     "tags": [
