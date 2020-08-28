@@ -19370,5 +19370,18 @@
     "description": "A very simple micro web framework",
     "license": "MIT",
     "web": "https://github.com/ire4ever1190/mike"
+  },
+  {
+    "name": "timerwheel",
+    "url": "https://github.com/xflywind/timerwheel",
+    "method": "git",
+    "tags": [
+      "timer",
+      "timerwheel",
+      "prologue"
+    ],
+    "description": "A high performance timer based on timerwheel for Nim.",
+    "license": "Apache-2.0",
+    "web": "https://github.com/xflywind/timerwheel"
   }
 ]
