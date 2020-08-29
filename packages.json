@@ -17703,8 +17703,8 @@
     "web": "https://github.com/jyapayne/nim-sdl2"
   },
   {
-    "name": "cookies",
-    "url": "https://github.com/planety/cookies",
+    "name": "cookiejar",
+    "url": "https://github.com/planety/cookiejar",
     "method": "git",
     "tags": [
       "web",
@@ -17713,7 +17713,7 @@
     ],
     "description": "HTTP Cookies for Nim.",
     "license": "Apache-2.0",
-    "web": "https://github.com/planety/cookies"
+    "web": "https://github.com/planety/cookiejar"
   },
   {
     "name": "matsuri",
