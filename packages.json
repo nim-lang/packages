@@ -19397,5 +19397,20 @@
     "description": "High-level nim wrapper for C/C++ parsing",
     "license": "Apache-2.0",
     "web": "https://github.com/haxscramper/hcparse"
+  },
+  {
+    "name": "layonara_nwn",
+    "url": "https://github.com/plenarius/layonara_nwn",
+    "method": "git",
+    "tags": [
+      "layonara",
+      "nwn",
+      "builder",
+      "helper",
+      "functions"
+    ],
+    "description": "Various Layonara related functions for NWN Development",
+    "license": "MIT",
+    "web": "https://github.com/plenarius/layonara_nwn"
   }
 ]
