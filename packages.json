@@ -19383,5 +19383,19 @@
     "description": "A high performance timer based on timerwheel for Nim.",
     "license": "Apache-2.0",
     "web": "https://github.com/xflywind/timerwheel"
+  },
+  {
+    "name": "hcparse",
+    "url": "https://github.com/haxscramper/hcparse",
+    "method": "git",
+    "tags": [
+      "c++-parser",
+      "c++",
+      "interop",
+      "wrapper"
+    ],
+    "description": "High-level nim wrapper for C/C++ parsing",
+    "license": "Apache-2.0",
+    "web": "https://github.com/haxscramper/hcparse"
   }
 ]
