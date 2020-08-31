@@ -19412,5 +19412,19 @@
     "description": "Various Layonara related functions for NWN Development",
     "license": "MIT",
     "web": "https://github.com/plenarius/layonara_nwn"
+  },
+  {
+    "name": "simpleflake",
+    "url": "https://github.com/aisk/simpleflake.nim",
+    "method": "git",
+    "tags": [
+      "simpleflake",
+      "id",
+      "id-generator",
+      "library"
+    ],
+    "description": "Simpleflake for nim",
+    "license": "MIT",
+    "web": "https://github.com/aisk/simpleflake.nim"
   }
 ]
