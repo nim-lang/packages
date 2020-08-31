@@ -19412,5 +19412,18 @@
     "description": "Various Layonara related functions for NWN Development",
     "license": "MIT",
     "web": "https://github.com/plenarius/layonara_nwn"
+  },
+  {
+    "name": "hatd",
+    "url": "https://github.com/davidgarland/nim-hatd",
+    "method": "git",
+    "tags": [
+      "array",
+      "arrays",
+      "hat"
+    ],
+    "description": "Preloading size-doubling hashed array trees.",
+    "license": "MIT",
+    "web": "https://github.com/davidgarland/nim-hatd"
   }
 ]
