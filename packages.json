@@ -19438,5 +19438,19 @@
     "description": "User-friendly wrapper for nim ast",
     "license": "Apache-2.0",
     "web": "https://github.com/haxscramper/hnimast"
-  }
+  },
+  {
+    "name": "symbolicnim",
+    "url": "https://github.com/HugoGranstrom/symbolicnim",
+    "method": "git",
+    "tags": [
+      "symbolic",
+      "math",
+      "derivative",
+      "algebra"
+    ],
+    "description": "A symbolic library written purely in Nim with the ability to compile expressions into efficient functions.",
+    "license": "MIT",
+    "web": "https://github.com/HugoGranstrom/symbolicnim"
+  } 
 ]
