@@ -19452,5 +19452,19 @@
     "description": "A symbolic library written purely in Nim with the ability to compile expressions into efficient functions.",
     "license": "MIT",
     "web": "https://github.com/HugoGranstrom/symbolicnim"
-  } 
+  },
+  {
+    "name": "spinner",
+    "url": "https://github.com/Knaque/spinner",
+    "method": "git",
+    "tags": [
+      "ui",
+      "gui",
+      "toolkit",
+      "companion"
+    ],
+    "description": "Prebuilt components for the Fidget GUI library.",
+    "license": "MIT",
+    "web": "https://github.com/Knaque/spinner"
+  }
 ]
