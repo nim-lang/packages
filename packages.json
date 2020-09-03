@@ -1,4 +1,17 @@
-[
+[ 
+  {
+    "name": "nimbitarray",
+    "url": "https://github.com/YesDrX/bitarray",
+    "method": "git",
+    "tags": [
+      "bitarray",
+       "nim"
+    ],
+    "description": "A simple bitarray library for nim.",
+    "license": "MIT",
+    "web": "https://yesdrx.github.io/bitarray/",
+    "doc": "https://yesdrx.github.io/bitarray/"
+  },
   {
     "name": "torim",
     "url": "https://github.com/KittyTechnoProgrammer/torim",
