@@ -19461,7 +19461,8 @@
       "ui",
       "gui",
       "toolkit",
-      "companion"
+      "companion",
+      "fidget"
     ],
     "description": "Prebuilt components for the Fidget GUI library.",
     "license": "MIT",
