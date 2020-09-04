@@ -19493,5 +19493,18 @@
     "description": "A file system monitor in Nim.",
     "license": "Apache-2.0",
     "web": "https://github.com/xflywind/fsnotify"
+  },
+  {
+    "name": "xio",
+    "url": "https://github.com/xflywind/async",
+    "method": "git",
+    "tags": [
+      "net",
+      "os",
+      "prologue"
+    ],
+    "description": "Cross platform system API for os and net.",
+    "license": "Apache-2.0",
+    "web": "https://github.com/xflywind/async"
   }
 ]
