@@ -19520,5 +19520,17 @@
     "description": "Cross platform system API for os and net.",
     "license": "Apache-2.0",
     "web": "https://github.com/xflywind/async"
+  },
+  {
+    "name": "once",
+    "url": "https://git.sr.ht/~euantorano/once.nim",
+    "method": "git",
+    "tags": [
+      "once",
+      "threading"
+    ],
+    "description": "Once provides a type that will enforce that a callback is invoked only once.",
+    "license": "BSD3",
+    "web": "https://git.sr.ht/~euantorano/once.nim"
   }
 ]
