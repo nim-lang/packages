@@ -19535,7 +19535,7 @@
   },
   {
     "name": "Blackvas",
-    "url": "https://github.com/momeemt/HighCanvas",
+    "url": "https://github.com/momeemt/Blackvas",
     "method": "git",
     "tags": [
       "canvas",
@@ -19547,6 +19547,6 @@
     ],
     "description": "declarative UI framework for building Canvas",
     "license": "MIT",
-    "web": "https://github.com/momeemt/HighCanvas"
+    "web": "https://github.com/momeemt/Blackvas"
   }
 ]
