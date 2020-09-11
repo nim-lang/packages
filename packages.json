@@ -19532,5 +19532,18 @@
     "description": "Once provides a type that will enforce that a callback is invoked only once.",
     "license": "BSD3",
     "web": "https://git.sr.ht/~euantorano/once.nim"
+  },
+  {
+    "name": "blackvas_cli",
+    "url": "https://github.com/momeemt/BlackvasCli",
+    "method": "git",
+    "tags": [
+      "blackvas",
+      "web",
+      "cli"
+    ],
+    "description": "The Blackvas CLI",
+    "license": "MIT",
+    "web": "https://github.com/momeemt/BlackvasCli"
   }
 ]
