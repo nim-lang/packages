@@ -19534,6 +19534,19 @@
     "web": "https://git.sr.ht/~euantorano/once.nim"
   },
   {
+    "name": "blackvas_cli",
+    "url": "https://github.com/momeemt/BlackvasCli",
+    "method": "git",
+    "tags": [
+      "blackvas",
+      "web",
+      "cli"
+    ],
+    "description": "The Blackvas CLI",
+    "license": "MIT",
+    "web": "https://github.com/momeemt/BlackvasCli"
+  },
+  {
     "name": "Blackvas",
     "url": "https://github.com/momeemt/Blackvas",
     "method": "git",
