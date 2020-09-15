@@ -19561,5 +19561,19 @@
     "description": "declarative UI framework for building Canvas",
     "license": "MIT",
     "web": "https://github.com/momeemt/Blackvas"
+  },
+  {
+    "name": "binstreams",
+    "url": "https://github.com/johnnovak/nim-binstreams",
+    "method": "git",
+    "tags": [
+      "streams",
+      "library",
+      "endianness",
+      "io"
+    ],
+    "description": "Endianness aware stream I/O for Nim",
+    "license": "WTFPL",
+    "web": "https://github.com/johnnovak/nim-binstreams"
   }
 ]
