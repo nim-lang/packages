@@ -19575,5 +19575,21 @@
     "description": "Endianness aware stream I/O for Nim",
     "license": "WTFPL",
     "web": "https://github.com/johnnovak/nim-binstreams"
+  },
+  {
+    "name": "asciitext",
+    "url": "https://github.com/Himujjal/asciitextNim",
+    "method": "git",
+    "tags": [
+      "ascii",
+      "web",
+      "c",
+      "library",
+      "nim",
+      "cli"
+    ],
+    "description": "Ascii Text allows you to print large ASCII fonts for the console and for the web",
+    "license": "MIT",
+    "web": "https://github.com/Himujjal/asciitextNim"
   }
 ]
