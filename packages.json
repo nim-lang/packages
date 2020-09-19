@@ -19591,5 +19591,18 @@
     "description": "Ascii Text allows you to print large ASCII fonts for the console and for the web",
     "license": "MIT",
     "web": "https://github.com/Himujjal/asciitextNim"
+  },
+  {
+    "name": "qwertycd",
+    "url": "https://github.com/minefuto/qwertycd",
+    "method": "git",
+    "tags": [
+      "terminal",
+      "console",
+      "command-line"
+    ],
+    "description": "Terminal UI based cd command",
+    "license": "MIT",
+    "web": "https://github.com/minefuto/qwertycd"
   }
 ]
