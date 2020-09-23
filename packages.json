@@ -1,5 +1,19 @@
 [
   {
+    "name": "nimchromepath",
+    "url": "https://github.com/felipetesc/NimChromePath",
+    "method": "git",
+    "tags": [
+      "chrome",
+      "path",
+      "nim"
+    ],
+    "description": "Thin lib to find if chrome exists on Windows, Mac, or Linux.",
+    "license": "MIT",
+    "web": "https://github.com/felipetesc/NimChromePath",
+    "doc": "https://github.com/felipetesc/NimChromePath"
+  },
+  {
     "name": "nimbitarray",
     "url": "https://github.com/YesDrX/bitarray",
     "method": "git",
