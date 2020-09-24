@@ -19618,5 +19618,16 @@
     "description": "Terminal UI based cd command",
     "license": "MIT",
     "web": "https://github.com/minefuto/qwertycd"
+  },
+  {
+    "name": "cortonanim",
+    "url": "https:///",
+    "method": "",
+    "tags": [
+      "cortona"
+    ],
+    "description": "Manage private packeges",
+    "license": "MIT",
+    "web": "https:///"
   }
 ]
