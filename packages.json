@@ -19618,5 +19618,18 @@
     "description": "Simple reallocating vector",
     "license": "MIT",
     "web": "https://github.com/tontinton/vector"
+  },
+  {
+    "name": "clapfn",
+    "url": "https://github.com/oliversandli/clapfn",
+    "method": "git",
+    "tags": [
+      "cli",
+      "library",
+      "parser"
+    ],
+    "description": "A fast and simple command line argument parser inspired by Python's argparse.",
+    "license": "MIT",
+    "web": "https://github.com/oliversandli/clapfn"
   }
 ]
