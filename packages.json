@@ -19605,5 +19605,18 @@
     "description": "Terminal UI based cd command",
     "license": "MIT",
     "web": "https://github.com/minefuto/qwertycd"
+  },
+  {
+    "name": "clapfn",
+    "url": "https://github.com/oliversandli/clapfn",
+    "method": "git",
+    "tags": [
+      "cli",
+      "library",
+      "parser"
+    ],
+    "description": "A fast and simple command line argument parser inspired by Python's argparse.",
+    "license": "MIT",
+    "web": "https://github.com/oliversandli/clapfn"
   }
 ]
