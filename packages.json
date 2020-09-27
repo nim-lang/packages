@@ -19607,6 +19607,19 @@
     "web": "https://github.com/minefuto/qwertycd"
   },
   {
+    "name": "vector",
+    "url": "https://github.com/tontinton/vector",
+    "method": "git",
+    "tags": [
+      "vector",
+      "memory",
+      "library"
+    ],
+    "description": "Simple reallocating vector",
+    "license": "MIT",
+    "web": "https://github.com/tontinton/vector"
+  },
+  {
     "name": "clapfn",
     "url": "https://github.com/oliversandli/clapfn",
     "method": "git",
