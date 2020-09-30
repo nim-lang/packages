@@ -1,11 +1,25 @@
-[ 
+[
+  {
+    "name": "nimchromepath",
+    "url": "https://github.com/felipetesc/NimChromePath",
+    "method": "git",
+    "tags": [
+      "chrome",
+      "path",
+      "nim"
+    ],
+    "description": "Thin lib to find if chrome exists on Windows, Mac, or Linux.",
+    "license": "MIT",
+    "web": "https://github.com/felipetesc/NimChromePath",
+    "doc": "https://github.com/felipetesc/NimChromePath"
+  },
   {
     "name": "nimbitarray",
     "url": "https://github.com/YesDrX/bitarray",
     "method": "git",
     "tags": [
       "bitarray",
-       "nim"
+      "nim"
     ],
     "description": "A simple bitarray library for nim.",
     "license": "MIT",
@@ -1501,6 +1515,20 @@
     "description": "Library to more easily create X11 event loops",
     "license": "MIT",
     "web": "https://github.com/PMunch/xevloop"
+  },
+  {
+    "name": "nancy",
+    "url": "https://github.com/PMunch/nancy",
+    "method": "git",
+    "tags": [
+      "ansi",
+      "library",
+      "terminal",
+      "table"
+    ],
+    "description": "Nancy - Nim fancy ANSI tables",
+    "license": "MIT",
+    "web": "https://github.com/PMunch/nancy"
   },
   {
     "name": "sdl2_nim",
@@ -11412,14 +11440,14 @@
   },
   {
     "name": "criterion",
-    "url": "https://github.com/disruptek/criterion.nim",
+    "url": "https://github.com/disruptek/criterion",
     "method": "git",
     "tags": [
       "benchmark"
     ],
     "description": "Statistic-driven microbenchmark framework",
     "license": "MIT",
-    "web": "https://github.com/disruptek/criterion.nim"
+    "web": "https://github.com/disruptek/criterion"
   },
   {
     "name": "nanoid",
@@ -13119,19 +13147,6 @@
     "description": "A pure implementaion of nmap for nim.",
     "license": "MIT",
     "web": "https://github.com/blmvxer/nim-nmap"
-  },
-  {
-    "name": "fancygl",
-    "url": "https://github.com/krux02/opengl-sandbox",
-    "method": "git",
-    "tags": [
-      "opengl",
-      "rendering",
-      "dsl"
-    ],
-    "description": "nice way of handling render code",
-    "license": "MIT",
-    "web": "https://github.com/krux02/opengl-sandbox"
   },
   {
     "name": "libravatar",
@@ -19481,5 +19496,154 @@
     "description": "Prebuilt components for the Fidget GUI library.",
     "license": "MIT",
     "web": "https://github.com/Knaque/spinner"
+  },
+  {
+    "name": "fsnotify",
+    "url": "https://github.com/xflywind/fsnotify",
+    "method": "git",
+    "tags": [
+      "os",
+      "watcher",
+      "prologue"
+    ],
+    "description": "A file system monitor in Nim.",
+    "license": "Apache-2.0",
+    "web": "https://github.com/xflywind/fsnotify"
+  },
+  {
+    "name": "xio",
+    "url": "https://github.com/xflywind/async",
+    "method": "git",
+    "tags": [
+      "net",
+      "os",
+      "prologue"
+    ],
+    "description": "Cross platform system API for os and net.",
+    "license": "Apache-2.0",
+    "web": "https://github.com/xflywind/async"
+  },
+  {
+    "name": "once",
+    "url": "https://git.sr.ht/~euantorano/once.nim",
+    "method": "git",
+    "tags": [
+      "once",
+      "threading"
+    ],
+    "description": "Once provides a type that will enforce that a callback is invoked only once.",
+    "license": "BSD3",
+    "web": "https://git.sr.ht/~euantorano/once.nim"
+  },
+  {
+    "name": "blackvas_cli",
+    "url": "https://github.com/momeemt/BlackvasCli",
+    "method": "git",
+    "tags": [
+      "blackvas",
+      "web",
+      "cli"
+    ],
+    "description": "The Blackvas CLI",
+    "license": "MIT",
+    "web": "https://github.com/momeemt/BlackvasCli"
+  },
+  {
+    "name": "Blackvas",
+    "url": "https://github.com/momeemt/Blackvas",
+    "method": "git",
+    "tags": [
+      "canvas",
+      "html",
+      "html5",
+      "javascript",
+      "web",
+      "framework"
+    ],
+    "description": "declarative UI framework for building Canvas",
+    "license": "MIT",
+    "web": "https://github.com/momeemt/Blackvas"
+  },
+  {
+    "name": "binstreams",
+    "url": "https://github.com/johnnovak/nim-binstreams",
+    "method": "git",
+    "tags": [
+      "streams",
+      "library",
+      "endianness",
+      "io"
+    ],
+    "description": "Endianness aware stream I/O for Nim",
+    "license": "WTFPL",
+    "web": "https://github.com/johnnovak/nim-binstreams"
+  },
+  {
+    "name": "asciitext",
+    "url": "https://github.com/Himujjal/asciitextNim",
+    "method": "git",
+    "tags": [
+      "ascii",
+      "web",
+      "c",
+      "library",
+      "nim",
+      "cli"
+    ],
+    "description": "Ascii Text allows you to print large ASCII fonts for the console and for the web",
+    "license": "MIT",
+    "web": "https://github.com/Himujjal/asciitextNim"
+  },
+  {
+    "name": "qwertycd",
+    "url": "https://github.com/minefuto/qwertycd",
+    "method": "git",
+    "tags": [
+      "terminal",
+      "console",
+      "command-line"
+    ],
+    "description": "Terminal UI based cd command",
+    "license": "MIT",
+    "web": "https://github.com/minefuto/qwertycd"
+  },
+  {
+    "name": "vector",
+    "url": "https://github.com/tontinton/vector",
+    "method": "git",
+    "tags": [
+      "vector",
+      "memory",
+      "library"
+    ],
+    "description": "Simple reallocating vector",
+    "license": "MIT",
+    "web": "https://github.com/tontinton/vector"
+  },
+  {
+    "name": "clapfn",
+    "url": "https://github.com/oliversandli/clapfn",
+    "method": "git",
+    "tags": [
+      "cli",
+      "library",
+      "parser"
+    ],
+    "description": "A fast and simple command line argument parser inspired by Python's argparse.",
+    "license": "MIT",
+    "web": "https://github.com/oliversandli/clapfn"
+  },
+  {
+    "name": "packets",
+    "url": "https://github.com/Q-Master/packets.nim",
+    "method": "git",
+    "tags": [
+      "serializtion",
+      "deserialization",
+      "marshal"
+    ],
+    "description": "Declarative packets system for serializing/deserializing and marshalling",
+    "license": "MIT",
+    "web": "https://github.com/Q-Master/packets.nim"
   }
 ]
