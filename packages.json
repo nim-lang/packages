@@ -19645,5 +19645,24 @@
     "description": "Declarative packets system for serializing/deserializing and marshalling",
     "license": "MIT",
     "web": "https://github.com/Q-Master/packets.nim"
+  },
+  {
+    "name": "Neel",
+    "url": "https://github.com/Niminem/Neel",
+    "method": "git",
+    "tags": [
+      "gui",
+      "nim",
+      "desktop-app",
+      "electron",
+      "electron-app",
+      "desktop-application",
+      "nim-language",
+      "nim-lang",
+      "gui-application"
+    ],
+    "description": "A Nim library for making lightweight Electron-like HTML/JS GUI apps, with full access to Nim capabilities.",
+    "license": "MIT",
+    "web": "https://github.com/Niminem/Neel"
   }
 ]
