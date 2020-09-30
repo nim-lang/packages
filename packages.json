@@ -16642,7 +16642,8 @@
     ],
     "description": "Another micro web framework.",
     "license": "MIT",
-    "web": "https://github.com/planety/Prologue"
+    "web": "https://github.com/planety/Prologue",
+    "doc": "https://planety.github.io/prologue"
   },
   {
     "name": "mort",
