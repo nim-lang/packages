@@ -16527,6 +16527,20 @@
     "web": "https://github.com/treeform/ptest"
   },
   {
+    "name": "encode",
+    "url": "https://github.com/treeform/encode",
+    "method": "git",
+    "tags": [
+      "encode",
+      "utf8",
+      "utf16",
+      "utf32"
+    ],
+    "description": "Encode/decode utf8 utf16 and utf32.",
+    "license": "MIT",
+    "web": "https://github.com/treeform/encode"
+  },
+  {
     "name": "oaitools",
     "url": "https://github.com/markpbaggett/oaitools.nim",
     "method": "git",
