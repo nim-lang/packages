@@ -19693,5 +19693,18 @@
     "license": "MIT",
     "web": "https://github.com/hlaaftana/marggers",
     "doc": "https://hlaaftana.github.io/marggers/marggers.html"
+  },
+  {
+    "name": "nimble",
+    "url": "git://github.com/nim-lang/nimble",
+    "method": "git",
+    "tags": [
+      "a",
+      "b",
+      "c"
+    ],
+    "description": "Nim package manager.",
+    "license": "BSD",
+    "web": "git://github.com/nim-lang/nimble"
   }
 ]
