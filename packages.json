@@ -19678,5 +19678,20 @@
     "description": "A Nim library for making lightweight Electron-like HTML/JS GUI apps, with full access to Nim capabilities.",
     "license": "MIT",
     "web": "https://github.com/Niminem/Neel"
+  },
+  {
+    "name": "marggers",
+    "url": "https://github.com/hlaaftana/marggers",
+    "method": "git",
+    "tags": [
+      "markdown",
+      "parser",
+      "library",
+      "html"
+    ],
+    "description": "dialect of Markdown in pure Nim with focus on HTML output",
+    "license": "MIT",
+    "web": "https://github.com/hlaaftana/marggers",
+    "doc": "https://hlaaftana.github.io/marggers/marggers.html"
   }
 ]
