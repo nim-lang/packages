@@ -19693,5 +19693,17 @@
     "license": "MIT",
     "web": "https://github.com/hlaaftana/marggers",
     "doc": "https://hlaaftana.github.io/marggers/marggers.html"
+  },
+  {
+    "name": "dual",
+    "url": "https://github.com/drjdn/nim_dual",
+    "method": "git",
+    "tags": [
+      "math",
+      "library"
+    ],
+    "description": "Implementation of dual numbers",
+    "license": "MIT",
+    "web": "https://github.com/drjdn/nim_dual"
   }
 ]
