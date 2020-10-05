@@ -19705,5 +19705,18 @@
     "description": "Implementation of dual numbers",
     "license": "MIT",
     "web": "https://github.com/drjdn/nim_dual"
+  },
+  {
+    "name": "websocketx",
+    "url": "https://github.com/xflywind/websocketx",
+    "method": "git",
+    "tags": [
+      "httpx",
+      "prologue",
+      "web"
+    ],
+    "description": "Websocket for httpx.",
+    "license": "MIT",
+    "web": "https://github.com/xflywind/websocketx"
   }
 ]
