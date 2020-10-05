@@ -16527,6 +16527,20 @@
     "web": "https://github.com/treeform/ptest"
   },
   {
+    "name": "encode",
+    "url": "https://github.com/treeform/encode",
+    "method": "git",
+    "tags": [
+      "encode",
+      "utf8",
+      "utf16",
+      "utf32"
+    ],
+    "description": "Encode/decode utf8 utf16 and utf32.",
+    "license": "MIT",
+    "web": "https://github.com/treeform/encode"
+  },
+  {
     "name": "oaitools",
     "url": "https://github.com/markpbaggett/oaitools.nim",
     "method": "git",
@@ -19645,5 +19659,51 @@
     "description": "Declarative packets system for serializing/deserializing and marshalling",
     "license": "MIT",
     "web": "https://github.com/Q-Master/packets.nim"
+  },
+  {
+    "name": "Neel",
+    "url": "https://github.com/Niminem/Neel",
+    "method": "git",
+    "tags": [
+      "gui",
+      "nim",
+      "desktop-app",
+      "electron",
+      "electron-app",
+      "desktop-application",
+      "nim-language",
+      "nim-lang",
+      "gui-application"
+    ],
+    "description": "A Nim library for making lightweight Electron-like HTML/JS GUI apps, with full access to Nim capabilities.",
+    "license": "MIT",
+    "web": "https://github.com/Niminem/Neel"
+  },
+  {
+    "name": "marggers",
+    "url": "https://github.com/hlaaftana/marggers",
+    "method": "git",
+    "tags": [
+      "markdown",
+      "parser",
+      "library",
+      "html"
+    ],
+    "description": "dialect of Markdown in pure Nim with focus on HTML output",
+    "license": "MIT",
+    "web": "https://github.com/hlaaftana/marggers",
+    "doc": "https://hlaaftana.github.io/marggers/marggers.html"
+  },
+  {
+    "name": "dual",
+    "url": "https://github.com/drjdn/nim_dual",
+    "method": "git",
+    "tags": [
+      "math",
+      "library"
+    ],
+    "description": "Implementation of dual numbers",
+    "license": "MIT",
+    "web": "https://github.com/drjdn/nim_dual"
   }
 ]
