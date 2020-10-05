@@ -1,4 +1,23 @@
 [
+    {
+    "name": "arturo",
+    "url": "https://github.com/arturo-lang/arturo",
+    "method": "git",
+    "tags": [
+      "nim",
+      "vm",
+      "programming",
+      "rebol",
+      "ruby",
+      "haskell",
+      "functional",
+      "homoiconic"
+    ],
+    "description": "Simple, modern and portable interpreted programming language for efficient scripting",
+    "license": "MIT",
+    "web": "http://arturo-lang.io/",
+    "doc": "http://arturo-lang.io/"
+  },
   {
     "name": "nimchromepath",
     "url": "https://github.com/felipetesc/NimChromePath",
