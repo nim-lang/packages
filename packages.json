@@ -14028,8 +14028,27 @@
     "web": "https://github.com/alaviss/kmod"
   },
   {
+    "name": "sue",
+    "url": "https://github.com/theAkito/sue",
+    "method": "git",
+    "tags": [
+      "gosu",
+      "su-exec",
+      "docker",
+      "kubernetes",
+      "helm",
+      "permission",
+      "linux",
+      "posix",
+      "postgres",
+      "process"
+    ],
+    "description": "Executes a program as a user different from the user running `sue`. The target program is `exec`'ed which means, that it replaces the `sue` process you are using to run the target program. This simulates native tools like `su` and `sudo` and uses the same low-level POSIX tools to achieve that, but eliminates common issues that usually arise, when using those native tools.",
+    "license": "GPL-3.0-or-later"
+  },
+  {
     "name": "validateip",
-    "url": "https://github.com/Akito13/nim-validateip",
+    "url": "https://github.com/theAkito/nim-validateip",
     "method": "git",
     "tags": [
       "ip",
@@ -14040,7 +14059,7 @@
       "check"
     ],
     "description": "Checks if a provided string is actually a correct IP address. Supports detection of Class A to D of IPv4 addresses.",
-    "license": "GPLv3+"
+    "license": "GPL-3.0-or-later"
   },
   {
     "name": "RC4",
