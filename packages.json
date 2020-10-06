@@ -6775,6 +6775,19 @@
     "web": "https://github.com/status-im/nim-chronicles"
   },
   {
+    "name": "zxcvbn",
+    "url": "https://github.com/status-im/nim-zxcvbn",
+    "method": "git",
+    "tags": [
+      "security",
+      "passwords",
+      "entropy"
+    ],
+    "description": "Nim bindings for the zxcvbn-c password strength estimation library",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/status-im/nim-zxcvbn"
+  },
+  {
     "name": "stb_image",
     "url": "https://gitlab.com/define-private-public/stb_image-Nim.git",
     "method": "git",
