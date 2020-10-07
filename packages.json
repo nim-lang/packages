@@ -19785,5 +19785,18 @@
     "description": "A package manager that delegates to package authors",
     "license": "MIT/ISC",
     "web": "https://github.com/c-blake/nimp"
+  },
+  {
+    "name": "fpn",
+    "url": "https://gitlab.com/lbartoletti/fpn",
+    "method": "git",
+    "tags": [
+      "fixed point",
+      "number",
+      "math"
+    ],
+    "description": "A fixed point number library in pure Nim.",
+    "license": "MIT",
+    "web": "https://gitlab.com/lbartoletti/fpn"
   }
 ]
