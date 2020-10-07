@@ -1,5 +1,5 @@
 [
-    {
+  {
     "name": "arturo",
     "url": "https://github.com/arturo-lang/arturo",
     "method": "git",
@@ -19769,5 +19769,21 @@
     "description": "Websocket for httpx.",
     "license": "MIT",
     "web": "https://github.com/xflywind/websocketx"
+  },
+  {
+    "name": "nimp",
+    "url": "https://github.com/c-blake/nimp",
+    "method": "git",
+    "tags": [
+      "app",
+      "binary",
+      "package",
+      "manager",
+      "cli",
+      "nimble"
+    ],
+    "description": "A package manager that delegates to package authors",
+    "license": "MIT/ISC",
+    "web": "https://github.com/c-blake/nimp"
   }
 ]
