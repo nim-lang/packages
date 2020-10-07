@@ -19785,5 +19785,18 @@
     "description": "A package manager that delegates to package authors",
     "license": "MIT/ISC",
     "web": "https://github.com/c-blake/nimp"
+  },
+  {
+    "name": "oblivion",
+    "url": "https://github.com/sealmove/oblivion",
+    "method": "git",
+    "tags": [
+      "cli",
+      "alias",
+      "binary"
+    ],
+    "description": "Shell command manager",
+    "license": "MIT",
+    "web": "https://github.com/sealmove/oblivion"
   }
 ]
