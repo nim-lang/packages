@@ -19811,5 +19811,17 @@
     "description": "Shell command manager",
     "license": "MIT",
     "web": "https://github.com/sealmove/oblivion"
+  },
+  {
+    "name": "edlib",
+    "url": "https://github.com/bio-nim/nim-edlib",
+    "method": "git",
+    "description": "Nim wrapper for edlib",
+    "license": "BSD-3",
+    "web": "https://github.com/Martinsos/edlib",
+    "tags": [
+      "cpp",
+      "bioinformatics"
+    ]
   }
 ]
