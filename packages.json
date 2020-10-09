@@ -19837,5 +19837,5 @@
       ],
       "description": "Nim macros to aid in object construction including event programming, and constructors.",
       "license": "MIT"
-    },
+    }
 ]
