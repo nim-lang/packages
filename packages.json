@@ -19787,6 +19787,20 @@
     "web": "https://github.com/c-blake/nimp"
   },
   {
+    "name": "constructor",
+    "url": "https://github.com/beef331/constructor",
+    "method": "git",
+    "tags": [
+      "nim",
+      "utillity",
+      "macros",
+      "object",
+      "events"
+    ],
+    "description": "Nim macros to aid in object construction including event programming, and constructors.",
+    "license": "MIT"
+  },
+  {
     "name": "fpn",
     "url": "https://gitlab.com/lbartoletti/fpn",
     "method": "git",
