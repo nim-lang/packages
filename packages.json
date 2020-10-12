@@ -19866,5 +19866,19 @@
     "description": "Connection Test for Nim Web Applications",
     "license": "MIT",
     "web": "https://github.com/blmvxer/netTest"
+  },
+  {
+    "name": "highlight",
+    "url": "https://github.com/RaimundHuebel/nimhighlight",
+    "method": "git",
+    "tags": [
+      "cli",
+      "tool",
+      "highlighting",
+      "colorizing"
+    ],
+    "description": "Tool/Lib to highlight text in CLI by using regular expressions.",
+    "license": "MIT",
+    "web": "https://github.com/RaimundHuebel/nimhighlight"
   }
 ]
