@@ -19866,5 +19866,22 @@
     "description": "Connection Test for Nim Web Applications",
     "license": "MIT",
     "web": "https://github.com/blmvxer/netTest"
+  },
+  {
+    "name": "json5",
+    "url": "https://github.com/sealmove/json5-nim",
+    "method": "git",
+    "tags": [
+      "library",
+      "json",
+      "json5",
+      "parsing",
+      "serialization",
+      "marshal",
+      "npeg"
+    ],
+    "description": "JSON5 to JsonNode parser",
+    "license": "MIT",
+    "web": "https://github.com/sealmove/json5-nim"
   }
 ]
