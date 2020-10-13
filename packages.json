@@ -19207,7 +19207,7 @@
       "psutil"
     ],
     "description": "Updated psutil module from https://github.com/johnscillieri/psutil-nim",
-    "license": "GPL-3.0",
+    "license": "MIT",
     "web": "https://github.com/KittyTechnoProgrammer/psutilim",
     "doc": "https://github.com/KittyTechnoProgrammer/psutilim"
   },
