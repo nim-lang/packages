@@ -3601,7 +3601,7 @@
   },
   {
     "name": "ncurses",
-    "url": "https://github.com/rnowley/nim-ncurses/",
+    "url": "https://github.com/patasuss/nncurses/",
     "method": "git",
     "tags": [
       "library",
@@ -3611,7 +3611,7 @@
     ],
     "description": "A wrapper for NCurses",
     "license": "MIT",
-    "web": "https://github.com/rnowley/nim-ncurses"
+    "web": "https://github.com/patasuss/nncurses/"
   },
   {
     "name": "nanovg",
