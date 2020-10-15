@@ -19836,7 +19836,7 @@
       "zip",
       "deflate"
     ],
-    "description": "In-progress pure Nim implemenation of deflate and zlib.",
+    "description": "In-progress pure Nim implementation of deflate and zlib.",
     "license": "MIT",
     "web": "https://github.com/guzba/zippy"
   },
