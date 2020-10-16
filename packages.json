@@ -19922,5 +19922,17 @@
     "description": "Tool/Lib to highlight text in CLI by using regular expressions.",
     "license": "MIT",
     "web": "https://github.com/RaimundHuebel/nimhighlight"
+  },
+  {
+    "name": "nimTiingo",
+    "url": "https://github.com/rolandgg/nimTiingo",
+    "method": "git",
+    "tags": [
+      "Tiingo",
+      "StockAPI"
+    ],
+    "description": "Tiingo",
+    "license": "MIT",
+    "web": "https://github.com/rolandgg/nimTiingo"
   }
 ]
