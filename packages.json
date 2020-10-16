@@ -1550,6 +1550,34 @@
     "web": "https://github.com/PMunch/nancy"
   },
   {
+    "name": "imlib2",
+    "url": "https://github.com/PMunch/Imlib2",
+    "method": "git",
+    "tags": [
+      "library",
+      "wrapper",
+      "graphics",
+      "imlib2"
+    ],
+    "description": "Simple wrapper of the Imlib2 library",
+    "license": "MIT",
+    "web": "https://github.com/PMunch/Imlib2"
+  },
+  {
+    "name": "notificatcher",
+    "url": "https://github.com/PMunch/notificatcher",
+    "method": "git",
+    "tags": [
+      "binary",
+      "freedesktop",
+      "notifications",
+      "dbus"
+    ],
+    "description": "Small program to grab notifications from freedesktop and output them according to a format",
+    "license": "MIT",
+    "web": "https://github.com/PMunch/notificatcher"
+  },
+  {
     "name": "sdl2_nim",
     "url": "https://github.com/Vladar4/sdl2_nim",
     "method": "git",
