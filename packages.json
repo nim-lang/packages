@@ -19950,5 +19950,18 @@
     "description": "Full-featured WPS PIN generator",
     "license": "MIT",
     "web": "https://github.com/drygdryg/wpspin-nim"
+  },
+  {
+    "name": "FastKiss",
+    "url": "https://github.com/mrhdias/fastkiss",
+    "method": "git",
+    "tags": [
+      "fastcgi",
+      "framework",
+      "web"
+    ],
+    "description": "FastCGI Web Framework for Nim.",
+    "license": "MIT",
+    "web": "https://github.com/mrhdias/fastkiss"
   }
 ]
