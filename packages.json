@@ -19936,6 +19936,22 @@
     "web": "https://github.com/rolandgg/nimTiingo"
   },
   {
+    "name": "wpspin",
+    "url": "https://github.com/drygdryg/wpspin-nim",
+    "method": "git",
+    "tags": [
+      "security",
+      "network",
+      "wireless",
+      "wifi",
+      "wps",
+      "tool"
+    ],
+    "description": "Full-featured WPS PIN generator",
+    "license": "MIT",
+    "web": "https://github.com/drygdryg/wpspin-nim"
+  },
+  {
     "name": "FastKiss",
     "url": "https://github.com/mrhdias/fastkiss",
     "method": "git",
