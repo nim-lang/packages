@@ -20058,5 +20058,17 @@
     "description": "SSH, SCP and SFTP client for Nim",
     "license": "MIT",
     "web": "https://github.com/ba0f3/ssh2.nim"
+  },
+  {
+    "name": "trot",
+    "url": "https://github.com/ucpr/trot",
+    "method": "git",
+    "tags": [
+      "cli",
+      "toy"
+    ],
+    "description": "Expresses grass of GitHub at terminal",
+    "license": "MIT",
+    "web": "https://github.com/ucpr/trot"
   }
 ]
