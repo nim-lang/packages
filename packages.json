@@ -14553,6 +14553,17 @@
     "web": "https://github.com/Cirru/parser.nim"
   },
   {
+    "name": "ternary-tree",
+    "url": "https://github.com/Cirru/ternary-tree",
+    "method": "git",
+    "tags": [
+      "data-structure"
+    ],
+    "description": "Structural sharing data structure of lists and maps.",
+    "license": "MIT",
+    "web": "https://github.com/Cirru/ternary-tree"
+  },
+  {
     "name": "reframe",
     "url": "https://github.com/rosado/reframe.nim",
     "method": "git",
