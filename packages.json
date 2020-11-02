@@ -20058,5 +20058,19 @@
     "description": "SSH, SCP and SFTP client for Nim",
     "license": "MIT",
     "web": "https://github.com/ba0f3/ssh2.nim"
+  },
+  {
+    "name": "servy",
+    "url": "https://github.com/xmonader/nim-servy",
+    "method": "git",
+    "tags": [
+      "webframework",
+      "microwebframework",
+      "async",
+      "httpserver"
+    ],
+    "description": "a down to earth webframework in nim",
+    "license": "MIT",
+    "web": "https://github.com/xmonader/nim-servy"
   }
 ]
