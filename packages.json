@@ -14069,10 +14069,35 @@
     "web": "https://github.com/alaviss/kmod"
   },
   {
+    "name": "neoid",
+    "url": "https://github.com/theAkito/nim-neoid",
+    "method": "git",
+    "tags": [
+      "akito",
+      "nanoid",
+      "neoid",
+      "uuid",
+      "oid",
+      "secure",
+      "random",
+      "generator",
+      "windows",
+      "rng",
+      "csprng",
+      "cprng",
+      "crng",
+      "crypto",
+      "cryptography"
+    ],
+    "description": "Executes a program as a user different from the user running `sue`. The target program is `exec`'ed which means, that it replaces the `sue` process you are using to run the target program. This simulates native tools like `su` and `sudo` and uses the same low-level POSIX tools to achieve that, but eliminates common issues that usually arise, when using those native tools.",
+    "license": "GPL-3.0-or-later"
+  },
+  {
     "name": "sue",
     "url": "https://github.com/theAkito/sue",
     "method": "git",
     "tags": [
+      "akito",
       "gosu",
       "su-exec",
       "docker",
@@ -14092,6 +14117,7 @@
     "url": "https://github.com/theAkito/nim-validateip",
     "method": "git",
     "tags": [
+      "akito",
       "ip",
       "ipaddress",
       "ipv4",
