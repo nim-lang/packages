@@ -20085,5 +20085,17 @@
     "description": "Canonical JSON according to RFC8785",
     "license": "MIT",
     "web": "https://github.com/jackhftang/canonicaljson.nim"
+  },
+  {
+    "name": "nimvisa",
+    "url": "https://github.com/leeooox/nimvisa",
+    "method": "git",
+    "tags": [
+      "wrapper",
+      "library"
+    ],
+    "description": "nimvisa is C wrapper for NI-VISA instrument control library",
+    "license": "MIT",
+    "web": "https://github.com/leeooox/nimvisa"
   }
 ]
