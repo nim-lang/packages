@@ -20134,5 +20134,21 @@
     "description": "nimvisa is C wrapper for NI-VISA instrument control library",
     "license": "MIT",
     "web": "https://github.com/leeooox/nimvisa"
+  },
+  {
+    "name": "midio_ui_canvas",
+    "url": "https://github.com/nortero-code/midio-ui-canvas",
+    "method": "git",
+    "tags": [
+      "canvas",
+      "web",
+      "gui",
+      "framework",
+      "library",
+      "midio"
+    ],
+    "description": "HTML Canvas backend for the midio ui engine",
+    "license": "MIT",
+    "web": "https://github.com/nortero-code/midio-ui-canvas"
   }
 ]
