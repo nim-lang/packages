@@ -20134,5 +20134,20 @@
     "description": "nimvisa is C wrapper for NI-VISA instrument control library",
     "license": "MIT",
     "web": "https://github.com/leeooox/nimvisa"
+  },
+  {
+    "name": "rx_nim",
+    "url": "https://github.com/nortero-code/rx-nim",
+    "method": "git",
+    "tags": [
+      "rx",
+      "observables",
+      "reactive",
+      "extensions",
+      "functional"
+    ],
+    "description": "An implementation of rx observables in nim",
+    "license": "MIT",
+    "web": "https://github.com/nortero-code/rx-nim"
   }
 ]
