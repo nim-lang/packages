@@ -14579,7 +14579,7 @@
     "web": "https://github.com/bunkford/qrcodegen"
   },
   {
-    "name": "cirru-parser",
+    "name": "cirru_parser",
     "url": "https://github.com/Cirru/parser.nim",
     "method": "git",
     "tags": [
