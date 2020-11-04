@@ -13628,6 +13628,18 @@
     "web": "https://github.com/jrfondren/getr-nim"
   },
   {
+    "name": "oshostname",
+    "url": "https://github.com/jrfondren/nim-oshostname",
+    "method": "git",
+    "tags": [
+      "posix",
+      "wrapper"
+    ],
+    "description": "Get the current hostname with gethostname(2)",
+    "license": "MIT",
+    "web": "https://github.com/jrfondren/nim-oshostname"
+  },
+  {
     "name": "pnm",
     "url": "https://github.com/jiro4989/pnm",
     "method": "git",
