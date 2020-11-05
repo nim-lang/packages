@@ -14579,7 +14579,7 @@
     "web": "https://github.com/bunkford/qrcodegen"
   },
   {
-    "name": "cirru-parser",
+    "name": "cirru_parser",
     "url": "https://github.com/Cirru/parser.nim",
     "method": "git",
     "tags": [
@@ -20112,6 +20112,23 @@
     "web": "https://github.com/xmonader/nim-servy"
   },
   {
+    "name": "midio_ui",
+    "url": "https://github.com/nortero-code/midio-ui",
+    "method": "git",
+    "tags": [
+      "gui",
+      "web",
+      "cross-platform",
+      "library",
+      "reactive",
+      "observables",
+      "dsl"
+    ],
+    "description": "The Midio UI library",
+    "license": "MIT",
+    "web": "https://github.com/nortero-code/midio-ui"
+  },
+  {
     "name": "canonicaljson",
     "url": "https://github.com/jackhftang/canonicaljson.nim",
     "method": "git",
@@ -20136,20 +20153,16 @@
     "web": "https://github.com/leeooox/nimvisa"
   },
   {
-    "name": "midio_ui",
-    "url": "https://github.com/nortero-code/midio-ui",
+    "name": "httpstat",
+    "url": "https://github.com/ucpr/httpstat",
     "method": "git",
     "tags": [
-      "gui",
-      "web",
-      "cross-platform",
-      "library",
-      "reactive",
-      "observables",
-      "dsl"
+      "curl",
+      "httpstat",
+      "nim"
     ],
-    "description": "The Midio UI library",
+    "description": "curl statistics made simple ",
     "license": "MIT",
-    "web": "https://github.com/nortero-code/midio-ui"
+    "web": "https://github.com/ucpr/httpstat"
   }
 ]
