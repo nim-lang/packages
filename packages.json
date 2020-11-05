@@ -20142,6 +20142,22 @@
     "web": "https://github.com/jackhftang/canonicaljson.nim"
   },
   {
+    "name": "midio_ui_canvas",
+    "url": "https://github.com/nortero-code/midio-ui-canvas",
+    "method": "git",
+    "tags": [
+      "canvas",
+      "web",
+      "gui",
+      "framework",
+      "library",
+      "midio"
+    ],
+    "description": "HTML Canvas backend for the midio ui engine",
+    "license": "MIT",
+    "web": "https://github.com/nortero-code/midio-ui-canvas"
+  },
+  {
     "name": "nimvisa",
     "url": "https://github.com/leeooox/nimvisa",
     "method": "git",
