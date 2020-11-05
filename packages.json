@@ -20134,5 +20134,18 @@
     "description": "nimvisa is C wrapper for NI-VISA instrument control library",
     "license": "MIT",
     "web": "https://github.com/leeooox/nimvisa"
+  },
+  {
+    "name": "httpstat",
+    "url": "https://github.com/ucpr/httpstat",
+    "method": "git",
+    "tags": [
+      "curl",
+      "httpstat",
+      "nim"
+    ],
+    "description": "curl statistics made simple ",
+    "license": "MIT",
+    "web": "https://github.com/ucpr/httpstat"
   }
 ]
