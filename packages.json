@@ -20112,6 +20112,23 @@
     "web": "https://github.com/xmonader/nim-servy"
   },
   {
+    "name": "midio_ui",
+    "url": "https://github.com/nortero-code/midio-ui",
+    "method": "git",
+    "tags": [
+      "gui",
+      "web",
+      "cross-platform",
+      "library",
+      "reactive",
+      "observables",
+      "dsl"
+    ],
+    "description": "The Midio UI library",
+    "license": "MIT",
+    "web": "https://github.com/nortero-code/midio-ui"
+  },
+  {
     "name": "canonicaljson",
     "url": "https://github.com/jackhftang/canonicaljson.nim",
     "method": "git",
