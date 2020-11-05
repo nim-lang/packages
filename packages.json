@@ -14579,7 +14579,7 @@
     "web": "https://github.com/bunkford/qrcodegen"
   },
   {
-    "name": "cirru-parser",
+    "name": "cirru_parser",
     "url": "https://github.com/Cirru/parser.nim",
     "method": "git",
     "tags": [
@@ -20149,5 +20149,18 @@
     "description": "An implementation of rx observables in nim",
     "license": "MIT",
     "web": "https://github.com/nortero-code/rx-nim"
+  },
+  {
+    "name": "httpstat",
+    "url": "https://github.com/ucpr/httpstat",
+    "method": "git",
+    "tags": [
+      "curl",
+      "httpstat",
+      "nim"
+    ],
+    "description": "curl statistics made simple ",
+    "license": "MIT",
+    "web": "https://github.com/ucpr/httpstat"
   }
 ]
