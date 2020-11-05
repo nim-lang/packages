@@ -14579,7 +14579,7 @@
     "web": "https://github.com/bunkford/qrcodegen"
   },
   {
-    "name": "cirru-parser",
+    "name": "cirru_parser",
     "url": "https://github.com/Cirru/parser.nim",
     "method": "git",
     "tags": [
@@ -20125,17 +20125,6 @@
     "web": "https://github.com/jackhftang/canonicaljson.nim"
   },
   {
-    "name": "nimvisa",
-    "url": "https://github.com/leeooox/nimvisa",
-    "method": "git",
-    "tags": [
-      "wrapper"
-    ],
-    "description": "nimvisa is C wrapper for NI-VISA instrument control library",
-    "license": "MIT",
-    "web": "https://github.com/leeooox/nimvisa"
-  },
-  {
     "name": "midio_ui_canvas",
     "url": "https://github.com/nortero-code/midio-ui-canvas",
     "method": "git",
@@ -20150,5 +20139,29 @@
     "description": "HTML Canvas backend for the midio ui engine",
     "license": "MIT",
     "web": "https://github.com/nortero-code/midio-ui-canvas"
+  },
+  {
+    "name": "nimvisa",
+    "url": "https://github.com/leeooox/nimvisa",
+    "method": "git",
+    "tags": [
+      "wrapper"
+    ],
+    "description": "nimvisa is C wrapper for NI-VISA instrument control library",
+    "license": "MIT",
+    "web": "https://github.com/leeooox/nimvisa"
+  },
+  {
+    "name": "httpstat",
+    "url": "https://github.com/ucpr/httpstat",
+    "method": "git",
+    "tags": [
+      "curl",
+      "httpstat",
+      "nim"
+    ],
+    "description": "curl statistics made simple ",
+    "license": "MIT",
+    "web": "https://github.com/ucpr/httpstat"
   }
 ]
