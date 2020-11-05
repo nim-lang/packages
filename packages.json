@@ -20195,5 +20195,17 @@
     "description": "curl statistics made simple ",
     "license": "MIT",
     "web": "https://github.com/ucpr/httpstat"
+  },
+  {
+    "name": "imgcat",
+    "url": "https:///",
+    "method": "",
+    "tags": [
+      "terminal",
+      "images"
+    ],
+    "description": "See pictures in your console",
+    "license": "MIT",
+    "web": "https:///"
   }
 ]
