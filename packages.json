@@ -2,7 +2,7 @@
   {
     "name": "geminim",
     "url": "https://github.com/IDF31/geminim",
-    license: "BSD-2",
+    "license": "BSD-2",
     "method": "git",
     "tags": [
       "gemini",
@@ -10,7 +10,7 @@
       "async",
       "based"
     ],
-    description: "Simple async Gemini server"
+    "description": "Simple async Gemini server"
   },
   {
     "name": "arturo",
