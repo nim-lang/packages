@@ -11037,6 +11037,30 @@
     "web": "https://github.com/treeform/typography"
   },
   {
+    "name": "bumpy",
+    "url": "https://github.com/treeform/bumpy",
+    "method": "git",
+    "tags": [
+      "2d",
+      "collision"
+    ],
+    "description": "2d collision library for Nim.",
+    "license": "MIT",
+    "web": "https://github.com/treeform/bumpy"
+  },
+  {
+    "name": "urlly",
+    "url": "https://github.com/treeform/urlly",
+    "method": "git",
+    "tags": [
+      "url",
+      "uri"
+    ],
+    "description": "URL and URI parsing for C and JS backend.",
+    "license": "MIT",
+    "web": "https://github.com/treeform/urlly"
+  },
+  {
     "name": "xdo",
     "url": "https://github.com/juancarlospaco/nim-xdo",
     "method": "git",
