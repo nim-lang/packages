@@ -20246,5 +20246,21 @@
     "description": "See pictures in your console",
     "license": "MIT",
     "web": "https://github.com/not-lum/imgcat"
+  },
+  {
+    "name": "fae",
+    "url": "https://github.com/h3rald/fae",
+    "method": "git",
+    "tags": [
+      "cli",
+      "grep",
+      "find",
+      "search",
+      "replace",
+      "regexp"
+    ],
+    "description": "Find and Edit Utility",
+    "license": "MIT",
+    "web": "https://github.com/h3rald/fae"
   }
 ]
