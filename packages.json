@@ -20274,5 +20274,19 @@
     "description": "Nim wrapper around the ngtcp2 library",
     "license": "MIT",
     "web": "https://github.com/status-im/nim-ngtcp2"
+  },
+  {
+    "name": "bitset",
+    "url": "https://github.com/joryschossau/bitset",
+    "method": "git",
+    "tags": [
+      "c++",
+      "library",
+      "stdlib",
+      "type"
+    ],
+    "description": "A pure nim version of C++'s std::bitset",
+    "license": "MIT",
+    "web": "https://github.com/joryschossau/bitset"
   }
 ]
