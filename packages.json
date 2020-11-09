@@ -20264,6 +20264,19 @@
     "web": "https://github.com/h3rald/fae"
   },
   {
+    "name": "discord_rpc",
+    "url": "https://github.com/SolitudeSF/discord_rpc",
+    "method": "git",
+    "tags": [
+      "discord",
+      "rpc",
+      "rich-presence"
+    ],
+    "description": "Discord RPC/Rich Presence client",
+    "license": "MIT",
+    "web": "https://github.com/SolitudeSF/discord_rpc"
+  },
+  {
     "name": "ngtcp2",
     "url": "https://github.com/status-im/nim-ngtcp2",
     "method": "git",
