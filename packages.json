@@ -20275,5 +20275,17 @@
     "description": "Discord RPC/Rich Presence client",
     "license": "MIT",
     "web": "https://github.com/SolitudeSF/discord_rpc"
+  },
+  {
+    "name": "ngtcp2",
+    "url": "https://github.com/status-im/nim-ngtcp2",
+    "method": "git",
+    "tags": [
+      "ngtcp2",
+      "quic"
+    ],
+    "description": "Nim wrapper around the ngtcp2 library",
+    "license": "MIT",
+    "web": "https://github.com/status-im/nim-ngtcp2"
   }
 ]
