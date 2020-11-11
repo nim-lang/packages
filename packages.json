@@ -14118,6 +14118,32 @@
     "web": "https://github.com/alaviss/kmod"
   },
   {
+    "name": "quickcrypt",
+    "url": "https://github.com/theAkito/nim-quickcrypt",
+    "method": "git",
+    "tags": [
+      "akito",
+      "crypt",
+      "crypto",
+      "encrypt",
+      "encryption",
+      "easy",
+      "quick",
+      "aes",
+      "cbc",
+      "aes-cbc",
+      "nimaes",
+      "nim-aes",
+      "permission",
+      "linux",
+      "posix",
+      "windows",
+      "process"
+    ],
+    "description": "A library for quickly and easily encrypting strings and text file content.",
+    "license": "GPL-3.0-or-later"
+  },
+  {
     "name": "neoid",
     "url": "https://github.com/theAkito/nim-neoid",
     "method": "git",
@@ -14138,7 +14164,7 @@
       "crypto",
       "cryptography"
     ],
-    "description": "Executes a program as a user different from the user running `sue`. The target program is `exec`'ed which means, that it replaces the `sue` process you are using to run the target program. This simulates native tools like `su` and `sudo` and uses the same low-level POSIX tools to achieve that, but eliminates common issues that usually arise, when using those native tools.",
+    "description": "Nim implementation of NanoID, that works with Windows.",
     "license": "GPL-3.0-or-later"
   },
   {
