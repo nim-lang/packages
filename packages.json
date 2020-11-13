@@ -20327,5 +20327,20 @@
     "description": "A pure nim version of C++'s std::bitset",
     "license": "MIT",
     "web": "https://github.com/joryschossau/bitset"
+  },
+  {
+    "name": "nwnt",
+    "url": "https://github.com/WilliamDraco/NWNT",
+    "method": "git",
+    "tags": [
+      "nwn",
+      "neverwinternights",
+      "neverwinter",
+      "game",
+      "bioware"
+    ],
+    "description": "GFF <-> NWNT Converter (NeverWinter Nights Text)",
+    "license": "MIT",
+    "web": "https://github.com/WilliamDraco/NWNT"
   }
 ]
