@@ -14118,6 +14118,23 @@
     "web": "https://github.com/alaviss/kmod"
   },
   {
+    "name": "couchdb",
+    "url": "https://github.com/theAkito/nim-couchdb",
+    "method": "git",
+    "tags": [
+      "akito",
+      "database",
+      "db",
+      "couch",
+      "couchdb",
+      "api",
+      "node",
+      "cluster"
+    ],
+    "description": "A library for managing your CouchDB. Easy & comfortably to use.",
+    "license": "GPL-3.0-or-later"
+  },
+  {
     "name": "quickcrypt",
     "url": "https://github.com/theAkito/nim-quickcrypt",
     "method": "git",
@@ -14138,9 +14155,20 @@
       "linux",
       "posix",
       "windows",
-      "process"
+      "process",
+      "uuid",
+      "oid",
+      "secure",
+      "security",
+      "random",
+      "generator",
+      "rng",
+      "csprng",
+      "cprng",
+      "crng",
+      "cryptography"
     ],
-    "description": "A library for quickly and easily encrypting strings and text file content.",
+    "description": "A library for quickly and easily encrypting strings & files. User-friendly and highly compatible.",
     "license": "GPL-3.0-or-later"
   },
   {
@@ -14162,9 +14190,14 @@
       "cprng",
       "crng",
       "crypto",
-      "cryptography"
+      "cryptography",
+      "crypt",
+      "encrypt",
+      "encryption",
+      "easy",
+      "quick"
     ],
-    "description": "Nim implementation of NanoID, that works with Windows.",
+    "description": "Nim implementation of NanoID, a tiny, secure, URL-friendly, unique string ID generator. Works with Linux and Windows!",
     "license": "GPL-3.0-or-later"
   },
   {
