@@ -20375,5 +20375,19 @@
     "description": "GFF <-> NWNT Converter (NeverWinter Nights Text)",
     "license": "MIT",
     "web": "https://github.com/WilliamDraco/NWNT"
+  },
+  {
+    "name": "minhook",
+    "url": "https://github.com/khchen/minhook",
+    "method": "git",
+    "tags": [
+      "hook",
+      "hooking",
+      "windows"
+    ],
+    "description": "MinHook wrapper for Nim",
+    "license": "MIT",
+    "web": "https://github.com/khchen/minhook"
   }
+ 
 ]
