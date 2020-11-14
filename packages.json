@@ -20007,9 +20007,10 @@
       "compression",
       "zlib",
       "zip",
-      "deflate"
+      "deflate",
+      "gzip"
     ],
-    "description": "In-progress pure Nim implementation of deflate and zlib.",
+    "description": "Pure Nim implementation of deflate, zlib, gzip and zip.",
     "license": "MIT",
     "web": "https://github.com/guzba/zippy"
   },
