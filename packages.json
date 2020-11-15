@@ -20375,5 +20375,19 @@
     "description": "GFF <-> NWNT Converter (NeverWinter Nights Text)",
     "license": "MIT",
     "web": "https://github.com/WilliamDraco/NWNT"
+  },
+  {
+    "name": "bytesequtils",
+    "url": "https://github.com/Clonkk/bytesequtils",
+    "method": "git",
+    "tags": [
+      "bytesequtils",
+      "buffer",
+      "string",
+      "seq[byte]"
+    ],
+    "description": "Nim package to manipulate buffer as either seq[byte] or string",
+    "license": "MIT",
+    "web": "https://clonkk.github.io/bytesequtils/"
   }
 ]
