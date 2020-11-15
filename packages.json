@@ -20378,6 +20378,19 @@
     "web": "https://github.com/WilliamDraco/NWNT"
   },
   {
+    "name": "minhook",
+    "url": "https://github.com/khchen/minhook",
+    "method": "git",
+    "tags": [
+      "hook",
+      "hooking",
+      "windows"
+    ],
+    "description": "MinHook wrapper for Nim",
+    "license": "MIT",
+    "web": "https://github.com/khchen/minhook"
+  },
+  {
     "name": "bytesequtils",
     "url": "https://github.com/Clonkk/bytesequtils",
     "method": "git",
