@@ -1591,6 +1591,34 @@
     "web": "https://github.com/PMunch/notificatcher"
   },
   {
+    "name": "notifishower",
+    "url": "https://github.com/PMunch/notifishower",
+    "method": "git",
+    "tags": [
+      "binary",
+      "notifications",
+      "graphics",
+      "gui"
+    ],
+    "description": "Small program to draw notifications on the screen in a highly customisable way",
+    "license": "MIT",
+    "web": "https://github.com/PMunch/notifishower"
+  },
+  {
+    "name": "wxnim",
+    "url": "https://github.com/PMunch/wxnim",
+    "method": "git",
+    "tags": [
+      "wrapper",
+      "library",
+      "graphics",
+      "gui"
+    ],
+    "description": "Nim wrapper for wxWidgets. Also contains high-level genui macro",
+    "license": "MIT",
+    "web": "https://github.com/PMunch/wxnim"
+  },
+  {
     "name": "sdl2_nim",
     "url": "https://github.com/Vladar4/sdl2_nim",
     "method": "git",
