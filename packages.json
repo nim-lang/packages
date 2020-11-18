@@ -19483,9 +19483,10 @@
     "tags": [
       "perlin",
       "simplex",
-      "noise"
+      "noise",
+      "simd"
     ],
-    "description": "Simple noise generation.",
+    "description": "SIMD-accelerated noise generation (Simplex, Perlin).",
     "license": "MIT",
     "web": "https://github.com/guzba/noisy"
   },
