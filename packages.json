@@ -20432,5 +20432,15 @@
     "description": "Nim package to manipulate buffer as either seq[byte] or string",
     "license": "MIT",
     "web": "https://clonkk.github.io/bytesequtils/"
+  },
+  {
+    "name": "wyhash",
+    "url": "https://github.com/jackhftang/wyhash.nim",
+    "method": "git",
+    "tags": [
+      "hash"
+    ],
+    "description": "Nim wrapper for wyhash",
+    "license": "MIT"
   }
 ]
