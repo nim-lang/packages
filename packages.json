@@ -20442,5 +20442,18 @@
     ],
     "description": "Nim wrapper for wyhash",
     "license": "MIT"
+  },
+  {
+    "name": "sliceutils",
+    "url": "https://github.com/hlaaftana/sliceutils",
+    "method": "git",
+    "tags": [
+      "slice",
+      "index",
+      "iterator"
+    ],
+    "description": "Utilities for and extensions to Slice/HSlice",
+    "license": "MIT",
+    "web": "https://hlaaftana.github.io/sliceutils/sliceutils.html"
   }
 ]
