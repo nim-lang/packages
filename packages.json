@@ -20455,5 +20455,19 @@
     "description": "Utilities for and extensions to Slice/HSlice",
     "license": "MIT",
     "web": "https://hlaaftana.github.io/sliceutils/sliceutils.html"
+  },
+  {
+    "name": "defines",
+    "url": "https://github.com/hlaaftana/defines",
+    "method": "git",
+    "tags": [
+      "sugar",
+      "macros",
+      "unpacking",
+      "assignment"
+    ],
+    "description": "syntax sugar for local definitions",
+    "license": "MIT",
+    "web": "https://hlaaftana.github.io/defines/defines.html"
   }
 ]
