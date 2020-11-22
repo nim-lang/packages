@@ -11102,6 +11102,25 @@
     "web": "https://github.com/treeform/urlly"
   },
   {
+    "name": "pixie",
+    "url": "https://github.com/treeform/pixie",
+    "method": "git",
+    "tags": [
+      "images",
+      "paths",
+      "stroke",
+      "fill",
+      "vector",
+      "raster",
+      "png",
+      "bmp",
+      "jpg"
+    ],
+    "description": "Full-featured 2d graphics library for Nim.",
+    "license": "MIT",
+    "web": "https://github.com/treeform/pixie"
+  },
+  {
     "name": "xdo",
     "url": "https://github.com/juancarlospaco/nim-xdo",
     "method": "git",
