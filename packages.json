@@ -13622,6 +13622,18 @@
     "web": "https://github.com/lihf8515/parseini"
   },
   {
+    "name": "wxpay",
+    "url": "https://github.com/lihf8515/wxpay",
+    "method": "git",
+    "tags": [
+      "wxpay",
+      "nim"
+    ],
+    "description": "A wechat payment sdk for nim.",
+    "license": "MIT",
+    "web": "https://github.com/lihf8515/wxpay"
+  },
+  {
     "name": "sonic",
     "url": "https://github.com/xmonader/nim-sonic-client",
     "method": "git",
