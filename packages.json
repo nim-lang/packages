@@ -20516,7 +20516,7 @@
   },
   {
     "name": "colorizeEcho",
-    "url": "https://github.com/s3pt3mb3r/colorizeNim",
+    "url": "https://github.com/s3pt3mb3r/colorizeEcho",
     "method": "git",
     "tags": [
       "windows",
@@ -20527,6 +20527,6 @@
     ],
     "description": "colorizeEcho is a package which colorize echo message on Windows command prompt.",
     "license": "MIT",
-    "web": "https://github.com/s3pt3mb3r/colorizeNim"
+    "web": "https://github.com/s3pt3mb3r/colorizeEcho"
   }
 ]
