@@ -20556,5 +20556,18 @@
     "description": "A bridge between R and Nim",
     "license": "MIT",
     "web": "https://github.com/SciNim/rnim"
+  },
+  {
+    "name": "stdext",
+    "url": "https://github.com/zendbit/nim.stdext",
+    "method": "git",
+    "tags": [
+      "stdlib",
+      "tool",
+      "util"
+    ],
+    "description": "Extends stdlib make it easy on some case",
+    "license": "BSD",
+    "web": "https://github.com/zendbit/nim.stdext"
   }
 ]
