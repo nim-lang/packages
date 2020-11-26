@@ -10604,7 +10604,7 @@
   },
   {
     "name": "blosc",
-    "url": "https://github.com/Skrylar/nblosc",
+    "url": "https://github.com/Vindaar/nblosc",
     "method": "git",
     "tags": [
       "blosc",
@@ -10613,7 +10613,7 @@
     ],
     "description": "Bit Shuffling Block Compressor (C-Blosc)",
     "license": "BSD",
-    "web": "https://github.com/Skrylar/nblosc"
+    "web": "https://github.com/Vindaar/nblosc"
   },
   {
     "name": "fltk",
@@ -20528,5 +20528,33 @@
     "description": "colorizeEcho is a package which colorize echo message on Windows command prompt.",
     "license": "MIT",
     "web": "https://github.com/s3pt3mb3r/colorizeEcho"
+  },
+  {
+    "name": "latexdsl",
+    "url": "https://github.com/Vindaar/LatexDSL",
+    "method": "git",
+    "tags": [
+      "library",
+      "dsl",
+      "latex"
+    ],
+    "description": "A DSL to generate LaTeX from Nim",
+    "license": "MIT",
+    "web": "https://github.com/Vindaar/LatexDSL"
+  },
+  {
+    "name": "rnim",
+    "url": "https://github.com/SciNim/rnim",
+    "method": "git",
+    "tags": [
+      "R",
+      "rstats",
+      "bridge",
+      "library",
+      "statistics"
+    ],
+    "description": "A bridge between R and Nim",
+    "license": "MIT",
+    "web": "https://github.com/SciNim/rnim"
   }
 ]
