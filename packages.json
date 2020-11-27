@@ -20569,5 +20569,23 @@
     "description": "Extends stdlib make it easy on some case",
     "license": "BSD",
     "web": "https://github.com/zendbit/nim.stdext"
+  },
+  {
+    "name": "AccurateSums",
+    "url": "https://gitlab.com/lbartoletti/accuratesums",
+    "method": "git",
+    "tags": [
+      "sum",
+      "float",
+      "errors",
+      "floating point",
+      "rounding",
+      "numerical methods",
+      "number",
+      "math"
+    ],
+    "description": ""Accurate Floating Point Sums and Products.",
+    "license": "MIT",
+    "web": "https://gitlab.com/lbartoletti/accuratesums"
   }
 ]
