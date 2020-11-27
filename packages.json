@@ -20584,7 +20584,7 @@
       "number",
       "math"
     ],
-    "description": ""Accurate Floating Point Sums and Products.",
+    "description": "Accurate Floating Point Sums and Products.",
     "license": "MIT",
     "web": "https://gitlab.com/lbartoletti/accuratesums"
   }
