@@ -20397,6 +20397,20 @@
     "web": "https://github.com/SolitudeSF/discord_rpc"
   },
   {
+    "name": "runeterra_decks",
+    "url": "https://github.com/SolitudeSF/runeterra_decks",
+    "method": "git",
+    "tags": [
+      "runeterra",
+      "deck",
+      "encoder",
+      "decoder"
+    ],
+    "description": "Legends of Runeterra deck/card code encoder/decoder",
+    "license": "MIT",
+    "web": "https://github.com/SolitudeSF/runeterra_decks"
+  },
+  {
     "name": "ngtcp2",
     "url": "https://github.com/status-im/nim-ngtcp2",
     "method": "git",
