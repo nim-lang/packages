@@ -20603,8 +20603,8 @@
     "web": "https://gitlab.com/lbartoletti/accuratesums"
   },
   {
-    "name": "mk",
-    "url": "https://gitlab.com/nimlang/mk",
+    "name": "shmk",
+    "url": "https://gitlab.com/thisNimAgo/mk",
     "method": "git",
     "tags": [
       "mkdir",
@@ -20615,7 +20615,7 @@
     ],
     "description": "Smart file/folder creation",
     "license": "MIT",
-    "web": "https://gitlab.com/nimlang/mk",
-    "doc": "https://gitlab.com/nimlang/mk"
+    "web": "https://gitlab.com/thisNimAgo/mk",
+    "doc": "https://gitlab.com/thisNimAgo/mk"
   }
 ]
