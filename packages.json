@@ -20601,5 +20601,21 @@
     "description": "Accurate Floating Point Sums and Products.",
     "license": "MIT",
     "web": "https://gitlab.com/lbartoletti/accuratesums"
+  },
+  {
+    "name": "shmk",
+    "url": "https://gitlab.com/thisNimAgo/mk",
+    "method": "git",
+    "tags": [
+      "mkdir",
+      "mkfile",
+      "directory",
+      "recursive",
+      "executable"
+    ],
+    "description": "Smart file/folder creation",
+    "license": "MIT",
+    "web": "https://gitlab.com/thisNimAgo/mk",
+    "doc": "https://gitlab.com/thisNimAgo/mk"
   }
 ]
