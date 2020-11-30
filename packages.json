@@ -18609,22 +18609,6 @@
     "web": "https://github.com/bung87/tim_sort"
   },
   {
-    "name": "inumon",
-    "url": "https://github.com/dizzyliam/inumon",
-    "method": "git",
-    "tags": [
-      "image",
-      "images",
-      "png",
-      "image manipulation",
-      "jpeg",
-      "jpg"
-    ],
-    "description": "A high-level image I/O and manipulation library for Nim.",
-    "license": "MPL 2.0",
-    "web": "https://github.com/dizzyliam/inumon"
-  },
-  {
     "name": "gerbil",
     "url": "https://github.com/jasonprogrammer/gerbil",
     "method": "git",
