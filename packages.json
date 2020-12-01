@@ -20617,5 +20617,16 @@
     "license": "MIT",
     "web": "https://gitlab.com/thisNimAgo/mk",
     "doc": "https://gitlab.com/thisNimAgo/mk"
+  },
+  {
+    "name": "siwin",
+    "url": "https://github.com/levovix0/siwin",
+    "method": "git",
+    "tags": [
+      "windows",
+      "linux"
+    ],
+    "description": "Simple window maker.",
+    "license": "MIT"
   }
 ]
