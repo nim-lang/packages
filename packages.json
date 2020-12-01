@@ -20557,6 +20557,19 @@
     "web": "https://github.com/Vindaar/LatexDSL"
   },
   {
+    "name": "nimsimd",
+    "url": "https://github.com/guzba/nimsimd",
+    "method": "git",
+    "tags": [
+      "simd",
+      "sse",
+      "avx"
+    ],
+    "description": "Pleasant Nim bindings for SIMD instruction sets",
+    "license": "MIT",
+    "web": "https://github.com/guzba/nimsimd"
+  },
+  {
     "name": "rnim",
     "url": "https://github.com/SciNim/rnim",
     "method": "git",
