@@ -15301,20 +15301,20 @@
   },
   {
     "name": "manu",
-    "url": "https://github.com/b3liever/manu",
+    "url": "https://github.com/planetis-m/manu",
     "method": "git",
     "tags": [
       "matrix",
       "linear-algebra",
       "scientific"
     ],
-    "description": "Nim Matrix library",
+    "description": "Matrix library",
     "license": "MIT",
-    "web": "https://github.com/b3liever/manu"
+    "web": "https://github.com/planetis-m/manu"
   },
   {
     "name": "jscanvas",
-    "url": "https://github.com/b3liever/jscanvas",
+    "url": "https://github.com/planetis-m/jscanvas",
     "method": "git",
     "tags": [
       "html5",
@@ -15325,47 +15325,74 @@
       "browser",
       "javascript"
     ],
-    "description": "A Nim wrapper for the Canvas API",
+    "description": "a wrapper for the Canvas API",
     "license": "MIT",
-    "web": "https://github.com/b3liever/jscanvas"
+    "web": "https://github.com/planetis-m/jscanvas"
   },
   {
     "name": "looper",
-    "url": "https://github.com/b3liever/looper",
+    "url": "https://github.com/planetis-m/looper",
     "method": "git",
     "tags": [
       "loop",
       "iterator",
       "zip",
-      "enumerate"
+      "collect"
     ],
-    "description": "For loop macros for Nim",
+    "description": "for loop macros",
     "license": "MIT",
-    "web": "https://github.com/b3liever/looper"
+    "web": "https://github.com/planetis-m/looper"
   },
   {
     "name": "protocoled",
-    "url": "https://github.com/b3liever/protocoled",
+    "url": "https://github.com/planetis-m/protocoled",
     "method": "git",
     "tags": [
       "interface"
     ],
-    "description": "An interface macro for Nim",
+    "description": "an interface macro",
     "license": "MIT",
-    "web": "https://github.com/b3liever/protocoled"
+    "web": "https://github.com/planetis-m/protocoled"
   },
   {
     "name": "eminim",
-    "url": "https://github.com/b3liever/eminim",
+    "url": "https://github.com/planetis-m/eminim",
     "method": "git",
     "tags": [
       "json",
       "marshal",
+      "serialize",
       "deserialize"
     ],
-    "description": "JSON deserialization macro for Nim",
+    "description": "JSON serialization library",
     "license": "MIT",
-    "web": "https://github.com/b3liever/eminim"
+    "web": "https://github.com/planetis-m/eminim"
+  },
+  {
+    "name": "gnuplotlib",
+    "url": "https://github.com/planetis-m/gnuplotlib",
+    "method": "git",
+    "tags": [
+      "graphics",
+      "plotting",
+      "graphing",
+      "data"
+    ],
+    "description": "gnuplot interface",
+    "license": "MIT",
+    "web": "https://github.com/planetis-m/gnuplotlib"
+  },
+  {
+    "name": "patgraph",
+    "url": "https://github.com/planetis-m/patgraph",
+    "method": "git",
+    "tags": [
+      "graph",
+      "datastructures"
+    ],
+    "description": "Graph data structure library",
+    "license": "MIT",
+    "web": "https://github.com/planetis-m/patgraph"
   },
   {
     "name": "golden",
@@ -16402,18 +16429,6 @@
     "description": "gyaric is a module to encode/decode text to unreadable gyaru's text.",
     "license": "MIT",
     "web": "https://github.com/jiro4989/gyaric"
-  },
-  {
-    "name": "patgraph",
-    "url": "https://github.com/b3liever/patgraph",
-    "method": "git",
-    "tags": [
-      "datastructures",
-      "library"
-    ],
-    "description": "Graph data structure library",
-    "license": "MIT",
-    "web": "https://github.com/b3liever/patgraph"
   },
   {
     "name": "skbintext",
