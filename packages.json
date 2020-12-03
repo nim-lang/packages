@@ -15364,9 +15364,23 @@
       "serialize",
       "deserialize"
     ],
-    "description": "JSON serialization library",
+    "description": "JSON serialization framework",
     "license": "MIT",
     "web": "https://github.com/planetis-m/eminim"
+  },
+  {
+    "name": "bingod",
+    "url": "https://github.com/planetis-m/bingod",
+    "method": "git",
+    "tags": [
+      "binary",
+      "marshal",
+      "serialize",
+      "deserialize"
+    ],
+    "description": "Binary serialization framework",
+    "license": "MIT",
+    "web": "https://github.com/planetis-m/bingod"
   },
   {
     "name": "gnuplotlib",
