@@ -12836,7 +12836,7 @@
     ],
     "description": "Nimterop makes C/C++ interop within Nim seamless",
     "license": "MIT",
-    "web": "https://github.com/genotrance/nimtreesitter"
+    "web": "https://github.com/genotrance/nimterop"
   },
   {
     "name": "ringDeque",
