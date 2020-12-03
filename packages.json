@@ -11121,6 +11121,17 @@
     "web": "https://github.com/treeform/pixie"
   },
   {
+    "name": "jsony",
+    "url": "https://github.com/treeform/jsony",
+    "method": "git",
+    "tags": [
+      "json"
+    ],
+    "description": "A loose, direct to object json parser with hooks.",
+    "license": "MIT",
+    "web": "https://github.com/treeform/jsony"
+  },
+  {
     "name": "xdo",
     "url": "https://github.com/juancarlospaco/nim-xdo",
     "method": "git",
