@@ -12422,9 +12422,10 @@
       "command-line",
       "editor",
       "text",
-      "cli"
+      "cli",
+      "terminal"
     ],
-    "description": "A command lined based text editor",
+    "description": "A command lined based text editor inspired by vi/vim",
     "license": "GPLv3",
     "web": "https://github.com/fox0430/moe"
   },
