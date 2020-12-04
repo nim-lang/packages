@@ -20682,5 +20682,19 @@
     ],
     "description": "Simple window maker.",
     "license": "MIT"
+  },
+  {
+    "name": "lytedev_example_nim_package",
+    "url": "https://github.com/lytedev/example-nim-package",
+    "method": "git",
+    "tags": [
+      "nimble",
+      "package",
+      "example",
+      "nim"
+    ],
+    "description": "My example nim package.",
+    "license": "MIT",
+    "web": "https://github.com/lytedev/example-nim-package"
   }
 ]
