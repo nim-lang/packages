@@ -14759,14 +14759,14 @@
   },
   {
     "name": "ternary_tree",
-    "url": "https://github.com/Cirru/ternary-tree",
+    "url": "https://github.com/calcit-lang/ternary-tree",
     "method": "git",
     "tags": [
       "data-structure"
     ],
     "description": "Structural sharing data structure of lists and maps.",
     "license": "MIT",
-    "web": "https://github.com/Cirru/ternary-tree"
+    "web": "https://github.com/calcit-lang/ternary-tree"
   },
   {
     "name": "reframe",
