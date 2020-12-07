@@ -15381,8 +15381,8 @@
     "web": "https://github.com/planetis-m/eminim"
   },
   {
-    "name": "bingod",
-    "url": "https://github.com/planetis-m/bingod",
+    "name": "bingo",
+    "url": "https://github.com/planetis-m/bingo",
     "method": "git",
     "tags": [
       "binary",
@@ -15392,7 +15392,7 @@
     ],
     "description": "Binary serialization framework",
     "license": "MIT",
-    "web": "https://github.com/planetis-m/bingod"
+    "web": "https://github.com/planetis-m/bingo"
   },
   {
     "name": "gnuplotlib",
