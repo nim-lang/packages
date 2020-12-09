@@ -20724,5 +20724,18 @@
     "description": "\"pointers\" to cached AST that instantiate routines when called",
     "license": "MIT",
     "web": "https://hlaaftana.github.io/applicates/applicates.html"
+  },
+  {
+    "name": "timelog",
+    "url": "https://github.com/Clonkk/timelog",
+    "method": "git",
+    "tags": [
+      "timing",
+      "log",
+      "template"
+    ],
+    "description": "Simple nimble package to log monotic timings",
+    "license": "MIT",
+    "web": "https://github.com/Clonkk/timelog"
   }
 ]
