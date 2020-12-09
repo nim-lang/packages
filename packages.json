@@ -20737,5 +20737,18 @@
     "description": "Simple nimble package to log monotic timings",
     "license": "MIT",
     "web": "https://github.com/Clonkk/timelog"
+  },
+  {
+    "name": "changer",
+    "url": "https://github.com/iffy/changer",
+    "method": "git",
+    "tags": [
+      "packaging",
+      "changelog",
+      "version"
+    ],
+    "description": "A tool for managing a project's changelog",
+    "license": "MIT",
+    "web": "https://github.com/iffy/changer"
   }
 ]
