@@ -9,6 +9,8 @@ jobs:
       - uses: actions/checkout@v2
       - uses: iffy/install-nim@v3
         with:
-          version: 0.18.0
+          version: stable
       - run: nim c -d:ssl -r package_scanner.nim
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - run: node ./validate_json.js
