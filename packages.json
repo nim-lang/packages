@@ -20710,5 +20710,18 @@
     "description": "User-friendly nimcli.",
     "license": "MIT",
     "web": "https://github.com/unimorg/unimcli"
+  },
+  {
+    "name": "timelog",
+    "url": "https://github.com/Clonkk/timelog",
+    "method": "git",
+    "tags": [
+      "timing",
+      "log",
+      "template"
+    ],
+    "description": "Simple nimble package to log monotic timings",
+    "license": "MIT",
+    "web": "https://github.com/Clonkk/timelog"
   }
 ]
