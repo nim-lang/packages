@@ -20737,5 +20737,18 @@
     "description": "Simple nimble package to log monotic timings",
     "license": "MIT",
     "web": "https://github.com/Clonkk/timelog"
+  },
+  {
+    "name": "bitstreams",
+    "url": "https://github.com/sealmove/bitstreams",
+    "method": "git",
+    "tags": [
+      "library",
+      "streams",
+      "bits"
+    ],
+    "description": "Interface for reading per bits",
+    "license": "MIT",
+    "web": "https://github.com/sealmove/bitstreams"
   }
 ]
