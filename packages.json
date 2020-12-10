@@ -20750,5 +20750,18 @@
     "description": "Sparsets for Nim",
     "license": "MIT",
     "web": "https://github.com/planetis-m/sparseset"
+  },
+  {
+    "name": "bitstreams",
+    "url": "https://github.com/sealmove/bitstreams",
+    "method": "git",
+    "tags": [
+      "library",
+      "streams",
+      "bits"
+    ],
+    "description": "Interface for reading per bits",
+    "license": "MIT",
+    "web": "https://github.com/sealmove/bitstreams"
   }
 ]
