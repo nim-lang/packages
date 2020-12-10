@@ -20737,5 +20737,18 @@
     "description": "Simple nimble package to log monotic timings",
     "license": "MIT",
     "web": "https://github.com/Clonkk/timelog"
+  },
+  {
+    "name": "sparseset",
+    "url": "https://github.com/planetis-m/sparseset",
+    "method": "git",
+    "tags": [
+      "sparseset",
+      "library",
+      "datastructures"
+    ],
+    "description": "Sparsets for Nim",
+    "license": "MIT",
+    "web": "https://github.com/planetis-m/sparseset"
   }
 ]
