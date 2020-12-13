@@ -9646,7 +9646,7 @@
   },
   {
     "name": "nimlibxlsxwriter",
-    "url": "https://github.com/KeepCoolWithCoolidge/nimlibxlsxwriter",
+    "url": "https://github.com/ThomasTJdev/nimlibxlsxwriter",
     "method": "git",
     "tags": [
       "Excel",
@@ -9655,7 +9655,7 @@
     ],
     "description": "libxslxwriter wrapper for Nim",
     "license": "MIT",
-    "web": "https://github.com/KeepCoolWithCoolidge/nimlibxlsxwriter"
+    "web": "https://github.com/ThomasTJdev/nimlibxlsxwriter"
   },
   {
     "name": "nimclutter",
