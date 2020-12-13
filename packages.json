@@ -20763,5 +20763,18 @@
     "description": "Interface for reading per bits",
     "license": "MIT",
     "web": "https://github.com/sealmove/bitstreams"
+  },
+  {
+    "name": "deser",
+    "url": "https://github.com/gabbhack/deser",
+    "method": "git",
+    "tags": [
+      "library",
+      "deserialization",
+      "serialization"
+    ],
+    "description": "De/serialization library for Nim ",
+    "license": "MIT",
+    "web": "https://github.com/gabbhack/deser"
   }
 ]
