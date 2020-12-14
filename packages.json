@@ -20765,6 +20765,20 @@
     "web": "https://github.com/sealmove/bitstreams"
   },
   {
+    "name": "htsparse",
+    "url": "https://github.com/haxscramper/htsparse",
+    "method": "git",
+    "tags": [
+      "library",
+      "wrapper",
+      "parser",
+      ""
+    ],
+    "description": "Nim wrappers for tree-sitter parser grammars",
+    "license": "Apache-2.0",
+    "web": "https://github.com/haxscramper/htsparse"
+  },
+  {
     "name": "deser",
     "url": "https://github.com/gabbhack/deser",
     "method": "git",
