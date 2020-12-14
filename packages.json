@@ -9646,7 +9646,7 @@
   },
   {
     "name": "nimlibxlsxwriter",
-    "url": "https://github.com/KeepCoolWithCoolidge/nimlibxlsxwriter",
+    "url": "https://github.com/ThomasTJdev/nimlibxlsxwriter",
     "method": "git",
     "tags": [
       "Excel",
@@ -9655,7 +9655,7 @@
     ],
     "description": "libxslxwriter wrapper for Nim",
     "license": "MIT",
-    "web": "https://github.com/KeepCoolWithCoolidge/nimlibxlsxwriter"
+    "web": "https://github.com/ThomasTJdev/nimlibxlsxwriter"
   },
   {
     "name": "nimclutter",
@@ -20777,5 +20777,31 @@
     "description": "Nim wrappers for tree-sitter parser grammars",
     "license": "Apache-2.0",
     "web": "https://github.com/haxscramper/htsparse"
+  },
+  {
+    "name": "deser",
+    "url": "https://github.com/gabbhack/deser",
+    "method": "git",
+    "tags": [
+      "library",
+      "deserialization",
+      "serialization"
+    ],
+    "description": "De/serialization library for Nim ",
+    "license": "MIT",
+    "web": "https://github.com/gabbhack/deser"
+  },
+  {
+    "name": "nimtraits",
+    "url": "https://github.com/haxscramper/nimtraits",
+    "method": "git",
+    "tags": [
+      "macro",
+      "library",
+      "traits"
+    ],
+    "description": "Trait system for nim",
+    "license": "Apache-2.0",
+    "web": "https://github.com/haxscramper/nimtraits"
   }
 ]
