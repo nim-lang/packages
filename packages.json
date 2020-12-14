@@ -20776,5 +20776,18 @@
     "description": "De/serialization library for Nim ",
     "license": "MIT",
     "web": "https://github.com/gabbhack/deser"
+  },
+  {
+    "name": "nimtraits",
+    "url": "https://github.com/haxscramper/nimtraits",
+    "method": "git",
+    "tags": [
+      "macro",
+      "library",
+      "traits"
+    ],
+    "description": "Trait system for nim",
+    "license": "Apache-2.0",
+    "web": "https://github.com/haxscramper/nimtraits"
   }
 ]
