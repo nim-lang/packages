@@ -20803,5 +20803,20 @@
     "description": "Trait system for nim",
     "license": "Apache-2.0",
     "web": "https://github.com/haxscramper/nimtraits"
+  },
+  {
+    "name": "deser_json",
+    "url": "https://github.com/gabbhack/deser_json",
+    "method": "git",
+    "tags": [
+      "JSON",
+      "library",
+      "serialization",
+      "deserialization",
+      "deser"
+    ],
+    "description": "JSON-Binding for deser",
+    "license": "MIT",
+    "web": "https://github.com/gabbhack/deser_json"
   }
 ]
