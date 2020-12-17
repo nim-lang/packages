@@ -20831,5 +20831,18 @@
     "description": "NodeJS Standard Library for Nim",
     "license": "MIT",
     "web": "https://github.com/juancarlospaco/nodestdlib"
+  },
+  {
+    "name": "libp2p",
+    "url": "https://github.com/status-im/nim-libp2p",
+    "method": "git",
+    "tags": [
+      "libp2p",
+      "p2p",
+      "networking"
+    ],
+    "description": "LibP2P implementation",
+    "license": "MIT",
+    "web": "https://github.com/status-im/nim-libp2p"
   }
 ]
