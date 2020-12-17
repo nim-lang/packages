@@ -20818,5 +20818,17 @@
     "description": "JSON-Binding for deser",
     "license": "MIT",
     "web": "https://github.com/gabbhack/deser_json"
+  },
+  {
+    "name": "nodejs",
+    "url": "https://github.com/juancarlospaco/nodestdlib",
+    "method": "git",
+    "tags": [
+      "javascript",
+      "node"
+    ],
+    "description": "NodeJS Standard Library for Nim",
+    "license": "MIT",
+    "web": "https://github.com/juancarlospaco/nodestdlib"
   }
 ]
