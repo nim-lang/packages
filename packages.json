@@ -20681,7 +20681,8 @@
       "linux"
     ],
     "description": "Simple window maker.",
-    "license": "MIT"
+    "license": "MIT",
+    "web": "https://github.com/levovix0/siwin"
   },
   {
     "name": "NimDBX",
