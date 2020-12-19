@@ -20842,7 +20842,7 @@
       "udp",
       "tcp"
     ],
-    "description": "A pure Nim client Domain Name System (DNS)",
+    "description": "A pure Nim Domain Name System (DNS) client",
     "license": "MIT",
     "web": "https://github.com/rockcavera/nim-ndns"
   }
