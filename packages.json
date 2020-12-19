@@ -20857,5 +20857,18 @@
     "description": "Domain Name System (DNS) protocol for Nim programming language",
     "license": "MIT",
     "web": "https://github.com/rockcavera/nim-dnsprotocol"
+  },
+  {
+    "name": "dimscmd",
+    "url": "https://github.com/ire4ever1190/dimscordCommandHandler",
+    "method": "git",
+    "tags": [
+      "discord,",
+      "dimscord,",
+      "library"
+    ],
+    "description": "A command handler for the dimscord discord library",
+    "license": "MIT",
+    "web": "https://github.com/ire4ever1190/dimscordCommandHandler"
   }
 ]
