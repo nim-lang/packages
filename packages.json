@@ -20833,6 +20833,20 @@
     "web": "https://github.com/juancarlospaco/nodestdlib"
   },
   {
+    "name": "ndns",
+    "url": "https://github.com/rockcavera/nim-ndns",
+    "method": "git",
+    "tags": [
+      "dns",
+      "client",
+      "udp",
+      "tcp"
+    ],
+    "description": "A pure Nim Domain Name System (DNS) client",
+    "license": "MIT",
+    "web": "https://github.com/rockcavera/nim-ndns"
+  },
+  {
     "name": "dnsprotocol",
     "url": "https://github.com/rockcavera/nim-dnsprotocol",
     "method": "git",
