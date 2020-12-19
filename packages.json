@@ -20870,5 +20870,22 @@
     "description": "A command handler for the dimscord discord library",
     "license": "MIT",
     "web": "https://github.com/ire4ever1190/dimscordCommandHandler"
+  },
+  {
+    "name": "binarylang",
+    "url": "https://github.com/sealmove/binarylang",
+    "method": "git",
+    "tags": [
+      "parse",
+      "encode",
+      "binary",
+      "bitfield",
+      "dsl",
+      "library",
+      "macro"
+    ],
+    "description": "Binary parser/encoder DSL",
+    "license": "MIT",
+    "web": "https://github.com/sealmove/binarylang"
   }
 ]
