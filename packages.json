@@ -20870,5 +20870,17 @@
     "description": "A command handler for the dimscord discord library",
     "license": "MIT",
     "web": "https://github.com/ire4ever1190/dimscordCommandHandler"
+  },
+  {
+    "name": "amka",
+    "url": "https://github.com/zoispag/amka-nim",
+    "method": "git",
+    "tags": [
+      "amka",
+      "greek-social-security-number"
+    ],
+    "description": "A validator for greek social security number (AMKA)",
+    "license": "MIT",
+    "web": "https://github.com/zoispag/amka-nim"
   }
 ]
