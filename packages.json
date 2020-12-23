@@ -20882,5 +20882,17 @@
     "description": "A validator for greek social security number (AMKA)",
     "license": "MIT",
     "web": "https://github.com/zoispag/amka-nim"
+  },
+  {
+    "name": "Nimscripter",
+    "url": "https://github.com/beef331/nimscripter",
+    "method": "git",
+    "tags": [
+      "scripting",
+      "nimscript"
+    ],
+    "description": "Easy to use Nim/Nimscript interop, for scripting logic in compiled binaries.",
+    "license": "MIT",
+    "web": "https://github.com/beef331/nimscripter"
   }
 ]
