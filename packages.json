@@ -20894,5 +20894,18 @@
     "description": "Easy to use Nim/Nimscript interop, for scripting logic in compiled binaries.",
     "license": "MIT",
     "web": "https://github.com/beef331/nimscripter"
+  },
+  {
+    "name": "vtable",
+    "url": "https://github.com/codehz/nim-vtable",
+    "method": "git",
+    "tags": [
+      "oop",
+      "method",
+      "vtable",
+      "trait"
+    ],
+    "description": "Implement dynamic dispatch through vtable, should works for dynlib.",
+    "license": "LGPL-3.0"
   }
 ]
