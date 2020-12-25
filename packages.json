@@ -5,10 +5,10 @@
     "method": "git",
     "tags": [
       "phylogenetics",
-			"phylogeny",
+      "phylogeny",
       "tree",
       "bioinformatics",
-			"evolution"
+      "evolution"
     ],
     "description": "A library with some basic functions for working with phylogenetic trees.",
     "license": "MIT",
