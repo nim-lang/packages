@@ -1,5 +1,21 @@
 [
   {
+    "name": "PhylogeNi",
+    "url": "https://github.com/kerrycobb/PhylogeNi",
+    "method": "git",
+    "tags": [
+      "phylogenetics",
+      "phylogeny",
+      "tree",
+      "bioinformatics",
+      "evolution"
+    ],
+    "description": "A library with some basic functions for working with phylogenetic trees.",
+    "license": "MIT",
+    "web": "https://github.com/kerrycobb/PhylogeNi/",
+    "doc": "https://kerrycobb.github.io/PhylogeNi/"
+  },  
+  {
     "name": "geminim",
     "url": "https://github.com/IDF31/geminim",
     "license": "BSD-2",
