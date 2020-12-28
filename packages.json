@@ -14,7 +14,7 @@
     "license": "MIT",
     "web": "https://github.com/kerrycobb/PhylogeNi/",
     "doc": "https://kerrycobb.github.io/PhylogeNi/"
-  },  
+  },
   {
     "name": "geminim",
     "url": "https://github.com/IDF31/geminim",
@@ -20935,5 +20935,18 @@
     ],
     "description": "Mapping nim type to xml node, and parse from it.",
     "license": "LGPL-3.0"
+  },
+  {
+    "name": "Palette",
+    "url": "https://github.com/momeemt/Palette",
+    "method": "git",
+    "tags": [
+      "color",
+      "library",
+      "nigui"
+    ],
+    "description": "Color Library",
+    "license": "MIT",
+    "web": "https://github.com/momeemt/Palette"
   }
 ]
