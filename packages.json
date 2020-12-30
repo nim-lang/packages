@@ -11479,6 +11479,18 @@
     "web": "https://github.com/pigmej/nim-simple-decimal"
   },
   {
+    "name": "fuzzy",
+    "url": "https://github.com/pigmej/fuzzy",
+    "method": "git",
+    "tags": [
+      "fuzzy",
+      "search"
+    ],
+    "description": "Pure nim fuzzy search implementation. Supports substrings etc",
+    "license": "MIT",
+    "web": "https://github.com/pigmej/fuzzy"
+  },
+  {
     "name": "calibre",
     "url": "https://github.com/juancarlospaco/nim-calibre",
     "method": "git",
