@@ -18776,6 +18776,53 @@
     "web": "https://github.com/capocasa/naw"
   },
   {
+    "name": "opus",
+    "url": "https://github.com/capocasa/nim-opus",
+    "method": "git",
+    "tags": [
+      "opus",
+      "decoder",
+      "xiph",
+      "audio",
+      "codec",
+      "lossy",
+      "compression"
+    ],
+    "description": "A nimterop wrapper for the opus audio decoder",
+    "license": "MIT",
+    "web": "https://github.com/capocasa/nim-opus"
+  },
+  {
+    "name": "nestegg",
+    "url": "https://github.com/capocasa/nim-nestegg",
+    "method": "git",
+    "tags": [
+      "nestegg",
+      "demuxer",
+      "webm",
+      "video",
+      "container"
+    ],
+    "description": "A nimterop wrapper for the nestegg portable webm video demuxer",
+    "license": "MIT",
+    "web": "https://github.com/capocasa/nim-nestegg"
+  },
+  {
+    "name": "dav1d",
+    "url": "https://github.com/capocasa/nim-dav1d",
+    "method": "git",
+    "tags": [
+      "dav1d",
+      "decoder",
+      "av1",
+      "video",
+      "codec"
+    ],
+    "description": "A nimterop wrapper for the dav1d portable-and-fast AV1 video decoder",
+    "license": "MIT",
+    "web": "https://github.com/capocasa/nim-dav1d"
+  },
+  {
     "name": "nimviz",
     "url": "https://github.com/Rekihyt/nimviz",
     "method": "git",
