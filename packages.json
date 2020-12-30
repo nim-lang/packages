@@ -11148,6 +11148,19 @@
     "web": "https://github.com/treeform/jsony"
   },
   {
+    "name": "dumpimports",
+    "url": "https://github.com/treeform/dumpimports",
+    "method": "git",
+    "tags": [
+      "imports",
+      "perf",
+      "exe"
+    ],
+    "description": "See where your exe size comes from.",
+    "license": "MIT",
+    "web": "https://github.com/treeform/dumpimports"
+  },
+  {
     "name": "xdo",
     "url": "https://github.com/juancarlospaco/nim-xdo",
     "method": "git",
