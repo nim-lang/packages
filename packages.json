@@ -7,7 +7,7 @@
       "translate"
     ],
     "description": "Nim Library for Azure Cognitive Services Translate",
-    "License": "MIT",
+    "license": "MIT",
     "web": "https://github.com/williamhatcher/azure_translate"
   },
   {
