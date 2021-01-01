@@ -21007,5 +21007,18 @@
     "description": "Color Library",
     "license": "MIT",
     "web": "https://github.com/momeemt/Palette"
+  },
+  {
+    "name": "webrod",
+    "url": "https://github.com/j-a-s-d/webrod",
+    "method": "git",
+    "tags": [
+      "web",
+      "server",
+      "library"
+    ],
+    "description": "webrod",
+    "license": "MIT",
+    "web": "https://github.com/j-a-s-d/webrod"
   }
 ]
