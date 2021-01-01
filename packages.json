@@ -1,5 +1,16 @@
 [
   {
+    "name": "azure_translate",
+    "url": "https://github.com/williamhatcher/azure_translate",
+    "method": "git",
+    "tags": [
+      "translate"
+    ],
+    "description": "Nim Library for Azure Cognitive Services Translate",
+    "license": "MIT",
+    "web": "https://github.com/williamhatcher/azure_translate"
+  },
+  {
     "name": "PhylogeNi",
     "url": "https://github.com/kerrycobb/PhylogeNi",
     "method": "git",
