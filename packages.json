@@ -21031,5 +21031,16 @@
     "description": "webrod",
     "license": "MIT",
     "web": "https://github.com/j-a-s-d/webrod"
+  },
+  {
+    "name": "simpleflake",
+    "url": "https://github.com/aisk/simpleflake.nim",
+    "method": "git",
+    "tags": [
+      "idgenerator"
+    ],
+    "description": "Simpleflake for nim",
+    "license": "MIT",
+    "web": "https://github.com/aisk/simpleflake.nim"
   }
 ]
