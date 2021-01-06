@@ -21033,7 +21033,7 @@
     "web": "https://github.com/j-a-s-d/webrod"
   },
   {
-    "name": "Decimal",
+    "name": "decimal",
     "url": "https://github.com/inv2004/nim-decimal",
     "method": "git",
     "tags": [
