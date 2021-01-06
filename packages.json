@@ -21031,5 +21031,19 @@
     "description": "webrod",
     "license": "MIT",
     "web": "https://github.com/j-a-s-d/webrod"
+  },
+  {
+    "name": "Decimal",
+    "url": "https://github.com/inv2004/nim-decimal",
+    "method": "git",
+    "tags": [
+      "decimal",
+      "arithmetic",
+      "mpdecimal",
+      "precision"
+    ],
+    "description": "A correctly-rounded arbitrary precision decimal floating point arithmetic library",
+    "license": "(MIT or Apache License 2.0) and Simplified BSD",
+    "web": "https://github.com/inv2004/nim-decimal"
   }
 ]
