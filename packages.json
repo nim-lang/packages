@@ -21047,7 +21047,7 @@
     "web": "https://github.com/inv2004/nim-decimal"
   },
   {
-    "name": "tnorm",
+    "name": "torm",
     "url": "https://github.com/cybertim/torm",
     "method": "git",
     "tags": [
