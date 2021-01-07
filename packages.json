@@ -21045,5 +21045,18 @@
     "description": "A correctly-rounded arbitrary precision decimal floating point arithmetic library",
     "license": "(MIT or Apache License 2.0) and Simplified BSD",
     "web": "https://github.com/inv2004/nim-decimal"
+  },
+  {
+    "name": "tnorm",
+    "url": "https://github.com/cybertim/torm",
+    "method": "git",
+    "tags": [
+      "orm",
+      "db",
+      "database"
+    ],
+    "description": "Tiny ORM for SQLite.",
+    "license": "MIT",
+    "web": "https://github.com/cybertim/torm"
   }
 ]
