@@ -21058,5 +21058,19 @@
     "description": "Tiny ORM for SQLite.",
     "license": "MIT",
     "web": "https://github.com/cybertim/torm"
+  },
+  {
+    "name": "coinbase_pro",
+    "url": "https://github.com/inv2004/coinbase-pro-nim",
+    "method": "git",
+    "tags": [
+      "coinbase",
+      "crypto",
+      "exchange",
+      "bitcoin"
+    ],
+    "description": "Coinbase pro client for Nim",
+    "license": "MIT",
+    "web": "https://github.com/inv2004/coinbase-pro-nim"
   }
 ]
