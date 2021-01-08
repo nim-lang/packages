@@ -21072,5 +21072,19 @@
     "description": "Coinbase pro client for Nim",
     "license": "MIT",
     "web": "https://github.com/inv2004/coinbase-pro-nim"
+  },
+  {
+    "name": "nimraylib_now",
+    "url": "https://github.com/greenfork/nimraylib_now",
+    "method": "git",
+    "tags": [
+      "library",
+      "wrapper",
+      "raylib",
+      "gaming"
+    ],
+    "description": "The Ultimate Raylib gaming library wrapper",
+    "license": "MIT",
+    "web": "https://github.com/greenfork/nimraylib_now"
   }
 ]
