@@ -21100,5 +21100,18 @@
     "description": "The Ultimate Raylib gaming library wrapper",
     "license": "MIT",
     "web": "https://github.com/greenfork/nimraylib_now"
+  },
+  {
+    "name": "pgxcrown",
+    "url": "https://github.com/luisacosta828/pgxcrown",
+    "method": "git",
+    "tags": [
+      "library",
+      "postgres",
+      "extension"
+    ],
+    "description": "Build Postgres extensions in Nim.",
+    "license": "MIT",
+    "web": "https://github.com/luisacosta828/pgxcrown"
   }
 ]
