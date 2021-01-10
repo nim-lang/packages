@@ -21048,16 +21048,30 @@
   },
   {
     "name": "torm",
-    "url": "https://github.com/cybertim/torm",
+    "url": "https://github.com/enimatek-nl/torm",
     "method": "git",
     "tags": [
       "orm",
       "db",
       "database"
     ],
-    "description": "Tiny ORM for SQLite.",
+    "description": "Tiny object relational mapper (torm) for SQLite in Nim.",
     "license": "MIT",
-    "web": "https://github.com/cybertim/torm"
+    "web": "https://github.com/enimatek-nl/torm"
+  },
+  {
+    "name": "tencil",
+    "url": "https://github.com/enimatek-nl/tencil",
+    "method": "git",
+    "tags": [
+      "web",
+      "html",
+      "template",
+      "mustache"
+    ],
+    "description": "Tencil is a mustache-compatible JSON based template engine for Nim.",
+    "license": "MIT",
+    "web": "https://github.com/enimatek-nl/tencil"
   },
   {
     "name": "coinbase_pro",
