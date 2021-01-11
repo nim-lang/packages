@@ -21151,5 +21151,20 @@
     "description": "Test asynchronous code",
     "license": "MIT",
     "web": "https://github.com/markspanbroek/asynctest"
+  },
+  {
+    "name": "syllables",
+    "url": "https://github.com/Knaque/nim-syllables",
+    "method": "git",
+    "tags": [
+      "library",
+      "language",
+      "syllable",
+      "syllables",
+      ""
+    ],
+    "description": "Syllable estimation for Nim.",
+    "license": "MIT",
+    "web": "https://github.com/Knaque/nim-syllables"
   }
 ]
