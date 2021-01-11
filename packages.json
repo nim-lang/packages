@@ -20431,7 +20431,11 @@
   },
   {
     "name": "midio_ui_canvas",
-    "url": "https://github.com/nortero-code/midio-ui-canvas",
+    "alias": "denim_ui_canvas"
+  },
+  {
+    "name": "denim_ui_canvas",
+    "url": "https://github.com/nortero-code/denim-ui-canvas",
     "method": "git",
     "tags": [
       "canvas",
@@ -20439,11 +20443,11 @@
       "gui",
       "framework",
       "library",
-      "midio"
+      "denim"
     ],
-    "description": "HTML Canvas backend for the midio ui engine",
+    "description": "HTML Canvas backend for the denim ui engine",
     "license": "MIT",
-    "web": "https://github.com/nortero-code/midio-ui-canvas"
+    "web": "https://github.com/nortero-code/denim-ui-canvas"
   },
   {
     "name": "nimvisa",
