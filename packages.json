@@ -20397,7 +20397,11 @@
   },
   {
     "name": "midio_ui",
-    "url": "https://github.com/nortero-code/midio-ui",
+    "alias": "denim_ui"
+  },
+  {
+    "name": "denim_ui",
+    "url": "https://github.com/nortero-code/denim-ui",
     "method": "git",
     "tags": [
       "gui",
@@ -20408,9 +20412,9 @@
       "observables",
       "dsl"
     ],
-    "description": "The Midio UI library",
+    "description": "The Denim UI library",
     "license": "MIT",
-    "web": "https://github.com/nortero-code/midio-ui"
+    "web": "https://github.com/nortero-code/denim-ui"
   },
   {
     "name": "canonicaljson",
