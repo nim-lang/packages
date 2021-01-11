@@ -21138,5 +21138,18 @@
     "description": "Nim library to get/set a hostname",
     "license": "Apache-2.0",
     "web": "https://github.com/rominf/nim-hostname"
+  },
+  {
+    "name": "asynctest",
+    "url": "https://github.com/markspanbroek/asynctest",
+    "method": "git",
+    "tags": [
+      "test",
+      "unittest",
+      "async"
+    ],
+    "description": "Test asynchronous code",
+    "license": "MIT",
+    "web": "https://github.com/markspanbroek/asynctest"
   }
 ]
