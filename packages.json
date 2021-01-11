@@ -21102,6 +21102,19 @@
     "web": "https://github.com/greenfork/nimraylib_now"
   },
   {
+    "name": "pgxcrown",
+    "url": "https://github.com/luisacosta828/pgxcrown",
+    "method": "git",
+    "tags": [
+      "library",
+      "postgres",
+      "extension"
+    ],
+    "description": "Build Postgres extensions in Nim.",
+    "license": "MIT",
+    "web": "https://github.com/luisacosta828/pgxcrown"
+  },
+  {
     "name": "hostname",
     "url": "https://github.com/rominf/nim-hostname",
     "method": "git",
