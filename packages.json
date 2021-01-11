@@ -21113,5 +21113,22 @@
     "description": "Build Postgres extensions in Nim.",
     "license": "MIT",
     "web": "https://github.com/luisacosta828/pgxcrown"
+  },
+  {
+    "name": "hostname",
+    "url": "https://github.com/rominf/nim-hostname",
+    "method": "git",
+    "tags": [
+      "android",
+      "bsd",
+      "hostname",
+      "library",
+      "posix",
+      "unix",
+      "windows"
+    ],
+    "description": "Nim library to get/set a hostname",
+    "license": "Apache-2.0",
+    "web": "https://github.com/rominf/nim-hostname"
   }
 ]
