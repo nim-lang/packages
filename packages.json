@@ -21166,5 +21166,23 @@
     "description": "Syllable estimation for Nim.",
     "license": "MIT",
     "web": "https://github.com/Knaque/nim-syllables"
+  },
+  {
+    "name": "lazyseq",
+    "url": "https://github.com/markspanbroek/nim-lazyseq",
+    "method": "git",
+    "tags": [
+      "lazy",
+      "sequences",
+      "infinite",
+      "functional",
+      "map",
+      "reduce",
+      "zip",
+      "filter"
+    ],
+    "description": "Lazy evaluated sequences",
+    "license": "MIT",
+    "web": "https://github.com/markspanbroek/nim-lazyseq"
   }
 ]
