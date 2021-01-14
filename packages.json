@@ -21168,8 +21168,8 @@
     "web": "https://github.com/Knaque/nim-syllables"
   },
   {
-    "name": "lazy",
-    "url": "https://github.com/markspanbroek/nim-lazy",
+    "name": "lazyseq",
+    "url": "https://github.com/markspanbroek/nim-lazyseq",
     "method": "git",
     "tags": [
       "lazy",
@@ -21183,6 +21183,6 @@
     ],
     "description": "Lazy evaluated sequences",
     "license": "MIT",
-    "web": "https://github.com/markspanbroek/nim-lazy"
+    "web": "https://github.com/markspanbroek/nim-lazyseq"
   }
 ]
