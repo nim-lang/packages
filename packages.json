@@ -3697,7 +3697,7 @@
   },
   {
     "name": "ncurses",
-    "url": "https://github.com/rnowley/nim-ncurses/",
+    "url": "https://github.com/walkre-niboshi/nim-ncurses",
     "method": "git",
     "tags": [
       "library",
@@ -3707,7 +3707,7 @@
     ],
     "description": "A wrapper for NCurses",
     "license": "MIT",
-    "web": "https://github.com/rnowley/nim-ncurses"
+    "web": "https://github.com/walkre-niboshi/nim-ncurses"
   },
   {
     "name": "nanovg",
