@@ -3519,7 +3519,7 @@
   },
   {
     "name": "linalg",
-    "url": "https://github.com/unicredit/linear-algebra",
+    "url": "https://github.com/andreaferretti/linear-algebra",
     "method": "git",
     "tags": [
       "vector",
@@ -3530,7 +3530,7 @@
     ],
     "description": "Linear algebra for Nim",
     "license": "Apache License 2.0",
-    "web": "https://github.com/unicredit/linear-algebra"
+    "web": "https://github.com/andreaferretti/linear-algebra"
   },
   {
     "name": "sequester",
@@ -3885,7 +3885,7 @@
   },
   {
     "name": "csvtools",
-    "url": "https://github.com/unicredit/csvtools",
+    "url": "https://github.com/andreaferretti/csvtools",
     "method": "git",
     "tags": [
       "CSV",
@@ -3894,7 +3894,7 @@
     ],
     "description": "Manage CSV files",
     "license": "Apache License 2.0",
-    "web": "https://github.com/unicredit/csvtools"
+    "web": "https://github.com/andreaferretti/csvtools"
   },
   {
     "name": "httpform",
@@ -4844,7 +4844,7 @@
   },
   {
     "name": "teafiles",
-    "url": "git@github.com:unicredit/nim-teafiles.git",
+    "url": "git@github.com:andreaferretti/nim-teafiles.git",
     "method": "git",
     "tags": [
       "teafiles",
@@ -4853,11 +4853,11 @@
     ],
     "description": "TeaFiles provide fast read/write access to time series data",
     "license": "Apache2",
-    "web": "https://github.com/unicredit/nim-teafiles"
+    "web": "https://github.com/andreaferretti/nim-teafiles"
   },
   {
     "name": "emmy",
-    "url": "git@github.com:unicredit/emmy.git",
+    "url": "git@github.com:andreaferretti/emmy.git",
     "method": "git",
     "tags": [
       "algebra",
@@ -4868,7 +4868,7 @@
     ],
     "description": "Algebraic structures and related operations for Nim",
     "license": "Apache2",
-    "web": "https://github.com/unicredit/emmy"
+    "web": "https://github.com/andreaferretti/emmy"
   },
   {
     "name": "impulse_engine",
@@ -5618,7 +5618,7 @@
   },
   {
     "name": "nimcl",
-    "url": "https://github.com/unicredit/nimcl",
+    "url": "https://github.com/andreaferretti/nimcl",
     "method": "git",
     "tags": [
       "OpenCL",
@@ -5626,11 +5626,11 @@
     ],
     "description": "High level wrapper over OpenCL",
     "license": "Apache License 2.0",
-    "web": "https://github.com/unicredit/nimcl"
+    "web": "https://github.com/andreaferretti/nimcl"
   },
   {
     "name": "nimblas",
-    "url": "https://github.com/unicredit/nimblas",
+    "url": "https://github.com/andreaferretti/nimblas",
     "method": "git",
     "tags": [
       "BLAS",
@@ -5640,7 +5640,7 @@
     ],
     "description": "BLAS for Nim",
     "license": "Apache License 2.0",
-    "web": "https://github.com/unicredit/nimblas"
+    "web": "https://github.com/andreaferretti/nimblas"
   },
   {
     "name": "fixmath",
@@ -7046,7 +7046,7 @@
   },
   {
     "name": "alea",
-    "url": "https://github.com/unicredit/alea",
+    "url": "https://github.com/andreaferretti/alea",
     "method": "git",
     "tags": [
       "random variables",
@@ -7057,7 +7057,7 @@
     ],
     "description": "Define and compose random variables",
     "license": "Apache License 2.0",
-    "web": "https://github.com/unicredit/alea"
+    "web": "https://github.com/andreaferretti/alea"
   },
   {
     "name": "winim",
@@ -7519,7 +7519,7 @@
   },
   {
     "name": "cello",
-    "url": "https://github.com/unicredit/cello",
+    "url": "https://github.com/andreaferretti/cello",
     "method": "git",
     "tags": [
       "string",
@@ -7532,7 +7532,7 @@
     ],
     "description": "String algorithms with succinct data structures",
     "license": "Apache2",
-    "web": "https://unicredit.github.io/cello/"
+    "web": "https://andreaferretti.github.io/cello/"
   },
   {
     "name": "notmuch",
@@ -7705,7 +7705,7 @@
   },
   {
     "name": "nimcuda",
-    "url": "https://github.com/unicredit/nimcuda",
+    "url": "https://github.com/andreaferretti/nimcuda",
     "method": "git",
     "tags": [
       "CUDA",
@@ -7713,7 +7713,7 @@
     ],
     "description": "CUDA bindings",
     "license": "Apache2",
-    "web": "https://github.com/unicredit/nimcuda"
+    "web": "https://github.com/andreaferretti/nimcuda"
   },
   {
     "name": "gifwriter",
@@ -7772,7 +7772,7 @@
   },
   {
     "name": "nimlapack",
-    "url": "https://github.com/unicredit/nimlapack",
+    "url": "https://github.com/andreaferretti/nimlapack",
     "method": "git",
     "tags": [
       "LAPACK",
@@ -7780,7 +7780,7 @@
     ],
     "description": "LAPACK bindings",
     "license": "Apache2",
-    "web": "https://github.com/unicredit/nimlapack"
+    "web": "https://github.com/andreaferretti/nimlapack"
   },
   {
     "name": "jack",
@@ -7810,7 +7810,7 @@
   },
   {
     "name": "neo",
-    "url": "https://github.com/unicredit/neo",
+    "url": "https://github.com/andreaferretti/neo",
     "method": "git",
     "tags": [
       "vector",
@@ -7822,7 +7822,7 @@
     ],
     "description": "Linear algebra for Nim",
     "license": "Apache License 2.0",
-    "web": "https://unicredit.github.io/neo/"
+    "web": "https://andreaferretti.github.io/neo/"
   },
   {
     "name": "httpkit",
@@ -10337,7 +10337,7 @@
   },
   {
     "name": "lda",
-    "url": "https://github.com/unicredit/lda",
+    "url": "https://github.com/andreaferretti/lda",
     "method": "git",
     "tags": [
       "LDA",
@@ -10347,7 +10347,7 @@
     ],
     "description": "Latent Dirichlet Allocation",
     "license": "Apache License 2.0",
-    "web": "https://github.com/unicredit/lda"
+    "web": "https://github.com/andreaferretti/lda"
   },
   {
     "name": "mdevolve",
