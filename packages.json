@@ -21208,5 +21208,19 @@
     "description": "Lazy evaluated sequences",
     "license": "MIT",
     "web": "https://github.com/markspanbroek/nim-lazyseq"
+  },
+  {
+    "name": "filetype",
+    "url": "https://github.com/jiro4989/filetype",
+    "method": "git",
+    "tags": [
+      "lib",
+      "magic-numbers",
+      "file",
+      "file-format"
+    ],
+    "description": "Small and dependency free Nim package to infer file and MIME type checking the magic numbers signature.",
+    "license": "MIT",
+    "web": "https://github.com/jiro4989/filetype"
   }
 ]
