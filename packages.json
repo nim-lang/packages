@@ -21222,5 +21222,18 @@
     "description": "Small and dependency free Nim package to infer file and MIME type checking the magic numbers signature.",
     "license": "MIT",
     "web": "https://github.com/jiro4989/filetype"
+  },
+  {
+    "name": "arduino",
+    "url": "https://github.com/markspanbroek/nim-arduino",
+    "method": "git",
+    "tags": [
+      "arduino",
+      "platformio",
+      "embedded"
+    ],
+    "description": "Arduino bindings for Nim",
+    "license": "MIT",
+    "web": "https://github.com/markspanbroek/nim-arduino"
   }
 ]
