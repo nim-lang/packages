@@ -21248,5 +21248,19 @@
     "description": "Various kinds of hashed array trees.",
     "license": "MIT",
     "web": "https://github.com/davidgarland/nim-hats"
+  },
+  {
+    "name": "nobject",
+    "url": "https:///",
+    "method": "",
+    "tags": [
+      "nim",
+      "nim-lang",
+      "object",
+      "dynamic-typing"
+    ],
+    "description": "A partially compile and runtime evaluated object, inspired from .net object",
+    "license": "GPL-3.0",
+    "web": "https:///"
   }
 ]
