@@ -21224,6 +21224,19 @@
     "web": "https://github.com/jiro4989/filetype"
   },
   {
+    "name": "arduino",
+    "url": "https://github.com/markspanbroek/nim-arduino",
+    "method": "git",
+    "tags": [
+      "arduino",
+      "platformio",
+      "embedded"
+    ],
+    "description": "Arduino bindings for Nim",
+    "license": "MIT",
+    "web": "https://github.com/markspanbroek/nim-arduino"
+  },
+  {
     "name": "hats",
     "url": "https://github.com/davidgarland/nim-hats",
     "method": "git",
