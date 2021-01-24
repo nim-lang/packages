@@ -21248,5 +21248,20 @@
     "description": "Various kinds of hashed array trees.",
     "license": "MIT",
     "web": "https://github.com/davidgarland/nim-hats"
+  },
+  {
+    "name": "nimfcuk",
+    "url": "https://github.com/2KAbhishek/nimfcuk",
+    "method": "git",
+    "tags": [
+      "cli",
+      "library",
+      "compiler",
+      "interpreter",
+      "brainfuck"
+    ],
+    "description": "A brainfuck interpreter & compiler implemented in nim",
+    "license": "GPL-3.0",
+    "web": "https://github.com/2KAbhishek/nimfcuk"
   }
 ]
