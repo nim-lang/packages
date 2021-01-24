@@ -21222,5 +21222,18 @@
     "description": "Small and dependency free Nim package to infer file and MIME type checking the magic numbers signature.",
     "license": "MIT",
     "web": "https://github.com/jiro4989/filetype"
+  },
+  {
+    "name": "hats",
+    "url": "https://github.com/davidgarland/nim-hats",
+    "method": "git",
+    "tags": [
+      "array",
+      "arrays",
+      "hat"
+    ],
+    "description": "Various kinds of hashed array trees.",
+    "license": "MIT",
+    "web": "https://github.com/davidgarland/nim-hats"
   }
 ]
