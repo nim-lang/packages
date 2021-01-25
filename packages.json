@@ -21250,6 +21250,22 @@
     "web": "https://github.com/davidgarland/nim-hats"
   },
   {
+    "name": "nobject",
+    "url": "https://github.com/Carpall/nobject",
+    "method": "git",
+    "tags": [
+      "nim",
+      "nimble",
+      "nim-lang",
+      "object",
+      "runtime",
+      "dynamic"
+    ],
+    "description": "A partially compile and runtime evaluated object, inspired from .net object",
+    "license": "GPL-3.0",
+    "web": "https://github.com/Carpall/nobject"
+  },
+  {
     "name": "nimfcuk",
     "url": "https://github.com/2KAbhishek/nimfcuk",
     "method": "git",
