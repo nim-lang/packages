@@ -21281,6 +21281,19 @@
     "web": "https://github.com/2KAbhishek/nimfcuk"
   },
   {
+    "name": "xam",
+    "url": "https://github.com/j-a-s-d/xam",
+    "method": "git",
+    "tags": [
+      "multipurpose",
+      "productivity",
+      "library"
+    ],
+    "description": "xam",
+    "license": "MIT",
+    "web": "https://github.com/j-a-s-d/xam"
+  },
+  {
     "name": "nimosc",
     "url": "https://github.com/Psirus/NimOSC",
     "method": "git",
