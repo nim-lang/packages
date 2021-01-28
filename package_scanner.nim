@@ -54,12 +54,16 @@ proc canFetchNimbleRepository(name: string, urlJson: JsonNode): bool =
   #       nimble file in it
   result = true
   var url: string
+  var client = newHttpClient(timeout=100000)
+  defer: client.close()
 
   if not urlJson.isNil:
     url = urlJson.str
-
+    if url.startsWith("https://github.com"):
+      if existsEnv("GITHUB_TOKEN"):
+        client.headers = newHttpHeaders({"authorization": "Bearer " & getEnv("GITHUB_TOKEN")})
     try:
-      discard getContent(url, timeout=10000)
+      discard client.getContent(url)
     except HttpRequestError, TimeoutError:
       echo "W: ", name, ": unable to fetch repo ", url, " ",
            getCurrentExceptionMsg()
