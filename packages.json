@@ -21319,5 +21319,20 @@
     "description": "Modular multithreading Linux HTTP server",
     "license": "MIT",
     "web": "https://github.com/olliNiinivaara/GuildenStern"
+  },
+  {
+    "name": "ago",
+    "url": "https://github.com/daehee/ago",
+    "method": "git",
+    "tags": [
+      "web",
+      "time",
+      "datetime",
+      "library",
+      "prologue"
+    ],
+    "description": "Time ago in words in Nim",
+    "license": "MIT",
+    "web": "https://github.com/daehee/ago"
   }
 ]
