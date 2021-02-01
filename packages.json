@@ -21349,5 +21349,22 @@
     "description": "A fast, multithreaded miner for DuinoCoin",
     "license": "MIT",
     "web": "https://github.com/its5Q/ducominer"
+  },
+  {
+    "name": "antlr4nim",
+    "url": "https://github.com/jan0sc/antlr4nim",
+    "method": "git",
+    "tags": [
+      "antlr",
+      "antlr4",
+      "parser",
+      "visitor",
+      "listener",
+      "DSL"
+    ],
+    "description": "Nim interface to ANTLR4 listener/visitor via jsffi",
+    "license": "MIT",
+    "web": "https://github.com/jan0sc/antlr4nim",
+    "doc": "https://jan0sc.github.io/antlr4nim.html"
   }
 ]
