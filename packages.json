@@ -21366,5 +21366,18 @@
     "license": "MIT",
     "web": "https://github.com/jan0sc/antlr4nim",
     "doc": "https://jan0sc.github.io/antlr4nim.html"
+  },
+  {
+    "name": "gemini",
+    "url": "https://github.com/benob/gemini",
+    "method": "git",
+    "tags": [
+      "gemini,",
+      "server,",
+      "async"
+    ],
+    "description": "Building blocks for making async Gemini servers",
+    "license": "MIT",
+    "web": "https://github.com/benob/gemini"
   }
 ]
