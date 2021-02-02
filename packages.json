@@ -21380,5 +21380,18 @@
     "description": "A program to staticlly host files or directories over HTTP",
     "license": "GPL-3.0",
     "web": "https://github.com/RainbowAsteroids/host"
+  },
+  {
+    "name": "gemini",
+    "url": "https://github.com/benob/gemini",
+    "method": "git",
+    "tags": [
+      "gemini,",
+      "server,",
+      "async"
+    ],
+    "description": "Building blocks for making async Gemini servers",
+    "license": "MIT",
+    "web": "https://github.com/benob/gemini"
   }
 ]
