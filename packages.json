@@ -21366,5 +21366,19 @@
     "license": "MIT",
     "web": "https://github.com/jan0sc/antlr4nim",
     "doc": "https://jan0sc.github.io/antlr4nim.html"
+  },
+  {
+    "name": "host",
+    "url": "ssh://git@github.com/RainbowAsteroids/host",
+    "method": "git",
+    "tags": [
+      "web",
+      "server",
+      "host",
+      "file_sharing"
+    ],
+    "description": "A program to staticlly host files or directories over HTTP",
+    "license": "GPL-3.0",
+    "web": "ssh://git@github.com/RainbowAsteroids/host"
   }
 ]
