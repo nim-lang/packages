@@ -21369,7 +21369,7 @@
   },
   {
     "name": "host",
-    "url": "ssh://git@github.com/RainbowAsteroids/host",
+    "url": "https://github.com/RainbowAsteroids/host",
     "method": "git",
     "tags": [
       "web",
@@ -21379,6 +21379,6 @@
     ],
     "description": "A program to staticlly host files or directories over HTTP",
     "license": "GPL-3.0",
-    "web": "ssh://git@github.com/RainbowAsteroids/host"
+    "web": "https://github.com/RainbowAsteroids/host"
   }
 ]
