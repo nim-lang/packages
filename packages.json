@@ -11183,6 +11183,23 @@
     "web": "https://github.com/treeform/jsony"
   },
   {
+    "name": "benchy",
+    "url": "https://github.com/treeform/benchy",
+    "method": "git",
+    "tags": [
+      "bench",
+      "benchmark",
+      "profile",
+      "runtime",
+      "profiling",
+      "performance",
+      "speed"
+    ],
+    "description": "Simple benchmarking to time your code.",
+    "license": "MIT",
+    "web": "https://github.com/treeform/benchy"
+  },
+  {
     "name": "xdo",
     "url": "https://github.com/juancarlospaco/nim-xdo",
     "method": "git",
@@ -21380,5 +21397,47 @@
     "description": "Nim library for One Time Password verification and generation.",
     "license": "MIT",
     "web": "https://github.com/lzoz/nauthy"
+  },
+  {
+    "name": "host",
+    "url": "https://github.com/RainbowAsteroids/host",
+    "method": "git",
+    "tags": [
+      "web",
+      "server",
+      "host",
+      "file_sharing"
+    ],
+    "description": "A program to staticlly host files or directories over HTTP",
+    "license": "GPL-3.0",
+    "web": "https://github.com/RainbowAsteroids/host"
+  },
+  {
+    "name": "gemini",
+    "url": "https://github.com/benob/gemini",
+    "method": "git",
+    "tags": [
+      "gemini,",
+      "server,",
+      "async"
+    ],
+    "description": "Building blocks for making async Gemini servers",
+    "license": "MIT",
+    "web": "https://github.com/benob/gemini"
+  },
+  {
+    "name": "nimem",
+    "url": "https://github.com/Sann0/Nimem",
+    "method": "git",
+    "tags": [
+      "windows",
+      "process",
+      "memory",
+      "external",
+      "manipulate"
+    ],
+    "description": "Library for external memory manipulation on a windows process",
+    "license": "MIT",
+    "web": "https://github.com/Sann0/Nimem"
   }
 ]
