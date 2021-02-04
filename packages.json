@@ -21439,5 +21439,27 @@
     "description": "Library for external memory manipulation on a windows process",
     "license": "MIT",
     "web": "https://github.com/Sann0/Nimem"
+  },
+  {
+    "name": "eris",
+    "url": "https://git.sr.ht/~ehmry/eris",
+    "method": "git",
+    "tags": [
+      "eris"
+    ],
+    "description": "Encoding for Robust Immutable Storage (ERIS)",
+    "license": "ISC",
+    "web": "http://purl.org/eris"
+  },
+  {
+    "name": "eris_utils",
+    "url": "https://git.sr.ht/~ehmry/eris_utils",
+    "method": "git",
+    "tags": [
+      "eris"
+    ],
+    "description": "Utilities for the Encoding for Robust Immutable Storage (ERIS)",
+    "license": "GPL-3.0",
+    "web": "http://purl.org/eris"
   }
 ]
