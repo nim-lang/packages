@@ -21410,5 +21410,20 @@
     "description": "Building blocks for making async Gemini servers",
     "license": "MIT",
     "web": "https://github.com/benob/gemini"
+  },
+  {
+    "name": "nimem",
+    "url": "https://github.com/Sann0/Nimem",
+    "method": "git",
+    "tags": [
+      "windows",
+      "process",
+      "memory",
+      "external",
+      "manipulate"
+    ],
+    "description": "Library for external memory manipulation on a windows process",
+    "license": "MIT",
+    "web": "https://github.com/Sann0/Nimem"
   }
 ]
