@@ -11183,6 +11183,20 @@
     "web": "https://github.com/treeform/jsony"
   },
   {
+    "name": "dumpincludes",
+    "url": "https://github.com/treeform/dumpincludes",
+    "method": "git",
+    "tags": [
+      "imports",
+      "includes",
+      "perf",
+      "exe"
+    ],
+    "description": "See where your exe size comes from.",
+    "license": "MIT",
+    "web": "https://github.com/treeform/dumpincludes"
+  },
+  {
     "name": "benchy",
     "url": "https://github.com/treeform/benchy",
     "method": "git",
