@@ -21475,5 +21475,18 @@
     "description": "Utilities for the Encoding for Robust Immutable Storage (ERIS)",
     "license": "GPL-3.0",
     "web": "http://purl.org/eris"
+  },
+  {
+    "name": "html2karax",
+    "url": "https://github.com/nim-lang-cn/html2karax",
+    "method": "git",
+    "tags": [
+      "web",
+      "karax",
+      "html"
+    ],
+    "description": "Converts html to karax.",
+    "license": "MIT",
+    "web": "https://github.com/nim-lang-cn/html2karax"
   }
 ]
