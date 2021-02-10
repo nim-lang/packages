@@ -18664,7 +18664,7 @@
   },
   {
     "name": "mccache",
-    "url": "https://github.com/abbeymart/mccache",
+    "url": "https://github.com/abbeymart/mccache-nim",
     "method": "git",
     "tags": [
       "web",
@@ -18672,11 +18672,11 @@
     ],
     "description": "mccache package: in-memory caching",
     "license": "MIT",
-    "web": "https://github.com/abbeymart/mccache"
+    "web": "https://github.com/abbeymart/mccache-nim"
   },
   {
     "name": "mcresponse",
-    "url": "https://github.com/abbeymart/mcresponse",
+    "url": "https://github.com/abbeymart/mcresponse-nim",
     "method": "git",
     "tags": [
       "web",
@@ -18687,7 +18687,7 @@
     ],
     "description": "mConnect Standardised Response Package",
     "license": "MIT",
-    "web": "https://github.com/abbeymart/mcresponse"
+    "web": "https://github.com/abbeymart/mcresponse-nim"
   },
   {
     "name": "webrtcvad",
