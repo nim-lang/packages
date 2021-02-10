@@ -20693,7 +20693,11 @@
   },
   {
     "name": "defines",
-    "url": "https://github.com/hlaaftana/defines",
+    "alias": "assigns"
+  },
+  {
+    "name": "assigns",
+    "url": "https://github.com/hlaaftana/assigns",
     "method": "git",
     "tags": [
       "sugar",
@@ -20701,9 +20705,9 @@
       "unpacking",
       "assignment"
     ],
-    "description": "syntax sugar for local definitions",
+    "description": "syntax sugar for assignments",
     "license": "MIT",
-    "web": "https://hlaaftana.github.io/defines/defines.html"
+    "web": "https://hlaaftana.github.io/assigns/assigns.html"
   },
   {
     "name": "nimics",
