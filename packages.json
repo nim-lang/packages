@@ -21560,5 +21560,21 @@
     "description": "Windows resource file generator",
     "license": "MIT",
     "web": "https://github.com/codehz/nim-winres"
+  },
+  {
+    "name": "gemini",
+    "url": "https://github.com/benob/gemini",
+    "method": "git",
+    "tags": [
+      "gemini",
+      "protocol",
+      "server",
+      "client",
+      "async",
+      "tls"
+    ],
+    "description": "Building blocks for making async Gemini servers and clients",
+    "license": "MIT",
+    "web": "https://github.com/benob/gemini"
   }
 ]
