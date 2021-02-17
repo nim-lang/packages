@@ -21560,5 +21560,19 @@
     "description": "Windows resource file generator",
     "license": "MIT",
     "web": "https://github.com/codehz/nim-winres"
+  },
+  {
+    "name": "anycase",
+    "url": "https://github.com/lamartire/anycase",
+    "method": "git",
+    "tags": [
+      "camelcase",
+      "kebabcase",
+      "pascalcase",
+      "snakecase"
+    ],
+    "description": "Convert strings to any case",
+    "license": "MIT",
+    "web": "https://github.com/lamartire/anycase"
   }
 ]
