@@ -11141,6 +11141,21 @@
     "web": "https://github.com/treeform/bumpy"
   },
   {
+    "name": "spacy",
+    "url": "https://github.com/treeform/spacy",
+    "method": "git",
+    "tags": [
+      "2d",
+      "collision",
+      "quadtree",
+      "kdtree",
+      "partition"
+    ],
+    "description": "Spatial data structures for Nim.",
+    "license": "MIT",
+    "web": "https://github.com/treeform/spacy"
+  },
+  {
     "name": "urlly",
     "url": "https://github.com/treeform/urlly",
     "method": "git",
