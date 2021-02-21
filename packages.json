@@ -21575,5 +21575,22 @@
     "description": "Windows resource file generator",
     "license": "MIT",
     "web": "https://github.com/codehz/nim-winres"
+  },
+  {
+    "name": "nimview",
+    "url": "https://github.com/marcomq/nimview",
+    "method": "git",
+    "tags": [
+      "web",
+      "library",
+      "gui",
+      "webview",
+      "html",
+      "css",
+      "javascript"
+    ],
+    "description": "Nim / Python / C library to run webview with HTML/JS as UI",
+    "license": "MIT",
+    "web": "https://github.com/marcomq/nimview"
   }
 ]
