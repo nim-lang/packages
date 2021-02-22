@@ -14867,6 +14867,17 @@
     "web": "https://github.com/Cirru/parser.nim"
   },
   {
+    "name": "cirru_writer",
+    "url": "https://github.com/Cirru/writer.nim",
+    "method": "git",
+    "tags": [
+      "cirru"
+    ],
+    "description": "Code writer for Cirru syntax",
+    "license": "MIT",
+    "web": "https://github.com/Cirru/writer.nim"
+  },
+  {
     "name": "ternary_tree",
     "url": "https://github.com/calcit-lang/ternary-tree",
     "method": "git",
