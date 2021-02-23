@@ -21603,5 +21603,21 @@
     "description": "Nim / Python / C library to run webview with HTML/JS as UI",
     "license": "MIT",
     "web": "https://github.com/marcomq/nimview"
+  },
+  {
+    "name": "denim_ui_cairo",
+    "url": "https://github.com/nortero-code/midio-ui-cairo",
+    "method": "git",
+    "tags": [
+      "denim-ui",
+      "denim-backend",
+      "gui",
+      "cairo",
+      "cross",
+      "platform"
+    ],
+    "description": "Cairo backend for the denim ui engine",
+    "license": "MIT",
+    "web": "https://github.com/nortero-code/midio-ui-cairo"
   }
 ]
