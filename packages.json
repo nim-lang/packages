@@ -21619,5 +21619,17 @@
     "description": "Cairo backend for the denim ui engine",
     "license": "MIT",
     "web": "https://github.com/nortero-code/midio-ui-cairo"
+  },
+  {
+    "name": "checkpack",
+    "url": "https://gitlab.com/ArMour85/checkpack",
+    "method": "git",
+    "tags": [
+      "package",
+      "library"
+    ],
+    "description": "Tiny library to check if a system package is already installed.",
+    "license": "MIT",
+    "web": "https://gitlab.com/ArMour85/checkpack"
   }
 ]
