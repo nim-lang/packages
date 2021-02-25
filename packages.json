@@ -1,5 +1,16 @@
 [
   {
+    "name": "onnxruntime-nim",
+    "url": "https://github.com/YesDrX/onnxruntime-nim.git",
+    "method": "git",
+    "tags": [
+      "onnxruntime"
+    ],
+    "description": "onnxruntime C Api wrapped for nim",
+    "license": "MIT",
+    "web": "https://github.com/YesDrX/onnxruntime-nim/"
+  },
+  {
     "name": "jhash",
     "url": "https://github.com/mjfh/nim-jhash.git",
     "method": "git",
