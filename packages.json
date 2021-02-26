@@ -21631,5 +21631,19 @@
     "description": "Tiny library to check if a system package is already installed.",
     "license": "MIT",
     "web": "https://gitlab.com/ArMour85/checkpack"
+  },
+  {
+    "name": "xcb",
+    "url": "https://github.com/SolitudeSF/xcb",
+    "method": "git",
+    "tags": [
+      "xcb",
+      "x11",
+      "bindings",
+      "wrapper"
+    ],
+    "description": "xcb bindings",
+    "license": "MIT",
+    "web": "https://github.com/SolitudeSF/xcb"
   }
 ]
