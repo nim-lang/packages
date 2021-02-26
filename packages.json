@@ -21631,5 +21631,18 @@
     "description": "Tiny library to check if a system package is already installed.",
     "license": "MIT",
     "web": "https://gitlab.com/ArMour85/checkpack"
+  },
+  {
+    "name": "nimjl",
+    "url": "https://github.com/Clonkk/nimjl",
+    "method": "git",
+    "tags": [
+      "Nim",
+      "Julia",
+      "Bridge"
+    ],
+    "description": "Nim Julia bridge",
+    "license": "MIT",
+    "web": "https://github.com/Clonkk/nimjl"
   }
 ]
