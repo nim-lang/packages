@@ -21645,5 +21645,18 @@
     "description": "xcb bindings",
     "license": "MIT",
     "web": "https://github.com/SolitudeSF/xcb"
+  },
+  {
+    "name": "nimjl",
+    "url": "https://github.com/Clonkk/nimjl",
+    "method": "git",
+    "tags": [
+      "Nim",
+      "Julia",
+      "Bridge"
+    ],
+    "description": "Nim Julia bridge",
+    "license": "MIT",
+    "web": "https://github.com/Clonkk/nimjl"
   }
 ]
