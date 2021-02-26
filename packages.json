@@ -1,6 +1,6 @@
 [
   {
-    "name": "onnxruntime-nim",
+    "name": "onnxruntime_nim",
     "url": "https://github.com/YesDrX/onnxruntime-nim.git",
     "method": "git",
     "tags": [
