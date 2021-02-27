@@ -21658,5 +21658,20 @@
     "description": "Nim Julia bridge",
     "license": "MIT",
     "web": "https://github.com/Clonkk/nimjl"
+  },
+  {
+    "name": "nimflux",
+    "url": "https://gitlab.com/tdely/nimflux",
+    "method": "git",
+    "tags": [
+      "influxdb",
+      "influx",
+      "client",
+      "api",
+      "library"
+    ],
+    "description": "InfluxDB API client library",
+    "license": "MIT",
+    "web": "https://gitlab.com/tdely/nimflux"
   }
 ]
