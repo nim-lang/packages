@@ -11141,6 +11141,21 @@
     "web": "https://github.com/treeform/bumpy"
   },
   {
+    "name": "spacy",
+    "url": "https://github.com/treeform/spacy",
+    "method": "git",
+    "tags": [
+      "2d",
+      "collision",
+      "quadtree",
+      "kdtree",
+      "partition"
+    ],
+    "description": "Spatial data structures for Nim.",
+    "license": "MIT",
+    "web": "https://github.com/treeform/spacy"
+  },
+  {
     "name": "urlly",
     "url": "https://github.com/treeform/urlly",
     "method": "git",
@@ -14850,6 +14865,17 @@
     "description": "Parser for Cirru syntax",
     "license": "MIT",
     "web": "https://github.com/Cirru/parser.nim"
+  },
+  {
+    "name": "cirru_writer",
+    "url": "https://github.com/Cirru/writer.nim",
+    "method": "git",
+    "tags": [
+      "cirru"
+    ],
+    "description": "Code writer for Cirru syntax",
+    "license": "MIT",
+    "web": "https://github.com/Cirru/writer.nim"
   },
   {
     "name": "ternary_tree",
@@ -18664,7 +18690,7 @@
   },
   {
     "name": "mccache",
-    "url": "https://github.com/abbeymart/mccache",
+    "url": "https://github.com/abbeymart/mccache-nim",
     "method": "git",
     "tags": [
       "web",
@@ -18672,11 +18698,11 @@
     ],
     "description": "mccache package: in-memory caching",
     "license": "MIT",
-    "web": "https://github.com/abbeymart/mccache"
+    "web": "https://github.com/abbeymart/mccache-nim"
   },
   {
     "name": "mcresponse",
-    "url": "https://github.com/abbeymart/mcresponse",
+    "url": "https://github.com/abbeymart/mcresponse-nim",
     "method": "git",
     "tags": [
       "web",
@@ -18687,7 +18713,7 @@
     ],
     "description": "mConnect Standardised Response Package",
     "license": "MIT",
-    "web": "https://github.com/abbeymart/mcresponse"
+    "web": "https://github.com/abbeymart/mcresponse-nim"
   },
   {
     "name": "webrtcvad",
@@ -20693,7 +20719,11 @@
   },
   {
     "name": "defines",
-    "url": "https://github.com/hlaaftana/defines",
+    "alias": "assigns"
+  },
+  {
+    "name": "assigns",
+    "url": "https://github.com/hlaaftana/assigns",
     "method": "git",
     "tags": [
       "sugar",
@@ -20701,9 +20731,9 @@
       "unpacking",
       "assignment"
     ],
-    "description": "syntax sugar for local definitions",
+    "description": "syntax sugar for assignments",
     "license": "MIT",
-    "web": "https://hlaaftana.github.io/defines/defines.html"
+    "web": "https://hlaaftana.github.io/assigns/assigns.html"
   },
   {
     "name": "nimics",
@@ -21544,5 +21574,89 @@
     "description": "Provides access to the rdrand and rdseed instructions. Based on Intel's DRNG Library (libdrng)",
     "license": "MIT",
     "web": "https://github.com/rockcavera/nim-drng"
+  },
+  {
+    "name": "winres",
+    "url": "https://github.com/codehz/nim-winres",
+    "method": "git",
+    "tags": [
+      "windows",
+      "resource"
+    ],
+    "description": "Windows resource file generator",
+    "license": "MIT",
+    "web": "https://github.com/codehz/nim-winres"
+  },
+  {
+    "name": "nimview",
+    "url": "https://github.com/marcomq/nimview",
+    "method": "git",
+    "tags": [
+      "web",
+      "library",
+      "gui",
+      "webview",
+      "html",
+      "css",
+      "javascript"
+    ],
+    "description": "Nim / Python / C library to run webview with HTML/JS as UI",
+    "license": "MIT",
+    "web": "https://github.com/marcomq/nimview"
+  },
+  {
+    "name": "denim_ui_cairo",
+    "url": "https://github.com/nortero-code/midio-ui-cairo",
+    "method": "git",
+    "tags": [
+      "denim-ui",
+      "denim-backend",
+      "gui",
+      "cairo",
+      "cross",
+      "platform"
+    ],
+    "description": "Cairo backend for the denim ui engine",
+    "license": "MIT",
+    "web": "https://github.com/nortero-code/midio-ui-cairo"
+  },
+  {
+    "name": "checkpack",
+    "url": "https://gitlab.com/ArMour85/checkpack",
+    "method": "git",
+    "tags": [
+      "package",
+      "library"
+    ],
+    "description": "Tiny library to check if a system package is already installed.",
+    "license": "MIT",
+    "web": "https://gitlab.com/ArMour85/checkpack"
+  },
+  {
+    "name": "xcb",
+    "url": "https://github.com/SolitudeSF/xcb",
+    "method": "git",
+    "tags": [
+      "xcb",
+      "x11",
+      "bindings",
+      "wrapper"
+    ],
+    "description": "xcb bindings",
+    "license": "MIT",
+    "web": "https://github.com/SolitudeSF/xcb"
+  },
+  {
+    "name": "nimjl",
+    "url": "https://github.com/Clonkk/nimjl",
+    "method": "git",
+    "tags": [
+      "Nim",
+      "Julia",
+      "Bridge"
+    ],
+    "description": "Nim Julia bridge",
+    "license": "MIT",
+    "web": "https://github.com/Clonkk/nimjl"
   }
 ]
