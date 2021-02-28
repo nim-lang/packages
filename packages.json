@@ -11921,7 +11921,7 @@
   },
   {
     "name": "asciigraph",
-    "url": "https://github.com/KeepCoolWithCoolidge/asciigraph",
+    "url": "https://github.com/Yardanico/asciigraph",
     "method": "git",
     "tags": [
       "graph",
@@ -11931,7 +11931,7 @@
     ],
     "description": "Console ascii line charts in pure nim",
     "license": "MIT",
-    "web": "https://github.com/KeepCoolWithCoolidge/asciigraph"
+    "web": "https://github.com/Yardanico/asciigraph"
   },
   {
     "name": "bearlibterminal",
