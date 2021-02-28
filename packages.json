@@ -11,7 +11,7 @@
       "biology"
     ],
     "description": "This package tries to provide a lot of the most useful data structures and alogrithms need in the different subfield of bio informatics",
-    "license": "UNLICENSE",
+    "license": "UNLICENSE"
   },
   {
     "name": "jhash",
