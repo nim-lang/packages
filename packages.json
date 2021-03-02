@@ -8,7 +8,8 @@
     ],
     "description": "onnxruntime C Api wrapped for nim",
     "license": "MIT",
-    "web": "https://github.com/YesDrX/onnxruntime-nim/"
+    "web": "https://github.com/YesDrX/onnxruntime-nim/"},
+  {
     "name": "bionim",
     "url": "https://github.com/Unaimend/bionim",
     "method": "git",
