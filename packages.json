@@ -11243,6 +11243,25 @@
     "web": "https://github.com/treeform/benchy"
   },
   {
+    "name": "puppy",
+    "url": "https://github.com/treeform/puppy",
+    "method": "git",
+    "tags": [
+      "fetch",
+      "http",
+      "https",
+      "url",
+      "curl",
+      "tls",
+      "ssl",
+      "web",
+      "download"
+    ],
+    "description": "Fetch url resources via HTTP and HTTPS.",
+    "license": "MIT",
+    "web": "https://github.com/treeform/puppy"
+  },
+  {
     "name": "xdo",
     "url": "https://github.com/juancarlospaco/nim-xdo",
     "method": "git",
