@@ -9,6 +9,18 @@
     "description": "onnxruntime C Api wrapped for nim",
     "license": "MIT",
     "web": "https://github.com/YesDrX/onnxruntime-nim/"
+    "name": "bionim",
+    "url": "https://github.com/Unaimend/bionim",
+    "method": "git",
+    "tags": [
+      "bioinformatics",
+      "needleman",
+      "wunsch",
+      "needleman-wunsch",
+      "biology"
+    ],
+    "description": "This package tries to provide a lot of the most useful data structures and alogrithms need in the different subfield of bio informatics",
+    "license": "UNLICENSE"
   },
   {
     "name": "jhash",
@@ -11240,6 +11252,25 @@
     "web": "https://github.com/treeform/benchy"
   },
   {
+    "name": "puppy",
+    "url": "https://github.com/treeform/puppy",
+    "method": "git",
+    "tags": [
+      "fetch",
+      "http",
+      "https",
+      "url",
+      "curl",
+      "tls",
+      "ssl",
+      "web",
+      "download"
+    ],
+    "description": "Fetch url resources via HTTP and HTTPS.",
+    "license": "MIT",
+    "web": "https://github.com/treeform/puppy"
+  },
+  {
     "name": "xdo",
     "url": "https://github.com/juancarlospaco/nim-xdo",
     "method": "git",
@@ -11932,7 +11963,7 @@
   },
   {
     "name": "asciigraph",
-    "url": "https://github.com/KeepCoolWithCoolidge/asciigraph",
+    "url": "https://github.com/Yardanico/asciigraph",
     "method": "git",
     "tags": [
       "graph",
@@ -11942,7 +11973,7 @@
     ],
     "description": "Console ascii line charts in pure nim",
     "license": "MIT",
-    "web": "https://github.com/KeepCoolWithCoolidge/asciigraph"
+    "web": "https://github.com/Yardanico/asciigraph"
   },
   {
     "name": "bearlibterminal",
@@ -21642,5 +21673,47 @@
     "description": "Tiny library to check if a system package is already installed.",
     "license": "MIT",
     "web": "https://gitlab.com/ArMour85/checkpack"
+  },
+  {
+    "name": "xcb",
+    "url": "https://github.com/SolitudeSF/xcb",
+    "method": "git",
+    "tags": [
+      "xcb",
+      "x11",
+      "bindings",
+      "wrapper"
+    ],
+    "description": "xcb bindings",
+    "license": "MIT",
+    "web": "https://github.com/SolitudeSF/xcb"
+  },
+  {
+    "name": "nimjl",
+    "url": "https://github.com/Clonkk/nimjl",
+    "method": "git",
+    "tags": [
+      "Nim",
+      "Julia",
+      "Bridge"
+    ],
+    "description": "Nim Julia bridge",
+    "license": "MIT",
+    "web": "https://github.com/Clonkk/nimjl"
+  },
+  {
+    "name": "nimflux",
+    "url": "https://gitlab.com/tdely/nimflux",
+    "method": "git",
+    "tags": [
+      "influxdb",
+      "influx",
+      "client",
+      "api",
+      "library"
+    ],
+    "description": "InfluxDB API client library",
+    "license": "MIT",
+    "web": "https://gitlab.com/tdely/nimflux"
   }
 ]
