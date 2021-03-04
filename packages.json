@@ -9,6 +9,8 @@
     "description": "onnxruntime C Api wrapped for nim",
     "license": "MIT",
     "web": "https://github.com/YesDrX/onnxruntime-nim/"},
+    "web": "https://github.com/YesDrX/onnxruntime-nim/"
+  },
   {
     "name": "bionim",
     "url": "https://github.com/Unaimend/bionim",
@@ -21716,5 +21718,17 @@
     "description": "InfluxDB API client library",
     "license": "MIT",
     "web": "https://gitlab.com/tdely/nimflux"
+  },
+  {
+    "name": "moss_nim",
+    "url": "https://github.com/D4D3VD4V3/moss_nim",
+    "method": "git",
+    "tags": [
+      "moss",
+      "similarity"
+    ],
+    "description": "Moss (Measure of Software Similarity) implementation in Nim.",
+    "license": "MIT",
+    "web": "https://github.com/D4D3VD4V3/moss_nim"
   }
 ]
