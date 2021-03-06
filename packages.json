@@ -1,5 +1,27 @@
 [
   {
+    "name": "gsl",
+    "url": "https://github.com/YesDrX/gsl-nim.git",
+    "method": "git",
+    "tags": [
+      "gsl", "gnu", "numerical", "scientific"
+    ],
+    "description": "gsl C Api wrapped for nim",
+    "license": "GPL3",
+    "web": "https://github.com/YesDrX/gsl-nim/"
+  },
+  {
+    "name": "onnxruntime",
+    "url": "https://github.com/YesDrX/onnxruntime-nim.git",
+    "method": "git",
+    "tags": [
+      "onnxruntime"
+    ],
+    "description": "onnxruntime C Api wrapped for nim",
+    "license": "MIT",
+    "web": "https://github.com/YesDrX/onnxruntime-nim/"
+  },
+  {
     "name": "bionim",
     "url": "https://github.com/Unaimend/bionim",
     "method": "git",
@@ -12,6 +34,7 @@
     ],
     "description": "This package tries to provide a lot of the most useful data structures and alogrithms need in the different subfield of bio informatics",
     "license": "UNLICENSE",
+    "license": "UNLICENSE"
   },
   {
     "name": "jhash",
@@ -11243,6 +11266,25 @@
     "web": "https://github.com/treeform/benchy"
   },
   {
+    "name": "puppy",
+    "url": "https://github.com/treeform/puppy",
+    "method": "git",
+    "tags": [
+      "fetch",
+      "http",
+      "https",
+      "url",
+      "curl",
+      "tls",
+      "ssl",
+      "web",
+      "download"
+    ],
+    "description": "Fetch url resources via HTTP and HTTPS.",
+    "license": "MIT",
+    "web": "https://github.com/treeform/puppy"
+  },
+  {
     "name": "xdo",
     "url": "https://github.com/juancarlospaco/nim-xdo",
     "method": "git",
@@ -11935,7 +11977,7 @@
   },
   {
     "name": "asciigraph",
-    "url": "https://github.com/KeepCoolWithCoolidge/asciigraph",
+    "url": "https://github.com/Yardanico/asciigraph",
     "method": "git",
     "tags": [
       "graph",
@@ -11945,7 +11987,7 @@
     ],
     "description": "Console ascii line charts in pure nim",
     "license": "MIT",
-    "web": "https://github.com/KeepCoolWithCoolidge/asciigraph"
+    "web": "https://github.com/Yardanico/asciigraph"
   },
   {
     "name": "bearlibterminal",
@@ -21672,5 +21714,32 @@
     "description": "Nim Julia bridge",
     "license": "MIT",
     "web": "https://github.com/Clonkk/nimjl"
+  },
+  {
+    "name": "nimflux",
+    "url": "https://gitlab.com/tdely/nimflux",
+    "method": "git",
+    "tags": [
+      "influxdb",
+      "influx",
+      "client",
+      "api",
+      "library"
+    ],
+    "description": "InfluxDB API client library",
+    "license": "MIT",
+    "web": "https://gitlab.com/tdely/nimflux"
+  },
+  {
+    "name": "moss_nim",
+    "url": "https://github.com/D4D3VD4V3/moss_nim",
+    "method": "git",
+    "tags": [
+      "moss",
+      "similarity"
+    ],
+    "description": "Moss (Measure of Software Similarity) implementation in Nim.",
+    "license": "MIT",
+    "web": "https://github.com/D4D3VD4V3/moss_nim"
   }
 ]
