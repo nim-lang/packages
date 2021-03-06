@@ -4,7 +4,10 @@
     "url": "https://github.com/YesDrX/gsl-nim.git",
     "method": "git",
     "tags": [
-      "gsl", "gnu", "numerical", "scientific"
+      "gsl",
+      "gnu",
+      "numerical",
+      "scientific"
     ],
     "description": "gsl C Api wrapped for nim",
     "license": "GPL3",
@@ -33,7 +36,6 @@
       "biology"
     ],
     "description": "This package tries to provide a lot of the most useful data structures and alogrithms need in the different subfield of bio informatics",
-    "license": "UNLICENSE",
     "license": "UNLICENSE"
   },
   {
@@ -21741,5 +21743,19 @@
     "description": "Moss (Measure of Software Similarity) implementation in Nim.",
     "license": "MIT",
     "web": "https://github.com/D4D3VD4V3/moss_nim"
+  },
+  {
+    "name": "nim_seq",
+    "url": "https://github.com/kerrycobb/nim-dna-seq",
+    "method": "git",
+    "tags": [
+      "fasta",
+      "alignment",
+      "iupac",
+      "nucleotides"
+    ],
+    "description": "A Nim library for biological sequence data.",
+    "license": "MIT",
+    "web": "https://github.com/kerrycobb/nim-dna-seq"
   }
 ]
