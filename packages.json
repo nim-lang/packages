@@ -21758,5 +21758,19 @@
     "description": "nimib 🐳 - nim 👑 driven ⛵ publishing ✍",
     "license": "MIT",
     "web": "https://github.com/pietroppeter/nimib"
+  },
+  {
+    "name": "bio_seq",
+    "url": "https://github.com/kerrycobb/nim-dna-seq",
+    "method": "git",
+    "tags": [
+      "fasta",
+      "bioinformatics",
+      "dna",
+      "iupac"
+    ],
+    "description": "A Nim library for biological sequence data.",
+    "license": "MIT",
+    "web": "https://github.com/kerrycobb/nim-dna-seq"
   }
 ]
