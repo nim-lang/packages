@@ -21756,5 +21756,34 @@
     "description": "View and set the metadata for audio files",
     "license": "GPL-3.0-or-later",
     "web": "https://github.com/RainbowAsteroids/meta"
+  },
+  {
+    "name": "nimib",
+    "url": "https://github.com/pietroppeter/nimib",
+    "method": "git",
+    "tags": [
+      "notebook",
+      "library",
+      "html",
+      "markdown",
+      "publish"
+    ],
+    "description": "nimib 🐳 - nim 👑 driven ⛵ publishing ✍",
+    "license": "MIT",
+    "web": "https://github.com/pietroppeter/nimib"
+  },
+  {
+    "name": "bio_seq",
+    "url": "https://github.com/kerrycobb/nim-dna-seq",
+    "method": "git",
+    "tags": [
+      "fasta",
+      "bioinformatics",
+      "dna",
+      "iupac"
+    ],
+    "description": "A Nim library for biological sequence data.",
+    "license": "MIT",
+    "web": "https://github.com/kerrycobb/nim-dna-seq"
   }
 ]
