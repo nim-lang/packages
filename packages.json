@@ -21745,6 +21745,19 @@
     "web": "https://github.com/D4D3VD4V3/moss_nim"
   },
   {
+    "name": "meta",
+    "url": "https://github.com/RainbowAsteroids/meta",
+    "method": "git",
+    "tags": [
+      "metadata",
+      "music",
+      "cli"
+    ],
+    "description": "View and set the metadata for audio files",
+    "license": "GPL-3.0-or-later",
+    "web": "https://github.com/RainbowAsteroids/meta"
+  },
+  {
     "name": "nimib",
     "url": "https://github.com/pietroppeter/nimib",
     "method": "git",
