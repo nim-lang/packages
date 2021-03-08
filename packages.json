@@ -4,7 +4,10 @@
     "url": "https://github.com/YesDrX/gsl-nim.git",
     "method": "git",
     "tags": [
-      "gsl", "gnu", "numerical", "scientific"
+      "gsl",
+      "gnu",
+      "numerical",
+      "scientific"
     ],
     "description": "gsl C Api wrapped for nim",
     "license": "GPL3",
@@ -21740,5 +21743,18 @@
     "description": "Moss (Measure of Software Similarity) implementation in Nim.",
     "license": "MIT",
     "web": "https://github.com/D4D3VD4V3/moss_nim"
+  },
+  {
+    "name": "meta",
+    "url": "https://github.com/RainbowAsteroids/meta",
+    "method": "git",
+    "tags": [
+      "metadata",
+      "music",
+      "cli"
+    ],
+    "description": "View and set the metadata for audio files",
+    "license": "GPL-3.0-or-later",
+    "web": "https://github.com/RainbowAsteroids/meta"
   }
 ]
