@@ -21745,6 +21745,21 @@
     "web": "https://github.com/D4D3VD4V3/moss_nim"
   },
   {
+    "name": "nimib",
+    "url": "https://github.com/pietroppeter/nimib",
+    "method": "git",
+    "tags": [
+      "notebook",
+      "library",
+      "html",
+      "markdown",
+      "publish"
+    ],
+    "description": "nimib 🐳 - nim 👑 driven ⛵ publishing ✍",
+    "license": "MIT",
+    "web": "https://github.com/pietroppeter/nimib"
+  },
+  {
     "name": "bio_seq",
     "url": "https://github.com/kerrycobb/nim-dna-seq",
     "method": "git",
