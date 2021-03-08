@@ -21785,5 +21785,18 @@
     "description": "A Nim library for biological sequence data.",
     "license": "MIT",
     "web": "https://github.com/kerrycobb/nim-dna-seq"
+  },
+  {
+    "name": "questionable",
+    "url": "https://github.com/markspanbroek/questionable",
+    "method": "git",
+    "tags": [
+      "option",
+      "result",
+      "error"
+    ],
+    "description": "Elegant optional types",
+    "license": "MIT",
+    "web": "https://github.com/markspanbroek/questionable"
   }
 ]
