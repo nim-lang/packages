@@ -3162,7 +3162,7 @@
   },
   {
     "name": "fftw3",
-    "url": "https://github.com/Clonkk/nimfftw3",
+    "url": "https://github.com/SciNim/nimfftw3",
     "method": "git",
     "tags": [
       "library",
@@ -3171,7 +3171,7 @@
     ],
     "description": "Bindings to the FFTW library",
     "license": "LGPL",
-    "web": "https://github.com/Clonkk/nimfftw3"
+    "web": "https://github.com/SciNim/nimfftw3"
   },
   {
     "name": "nrpl",
