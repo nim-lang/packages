@@ -21798,5 +21798,18 @@
     "description": "Elegant optional types",
     "license": "MIT",
     "web": "https://github.com/markspanbroek/questionable"
+  },
+  {
+    "name": "tweens",
+    "url": "https://github.com/RainbowAsteroids/tweens",
+    "method": "git",
+    "tags": [
+      "tween",
+      "math",
+      "animation"
+    ],
+    "description": "Basic tweening library for Nim",
+    "license": "MIT",
+    "web": "https://github.com/RainbowAsteroids/tweens"
   }
 ]
