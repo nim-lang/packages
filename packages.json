@@ -21823,5 +21823,18 @@
     "description": "Set implementation of disjoint intervals",
     "license": "MIT",
     "web": "https://github.com/autumngray/intervalsets"
+  },
+  {
+    "name": "nimkalc",
+    "url": "https://github.com/nocturn9x/nimkalc",
+    "method": "git",
+    "tags": [
+      "parsing",
+      "library",
+      "math"
+    ],
+    "description": "An advanced parsing library for mathematical expressions and equations",
+    "license": "Apache 2.0",
+    "web": "https://github.com/nocturn9x/nimkalc"
   }
 ]
