@@ -21811,5 +21811,17 @@
     "description": "Basic tweening library for Nim",
     "license": "MIT",
     "web": "https://github.com/RainbowAsteroids/tweens"
+  },
+  {
+    "name": "intervalsets",
+    "url": "https://github.com/autumngray/intervalsets",
+    "method": "git",
+    "tags": [
+      "interval",
+      "set"
+    ],
+    "description": "Set implementation of disjoint intervals",
+    "license": "MIT",
+    "web": "https://github.com/autumngray/intervalsets"
   }
 ]
