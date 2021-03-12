@@ -21848,7 +21848,7 @@
       "async"
     ],
     "description": "MTProto client written in Nim",
-    "license": "LGPL-3.0",
+    "license": "MIT",
     "web": "https://github.com/nimgram/nimgram"
   }
 ]
