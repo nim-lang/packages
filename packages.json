@@ -21836,5 +21836,19 @@
     "description": "An advanced parsing library for mathematical expressions and equations",
     "license": "Apache 2.0",
     "web": "https://github.com/nocturn9x/nimkalc"
+  },
+  {
+    "name": "nimgram",
+    "url": "https://github.com/nimgram/nimgram",
+    "method": "git",
+    "tags": [
+      "mtproto",
+      "telegram",
+      "telegram-api",
+      "async"
+    ],
+    "description": "MTProto client written in Nim",
+    "license": "LGPL-3.0",
+    "web": "https://github.com/nimgram/nimgram"
   }
 ]
