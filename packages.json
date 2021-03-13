@@ -21850,5 +21850,19 @@
     "description": "MTProto client written in Nim",
     "license": "MIT",
     "web": "https://github.com/nimgram/nimgram"
+  },
+   {
+    "name": "jsontoxml",
+    "url": "https://github.com/MhedhebiIssam/jsontoxml/blob/main/jsontoxml.nim",
+    "method": "git",
+    "tags": [
+      "xml",
+      "json",
+      "convert",
+      "json to xml "
+    ],
+    "description": "convert json to xml ",
+    "license": "MIT",
+    "web": "https://github.com/MhedhebiIssam/jsontoxml/blob/main/jsontoxml.nim"
   }
 ]
