@@ -14936,6 +14936,18 @@
     "web": "https://github.com/Cirru/writer.nim"
   },
   {
+    "name": "cirru_edn",
+    "url": "https://github.com/Cirru/cirru-edn.nim",
+    "method": "git",
+    "tags": [
+      "cirru",
+      "edn"
+    ],
+    "description": "Extensible data notation based on Cirru syntax",
+    "license": "MIT",
+    "web": "https://github.com/Cirru/cirru-edn.nim"
+  },
+  {
     "name": "ternary_tree",
     "url": "https://github.com/calcit-lang/ternary-tree",
     "method": "git",
