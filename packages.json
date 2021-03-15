@@ -21877,5 +21877,18 @@
     "description": "Convert json to xml  : JsonNode( comapatible with  module json ) To  XmlNode (comapatible with  module  xmltree)",
     "license": "MIT",
     "web": "https://github.com/MhedhebiIssam/json2xml"
+  },
+  {
+    "name": "zws",
+    "url": "https://github.com/zws-im/cli",
+    "method": "git",
+    "tags": [
+      "url",
+      "url-shortener",
+      "cli"
+    ],
+    "description": "A command line interface for shortening URLs with ZWS instances",
+    "license": "MIT",
+    "web": "https://github.com/zws-im/cli/blob/main/README.md#zws-imcli"
   }
 ]
