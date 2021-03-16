@@ -21887,11 +21887,23 @@
       "esp-idf",
       "mcu",
       "microcontroller",
-      "embedded",
-      ""
+      "embedded"
     ],
     "description": "Nim wrappers for ESP-IDF (ESP32)",
     "license": "Apache-2.0",
     "web": "https://github.com/elcritch/nesper"
+  },
+  {
+    "name": "zws",
+    "url": "https://github.com/zws-im/cli",
+    "method": "git",
+    "tags": [
+      "url",
+      "url-shortener",
+      "cli"
+    ],
+    "description": "A command line interface for shortening URLs with ZWS instances",
+    "license": "MIT",
+    "web": "https://github.com/zws-im/cli/blob/main/README.md#zws-imcli"
   }
 ]
