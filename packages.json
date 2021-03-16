@@ -21862,8 +21862,8 @@
     "description": "MTProto client written in Nim",
     "license": "MIT",
     "web": "https://github.com/nimgram/nimgram"
-  } , 
-   {
+  },
+  {
     "name": "json2xml",
     "url": "https://github.com/MhedhebiIssam/json2xml",
     "method": "git",
@@ -21871,12 +21871,27 @@
       "json2xml",
       "json",
       "xml",
-      "XmlNode" , 
+      "XmlNode",
       "JsonNode"
     ],
     "description": "Convert json to xml  : JsonNode( comapatible with  module json ) To  XmlNode (comapatible with  module  xmltree)",
     "license": "MIT",
     "web": "https://github.com/MhedhebiIssam/json2xml"
+  },
+  {
+    "name": "nesper",
+    "url": "https://github.com/elcritch/nesper",
+    "method": "git",
+    "tags": [
+      "esp32",
+      "esp-idf",
+      "mcu",
+      "microcontroller",
+      "embedded"
+    ],
+    "description": "Nim wrappers for ESP-IDF (ESP32)",
+    "license": "Apache-2.0",
+    "web": "https://github.com/elcritch/nesper"
   },
   {
     "name": "zws",
