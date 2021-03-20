@@ -21905,5 +21905,19 @@
     "description": "A command line interface for shortening URLs with ZWS instances",
     "license": "MIT",
     "web": "https://github.com/zws-im/cli/blob/main/README.md#zws-imcli"
+  },
+  {
+    "name": "spacenimtraders",
+    "url": "https://github.com/ire4ever1190/SpaceNimTraders",
+    "method": "git",
+    "tags": [
+      "wrapper",
+      "game",
+      "api",
+      "library"
+    ],
+    "description": "A new awesome nimble package",
+    "license": "MIT",
+    "web": "https://github.com/ire4ever1190/SpaceNimTraders"
   }
 ]
