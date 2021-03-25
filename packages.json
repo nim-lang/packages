@@ -21931,5 +21931,19 @@
     "description": "A new awesome nimble package",
     "license": "MIT",
     "web": "https://github.com/bung87/rcedit"
+  },
+  {
+    "name": "parsegemini",
+    "url": "https://github.com/autumngray/parsegemini",
+    "method": "git",
+    "tags": [
+      "gemini",
+      "parser",
+      "gemtext",
+      "gmi"
+    ],
+    "description": "Library for parsing text/gemini",
+    "license": "MIT",
+    "web": "https://github.com/autumngray/parsegemini"
   }
 ]
