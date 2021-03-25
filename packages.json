@@ -14936,6 +14936,18 @@
     "web": "https://github.com/Cirru/writer.nim"
   },
   {
+    "name": "cirru_edn",
+    "url": "https://github.com/Cirru/cirru-edn.nim",
+    "method": "git",
+    "tags": [
+      "cirru",
+      "edn"
+    ],
+    "description": "Extensible data notation based on Cirru syntax",
+    "license": "MIT",
+    "web": "https://github.com/Cirru/cirru-edn.nim"
+  },
+  {
     "name": "ternary_tree",
     "url": "https://github.com/calcit-lang/ternary-tree",
     "method": "git",
@@ -21823,5 +21835,101 @@
     "description": "Set implementation of disjoint intervals",
     "license": "MIT",
     "web": "https://github.com/autumngray/intervalsets"
+  },
+  {
+    "name": "nimkalc",
+    "url": "https://github.com/nocturn9x/nimkalc",
+    "method": "git",
+    "tags": [
+      "parsing",
+      "library",
+      "math"
+    ],
+    "description": "An advanced parsing library for mathematical expressions and equations",
+    "license": "Apache 2.0",
+    "web": "https://github.com/nocturn9x/nimkalc"
+  },
+  {
+    "name": "nimgram",
+    "url": "https://github.com/nimgram/nimgram",
+    "method": "git",
+    "tags": [
+      "mtproto",
+      "telegram",
+      "telegram-api",
+      "async"
+    ],
+    "description": "MTProto client written in Nim",
+    "license": "MIT",
+    "web": "https://github.com/nimgram/nimgram"
+  },
+  {
+    "name": "json2xml",
+    "url": "https://github.com/MhedhebiIssam/json2xml",
+    "method": "git",
+    "tags": [
+      "json2xml",
+      "json",
+      "xml",
+      "XmlNode",
+      "JsonNode"
+    ],
+    "description": "Convert json to xml  : JsonNode( comapatible with  module json ) To  XmlNode (comapatible with  module  xmltree)",
+    "license": "MIT",
+    "web": "https://github.com/MhedhebiIssam/json2xml"
+  },
+  {
+    "name": "nesper",
+    "url": "https://github.com/elcritch/nesper",
+    "method": "git",
+    "tags": [
+      "esp32",
+      "esp-idf",
+      "mcu",
+      "microcontroller",
+      "embedded"
+    ],
+    "description": "Nim wrappers for ESP-IDF (ESP32)",
+    "license": "Apache-2.0",
+    "web": "https://github.com/elcritch/nesper"
+  },
+  {
+    "name": "zws",
+    "url": "https://github.com/zws-im/cli",
+    "method": "git",
+    "tags": [
+      "url",
+      "url-shortener",
+      "cli"
+    ],
+    "description": "A command line interface for shortening URLs with ZWS instances",
+    "license": "MIT",
+    "web": "https://github.com/zws-im/cli/blob/main/README.md#zws-imcli"
+  },
+  {
+    "name": "spacenimtraders",
+    "url": "https://github.com/ire4ever1190/SpaceNimTraders",
+    "method": "git",
+    "tags": [
+      "wrapper",
+      "game",
+      "api",
+      "library"
+    ],
+    "description": "A new awesome nimble package",
+    "license": "MIT",
+    "web": "https://github.com/ire4ever1190/SpaceNimTraders"
+  },
+  {
+    "name": "rcedit",
+    "url": "https://github.com/bung87/rcedit",
+    "method": "git",
+    "tags": [
+      "rcedit",
+      "wrapper"
+    ],
+    "description": "A new awesome nimble package",
+    "license": "MIT",
+    "web": "https://github.com/bung87/rcedit"
   }
 ]
