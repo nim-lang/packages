@@ -21960,5 +21960,16 @@
     "description": "Simple UI components for the terminal.",
     "license": "MIT",
     "web": "https://github.com/jjv360/nim-termui"
+  },
+  {
+    "name": "icon",
+    "url": "https://github.com/bung87/icon",
+    "method": "git",
+    "tags": [
+      "icon"
+    ],
+    "description": "Generate icon files from PNG files.",
+    "license": "MIT",
+    "web": "https://github.com/bung87/icon"
   }
 ]
