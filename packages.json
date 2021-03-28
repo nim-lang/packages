@@ -21971,5 +21971,17 @@
     "description": "Generate icon files from PNG files.",
     "license": "MIT",
     "web": "https://github.com/bung87/icon"
+  },
+  {
+    "name": "zopflipng",
+    "url": "https://github.com/bung87/zopflipng",
+    "method": "git",
+    "tags": [
+      "png",
+      "optimization"
+    ],
+    "description": "zopflipng-like png optimization",
+    "license": "MIT",
+    "web": "https://github.com/bung87/zopflipng"
   }
 ]
