@@ -21971,5 +21971,21 @@
     "description": "Generate icon files from PNG files.",
     "license": "MIT",
     "web": "https://github.com/bung87/icon"
+  },
+  {
+    "name": "batchsend",
+    "url": "https://github.com/marcomq/batchsend",
+    "method": "git",
+    "tags": [
+      "fast",
+      "multithreaded",
+      "tcp",
+      "http",
+      "transmission",
+      "library"
+    ],
+    "description": "Nim / Python library to feed HTTP server quickly with custom messages",
+    "license": "MIT",
+    "web": "https://github.com/marcomq/batchsend"
   }
 ]
