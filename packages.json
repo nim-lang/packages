@@ -21987,5 +21987,18 @@
     "description": "Nim / Python library to feed HTTP server quickly with custom messages",
     "license": "MIT",
     "web": "https://github.com/marcomq/batchsend"
+  },
+  {
+    "name": "nim_openapi",
+    "url": "https://github.com/LantosHub/nim-openapi",
+    "method": "git",
+    "tags": [
+      "openAI",
+      "rest",
+      "api"
+    ],
+    "description": "a nim openAI rest module",
+    "license": "MIT",
+    "web": "https://github.com/LantosHub/nim-openapi"
   }
 ]
