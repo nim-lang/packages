@@ -22001,5 +22001,17 @@
     "description": "FIX Protocol optimized parser (Financial Information eXchange)",
     "license": "Apache-2.0",
     "web": "https://github.com/inv2004/newfix"
+  },
+  {
+    "name": "suru",
+    "url": "https://github.com/de-odex/suru",
+    "method": "git",
+    "tags": [
+      "progress",
+      "bar",
+      "terminal"
+    ],
+    "description": "A tqdm-style progress bar in Nim",
+    "license": "MIT"
   }
 ]
