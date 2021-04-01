@@ -22013,5 +22013,17 @@
     ],
     "description": "A tqdm-style progress bar in Nim",
     "license": "MIT"
+  },
+  {
+    "name": "autonim",
+    "url": "https://github.com/Guevara-chan/AutoNim",
+    "method": "git",
+    "tags": [
+      "automation",
+      "autoit"
+    ],
+    "description": "Wrapper for AutoIt v3.3.14.2",
+    "license": "MIT",
+    "web": "https://github.com/Guevara-chan/AutoNim"
   }
 ]
