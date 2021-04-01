@@ -22025,5 +22025,18 @@
     "description": "Wrapper for AutoIt v3.3.14.2",
     "license": "MIT",
     "web": "https://github.com/Guevara-chan/AutoNim"
+  },
+  {
+    "name": "upraises",
+    "url": "https://github.com/markspanbroek/upraises",
+    "method": "git",
+    "tags": [
+      "raise",
+      "error",
+      "defect"
+    ],
+    "description": "exception tracking for older versions of nim",
+    "license": "MIT",
+    "web": "https://github.com/markspanbroek/upraises"
   }
 ]
