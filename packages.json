@@ -22041,7 +22041,7 @@
   },
   {
     "name": "scorper",
-    "url": "https://github.com/bung87/looper",
+    "url": "https://github.com/bung87/scorper",
     "method": "git",
     "tags": [
       "web",
@@ -22050,6 +22050,6 @@
     ],
     "description": "micro and elegant web framework",
     "license": "Apache License 2.0",
-    "web": "https://github.com/bung87/looper"
+    "web": "https://github.com/bung87/scorper"
   }
 ]
