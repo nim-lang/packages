@@ -22050,5 +22050,18 @@
     "description": "minimal, performant mass renaming tool",
     "license": "MIT",
     "web": "https://github.com/xioren/rn"
+  },
+  {
+    "name": "rn",
+    "url": "https://github.com/xioren/rn",
+    "method": "git",
+    "tags": [
+      "rename",
+      "mass rename",
+      "batch rename"
+    ],
+    "description": "minimal, performant mass file renamer",
+    "license": "MIT",
+    "web": "https://github.com/xioren/rn"
   }
 ]
