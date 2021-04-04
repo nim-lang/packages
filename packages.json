@@ -22038,5 +22038,18 @@
     "description": "exception tracking for older versions of nim",
     "license": "MIT",
     "web": "https://github.com/markspanbroek/upraises"
+  },
+  {
+    "name": "rn",
+    "url": "https://github.com/xioren/rn",
+    "method": "git",
+    "tags": [
+      "rename",
+      "mass",
+      "batch"
+    ],
+    "description": "minimal, performant mass file renamer",
+    "license": "MIT",
+    "web": "https://github.com/xioren/rn"
   }
 ]
