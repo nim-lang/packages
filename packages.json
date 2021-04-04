@@ -22038,5 +22038,18 @@
     "description": "exception tracking for older versions of nim",
     "license": "MIT",
     "web": "https://github.com/markspanbroek/upraises"
+  },
+  {
+    "name": "scorper",
+    "url": "https://github.com/bung87/looper",
+    "method": "git",
+    "tags": [
+      "web",
+      "micro",
+      "framework"
+    ],
+    "description": "micro and elegant web framework",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/bung87/looper"
   }
 ]
