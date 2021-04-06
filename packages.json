@@ -21989,6 +21989,19 @@
     "web": "https://github.com/marcomq/batchsend"
   },
   {
+    "name": "rn",
+    "url": "https://github.com/xioren/rn",
+    "method": "git",
+    "tags": [
+      "rename",
+      "mass",
+      "batch"
+    ],
+    "description": "minimal, performant mass file renamer",
+    "license": "MIT",
+    "web": "https://github.com/xioren/rn"
+  },
+  {
     "name": "newfix",
     "url": "https://github.com/inv2004/newfix",
     "method": "git",
