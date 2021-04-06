@@ -22038,5 +22038,16 @@
     "description": "exception tracking for older versions of nim",
     "license": "MIT",
     "web": "https://github.com/markspanbroek/upraises"
+  },
+  {
+    "name": "static_server",
+    "url": "https://github.com/bung87/nimhttpd",
+    "method": "git",
+    "tags": [
+      "web"
+    ],
+    "description": "A tiny static file web server.",
+    "license": "MIT",
+    "web": "https://github.com/bung87/nimhttpd"
   }
 ]
