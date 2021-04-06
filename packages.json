@@ -22040,6 +22040,19 @@
     "web": "https://github.com/markspanbroek/upraises"
   },
   {
+    "name": "scorper",
+    "url": "https://github.com/bung87/scorper",
+    "method": "git",
+    "tags": [
+      "web",
+      "micro",
+      "framework"
+    ],
+    "description": "micro and elegant web framework",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/bung87/scorper"
+  },
+  {
     "name": "static_server",
     "url": "https://github.com/bung87/nimhttpd",
     "method": "git",
