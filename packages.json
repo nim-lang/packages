@@ -22053,6 +22053,20 @@
     "web": "https://github.com/markspanbroek/upraises"
   },
   {
+    "name": "nery",
+    "url": "https://github.com/David-Kunz/Nery",
+    "method": "git",
+    "tags": [
+      "query",
+      "macro",
+      "sql",
+      "select"
+    ],
+    "description": "A simple library to create queries in Nim.",
+    "license": "MIT",
+    "web": "https://github.com/David-Kunz/Nery"
+  },
+  {
     "name": "scorper",
     "url": "https://github.com/bung87/scorper",
     "method": "git",
