@@ -21989,6 +21989,19 @@
     "web": "https://github.com/marcomq/batchsend"
   },
   {
+    "name": "rn",
+    "url": "https://github.com/xioren/rn",
+    "method": "git",
+    "tags": [
+      "rename",
+      "mass",
+      "batch"
+    ],
+    "description": "minimal, performant mass file renamer",
+    "license": "MIT",
+    "web": "https://github.com/xioren/rn"
+  },
+  {
     "name": "newfix",
     "url": "https://github.com/inv2004/newfix",
     "method": "git",
@@ -22053,6 +22066,20 @@
     "license": "MIT",
     "web": "https://github.com/David-Kunz/Nery"
   },
+  {
+    "name": "scorper",
+    "url": "https://github.com/bung87/scorper",
+    "method": "git",
+    "tags": [
+      "web",
+      "micro",
+      "framework"
+    ],
+    "description": "micro and elegant web framework",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/bung87/scorper"
+  },
+  {
     "name": "static_server",
     "url": "https://github.com/bung87/nimhttpd",
     "method": "git",
