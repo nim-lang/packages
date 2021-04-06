@@ -3249,8 +3249,8 @@
   },
   {
     "name": "tnetstring",
-    "url": "https://mahlon@bitbucket.org/mahlon/nim-tnetstring",
-    "method": "hg",
+    "url": "https://github.com/mahlonsmith/nim-tnetstring",
+    "method": "git",
     "tags": [
       "tnetstring",
       "library",
@@ -3258,7 +3258,7 @@
     ],
     "description": "Parsing and serializing for the TNetstring format.",
     "license": "MIT",
-    "web": "http://bitbucket.org/mahlon/nim-tnetstring"
+    "web": "https://github.com/mahlonsmith/nim-tnetstring"
   },
   {
     "name": "msgpack4nim",
@@ -3384,8 +3384,8 @@
   },
   {
     "name": "mongrel2",
-    "url": "https://mahlon@bitbucket.org/mahlon/nim-mongrel2",
-    "method": "hg",
+    "url": "https://github.com/mahlonsmith/nim-mongrel2",
+    "method": "git",
     "tags": [
       "mongrel2",
       "library",
@@ -3393,7 +3393,7 @@
     ],
     "description": "Handler framework for the Mongrel2 web server.",
     "license": "MIT",
-    "web": "http://bitbucket.org/mahlon/nim-mongrel2"
+    "web": "https://github.com/mahlonsmith/nim-mongrel2"
   },
   {
     "name": "shimsham",
@@ -5352,8 +5352,8 @@
   },
   {
     "name": "stomp",
-    "url": "https://bitbucket.org/mahlon/nim-stomp",
-    "method": "hg",
+    "url": "https://github.com/mahlonsmith/nim-stomp",
+    "method": "git",
     "tags": [
       "stomp",
       "library",
@@ -5362,7 +5362,7 @@
     ],
     "description": "A pure-nim implementation of the STOMP protocol for machine messaging.",
     "license": "MIT",
-    "web": "http://bitbucket.org/mahlon/nim-stomp"
+    "web": "https://github.com/mahlonsmith/nim-stomp"
   },
   {
     "name": "srt",
@@ -22051,5 +22051,16 @@
     "description": "micro and elegant web framework",
     "license": "Apache License 2.0",
     "web": "https://github.com/bung87/scorper"
+  },
+  {
+    "name": "static_server",
+    "url": "https://github.com/bung87/nimhttpd",
+    "method": "git",
+    "tags": [
+      "web"
+    ],
+    "description": "A tiny static file web server.",
+    "license": "MIT",
+    "web": "https://github.com/bung87/nimhttpd"
   }
 ]
