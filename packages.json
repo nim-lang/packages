@@ -22103,5 +22103,18 @@
     "license": "AGPLv3",
     "web": "https://github.com/ruivieira/nim-holst",
     "doc": "https://ruivieira.github.io/nim-holst/holst.html"
+  },
+  {
+    "name": "aur",
+    "url": "https://github.com/hnicke/aur.nim",
+    "method": "git",
+    "tags": [
+      "arch",
+      "library",
+      "client"
+    ],
+    "description": "A client for the Arch Linux User Repository (AUR)",
+    "license": "MIT",
+    "web": "https://github.com/hnicke/aur.nim"
   }
 ]
