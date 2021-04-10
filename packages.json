@@ -22116,5 +22116,20 @@
     "description": "A client for the Arch Linux User Repository (AUR)",
     "license": "MIT",
     "web": "https://github.com/hnicke/aur.nim"
+  },
+  {
+    "name": "streamfix",
+    "url": "https://github.com/inv2004/streamfix",
+    "method": "git",
+    "tags": [
+      "fix",
+      "protocol",
+      "parser",
+      "financial",
+      "streaming"
+    ],
+    "description": "FIX Protocol streaming parser (Financial Information eXchange)",
+    "license": "Apache-2.0",
+    "web": "https://github.com/inv2004/streamfix"
   }
 ]
