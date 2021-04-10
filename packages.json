@@ -22128,7 +22128,7 @@
       "video",
       "multimedia"
     ],
-    "description": "A new awesome nimble package",
+    "description": "ffmpeg.nim is the Nim binding for FFMpeg(4.3.2).",
     "license": "MIT",
     "web": "https://github.com/momeemt/ffmpeg.nim"
   }
