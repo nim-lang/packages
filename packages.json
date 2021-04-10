@@ -22116,5 +22116,20 @@
     "description": "A client for the Arch Linux User Repository (AUR)",
     "license": "MIT",
     "web": "https://github.com/hnicke/aur.nim"
+  },
+  {
+    "name": "ffmpeg",
+    "url": "https://github.com/momeemt/ffmpeg.nim",
+    "method": "git",
+    "tags": [
+      "wrapper",
+      "ffmpeg",
+      "movie",
+      "video",
+      "multimedia"
+    ],
+    "description": "A new awesome nimble package",
+    "license": "MIT",
+    "web": "https://github.com/momeemt/ffmpeg.nim"
   }
 ]
