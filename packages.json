@@ -22131,5 +22131,20 @@
     "description": "FIX Protocol streaming parser (Financial Information eXchange)",
     "license": "Apache-2.0",
     "web": "https://github.com/inv2004/streamfix"
+  },
+  {
+    "name": "ffmpeg",
+    "url": "https://github.com/momeemt/ffmpeg.nim",
+    "method": "git",
+    "tags": [
+      "wrapper",
+      "ffmpeg",
+      "movie",
+      "video",
+      "multimedia"
+    ],
+    "description": "ffmpeg.nim is the Nim binding for FFMpeg(4.3.2).",
+    "license": "MIT",
+    "web": "https://github.com/momeemt/ffmpeg.nim"
   }
 ]
