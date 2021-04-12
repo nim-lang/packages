@@ -22160,5 +22160,20 @@
     "description": "GraphQL parser, server and client implementation",
     "license": "Apache License 2.0",
     "web": "https://github.com/status-im/nim-graphql"
+  },
+  {
+    "name": "aria",
+    "url": "https://github.com/juancarlospaco/aria",
+    "method": "git",
+    "tags": [
+      "aria",
+      "http",
+      "rpc",
+      "torrent",
+      "metalink"
+    ],
+    "description": "Aria2 API lib for Nim for any backend https://aria2.github.io",
+    "license": "MIT",
+    "web": "https://github.com/juancarlospaco/aria"
   }
 ]
