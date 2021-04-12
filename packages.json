@@ -22146,5 +22146,19 @@
     "description": "ffmpeg.nim is the Nim binding for FFMpeg(4.3.2).",
     "license": "MIT",
     "web": "https://github.com/momeemt/ffmpeg.nim"
+  },
+  {
+    "name": "graphql",
+    "url": "https://github.com/status-im/nim-graphql",
+    "method": "git",
+    "tags": [
+      "graphql",
+      "graphql-server",
+      "graphql-client",
+      "query language"
+    ],
+    "description": "GraphQL parser, server and client implementation",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/status-im/nim-graphql"
   }
 ]
