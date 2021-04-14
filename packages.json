@@ -22175,5 +22175,18 @@
     "description": "Aria2 API lib for Nim for any backend https://aria2.github.io",
     "license": "MIT",
     "web": "https://github.com/juancarlospaco/aria"
+  },
+  {
+    "name": "csv2dbsrc",
+    "url": "https://github.com/z-kk/csv2dbsrc",
+    "method": "git",
+    "tags": [
+      "csv",
+      "db",
+      "sqlite"
+    ],
+    "description": "create db util sources from csv",
+    "license": "MIT",
+    "web": "https://github.com/z-kk/csv2dbsrc"
   }
 ]
