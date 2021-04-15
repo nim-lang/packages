@@ -22191,7 +22191,7 @@
   },
   {
     "name": "nptr",
-    "url": "https://15b1acb3d21ebde45e8ab271e72fb4b75ad40143:x-oauth-basic@github.com/henryas/nptr",
+    "url": "https://github.com/henryas/nptr",
     "method": "git",
     "tags": [
       "smart",
