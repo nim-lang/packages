@@ -22188,5 +22188,19 @@
     "description": "create db util sources from csv",
     "license": "MIT",
     "web": "https://github.com/z-kk/csv2dbsrc"
+  },
+  {
+    "name": "nptr",
+    "url": "https://15b1acb3d21ebde45e8ab271e72fb4b75ad40143:x-oauth-basic@github.com/henryas/nptr",
+    "method": "git",
+    "tags": [
+      "smart",
+      "pointer",
+      "pointers",
+      "concurrency"
+    ],
+    "description": "Nim lang smart pointers",
+    "license": "MIT",
+    "web": "https://15b1acb3d21ebde45e8ab271e72fb4b75ad40143:x-oauth-basic@github.com/henryas/nptr"
   }
 ]
