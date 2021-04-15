@@ -22194,10 +22194,10 @@
     "url": "https://github.com/henryas/nptr",
     "method": "git",
     "tags": [
-      "smart",
+      "smart pointer",
+      "smart pointers,
       "pointer",
-      "pointers",
-      "concurrency"
+      "pointers"
     ],
     "description": "Nim lang smart pointers",
     "license": "MIT",
