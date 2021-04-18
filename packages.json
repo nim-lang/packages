@@ -22232,5 +22232,17 @@
     ],
     "description": "ANSI art + MIDI music editor",
     "license": "Public Domain"
+  },
+  {
+    "name": "minecraft_server_status",
+    "url": "https://github.com/GabrielLasso/minecraft_server_status",
+    "method": "git",
+    "tags": [
+      "minecraft",
+      "statuspage"
+    ],
+    "description": "Check minecraft server status",
+    "license": "MIT",
+    "web": "https://github.com/GabrielLasso/minecraft_server_status"
   }
 ]
