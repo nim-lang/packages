@@ -1,7 +1,7 @@
 [
   {
     "name": "libsaedea",
-    "url": "https://git.qoto.org/m33/libsaedea.git",
+    "url": "https://github.com/m33m33/libsaedea",
     "method": "git",
     "tags": [
       "libsaedea",
@@ -15,8 +15,8 @@
     ],
     "description": "Library implementing a variation of the Simple And Efficient Data Encryption Algorithm (INTERNATIONAL JOURNAL OF SCIENTIFIC & TECHNOLOGY RESEARCH VOLUME 8, ISSUE 12, DECEMBER 2019 ISSN 2277-8616)",
     "license": "MIT",
-    "web": "https://git.qoto.org/m33/libsaedea",
-    "doc": "https://git.qoto.org/m33/libsaedea/-/blob/master/README.md"
+    "web": "https://github.com/m33m33/libsaedea",
+    "doc": "https://github.com/m33m33/libsaedea/blob/master/README.md"
   },
   {
     "name": "gsl",
