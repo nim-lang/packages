@@ -22265,5 +22265,17 @@
     "description": "Check minecraft server status",
     "license": "MIT",
     "web": "https://github.com/GabrielLasso/minecraft_server_status"
+  },
+  {
+    "name": "rodster",
+    "url": "https://github.com/j-a-s-d/rodster",
+    "method": "git",
+    "tags": [
+      "application",
+      "framework"
+    ],
+    "description": "rodster",
+    "license": "MIT",
+    "web": "https://github.com/j-a-s-d/rodster"
   }
 ]
