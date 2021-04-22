@@ -22291,14 +22291,14 @@
     "web": "https://github.com/jackhftang/xgboost.nim"
   },
   {
-    "name": "nodes",
-    "url": "https://github.com/al6x/nim?subdir=nodes",
+    "name": "nodem",
+    "url": "https://github.com/al6x/nim?subdir=nodem",
     "method": "git",
     "tags": [
       "json"
     ],
     "description": "Call remote Nim functions as if it's local",
     "license": "MIT",
-    "web": "https://github.com/al6x/nim/tree/main/nodes"
+    "web": "https://github.com/al6x/nim/tree/main/nodem"
   }
 ]
