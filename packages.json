@@ -22289,5 +22289,16 @@
     "description": "Nim wrapper of libxgboost",
     "license": "MIT",
     "web": "https://github.com/jackhftang/xgboost.nim"
+  },
+  {
+    "name": "nodes",
+    "url": "https://github.com/al6x/nim?subdir=nodes",
+    "method": "git",
+    "tags": [
+      "json"
+    ],
+    "description": "Call remote Nim functions as if it's local",
+    "license": "MIT",
+    "web": "https://github.com/al6x/nim/tree/main/nodes"
   }
 ]
