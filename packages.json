@@ -22277,5 +22277,17 @@
     "description": "rodster",
     "license": "MIT",
     "web": "https://github.com/j-a-s-d/rodster"
+  },
+  {
+    "name": "xgboost.nim",
+    "url": "https://github.com/jackhftang/xgboost.nim",
+    "method": "git",
+    "tags": [
+      "xgboost",
+      "machine-learning"
+    ],
+    "description": "Nim wrapper of libxgboost",
+    "license": "MIT",
+    "web": "https://github.com/jackhftang/xgboost.nim"
   }
 ]
