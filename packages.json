@@ -22277,5 +22277,34 @@
     "description": "rodster",
     "license": "MIT",
     "web": "https://github.com/j-a-s-d/rodster"
+  },
+  {
+    "name": "xgboost.nim",
+    "url": "https://github.com/jackhftang/xgboost.nim",
+    "method": "git",
+    "tags": [
+      "xgboost",
+      "machine-learning"
+    ],
+    "description": "Nim wrapper of libxgboost",
+    "license": "MIT",
+    "web": "https://github.com/jackhftang/xgboost.nim"
+  },
+  {
+    "name": "nodem",
+    "url": "https://github.com/al6x/nim?subdir=nodem",
+    "method": "git",
+    "tags": [
+      "net",
+      "network",
+      "rpc",
+      "messaging",
+      "distributed",
+      "tcp",
+      "http"
+    ],
+    "description": "Call remote Nim functions as if it's local",
+    "license": "MIT",
+    "web": "https://github.com/al6x/nim/tree/main/nodem"
   }
 ]
