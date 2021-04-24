@@ -6341,17 +6341,34 @@
     "web": "https://github.com/nigredo-tori/classy"
   },
   {
-    "name": "MiNiM",
-    "url": "https://github.com/h3rald/minim",
+    "name": "mn",
+    "url": "https://github.com/h3rald/mn",
     "method": "git",
     "tags": [
       "concatenative",
       "language",
       "shell"
     ],
-    "description": "A tiny concatenative programming language and shell.",
+    "description": "A truly minimal concatenative programming language.",
     "license": "MIT",
-    "web": "https://h3rald.com/minim"
+    "web": "https://h3rald.com/mn"
+  },
+  {
+    "name": "min",
+    "url": "https://github.com/h3rald/min",
+    "method": "git",
+    "tags": [
+      "concatenative",
+      "language",
+      "shell"
+    ],
+    "description": "A small but practical concatenative programming language and shell.",
+    "license": "MIT",
+    "web": "https://min-lang.org"
+  },
+  {
+    "name": "MiNiM",
+    "alias": "min"
   },
   {
     "name": "boneIO",
