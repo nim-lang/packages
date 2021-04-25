@@ -13457,7 +13457,7 @@
   },
   {
     "name": "jstin",
-    "url": "https://github.com/LemonBoy/jstin",
+    "url": "https://github.com/nim-lang/jstin",
     "method": "git",
     "tags": [
       "json",
@@ -13468,7 +13468,7 @@
     ],
     "description": "JS {de,}serialization as it says on the tin",
     "license": "MIT",
-    "web": "https://github.com/LemonBoy/jstin"
+    "web": "https://github.com/nim-lang/jstin"
   },
   {
     "name": "compactdict",
@@ -22324,5 +22324,17 @@
     "description": "Call remote Nim functions as if it's local",
     "license": "MIT",
     "web": "https://github.com/al6x/nim/tree/main/nodem"
+  },
+  {
+    "name": "unittest2",
+    "url": "https://github.com/status-im/nim-unittest2",
+    "method": "git",
+    "tags": [
+      "tests",
+      "unit-testing"
+    ],
+    "description": "unittest fork focused on parallel test execution",
+    "license": "MIT",
+    "web": "https://github.com/status-im/nim-unittest2"
   }
 ]
