@@ -22324,5 +22324,17 @@
     "description": "Call remote Nim functions as if it's local",
     "license": "MIT",
     "web": "https://github.com/al6x/nim/tree/main/nodem"
+  },
+  {
+    "name": "unittest2",
+    "url": "https://github.com/status-im/nim-unittest2",
+    "method": "git",
+    "tags": [
+      "tests",
+      "unit-testing"
+    ],
+    "description": "unittest fork focused on parallel test execution",
+    "license": "MIT",
+    "web": "https://github.com/status-im/nim-unittest2"
   }
 ]
