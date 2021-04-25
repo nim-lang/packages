@@ -13457,7 +13457,7 @@
   },
   {
     "name": "jstin",
-    "url": "https://github.com/LemonBoy/jstin",
+    "url": "https://github.com/nim-lang/jstin",
     "method": "git",
     "tags": [
       "json",
@@ -13468,7 +13468,7 @@
     ],
     "description": "JS {de,}serialization as it says on the tin",
     "license": "MIT",
-    "web": "https://github.com/LemonBoy/jstin"
+    "web": "https://github.com/nim-lang/jstin"
   },
   {
     "name": "compactdict",
