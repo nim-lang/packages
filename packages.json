@@ -22349,5 +22349,20 @@
     "description": "unittest fork focused on parallel test execution",
     "license": "MIT",
     "web": "https://github.com/status-im/nim-unittest2"
+  },
+  {
+    "name": "nint128",
+    "url": "https://github.com/rockcavera/nim-nint128",
+    "method": "git",
+    "tags": [
+      "128",
+      "integers",
+      "integer",
+      "uint128",
+      "int128"
+    ],
+    "description": "128-bit integers",
+    "license": "MIT",
+    "web": "https://github.com/rockcavera/nim-nint128"
   }
 ]
