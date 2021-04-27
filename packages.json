@@ -22377,5 +22377,18 @@
     "description": "fast markdown parser",
     "license": "MIT",
     "web": "https://github.com/kyoheiu/nmark"
+  },
+  {
+    "name": "hottext",
+    "url": "https://git.sr.ht/~ehmry/hottext",
+    "method": "git",
+    "tags": [
+      "rsvp",
+      "sdl",
+      "text"
+    ],
+    "description": "Rapid serial text presenter",
+    "license": "Unlicense",
+    "web": "https://git.sr.ht/~ehmry/hottext"
   }
 ]
