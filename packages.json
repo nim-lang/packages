@@ -22390,5 +22390,18 @@
     "description": "Rapid serial text presenter",
     "license": "Unlicense",
     "web": "https://git.sr.ht/~ehmry/hottext"
+  },
+  {
+    "name": "niml",
+    "url": "https://github.com/jakubDoka/niml",
+    "method": "git",
+    "tags": [
+      "html",
+      "library",
+      "dls"
+    ],
+    "description": "html dsl",
+    "license": "MIT",
+    "web": "https://github.com/jakubDoka/niml"
   }
 ]
