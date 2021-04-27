@@ -22364,5 +22364,18 @@
     "description": "128-bit integers",
     "license": "MIT",
     "web": "https://github.com/rockcavera/nim-nint128"
+  },
+  {
+    "name": "nmark",
+    "url": "https://github.com/kyoheiu/nmark",
+    "method": "git",
+    "tags": [
+      "markdown",
+      "parser",
+      "library"
+    ],
+    "description": "fast markdown parser",
+    "license": "MIT",
+    "web": "https://github.com/kyoheiu/nmark"
   }
 ]
