@@ -22403,5 +22403,20 @@
     "description": "html dsl",
     "license": "MIT",
     "web": "https://github.com/jakubDoka/niml"
+  },
+  {
+    "name": "slugify",
+    "url": "https://github.com/lenniezelk/slugify",
+    "method": "git",
+    "tags": [
+      "slug",
+      "slugify",
+      "unicode",
+      "string",
+      "markdown"
+    ],
+    "description": "Convert strings to a slug. Can be used for URLs, file names, IDs etc.",
+    "license": "MIT",
+    "web": "https://github.com/lenniezelk/slugify"
   }
 ]
