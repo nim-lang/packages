@@ -22418,5 +22418,18 @@
     "description": "Convert strings to a slug. Can be used for URLs, file names, IDs etc.",
     "license": "MIT",
     "web": "https://github.com/lenniezelk/slugify"
+  },
+  {
+    "name": "crowngui",
+    "url": "https://github.com/bung87/crowngui",
+    "method": "git",
+    "tags": [
+      "web-based",
+      "gui",
+      "framework"
+    ],
+    "description": "Web Technologies based Crossplatform GUI Framework",
+    "license": "MIT",
+    "web": "https://github.com/bung87/crowngui"
   }
 ]
