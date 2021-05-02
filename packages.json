@@ -8986,7 +8986,7 @@
   },
   {
     "name": "karax",
-    "url": "https://github.com/pragmagic/karax",
+    "url": "https://github.com/karaxnim/karax/",
     "method": "git",
     "tags": [
       "browser",
@@ -8996,7 +8996,7 @@
     ],
     "description": "Karax is a framework for developing single page applications in Nim.",
     "license": "MIT",
-    "web": "https://github.com/pragmagic/karax"
+    "web": "https://github.com/karaxnim/karax/"
   },
   {
     "name": "cascade",
