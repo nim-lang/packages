@@ -22420,6 +22420,21 @@
     "web": "https://github.com/lenniezelk/slugify"
   },
   {
+    "name": "nimothello",
+    "url": "https://github.com/jiro4989/nimothello",
+    "method": "git",
+    "tags": [
+      "othello",
+      "reversi",
+      "terminal",
+      "game",
+      "command"
+    ],
+    "description": "A teminal othello (reversi) in Nim.",
+    "license": "MIT",
+    "web": "https://github.com/jiro4989/nimothello"
+  },
+  {
     "name": "crowngui",
     "url": "https://github.com/bung87/crowngui",
     "method": "git",
