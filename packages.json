@@ -22379,6 +22379,19 @@
     "web": "https://github.com/kyoheiu/nmark"
   },
   {
+    "name": "stb_truetype",
+    "url": "https://github.com/guzba/stb_truetype",
+    "method": "git",
+    "tags": [
+      "font",
+      "truetype",
+      "opentype"
+    ],
+    "description": "Nim bindings for stb_truetype.",
+    "license": "MIT",
+    "web": "https://github.com/guzba/stb_truetype"
+  },
+  {
     "name": "hottext",
     "url": "https://git.sr.ht/~ehmry/hottext",
     "method": "git",
