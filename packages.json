@@ -22471,5 +22471,20 @@
     "description": "objective-c runtime bindings",
     "license": "LGPL-2.1-or-later",
     "web": "https://github.com/bung87/objc_runtime"
+  },
+  {
+    "name": "hypixel",
+    "url": "https://github.com/Knaque/hypixel-nim",
+    "method": "git",
+    "tags": [
+      "api",
+      "minecraft",
+      "hypixel",
+      "library",
+      "wrapper"
+    ],
+    "description": "The Hypixel API, in Nim.",
+    "license": "MIT",
+    "web": "https://github.com/Knaque/hypixel-nim"
   }
 ]
