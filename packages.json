@@ -22497,5 +22497,21 @@
     "description": "Table implemented as optimized sorted hashed dictionary of {array[char]: Option[T]}, same size as OrderedTable",
     "license": "MIT",
     "web": "https://github.com/juancarlospaco/dik"
+  },
+  {
+    "name": "memlib",
+    "url": "https://github.com/khchen/memlib",
+    "method": "git",
+    "tags": [
+      "dynlib",
+      "library",
+      "dll",
+      "memorymodule",
+      "windows"
+    ],
+    "description": "Load Windows DLL from memory",
+    "license": "MIT",
+    "web": "https://github.com/khchen/memlib",
+    "doc": "https://khchen.github.io/memlib"
   }
 ]
