@@ -22511,6 +22511,7 @@
     ],
     "description": "Load Windows DLL from memory",
     "license": "MIT",
-    "web": "https://github.com/khchen/memlib"
+    "web": "https://github.com/khchen/memlib",
+    "doc": "https://khchen.github.io/memlib"
   }
 ]
