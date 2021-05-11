@@ -22532,13 +22532,13 @@
   },
   {
     "name": "to_interface",
-    "url": "https://itsumura-h@github.com/itsumura-h/nim-to-interface",
+    "url": "https://github.com/itsumura-h/nim-to-interface",
     "method": "git",
     "tags": [
       "interface"
     ],
     "description": "Creating toInterface macro.",
     "license": "MIT",
-    "web": "https://itsumura-h@github.com/itsumura-h/nim-to-interface"
+    "web": "https://github.com/itsumura-h/nim-to-interface"
   }
 ]
