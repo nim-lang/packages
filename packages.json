@@ -22531,14 +22531,14 @@
     "web": "https://github.com/deadshot465/owoifynim"
   },
   {
-    "name": "to_interface",
-    "url": "https://github.com/itsumura-h/nim-to-interface",
+    "name": "interface-implements",
+    "url": "https://github.com/itsumura-h/nim-interface-implements",
     "method": "git",
     "tags": [
       "interface"
     ],
-    "description": "Creating toInterface macro.",
+    "description": "implements macro creates toInterface proc.",
     "license": "MIT",
-    "web": "https://github.com/itsumura-h/nim-to-interface"
+    "web": "https://github.com/itsumura-h/nim-interface-implements"
   }
 ]
