@@ -22529,5 +22529,16 @@
     "description": "Turning your worst nightmare into a Nim package. This is a Nim port of mohan-cao's owoify-js, which will help you turn any string into nonsensical babyspeak similar to LeafySweet's infamous Chrome extension.",
     "license": "MIT",
     "web": "https://github.com/deadshot465/owoifynim"
+  },
+  {
+    "name": "interface_implements",
+    "url": "https://github.com/itsumura-h/nim-interface-implements",
+    "method": "git",
+    "tags": [
+      "interface"
+    ],
+    "description": "implements macro creates toInterface proc.",
+    "license": "MIT",
+    "web": "https://github.com/itsumura-h/nim-interface-implements"
   }
 ]
