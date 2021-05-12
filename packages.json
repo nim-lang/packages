@@ -22531,7 +22531,7 @@
     "web": "https://github.com/deadshot465/owoifynim"
   },
   {
-    "name": "interface-implements",
+    "name": "interface_implements",
     "url": "https://github.com/itsumura-h/nim-interface-implements",
     "method": "git",
     "tags": [
