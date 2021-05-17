@@ -15715,7 +15715,7 @@
   },
   {
     "name": "rainbow",
-    "url": "https://github.com/thebigbaron/rainbow",
+    "url": "https://github.com/Willyboar/rainbow",
     "method": "git",
     "tags": [
       "library",
@@ -15724,7 +15724,7 @@
     ],
     "description": "256 colors for shell",
     "license": "MIT",
-    "web": "https://github.com/thebigbaron/rainbow"
+    "web": "https://github.com/Willyboar/rainbow"
   },
   {
     "name": "rtree",
@@ -15839,7 +15839,7 @@
   },
   {
     "name": "pine",
-    "url": "https://github.com/thebigbaron/pine",
+    "url": "https://github.com/Willyboar/pine",
     "method": "git",
     "tags": [
       "static",
@@ -15848,7 +15848,7 @@
     ],
     "description": "Nim Static Blog & Site Generator",
     "license": "MIT",
-    "web": "https://github.com/thebigbaron/pine"
+    "web": "https://github.com/Willyboar/pine"
   },
   {
     "name": "hotdoc",
