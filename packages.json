@@ -22553,5 +22553,17 @@
     "description": "implements macro creates toInterface proc.",
     "license": "MIT",
     "web": "https://github.com/itsumura-h/nim-interface-implements"
+  },
+  {
+    "name": "unalix",
+    "url": "https://github.com/AmanoTeam/Unalix-nim",
+    "method": "git",
+    "tags": [
+      "internet",
+      "security"
+    ],
+    "description": "Small, dependency-free, fast Nim package (and CLI tool) for removing tracking fields from URLs.",
+    "license": "LGPL-3.0",
+    "web": "https://github.com/AmanoTeam/Unalix-nim"
   }
 ]
