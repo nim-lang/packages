@@ -22565,5 +22565,17 @@
     "description": "Small, dependency-free, fast Nim package (and CLI tool) for removing tracking fields from URLs.",
     "license": "LGPL-3.0",
     "web": "https://github.com/AmanoTeam/Unalix-nim"
+  },
+  {
+    "name": "catnip",
+    "url": "https://github.com/RSDuck/catnip",
+    "method": "git",
+    "tags": [
+      "jit",
+      "assembler"
+    ],
+    "description": "Assembler for runtime code generation",
+    "license": "MIT",
+    "web": "https://github.com/RSDuck/catnip"
   }
 ]
