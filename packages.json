@@ -22577,5 +22577,21 @@
     "description": "Assembler for runtime code generation",
     "license": "MIT",
     "web": "https://github.com/RSDuck/catnip"
+  },
+  {
+    "name": "tm_client",
+    "url": "https://github.com/termermc/nim-tm-client",
+    "method": "git",
+    "tags": [
+      "twinemedia",
+      "api",
+      "client",
+      "async",
+      "library",
+      "media"
+    ],
+    "description": "TwineMedia API client library for Nim",
+    "license": "MIT",
+    "web": "https://github.com/termermc/nim-tm-client"
   }
 ]
