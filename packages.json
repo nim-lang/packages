@@ -22606,5 +22606,19 @@
     "description": "Language Handler for executing Nim inside postgres as a procedural language",
     "license": "MIT",
     "web": "https://github.com/luisacosta828/plnim"
+  },
+  {
+    "name": "mlokmath",
+    "url": "https://github.com/jakubDoka/mlokmath",
+    "method": "git",
+    "tags": [
+      "math",
+      "games",
+      "simd",
+      "fast"
+    ],
+    "description": "simple game oriented vector math",
+    "license": "MIT",
+    "web": "https://github.com/jakubDoka/mlokmath"
   }
 ]
