@@ -22606,5 +22606,18 @@
     "description": "Language Handler for executing Nim inside postgres as a procedural language",
     "license": "MIT",
     "web": "https://github.com/luisacosta828/plnim"
+  },
+  {
+    "name": "db",
+    "url": "https://github.com/sivchari/db",
+    "method": "git",
+    "tags": [
+      "nim",
+      "db",
+      "library"
+    ],
+    "description": "this libraly able to use database/sql of Go",
+    "license": "MIT",
+    "web": "https://github.com/sivchari/db"
   }
 ]
