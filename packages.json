@@ -22619,5 +22619,21 @@
     "description": "this libraly able to use database/sql of Go",
     "license": "MIT",
     "web": "https://github.com/sivchari/db_wrapper"
+  },
+  {
+    "name": "svvpi",
+    "url": "https://github.com/kaushalmodi/nim-svvpi",
+    "method": "git",
+    "tags": [
+      "verilog",
+      "systemverilog",
+      "pli",
+      "vpi",
+      "1800-2017",
+      "1364-2005"
+    ],
+    "description": "Wrapper for SystemVerilog VPI headers vpi_user.h and sv_vpi_user.h",
+    "license": "MIT",
+    "web": "https://github.com/kaushalmodi/nim-svvpi"
   }
 ]
