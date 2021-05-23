@@ -22619,5 +22619,19 @@
     "description": "this libraly able to use database/sql of Go",
     "license": "MIT",
     "web": "https://github.com/sivchari/db_wrapper"
+  },
+  {
+    "name": "winimx",
+    "url": "https://github.com/khchen/winimx",
+    "method": "git",
+    "tags": [
+      "library",
+      "windows",
+      "api",
+      "winim"
+    ],
+    "description": "Winim minified code generator",
+    "license": "MIT",
+    "web": "https://github.com/khchen/winimx"
   }
 ]
