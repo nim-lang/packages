@@ -22619,5 +22619,18 @@
     "description": "this libraly able to use database/sql of Go",
     "license": "MIT",
     "web": "https://github.com/sivchari/db_wrapper"
+  },
+  {
+    "name": "ptr_math",
+    "url": "https://github.com/kaushalmodi/ptr_math",
+    "method": "git",
+    "tags": [
+      "pointer",
+      "arithmetic",
+      "math"
+    ],
+    "description": "Pointer arithmetic library",
+    "license": "MIT",
+    "web": "https://github.com/kaushalmodi/ptr_math"
   }
 ]
