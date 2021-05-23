@@ -15715,7 +15715,7 @@
   },
   {
     "name": "rainbow",
-    "url": "https://github.com/thebigbaron/rainbow",
+    "url": "https://github.com/Willyboar/rainbow",
     "method": "git",
     "tags": [
       "library",
@@ -15724,7 +15724,7 @@
     ],
     "description": "256 colors for shell",
     "license": "MIT",
-    "web": "https://github.com/thebigbaron/rainbow"
+    "web": "https://github.com/Willyboar/rainbow"
   },
   {
     "name": "rtree",
@@ -15839,7 +15839,7 @@
   },
   {
     "name": "pine",
-    "url": "https://github.com/thebigbaron/pine",
+    "url": "https://github.com/Willyboar/pine",
     "method": "git",
     "tags": [
       "static",
@@ -15848,7 +15848,20 @@
     ],
     "description": "Nim Static Blog & Site Generator",
     "license": "MIT",
-    "web": "https://github.com/thebigbaron/pine"
+    "web": "https://github.com/Willyboar/pine"
+  },
+  {
+    "name": "hotdoc",
+    "url": "https://github.com/willyboar/hotdoc",
+    "method": "git",
+    "tags": [
+      "static",
+      "docs",
+      "generator"
+    ],
+    "description": "Single Page Documentation Generator",
+    "license": "MIT",
+    "web": "https://github.com/willyboar/hotdoc"
   },
   {
     "name": "ginger",
@@ -22513,5 +22526,98 @@
     "license": "MIT",
     "web": "https://github.com/khchen/memlib",
     "doc": "https://khchen.github.io/memlib"
+  },
+  {
+    "name": "owoifynim",
+    "url": "https://github.com/deadshot465/owoifynim",
+    "method": "git",
+    "tags": [
+      "fun",
+      "nonsense",
+      "curse",
+      "baby",
+      "owoify",
+      "babyspeak"
+    ],
+    "description": "Turning your worst nightmare into a Nim package. This is a Nim port of mohan-cao's owoify-js, which will help you turn any string into nonsensical babyspeak similar to LeafySweet's infamous Chrome extension.",
+    "license": "MIT",
+    "web": "https://github.com/deadshot465/owoifynim"
+  },
+  {
+    "name": "interface_implements",
+    "url": "https://github.com/itsumura-h/nim-interface-implements",
+    "method": "git",
+    "tags": [
+      "interface"
+    ],
+    "description": "implements macro creates toInterface proc.",
+    "license": "MIT",
+    "web": "https://github.com/itsumura-h/nim-interface-implements"
+  },
+  {
+    "name": "unalix",
+    "url": "https://github.com/AmanoTeam/Unalix-nim",
+    "method": "git",
+    "tags": [
+      "internet",
+      "security"
+    ],
+    "description": "Small, dependency-free, fast Nim package (and CLI tool) for removing tracking fields from URLs.",
+    "license": "LGPL-3.0",
+    "web": "https://github.com/AmanoTeam/Unalix-nim"
+  },
+  {
+    "name": "catnip",
+    "url": "https://github.com/RSDuck/catnip",
+    "method": "git",
+    "tags": [
+      "jit",
+      "assembler"
+    ],
+    "description": "Assembler for runtime code generation",
+    "license": "MIT",
+    "web": "https://github.com/RSDuck/catnip"
+  },
+  {
+    "name": "tm_client",
+    "url": "https://github.com/termermc/nim-tm-client",
+    "method": "git",
+    "tags": [
+      "twinemedia",
+      "api",
+      "client",
+      "async",
+      "library",
+      "media"
+    ],
+    "description": "TwineMedia API client library for Nim",
+    "license": "MIT",
+    "web": "https://github.com/termermc/nim-tm-client"
+  },
+  {
+    "name": "plnim",
+    "url": "https://github.com/luisacosta828/plnim",
+    "method": "git",
+    "tags": [
+      "pgxcrown-extension",
+      "postgresql",
+      "language-handler"
+    ],
+    "description": "Language Handler for executing Nim inside postgres as a procedural language",
+    "license": "MIT",
+    "web": "https://github.com/luisacosta828/plnim"
+  },
+  {
+    "name": "db_wrapper",
+    "url": "https://github.com/sivchari/db_wrapper",
+    "method": "git",
+    "tags": [
+      "database",
+      "wrapper",
+      "library"
+    ],
+    "description": "this libraly able to use database/sql of Go",
+    "license": "MIT",
+    "web": "https://github.com/sivchari/db_wrapper"
   }
 ]
