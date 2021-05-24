@@ -22619,5 +22619,18 @@
     "description": "this libraly able to use database/sql of Go",
     "license": "MIT",
     "web": "https://github.com/sivchari/db_wrapper"
+  },
+  {
+    "name": "distances",
+    "url": "https://github.com/ayman-albaz/distances",
+    "method": "git",
+    "tags": [
+      "math",
+      "statistics",
+      "metrics"
+    ],
+    "description": "Distances is a high performance Nim library for calculating distances.",
+    "license": "Apache-2.0 License",
+    "web": "https://github.com/ayman-albaz/distances"
   }
 ]
