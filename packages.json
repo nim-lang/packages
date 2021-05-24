@@ -22567,6 +22567,20 @@
     "web": "https://github.com/AmanoTeam/Unalix-nim"
   },
   {
+    "name": "winimx",
+    "url": "https://github.com/khchen/winimx",
+    "method": "git",
+    "tags": [
+      "library",
+      "windows",
+      "api",
+      "winim"
+    ],
+    "description": "Winim minified code generator",
+    "license": "MIT",
+    "web": "https://github.com/khchen/winimx"
+  },
+  {
     "name": "catnip",
     "url": "https://github.com/RSDuck/catnip",
     "method": "git",
@@ -22621,17 +22635,16 @@
     "web": "https://github.com/sivchari/db_wrapper"
   },
   {
-    "name": "winimx",
-    "url": "https://github.com/khchen/winimx",
+    "name": "ptr_math",
+    "url": "https://github.com/kaushalmodi/ptr_math",
     "method": "git",
     "tags": [
-      "library",
-      "windows",
-      "api",
-      "winim"
+      "pointer",
+      "arithmetic",
+      "math"
     ],
-    "description": "Winim minified code generator",
+    "description": "Pointer arithmetic library",
     "license": "MIT",
-    "web": "https://github.com/khchen/winimx"
+    "web": "https://github.com/kaushalmodi/ptr_math"
   }
 ]
