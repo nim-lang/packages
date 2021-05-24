@@ -22567,6 +22567,20 @@
     "web": "https://github.com/AmanoTeam/Unalix-nim"
   },
   {
+    "name": "winimx",
+    "url": "https://github.com/khchen/winimx",
+    "method": "git",
+    "tags": [
+      "library",
+      "windows",
+      "api",
+      "winim"
+    ],
+    "description": "Winim minified code generator",
+    "license": "MIT",
+    "web": "https://github.com/khchen/winimx"
+  },
+  {
     "name": "catnip",
     "url": "https://github.com/RSDuck/catnip",
     "method": "git",
