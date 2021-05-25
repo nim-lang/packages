@@ -22474,6 +22474,19 @@
     "web": "https://github.com/jiro4989/nimothello"
   },
   {
+    "name": "expander",
+    "url": "https://github.com/soraiemame/expander",
+    "method": "git",
+    "tags": [
+      "competitive-programing",
+      "expand",
+      "online-judge"
+    ],
+    "description": "Code expander for competitive programing in Nim.",
+    "license": "MIT",
+    "web": "https://github.com/soraiemame/expander"
+  },
+  {
     "name": "crowngui",
     "url": "https://github.com/bung87/crowngui",
     "method": "git",
