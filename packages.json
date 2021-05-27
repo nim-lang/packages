@@ -22675,8 +22675,8 @@
     "description": "Wrapper for SystemVerilog VPI headers vpi_user.h and sv_vpi_user.h",
     "license": "MIT",
     "web": "https://github.com/kaushalmodi/nim-svvpi"
-},
-{
+  },
+  {
     "name": "ptr_math",
     "url": "https://github.com/kaushalmodi/ptr_math",
     "method": "git",
@@ -22688,5 +22688,18 @@
     "description": "Pointer arithmetic library",
     "license": "MIT",
     "web": "https://github.com/kaushalmodi/ptr_math"
+  },
+  {
+    "name": "netbuff",
+    "url": "https://github.com/jakubDoka/netbuff",
+    "method": "git",
+    "tags": [
+      "net",
+      "buffer",
+      "macros"
+    ],
+    "description": "Fast and unsafe byte buffering for intensive network data transfer.",
+    "license": "MIT",
+    "web": "https://github.com/jakubDoka/netbuff"
   }
 ]
