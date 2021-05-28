@@ -22701,5 +22701,18 @@
     "description": "Fast and unsafe byte buffering for intensive network data transfer.",
     "license": "MIT",
     "web": "https://github.com/jakubDoka/netbuff"
+  },
+  {
+    "name": "geom",
+    "url": "https://github.com/jakubDoka/mlokmath",
+    "method": "git",
+    "tags": [
+      "math",
+      "simd",
+      "geometry"
+    ],
+    "description": "simple game oriented vector math",
+    "license": "MIT",
+    "web": "https://github.com/jakubDoka/mlokmath"
   }
 ]
