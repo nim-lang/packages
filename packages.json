@@ -22720,6 +22720,10 @@
     "name": "ass",
     "url": "https://github.com/0kalekale/libass-nim",
     "license": "ISC",
+    "tags": [
+      "multimedia",
+      "video"
+    ],
     "method": "git",
     "description" : "Nim bindings for libass."
   }
