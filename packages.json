@@ -11304,7 +11304,14 @@
       "raster",
       "png",
       "bmp",
-      "jpg"
+      "jpg",
+      "graphics",
+      "2D",
+      "svg",
+      "font",
+      "opentype",
+      "truetype",
+      "text"
     ],
     "description": "Full-featured 2d graphics library for Nim.",
     "license": "MIT",
