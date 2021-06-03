@@ -8831,10 +8831,10 @@
     "url": "https://git.sr.ht/~ehmry/nim_cbor",
     "method": "git",
     "tags": [
-      "library",
-      "cbor",
       "binary",
-      "encoding"
+      "cbor",
+      "library",
+      "serialization"
     ],
     "description": "Concise Binary Object Representation decoder (RFC7049).",
     "license": "MIT",
@@ -22748,5 +22748,19 @@
     "description": "Say hissatsuwaza (special attack) on your terminal.",
     "license": "MIT",
     "web": "https://github.com/jiro4989/sayhissatsuwaza"
+  },
+  {
+    "name": "preserves",
+    "url": "https://git.sr.ht/~ehmry/preserves-nim",
+    "method": "git",
+    "tags": [
+      "binary",
+      "library",
+      "serialization",
+      "syndicate"
+    ],
+    "description": "Preserves data model and serialization format",
+    "license": "ISC",
+    "web": "https://preserves.gitlab.io/preserves/"
   }
 ]
