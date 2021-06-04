@@ -22762,5 +22762,17 @@
     "description": "Preserves data model and serialization format",
     "license": "ISC",
     "web": "https://preserves.gitlab.io/preserves/"
+  },
+  {
+    "name": "redismodules",
+    "url": "https://github.com/luisacosta828/redismodules",
+    "method": "git",
+    "tags": [
+      "redis",
+      "redismodule"
+    ],
+    "description": "A new awesome nimble package",
+    "license": "MIT",
+    "web": "https://github.com/luisacosta828/redismodules"
   }
 ]
