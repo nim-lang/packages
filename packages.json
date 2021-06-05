@@ -22776,5 +22776,19 @@
     "description": "Preserves data model and serialization format",
     "license": "ISC",
     "web": "https://preserves.gitlab.io/preserves/"
+  },
+  {
+    "name": "nimibook",
+    "url": "https://github.com/pietroppeter/nimibook",
+    "method": "git",
+    "tags": [
+      "book",
+      "nimib",
+      "markdown",
+      "publish"
+    ],
+    "description": "A port of mdbook to nim",
+    "license": "MIT",
+    "web": "https://github.com/pietroppeter/nimibook"
   }
 ]
