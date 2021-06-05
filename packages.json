@@ -22776,5 +22776,19 @@
     "description": "Preserves data model and serialization format",
     "license": "ISC",
     "web": "https://preserves.gitlab.io/preserves/"
+  },
+  {
+    "name": "hexclock",
+    "url": "https://github.com/RainbowAsteroids/hexclock",
+    "method": "git",
+    "tags": [
+      "sdl",
+      "gui",
+      "clock",
+      "color"
+    ],
+    "description": "Hex clock made in SDL and Nim",
+    "license": "GPL-3.0-only",
+    "web": "https://github.com/RainbowAsteroids/hexclock"
   }
 ]
