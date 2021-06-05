@@ -15703,6 +15703,20 @@
     "web": "https://github.com/planetis-m/patgraph"
   },
   {
+    "name": "libfuzzer",
+    "url": "https://github.com/planetis-m/libfuzzer",
+    "method": "git",
+    "tags": [
+      "fuzzing",
+      "unit-testing",
+      "hacking",
+      "security"
+    ],
+    "description": "Thin interface for libFuzzer, an in-process, coverage-guided, evolutionary fuzzing engine.",
+    "license": "MIT",
+    "web": "https://github.com/planetis-m/libfuzzer"
+  },
+  {
     "name": "golden",
     "url": "https://github.com/disruptek/golden",
     "method": "git",
