@@ -22788,5 +22788,17 @@
     "description": "A new awesome nimble package",
     "license": "MIT",
     "web": "https://github.com/luisacosta828/redismodules"
+  },
+  {
+    "name": "special_functions",
+    "url": "https://github.com/ayman-albaz/special-functions",
+    "method": "git",
+    "tags": [
+      "math",
+      "statistics"
+    ],
+    "description": "Special mathematical functions in Nim",
+    "license": "Apache-2.0 License",
+    "web": "https://github.com/ayman-albaz/special-functions"
   }
 ]
