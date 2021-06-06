@@ -22828,5 +22828,29 @@
     "description": "Special mathematical functions in Nim",
     "license": "Apache-2.0 License",
     "web": "https://github.com/ayman-albaz/special-functions"
+  },
+  {
+    "name": "kashae",
+    "url": "https://github.com/beef331/kashae",
+    "method": "git",
+    "tags": [
+      "cache"
+    ],
+    "description": "Calculation caching library",
+    "license": "MIT",
+    "web": "https://github.com/beef331/kashae"
+  },
+  {
+    "name": "sumtypes",
+    "url": "https://github.com/beef331/sumtypes",
+    "method": "git",
+    "tags": [
+      "variant",
+      "sumtype",
+      "type"
+    ],
+    "description": "Simple variant generator empowering easy heterogeneous type operations",
+    "license": "MIT",
+    "web": "https://github.com/beef331/sumtypes"
   }
 ]
