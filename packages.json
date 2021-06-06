@@ -6522,6 +6522,20 @@
     "web": "https://github.com/zah/nim-package-visible-types"
   },
   {
+    "name": "presto",
+    "url": "https://github.com/status-im/nim-presto",
+    "method": "git",
+    "tags": [
+      "http",
+      "rest",
+      "server",
+      "client"
+    ],
+    "description": "REST API framework for Nim language",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/status-im/nim-presto"
+  },
+  {
     "name": "ranges",
     "url": "https://github.com/status-im/nim-ranges",
     "method": "git",
@@ -8817,10 +8831,10 @@
     "url": "https://git.sr.ht/~ehmry/nim_cbor",
     "method": "git",
     "tags": [
-      "library",
-      "cbor",
       "binary",
-      "encoding"
+      "cbor",
+      "library",
+      "serialization"
     ],
     "description": "Concise Binary Object Representation decoder (RFC7049).",
     "license": "MIT",
@@ -11290,7 +11304,14 @@
       "raster",
       "png",
       "bmp",
-      "jpg"
+      "jpg",
+      "graphics",
+      "2D",
+      "svg",
+      "font",
+      "opentype",
+      "truetype",
+      "text"
     ],
     "description": "Full-featured 2d graphics library for Nim.",
     "license": "MIT",
@@ -15680,6 +15701,20 @@
     "description": "Graph data structure library",
     "license": "MIT",
     "web": "https://github.com/planetis-m/patgraph"
+  },
+  {
+    "name": "libfuzzer",
+    "url": "https://github.com/planetis-m/libfuzzer",
+    "method": "git",
+    "tags": [
+      "fuzzing",
+      "unit-testing",
+      "hacking",
+      "security"
+    ],
+    "description": "Thin interface for libFuzzer, an in-process, coverage-guided, evolutionary fuzzing engine.",
+    "license": "MIT",
+    "web": "https://github.com/planetis-m/libfuzzer"
   },
   {
     "name": "golden",
@@ -22474,6 +22509,19 @@
     "web": "https://github.com/jiro4989/nimothello"
   },
   {
+    "name": "expander",
+    "url": "https://github.com/soraiemame/expander",
+    "method": "git",
+    "tags": [
+      "competitive-programing",
+      "expand",
+      "online-judge"
+    ],
+    "description": "Code expander for competitive programing in Nim.",
+    "license": "MIT",
+    "web": "https://github.com/soraiemame/expander"
+  },
+  {
     "name": "crowngui",
     "url": "https://github.com/bung87/crowngui",
     "method": "git",
@@ -22580,6 +22628,20 @@
     "web": "https://github.com/AmanoTeam/Unalix-nim"
   },
   {
+    "name": "winimx",
+    "url": "https://github.com/khchen/winimx",
+    "method": "git",
+    "tags": [
+      "library",
+      "windows",
+      "api",
+      "winim"
+    ],
+    "description": "Winim minified code generator",
+    "license": "MIT",
+    "web": "https://github.com/khchen/winimx"
+  },
+  {
     "name": "catnip",
     "url": "https://github.com/RSDuck/catnip",
     "method": "git",
@@ -22634,6 +22696,22 @@
     "web": "https://github.com/sivchari/db_wrapper"
   },
   {
+    "name": "svvpi",
+    "url": "https://github.com/kaushalmodi/nim-svvpi",
+    "method": "git",
+    "tags": [
+      "verilog",
+      "systemverilog",
+      "pli",
+      "vpi",
+      "1800-2017",
+      "1364-2005"
+    ],
+    "description": "Wrapper for SystemVerilog VPI headers vpi_user.h and sv_vpi_user.h",
+    "license": "MIT",
+    "web": "https://github.com/kaushalmodi/nim-svvpi"
+  },
+  {
     "name": "ptr_math",
     "url": "https://github.com/kaushalmodi/ptr_math",
     "method": "git",
@@ -22645,5 +22723,70 @@
     "description": "Pointer arithmetic library",
     "license": "MIT",
     "web": "https://github.com/kaushalmodi/ptr_math"
+  },
+  {
+    "name": "netbuff",
+    "url": "https://github.com/jakubDoka/netbuff",
+    "method": "git",
+    "tags": [
+      "net",
+      "buffer",
+      "macros"
+    ],
+    "description": "Fast and unsafe byte buffering for intensive network data transfer.",
+    "license": "MIT",
+    "web": "https://github.com/jakubDoka/netbuff"
+  },
+  {
+    "name": "ass",
+    "url": "https://github.com/0kalekale/libass-nim",
+    "license": "ISC",
+    "tags": [
+      "multimedia",
+      "video"
+    ],
+    "method": "git",
+    "description": "Nim bindings for libass."
+  },
+  {
+    "name": "sayhissatsuwaza",
+    "url": "https://github.com/jiro4989/sayhissatsuwaza",
+    "method": "git",
+    "tags": [
+      "cli",
+      "generator",
+      "joke",
+      "tool",
+      "text"
+    ],
+    "description": "Say hissatsuwaza (special attack) on your terminal.",
+    "license": "MIT",
+    "web": "https://github.com/jiro4989/sayhissatsuwaza"
+  },
+  {
+    "name": "preserves",
+    "url": "https://git.sr.ht/~ehmry/preserves-nim",
+    "method": "git",
+    "tags": [
+      "binary",
+      "library",
+      "serialization",
+      "syndicate"
+    ],
+    "description": "Preserves data model and serialization format",
+    "license": "ISC",
+    "web": "https://preserves.gitlab.io/preserves/"
+  },
+  {
+    "name": "redismodules",
+    "url": "https://github.com/luisacosta828/redismodules",
+    "method": "git",
+    "tags": [
+      "redis",
+      "redismodule"
+    ],
+    "description": "A new awesome nimble package",
+    "license": "MIT",
+    "web": "https://github.com/luisacosta828/redismodules"
   }
 ]
