@@ -22864,5 +22864,19 @@
     "description": "The parsesql module implements a high performance SQL file parser. It parses PostgreSQL syntax and the SQL ANSI standard.",
     "license": "MIT",
     "web": "https://github.com/bung87/parsesql"
+  },
+  {
+    "name": "distributions",
+    "url": "https://github.com/ayman-albaz/distributions",
+    "method": "git",
+    "tags": [
+      "math",
+      "statistics",
+      "probability",
+      "distributions"
+    ],
+    "description": "Distributions is a Nim library for distributions and their functions.",
+    "license": "Apache-2.0 License",
+    "web": "https://github.com/ayman-albaz/distributions"
   }
 ]
