@@ -22878,5 +22878,17 @@
     "description": "Distributions is a Nim library for distributions and their functions.",
     "license": "Apache-2.0 License",
     "web": "https://github.com/ayman-albaz/distributions"
+  },
+  {
+    "name": "whois",
+    "url": "https://gitea.com/Thisago/whois.nim",
+    "method": "git",
+    "tags": [
+      "whois",
+      "dns"
+    ],
+    "description": "A simple and free whois client",
+    "license": "MIT",
+    "web": "https://gitea.com/Thisago/whois.nim"
   }
 ]
