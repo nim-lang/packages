@@ -22890,5 +22890,20 @@
     "description": "A simple and free whois client",
     "license": "MIT",
     "web": "https://gitea.com/Thisago/whois.nim"
+  },
+  {
+    "name": "statistical_tests",
+    "url": "https://github.com/ayman-albaz/statistical-tests",
+    "method": "git",
+    "tags": [
+      "math",
+      "statistics",
+      "probability",
+      "test",
+      "hypothesis"
+    ],
+    "description": "Statistical tests in Nim.",
+    "license": "Apache-2.0 License",
+    "web": "https://github.com/ayman-albaz/statistical-tests"
   }
 ]
