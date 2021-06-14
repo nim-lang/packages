@@ -22905,5 +22905,17 @@
     "description": "Statistical tests in Nim.",
     "license": "Apache-2.0 License",
     "web": "https://github.com/ayman-albaz/statistical-tests"
+  },
+  {
+    "name": "slim",
+    "url": "https://github.com/bung87/slim",
+    "method": "git",
+    "tags": [
+      "package",
+      "manager"
+    ],
+    "description": "nim package manager",
+    "license": "MIT",
+    "web": "https://github.com/bung87/slim"
   }
 ]
