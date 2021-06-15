@@ -22917,5 +22917,14 @@
     "description": "nim package manager",
     "license": "MIT",
     "web": "https://github.com/bung87/slim"
+  },
+  {
+    "name": "formulas",
+    "url": "https://gitea.com/thisago/formulas.nim",
+    "method": "git",
+    "tags": ["math", "geometry"],
+    "description": "Mathematical formulas",
+    "license": "MIT",
+    "web": "https://gitea.com/thisago/formulas.nim"
   }
 ]
