@@ -22853,6 +22853,15 @@
     "web": "https://github.com/beef331/sumtypes"
   },
   {
+    "name": "formulas",
+    "url": "https://gitea.com/thisago/formulas.nim",
+    "method": "git",
+    "tags": ["math", "geometry"],
+    "description": "Mathematical formulas",
+    "license": "MIT",
+    "web": "https://gitea.com/thisago/formulas.nim"
+  },
+  {
     "name": "parsesql",
     "url": "https://github.com/bung87/parsesql",
     "method": "git",
