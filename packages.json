@@ -22927,6 +22927,18 @@
     "web": "https://github.com/bung87/slim"
   },
   {
+    "name": "suber",
+    "url": "https://github.com/olliNiinivaara/Suber",
+    "method": "git",
+    "tags": [
+      "publish",
+      "subscribe"
+    ],
+    "description": "Pub/Sub engine",
+    "license": "MIT",
+    "web": "https://github.com/olliNiinivaara/Suber"
+  },
+  {
     "name": "unchained",
     "url": "https://github.com/SciNim/unchained",
     "method": "git",
