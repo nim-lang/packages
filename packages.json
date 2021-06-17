@@ -15922,8 +15922,7 @@
       "gog",
       "ggplot2",
       "plotting",
-      "graphics",
-      "dataframe"
+      "graphics"
     ],
     "description": "A port of ggplot2 for Nim",
     "license": "MIT",
@@ -22917,5 +22916,35 @@
     "description": "nim package manager",
     "license": "MIT",
     "web": "https://github.com/bung87/slim"
+  },
+  {
+    "name": "unchained",
+    "url": "https://github.com/SciNim/unchained",
+    "method": "git",
+    "tags": [
+      "library",
+      "compile time",
+      "units",
+      "physics",
+      "physical units checking",
+      "macros"
+    ],
+    "description": "Fully type safe, compile time only units library",
+    "license": "MIT",
+    "web": "https://github.com/SciNim/unchained"
+  },
+  {
+    "name": "datamancer",
+    "url": "https://github.com/SciNim/datamancer",
+    "method": "git",
+    "tags": [
+      "library",
+      "dataframe",
+      "macros",
+      "dplyr"
+    ],
+    "description": "A dataframe library with a dplyr like API",
+    "license": "MIT",
+    "web": "https://github.com/SciNim/datamancer"
   }
 ]
