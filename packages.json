@@ -22979,7 +22979,7 @@
       "listenbrainz",
       "api"
     ],
-    "description": "Listenbrainz low-level API wrapper",
+    "description": "Low-level multisync bindings to the ListenBrainz web API.",
     "license": "MIT",
     "web": "https://gitlab.com/tandy1000/listenbrainz-nim",
     "doc": "https://tandy1000.gitlab.io/listenbrainz-nim/"
