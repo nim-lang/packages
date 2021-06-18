@@ -22977,8 +22977,7 @@
     "method": "git",
     "tags": [
       "listenbrainz",
-      "api",
-      "bindings"
+      "api"
     ],
     "description": "Listenbrainz low-level API wrapper",
     "license": "MIT",
