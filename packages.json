@@ -22856,7 +22856,10 @@
     "name": "formulas",
     "url": "https://gitea.com/thisago/formulas.nim",
     "method": "git",
-    "tags": ["math", "geometry"],
+    "tags": [
+      "math",
+      "geometry"
+    ],
     "description": "Mathematical formulas",
     "license": "MIT",
     "web": "https://gitea.com/thisago/formulas.nim"
@@ -22967,5 +22970,18 @@
     "description": "A dataframe library with a dplyr like API",
     "license": "MIT",
     "web": "https://github.com/SciNim/datamancer"
+  },
+  {
+    "name": "listenbrainz",
+    "url": "https://gitlab.com/tandy1000/listenbrainz-nim",
+    "method": "git",
+    "tags": [
+      "listenbrainz",
+      "api",
+      "bindings"
+    ],
+    "description": "Listenbrainz low-level API wrapper",
+    "license": "MIT",
+    "web": "https://gitlab.com/tandy1000/listenbrainz-nim"
   }
 ]
