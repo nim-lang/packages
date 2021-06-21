@@ -22983,5 +22983,19 @@
     "license": "MIT",
     "web": "https://gitlab.com/tandy1000/listenbrainz-nim",
     "doc": "https://tandy1000.gitlab.io/listenbrainz-nim/"
+  },
+  {
+    "name": "NimbleExample",
+    "url": "https://github.com/CharlesLove/NimbleExample",
+    "method": "git",
+    "tags": [
+      "nim",
+      "action",
+      "nimble",
+      "example"
+    ],
+    "description": "Simple package to learn about Nimble",
+    "license": "MIT",
+    "web": "https://github.com/CharlesLove/NimbleExample"
   }
 ]
