@@ -22983,5 +22983,20 @@
     "license": "MIT",
     "web": "https://gitlab.com/tandy1000/listenbrainz-nim",
     "doc": "https://tandy1000.gitlab.io/listenbrainz-nim/"
+  },
+  {
+    "name": "nimarrow_glib",
+    "url": "https://github.com/emef/nimarrow_glib",
+    "method": "git",
+    "tags": [
+      "data",
+      "format",
+      "library",
+      "arrow",
+      "parquet"
+    ],
+    "description": "arrow and parquet c api bindings",
+    "license": "MIT",
+    "web": "https://github.com/emef/nimarrow_glib"
   }
 ]
