@@ -22983,5 +22983,23 @@
     "license": "MIT",
     "web": "https://gitlab.com/tandy1000/listenbrainz-nim",
     "doc": "https://tandy1000.gitlab.io/listenbrainz-nim/"
+  },
+  {
+    "name": "nwsync",
+    "url": "https://github.com/Beamdog/nwsync",
+    "method": "git",
+    "tags": [
+      "nwn",
+      "neverwinternights",
+      "neverwinter",
+      "game",
+      "bioware",
+      "beamdog",
+      "persistentworld",
+      "autodownloader"
+    ],
+    "description": "NWSync Repository Management utilities",
+    "license": "MIT",
+    "web": "https://github.com/Beamdog/nwsync"
   }
 ]
