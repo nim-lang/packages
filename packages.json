@@ -22983,5 +22983,16 @@
     "license": "MIT",
     "web": "https://gitlab.com/tandy1000/listenbrainz-nim",
     "doc": "https://tandy1000.gitlab.io/listenbrainz-nim/"
+  },
+  {
+    "name": "nicoru",
+    "url": "https://github.com/fox0430/nicoru",
+    "method": "git",
+    "tags": [
+      "container"
+    ],
+    "description": "A container runtime written in Nim",
+    "license": "MIT",
+    "web": "https://github.com/fox0430/nicoru"
   }
 ]
