@@ -22995,8 +22995,8 @@
       "arrow",
       "parquet"
     ],
-    "description": "arrow and parquet c api bindings",
-    "license": "MIT",
+    "description": "apache arrow and parquet c api bindings",
+    "license": "Apache-2.0",
     "web": "https://github.com/emef/nimarrow_glib"
   }
 ]
