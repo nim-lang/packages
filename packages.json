@@ -23029,20 +23029,6 @@
     "web": "https://github.com/Beamdog/nwsync"
   },
   {
-    "name": "nim-ws",
-    "url": "https://github.com/status-im/nim-ws",
-    "method": "git",
-    "tags": [
-      "websocket",
-      "server",
-      "client",
-      "query language"
-    ],
-    "description": "An implementation of Websocket protocol for Nim",
-    "license": "Apache License 2.0",
-    "web": "https://github.com/status-im/nim-ws"
-  },
-  {
     "name": "nimarrow",
     "url": "https://github.com/emef/nimarrow",
     "method": "git",
