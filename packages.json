@@ -22918,6 +22918,21 @@
     "web": "https://github.com/ayman-albaz/statistical-tests"
   },
   {
+    "name": "nimarrow_glib",
+    "url": "https://github.com/emef/nimarrow_glib",
+    "method": "git",
+    "tags": [
+      "data",
+      "format",
+      "library",
+      "arrow",
+      "parquet"
+    ],
+    "description": "apache arrow and parquet c api bindings",
+    "license": "Apache-2.0",
+    "web": "https://github.com/emef/nimarrow_glib"
+  },
+  {
     "name": "slim",
     "url": "https://github.com/bung87/slim",
     "method": "git",
@@ -22985,18 +23000,35 @@
     "doc": "https://tandy1000.gitlab.io/listenbrainz-nim/"
   },
   {
-    "name": "nimarrow_glib",
-    "url": "https://github.com/emef/nimarrow_glib",
+    "name": "nwsync",
+    "url": "https://github.com/Beamdog/nwsync",
     "method": "git",
     "tags": [
-      "data",
-      "format",
-      "library",
-      "arrow",
-      "parquet"
+      "nwn",
+      "neverwinternights",
+      "neverwinter",
+      "game",
+      "bioware",
+      "beamdog",
+      "persistentworld",
+      "autodownloader"
     ],
-    "description": "apache arrow and parquet c api bindings",
-    "license": "Apache-2.0",
-    "web": "https://github.com/emef/nimarrow_glib"
+    "description": "NWSync Repository Management utilities",
+    "license": "MIT",
+    "web": "https://github.com/Beamdog/nwsync"
+  },
+  {
+    "name": "nim-ws",
+    "url": "https://github.com/status-im/nim-ws",
+    "method": "git",
+    "tags": [
+      "websocket",
+      "server",
+      "client",
+      "query language"
+    ],
+    "description": "An implementation of Websocket protocol for Nim",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/status-im/nim-ws"
   }
 ]
