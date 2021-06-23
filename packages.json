@@ -23000,6 +23000,17 @@
     "doc": "https://tandy1000.gitlab.io/listenbrainz-nim/"
   },
   {
+    "name": "nicoru",
+    "url": "https://github.com/fox0430/nicoru",
+    "method": "git",
+    "tags": [
+      "container"
+    ],
+    "description": "A container runtime written in Nim",
+    "license": "MIT",
+    "web": "https://github.com/fox0430/nicoru"
+  },
+  {
     "name": "nwsync",
     "url": "https://github.com/Beamdog/nwsync",
     "method": "git",
