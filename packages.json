@@ -23027,5 +23027,20 @@
     "description": "NWSync Repository Management utilities",
     "license": "MIT",
     "web": "https://github.com/Beamdog/nwsync"
+  },
+  {
+    "name": "nimarrow",
+    "url": "https://github.com/emef/nimarrow",
+    "method": "git",
+    "tags": [
+      "data",
+      "format",
+      "library",
+      "arrow",
+      "parquet"
+    ],
+    "description": "apache arrow bindings for nim",
+    "license": "Apache-2.0",
+    "web": "https://github.com/emef/nimarrow"
   }
 ]
