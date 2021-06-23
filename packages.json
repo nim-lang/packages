@@ -22994,5 +22994,37 @@
     "description": "A container runtime written in Nim",
     "license": "MIT",
     "web": "https://github.com/fox0430/nicoru"
+  },
+  {
+    "name": "nwsync",
+    "url": "https://github.com/Beamdog/nwsync",
+    "method": "git",
+    "tags": [
+      "nwn",
+      "neverwinternights",
+      "neverwinter",
+      "game",
+      "bioware",
+      "beamdog",
+      "persistentworld",
+      "autodownloader"
+    ],
+    "description": "NWSync Repository Management utilities",
+    "license": "MIT",
+    "web": "https://github.com/Beamdog/nwsync"
+  },
+  {
+    "name": "nim-ws",
+    "url": "https://github.com/status-im/nim-ws",
+    "method": "git",
+    "tags": [
+      "websocket",
+      "server",
+      "client",
+      "query language"
+    ],
+    "description": "An implementation of Websocket protocol for Nim",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/status-im/nim-ws"
   }
 ]
