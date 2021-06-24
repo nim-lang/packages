@@ -23057,5 +23057,20 @@
     "description": "Export Nim functions to sqlite3",
     "license": "MIT",
     "web": "https://github.com/niklaskorz/nim-exporttosqlite3"
+  },
+  {
+    "name": "chain",
+    "url": "https://github.com/khchen/chain",
+    "method": "git",
+    "tags": [
+      "macro",
+      "with",
+      "cascade",
+      "operator",
+      "chaining"
+    ],
+    "description": "Nim's function chaining and method cascading",
+    "license": "MIT",
+    "web": "https://github.com/khchen/chain"
   }
 ]
