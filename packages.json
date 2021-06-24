@@ -6522,6 +6522,20 @@
     "web": "https://github.com/zah/nim-package-visible-types"
   },
   {
+    "name": "presto",
+    "url": "https://github.com/status-im/nim-presto",
+    "method": "git",
+    "tags": [
+      "http",
+      "rest",
+      "server",
+      "client"
+    ],
+    "description": "REST API framework for Nim language",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/status-im/nim-presto"
+  },
+  {
     "name": "ranges",
     "url": "https://github.com/status-im/nim-ranges",
     "method": "git",
@@ -8817,10 +8831,10 @@
     "url": "https://git.sr.ht/~ehmry/nim_cbor",
     "method": "git",
     "tags": [
-      "library",
-      "cbor",
       "binary",
-      "encoding"
+      "cbor",
+      "library",
+      "serialization"
     ],
     "description": "Concise Binary Object Representation decoder (RFC7049).",
     "license": "MIT",
@@ -11290,7 +11304,14 @@
       "raster",
       "png",
       "bmp",
-      "jpg"
+      "jpg",
+      "graphics",
+      "2D",
+      "svg",
+      "font",
+      "opentype",
+      "truetype",
+      "text"
     ],
     "description": "Full-featured 2d graphics library for Nim.",
     "license": "MIT",
@@ -15682,6 +15703,20 @@
     "web": "https://github.com/planetis-m/patgraph"
   },
   {
+    "name": "libfuzzer",
+    "url": "https://github.com/planetis-m/libfuzzer",
+    "method": "git",
+    "tags": [
+      "fuzzing",
+      "unit-testing",
+      "hacking",
+      "security"
+    ],
+    "description": "Thin interface for libFuzzer, an in-process, coverage-guided, evolutionary fuzzing engine.",
+    "license": "MIT",
+    "web": "https://github.com/planetis-m/libfuzzer"
+  },
+  {
     "name": "golden",
     "url": "https://github.com/disruptek/golden",
     "method": "git",
@@ -15887,8 +15922,7 @@
       "gog",
       "ggplot2",
       "plotting",
-      "graphics",
-      "dataframe"
+      "graphics"
     ],
     "description": "A port of ggplot2 for Nim",
     "license": "MIT",
@@ -22274,6 +22308,19 @@
     "web": "https://github.com/z-kk/csv2dbsrc"
   },
   {
+    "name": "distances",
+    "url": "https://github.com/ayman-albaz/distances",
+    "method": "git",
+    "tags": [
+      "math",
+      "statistics",
+      "metrics"
+    ],
+    "description": "Distances is a high performance Nim library for calculating distances.",
+    "license": "Apache-2.0 License",
+    "web": "https://github.com/ayman-albaz/distances"
+  },
+  {
     "name": "nptr",
     "url": "https://github.com/henryas/nptr",
     "method": "git",
@@ -22461,6 +22508,19 @@
     "web": "https://github.com/jiro4989/nimothello"
   },
   {
+    "name": "expander",
+    "url": "https://github.com/soraiemame/expander",
+    "method": "git",
+    "tags": [
+      "competitive-programing",
+      "expand",
+      "online-judge"
+    ],
+    "description": "Code expander for competitive programing in Nim.",
+    "license": "MIT",
+    "web": "https://github.com/soraiemame/expander"
+  },
+  {
     "name": "crowngui",
     "url": "https://github.com/bung87/crowngui",
     "method": "git",
@@ -22635,6 +22695,22 @@
     "web": "https://github.com/sivchari/db_wrapper"
   },
   {
+    "name": "svvpi",
+    "url": "https://github.com/kaushalmodi/nim-svvpi",
+    "method": "git",
+    "tags": [
+      "verilog",
+      "systemverilog",
+      "pli",
+      "vpi",
+      "1800-2017",
+      "1364-2005"
+    ],
+    "description": "Wrapper for SystemVerilog VPI headers vpi_user.h and sv_vpi_user.h",
+    "license": "MIT",
+    "web": "https://github.com/kaushalmodi/nim-svvpi"
+  },
+  {
     "name": "ptr_math",
     "url": "https://github.com/kaushalmodi/ptr_math",
     "method": "git",
@@ -22646,5 +22722,340 @@
     "description": "Pointer arithmetic library",
     "license": "MIT",
     "web": "https://github.com/kaushalmodi/ptr_math"
+  },
+  {
+    "name": "netbuff",
+    "url": "https://github.com/jakubDoka/netbuff",
+    "method": "git",
+    "tags": [
+      "net",
+      "buffer",
+      "macros"
+    ],
+    "description": "Fast and unsafe byte buffering for intensive network data transfer.",
+    "license": "MIT",
+    "web": "https://github.com/jakubDoka/netbuff"
+  },
+  {
+    "name": "ass",
+    "url": "https://github.com/0kalekale/libass-nim",
+    "license": "ISC",
+    "tags": [
+      "multimedia",
+      "video"
+    ],
+    "method": "git",
+    "description": "Nim bindings for libass."
+  },
+  {
+    "name": "sayhissatsuwaza",
+    "url": "https://github.com/jiro4989/sayhissatsuwaza",
+    "method": "git",
+    "tags": [
+      "cli",
+      "generator",
+      "joke",
+      "tool",
+      "text"
+    ],
+    "description": "Say hissatsuwaza (special attack) on your terminal.",
+    "license": "MIT",
+    "web": "https://github.com/jiro4989/sayhissatsuwaza"
+  },
+  {
+    "name": "preserves",
+    "url": "https://git.sr.ht/~ehmry/preserves-nim",
+    "method": "git",
+    "tags": [
+      "binary",
+      "library",
+      "serialization",
+      "syndicate"
+    ],
+    "description": "Preserves data model and serialization format",
+    "license": "ISC",
+    "web": "https://preserves.gitlab.io/preserves/"
+  },
+  {
+    "name": "nimibook",
+    "url": "https://github.com/pietroppeter/nimibook",
+    "method": "git",
+    "tags": [
+      "book",
+      "nimib",
+      "markdown",
+      "publish"
+    ],
+    "description": "A port of mdbook to nim",
+    "license": "MIT",
+    "web": "https://github.com/pietroppeter/nimibook"
+  },
+  {
+    "name": "hexclock",
+    "url": "https://github.com/RainbowAsteroids/hexclock",
+    "method": "git",
+    "tags": [
+      "sdl",
+      "gui",
+      "clock",
+      "color"
+    ],
+    "description": "Hex clock made in SDL and Nim",
+    "license": "GPL-3.0-only",
+    "web": "https://github.com/RainbowAsteroids/hexclock"
+  },
+  {
+    "name": "redismodules",
+    "url": "https://github.com/luisacosta828/redismodules",
+    "method": "git",
+    "tags": [
+      "redis",
+      "redismodule"
+    ],
+    "description": "A new awesome nimble package",
+    "license": "MIT",
+    "web": "https://github.com/luisacosta828/redismodules"
+  },
+  {
+    "name": "special_functions",
+    "url": "https://github.com/ayman-albaz/special-functions",
+    "method": "git",
+    "tags": [
+      "math",
+      "statistics"
+    ],
+    "description": "Special mathematical functions in Nim",
+    "license": "Apache-2.0 License",
+    "web": "https://github.com/ayman-albaz/special-functions"
+  },
+  {
+    "name": "kashae",
+    "url": "https://github.com/beef331/kashae",
+    "method": "git",
+    "tags": [
+      "cache"
+    ],
+    "description": "Calculation caching library",
+    "license": "MIT",
+    "web": "https://github.com/beef331/kashae"
+  },
+  {
+    "name": "sumtypes",
+    "url": "https://github.com/beef331/sumtypes",
+    "method": "git",
+    "tags": [
+      "variant",
+      "sumtype",
+      "type"
+    ],
+    "description": "Simple variant generator empowering easy heterogeneous type operations",
+    "license": "MIT",
+    "web": "https://github.com/beef331/sumtypes"
+  },
+  {
+    "name": "formulas",
+    "url": "https://gitea.com/thisago/formulas.nim",
+    "method": "git",
+    "tags": [
+      "math",
+      "geometry"
+    ],
+    "description": "Mathematical formulas",
+    "license": "MIT",
+    "web": "https://gitea.com/thisago/formulas.nim"
+  },
+  {
+    "name": "parsesql",
+    "url": "https://github.com/bung87/parsesql",
+    "method": "git",
+    "tags": [
+      "sql",
+      "parser"
+    ],
+    "description": "The parsesql module implements a high performance SQL file parser. It parses PostgreSQL syntax and the SQL ANSI standard.",
+    "license": "MIT",
+    "web": "https://github.com/bung87/parsesql"
+  },
+  {
+    "name": "distributions",
+    "url": "https://github.com/ayman-albaz/distributions",
+    "method": "git",
+    "tags": [
+      "math",
+      "statistics",
+      "probability",
+      "distributions"
+    ],
+    "description": "Distributions is a Nim library for distributions and their functions.",
+    "license": "Apache-2.0 License",
+    "web": "https://github.com/ayman-albaz/distributions"
+  },
+  {
+    "name": "whois",
+    "url": "https://gitea.com/Thisago/whois.nim",
+    "method": "git",
+    "tags": [
+      "whois",
+      "dns"
+    ],
+    "description": "A simple and free whois client",
+    "license": "MIT",
+    "web": "https://gitea.com/Thisago/whois.nim"
+  },
+  {
+    "name": "statistical_tests",
+    "url": "https://github.com/ayman-albaz/statistical-tests",
+    "method": "git",
+    "tags": [
+      "math",
+      "statistics",
+      "probability",
+      "test",
+      "hypothesis"
+    ],
+    "description": "Statistical tests in Nim.",
+    "license": "Apache-2.0 License",
+    "web": "https://github.com/ayman-albaz/statistical-tests"
+  },
+  {
+    "name": "nimarrow_glib",
+    "url": "https://github.com/emef/nimarrow_glib",
+    "method": "git",
+    "tags": [
+      "data",
+      "format",
+      "library",
+      "arrow",
+      "parquet"
+    ],
+    "description": "apache arrow and parquet c api bindings",
+    "license": "Apache-2.0",
+    "web": "https://github.com/emef/nimarrow_glib"
+  },
+  {
+    "name": "slim",
+    "url": "https://github.com/bung87/slim",
+    "method": "git",
+    "tags": [
+      "package",
+      "manager"
+    ],
+    "description": "nim package manager",
+    "license": "MIT",
+    "web": "https://github.com/bung87/slim"
+  },
+  {
+    "name": "suber",
+    "url": "https://github.com/olliNiinivaara/Suber",
+    "method": "git",
+    "tags": [
+      "publish",
+      "subscribe"
+    ],
+    "description": "Pub/Sub engine",
+    "license": "MIT",
+    "web": "https://github.com/olliNiinivaara/Suber"
+  },
+  {
+    "name": "unchained",
+    "url": "https://github.com/SciNim/unchained",
+    "method": "git",
+    "tags": [
+      "library",
+      "compile time",
+      "units",
+      "physics",
+      "physical units checking",
+      "macros"
+    ],
+    "description": "Fully type safe, compile time only units library",
+    "license": "MIT",
+    "web": "https://github.com/SciNim/unchained"
+  },
+  {
+    "name": "datamancer",
+    "url": "https://github.com/SciNim/datamancer",
+    "method": "git",
+    "tags": [
+      "library",
+      "dataframe",
+      "macros",
+      "dplyr"
+    ],
+    "description": "A dataframe library with a dplyr like API",
+    "license": "MIT",
+    "web": "https://github.com/SciNim/datamancer"
+  },
+  {
+    "name": "listenbrainz",
+    "url": "https://gitlab.com/tandy1000/listenbrainz-nim",
+    "method": "git",
+    "tags": [
+      "listenbrainz",
+      "api"
+    ],
+    "description": "Low-level multisync bindings to the ListenBrainz web API.",
+    "license": "MIT",
+    "web": "https://gitlab.com/tandy1000/listenbrainz-nim",
+    "doc": "https://tandy1000.gitlab.io/listenbrainz-nim/"
+  },
+  {
+    "name": "nicoru",
+    "url": "https://github.com/fox0430/nicoru",
+    "method": "git",
+    "tags": [
+      "container"
+    ],
+    "description": "A container runtime written in Nim",
+    "license": "MIT",
+    "web": "https://github.com/fox0430/nicoru"
+  },
+  {
+    "name": "nwsync",
+    "url": "https://github.com/Beamdog/nwsync",
+    "method": "git",
+    "tags": [
+      "nwn",
+      "neverwinternights",
+      "neverwinter",
+      "game",
+      "bioware",
+      "beamdog",
+      "persistentworld",
+      "autodownloader"
+    ],
+    "description": "NWSync Repository Management utilities",
+    "license": "MIT",
+    "web": "https://github.com/Beamdog/nwsync"
+  },
+  {
+    "name": "nimarrow",
+    "url": "https://github.com/emef/nimarrow",
+    "method": "git",
+    "tags": [
+      "data",
+      "format",
+      "library",
+      "arrow",
+      "parquet"
+    ],
+    "description": "apache arrow bindings for nim",
+    "license": "Apache-2.0",
+    "web": "https://github.com/emef/nimarrow"
+  },
+  {
+    "name": "exporttosqlite3",
+    "url": "https://github.com/niklaskorz/nim-exporttosqlite3",
+    "method": "git",
+    "tags": [
+      "sqlite3",
+      "export",
+      "database",
+      "db_sqlite",
+      "sql"
+    ],
+    "description": "Export Nim functions to sqlite3",
+    "license": "MIT",
+    "web": "https://github.com/niklaskorz/nim-exporttosqlite3"
   }
 ]
