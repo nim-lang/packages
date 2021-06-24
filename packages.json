@@ -23057,5 +23057,19 @@
     "description": "Export Nim functions to sqlite3",
     "license": "MIT",
     "web": "https://github.com/niklaskorz/nim-exporttosqlite3"
+  },
+  {
+    "name": "microparsec",
+    "url": "https://github.com/schneiderfelipe/microparsec",
+    "method": "git",
+    "tags": [
+      "parser-combinators",
+      "parser-library",
+      "microparsec",
+      "parsec"
+    ],
+    "description": "A performant Nim parsing library built for humans.",
+    "license": "MIT",
+    "web": "https://github.com/schneiderfelipe/microparsec"
   }
 ]
