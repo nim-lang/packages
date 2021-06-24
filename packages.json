@@ -23057,5 +23057,21 @@
     "description": "Export Nim functions to sqlite3",
     "license": "MIT",
     "web": "https://github.com/niklaskorz/nim-exporttosqlite3"
+  },
+  {
+    "name": "syndicate",
+    "url": "https://git.sr.ht/~ehmry/syndicate-nim",
+    "method": "git",
+    "tags": [
+      "actors",
+      "concurrency",
+      "dsl",
+      "library",
+      "rpc",
+      "syndicate"
+    ],
+    "description": "Syndicated actors for conversational concurrency",
+    "license": "ISC",
+    "web": "https://syndicate-lang.org/"
   }
 ]
