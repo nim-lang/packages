@@ -22973,6 +22973,22 @@
     "web": "https://github.com/SciNim/unchained"
   },
   {
+    "name": "syndicate",
+    "url": "https://git.sr.ht/~ehmry/syndicate-nim",
+    "method": "git",
+    "tags": [
+      "actors",
+      "concurrency",
+      "dsl",
+      "library",
+      "rpc",
+      "syndicate"
+    ],
+    "description": "Syndicated actors for conversational concurrency",
+    "license": "ISC",
+    "web": "https://syndicate-lang.org/"
+  },
+  {
     "name": "datamancer",
     "url": "https://github.com/SciNim/datamancer",
     "method": "git",
