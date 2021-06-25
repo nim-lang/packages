@@ -3514,7 +3514,7 @@
   },
   {
     "name": "bignum",
-    "url": "https://github.com/kaushalmodi/bignum",
+    "url": "https://github.com/SciNim/bignum",
     "method": "git",
     "tags": [
       "bignum",
@@ -3523,7 +3523,7 @@
     ],
     "description": "Wrapper around the GMP bindings for the Nim language.",
     "license": "MIT",
-    "web": "https://github.com/kaushalmodi/bignum"
+    "web": "https://github.com/SciNim/bignum"
   },
   {
     "name": "rbtree",
@@ -22973,6 +22973,22 @@
     "web": "https://github.com/SciNim/unchained"
   },
   {
+    "name": "syndicate",
+    "url": "https://git.sr.ht/~ehmry/syndicate-nim",
+    "method": "git",
+    "tags": [
+      "actors",
+      "concurrency",
+      "dsl",
+      "library",
+      "rpc",
+      "syndicate"
+    ],
+    "description": "Syndicated actors for conversational concurrency",
+    "license": "ISC",
+    "web": "https://syndicate-lang.org/"
+  },
+  {
     "name": "datamancer",
     "url": "https://github.com/SciNim/datamancer",
     "method": "git",
@@ -23059,19 +23075,18 @@
     "web": "https://github.com/niklaskorz/nim-exporttosqlite3"
   },
   {
-    "name": "syndicate",
-    "url": "https://git.sr.ht/~ehmry/syndicate-nim",
+    "name": "chain",
+    "url": "https://github.com/khchen/chain",
     "method": "git",
     "tags": [
-      "actors",
-      "concurrency",
-      "dsl",
-      "library",
-      "rpc",
-      "syndicate"
+      "macro",
+      "with",
+      "cascade",
+      "operator",
+      "chaining"
     ],
-    "description": "Syndicated actors for conversational concurrency",
-    "license": "ISC",
-    "web": "https://syndicate-lang.org/"
+    "description": "Nim's function chaining and method cascading",
+    "license": "MIT",
+    "web": "https://github.com/khchen/chain"
   }
 ]
