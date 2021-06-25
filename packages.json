@@ -3514,7 +3514,7 @@
   },
   {
     "name": "bignum",
-    "url": "https://github.com/kaushalmodi/bignum",
+    "url": "https://github.com/SciNim/bignum",
     "method": "git",
     "tags": [
       "bignum",
@@ -3523,7 +3523,7 @@
     ],
     "description": "Wrapper around the GMP bindings for the Nim language.",
     "license": "MIT",
-    "web": "https://github.com/kaushalmodi/bignum"
+    "web": "https://github.com/SciNim/bignum"
   },
   {
     "name": "rbtree",
