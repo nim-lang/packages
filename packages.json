@@ -3514,7 +3514,7 @@
   },
   {
     "name": "bignum",
-    "url": "https://github.com/kaushalmodi/bignum",
+    "url": "https://github.com/SciNim/bignum",
     "method": "git",
     "tags": [
       "bignum",
@@ -3523,7 +3523,7 @@
     ],
     "description": "Wrapper around the GMP bindings for the Nim language.",
     "license": "MIT",
-    "web": "https://github.com/kaushalmodi/bignum"
+    "web": "https://github.com/SciNim/bignum"
   },
   {
     "name": "rbtree",
@@ -23071,5 +23071,20 @@
     "description": "A performant Nim parsing library built for humans.",
     "license": "MIT",
     "web": "https://github.com/schneiderfelipe/microparsec"
+  },
+  {
+    "name": "chain",
+    "url": "https://github.com/khchen/chain",
+    "method": "git",
+    "tags": [
+      "macro",
+      "with",
+      "cascade",
+      "operator",
+      "chaining"
+    ],
+    "description": "Nim's function chaining and method cascading",
+    "license": "MIT",
+    "web": "https://github.com/khchen/chain"
   }
 ]
