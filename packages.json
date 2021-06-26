@@ -23102,5 +23102,19 @@
     "description": "Nim's function chaining and method cascading",
     "license": "MIT",
     "web": "https://github.com/khchen/chain"
+  },
+  {
+    "name": "awsSTS",
+    "url": "https://github.com/ThomasTJdev/nim_awsSTS",
+    "method": "git",
+    "tags": [
+      "aws",
+      "amazon",
+      "sts",
+      "asia"
+    ],
+    "description": "AWS Security Token Service API in Nim",
+    "license": "MIT",
+    "web": "https://github.com/ThomasTJdev/nim_awsSTS"
   }
 ]
