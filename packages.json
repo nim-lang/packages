@@ -23102,6 +23102,8 @@
     "description": "Nim's function chaining and method cascading",
     "license": "MIT",
     "web": "https://github.com/khchen/chain"
+  },
+  {
     "name": "mcd",
     "url": "https://gitlab.com/malicious-commit-detector/mcd",
     "method": "git",
