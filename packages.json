@@ -23115,5 +23115,19 @@
     "description": "Amazon Simple Storage Service (AWS S3) basic API support.",
     "license": "MIT",
     "web": "https://github.com/ThomasTJdev/nim_awsS3"
+  },
+  {
+    "name": "awsSTS",
+    "url": "https://github.com/ThomasTJdev/nim_awsSTS",
+    "method": "git",
+    "tags": [
+      "aws",
+      "amazon",
+      "sts",
+      "asia"
+    ],
+    "description": "AWS Security Token Service API in Nim",
+    "license": "MIT",
+    "web": "https://github.com/ThomasTJdev/nim_awsSTS"
   }
 ]
