@@ -23102,5 +23102,18 @@
     "description": "Nim's function chaining and method cascading",
     "license": "MIT",
     "web": "https://github.com/khchen/chain"
+  },
+  {
+    "name": "awsS3",
+    "url": "https://github.com/ThomasTJdev/nim_awsS3",
+    "method": "git",
+    "tags": [
+      "aws",
+      "amazon",
+      "s3"
+    ],
+    "description": "Amazon Simple Storage Service (AWS S3) basic API support.",
+    "license": "MIT",
+    "web": "https://github.com/ThomasTJdev/nim_awsS3"
   }
 ]
