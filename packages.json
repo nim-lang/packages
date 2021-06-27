@@ -23156,5 +23156,17 @@
     "description": "A Nim client for Todoist's REST API",
     "license": "Apache-2.0",
     "web": "https://ruivieira.github.io/nim-todoist/index.html"
+  },
+  {
+    "name": "mailcow",
+    "url": "https://github.com/Vaipex/Mailcow-API",
+    "method": "git",
+    "tags": [
+      "mailcow",
+      "email",
+      "api",
+    ],
+    "description": "Simple API wrapper for Mailcow"",
+    "license": "GPL-3.0-only",
   }
 ]
