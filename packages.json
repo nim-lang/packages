@@ -23142,5 +23142,19 @@
     "description": "AWS Security Token Service API in Nim",
     "license": "MIT",
     "web": "https://github.com/ThomasTJdev/nim_awsSTS"
+  },
+  {
+    "name": "todoist",
+    "url": "https://github.com/ruivieira/nim-todoist",
+    "method": "git",
+    "tags": [
+      "todoist",
+      "rest",
+      "api",
+      "client"
+    ],
+    "description": "A Nim client for Todoist's REST API",
+    "license": "Apache-2.0",
+    "web": "https://ruivieira.github.io/nim-todoist/index.html"
   }
 ]
