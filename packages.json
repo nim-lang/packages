@@ -23167,6 +23167,6 @@
       "api"
     ],
     "description": "Simple API wrapper for Mailcow"",
-    "license": "GPL-3.0-only",
+    "license": "GPL-3.0-only"
   }
 ]
