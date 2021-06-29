@@ -13479,7 +13479,7 @@
   },
   {
     "name": "lastfm",
-    "url": "https://gitlab.com/ryukoposting/lastfm-nim",
+    "url": "https://gitlab.com/tandy1000/lastfm-nim",
     "method": "git",
     "tags": [
       "last.fm",
@@ -13487,12 +13487,13 @@
       "music",
       "metadata",
       "api",
-      "async",
+      "multisync",
       "ryukoposting"
     ],
-    "description": "Last.FM API breakouts (documentation: http://ryuk.ooo/nimdocs/lastfm/lastfm.html)",
+    "description": "Last.FM API bindings",
     "license": "Apache-2.0",
-    "web": "https://gitlab.com/ryukoposting/lastfm-nim"
+    "web": "https://gitlab.com/tandy1000/lastfm-nim",
+    "doc": "https://tandy1000.gitlab.io/lastfm-nim/"
   },
   {
     "name": "firejail",
