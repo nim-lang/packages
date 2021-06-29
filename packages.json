@@ -23157,5 +23157,21 @@
     "description": "A Nim client for Todoist's REST API",
     "license": "Apache-2.0",
     "web": "https://ruivieira.github.io/nim-todoist/index.html"
+  },
+  {
+    "name": "websock",
+    "url": "https://github.com/status-im/nim-websock",
+    "method": "git",
+    "tags": [
+      "websocket",
+      "websocket-server",
+      "websocket-client",
+      "ws",
+      "wss",
+      "secure"
+    ],
+    "description": " Websocket server and client implementation",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/status-im/nim-websock"
   }
 ]
