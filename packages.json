@@ -21849,18 +21849,19 @@
   },
   {
     "name": "nimflux",
-    "url": "https://gitlab.com/tdely/nimflux",
+    "url": "https://github.com/tdely/nimflux",
     "method": "git",
     "tags": [
       "influxdb",
       "influx",
       "client",
       "api",
-      "library"
+      "multisync",
+      "async"
     ],
     "description": "InfluxDB API client library",
     "license": "MIT",
-    "web": "https://gitlab.com/tdely/nimflux"
+    "web": "https://github.com/tdely/nimflux"
   },
   {
     "name": "moss_nim",
