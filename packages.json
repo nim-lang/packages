@@ -15607,6 +15607,20 @@
     "web": "https://github.com/planetis-m/manu"
   },
   {
+    "name": "sync",
+    "url": "https://github.com/planetis-m/sync",
+    "method": "git",
+    "tags": [
+      "synchronization",
+      "multithreading",
+      "parallelism",
+      "threads"
+    ],
+    "description": "Useful synchronization primitives",
+    "license": "MIT",
+    "web": "https://github.com/planetis-m/sync"
+  },
+  {
     "name": "jscanvas",
     "url": "https://github.com/planetis-m/jscanvas",
     "method": "git",
