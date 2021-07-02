@@ -23213,5 +23213,17 @@
     "description": " Websocket server and client implementation",
     "license": "Apache License 2.0",
     "web": "https://github.com/status-im/nim-websock"
+  },
+  {
+    "name": "hyperscript",
+    "url": "https://github.com/schneiderfelipe/hyperscript",
+    "method": "git",
+    "tags": [
+      "hyperscript",
+      "templating"
+    ],
+    "description": "Create HyperText with Nim.",
+    "license": "MIT",
+    "web": "https://github.com/schneiderfelipe/hyperscript"
   }
 ]
