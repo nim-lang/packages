@@ -15607,6 +15607,20 @@
     "web": "https://github.com/planetis-m/manu"
   },
   {
+    "name": "sync",
+    "url": "https://github.com/planetis-m/sync",
+    "method": "git",
+    "tags": [
+      "synchronization",
+      "multithreading",
+      "parallelism",
+      "threads"
+    ],
+    "description": "Useful synchronization primitives",
+    "license": "MIT",
+    "web": "https://github.com/planetis-m/sync"
+  },
+  {
     "name": "jscanvas",
     "url": "https://github.com/planetis-m/jscanvas",
     "method": "git",
@@ -19576,6 +19590,19 @@
     "web": "https://github.com/mildred/nimnews"
   },
   {
+    "name": "resolv",
+    "url": "https://github.com/mildred/resolv.nim",
+    "method": "git",
+    "tags": [
+      "dns",
+      "dnsclient",
+      "client"
+    ],
+    "description": "DNS resolution nimble making use of the native glibc resolv library",
+    "license": "MIT",
+    "web": "https://github.com/mildred/resolv.nim"
+  },
+  {
     "name": "zopflipng",
     "url": "https://github.com/bung87/zopflipng",
     "method": "git",
@@ -21849,18 +21876,19 @@
   },
   {
     "name": "nimflux",
-    "url": "https://gitlab.com/tdely/nimflux",
+    "url": "https://github.com/tdely/nimflux",
     "method": "git",
     "tags": [
       "influxdb",
       "influx",
       "client",
       "api",
-      "library"
+      "multisync",
+      "async"
     ],
     "description": "InfluxDB API client library",
     "license": "MIT",
-    "web": "https://gitlab.com/tdely/nimflux"
+    "web": "https://github.com/tdely/nimflux"
   },
   {
     "name": "moss_nim",
@@ -23173,5 +23201,44 @@
     "description": "Plot and visualize data",
     "license": "Proprietary",
     "web": "http://pl0t.com"
+    "name": "mailcow",
+    "url": "https://github.com/Vaipex/Mailcow-API",
+    "method": "git",
+    "tags": [
+      "mail",
+      "api",
+      "mailcow"
+    ],
+    "description": "Simple API wrapper for Mailcow",
+    "license": "GPL-3.0-only",
+    "web": "https://github.com/Vaipex/Mailcow-API"
+  },
+  {
+    "name": "websock",
+    "url": "https://github.com/status-im/nim-websock",
+    "method": "git",
+    "tags": [
+      "websocket",
+      "websocket-server",
+      "websocket-client",
+      "ws",
+      "wss",
+      "secure"
+    ],
+    "description": " Websocket server and client implementation",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/status-im/nim-websock"
+  },
+  {
+    "name": "hyperscript",
+    "url": "https://github.com/schneiderfelipe/hyperscript",
+    "method": "git",
+    "tags": [
+      "hyperscript",
+      "templating"
+    ],
+    "description": "Create HyperText with Nim.",
+    "license": "MIT",
+    "web": "https://github.com/schneiderfelipe/hyperscript"
   }
 ]
