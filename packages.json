@@ -23186,21 +23186,6 @@
     "web": "https://ruivieira.github.io/nim-todoist/index.html"
   },
   {
-    "name": "pl0t",
-    "url": "https://github.com/al6x/pl0t?subdir=api/nim",
-    "method": "git",
-    "tags": [
-      "plot",
-      "chart",
-      "table",
-      "excel",
-      "spreadsheet",
-      "visualization",
-      "data"
-    ],
-    "description": "Plot and visualize data",
-    "license": "Proprietary",
-    "web": "http://pl0t.com"
     "name": "mailcow",
     "url": "https://github.com/Vaipex/Mailcow-API",
     "method": "git",
@@ -23240,5 +23225,22 @@
     "description": "Create HyperText with Nim.",
     "license": "MIT",
     "web": "https://github.com/schneiderfelipe/hyperscript"
+  },
+  {
+    "name": "pl0t",
+    "url": "https://github.com/al6x/pl0t?subdir=api/nim",
+    "method": "git",
+    "tags": [
+      "plot",
+      "chart",
+      "table",
+      "excel",
+      "spreadsheet",
+      "visualization",
+      "data"
+    ],
+    "description": "Plot and visualize data",
+    "license": "Proprietary",
+    "web": "http://pl0t.com"
   }
 ]
