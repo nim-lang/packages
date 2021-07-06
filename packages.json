@@ -23242,5 +23242,19 @@
     "description": "Plot and visualize data",
     "license": "Proprietary",
     "web": "http://pl0t.com"
+  },
+  {
+    "name": "gm_api",
+    "url": "https://gitea.com/thisago/gm_api",
+    "method": "git",
+    "tags": [
+      "greasemonkey",
+      "javascript",
+      "userscript",
+      "js"
+    ],
+    "description": "Bindings for Greasemonkey API and an userscript header generator",
+    "license": "MIT",
+    "web": "https://gitea.com/thisago/gm_api"
   }
 ]
