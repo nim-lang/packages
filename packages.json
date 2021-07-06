@@ -15730,6 +15730,36 @@
     "license": "MIT",
     "web": "https://github.com/planetis-m/libfuzzer"
   },
+    {
+    "name": "sums",
+    "url": "https://github.com/planetis-m/sums",
+    "method": "git",
+    "tags": [
+      "summation",
+      "errors",
+      "floating point",
+      "rounding",
+      "numerical methods",
+      "number",
+      "math"
+    ],
+    "description": "Accurate summation functions",
+    "license": "MIT",
+    "web": "https://github.com/planetis-m/sums"
+  },
+  {
+    "name": "sparseset",
+    "url": "https://github.com/planetis-m/sparseset",
+    "method": "git",
+    "tags": [
+      "sparseset",
+      "library",
+      "datastructures"
+    ],
+    "description": "Sparsets for Nim",
+    "license": "MIT",
+    "web": "https://github.com/planetis-m/sparseset"
+  },
   {
     "name": "golden",
     "url": "https://github.com/disruptek/golden",
@@ -21145,19 +21175,6 @@
     "description": "A tool for managing a project's changelog",
     "license": "MIT",
     "web": "https://github.com/iffy/changer"
-  },
-  {
-    "name": "sparseset",
-    "url": "https://github.com/planetis-m/sparseset",
-    "method": "git",
-    "tags": [
-      "sparseset",
-      "library",
-      "datastructures"
-    ],
-    "description": "Sparsets for Nim",
-    "license": "MIT",
-    "web": "https://github.com/planetis-m/sparseset"
   },
   {
     "name": "bitstreams",
