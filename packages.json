@@ -23296,7 +23296,7 @@
       "unroll",
       "for-loops"
     ],
-    "description": "Unroll loops at compile-time.",
+    "description": "Unroll for-loops at compile-time.",
     "license": "MIT",
     "web": "https://github.com/schneiderfelipe/unrolled"
   }
