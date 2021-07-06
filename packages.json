@@ -23256,5 +23256,18 @@
     "description": "Bindings for Greasemonkey API and an userscript header generator",
     "license": "MIT",
     "web": "https://gitea.com/thisago/gm_api"
+  },
+  {
+    "name": "asyncthreadpool",
+    "url": "https://github.com/yglukhov/asyncthreadpool",
+    "method": "git",
+    "tags": [
+      "async",
+      "threadpool",
+      "multithreading"
+    ],
+    "description": "Awaitable threadpool",
+    "license": "MIT",
+    "web": "https://github.com/yglukhov/asyncthreadpool"
   }
 ]
