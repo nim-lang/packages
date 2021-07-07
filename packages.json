@@ -9085,7 +9085,7 @@
   },
   {
     "name": "polynumeric",
-    "url": "https://github.com/Vindaar/polynumeric",
+    "url": "https://github.com/SciNim/polynumeric",
     "method": "git",
     "tags": [
       "polynomial",
@@ -9093,7 +9093,7 @@
     ],
     "description": "Polynomial operations",
     "license": "MIT",
-    "web": "https://github.com/Vindaar/polynumeric"
+    "web": "https://github.com/SciNim/polynumeric"
   },
   {
     "name": "unicodedb",
