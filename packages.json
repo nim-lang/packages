@@ -15730,7 +15730,7 @@
     "license": "MIT",
     "web": "https://github.com/planetis-m/libfuzzer"
   },
-    {
+  {
     "name": "sums",
     "url": "https://github.com/planetis-m/sums",
     "method": "git",
@@ -23286,5 +23286,18 @@
     "description": "Awaitable threadpool",
     "license": "MIT",
     "web": "https://github.com/yglukhov/asyncthreadpool"
+  },
+  {
+    "name": "unrolled",
+    "url": "https://github.com/schneiderfelipe/unrolled",
+    "method": "git",
+    "tags": [
+      "macros",
+      "unroll",
+      "for-loops"
+    ],
+    "description": "Unroll for-loops at compile-time.",
+    "license": "MIT",
+    "web": "https://github.com/schneiderfelipe/unrolled"
   }
 ]
