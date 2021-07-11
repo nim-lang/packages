@@ -23299,5 +23299,21 @@
     "description": "Unroll for-loops at compile-time.",
     "license": "MIT",
     "web": "https://github.com/schneiderfelipe/unrolled"
+  },
+  {
+    "name": "isocodes",
+    "url": "https://github.com/kraptor/isocodes",
+    "method": "git",
+    "tags": [
+      "iso",
+      "countries",
+      "country",
+      "3166",
+      "3166-1",
+      "3166-2"
+    ],
+    "description": "ISO codes for Nim",
+    "license": "MIT",
+    "web": "https://github.com/kraptor/isocodes"
   }
 ]
