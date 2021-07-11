@@ -23310,9 +23310,10 @@
       "country",
       "3166",
       "3166-1",
-      "3166-2"
+      "3166-2",
+      "3166-3",
     ],
-    "description": "ISO codes for Nim",
+    "description": "ISO codes for Nim that allows to embed its data within the executable (or load it automatically at runtime).",
     "license": "MIT",
     "web": "https://github.com/kraptor/isocodes"
   }
