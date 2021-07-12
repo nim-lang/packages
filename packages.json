@@ -23316,5 +23316,20 @@
     "description": "ISO codes for Nim that allows to embed its data within the executable (or load it automatically at runtime).",
     "license": "MIT",
     "web": "https://github.com/kraptor/isocodes"
+  },
+  {
+    "name": "macroplus",
+    "url": "https://github.com/hamidb80/macroplus",
+    "method": "git",
+    "tags": [
+      "macroplus",
+      "macro",
+      "macro",
+      "nim",
+      "compiletime"
+    ],
+    "description": "a collection of useful macro functionalities",
+    "license": "MIT",
+    "web": "https://github.com/hamidb80/macroplus"
   }
 ]
