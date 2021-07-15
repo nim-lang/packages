@@ -23355,5 +23355,18 @@
     "description": "a collection of useful macro functionalities",
     "license": "MIT",
     "web": "https://github.com/hamidb80/macroplus"
+  },
+  {
+    "name": "latinize",
+    "url": "https://github.com/AmanoTeam/Latinize",
+    "method": "git",
+    "tags": [
+      "strings",
+      "unicode",
+      "ascii"
+    ],
+    "description": "Convert accents (diacritics) from strings to latin characters.",
+    "license": "LGPL-3.0",
+    "web": "https://github.com/AmanoTeam/Latinize"
   }
 ]
