@@ -11390,6 +11390,19 @@
     "web": "https://github.com/treeform/globby"
   },
   {
+    "name": "morepretty",
+    "url": "https://github.com/treeform/morepretty",
+    "method": "git",
+    "tags": [
+      "nimpretty",
+      "autoformat",
+      "code"
+    ],
+    "description": "Morepretty - Does more than nimpretty.",
+    "license": "MIT",
+    "web": "https://github.com/treeform/morepretty"
+  },
+  {
     "name": "xdo",
     "url": "https://github.com/juancarlospaco/nim-xdo",
     "method": "git",
