@@ -23368,5 +23368,20 @@
     "description": "Convert accents (diacritics) from strings to latin characters.",
     "license": "LGPL-3.0",
     "web": "https://github.com/AmanoTeam/Latinize"
+  },
+  {
+    "name": "xom",
+    "url": "https://github.com/schneiderfelipe/xom",
+    "method": "git",
+    "tags": [
+      "dom",
+      "xml",
+      "web",
+      "library",
+      "compile-time-meta-programming"
+    ],
+    "description": "Transform XML trees into performant JavaScript DOM calls at compile-time.",
+    "license": "MIT",
+    "web": "https://github.com/schneiderfelipe/xom"
   }
 ]
