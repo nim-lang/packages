@@ -23332,12 +23332,18 @@
       "iso",
       "countries",
       "country",
+      "language",
+      "languages",
+      "currency",
+      "currencies",
       "3166",
       "3166-1",
       "3166-2",
-      "3166-3"
+      "3166-3",
+      "15924",
+      "4217"
     ],
-    "description": "ISO codes for Nim that allows to embed its data within the executable (or load it automatically at runtime).",
+    "description": "ISO codes for Nim: 3166-1, 3166-2, 3166-3, 15924, 4217.",
     "license": "MIT",
     "web": "https://github.com/kraptor/isocodes"
   },
