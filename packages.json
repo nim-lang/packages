@@ -23392,7 +23392,7 @@
   },
   {
     "name": "harpoon",
-    "url": "https://github.com/juancarlospaco/cerberus",
+    "url": "https://github.com/juancarlospaco/harpoon",
     "method": "git",
     "tags": [
       "http",
@@ -23401,6 +23401,6 @@
     ],
     "description": "HTTP Client",
     "license": "MIT",
-    "web": "https://github.com/juancarlospaco/cerberus"
+    "web": "https://github.com/juancarlospaco/harpoon"
   }
 ]
