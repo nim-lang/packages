@@ -23389,5 +23389,18 @@
     "description": "Transform XML trees into performant JavaScript DOM calls at compile-time.",
     "license": "MIT",
     "web": "https://github.com/schneiderfelipe/xom"
+  },
+  {
+    "name": "harpoon",
+    "url": "https://github.com/juancarlospaco/cerberus",
+    "method": "git",
+    "tags": [
+      "http",
+      "curl",
+      "client"
+    ],
+    "description": "HTTP Client",
+    "license": "MIT",
+    "web": "https://github.com/juancarlospaco/cerberus"
   }
 ]
