@@ -23416,5 +23416,16 @@
     "description": "a couchDB client written in Nim",
     "license": "MIT",
     "web": "https://github.com/hamidb80/mycouch"
+  },
+  {
+    "name": "cpython",
+    "url": "https://github.com/juancarlospaco/cpython",
+    "method": "git",
+    "tags": [
+      "python"
+    ],
+    "description": "Alternative StdLib for Nim for Python targets",
+    "license": "MIT",
+    "web": "https://github.com/juancarlospaco/cpython"
   }
 ]
