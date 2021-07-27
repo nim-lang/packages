@@ -23416,5 +23416,21 @@
     "description": "a couchDB client written in Nim",
     "license": "MIT",
     "web": "https://github.com/hamidb80/mycouch"
+  },
+  {
+    "name": "gnu",
+    "url": "https://github.com/Knaque/gnu",
+    "method": "git",
+    "tags": [
+      "gamedev",
+      "godot",
+      "game",
+      "engine",
+      "utility",
+      "tool"
+    ],
+    "description": "Godot-Nim Utility - Godot gamedev with Nim",
+    "license": "MIT",
+    "web": "https://github.com/Knaque/gnu"
   }
 ]
