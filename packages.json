@@ -23427,5 +23427,21 @@
     "description": "Alternative StdLib for Nim for Python targets",
     "license": "MIT",
     "web": "https://github.com/juancarlospaco/cpython"
+  },
+  {
+    "name": "gnu",
+    "url": "https://github.com/Knaque/gnu",
+    "method": "git",
+    "tags": [
+      "gamedev",
+      "godot",
+      "game",
+      "engine",
+      "utility",
+      "tool"
+    ],
+    "description": "Godot-Nim Utility - Godot gamedev with Nim",
+    "license": "MIT",
+    "web": "https://github.com/Knaque/gnu"
   }
 ]
