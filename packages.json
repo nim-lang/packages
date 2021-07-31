@@ -23443,5 +23443,23 @@
     "description": "Godot-Nim Utility - Godot gamedev with Nim",
     "license": "MIT",
     "web": "https://github.com/Knaque/gnu"
+  },
+  {
+    "name": "linear_models",
+    "url": "https://github.com/ayman-albaz/linear-models",
+    "method": "git",
+    "tags": [
+      "math",
+      "linear-algebra",
+      "statistics",
+      "machine-learning",
+      "BLAS",
+      "LAPACK",
+      "linear",
+      "glm"
+    ],
+    "description": "Generalized linear models in Nim.",
+    "license": "Apache-2.0 License",
+    "web": "https://github.com/ayman-albaz/linear-models"
   }
 ]
