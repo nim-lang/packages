@@ -23474,5 +23474,18 @@
     "description": "Generalized linear models in Nim.",
     "license": "Apache-2.0 License",
     "web": "https://github.com/ayman-albaz/linear-models"
+  },
+  {
+    "name": "ytdata",
+    "url": "https://github.com/thisago/ytdata",
+    "method": "git",
+    "tags": [
+      "youtube",
+      "extractor",
+      "video"
+    ],
+    "description": "Youtube data parser",
+    "license": "MIT",
+    "web": "https://github.com/thisago/ytdata"
   }
 ]
