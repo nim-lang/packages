@@ -23487,5 +23487,19 @@
     "description": "Youtube data extractor",
     "license": "MIT",
     "web": "https://github.com/thisago/ytextractor"
+  },
+  {
+    "name": "config",
+    "url": "https://github.com/maubg-debug/build-sys",
+    "method": "git",
+    "tags": [
+      "bs",
+      "build-system",
+      "system",
+      "build"
+    ],
+    "description": "A good alternative to Makefile.",
+    "license": "MIT",
+    "web": "https://github.com/maubg-debug/build-sys"
   }
 ]
