@@ -23516,5 +23516,18 @@
     "description": "Wrappers over the Tkrzw Database Manager C++ library.",
     "license": "Apache-2.0",
     "web": "https://git.sr.ht/~ehmry/nim-tkrzw"
+  },
+  {
+    "name": "notcurses",
+    "url": "https://github.com/michaelsbradleyjr/nim-notcurses",
+    "method": "git",
+    "tags": [
+      "cli",
+      "library",
+      "tui"
+    ],
+    "description": "A low-level Nim wrapper for Notcurses: blingful TUIs and character graphics",
+    "license": "Apache-2.0",
+    "web": "https://github.com/michaelsbradleyjr/nim-notcurses"
   }
 ]
