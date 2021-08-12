@@ -23489,7 +23489,7 @@
     "web": "https://github.com/thisago/ytextractor"
   },
   {
-    "name": "config",
+    "name": "bs",
     "url": "https://github.com/maubg-debug/build-sys",
     "method": "git",
     "tags": [
