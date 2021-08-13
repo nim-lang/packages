@@ -23503,5 +23503,18 @@
     "description": "typed and compiled template engine inspired by jinja2, twig and onionhammer/nim-templates for Nim",
     "license": "MIT",
     "web": "https://github.com/enthus1ast/nimja"
+  },
+  {
+    "name": "tkrzw",
+    "url": "https://git.sr.ht/~ehmry/nim-tkrzw",
+    "method": "git",
+    "tags": [
+      "db",
+      "key-value",
+      "wrapper"
+    ],
+    "description": "Wrappers over the Tkrzw Database Manager C++ library.",
+    "license": "Apache-2.0",
+    "web": "https://git.sr.ht/~ehmry/nim-tkrzw"
   }
 ]
