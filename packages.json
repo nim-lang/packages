@@ -23503,5 +23503,18 @@
     "description": "typed and compiled template engine inspired by jinja2, twig and onionhammer/nim-templates for Nim",
     "license": "MIT",
     "web": "https://github.com/enthus1ast/nimja"
+  },
+  {
+    "name": "numToWord",
+    "url": "https://github.com/thisago/numToWord",
+    "method": "git",
+    "tags": [
+      "numbers",
+      "conversion",
+      "words"
+    ],
+    "description": "Convert numbers to words",
+    "license": "MIT",
+    "web": "https://github.com/thisago/numToWord"
   }
 ]
