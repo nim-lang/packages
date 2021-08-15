@@ -23516,5 +23516,22 @@
     "description": "Wrappers over the Tkrzw Database Manager C++ library.",
     "license": "Apache-2.0",
     "web": "https://git.sr.ht/~ehmry/nim-tkrzw"
+  },
+  {
+    "name": "commandant",
+    "url": "https://github.com/casey-SK/commandant.git",
+    "method": "git",
+    "tags": [
+      "library",
+      "command-line",
+      "cli",
+      "argument",
+      "parser",
+      "argparse",
+      "optparse"
+    ],
+    "description": "Commandant is a simple to use library for parsing command line arguments. Commandant is ideal for writing terminal applications, with  support for flags, options, subcommands, and custom exit options.",
+    "license": "MIT",
+    "web": "https://github.com/casey-SK/commandant"
   }
 ]
