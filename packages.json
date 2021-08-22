@@ -23529,5 +23529,16 @@
     "description": "A low-level Nim wrapper for Notcurses: blingful TUIs and character graphics",
     "license": "Apache-2.0",
     "web": "https://github.com/michaelsbradleyjr/nim-notcurses"
+  },
+  {
+    "name": "composition",
+    "url": "https://github.com/DavidMeagher1/composition",
+    "method": "git",
+    "tags": [
+      "library"
+    ],
+    "description": "Composition pattern with event handling library in Nim",
+    "license": "MIT",
+    "web": "https://github.com/DavidMeagher1/composition"
   }
 ]
