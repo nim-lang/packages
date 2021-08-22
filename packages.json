@@ -23529,5 +23529,19 @@
     "description": "A low-level Nim wrapper for Notcurses: blingful TUIs and character graphics",
     "license": "Apache-2.0",
     "web": "https://github.com/michaelsbradleyjr/nim-notcurses"
+  },
+  {
+    "name": "oolib",
+    "url": "https://github.com/Glasses-Neo/OOlib",
+    "method": "git",
+    "tags": [
+      "nim",
+      "oop",
+      "metaprogramming",
+      "nimble"
+    ],
+    "description": "A nimble package which provides user-defined types, procedures, etc...",
+    "license": "WTFPL",
+    "web": "https://github.com/Glasses-Neo/OOlib"
   }
 ]
