@@ -23531,6 +23531,17 @@
     "web": "https://github.com/michaelsbradleyjr/nim-notcurses"
   },
   {
+    "name": "composition",
+    "url": "https://github.com/DavidMeagher1/composition",
+    "method": "git",
+    "tags": [
+      "library"
+    ],
+    "description": "Composition pattern with event handling library in Nim",
+    "license": "MIT",
+    "web": "https://github.com/DavidMeagher1/composition"
+  },
+  {
     "name": "oolib",
     "url": "https://github.com/Glasses-Neo/OOlib",
     "method": "git",
