@@ -23540,5 +23540,17 @@
     "description": "Composition pattern with event handling library in Nim",
     "license": "MIT",
     "web": "https://github.com/DavidMeagher1/composition"
+  },
+  {
+    "name": "oolib",
+    "url": "https://github.com/Glasses-Neo/OOlib",
+    "method": "git",
+    "tags": [
+      "oop",
+      "metaprogramming"
+    ],
+    "description": "A nimble package which provides user-defined types, procedures, etc...",
+    "license": "WTFPL",
+    "web": "https://github.com/Glasses-Neo/OOlib"
   }
 ]
