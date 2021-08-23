@@ -23554,6 +23554,49 @@
     "web": "https://github.com/Glasses-Neo/OOlib"
   },
   {
+    "name": "commandant",
+    "url": "https://github.com/casey-SK/commandant.git",
+    "method": "git",
+    "tags": [
+      "library",
+      "command-line",
+      "cli",
+      "argument",
+      "parser",
+      "argparse",
+      "optparse"
+    ],
+    "description": "Commandant is a simple to use library for parsing command line arguments. Commandant is ideal for writing terminal applications, with  support for flags, options, subcommands, and custom exit options.",
+    "license": "MIT",
+    "web": "https://github.com/casey-SK/commandant"
+  },
+  {
+    "name": "algebraicdatas",
+    "url": "https://github.com/chocobo333/AlgebraicDataTypes",
+    "method": "git",
+    "tags": [
+      "algebraicdatatypes",
+      "adt",
+      "pattern-mathcing"
+    ],
+    "description": "This module provides the feature of algebraic data type and its associated method",
+    "license": "MIT",
+    "web": "https://github.com/chocobo333/AlgebraicDataTypes"
+  },
+  {
+    "name": "numToWord",
+    "url": "https://github.com/thisago/numToWord",
+    "method": "git",
+    "tags": [
+      "numbers",
+      "conversion",
+      "words"
+    ],
+    "description": "Convert numbers to words",
+    "license": "MIT",
+    "web": "https://github.com/thisago/numToWord"
+  },
+  {
     "name": "bs",
     "url": "https://github.com/maubg-debug/build-sys",
     "method": "git",
