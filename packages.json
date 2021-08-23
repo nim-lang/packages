@@ -23552,5 +23552,19 @@
     "description": "A nimble package which provides user-defined types, procedures, etc...",
     "license": "WTFPL",
     "web": "https://github.com/Glasses-Neo/OOlib"
+  },
+  {
+    "name": "bs",
+    "url": "https://github.com/maubg-debug/build-sys",
+    "method": "git",
+    "tags": [
+      "bs",
+      "build-system",
+      "system",
+      "build"
+    ],
+    "description": "A good alternative to Makefile.",
+    "license": "MIT",
+    "web": "https://github.com/maubg-debug/build-sys"
   }
 ]
