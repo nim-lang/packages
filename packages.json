@@ -23501,5 +23501,68 @@
     "description": "A good alternative to Makefile.",
     "license": "MIT",
     "web": "https://github.com/maubg-debug/build-sys"
+    "name": "nimja",
+    "url": "https://github.com/enthus1ast/nimja",
+    "method": "git",
+    "tags": [
+      "template",
+      "web",
+      "compiled",
+      "typed",
+      "jinja2",
+      "twig"
+    ],
+    "description": "typed and compiled template engine inspired by jinja2, twig and onionhammer/nim-templates for Nim",
+    "license": "MIT",
+    "web": "https://github.com/enthus1ast/nimja"
+  },
+  {
+    "name": "tkrzw",
+    "url": "https://git.sr.ht/~ehmry/nim-tkrzw",
+    "method": "git",
+    "tags": [
+      "db",
+      "key-value",
+      "wrapper"
+    ],
+    "description": "Wrappers over the Tkrzw Database Manager C++ library.",
+    "license": "Apache-2.0",
+    "web": "https://git.sr.ht/~ehmry/nim-tkrzw"
+  },
+  {
+    "name": "notcurses",
+    "url": "https://github.com/michaelsbradleyjr/nim-notcurses",
+    "method": "git",
+    "tags": [
+      "cli",
+      "library",
+      "tui"
+    ],
+    "description": "A low-level Nim wrapper for Notcurses: blingful TUIs and character graphics",
+    "license": "Apache-2.0",
+    "web": "https://github.com/michaelsbradleyjr/nim-notcurses"
+  },
+  {
+    "name": "composition",
+    "url": "https://github.com/DavidMeagher1/composition",
+    "method": "git",
+    "tags": [
+      "library"
+    ],
+    "description": "Composition pattern with event handling library in Nim",
+    "license": "MIT",
+    "web": "https://github.com/DavidMeagher1/composition"
+  },
+  {
+    "name": "oolib",
+    "url": "https://github.com/Glasses-Neo/OOlib",
+    "method": "git",
+    "tags": [
+      "oop",
+      "metaprogramming"
+    ],
+    "description": "A nimble package which provides user-defined types, procedures, etc...",
+    "license": "WTFPL",
+    "web": "https://github.com/Glasses-Neo/OOlib"
   }
 ]
