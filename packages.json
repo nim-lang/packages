@@ -23609,5 +23609,18 @@
     "description": "A good alternative to Makefile.",
     "license": "MIT",
     "web": "https://github.com/maubg-debug/build-sys"
+  },
+  {
+    "name": "kombinator",
+    "url": "https://gitlab.com/ArMour85/kombinator.git",
+    "method": "git",
+    "tags": [
+      "utility",
+      "binary",
+      "combination"
+    ],
+    "description": "Kombinator is a tool to generate commands line from parameters combination from a config file.",
+    "license": "MIT",
+    "web": "https://gitlab.com/ArMour85/kombinator.git"
   }
 ]
