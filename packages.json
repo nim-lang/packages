@@ -23622,5 +23622,19 @@
     "description": "Kombinator is a tool to generate commands line from parameters combination from a config file.",
     "license": "MIT",
     "web": "https://gitlab.com/ArMour85/kombinator.git"
+  },
+  {
+    "name": "watch_for_files",
+    "url": "https://github.com/hamidb80/watch_for_files",
+    "method": "git",
+    "tags": [
+      "file-watcher",
+      "file",
+      "watcher",
+      "cross-platform"
+    ],
+    "description": "cross-platform file watcher with database",
+    "license": "MIT",
+    "web": "https://github.com/hamidb80/watch_for_files"
   }
 ]
