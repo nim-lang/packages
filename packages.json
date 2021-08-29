@@ -23631,8 +23631,7 @@
       "file-watcher",
       "file",
       "watcher",
-      "cross-platform",
-      ""
+      "cross-platform"
     ],
     "description": "cross-platform file watcher with database",
     "license": "MIT",
