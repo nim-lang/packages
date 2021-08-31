@@ -23636,5 +23636,20 @@
     "description": "cross-platform file watcher with database",
     "license": "MIT",
     "web": "https://github.com/hamidb80/watch_for_files"
+  },
+  {
+    "name": "nodesnim",
+    "url": "https://github.com/ethosa/nodesnim",
+    "method": "git",
+    "tags": [
+      "gui",
+      "2d",
+      "framework",
+      "sdl2",
+      "opengl"
+    ],
+    "description": "The Nim GUI/2D framework based on OpenGL and SDL2.",
+    "license": "MIT",
+    "web": "https://github.com/ethosa/nodesnim"
   }
 ]
