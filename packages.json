@@ -23648,5 +23648,18 @@
     "description": "Nim client for Stripe.com",
     "license": "MIT",
     "web": "https://github.com/iffy/nim-stripe"
+  },
+  {
+    "name": "htmlAntiCopy",
+    "url": "https://github.com/thisago/htmlAntiCopy",
+    "method": "git",
+    "tags": [
+      "html",
+      "shuffle",
+      "text"
+    ],
+    "description": "Block copy of any text in HTML",
+    "license": "MIT",
+    "web": "https://github.com/thisago/htmlAntiCopy"
   }
 ]
