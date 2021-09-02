@@ -23636,5 +23636,17 @@
     "description": "cross-platform file watcher with database",
     "license": "MIT",
     "web": "https://github.com/hamidb80/watch_for_files"
+  },
+  {
+    "name": "stripe",
+    "url": "https://github.com/iffy/nim-stripe",
+    "method": "git",
+    "tags": [
+      "payments",
+      "library"
+    ],
+    "description": "Nim client for Stripe.com",
+    "license": "MIT",
+    "web": "https://github.com/iffy/nim-stripe"
   }
 ]
