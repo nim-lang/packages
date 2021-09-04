@@ -23661,5 +23661,22 @@
     "description": "Block copy of any text in HTML",
     "license": "MIT",
     "web": "https://github.com/thisago/htmlAntiCopy"
+  },
+  {
+    "name": "distorm3",
+    "url": "https://github.com/ba0f3/distorm3.nim",
+    "method": "git",
+    "tags": [
+      "distorm,",
+      "distorm3,",
+      "x64,",
+      "i386,",
+      "x86-64,",
+      "disassembler,",
+      "disassembly"
+    ],
+    "description": "Nim wrapper for distorm3 - Powerful Disassembler Library For x86/AMD64",
+    "license": "MIT",
+    "web": "https://github.com/ba0f3/distorm3.nim"
   }
 ]
