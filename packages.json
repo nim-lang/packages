@@ -10604,7 +10604,7 @@
   },
   {
     "name": "nimgraphviz",
-    "url": "https://github.com/QuinnFreedman/nimgraphviz",
+    "url": "https://github.com/Aveheuzed/nimgraphviz",
     "method": "git",
     "tags": [
       "graph",
@@ -10615,7 +10615,7 @@
     ],
     "description": "Nim bindings for the GraphViz tool and the DOT graph language",
     "license": "MIT",
-    "web": "https://github.com/QuinnFreedman/nimgraphviz"
+    "web": "https://github.com/Aveheuzed/nimgraphviz"
   },
   {
     "name": "fab",
