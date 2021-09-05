@@ -23678,5 +23678,19 @@
     "description": "Nim wrapper for distorm3 - Powerful Disassembler Library For x86/AMD64",
     "license": "MIT",
     "web": "https://github.com/ba0f3/distorm3.nim"
+  },
+  {
+    "name": "drawim",
+    "url": "https://github.com/GabrielLasso/drawim",
+    "method": "git",
+    "tags": [
+      "draw",
+      "drawing",
+      "gamedev",
+      ""
+    ],
+    "description": "Simple library to draw stuff on a window",
+    "license": "MIT",
+    "web": "https://github.com/GabrielLasso/drawim"
   }
 ]
