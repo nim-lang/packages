@@ -23692,5 +23692,27 @@
     "description": "Simple library to draw stuff on a window",
     "license": "MIT",
     "web": "https://github.com/GabrielLasso/drawim"
+  },
+  {
+    "name": "gg",
+    "url": "https://github.com/deNULL/gg",
+    "method": "git",
+    "tags": [
+      "library",
+      "geometry",
+      "graph",
+      "graphics",
+      "vectors",
+      "delaunay",
+      "voronoi",
+      "cdt",
+      "earcut",
+      "quadtree",
+      "delaunator",
+      "poly2tri"
+    ],
+    "description": "Geometry & Graphs: a collection of 2D/3D data structures and algorithms",
+    "license": "MIT",
+    "web": "https://github.com/deNULL/gg"
   }
 ]
