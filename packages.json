@@ -23705,5 +23705,19 @@
     "description": "Simple library to draw stuff on a window",
     "license": "MIT",
     "web": "https://github.com/GabrielLasso/drawim"
+  },
+  {
+    "name": "tic80",
+    "url": "https:///",
+    "method": "",
+    "tags": [
+      "tic80",
+      "game",
+      "bindings",
+      "js"
+    ],
+    "description": "TIC-80 bindings",
+    "license": "MIT",
+    "web": "https:///"
   }
 ]
