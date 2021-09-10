@@ -23705,5 +23705,21 @@
     "description": "Simple library to draw stuff on a window",
     "license": "MIT",
     "web": "https://github.com/GabrielLasso/drawim"
+  },
+  {
+    "name": "alasgar",
+    "url": "https://github.com/abisxir/alasgar",
+    "method": "git",
+    "tags": [
+      "game",
+      "engine",
+      "3d",
+      "gles",
+      "opengl",
+      "graphics"
+    ],
+    "description": "Game Engine",
+    "license": "MIT",
+    "web": "https://github.com/abisxir/alasgar"
   }
 ]
