@@ -10604,7 +10604,7 @@
   },
   {
     "name": "nimgraphviz",
-    "url": "https://github.com/QuinnFreedman/nimgraphviz",
+    "url": "https://github.com/Aveheuzed/nimgraphviz",
     "method": "git",
     "tags": [
       "graph",
@@ -10615,7 +10615,7 @@
     ],
     "description": "Nim bindings for the GraphViz tool and the DOT graph language",
     "license": "MIT",
-    "web": "https://github.com/QuinnFreedman/nimgraphviz"
+    "web": "https://github.com/Aveheuzed/nimgraphviz"
   },
   {
     "name": "fab",
@@ -11401,6 +11401,19 @@
     "description": "Morepretty - Does more than nimpretty.",
     "license": "MIT",
     "web": "https://github.com/treeform/morepretty"
+  },
+  {
+    "name": "genny",
+    "url": "https://github.com/treeform/genny",
+    "method": "git",
+    "tags": [
+      "C",
+      "python",
+      "node.js"
+    ],
+    "description": "Generate a shared library and bindings for many languages.",
+    "license": "MIT",
+    "web": "https://github.com/treeform/genny"
   },
   {
     "name": "xdo",
@@ -23648,5 +23661,49 @@
     "description": "Nim client for Stripe.com",
     "license": "MIT",
     "web": "https://github.com/iffy/nim-stripe"
+  },
+  {
+    "name": "htmlAntiCopy",
+    "url": "https://github.com/thisago/htmlAntiCopy",
+    "method": "git",
+    "tags": [
+      "html",
+      "shuffle",
+      "text"
+    ],
+    "description": "Block copy of any text in HTML",
+    "license": "MIT",
+    "web": "https://github.com/thisago/htmlAntiCopy"
+  },
+  {
+    "name": "distorm3",
+    "url": "https://github.com/ba0f3/distorm3.nim",
+    "method": "git",
+    "tags": [
+      "distorm,",
+      "distorm3,",
+      "x64,",
+      "i386,",
+      "x86-64,",
+      "disassembler,",
+      "disassembly"
+    ],
+    "description": "Nim wrapper for distorm3 - Powerful Disassembler Library For x86/AMD64",
+    "license": "MIT",
+    "web": "https://github.com/ba0f3/distorm3.nim"
+  },
+  {
+    "name": "drawim",
+    "url": "https://github.com/GabrielLasso/drawim",
+    "method": "git",
+    "tags": [
+      "draw",
+      "drawing",
+      "gamedev",
+      ""
+    ],
+    "description": "Simple library to draw stuff on a window",
+    "license": "MIT",
+    "web": "https://github.com/GabrielLasso/drawim"
   }
 ]
