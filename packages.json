@@ -11403,6 +11403,19 @@
     "web": "https://github.com/treeform/morepretty"
   },
   {
+    "name": "genny",
+    "url": "https://github.com/treeform/genny",
+    "method": "git",
+    "tags": [
+      "C",
+      "python",
+      "node.js"
+    ],
+    "description": "Generate a shared library and bindings for many languages.",
+    "license": "MIT",
+    "web": "https://github.com/treeform/genny"
+  },
+  {
     "name": "xdo",
     "url": "https://github.com/juancarlospaco/nim-xdo",
     "method": "git",
