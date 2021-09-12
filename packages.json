@@ -23707,6 +23707,22 @@
     "web": "https://github.com/GabrielLasso/drawim"
   },
   {
+    "name": "alasgar",
+    "url": "https://github.com/abisxir/alasgar",
+    "method": "git",
+    "tags": [
+      "game",
+      "engine",
+      "3d",
+      "graphics",
+      "gles",
+      "opengl"
+    ],
+    "description": "Game Engine",
+    "license": "MIT",
+    "web": "https://github.com/abisxir/alasgar"
+  },
+  {
     "name": "tic80",
     "url": "https://github.com/thisago/tic80",
     "method": "git",
