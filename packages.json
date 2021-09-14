@@ -23737,7 +23737,7 @@
     "web": "https://github.com/thisago/tic80"
   },
   {
-    "name": "crypt",
+    "name": "nimcrypt",
     "url": "https://github.com/napalu/nimcrypt",
     "method": "git",
     "tags": [
@@ -23754,5 +23754,5 @@
     "license": "MIT",
     "web": "https://github.com/napalu/nimcrypt",
     "doc": "https://github.com/napalu/nimcrypt/blob/v0.0.1/README.md"
-  }
+  },
 ]
