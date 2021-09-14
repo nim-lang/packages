@@ -23735,5 +23735,24 @@
     "description": "TIC-80 bindings",
     "license": "MIT",
     "web": "https://github.com/thisago/tic80"
+  },
+  {
+    "name": "nimcrypt",
+    "url": "https://github.com/napalu/nimcrypt",
+    "method": "git",
+    "tags": [
+      "crypt",
+      "security",
+      "crypto",
+      "md5",
+      "sha-256",
+      "sha-512",
+      "cryptography",
+      "security"
+    ],
+    "description": "Implementation of Unix crypt with support for Crypt-MD5, Crypt-SHA256 and Crypt-SHA512",
+    "license": "MIT",
+    "web": "https://github.com/napalu/nimcrypt",
+    "doc": "https://github.com/napalu/nimcrypt/blob/v0.0.1/README.md"
   }
 ]
