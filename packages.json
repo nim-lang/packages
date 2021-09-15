@@ -7590,20 +7590,6 @@
     "web": "https://github.com/dom96/gamelight"
   },
   {
-    "name": "storage",
-    "url": "https://bitbucket.org/moigagoo/storage/",
-    "method": "hg",
-    "tags": [
-      "JavaScript",
-      "Storage",
-      "localStorage",
-      "sessionStorage"
-    ],
-    "description": "Storage, localStorage, and sessionStorage bindigs for Nim's JavaScript backend.",
-    "license": "MIT",
-    "web": "https://bitbucket.org/moigagoo/storage/"
-  },
-  {
     "name": "fontconfig",
     "url": "https://github.com/Parashurama/fontconfig",
     "method": "git",
