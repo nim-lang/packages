@@ -23740,5 +23740,19 @@
     "license": "MIT",
     "web": "https://github.com/napalu/nimcrypt",
     "doc": "https://github.com/napalu/nimcrypt/blob/v0.0.1/README.md"
+  },
+  {
+    "name": "surfing",
+    "url": "https://github.com/momeemt/surfing",
+    "method": "git",
+    "tags": [
+      "base64",
+      "cli",
+      "string",
+      "surfing"
+    ],
+    "description": "A new awesome nimble package",
+    "license": "MIT",
+    "web": "https://github.com/momeemt/surfing"
   }
 ]
