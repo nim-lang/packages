@@ -23751,7 +23751,7 @@
       "string",
       "surfing"
     ],
-    "description": "A new awesome nimble package",
+    "description": "Surfing is a highly functional CLI for Base64.",
     "license": "MIT",
     "web": "https://github.com/momeemt/surfing"
   }
