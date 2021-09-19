@@ -23754,5 +23754,20 @@
     "description": "Surfing is a highly functional CLI for Base64.",
     "license": "MIT",
     "web": "https://github.com/momeemt/surfing"
+  },
+  {
+    "name": "loony",
+    "url": "https://github.com/shayanhabibi/loony",
+    "method": "git",
+    "tags": [
+      "fifo",
+      "queue",
+      "concurrency",
+      "cps"
+    ],
+    "description": "Lock-free threadsafe MPMC with high throughput",
+    "license": "MIT",
+    "web": "https://github.com/shayanhabibi/loony",
+    "doc": "https://github.com/shayanhabibi/loony/blob/main/README.md"
   }
 ]
