@@ -23769,5 +23769,21 @@
     "license": "MIT",
     "web": "https://github.com/shayanhabibi/loony",
     "doc": "https://github.com/shayanhabibi/loony/blob/main/README.md"
+  },
+  {
+    "name": "matrixsdk",
+    "url": "https://github.com/dylhack/matrix-nim-sdk",
+    "method": "git",
+    "tags": [
+      "matrix",
+      "sdk",
+      "matrix.org",
+      "decentralization",
+      "protocol"
+    ],
+    "description": "A Matrix (https://matrix.org) client and appservice API wrapper for Nim!",
+    "license": "GPL-3.0",
+    "web": "https://github.com/dylhack/matrix-nim-sdk",
+    "doc": "https://github.com/shayanhabibi/dylhack/blob/matrix-nim-sdk/README.md"
   }
 ]
