@@ -23785,5 +23785,24 @@
     "license": "GPL-3.0",
     "web": "https://github.com/dylhack/matrix-nim-sdk",
     "doc": "https://github.com/shayanhabibi/dylhack/blob/matrix-nim-sdk/README.md"
+  },
+  {
+    "name": "zfdbms",
+    "url": "https://github.com/zendbit/nim.zfdbms",
+    "method": "git",
+    "tags": [
+      "sql",
+      "dbms",
+      "zendbit",
+      "zendflow",
+      "database",
+      "mysql",
+      "sqlite",
+      "postgre"
+    ],
+    "description": "",
+    "license": "BSD",
+    "web": "https://github.com/zendbit/nim.zfdbms",
+    "doc": "https://github.com/zendbit/nim.zfdbms/blob/main/README.md"
   }
 ]
