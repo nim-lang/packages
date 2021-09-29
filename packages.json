@@ -50,7 +50,7 @@
       "numerical",
       "scientific"
     ],
-    "description": "gsl C Api wrapped for nim",
+    "description": "",
     "license": "GPL3",
     "web": "https://github.com/YesDrX/gsl-nim/"
   },
