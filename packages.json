@@ -23804,5 +23804,18 @@
     "license": "BSD",
     "web": "https://github.com/zendbit/nim.zfdbms",
     "doc": "https://github.com/zendbit/nim.zfdbms/blob/main/README.md"
+  },
+  {
+    "name": "selenimum",
+    "url": "https://github.com/myamyu/selenimum",
+    "method": "git",
+    "tags": [
+      "selenium",
+      "web",
+      "scraping"
+    ],
+    "description": "WebDriver for Selenium(selenium-hub).",
+    "license": "MIT",
+    "web": "https://github.com/myamyu/selenimum"
   }
 ]
