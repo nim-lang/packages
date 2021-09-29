@@ -23800,7 +23800,7 @@
       "sqlite",
       "postgre"
     ],
-    "description": "",
+    "description": "Simple database generator, connector and query tools.",
     "license": "BSD",
     "web": "https://github.com/zendbit/nim.zfdbms",
     "doc": "https://github.com/zendbit/nim.zfdbms/blob/main/README.md"
