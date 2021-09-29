@@ -113,6 +113,9 @@ proc check(): int =
       elif not pdata.hasKey("description"):
         echo "E: ", name, " has no description"
         result.inc()
+      elif pdata.hasKey("description") and pdata["description"].str == "":
+        echo "E: ", name, " has empty description"
+        result.inc()
       elif not pdata.hasKey("license"):
         echo "E: ", name, " has no license"
         result.inc()
