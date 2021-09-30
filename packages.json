@@ -11402,6 +11402,19 @@
     "web": "https://github.com/treeform/genny"
   },
   {
+    "name": "hottie",
+    "url": "https://github.com/treeform/hottie",
+    "method": "git",
+    "tags": [
+      "profile",
+      "timing",
+      "performance"
+    ],
+    "description": "Sampling profiler that finds hot paths in your code.",
+    "license": "MIT",
+    "web": "https://github.com/treeform/hottie"
+  },
+  {
     "name": "xdo",
     "url": "https://github.com/juancarlospaco/nim-xdo",
     "method": "git",
