@@ -11394,7 +11394,7 @@
     "method": "git",
     "tags": [
       "glsl",
-      "gpu"
+      "gpu",
       "shader",
       "opengl"
     ],
