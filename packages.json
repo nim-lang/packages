@@ -23844,5 +23844,21 @@
     "description": "WebDriver for Selenium(selenium-hub).",
     "license": "MIT",
     "web": "https://github.com/myamyu/selenimum"
+  },
+  {
+    "name": "chipmunk",
+    "url": "https://github.com/avahe-kellenberger/nim-chipmunk",
+    "method": "git",
+    "tags": [
+      "chipmunk",
+      "chipmunk7",
+      "collision",
+      "gamedev",
+      "game",
+      "wrapper"
+    ],
+    "description": "Bindings for Chipmunk, a fast and lightweight 2D game physics library.",
+    "license": "MIT",
+    "web": "https://github.com/avahe-kellenberger/nim-chipmunk"
   }
 ]
