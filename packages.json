@@ -23844,5 +23844,19 @@
     "description": "WebDriver for Selenium(selenium-hub).",
     "license": "MIT",
     "web": "https://github.com/myamyu/selenimum"
+  },
+  {
+    "name": "feta",
+    "url": "https://github.com/FlorianRauls/office-DSL-thesis",
+    "method": "git",
+    "tags": [
+      "domain-specific-language",
+      "dsl",
+      "office",
+      "automation"
+    ],
+    "description": "A domain-specific for general purpose office automation. The language is embedded in Nim and allows for quick and easy integration of different office software environments.",
+    "license": "MIT",
+    "web": "https://github.com/FlorianRauls/office-DSL-thesis"
   }
 ]
