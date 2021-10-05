@@ -23858,5 +23858,19 @@
     "description": "A domain-specific for general purpose office automation. The language is embedded in Nim and allows for quick and easy integration of different office software environments.",
     "license": "MIT",
     "web": "https://github.com/FlorianRauls/office-DSL-thesis"
+  },
+  {
+    "name": "feta",
+    "url": "https://github.com/FlorianRauls/office-DSL-thesis",
+    "method": "git",
+    "tags": [
+      "office",
+      "automation",
+      "dsl",
+      "domain-specific-language"
+    ],
+    "description": "A domain-specific for general purpose office automation. The language is embedded in Nim and allows for quick and easy integration of different office software environments.",
+    "license": "MIT",
+    "web": "https://github.com/FlorianRauls/office-DSL-thesis"
   }
 ]
