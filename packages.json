@@ -23858,5 +23858,21 @@
     "description": "A domain-specific for general purpose office automation. The language is embedded in Nim and allows for quick and easy integration of different office software environments.",
     "license": "MIT",
     "web": "https://github.com/FlorianRauls/office-DSL-thesis"
+  },
+  {
+    "name": "chipmunk7",
+    "url": "https://github.com/avahe-kellenberger/nim-chipmunk",
+    "method": "git",
+    "tags": [
+      "chipmunk",
+      "chipmunk7",
+      "collision",
+      "gamedev",
+      "game",
+      "wrapper"
+    ],
+    "description": "Bindings for Chipmunk, a fast and lightweight 2D game physics library.",
+    "license": "MIT",
+    "web": "https://github.com/avahe-kellenberger/nim-chipmunk"
   }
 ]
