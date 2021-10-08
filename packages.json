@@ -1750,6 +1750,22 @@
     "web": "https://github.com/PMunch/wxnim"
   },
   {
+    "name": "futhark",
+    "url": "https://github.com/PMunch/futhark",
+    "method": "git",
+    "tags": [
+      "library",
+      "c",
+      "c2nim",
+      "interop",
+      "language",
+      "code"
+    ],
+    "description": "Zero-wrapping C imports in Nim",
+    "license": "MIT",
+    "web": "https://github.com/PMunch/futhark"
+  },
+  {
     "name": "sdl2_nim",
     "url": "https://github.com/Vladar4/sdl2_nim",
     "method": "git",
