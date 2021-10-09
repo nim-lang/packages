@@ -11445,6 +11445,21 @@
     "web": "https://github.com/treeform/hottie"
   },
   {
+    "name": "boxy",
+    "url": "https://github.com/treeform/boxy",
+    "method": "git",
+    "tags": [
+      "GPU",
+      "openGL",
+      "graphics",
+      "atlas",
+      "texture"
+    ],
+    "description": "2D GPU rendering with a tiling atlas.",
+    "license": "MIT",
+    "web": "https://github.com/treeform/boxy"
+  },
+  {
     "name": "xdo",
     "url": "https://github.com/juancarlospaco/nim-xdo",
     "method": "git",
