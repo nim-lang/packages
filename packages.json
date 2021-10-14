@@ -23905,5 +23905,19 @@
     "description": "Bindings for Chipmunk, a fast and lightweight 2D game physics library.",
     "license": "MIT",
     "web": "https://github.com/avahe-kellenberger/nim-chipmunk"
+  },
+  {
+    "name": "easy_sqlite3",
+    "url": "https://github.com/codehz/easy_sqlite3",
+    "method": "git",
+    "tags": [
+      "sqlite",
+      "sqlite3",
+      "database",
+      "arc"
+    ],
+    "description": "Yet another SQLite wrapper for Nim.",
+    "license": "MIT",
+    "web": "https://github.com/codehz/easy_sqlite3"
   }
 ]
