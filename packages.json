@@ -23919,5 +23919,16 @@
     "description": "Yet another SQLite wrapper for Nim.",
     "license": "MIT",
     "web": "https://github.com/codehz/easy_sqlite3"
+  },
+  {
+    "name": "chacha20",
+    "url": "https://git.sr.ht/~ehmry/chacha20",
+    "method": "git",
+    "tags": [
+      "crypto"
+    ],
+    "description": "ChaCha20 stream cipher",
+    "license": "Unlicense",
+    "web": "https://git.sr.ht/~ehmry/chacha20"
   }
 ]
