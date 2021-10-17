@@ -23933,7 +23933,7 @@
   },
   {
     "name": "nimfunge98",
-    "url": "https:///",
+    "url": "https://git.adyxax.org/adyxax/nimfunge98",
     "method": "",
     "tags": [
       "befunge",
@@ -23943,6 +23943,6 @@
     ],
     "description": "A Funge-98 interpreter written in nim",
     "license": "EUPL-1.2",
-    "web": "https:///"
+    "web": "https://git.adyxax.org/adyxax/nimfunge98"
   }
 ]
