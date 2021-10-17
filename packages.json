@@ -23930,5 +23930,19 @@
     "description": "ChaCha20 stream cipher",
     "license": "Unlicense",
     "web": "https://git.sr.ht/~ehmry/chacha20"
+  },
+  {
+    "name": "nimfunge98",
+    "url": "https:///",
+    "method": "",
+    "tags": [
+      "befunge",
+      "esolang",
+      "funge",
+      "interpreter"
+    ],
+    "description": "A Funge-98 interpreter written in nim",
+    "license": "EUPL-1.2",
+    "web": "https:///"
   }
 ]
