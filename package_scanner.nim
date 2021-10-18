@@ -75,6 +75,7 @@ const licenses = [
     "mpl-2.0",
     "mpl 2.0",
     "epl-2.0",
+    "eupl-1.2",
     "wtfpl",
     "libpng",
     "fontconfig",
