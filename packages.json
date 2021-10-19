@@ -14982,17 +14982,18 @@
   },
   {
     "name": "numericalnim",
-    "url": "https://github.com/HugoGranstrom/numericalnim/",
+    "url": "https://github.com/SciNim/numericalnim/",
     "method": "git",
     "tags": [
       "numerical",
       "ode",
       "integration",
-      "scientific"
+      "scientific",
+      "interpolation"
     ],
     "description": "A collection of numerical methods written in Nim",
     "license": "MIT",
-    "web": "https://github.com/HugoGranstrom/numericalnim/"
+    "web": "https://github.com/SciNim/numericalnim/"
   },
   {
     "name": "murmurhash",
