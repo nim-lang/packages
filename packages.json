@@ -15474,20 +15474,6 @@
     "license": "GPLv2"
   },
   {
-    "name": "randpw",
-    "url": "https://github.com/pdrb/nim-randpw",
-    "method": "git",
-    "tags": [
-      "random",
-      "password",
-      "passphrase",
-      "randpw"
-    ],
-    "description": "Random password and passphrase generator",
-    "license": "MIT",
-    "web": "https://github.com/pdrb/nim-randpw"
-  },
-  {
     "name": "timeit",
     "url": "https://github.com/xflywind/timeit",
     "method": "git",
