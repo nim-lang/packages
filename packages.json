@@ -1750,6 +1750,22 @@
     "web": "https://github.com/PMunch/wxnim"
   },
   {
+    "name": "futhark",
+    "url": "https://github.com/PMunch/futhark",
+    "method": "git",
+    "tags": [
+      "library",
+      "c",
+      "c2nim",
+      "interop",
+      "language",
+      "code"
+    ],
+    "description": "Zero-wrapping C imports in Nim",
+    "license": "MIT",
+    "web": "https://github.com/PMunch/futhark"
+  },
+  {
     "name": "sdl2_nim",
     "url": "https://github.com/Vladar4/sdl2_nim",
     "method": "git",
@@ -7590,20 +7606,6 @@
     "web": "https://github.com/dom96/gamelight"
   },
   {
-    "name": "storage",
-    "url": "https://bitbucket.org/moigagoo/storage/",
-    "method": "hg",
-    "tags": [
-      "JavaScript",
-      "Storage",
-      "localStorage",
-      "sessionStorage"
-    ],
-    "description": "Storage, localStorage, and sessionStorage bindigs for Nim's JavaScript backend.",
-    "license": "MIT",
-    "web": "https://bitbucket.org/moigagoo/storage/"
-  },
-  {
     "name": "fontconfig",
     "url": "https://github.com/Parashurama/fontconfig",
     "method": "git",
@@ -11403,6 +11405,20 @@
     "web": "https://github.com/treeform/morepretty"
   },
   {
+    "name": "shady",
+    "url": "https://github.com/treeform/shady",
+    "method": "git",
+    "tags": [
+      "glsl",
+      "gpu",
+      "shader",
+      "opengl"
+    ],
+    "description": "Nim to GPU shader language compiler and supporting utilities.",
+    "license": "MIT",
+    "web": "https://github.com/treeform/shady"
+  },
+  {
     "name": "genny",
     "url": "https://github.com/treeform/genny",
     "method": "git",
@@ -11414,6 +11430,34 @@
     "description": "Generate a shared library and bindings for many languages.",
     "license": "MIT",
     "web": "https://github.com/treeform/genny"
+  },
+  {
+    "name": "hottie",
+    "url": "https://github.com/treeform/hottie",
+    "method": "git",
+    "tags": [
+      "profile",
+      "timing",
+      "performance"
+    ],
+    "description": "Sampling profiler that finds hot paths in your code.",
+    "license": "MIT",
+    "web": "https://github.com/treeform/hottie"
+  },
+  {
+    "name": "boxy",
+    "url": "https://github.com/treeform/boxy",
+    "method": "git",
+    "tags": [
+      "GPU",
+      "openGL",
+      "graphics",
+      "atlas",
+      "texture"
+    ],
+    "description": "2D GPU rendering with a tiling atlas.",
+    "license": "MIT",
+    "web": "https://github.com/treeform/boxy"
   },
   {
     "name": "xdo",
@@ -14938,17 +14982,18 @@
   },
   {
     "name": "numericalnim",
-    "url": "https://github.com/HugoGranstrom/numericalnim/",
+    "url": "https://github.com/SciNim/numericalnim/",
     "method": "git",
     "tags": [
       "numerical",
       "ode",
       "integration",
-      "scientific"
+      "scientific",
+      "interpolation"
     ],
     "description": "A collection of numerical methods written in Nim",
     "license": "MIT",
-    "web": "https://github.com/HugoGranstrom/numericalnim/"
+    "web": "https://github.com/SciNim/numericalnim/"
   },
   {
     "name": "murmurhash",
@@ -23705,5 +23750,226 @@
     "description": "Simple library to draw stuff on a window",
     "license": "MIT",
     "web": "https://github.com/GabrielLasso/drawim"
+  },
+  {
+    "name": "alasgar",
+    "url": "https://github.com/abisxir/alasgar",
+    "method": "git",
+    "tags": [
+      "game",
+      "engine",
+      "3d",
+      "graphics",
+      "gles",
+      "opengl"
+    ],
+    "description": "Game Engine",
+    "license": "MIT",
+    "web": "https://github.com/abisxir/alasgar"
+  },
+  {
+    "name": "tic80",
+    "url": "https://github.com/thisago/tic80",
+    "method": "git",
+    "tags": [
+      "tic80",
+      "games",
+      "js",
+      "bindings"
+    ],
+    "description": "TIC-80 bindings",
+    "license": "MIT",
+    "web": "https://github.com/thisago/tic80"
+  },
+  {
+    "name": "nimcrypt",
+    "url": "https://github.com/napalu/nimcrypt",
+    "method": "git",
+    "tags": [
+      "crypt",
+      "security",
+      "crypto",
+      "md5",
+      "sha-256",
+      "sha-512",
+      "cryptography",
+      "security"
+    ],
+    "description": "Implementation of Unix crypt with support for Crypt-MD5, Crypt-SHA256 and Crypt-SHA512",
+    "license": "MIT",
+    "web": "https://github.com/napalu/nimcrypt",
+    "doc": "https://github.com/napalu/nimcrypt/blob/v0.0.1/README.md"
+  },
+  {
+    "name": "surfing",
+    "url": "https://github.com/momeemt/surfing",
+    "method": "git",
+    "tags": [
+      "base64",
+      "cli",
+      "string",
+      "surfing"
+    ],
+    "description": "Surfing is a highly functional CLI for Base64.",
+    "license": "MIT",
+    "web": "https://github.com/momeemt/surfing"
+  },
+  {
+    "name": "loony",
+    "url": "https://github.com/shayanhabibi/loony",
+    "method": "git",
+    "tags": [
+      "fifo",
+      "queue",
+      "concurrency",
+      "cps"
+    ],
+    "description": "Lock-free threadsafe MPMC with high throughput",
+    "license": "MIT",
+    "web": "https://github.com/shayanhabibi/loony",
+    "doc": "https://github.com/shayanhabibi/loony/blob/main/README.md"
+  },
+  {
+    "name": "matrixsdk",
+    "url": "https://github.com/dylhack/matrix-nim-sdk",
+    "method": "git",
+    "tags": [
+      "matrix",
+      "sdk",
+      "matrix.org",
+      "decentralization",
+      "protocol"
+    ],
+    "description": "A Matrix (https://matrix.org) client and appservice API wrapper for Nim!",
+    "license": "GPL-3.0",
+    "web": "https://github.com/dylhack/matrix-nim-sdk",
+    "doc": "https://github.com/shayanhabibi/dylhack/blob/matrix-nim-sdk/README.md"
+  },
+  {
+    "name": "zfdbms",
+    "url": "https://github.com/zendbit/nim.zfdbms",
+    "method": "git",
+    "tags": [
+      "sql",
+      "dbms",
+      "zendbit",
+      "zendflow",
+      "database",
+      "mysql",
+      "sqlite",
+      "postgre"
+    ],
+    "description": "Simple database generator, connector and query tools.",
+    "license": "BSD",
+    "web": "https://github.com/zendbit/nim.zfdbms",
+    "doc": "https://github.com/zendbit/nim.zfdbms/blob/main/README.md"
+  },
+  {
+    "name": "selenimum",
+    "url": "https://github.com/myamyu/selenimum",
+    "method": "git",
+    "tags": [
+      "selenium",
+      "web",
+      "scraping"
+    ],
+    "description": "WebDriver for Selenium(selenium-hub).",
+    "license": "MIT",
+    "web": "https://github.com/myamyu/selenimum"
+  },
+  {
+    "name": "feta",
+    "url": "https://github.com/FlorianRauls/office-DSL-thesis",
+    "method": "git",
+    "tags": [
+      "domain-specific-language",
+      "dsl",
+      "office",
+      "automation"
+    ],
+    "description": "A domain-specific for general purpose office automation. The language is embedded in Nim and allows for quick and easy integration of different office software environments.",
+    "license": "MIT",
+    "web": "https://github.com/FlorianRauls/office-DSL-thesis"
+  },
+  {
+    "name": "chipmunk7",
+    "url": "https://github.com/avahe-kellenberger/nim-chipmunk",
+    "method": "git",
+    "tags": [
+      "chipmunk",
+      "chipmunk7",
+      "collision",
+      "gamedev",
+      "game",
+      "wrapper"
+    ],
+    "description": "Bindings for Chipmunk, a fast and lightweight 2D game physics library.",
+    "license": "MIT",
+    "web": "https://github.com/avahe-kellenberger/nim-chipmunk"
+  },
+  {
+    "name": "easy_sqlite3",
+    "url": "https://github.com/codehz/easy_sqlite3",
+    "method": "git",
+    "tags": [
+      "sqlite",
+      "sqlite3",
+      "database",
+      "arc"
+    ],
+    "description": "Yet another SQLite wrapper for Nim.",
+    "license": "MIT",
+    "web": "https://github.com/codehz/easy_sqlite3"
+  },
+  {
+    "name": "chacha20",
+    "url": "https://git.sr.ht/~ehmry/chacha20",
+    "method": "git",
+    "tags": [
+      "crypto"
+    ],
+    "description": "ChaCha20 stream cipher",
+    "license": "Unlicense",
+    "web": "https://git.sr.ht/~ehmry/chacha20"
+  },
+  {
+    "name": "nimfunge98",
+    "url": "https://git.adyxax.org/adyxax/nimfunge98",
+    "method": "git",
+    "tags": [
+      "befunge",
+      "esolang",
+      "funge",
+      "interpreter"
+    ],
+    "description": "A Funge-98 interpreter written in nim",
+    "license": "EUPL-1.2",
+    "web": "https://git.adyxax.org/adyxax/nimfunge98"
+  },
+  {
+    "name": "opencolor",
+    "url": "https://github.com/Double-oxygeN/opencolor.nim",
+    "method": "git",
+    "tags": [
+      "color",
+      "colorscheme",
+      "opencolor"
+    ],
+    "description": "Nim bindings for Open color",
+    "license": "MIT",
+    "web": "https://github.com/Double-oxygeN/opencolor.nim"
+  },
+  {
+    "name": "xidoc",
+    "url": "https://github.com/xigoi/xidoc/",
+    "method": "git",
+    "tags": [
+      "markup",
+      "html",
+      "latex"
+    ],
+    "description": "A consistent markup language",
+    "license": "GPL-3.0",
+    "web": "http://xidoc.nim.town/"
   }
 ]
