@@ -10835,18 +10835,6 @@
     "web": "https://github.com/CodeDoes/nimspice"
   },
   {
-    "name": "BN",
-    "url": "https://github.com/MerosCrypto/BN",
-    "method": "git",
-    "tags": [
-      "bignumber",
-      "multiprecision",
-      "imath"
-    ],
-    "description": "A Nim Wrapper of the imath BigNumber library.",
-    "license": "MIT"
-  },
-  {
     "name": "nimbioseq",
     "url": "https://github.com/jhbadger/nimbioseq",
     "method": "git",
