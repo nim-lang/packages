@@ -12466,20 +12466,6 @@
     "web": "https://github.com/icyphox/crap"
   },
   {
-    "name": "algebra",
-    "url": "https://github.com/ijneb/nim-algebra",
-    "method": "git",
-    "tags": [
-      "algebra",
-      "parse",
-      "evaluate",
-      "mathematics"
-    ],
-    "description": "Algebraic expression parser and evaluator",
-    "license": "CC0",
-    "web": "https://github.com/ijneb/nim-algebra"
-  },
-  {
     "name": "biblioteca_guarrilla",
     "url": "https://github.com/juancarlospaco/biblioteca-guarrilla",
     "method": "git",
