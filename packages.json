@@ -2259,18 +2259,6 @@
     "web": "https://github.com/achesak/nim-imghdr"
   },
   {
-    "name": "csv2json",
-    "url": "https://github.com/achesak/nim-csv2json",
-    "method": "git",
-    "tags": [
-      "csv",
-      "json"
-    ],
-    "description": "Convert CSV files to JSON",
-    "license": "MIT",
-    "web": "https://github.com/achesak/nim-csv2json"
-  },
-  {
     "name": "vecmath",
     "url": "https://github.com/barcharcraz/vecmath",
     "method": "git",
