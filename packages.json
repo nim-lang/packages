@@ -15407,20 +15407,6 @@
     "web": "https://github.com/LemonHX/PPM-Nim"
   },
   {
-    "name": "fwrite",
-    "url": "https://github.com/pdrb/nim-fwrite",
-    "method": "git",
-    "tags": [
-      "create,",
-      "file,",
-      "write,",
-      "fwrite"
-    ],
-    "description": "Create files of the desired size",
-    "license": "MIT",
-    "web": "https://github.com/pdrb/nim-fwrite"
-  },
-  {
     "name": "simplediff",
     "url": "https://git.sr.ht/~reesmichael1/nim-simplediff",
     "method": "git",
