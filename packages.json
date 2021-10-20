@@ -12356,6 +12356,20 @@
     "doc": "https://samuelroy.github.io/coco/"
   },
   {
+    "name": "nimetry",
+    "url": "https://github.com/refaqtor/nimetry",
+    "method": "git",
+    "tags": [
+      "plot",
+      "graph",
+      "chart"
+    ],
+    "description": "Plotting module in pure nim",
+    "license": "CC0",
+    "web": "https://github.com/refaqtor/nimetry",
+    "doc": "https://refaqtor.github.io/nimetry"
+  },
+  {
     "name": "snappy",
     "url": "https://github.com/jangko/snappy",
     "method": "git",
@@ -12437,6 +12451,20 @@
     "description": "`rm` files without fear",
     "license": "MIT",
     "web": "https://github.com/icyphox/crap"
+  },
+  {
+    "name": "algebra",
+    "url": "https://github.com/refaqtor/nim-algebra",
+    "method": "git",
+    "tags": [
+      "algebra",
+      "parse",
+      "evaluate",
+      "mathematics"
+    ],
+    "description": "Algebraic expression parser and evaluator",
+    "license": "CC0",
+    "web": "https://github.com/refaqtor/nim-algebra"
   },
   {
     "name": "biblioteca_guarrilla",
