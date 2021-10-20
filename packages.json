@@ -15296,19 +15296,6 @@
     "web": "https://github.com/jiro4989/termnovel"
   },
   {
-    "name": "tcping",
-    "url": "https://github.com/pdrb/tcping",
-    "method": "git",
-    "tags": [
-      "ping,",
-      "tcp,",
-      "tcping"
-    ],
-    "description": "Ping hosts using tcp packets",
-    "license": "MIT",
-    "web": "https://github.com/pdrb/tcping"
-  },
-  {
     "name": "pcgbasic",
     "url": "https://github.com/rockcavera/pcgbasic",
     "method": "git",
