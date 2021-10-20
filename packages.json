@@ -819,20 +819,6 @@
     "web": "https://github.com/fowlmouth/nim-termbox"
   },
   {
-    "name": "linagl",
-    "url": "https://bitbucket.org/BitPuffin/linagl",
-    "method": "hg",
-    "tags": [
-      "library",
-      "opengl",
-      "math",
-      "game"
-    ],
-    "description": "OpenGL math library",
-    "license": "CC0",
-    "web": "https://bitbucket.org/BitPuffin/linagl"
-  },
-  {
     "name": "kwin",
     "url": "https://github.com/reactormonk/nim-kwin",
     "method": "git",
@@ -4203,19 +4189,6 @@
     "description": "RPC implementation for Nim based on msgpack4nim",
     "license": "MIT",
     "web": "https://github.com/milisarge/nimrpc_milis"
-  },
-  {
-    "name": "asyncevents",
-    "url": "https://github.com/tulayang/asyncevents",
-    "method": "git",
-    "tags": [
-      "event",
-      "future",
-      "asyncdispatch"
-    ],
-    "description": "Asynchronous event loop for progaming with MVC",
-    "license": "MIT",
-    "web": "https://github.com/tulayang/asyncevents"
   },
   {
     "name": "nimSHA2",
