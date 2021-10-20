@@ -11650,21 +11650,6 @@
     "license": "MIT"
   },
   {
-    "name": "ec_events",
-    "alias": "mc_events"
-  },
-  {
-    "name": "mc_events",
-    "url": "https://github.com/MerosCrypto/mc_events",
-    "method": "git",
-    "tags": [
-      "events",
-      "emitter"
-    ],
-    "description": "Event Based Programming for Nim.",
-    "license": "MIT"
-  },
-  {
     "name": "wNim",
     "url": "https://github.com/khchen/wNim",
     "method": "git",
