@@ -13210,20 +13210,6 @@
     "web": "https://github.com/c-blake/suggest.git"
   },
   {
-    "name": "gurl",
-    "url": "https://github.com/MaxUNof/gurl",
-    "method": "git",
-    "tags": [
-      "tags",
-      "http",
-      "generating",
-      "url"
-    ],
-    "description": "A little lib for generating URL with args.",
-    "license": "MIT",
-    "web": "https://github.com/MaxUNof/gurl"
-  },
-  {
     "name": "wren",
     "url": "https://github.com/geotre/wren",
     "method": "git",
