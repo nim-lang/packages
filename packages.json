@@ -16701,19 +16701,6 @@
     "web": "https://github.com/jiro4989/gyaric"
   },
   {
-    "name": "skyhash",
-    "url": "https://github.com/Skrylar/skyhash",
-    "method": "git",
-    "tags": [
-      "blake2b",
-      "blake2s",
-      "spookyhash"
-    ],
-    "description": "Collection of hash algorithms ported to Nim",
-    "license": "CC0",
-    "web": "https://github.com/Skrylar/skyhash"
-  },
-  {
     "name": "gimei",
     "url": "https://github.com/mkanenobu/nim-gimei",
     "method": "git",
