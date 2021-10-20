@@ -13549,20 +13549,6 @@
     "web": "https://github.com/muxueqz/remarker_light"
   },
   {
-    "name": "nim-nmap",
-    "url": "https://github.com/blmvxer/nim-nmap",
-    "method": "git",
-    "tags": [
-      "nmap",
-      "networking",
-      "network mapper",
-      "blmvxer"
-    ],
-    "description": "A pure implementaion of nmap for nim.",
-    "license": "MIT",
-    "web": "https://github.com/blmvxer/nim-nmap"
-  },
-  {
     "name": "libravatar",
     "url": "https://github.com/juancarlospaco/nim-libravatar",
     "method": "git",
