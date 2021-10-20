@@ -8530,7 +8530,7 @@
     ],
     "description": "An implementation of the tabu search heuristic in Nim.",
     "license": "BSD-3",
-    "web": "https://github.com/makingspace/syphus-nim"
+    "web": "https://github.com/makingspace/syphus"
   },
   {
     "name": "analytics",
