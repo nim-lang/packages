@@ -15337,18 +15337,6 @@
     "web": "https://github.com/jiro4989/termnovel"
   },
   {
-    "name": "htmlview",
-    "url": "https://github.com/yuchunzhou/htmlview",
-    "method": "git",
-    "tags": [
-      "html",
-      "browser"
-    ],
-    "description": "View the offline or online html page in browser",
-    "license": "MIT",
-    "web": "https://github.com/yuchunzhou/htmlview"
-  },
-  {
     "name": "tcping",
     "url": "https://github.com/pdrb/tcping",
     "method": "git",
