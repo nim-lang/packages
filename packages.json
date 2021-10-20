@@ -806,22 +806,6 @@
     "web": "https://github.com/johnnovak/nim-glfw"
   },
   {
-    "name": "nim-ao",
-    "alias": "ao"
-  },
-  {
-    "name": "ao",
-    "url": "https://github.com/ephja/nim-ao",
-    "method": "git",
-    "tags": [
-      "library",
-      "audio"
-    ],
-    "description": "A high-level libao wrapper",
-    "license": "MIT",
-    "web": "https://github.com/ephja/nim-ao"
-  },
-  {
     "name": "termbox",
     "url": "https://github.com/fowlmouth/nim-termbox",
     "method": "git",
