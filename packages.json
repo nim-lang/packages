@@ -16701,19 +16701,6 @@
     "web": "https://github.com/jiro4989/gyaric"
   },
   {
-    "name": "skbintext",
-    "url": "https://github.com/skrylar/skbintext",
-    "method": "git",
-    "tags": [
-      "hexdigest",
-      "hexadecimal",
-      "binary"
-    ],
-    "description": "Binary <-> text conversion.",
-    "license": "MPL",
-    "web": "https://github.com/Skrylar/skbintext"
-  },
-  {
     "name": "skyhash",
     "url": "https://github.com/Skrylar/skyhash",
     "method": "git",
