@@ -24000,5 +24000,19 @@
     "description": "Converts HTML to Karax representation",
     "license": "MIT",
     "web": "https://github.com/thisago/tokarax"
+  },
+  {
+    "name": "asyncanything",
+    "url": "https://github.com/hamidb80/asyncanything",
+    "method": "git",
+    "tags": [
+      "async",
+      "threads",
+      "fake",
+      "async-threads"
+    ],
+    "description": "make anything async [to be honest, fake async]",
+    "license": "MIT",
+    "web": "https://github.com/hamidb80/asyncanything"
   }
 ]
