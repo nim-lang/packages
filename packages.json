@@ -24008,7 +24008,6 @@
     "tags": [
       "async",
       "threads",
-      "fake",
       "async-threads"
     ],
     "description": "make anything async [to be honest, fake async]",
