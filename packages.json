@@ -23971,5 +23971,18 @@
     "description": "A consistent markup language",
     "license": "GPL-3.0",
     "web": "http://xidoc.nim.town/"
+  },
+  {
+    "name": "tokarax",
+    "url": "https://github.com/thisago/tokarax",
+    "method": "git",
+    "tags": [
+      "html",
+      "converter",
+      "karax"
+    ],
+    "description": "Converts HTML to Karax representation",
+    "license": "MIT",
+    "web": "https://github.com/thisago/tokarax"
   }
 ]
