@@ -24026,5 +24026,18 @@
     "description": "A macro collection for creating DSL in nim",
     "license": "MIT",
     "web": "https://github.com/codehz/dslutils"
+  },
+  {
+    "name": "uncomment",
+    "url": "https://github.com/hamidb80/uncomment",
+    "method": "git",
+    "tags": [
+      "comment",
+      "uncomment",
+      "compile-time"
+    ],
+    "description": "uncomment the codes at the compile time",
+    "license": "MIT",
+    "web": "https://github.com/hamidb80/uncomment"
   }
 ]
