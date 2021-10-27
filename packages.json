@@ -24041,6 +24041,20 @@
     "web": "https://github.com/hamidb80/uncomment"
   },
   {
+    "name": "frida",
+    "url": "https://github.com/ba0f3/frida.nim",
+    "method": "git",
+    "tags": [
+      "frida",
+      "frida-core",
+      "instrument",
+      "reverse-engineering"
+    ],
+    "description": "Frida wrapper",
+    "license": "MIT",
+    "web": "https://github.com/ba0f3/frida.nim"
+  },
+  {
     "name": "scinim",
     "url": "https://github.com/SciNim/scinim",
     "method": "git",
