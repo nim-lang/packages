@@ -24053,5 +24053,17 @@
     "description": "Frida wrapper",
     "license": "MIT",
     "web": "https://github.com/ba0f3/frida.nim"
+  },
+  {
+    "name": "scinim",
+    "url": "https://github.com/SciNim/scinim",
+    "method": "git",
+    "tags": [
+      "scinim",
+      ""
+    ],
+    "description": "The core types and functions of the SciNim ecosystem",
+    "license": "MIT",
+    "web": "https://github.com/SciNim/scinim"
   }
 ]
