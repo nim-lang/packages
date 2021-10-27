@@ -24065,5 +24065,16 @@
     "description": "The core types and functions of the SciNim ecosystem",
     "license": "MIT",
     "web": "https://github.com/SciNim/scinim"
+  },
+  {
+    "name": "db_nimternalsql",
+    "url": "https://github.com/rehartmann/nimternalsql",
+    "method": "git",
+    "tags": [
+      "n"
+    ],
+    "description": "An in-memory SQL database library",
+    "license": "MIT",
+    "web": "https://github.com/rehartmann/nimternalsql"
   }
 ]
