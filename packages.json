@@ -24039,5 +24039,17 @@
     "description": "uncomment the codes at the compile time",
     "license": "MIT",
     "web": "https://github.com/hamidb80/uncomment"
+  },
+  {
+    "name": "scinim",
+    "url": "https://github.com/SciNim/scinim",
+    "method": "git",
+    "tags": [
+      "scinim",
+      ""
+    ],
+    "description": "The core types and functions of the SciNim ecosystem",
+    "license": "MIT",
+    "web": "https://github.com/SciNim/scinim"
   }
 ]
