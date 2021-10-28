@@ -22064,6 +22064,10 @@
     "web": "https://github.com/kerrycobb/bioseq"
   },
   {
+    "name": "bio_seq",
+    "alias": "bioseq"
+  },  
+  {
     "name": "questionable",
     "url": "https://github.com/markspanbroek/questionable",
     "method": "git",
