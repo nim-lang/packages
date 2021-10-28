@@ -22047,10 +22047,6 @@
     "web": "https://github.com/pietroppeter/nimib"
   },
   {
-    "name": "bioseq",
-    "alias": "bio_seq"
-  },
-  {
     "name": "bio_seq",
     "url": "https://github.com/kerrycobb/BioSeq",
     "method": "git",
