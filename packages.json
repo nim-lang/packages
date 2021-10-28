@@ -22047,18 +22047,21 @@
     "web": "https://github.com/pietroppeter/nimib"
   },
   {
-    "name": "bio_seq",
-    "url": "https://github.com/kerrycobb/nim-dna-seq",
+    "name": "bioseq",
+    "url": "https://github.com/kerrycobb/bioseq",
     "method": "git",
     "tags": [
-      "fasta",
+      "sequence",
+      "alignment",
+      "biology",
       "bioinformatics",
       "dna",
+      "rna",
       "iupac"
     ],
     "description": "A Nim library for biological sequence data.",
     "license": "MIT",
-    "web": "https://github.com/kerrycobb/nim-dna-seq"
+    "web": "https://github.com/kerrycobb/bioseq"
   },
   {
     "name": "questionable",
