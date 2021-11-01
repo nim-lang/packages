@@ -24096,5 +24096,19 @@
     "description": "An in-memory SQL database library",
     "license": "MIT",
     "web": "https://github.com/rehartmann/nimternalsql"
+  },
+  {
+    "name": "tecs",
+    "url": "https://github.com/Timofffee/tecs.nim",
+    "method": "git",
+    "tags": [
+      "game",
+      "ecs",
+      "library"
+    ],
+    "description": "Simple ECS implementation for Nim",
+    "license": "MIT",
+    "web": "https://github.com/Timofffee/tecs.nim",
+    "doc": "https://timofffee.github.io/tecs.nim/"
   }
 ]
