@@ -7332,7 +7332,7 @@
   },
   {
     "name": "plotly",
-    "url": "https://github.com/brentp/nim-plotly",
+    "url": "https://github.com/SciNim/nim-plotly",
     "method": "git",
     "tags": [
       "plot",
@@ -7342,7 +7342,7 @@
     ],
     "description": "Nim interface to plotly",
     "license": "MIT",
-    "web": "https://github.com/brentp/nim-plotly"
+    "web": "https://github.com/SciNim/nim-plotly"
   },
   {
     "name": "gnuplot",
