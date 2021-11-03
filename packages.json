@@ -24112,6 +24112,19 @@
     "doc": "https://timofffee.github.io/tecs.nim/"
   },
   {
+    "name": "dataUrl",
+    "url": "https://github.com/thisago/dataUrl",
+    "method": "git",
+    "tags": [
+      "cli",
+      "dataurl",
+      "library"
+    ],
+    "description": "Easily create data urls! CLI included",
+    "license": "MIT",
+    "web": "https://github.com/thisago/dataUrl"
+  },
+  {
     "name": "animatecss",
     "url": "https://github.com/thisago/animatecss",
     "method": "git",
