@@ -24142,11 +24142,12 @@
     "method": "git",
     "tags": [
       "configuration",
+      "config",
       "library",
       "CFG"
     ],
     "description": "A configuration system",
     "license": "BSD-3-Clause",
-    "web": "ssh://git@github.com/vsajip/nim-cfg-lib"
+    "web": "https://docs.red-dove.com/cfg/index.html"
   }
 ]
