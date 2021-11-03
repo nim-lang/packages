@@ -24135,5 +24135,18 @@
     "description": "Easily use Animate.css classes",
     "license": "MIT",
     "web": "https://github.com/thisago/animatecss"
+  },
+  {
+    "name": "config",
+    "url": "ssh://git@github.com/vsajip/nim-cfg-lib",
+    "method": "git",
+    "tags": [
+      "configuration",
+      "library",
+      "CFG"
+    ],
+    "description": "A configuration system",
+    "license": "BSD-3-Clause",
+    "web": "ssh://git@github.com/vsajip/nim-cfg-lib"
   }
 ]
