@@ -24123,5 +24123,17 @@
     "description": "Easily create data urls! CLI included",
     "license": "MIT",
     "web": "https://github.com/thisago/dataUrl"
+  },
+  {
+    "name": "animatecss",
+    "url": "https://github.com/thisago/animatecss",
+    "method": "git",
+    "tags": [
+      "javascript",
+      "animatecss"
+    ],
+    "description": "Easily use Animate.css classes",
+    "license": "MIT",
+    "web": "https://github.com/thisago/animatecss"
   }
 ]
