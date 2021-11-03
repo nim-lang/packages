@@ -1,5 +1,21 @@
 [
   {
+    "name": "riff",
+    "url": "https://github.com/johnnovak/nim-riff",
+    "method": "git",
+    "tags": [
+      "riff",
+      "iff",
+      "interchange file format",
+      "library",
+      "endianness",
+      "io"
+    ],
+    "description": "RIFF file handling for Nim ",
+    "license": "WTFPL",
+    "web": "https://github.com/johnnovak/nim-riff"
+  },
+  {
     "name": "nim0",
     "url": "https://gitlab.com/pmetras/nim0.git",
     "method": "git",
@@ -596,6 +612,22 @@
     "description": "A sinatra-like web framework for Nim.",
     "license": "MIT",
     "web": "https://github.com/dom96/jester"
+  },
+  {
+    "name": "nanim",
+    "url": "https://github.com/ErikWDev/nanim/",
+    "method": "git",
+    "tags": [
+      "animation",
+      "motion-graphics",
+      "opengl",
+      "nanovg",
+      "framework",
+      "2D"
+    ],
+    "description": "Create smooth GPU-accelerated animations that can be previewed live or rendered to videos.",
+    "license": "MIT",
+    "web": "https://github.com/ErikWDev/nanim/"
   },
   {
     "name": "templates",
@@ -7300,7 +7332,7 @@
   },
   {
     "name": "plotly",
-    "url": "https://github.com/brentp/nim-plotly",
+    "url": "https://github.com/SciNim/nim-plotly",
     "method": "git",
     "tags": [
       "plot",
@@ -7310,7 +7342,7 @@
     ],
     "description": "Nim interface to plotly",
     "license": "MIT",
-    "web": "https://github.com/brentp/nim-plotly"
+    "web": "https://github.com/SciNim/nim-plotly"
   },
   {
     "name": "gnuplot",
@@ -22032,17 +22064,21 @@
   },
   {
     "name": "bio_seq",
-    "url": "https://github.com/kerrycobb/nim-dna-seq",
+    "url": "https://github.com/kerrycobb/BioSeq",
     "method": "git",
     "tags": [
       "fasta",
+      "alignment",
+      "sequence", 
+      "biology",
       "bioinformatics",
+      "rna",
       "dna",
       "iupac"
     ],
     "description": "A Nim library for biological sequence data.",
     "license": "MIT",
-    "web": "https://github.com/kerrycobb/nim-dna-seq"
+    "web": "https://github.com/kerrycobb/BioSeq"
   },
   {
     "name": "questionable",
@@ -23971,5 +24007,108 @@
     "description": "A consistent markup language",
     "license": "GPL-3.0",
     "web": "http://xidoc.nim.town/"
+  },
+  {
+    "name": "tokarax",
+    "url": "https://github.com/thisago/tokarax",
+    "method": "git",
+    "tags": [
+      "html",
+      "converter",
+      "karax"
+    ],
+    "description": "Converts HTML to Karax representation",
+    "license": "MIT",
+    "web": "https://github.com/thisago/tokarax"
+  },
+  {
+    "name": "asyncanything",
+    "url": "https://github.com/hamidb80/asyncanything",
+    "method": "git",
+    "tags": [
+      "async",
+      "threads",
+      "async-threads"
+    ],
+    "description": "make anything async [to be honest, fake async]",
+    "license": "MIT",
+    "web": "https://github.com/hamidb80/asyncanything"
+  },
+  {
+    "name": "dslutils",
+    "url": "https://github.com/codehz/dslutils",
+    "method": "git",
+    "tags": [
+      "dsl",
+      "macro",
+      "pattern"
+    ],
+    "description": "A macro collection for creating DSL in nim",
+    "license": "MIT",
+    "web": "https://github.com/codehz/dslutils"
+  },
+  {
+    "name": "uncomment",
+    "url": "https://github.com/hamidb80/uncomment",
+    "method": "git",
+    "tags": [
+      "comment",
+      "uncomment",
+      "compile-time"
+    ],
+    "description": "uncomment the codes at the compile time",
+    "license": "MIT",
+    "web": "https://github.com/hamidb80/uncomment"
+  },
+  {
+    "name": "frida",
+    "url": "https://github.com/ba0f3/frida.nim",
+    "method": "git",
+    "tags": [
+      "frida",
+      "frida-core",
+      "instrument",
+      "reverse-engineering"
+    ],
+    "description": "Frida wrapper",
+    "license": "MIT",
+    "web": "https://github.com/ba0f3/frida.nim"
+  },
+  {
+    "name": "scinim",
+    "url": "https://github.com/SciNim/scinim",
+    "method": "git",
+    "tags": [
+      "scinim",
+      ""
+    ],
+    "description": "The core types and functions of the SciNim ecosystem",
+    "license": "MIT",
+    "web": "https://github.com/SciNim/scinim"
+  },
+  {
+    "name": "db_nimternalsql",
+    "url": "https://github.com/rehartmann/nimternalsql",
+    "method": "git",
+    "tags": [
+      "n"
+    ],
+    "description": "An in-memory SQL database library",
+    "license": "MIT",
+    "web": "https://github.com/rehartmann/nimternalsql"
+  },
+  {
+    "name": "tecs",
+    "url": "https://github.com/Timofffee/tecs.nim",
+    "method": "git",
+    "tags": [
+      "game",
+      "ecs",
+      "library"
+    ],
+    "description": "Simple ECS implementation for Nim",
+    "license": "MIT",
+    "web": "https://github.com/Timofffee/tecs.nim",
+    "doc": "https://timofffee.github.io/tecs.nim/"
   }
 ]
