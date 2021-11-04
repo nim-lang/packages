@@ -24149,5 +24149,18 @@
     "description": "A library for working with the CFG configuration format",
     "license": "BSD-3-Clause",
     "web": "https://docs.red-dove.com/cfg/index.html"
+  },
+  {
+    "name": "odsreader",
+    "url": "https://github.com/dariolah/odsreader",
+    "method": "git",
+    "tags": [
+      "ods",
+      "spreadsheet",
+      "libreoffice"
+    ],
+    "description": "OpenDocument Spreadhseet reader",
+    "license": "MIT",
+    "web": "https://github.com/dariolah/odsreader"
   }
 ]
