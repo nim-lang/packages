@@ -24163,5 +24163,18 @@
     "description": "Gene - a general purpose language",
     "license": "MIT",
     "web": "https://github.com/gcao/gene-new"
+  },
+  {
+    "name": "odsreader",
+    "url": "https://github.com/dariolah/odsreader",
+    "method": "git",
+    "tags": [
+      "ods",
+      "spreadsheet",
+      "libreoffice"
+    ],
+    "description": "OpenDocument Spreadhseet reader",
+    "license": "MIT",
+    "web": "https://github.com/dariolah/odsreader"
   }
 ]
