@@ -24151,6 +24151,20 @@
     "web": "https://docs.red-dove.com/cfg/index.html"
   },
   {
+    "name": "gene",
+    "url": "https://github.com/gcao/gene-new",
+    "method": "git",
+    "tags": [
+      "lisp",
+      "language",
+      "interpreter",
+      "gene"
+    ],
+    "description": "Gene - a general purpose language",
+    "license": "MIT",
+    "web": "https://github.com/gcao/gene-new"
+  },
+  {
     "name": "odsreader",
     "url": "https://github.com/dariolah/odsreader",
     "method": "git",
