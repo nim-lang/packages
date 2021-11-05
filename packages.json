@@ -24151,6 +24151,20 @@
     "web": "https://docs.red-dove.com/cfg/index.html"
   },
   {
+    "name": "htmlToVdom",
+    "url": "https://github.com/C-NERD/htmlToVdom",
+    "method": "git",
+    "tags": [
+      "htmltovdom",
+      "karax",
+      "htmltokarax",
+      "tokarax"
+    ],
+    "description": "Karax extension to convert html in string form to embeddable Karax vdom",
+    "license": "MIT",
+    "web": "https://github.com/C-NERD/htmlToVdom"
+  },
+  {
     "name": "gene",
     "url": "https://github.com/gcao/gene-new",
     "method": "git",
