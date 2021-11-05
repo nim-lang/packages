@@ -24176,5 +24176,21 @@
     "description": "OpenDocument Spreadhseet reader",
     "license": "MIT",
     "web": "https://github.com/dariolah/odsreader"
+  },
+  {
+    "name": "htmlToVdom",
+    "url": "https://github.com/C-NERD/htmlToVdom",
+    "method": "git",
+    "tags": [
+      "Karax",
+      "htmltovdom",
+      "web",
+      "js",
+      "tokarax",
+      "htmltokarx"
+    ],
+    "description": "Karax extension to convert html in string form to embeddable Karax vdom",
+    "license": "MIT",
+    "web": "https://github.com/C-NERD/htmlToVdom"
   }
 ]
