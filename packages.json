@@ -24192,5 +24192,17 @@
     "description": "Karax extension to convert html in string form to embeddable Karax vdom",
     "license": "MIT",
     "web": "https://github.com/C-NERD/htmlToVdom"
+  },
+  {
+    "name": "aossoa",
+    "url": "https://github.com/guibar64/aossoa",
+    "method": "git",
+    "tags": [
+      "sugar",
+      "library"
+    ],
+    "description": "Use a Structure of Arrays like an Array of Structures",
+    "license": "MIT",
+    "web": "https://github.com/guibar64/aossoa"
   }
 ]
