@@ -2217,7 +2217,7 @@
   },
   {
     "name": "bigints",
-    "url": "https://github.com/def-/bigints",
+    "url": "https://github.com/nim-lang/bigints",
     "method": "git",
     "tags": [
       "math",
@@ -2226,7 +2226,7 @@
     ],
     "description": "Arbitrary-precision integers",
     "license": "MIT",
-    "web": "https://github.com/def-/bigints"
+    "web": "https://github.com/nim-lang/bigints"
   },
   {
     "name": "iterutils",
