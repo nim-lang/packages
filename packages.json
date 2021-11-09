@@ -6401,6 +6401,18 @@
     "license": "Unlicense",
     "web": "https://github.com/nigredo-tori/classy"
   },
+   {
+    "name": "pls",
+    "url": "https://github.com/h3rald/pls",
+    "method": "git",
+    "tags": [
+      "task-runner",
+      "cli"
+    ],
+    "description": "A simple but powerful task runner that lets you define your own commands by editing a YAML configuration file.",
+    "license": "MIT",
+    "web": "https://h3rald.com/pls"
+  },
   {
     "name": "mn",
     "url": "https://github.com/h3rald/mn",
