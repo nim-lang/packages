@@ -6401,7 +6401,7 @@
     "license": "Unlicense",
     "web": "https://github.com/nigredo-tori/classy"
   },
-   {
+  {
     "name": "pls",
     "url": "https://github.com/h3rald/pls",
     "method": "git",
@@ -24216,5 +24216,19 @@
     "description": "Use a Structure of Arrays like an Array of Structures",
     "license": "MIT",
     "web": "https://github.com/guibar64/aossoa"
+  },
+  {
+    "name": "textformats",
+    "url": "https://github.com/ggonnella/textformats",
+    "method": "git",
+    "tags": [
+      "parsing",
+      "formats",
+      "textfiles",
+      "library"
+    ],
+    "description": "Easy specification of text formats for structured data",
+    "license": "ISC",
+    "web": "https://github.com/ggonnella/textformats"
   }
 ]
