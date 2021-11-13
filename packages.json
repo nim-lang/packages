@@ -24249,5 +24249,18 @@
     "description": "An experimental deep learning framework",
     "license": "Apache License 2.0",
     "web": "https://github.com/can-lehmann/exprgrad"
+  },
+  {
+    "name": "brainlyextractor",
+    "url": "https://gitlab.com/lurlo/brainlyextractor",
+    "method": "git",
+    "tags": [
+      "library",
+      "scraper",
+      "extractor"
+    ],
+    "description": "Brainly data extractor",
+    "license": "MIT",
+    "web": "https://gitlab.com/lurlo/brainlyextractor"
   }
 ]
