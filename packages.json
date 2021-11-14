@@ -24277,5 +24277,19 @@
     "description": "Duckduckgo search",
     "license": "MIT",
     "web": "https://gitlab.com/lurlo/duckduckgo"
+  },
+  {
+    "name": "scraper",
+    "url": "https://gitlab.com/lurlo/scraper",
+    "method": "git",
+    "tags": [
+      "web",
+      "scraper",
+      "tools",
+      "library"
+    ],
+    "description": "Scraping tools",
+    "license": "MIT",
+    "web": "https://gitlab.com/lurlo/scraper"
   }
 ]
