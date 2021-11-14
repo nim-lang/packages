@@ -24264,6 +24264,21 @@
     "web": "https://gitlab.com/lurlo/brainlyextractor"
   },
   {
+    "name": "duckduckgo",
+    "url": "https://gitlab.com/lurlo/duckduckgo",
+    "method": "git",
+    "tags": [
+      "library",
+      "scraper",
+      "search",
+      "web",
+      "duckduckgo"
+    ],
+    "description": "Duckduckgo search",
+    "license": "MIT",
+    "web": "https://gitlab.com/lurlo/duckduckgo"
+  },
+  {
     "name": "scraper",
     "url": "https://gitlab.com/lurlo/scraper",
     "method": "git",
