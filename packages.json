@@ -980,6 +980,23 @@
     "web": "https://github.com/nim-lang/c2nim"
   },
   {
+    "name": "threading",
+    "url": "https://github.com/nim-lang/threading",
+    "method": "git",
+    "tags": [
+      "threading",
+      "threads",
+      "arc",
+      "orc",
+      "atomics",
+      "channels",
+      "smartptrs"
+    ],
+    "description": "New atomics, thread primitives, channels and atomic refcounting for --gc:arc/orc.",
+    "license": "MIT",
+    "web": "https://github.com/nim-lang/threading"
+  },
+  {
     "name": "pas2nim",
     "url": "https://github.com/nim-lang/pas2nim",
     "method": "git",
