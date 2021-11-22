@@ -6624,6 +6624,23 @@
     "license": "Apache License 2.0",
     "web": "https://github.com/status-im/nim-ranges"
   },
+{
+    "name": "zlib",
+    "url": "https://github.com/status-im/nim-zlib",
+    "method": "git",
+    "tags": [
+      "library",
+      "zlib",
+      "compression",
+      "deflate",
+      "gzip",
+      "rfc1950",
+      "rfc1951"
+    ],
+    "description": "zlib wrapper for Nim",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/status-im/nim-zlib"
+  },
   {
     "name": "json_rpc",
     "url": "https://github.com/status-im/nim-json-rpc",
