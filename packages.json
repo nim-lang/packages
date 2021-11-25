@@ -24337,5 +24337,18 @@
     "description": "Port of Python's html.escape and html.unescape to Nim",
     "license": "LGPL-3.0",
     "web": "https://github.com/AmanoTeam/htmlunescape"
+  },
+  {
+    "name": "localize",
+    "url": "https://github.com/levovix0/localize",
+    "method": "git",
+    "tags": [
+      "translate",
+      "translation",
+      "localization"
+    ],
+    "description": "Compile time localization for applications",
+    "license": "MIT",
+    "web": "https://github.com/levovix0/localize"
   }
 ]
