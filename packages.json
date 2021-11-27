@@ -24363,5 +24363,24 @@
     "description": "Converts a file with Jester routes to Swagger JSON which can be imported in Postman.",
     "license": "MIT",
     "web": "https://github.com/ThomasTJdev/jester2swagger"
+  },
+  {
+    "name": "riimut",
+    "url": "https://github.com/stscoundrel/riimut-nim",
+    "method": "git",
+    "tags": [
+      "runes",
+      "convert",
+      "transform",
+      "futhark",
+      "younger-futhark",
+      "elder-futhark",
+      "futhorc",
+      "futhork",
+      "medieval-runes"
+    ],
+    "description": "Transform latin letters to runes & vice versa. Four runic dialects available.",
+    "license": "MIT",
+    "web": "https://github.com/stscoundrel/riimut-nim"
   }
 ]
