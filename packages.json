@@ -6624,7 +6624,7 @@
     "license": "Apache License 2.0",
     "web": "https://github.com/status-im/nim-ranges"
   },
-{
+  {
     "name": "zlib",
     "url": "https://github.com/status-im/nim-zlib",
     "method": "git",
@@ -24382,5 +24382,19 @@
     "description": "Transform latin letters to runes & vice versa. Four runic dialects available.",
     "license": "MIT",
     "web": "https://github.com/stscoundrel/riimut-nim"
+  },
+  {
+    "name": "bluesoftcosmos",
+    "url": "https://gitlab.com/lurlo/bluesoftcosmos",
+    "method": "git",
+    "tags": [
+      "scraper",
+      "extractor",
+      "food",
+      "barcode"
+    ],
+    "description": "Bluesoft Cosmos extractor",
+    "license": "GPL-3",
+    "web": "https://gitlab.com/lurlo/bluesoftcosmos"
   }
 ]
