@@ -24394,7 +24394,7 @@
       "barcode"
     ],
     "description": "Bluesoft Cosmos extractor",
-    "license": "GPL-3",
+    "license": "gpl-3.0",
     "web": "https://gitlab.com/lurlo/bluesoftcosmos"
   }
 ]
