@@ -1,5 +1,21 @@
 [
   {
+    "name": "riff",
+    "url": "https://github.com/johnnovak/nim-riff",
+    "method": "git",
+    "tags": [
+      "riff",
+      "iff",
+      "interchange file format",
+      "library",
+      "endianness",
+      "io"
+    ],
+    "description": "RIFF file handling for Nim ",
+    "license": "WTFPL",
+    "web": "https://github.com/johnnovak/nim-riff"
+  },
+  {
     "name": "nim0",
     "url": "https://gitlab.com/pmetras/nim0.git",
     "method": "git",
@@ -598,6 +614,22 @@
     "web": "https://github.com/dom96/jester"
   },
   {
+    "name": "nanim",
+    "url": "https://github.com/ErikWDev/nanim/",
+    "method": "git",
+    "tags": [
+      "animation",
+      "motion-graphics",
+      "opengl",
+      "nanovg",
+      "framework",
+      "2D"
+    ],
+    "description": "Create smooth GPU-accelerated animations that can be previewed live or rendered to videos.",
+    "license": "MIT",
+    "web": "https://github.com/ErikWDev/nanim/"
+  },
+  {
     "name": "templates",
     "url": "https://github.com/onionhammer/nim-templates.git",
     "method": "git",
@@ -916,6 +948,23 @@
     "description": "c2nim is a tool to translate Ansi C code to Nim.",
     "license": "MIT",
     "web": "https://github.com/nim-lang/c2nim"
+  },
+  {
+    "name": "threading",
+    "url": "https://github.com/nim-lang/threading",
+    "method": "git",
+    "tags": [
+      "threading",
+      "threads",
+      "arc",
+      "orc",
+      "atomics",
+      "channels",
+      "smartptrs"
+    ],
+    "description": "New atomics, thread primitives, channels and atomic refcounting for --gc:arc/orc.",
+    "license": "MIT",
+    "web": "https://github.com/nim-lang/threading"
   },
   {
     "name": "pas2nim",
@@ -2155,7 +2204,7 @@
   },
   {
     "name": "bigints",
-    "url": "https://github.com/def-/bigints",
+    "url": "https://github.com/nim-lang/bigints",
     "method": "git",
     "tags": [
       "math",
@@ -2164,7 +2213,7 @@
     ],
     "description": "Arbitrary-precision integers",
     "license": "MIT",
-    "web": "https://github.com/def-/bigints"
+    "web": "https://github.com/nim-lang/bigints"
   },
   {
     "name": "iterutils",
@@ -6315,6 +6364,18 @@
     "web": "https://github.com/nigredo-tori/classy"
   },
   {
+    "name": "pls",
+    "url": "https://github.com/h3rald/pls",
+    "method": "git",
+    "tags": [
+      "task-runner",
+      "cli"
+    ],
+    "description": "A simple but powerful task runner that lets you define your own commands by editing a YAML configuration file.",
+    "license": "MIT",
+    "web": "https://h3rald.com/pls"
+  },
+  {
     "name": "mn",
     "url": "https://github.com/h3rald/mn",
     "method": "git",
@@ -6507,6 +6568,23 @@
     "description": "Exploration of various implementations of memory range types",
     "license": "Apache License 2.0",
     "web": "https://github.com/status-im/nim-ranges"
+  },
+{
+    "name": "zlib",
+    "url": "https://github.com/status-im/nim-zlib",
+    "method": "git",
+    "tags": [
+      "library",
+      "zlib",
+      "compression",
+      "deflate",
+      "gzip",
+      "rfc1950",
+      "rfc1951"
+    ],
+    "description": "zlib wrapper for Nim",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/status-im/nim-zlib"
   },
   {
     "name": "json_rpc",
@@ -7245,7 +7323,7 @@
   },
   {
     "name": "plotly",
-    "url": "https://github.com/brentp/nim-plotly",
+    "url": "https://github.com/SciNim/nim-plotly",
     "method": "git",
     "tags": [
       "plot",
@@ -7255,7 +7333,7 @@
     ],
     "description": "Nim interface to plotly",
     "license": "MIT",
-    "web": "https://github.com/brentp/nim-plotly"
+    "web": "https://github.com/SciNim/nim-plotly"
   },
   {
     "name": "gnuplot",
@@ -21799,17 +21877,21 @@
   },
   {
     "name": "bio_seq",
-    "url": "https://github.com/kerrycobb/nim-dna-seq",
+    "url": "https://github.com/kerrycobb/BioSeq",
     "method": "git",
     "tags": [
       "fasta",
+      "alignment",
+      "sequence",
+      "biology",
       "bioinformatics",
+      "rna",
       "dna",
       "iupac"
     ],
     "description": "A Nim library for biological sequence data.",
     "license": "MIT",
-    "web": "https://github.com/kerrycobb/nim-dna-seq"
+    "web": "https://github.com/kerrycobb/BioSeq"
   },
   {
     "name": "questionable",
@@ -23738,5 +23820,334 @@
     "description": "A consistent markup language",
     "license": "GPL-3.0",
     "web": "http://xidoc.nim.town/"
+  },
+  {
+    "name": "tokarax",
+    "url": "https://github.com/thisago/tokarax",
+    "method": "git",
+    "tags": [
+      "html",
+      "converter",
+      "karax"
+    ],
+    "description": "Converts HTML to Karax representation",
+    "license": "MIT",
+    "web": "https://github.com/thisago/tokarax"
+  },
+  {
+    "name": "asyncanything",
+    "url": "https://github.com/hamidb80/asyncanything",
+    "method": "git",
+    "tags": [
+      "async",
+      "threads",
+      "async-threads"
+    ],
+    "description": "make anything async [to be honest, fake async]",
+    "license": "MIT",
+    "web": "https://github.com/hamidb80/asyncanything"
+  },
+  {
+    "name": "dslutils",
+    "url": "https://github.com/codehz/dslutils",
+    "method": "git",
+    "tags": [
+      "dsl",
+      "macro",
+      "pattern"
+    ],
+    "description": "A macro collection for creating DSL in nim",
+    "license": "MIT",
+    "web": "https://github.com/codehz/dslutils"
+  },
+  {
+    "name": "uncomment",
+    "url": "https://github.com/hamidb80/uncomment",
+    "method": "git",
+    "tags": [
+      "comment",
+      "uncomment",
+      "compile-time"
+    ],
+    "description": "uncomment the codes at the compile time",
+    "license": "MIT",
+    "web": "https://github.com/hamidb80/uncomment"
+  },
+  {
+    "name": "frida",
+    "url": "https://github.com/ba0f3/frida.nim",
+    "method": "git",
+    "tags": [
+      "frida",
+      "frida-core",
+      "instrument",
+      "reverse-engineering"
+    ],
+    "description": "Frida wrapper",
+    "license": "MIT",
+    "web": "https://github.com/ba0f3/frida.nim"
+  },
+  {
+    "name": "scinim",
+    "url": "https://github.com/SciNim/scinim",
+    "method": "git",
+    "tags": [
+      "scinim",
+      ""
+    ],
+    "description": "The core types and functions of the SciNim ecosystem",
+    "license": "MIT",
+    "web": "https://github.com/SciNim/scinim"
+  },
+  {
+    "name": "db_nimternalsql",
+    "url": "https://github.com/rehartmann/nimternalsql",
+    "method": "git",
+    "tags": [
+      "n"
+    ],
+    "description": "An in-memory SQL database library",
+    "license": "MIT",
+    "web": "https://github.com/rehartmann/nimternalsql"
+  },
+  {
+    "name": "tecs",
+    "url": "https://github.com/Timofffee/tecs.nim",
+    "method": "git",
+    "tags": [
+      "game",
+      "ecs",
+      "library"
+    ],
+    "description": "Simple ECS implementation for Nim",
+    "license": "MIT",
+    "web": "https://github.com/Timofffee/tecs.nim",
+    "doc": "https://timofffee.github.io/tecs.nim/"
+  },
+  {
+    "name": "dataUrl",
+    "url": "https://github.com/thisago/dataUrl",
+    "method": "git",
+    "tags": [
+      "cli",
+      "dataurl",
+      "library"
+    ],
+    "description": "Easily create data urls! CLI included",
+    "license": "MIT",
+    "web": "https://github.com/thisago/dataUrl"
+  },
+  {
+    "name": "animatecss",
+    "url": "https://github.com/thisago/animatecss",
+    "method": "git",
+    "tags": [
+      "javascript",
+      "animatecss"
+    ],
+    "description": "Easily use Animate.css classes",
+    "license": "MIT",
+    "web": "https://github.com/thisago/animatecss"
+  },
+  {
+    "name": "config",
+    "url": "https://github.com/vsajip/nim-cfg-lib",
+    "method": "git",
+    "tags": [
+      "configuration",
+      "config",
+      "library",
+      "CFG"
+    ],
+    "description": "A library for working with the CFG configuration format",
+    "license": "BSD-3-Clause",
+    "web": "https://docs.red-dove.com/cfg/index.html"
+  },
+  {
+    "name": "gene",
+    "url": "https://github.com/gcao/gene-new",
+    "method": "git",
+    "tags": [
+      "lisp",
+      "language",
+      "interpreter",
+      "gene"
+    ],
+    "description": "Gene - a general purpose language",
+    "license": "MIT",
+    "web": "https://github.com/gcao/gene-new"
+  },
+  {
+    "name": "odsreader",
+    "url": "https://github.com/dariolah/odsreader",
+    "method": "git",
+    "tags": [
+      "ods",
+      "spreadsheet",
+      "libreoffice"
+    ],
+    "description": "OpenDocument Spreadhseet reader",
+    "license": "MIT",
+    "web": "https://github.com/dariolah/odsreader"
+  },
+  {
+    "name": "htmlToVdom",
+    "url": "https://github.com/C-NERD/htmlToVdom",
+    "method": "git",
+    "tags": [
+      "Karax",
+      "htmltovdom",
+      "web",
+      "js",
+      "tokarax",
+      "htmltokarx"
+    ],
+    "description": "Karax extension to convert html in string form to embeddable Karax vdom",
+    "license": "MIT",
+    "web": "https://github.com/C-NERD/htmlToVdom"
+  },
+  {
+    "name": "aossoa",
+    "url": "https://github.com/guibar64/aossoa",
+    "method": "git",
+    "tags": [
+      "sugar",
+      "library"
+    ],
+    "description": "Use a Structure of Arrays like an Array of Structures",
+    "license": "MIT",
+    "web": "https://github.com/guibar64/aossoa"
+  },
+  {
+    "name": "textformats",
+    "url": "https://github.com/ggonnella/textformats",
+    "method": "git",
+    "tags": [
+      "parsing",
+      "formats",
+      "textfiles",
+      "library"
+    ],
+    "description": "Easy specification of text formats for structured data",
+    "license": "ISC",
+    "web": "https://github.com/ggonnella/textformats"
+  },
+  {
+    "name": "exprgrad",
+    "url": "https://github.com/can-lehmann/exprgrad",
+    "method": "git",
+    "tags": [
+      "machine-learning",
+      "nn",
+      "neural",
+      "tensor",
+      "array",
+      "matrix",
+      "ndarray",
+      "dsl",
+      "automatic-differentiation"
+    ],
+    "description": "An experimental deep learning framework",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/can-lehmann/exprgrad"
+  },
+  {
+    "name": "brainlyextractor",
+    "url": "https://gitlab.com/lurlo/brainlyextractor",
+    "method": "git",
+    "tags": [
+      "library",
+      "scraper",
+      "extractor"
+    ],
+    "description": "Brainly data extractor",
+    "license": "MIT",
+    "web": "https://gitlab.com/lurlo/brainlyextractor"
+  },
+  {
+    "name": "duckduckgo",
+    "url": "https://gitlab.com/lurlo/duckduckgo",
+    "method": "git",
+    "tags": [
+      "library",
+      "scraper",
+      "search",
+      "web",
+      "duckduckgo"
+    ],
+    "description": "Duckduckgo search",
+    "license": "MIT",
+    "web": "https://gitlab.com/lurlo/duckduckgo"
+  },
+  {
+    "name": "scraper",
+    "url": "https://gitlab.com/lurlo/scraper",
+    "method": "git",
+    "tags": [
+      "web",
+      "scraper",
+      "tools",
+      "library"
+    ],
+    "description": "Scraping tools",
+    "license": "MIT",
+    "web": "https://gitlab.com/lurlo/scraper"
+  },
+  {
+    "name": "htmlunescape",
+    "url": "https://github.com/AmanoTeam/htmlunescape",
+    "method": "git",
+    "tags": [
+      "html",
+      "text"
+    ],
+    "description": "Port of Python's html.escape and html.unescape to Nim",
+    "license": "LGPL-3.0",
+    "web": "https://github.com/AmanoTeam/htmlunescape"
+  },
+  {
+    "name": "localize",
+    "url": "https://github.com/levovix0/localize",
+    "method": "git",
+    "tags": [
+      "translate",
+      "translation",
+      "localization"
+    ],
+    "description": "Compile time localization for applications",
+    "license": "MIT",
+    "web": "https://github.com/levovix0/localize"
+  },
+  {
+    "name": "jester2swagger",
+    "url": "https://github.com/ThomasTJdev/jester2swagger",
+    "method": "git",
+    "tags": [
+      "jester",
+      "swagger",
+      "postman"
+    ],
+    "description": "Converts a file with Jester routes to Swagger JSON which can be imported in Postman.",
+    "license": "MIT",
+    "web": "https://github.com/ThomasTJdev/jester2swagger"
+  },
+  {
+    "name": "riimut",
+    "url": "https://github.com/stscoundrel/riimut-nim",
+    "method": "git",
+    "tags": [
+      "runes",
+      "convert",
+      "transform",
+      "futhark",
+      "younger-futhark",
+      "elder-futhark",
+      "futhorc",
+      "futhork",
+      "medieval-runes"
+    ],
+    "description": "Transform latin letters to runes & vice versa. Four runic dialects available.",
+    "license": "MIT",
+    "web": "https://github.com/stscoundrel/riimut-nim"
   }
 ]

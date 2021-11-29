@@ -10,7 +10,7 @@ jobs:
       - uses: iffy/install-nim@v3.2.2
         with:
           version: stable
-      - run: nim c -d:ssl -r package_scanner.nim
+      - run: nim c -d:ssl -r -d:release package_scanner.nim
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - run: node ./validate_json.js
