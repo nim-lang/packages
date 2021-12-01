@@ -24163,5 +24163,16 @@
     "description": "Bluesoft Cosmos extractor",
     "license": "gpl-3.0",
     "web": "https://gitlab.com/lurlo/bluesoftcosmos"
+  },
+  {
+    "name": "cliche",
+    "url": "https://github.com/juancarlospaco/cliche",
+    "method": "git",
+    "tags": [
+      "cli"
+    ],
+    "description": "AutoMagic CLI argument parsing is Cliche",
+    "license": "MIT",
+    "web": "https://github.com/juancarlospaco/cliche"
   }
 ]
