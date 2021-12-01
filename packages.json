@@ -6569,7 +6569,7 @@
     "license": "Apache License 2.0",
     "web": "https://github.com/status-im/nim-ranges"
   },
-{
+  {
     "name": "zlib",
     "url": "https://github.com/status-im/nim-zlib",
     "method": "git",
@@ -18574,7 +18574,7 @@
   },
   {
     "name": "stalinsort",
-    "url": "https://github.com/Knaque/stalinsort",
+    "url": "https://github.com/tonogram/stalinsort",
     "method": "git",
     "tags": [
       "algorithm",
@@ -18582,7 +18582,7 @@
     ],
     "description": "A Nim implementation of the Stalin Sort algorithm.",
     "license": "CC0-1.0",
-    "web": "https://github.com/Knaque/stalinsort"
+    "web": "https://github.com/tonogram/stalinsort"
   },
   {
     "name": "finder",
@@ -19450,7 +19450,7 @@
   },
   {
     "name": "jeknil",
-    "url": "https://github.com/Knaque/jeknil",
+    "url": "https://github.com/tonogram/jeknil",
     "method": "git",
     "tags": [
       "web",
@@ -19461,7 +19461,7 @@
     ],
     "description": "A blog post generator for people with priorities.",
     "license": "CC0-1.0",
-    "web": "https://github.com/Knaque/jeknil"
+    "web": "https://github.com/tonogram/jeknil"
   },
   {
     "name": "mime",
@@ -20163,7 +20163,7 @@
   },
   {
     "name": "spinner",
-    "url": "https://github.com/Knaque/spinner",
+    "url": "https://github.com/tonogram/spinner",
     "method": "git",
     "tags": [
       "ui",
@@ -20174,7 +20174,7 @@
     ],
     "description": "Prebuilt components for the Fidget GUI library.",
     "license": "MIT",
-    "web": "https://github.com/Knaque/spinner"
+    "web": "https://github.com/tonogram/spinner"
   },
   {
     "name": "fsnotify",
@@ -20553,7 +20553,7 @@
   },
   {
     "name": "rabbit",
-    "url": "https://github.com/Knaque/rabbit",
+    "url": "https://github.com/tonogram/rabbit",
     "method": "git",
     "tags": [
       "library",
@@ -20563,7 +20563,7 @@
     ],
     "description": "The Hundred Rabbits theme ecosystem brought to Nim.",
     "license": "MIT",
-    "web": "https://github.com/Knaque/rabbit"
+    "web": "https://github.com/tonogram/rabbit"
   },
   {
     "name": "eachdo",
@@ -21443,7 +21443,7 @@
   },
   {
     "name": "syllables",
-    "url": "https://github.com/Knaque/nim-syllables",
+    "url": "https://github.com/tonogram/nim-syllables",
     "method": "git",
     "tags": [
       "library",
@@ -21454,7 +21454,7 @@
     ],
     "description": "Syllable estimation for Nim.",
     "license": "MIT",
-    "web": "https://github.com/Knaque/nim-syllables"
+    "web": "https://github.com/tonogram/nim-syllables"
   },
   {
     "name": "lazyseq",
@@ -22524,7 +22524,7 @@
   },
   {
     "name": "hypixel",
-    "url": "https://github.com/Knaque/hypixel-nim",
+    "url": "https://github.com/tonogram/hypixel-nim",
     "method": "git",
     "tags": [
       "api",
@@ -22535,7 +22535,7 @@
     ],
     "description": "The Hypixel API, in Nim.",
     "license": "MIT",
-    "web": "https://github.com/Knaque/hypixel-nim"
+    "web": "https://github.com/tonogram/hypixel-nim"
   },
   {
     "name": "dik",
@@ -23338,7 +23338,7 @@
   },
   {
     "name": "gnu",
-    "url": "https://github.com/Knaque/gnu",
+    "url": "https://github.com/tonogram/gnu",
     "method": "git",
     "tags": [
       "gamedev",
@@ -23350,7 +23350,7 @@
     ],
     "description": "Godot-Nim Utility - Godot gamedev with Nim",
     "license": "MIT",
-    "web": "https://github.com/Knaque/gnu"
+    "web": "https://github.com/tonogram/gnu"
   },
   {
     "name": "ballpark",
@@ -24149,5 +24149,19 @@
     "description": "Transform latin letters to runes & vice versa. Four runic dialects available.",
     "license": "MIT",
     "web": "https://github.com/stscoundrel/riimut-nim"
+  },
+  {
+    "name": "bluesoftcosmos",
+    "url": "https://gitlab.com/lurlo/bluesoftcosmos",
+    "method": "git",
+    "tags": [
+      "scraper",
+      "extractor",
+      "food",
+      "barcode"
+    ],
+    "description": "Bluesoft Cosmos extractor",
+    "license": "gpl-3.0",
+    "web": "https://gitlab.com/lurlo/bluesoftcosmos"
   }
 ]
