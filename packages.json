@@ -24435,5 +24435,20 @@
     "description": "GitIgnore Generation Interface",
     "license": "Apache-2.0",
     "web": "https://github.com/attakei/gigi"
+  },
+  {
+    "name": "contractabi",
+    "url": "https://github.com/status-im/nim-contract-abi",
+    "method": "git",
+    "tags": [
+      "ethereum",
+      "contract",
+      "abi",
+      "encoding",
+      "decoding"
+    ],
+    "description": "ABI Encoding for Ethereum contracts",
+    "license": "MIT",
+    "web": "https://github.com/status-im/nim-contract-abi"
   }
 ]
