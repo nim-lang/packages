@@ -24450,5 +24450,20 @@
     "description": "ABI Encoding for Ethereum contracts",
     "license": "MIT",
     "web": "https://github.com/status-im/nim-contract-abi"
+  },
+  {
+    "name": "spfun",
+    "url": "https://github.com/c-blake/spfun",
+    "method": "git",
+    "tags": [
+      "statistics",
+      "mathematics",
+      "physics",
+      "special functions",
+      "numerical methods"
+    ],
+    "description": "Special Functions of Stats & Physics",
+    "license": "MIT/ISC",
+    "web": "https://github.com/c-blake/spfun"
   }
 ]
