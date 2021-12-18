@@ -22546,13 +22546,24 @@
   },
   {
     "name": "ansiwave",
-    "url": "https://github.com/oakes/ansiwave",
+    "url": "https://github.com/ansiwave/ansiwave",
     "method": "git",
     "tags": [
       "ansi",
       "midi"
     ],
     "description": "ANSI art + MIDI music editor",
+    "license": "Public Domain"
+  },
+  {
+    "name": "wavecore",
+    "url": "https://github.com/ansiwave/wavecore",
+    "method": "git",
+    "tags": [
+      "database",
+      "networking"
+    ],
+    "description": "Client and server database and networking utils",
     "license": "Public Domain"
   },
   {
