@@ -24520,5 +24520,18 @@
     "description": "A pure nim port of the open simplex noise algorithm from Kurt Spencer",
     "license": "MIT",
     "web": "https://github.com/betofloresbaca/nim-opensimplexnoise"
+  },
+  {
+    "name": "prettyclr",
+    "url": "https://github.com/prettybauble/prettyclr",
+    "method": "git",
+    "tags": [
+      "prettybauble",
+      "prettyclr",
+      "color"
+    ],
+    "description": "Small library for working with colors",
+    "license": "MIT",
+    "web": "https://github.com/prettybauble/prettyclr"
   }
 ]
