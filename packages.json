@@ -24490,5 +24490,21 @@
     "description": "Pure Nim asyncronous driver for Redis DB",
     "license": "MIT",
     "web": "https://github.com/Q-Master/redis.nim"
+  },
+  {
+    "name": "opensimplexnoise",
+    "url": "https://github.com/betofloresbaca/nim-opensimplexnoise",
+    "method": "git",
+    "tags": [
+      "noise",
+      "opensimplexnoise",
+      "noise2d",
+      "noise3d",
+      "noise4d",
+      "library"
+    ],
+    "description": "A pure nim port of the open simplex noise algorithm from Kurt Spencer",
+    "license": "MIT",
+    "web": "https://github.com/betofloresbaca/nim-opensimplexnoise"
   }
 ]
