@@ -24533,5 +24533,16 @@
     "description": "Small library for working with colors",
     "license": "MIT",
     "web": "https://github.com/prettybauble/prettyclr"
+  },
+  {
+    "name": "flower",
+    "url": "https://github.com/dizzyliam/flower",
+    "method": "git",
+    "tags": [
+      "set"
+    ],
+    "description": "A pure Nim bloom filter.",
+    "license": "MIT",
+    "web": "https://github.com/dizzyliam/flower"
   }
 ]
