@@ -24544,5 +24544,17 @@
     "description": "A pure Nim bloom filter.",
     "license": "MIT",
     "web": "https://github.com/dizzyliam/flower"
+  },
+  {
+    "name": "honeycomb",
+    "url": "https://github.com/KatrinaKitten/honeycomb",
+    "method": "git",
+    "tags": [
+      "parsing",
+      "parser-combinator"
+    ],
+    "description": "A dead simple, no-nonsense parser combinator library written in pure Nim.",
+    "license": "GPL-3.0-or-later",
+    "web": "https://github.com/KatrinaKitten/honeycomb"
   }
 ]
