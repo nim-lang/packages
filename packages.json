@@ -24557,5 +24557,19 @@
     "description": "Small library for working with vectors",
     "license": "MIT",
     "web": "https://github.com/prettybauble/prettyvec"
+  },
+  {
+    "name": "mcu_utils",
+    "url": "https://github.com/EmbeddedNim/mcu_utils",
+    "method": "git",
+    "tags": [
+      "embedded",
+      "mcu",
+      "utilities",
+      "microcontroller"
+    ],
+    "description": "Utilities and simple helpers for programming with Nim on embedded MCU devices",
+    "license": "Apache-2.0",
+    "web": "https://github.com/EmbeddedNim/mcu_utils"
   }
 ]
