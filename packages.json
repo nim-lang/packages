@@ -10,7 +10,7 @@
       "tree"
     ],
     "description": "An implementation of Range Queries in Nim",
-    "license": "MIT"
+    "license": "MIT",
     "web": "https://github.com/vanyle/RangeQueriesNim/",
     "doc": "https://vanyle.github.io/RangeQueriesNim/rangequeries.html"
   },
