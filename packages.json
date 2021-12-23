@@ -24586,5 +24586,19 @@
     "description": "Utilities and simple helpers for programming with Nim on embedded MCU devices",
     "license": "Apache-2.0",
     "web": "https://github.com/EmbeddedNim/mcu_utils"
+  },
+  {
+    "name": "nordaudio",
+    "url": "https://github.com/Psirus/nordaudio",
+    "method": "git",
+    "tags": [
+      "sound",
+      "audio",
+      "library",
+      "wrapper"
+    ],
+    "description": "A small wrapper around PortAudio for cross-platform audio IO.",
+    "license": "MIT",
+    "web": "https://github.com/Psirus/nordaudio"
   }
 ]
