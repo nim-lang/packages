@@ -24600,5 +24600,20 @@
     "description": "A small wrapper around PortAudio for cross-platform audio IO.",
     "license": "MIT",
     "web": "https://github.com/Psirus/nordaudio"
+  },
+  {
+    "name": "ogham",
+    "url": "https://github.com/stscoundrel/ogham-nim",
+    "method": "git",
+    "tags": [
+      "ogham",
+      "convert",
+      "transform",
+      "old-irish",
+      "inscriptions"
+    ],
+    "description": "Convert Ogham inscriptions to latin text & vice versa.",
+    "license": "MIT",
+    "web": "https://github.com/stscoundrel/ogham-nim"
   }
 ]
