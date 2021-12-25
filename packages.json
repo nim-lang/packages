@@ -16763,7 +16763,7 @@
       "data-parallelism",
       "threadpool"
     ],
-    "description": "a state-of-the-art ùultithreading runtime",
+    "description": "a state-of-the-art multithreading runtime",
     "license": "MIT or Apache License 2.0",
     "web": "https://github.com/mratsim/weave"
   },
