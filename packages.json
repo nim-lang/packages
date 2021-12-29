@@ -24639,5 +24639,16 @@
     "description": "A dead simple, no-nonsense parser combinator library written in pure Nim.",
     "license": "MPL-2.0",
     "web": "https://github.com/KatrinaKitten/honeycomb"
+  },
+  {
+    "name": "preprod",
+    "url": "https://github.com/j-a-s-d/preprod",
+    "method": "git",
+    "tags": [
+      "preprocessor"
+    ],
+    "description": "preprod",
+    "license": "MIT",
+    "web": "https://github.com/j-a-s-d/preprod"
   }
 ]
