@@ -24628,6 +24628,19 @@
     "web": "https://github.com/stscoundrel/ogham-nim"
   },
   {
+    "name": "honeycomb",
+    "url": "https://github.com/KatrinaKitten/honeycomb",
+    "method": "git",
+    "tags": [
+      "parsing",
+      "parser-combinator",
+      "parser"
+    ],
+    "description": "A dead simple, no-nonsense parser combinator library written in pure Nim.",
+    "license": "MPL-2.0",
+    "web": "https://github.com/KatrinaKitten/honeycomb"
+  },
+  {
     "name": "preprod",
     "url": "https://github.com/j-a-s-d/preprod",
     "method": "git",
