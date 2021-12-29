@@ -3,7 +3,7 @@
     "name": "py2nim",
     "url": "https://github.com/Niminem/Py2Nim",
     "method": "git",
-    "tags":[
+    "tags": [
       "transpiler",
       "python"
     ],
@@ -14,7 +14,7 @@
     "name": "rangequeries",
     "url": "https://github.com/vanyle/RangeQueriesNim",
     "method": "git",
-    "tags":[
+    "tags": [
       "range",
       "query",
       "segment tree",
@@ -24626,5 +24626,18 @@
     "description": "Convert Ogham inscriptions to latin text & vice versa.",
     "license": "MIT",
     "web": "https://github.com/stscoundrel/ogham-nim"
+  },
+  {
+    "name": "honeycomb",
+    "url": "https://github.com/KatrinaKitten/honeycomb",
+    "method": "git",
+    "tags": [
+      "parsing",
+      "parser-combinator",
+      "parser"
+    ],
+    "description": "A dead simple, no-nonsense parser combinator library written in pure Nim.",
+    "license": "MPL-2.0",
+    "web": "https://github.com/KatrinaKitten/honeycomb"
   }
 ]
