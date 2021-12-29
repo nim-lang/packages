@@ -17665,7 +17665,7 @@
     "web": "https://github.com/juancarlospaco/nim-bcra"
   },
   {
-    "name": "socks",
+    "name": "socks5",
     "url": "https://github.com/FedericoCeratto/nim-socks5",
     "method": "git",
     "tags": [
