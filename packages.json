@@ -24662,5 +24662,19 @@
     "description": "Configurable Nim code linter / formatter / style checker with heuristics",
     "license": "GPLv3",
     "web": "https://github.com/FedericoCeratto/nimfmt"
+  },
+  {
+    "name": "NimbleImGui",
+    "url": "https://github.com/qb-0/NimbleImGui",
+    "method": "git",
+    "tags": [
+      "nimble",
+      "gui",
+      "imgui",
+      "ui"
+    ],
+    "description": "ImGui Frontend for Nimble",
+    "license": "MIT",
+    "web": "https://github.com/qb-0/NimbleImGui"
   }
 ]
