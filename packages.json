@@ -24664,6 +24664,20 @@
     "web": "https://github.com/FedericoCeratto/nimfmt"
   },
   {
+    "name": "NimbleImGui",
+    "url": "https://github.com/qb-0/NimbleImGui",
+    "method": "git",
+    "tags": [
+      "nimble",
+      "gui",
+      "imgui",
+      "ui"
+    ],
+    "description": "ImGui Frontend for Nimble",
+    "license": "MIT",
+    "web": "https://github.com/qb-0/NimbleImGui"
+  },
+  {
     "name": "opussum",
     "url": "https://github.com/ire4ever1190/opussum",
     "method": "git",
