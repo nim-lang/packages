@@ -11564,6 +11564,22 @@
     "web": "https://github.com/treeform/boxy"
   },
   {
+    "name": "windy",
+    "url": "https://github.com/treeform/windy",
+    "method": "git",
+    "tags": [
+      "win32",
+      "macOS",
+      "x11",
+      "wayland",
+      "openGL",
+      "graphics"
+    ],
+    "description": "Windowing library for Nim using OS native APIs.",
+    "license": "MIT",
+    "web": "https://github.com/treeform/windy"
+  },
+  {
     "name": "xdo",
     "url": "https://github.com/juancarlospaco/nim-xdo",
     "method": "git",
