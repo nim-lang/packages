@@ -24705,5 +24705,21 @@
     "license": "MIT",
     "web": "https://github.com/ire4ever1190/opussum",
     "doc": "https://tempdocs.netlify.app/opussum/stable/"
+  },
+  {
+    "name": "nimtesseract",
+    "url": "https://github.com/DavideGalilei/nimtesseract",
+    "method": "git",
+    "tags": [
+      "ocr",
+      "nim",
+      "text",
+      "tesseract",
+      "ocr-recognition",
+      "wrapper"
+    ],
+    "description": "A wrapper to Tesseract OCR library for Nim",
+    "license": "Unlicense",
+    "web": "https://github.com/DavideGalilei/nimtesseract"
   }
 ]
