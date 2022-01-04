@@ -24719,7 +24719,7 @@
       "wrapper"
     ],
     "description": "A wrapper to Tesseract OCR library for Nim",
-    "license": "MIT",
+    "license": "Unlicense",
     "web": "https://github.com/DavideGalilei/nimtesseract"
   }
 ]
