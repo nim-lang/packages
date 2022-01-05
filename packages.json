@@ -24721,5 +24721,19 @@
     "description": "A wrapper to Tesseract OCR library for Nim",
     "license": "Unlicense",
     "web": "https://github.com/DavideGalilei/nimtesseract"
+  },
+  {
+    "name": "nimdenter",
+    "url": "https://github.com/xigoi/nimdenter",
+    "method": "git",
+    "tags": [
+      "nim",
+      "indentation",
+      "syntax",
+      "braces"
+    ],
+    "description": "A tool for people who don't like Nim's indentation-based syntax",
+    "license": "GPL-3.0-or-later",
+    "web": "https://github.com/xigoi/nimdenter"
   }
 ]
