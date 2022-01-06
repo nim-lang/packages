@@ -24735,6 +24735,20 @@
     "description": "Jalili <=> Gregorian date converter, originally a copy of http://jdf.scr.ir/",
     "license": "MIT",
     "web": "https://github.com/hamidb80/jalili-nim"
+    "name": "nimdenter",
+    "url": "https://github.com/xigoi/nimdenter",
+    "method": "git",
+    "tags": [
+      "nim",
+      "indentation",
+      "syntax",
+      "braces"
+    ],
+    "description": "A tool for people who don't like Nim's indentation-based syntax",
+    "license": "GPL-3.0-or-later",
+    "web": "https://github.com/xigoi/nimdenter"
+  },
+  {
     "name": "base45",
     "url": "https://git.sr.ht/~ehmry/base45",
     "method": "git",
