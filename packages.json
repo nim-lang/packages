@@ -24723,6 +24723,20 @@
     "web": "https://github.com/DavideGalilei/nimtesseract"
   },
   {
+    "name": "jalali_nim",
+    "url": "https://github.com/hamidb80/jalili-nim",
+    "method": "git",
+    "tags": [
+      "jalili",
+      "gregorian",
+      "date",
+      "converter"
+    ],
+    "description": "Jalili <=> Gregorian date converter, originally a copy of http://jdf.scr.ir/",
+    "license": "MIT",
+    "web": "https://github.com/hamidb80/jalili-nim"
+  },
+  {
     "name": "nimdenter",
     "url": "https://github.com/xigoi/nimdenter",
     "method": "git",
