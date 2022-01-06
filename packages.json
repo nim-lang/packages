@@ -24766,7 +24766,7 @@
     "url": "https://github.com/flenniken/utf8tests",
     "method": "git",
     "tags": [
-      UTF-8",
+      "UTF-8",
       "decoder"
     ],
     "description": "UTF-8 test cases and supporting code.",
