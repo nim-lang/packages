@@ -23107,6 +23107,18 @@
     "web": "https://github.com/beef331/kashae"
   },
   {
+    "name": "zxcvbnim",
+    "url": "https://github.com/jiiihpeeh/zxcvbnim",
+    "method": "git",
+    "tags": [
+      "zxcvbn",
+      "clone"
+    ],
+    "description": "A zxcvbn clone for Nim. Written in Nim",
+    "license": "MIT",
+    "web": "https://github.com/jiiihpeeh/zxcvbnim"
+  },
+  {
     "name": "sumtypes",
     "url": "https://github.com/beef331/sumtypes",
     "method": "git",
