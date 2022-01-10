@@ -12573,7 +12573,11 @@
   },
   {
     "name": "snappy",
-    "url": "https://github.com/jangko/snappy",
+    "alias": "nim-snappy"
+  },
+  {
+    "name": "nim-snappy",
+    "url": "https://github.com/status-im/nim-snappy",
     "method": "git",
     "tags": [
       "compression",
@@ -12582,7 +12586,7 @@
     ],
     "description": "Nim implementation of Snappy compression algorithm",
     "license": "MIT",
-    "web": "https://github.com/jangko/snappy"
+    "web": "https://github.com/status-im/nim-snappy"
   },
   {
     "name": "loadenv",
@@ -24773,5 +24777,32 @@
     "license": "MIT",
     "web": "https://github.com/flenniken/utf8tests/",
     "doc": "https://github.com/flenniken/utf8tests/"
+  },
+  {
+    "name": "xlsxio",
+    "url": "https://github.com/jiiihpeeh/xlsxio-nim",
+    "method": "git",
+    "tags": [
+      "xlsxio",
+      "wrapper"
+    ],
+    "description": "This is a xlsxio wrapper done Nim in mind.",
+    "license": "MIT",
+    "web": "https://github.com/jiiihpeeh/xlsxio-nim"
+  },
+  {
+    "name": "conventional_semver",
+    "url": "https://gitlab.com/SimplyZ/conventional_semver",
+    "method": "git",
+    "tags": [
+      "semver",
+      "conventional",
+      "commits",
+      "git",
+      "version"
+    ],
+    "description": "Calcualte the next semver version given the git log and previous version",
+    "license": "MIT",
+    "web": "https://gitlab.com/SimplyZ/conventional_semver"
   }
 ]
