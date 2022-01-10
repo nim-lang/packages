@@ -24698,6 +24698,19 @@
     "web": "https://github.com/qb-0/NimbleImGui"
   },
   {
+    "name": "tome",
+    "url": "https://github.com/dizzyliam/tome",
+    "method": "git",
+    "tags": [
+      "nlp",
+      "language",
+      "ml"
+    ],
+    "description": "A natural language library.",
+    "license": "MIT",
+    "web": "https://github.com/dizzyliam/tome"
+  },
+  {
     "name": "opussum",
     "url": "https://github.com/ire4ever1190/opussum",
     "method": "git",
