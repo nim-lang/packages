@@ -24766,6 +24766,19 @@
     "web": "https://git.sr.ht/~ehmry/base45"
   },
   {
+    "name": "utf8tests",
+    "url": "https://github.com/flenniken/utf8tests",
+    "method": "git",
+    "tags": [
+      "UTF-8",
+      "decoder"
+    ],
+    "description": "UTF-8 test cases and supporting code.",
+    "license": "MIT",
+    "web": "https://github.com/flenniken/utf8tests/",
+    "doc": "https://github.com/flenniken/utf8tests/"
+  },
+  {
     "name": "xlsxio",
     "url": "https://github.com/jiiihpeeh/xlsxio-nim",
     "method": "git",
