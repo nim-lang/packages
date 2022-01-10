@@ -12573,7 +12573,11 @@
   },
   {
     "name": "snappy",
-    "url": "https://github.com/jangko/snappy",
+    "alias": "nim-snappy"
+  },
+  {
+    "name": "nim-snappy",
+    "url": "https://github.com/status-im/nim-snappy",
     "method": "git",
     "tags": [
       "compression",
@@ -12582,7 +12586,7 @@
     ],
     "description": "Nim implementation of Snappy compression algorithm",
     "license": "MIT",
-    "web": "https://github.com/jangko/snappy"
+    "web": "https://github.com/status-im/nim-snappy"
   },
   {
     "name": "loadenv",
@@ -23103,6 +23107,18 @@
     "web": "https://github.com/beef331/kashae"
   },
   {
+    "name": "zxcvbnim",
+    "url": "https://github.com/jiiihpeeh/zxcvbnim",
+    "method": "git",
+    "tags": [
+      "zxcvbn",
+      "clone"
+    ],
+    "description": "A zxcvbn clone for Nim. Written in Nim",
+    "license": "MIT",
+    "web": "https://github.com/jiiihpeeh/zxcvbnim"
+  },
+  {
     "name": "sumtypes",
     "url": "https://github.com/beef331/sumtypes",
     "method": "git",
@@ -24762,15 +24778,30 @@
     "web": "https://git.sr.ht/~ehmry/base45"
   },
   {
-    "name": "zxcvbnim",
-    "url": "https://github.com/jiiihpeeh/zxcvbnim",
+    "name": "xlsxio",
+    "url": "https://github.com/jiiihpeeh/xlsxio-nim",
     "method": "git",
     "tags": [
-      "zxcvbn",
-      "clone"
+      "xlsxio",
+      "wrapper"
     ],
-    "description": "A zxcvbn clone for Nim. Written in Nim",
+    "description": "This is a xlsxio wrapper done Nim in mind.",
     "license": "MIT",
-    "web": "https://github.com/jiiihpeeh/zxcvbnim"
+    "web": "https://github.com/jiiihpeeh/xlsxio-nim"
+  },
+  {
+    "name": "conventional_semver",
+    "url": "https://gitlab.com/SimplyZ/conventional_semver",
+    "method": "git",
+    "tags": [
+      "semver",
+      "conventional",
+      "commits",
+      "git",
+      "version"
+    ],
+    "description": "Calcualte the next semver version given the git log and previous version",
+    "license": "MIT",
+    "web": "https://gitlab.com/SimplyZ/conventional_semver"
   }
 ]
