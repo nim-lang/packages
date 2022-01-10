@@ -24826,7 +24826,7 @@
       "git",
       "version"
     ],
-    "description": "Calcualte the next semver version given the git log and previous version",
+    "description": "Calculate the next semver version given the git log and previous version",
     "license": "MIT",
     "web": "https://gitlab.com/SimplyZ/conventional_semver"
   }
