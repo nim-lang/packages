@@ -12573,7 +12573,11 @@
   },
   {
     "name": "snappy",
-    "url": "https://github.com/jangko/snappy",
+    "alias": "nim-snappy"
+  },
+  {
+    "name": "nim-snappy",
+    "url": "https://github.com/status-im/nim-snappy",
     "method": "git",
     "tags": [
       "compression",
@@ -12582,7 +12586,7 @@
     ],
     "description": "Nim implementation of Snappy compression algorithm",
     "license": "MIT",
-    "web": "https://github.com/jangko/snappy"
+    "web": "https://github.com/status-im/nim-snappy"
   },
   {
     "name": "loadenv",
@@ -24694,6 +24698,19 @@
     "web": "https://github.com/qb-0/NimbleImGui"
   },
   {
+    "name": "tome",
+    "url": "https://github.com/dizzyliam/tome",
+    "method": "git",
+    "tags": [
+      "nlp",
+      "language",
+      "ml"
+    ],
+    "description": "A natural language library.",
+    "license": "MIT",
+    "web": "https://github.com/dizzyliam/tome"
+  },
+  {
     "name": "opussum",
     "url": "https://github.com/ire4ever1190/opussum",
     "method": "git",
@@ -24762,16 +24779,30 @@
     "web": "https://git.sr.ht/~ehmry/base45"
   },
   {
-    "name": "tome",
-    "url": "https://github.com/dizzyliam/tome",
+    "name": "xlsxio",
+    "url": "https://github.com/jiiihpeeh/xlsxio-nim",
     "method": "git",
     "tags": [
-      "nlp",
-      "language",
-      "ml"
+      "xlsxio",
+      "wrapper"
     ],
-    "description": "A natural language library.",
+    "description": "This is a xlsxio wrapper done Nim in mind.",
     "license": "MIT",
-    "web": "https://github.com/dizzyliam/tome"
+    "web": "https://github.com/jiiihpeeh/xlsxio-nim"
+  },
+  {
+    "name": "conventional_semver",
+    "url": "https://gitlab.com/SimplyZ/conventional_semver",
+    "method": "git",
+    "tags": [
+      "semver",
+      "conventional",
+      "commits",
+      "git",
+      "version"
+    ],
+    "description": "Calcualte the next semver version given the git log and previous version",
+    "license": "MIT",
+    "web": "https://gitlab.com/SimplyZ/conventional_semver"
   }
 ]
