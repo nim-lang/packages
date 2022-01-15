@@ -24821,7 +24821,7 @@
     "method": "git",
     "tags": [
       "grape",
-      "grab",
+      "grab"
     ],
     "description": "grab statement for importing Nimble packages, similar to Groovy's Grape",
     "license": "MIT",
