@@ -24841,5 +24841,19 @@
     "description": "Calculate the next semver version given the git log and previous version",
     "license": "MIT",
     "web": "https://gitlab.com/SimplyZ/conventional_semver"
+  },
+  {
+    "name": "astdot",
+    "url": "https://github.com/Rekihyt/astdot",
+    "method": "git",
+    "tags": [
+      "ast",
+      "dot",
+      "jpg",
+      "tree"
+    ],
+    "description": "Prints a dot graph of a nim ast dumped using the `dumpTree` macro.",
+    "license": "MIT",
+    "web": "https://github.com/Rekihyt/astdot"
   }
 ]
