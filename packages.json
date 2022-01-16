@@ -24855,5 +24855,21 @@
     "description": "Prints a dot graph of a nim ast dumped using the `dumpTree` macro.",
     "license": "MIT",
     "web": "https://github.com/Rekihyt/astdot"
+  },
+  {
+    "name": "nimkov",
+    "url": "https://github.com/bit0r1n/nimkov",
+    "method": "git",
+    "tags": [
+      "markov",
+      "markov-chain",
+      "generator",
+      "sentence",
+      "text"
+    ],
+    "description": "Text generator, based on Markov Chains (Markov text generator)",
+    "license": "MIT",
+    "doc": "https://nimkov.bitor.in",
+    "web": "https://github.com/bit0r1n/nimkov"
   }
 ]
