@@ -24816,6 +24816,18 @@
     "web": "https://github.com/jiiihpeeh/xlsxio-nim"
   },
   {
+    "name": "grab",
+    "url": "https://github.com/hlaaftana/grab",
+    "method": "git",
+    "tags": [
+      "grape",
+      "grab"
+    ],
+    "description": "grab statement for importing Nimble packages, similar to Groovy's Grape",
+    "license": "MIT",
+    "web": "https://github.com/hlaaftana/grab"
+  },
+  {
     "name": "conventional_semver",
     "url": "https://gitlab.com/SimplyZ/conventional_semver",
     "method": "git",
