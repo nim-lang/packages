@@ -24871,5 +24871,21 @@
     "license": "MIT",
     "doc": "https://nimkov.bitor.in",
     "web": "https://github.com/bit0r1n/nimkov"
+  },
+  {
+    "name": "servclip",
+    "url": "https://gitlab.com/lurlo/servclip",
+    "method": "git",
+    "tags": [
+      "clipboard",
+      "remote",
+      "server",
+      "utility",
+      "cli",
+      "tool"
+    ],
+    "description": "Manage your clipboard remotely",
+    "license": "MIT",
+    "web": "https://gitlab.com/lurlo/servclip"
   }
 ]
