@@ -20625,7 +20625,7 @@
   },
   {
     "name": "marggers",
-    "url": "https://github.com/hlaaftana/marggers",
+    "url": "https://github.com/metagn/marggers",
     "method": "git",
     "tags": [
       "markdown",
@@ -20635,8 +20635,8 @@
     ],
     "description": "dialect of Markdown in pure Nim with focus on HTML output",
     "license": "MIT",
-    "web": "https://github.com/hlaaftana/marggers",
-    "doc": "https://hlaaftana.github.io/marggers/marggers.html"
+    "web": "https://github.com/metagn/marggers",
+    "doc": "https://metagn.github.io/marggers/marggers.html"
   },
   {
     "name": "dual",
@@ -21158,7 +21158,7 @@
   },
   {
     "name": "sliceutils",
-    "url": "https://github.com/hlaaftana/sliceutils",
+    "url": "https://github.com/metagn/sliceutils",
     "method": "git",
     "tags": [
       "slice",
@@ -21167,7 +21167,7 @@
     ],
     "description": "Utilities for and extensions to Slice/HSlice",
     "license": "MIT",
-    "web": "https://hlaaftana.github.io/sliceutils/sliceutils.html"
+    "web": "https://metagn.github.io/sliceutils/sliceutils.html"
   },
   {
     "name": "defines",
@@ -21175,7 +21175,7 @@
   },
   {
     "name": "assigns",
-    "url": "https://github.com/hlaaftana/assigns",
+    "url": "https://github.com/metagn/assigns",
     "method": "git",
     "tags": [
       "sugar",
@@ -21185,7 +21185,7 @@
     ],
     "description": "syntax sugar for assignments",
     "license": "MIT",
-    "web": "https://hlaaftana.github.io/assigns/assigns.html"
+    "web": "https://metagn.github.io/assigns/assigns.html"
   },
   {
     "name": "nimics",
@@ -21345,7 +21345,7 @@
   },
   {
     "name": "applicates",
-    "url": "https://github.com/hlaaftana/applicates",
+    "url": "https://github.com/metagn/applicates",
     "method": "git",
     "tags": [
       "sugar",
@@ -21355,7 +21355,7 @@
     ],
     "description": "\"pointers\" to cached AST that instantiate routines when called",
     "license": "MIT",
-    "web": "https://hlaaftana.github.io/applicates/applicates.html"
+    "web": "https://metagn.github.io/applicates/applicates.html"
   },
   {
     "name": "timelog",
@@ -24817,7 +24817,7 @@
   },
   {
     "name": "grab",
-    "url": "https://github.com/hlaaftana/grab",
+    "url": "https://github.com/metagn/grab",
     "method": "git",
     "tags": [
       "grape",
@@ -24825,7 +24825,7 @@
     ],
     "description": "grab statement for importing Nimble packages, similar to Groovy's Grape",
     "license": "MIT",
-    "web": "https://github.com/hlaaftana/grab"
+    "web": "https://github.com/metagn/grab"
   },
   {
     "name": "conventional_semver",
