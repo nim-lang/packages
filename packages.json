@@ -22061,7 +22061,7 @@
   },
   {
     "name": "checkpack",
-    "url": "https://gitlab.com/ArMour85/checkpack",
+    "url": "https://gitlab.com/EchoPouet/checkpack",
     "method": "git",
     "tags": [
       "package",
@@ -22069,7 +22069,7 @@
     ],
     "description": "Tiny library to check if a system package is already installed.",
     "license": "MIT",
-    "web": "https://gitlab.com/ArMour85/checkpack"
+    "web": "https://gitlab.com/EchoPouet/checkpack"
   },
   {
     "name": "xcb",
@@ -23821,7 +23821,7 @@
   },
   {
     "name": "kombinator",
-    "url": "https://gitlab.com/ArMour85/kombinator.git",
+    "url": "https://gitlab.com/EchoPouet/kombinator.git",
     "method": "git",
     "tags": [
       "utility",
@@ -23830,7 +23830,7 @@
     ],
     "description": "Kombinator is a tool to generate commands line from parameters combination from a config file.",
     "license": "MIT",
-    "web": "https://gitlab.com/ArMour85/kombinator.git"
+    "web": "https://gitlab.com/EchoPouet/kombinator.git"
   },
   {
     "name": "watch_for_files",
