@@ -24887,5 +24887,18 @@
     "description": "Manage your clipboard remotely",
     "license": "MIT",
     "web": "https://gitlab.com/lurlo/servclip"
+  },
+  {
+    "name": "slicerator",
+    "url": "https://github.com/beef331/slicerator",
+    "method": "git",
+    "tags": [
+      "iterators",
+      "closure",
+      "slices",
+      "performance"
+    ],
+    "description": "Iterator package aimed at more ergonomic and efficient iterators.",
+    "license": "MIT"
   }
 ]
