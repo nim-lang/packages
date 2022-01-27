@@ -1,5 +1,21 @@
 [
   {
+   "name": "lrparser",
+   "url": "https://github.com/vanyle/lrparser/",
+   "method": "git",
+   "tags":[
+     "parser",
+     "slr",
+     "grammar",
+     "lexer",
+     "tokenizer"
+   ],
+   "description": "A SLR parser written in Nim with compile-time and run-time grammar generation.",
+   "license": "MIT",
+   "doc": "https://vanyle.github.io/lrparser/lrparser.html",
+   "web": "https://github.com/vanyle/lrparser/"
+  },
+  {
     "name": "py2nim",
     "url": "https://github.com/Niminem/Py2Nim",
     "method": "git",
