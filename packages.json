@@ -1,19 +1,19 @@
 [
   {
-   "name": "lrparser",
-   "url": "https://github.com/vanyle/lrparser/",
-   "method": "git",
-   "tags":[
-     "parser",
-     "slr",
-     "grammar",
-     "lexer",
-     "tokenizer"
-   ],
-   "description": "A SLR parser written in Nim with compile-time and run-time grammar generation.",
-   "license": "MIT",
-   "doc": "https://vanyle.github.io/lrparser/lrparser.html",
-   "web": "https://github.com/vanyle/lrparser/"
+    "name": "lrparser",
+    "url": "https://github.com/vanyle/lrparser/",
+    "method": "git",
+    "tags": [
+      "parser",
+      "slr",
+      "grammar",
+      "lexer",
+      "tokenizer"
+    ],
+    "description": "A SLR parser written in Nim with compile-time and run-time grammar generation.",
+    "license": "MIT",
+    "doc": "https://vanyle.github.io/lrparser/lrparser.html",
+    "web": "https://github.com/vanyle/lrparser/"
   },
   {
     "name": "py2nim",
@@ -24916,5 +24916,18 @@
     ],
     "description": "Iterator package aimed at more ergonomic and efficient iterators.",
     "license": "MIT"
+  },
+  {
+    "name": "tinypool",
+    "url": "https://github.com/PhilippMDoerner/TinyPool",
+    "method": "git",
+    "tags": [
+      "database",
+      "sqlite3",
+      "connection-pool"
+    ],
+    "description": "A minimalistic connection pooling package",
+    "license": "MIT",
+    "web": "https://github.com/PhilippMDoerner/TinyPool"
   }
 ]
