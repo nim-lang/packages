@@ -24941,5 +24941,19 @@
     "description": "A simple TLDR pages client",
     "license": "MIT",
     "web": "https://codeberg.org/eqf0/mt/"
+  },
+  {
+    "name": "tradingview",
+    "url": "https://github.com/juancarlospaco/tradingview",
+    "method": "git",
+    "tags": [
+      "tradingview",
+      "trading",
+      "finance",
+      "crypto"
+    ],
+    "description": "TradingView client",
+    "license": "MIT",
+    "web": "https://github.com/juancarlospaco/tradingview"
   }
 ]
