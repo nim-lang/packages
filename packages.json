@@ -24943,6 +24943,21 @@
     "web": "https://codeberg.org/eqf0/mt/"
   },
   {
+    "name": "sbttl",
+    "url": "https://github.com/hamidb80/sbttl",
+    "method": "git",
+    "tags": [
+      "parse",
+      "video",
+      "subtitle",
+      "srt",
+      "vtt"
+    ],
+    "description": "read & write subtitle files with sbttl",
+    "license": "MIT",
+    "web": "https://github.com/hamidb80/sbttl"
+  },
+  {
     "name": "tradingview",
     "url": "https://github.com/juancarlospaco/tradingview",
     "method": "git",
