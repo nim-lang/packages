@@ -24956,5 +24956,19 @@
     "description": "read & write subtitle files with sbttl",
     "license": "MIT",
     "web": "https://github.com/hamidb80/sbttl"
+  },
+  {
+    "name": "tradingview",
+    "url": "https://github.com/juancarlospaco/tradingview",
+    "method": "git",
+    "tags": [
+      "tradingview",
+      "trading",
+      "finance",
+      "crypto"
+    ],
+    "description": "TradingView client",
+    "license": "MIT",
+    "web": "https://github.com/juancarlospaco/tradingview"
   }
 ]
