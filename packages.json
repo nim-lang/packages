@@ -1857,6 +1857,18 @@
     "web": "https://github.com/PMunch/futhark"
   },
   {
+    "name": "ratel",
+    "url": "https://github.com/PMunch/ratel",
+    "method": "git",
+    "tags": [
+      "library",
+      "embedded"
+    ],
+    "description": "Zero-cost abstractions for microcontrollers",
+    "license": "MIT",
+    "web": "https://github.com/PMunch/ratel"
+  },
+  {
     "name": "sdl2_nim",
     "url": "https://github.com/Vladar4/sdl2_nim",
     "method": "git",
