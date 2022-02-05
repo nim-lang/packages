@@ -24970,5 +24970,50 @@
     "description": "TradingView client",
     "license": "MIT",
     "web": "https://github.com/juancarlospaco/tradingview"
+  },
+   {
+    "name": "polymorph",
+    "url": "https://github.com/rlipsc/polymorph",
+    "method": "git",
+    "tags": [
+      "entity-component-system",
+      "ecs",
+      "gamedev",
+      "metaprogramming",
+      "compile-time"
+    ],
+    "description": "An entity-component-system with a focus on compile time optimisation",
+    "license": "Apache-2.0",
+    "web": "https://github.com/rlipsc/polymorph"
+  },  
+  {
+    "name": "polymers",
+    "url": "https://github.com/rlipsc/polymers",
+    "method": "git",
+    "tags": [
+      "entity-component-system",
+      "ecs",
+      "gamedev",
+      "metaprogramming",
+      "compile-time",
+      "polymorph"
+    ],
+    "description": "A library of components and systems for use with the Polymorph ECS",
+    "license": "Apache-2.0",
+    "web": "https://github.com/rlipsc/polymers"
+  },
+  {
+    "name": "glbits",
+    "url": "https://github.com/rlipsc/glbits",
+    "method": "git",
+    "tags": [
+      "opengl",
+      "shaders",
+      "graphics",
+      "sdl2"
+    ],
+    "description": "A light interface and selection of utilities for working with OpenGL and SDL2",
+    "license": "Apache-2.0",
+    "web": "https://github.com/rlipsc/glbits"
   }
 ]
