@@ -25027,5 +25027,21 @@
     "description": "A light interface and selection of utilities for working with OpenGL and SDL2",
     "license": "Apache-2.0",
     "web": "https://github.com/rlipsc/glbits"
+  },
+  {
+    "name": "audius",
+    "url": "https://github.com/ceebeel/audius",
+    "method": "git",
+    "tags": [
+      "library",
+      "api",
+      "wrapper",
+      "audius",
+      "music"
+    ],
+    "description": "Audius is a simple client library for interacting with the Audius free API.",
+    "license": "MIT",
+    "doc": "https://ceebeel.github.io/audius",
+    "web": "https://github.com/ceebeel/audius"
   }
 ]
