@@ -24983,7 +24983,7 @@
     "license": "MIT",
     "web": "https://github.com/juancarlospaco/tradingview"
   },
-   {
+  {
     "name": "polymorph",
     "url": "https://github.com/rlipsc/polymorph",
     "method": "git",
@@ -24997,7 +24997,7 @@
     "description": "An entity-component-system with a focus on compile time optimisation",
     "license": "Apache-2.0",
     "web": "https://github.com/rlipsc/polymorph"
-  },  
+  },
   {
     "name": "polymers",
     "url": "https://github.com/rlipsc/polymers",
@@ -25043,5 +25043,20 @@
     "license": "MIT",
     "doc": "https://ceebeel.github.io/audius",
     "web": "https://github.com/ceebeel/audius"
+  },
+  {
+    "name": "networkutils",
+    "url": "https://github.com/Q-Master/networkutils.nim",
+    "method": "git",
+    "tags": [
+      "networking",
+      "sockets",
+      "async",
+      "sync",
+      "library"
+    ],
+    "description": "Various networking utils",
+    "license": "MIT",
+    "web": "https://github.com/Q-Master/networkutils.nim"
   }
 ]
