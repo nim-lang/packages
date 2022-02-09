@@ -25058,5 +25058,20 @@
     "description": "Various networking utils",
     "license": "MIT",
     "web": "https://github.com/Q-Master/networkutils.nim"
+  },
+  {
+    "name": "tim",
+    "url": "https://github.com/openpeep/tim",
+    "method": "git",
+    "tags": [
+      "template-engine",
+      "emmet",
+      "template",
+      "engine",
+      "tim"
+    ],
+    "description": "Really lightweight template engine",
+    "license": "MIT",
+    "web": "https://github.com/openpeep/tim"
   }
 ]
