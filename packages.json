@@ -25073,5 +25073,19 @@
     "description": "Really lightweight template engine",
     "license": "MIT",
     "web": "https://github.com/openpeep/tim"
+  },
+  {
+    "name": "nyml",
+    "url": "https://github.com/openpeep/nyml",
+    "method": "git",
+    "tags": [
+      "yaml",
+      "yaml-parser",
+      "yml",
+      "nyml"
+    ],
+    "description": "A new awesome nimble package",
+    "license": "MIT",
+    "web": "https://github.com/openpeep/nyml"
   }
 ]
