@@ -25073,5 +25073,18 @@
     "description": "Really lightweight template engine",
     "license": "MIT",
     "web": "https://github.com/openpeep/tim"
+  },
+  {
+    "name": "mdlldk",
+    "url": "https://github.com/rockcavera/nim-mdlldk",
+    "method": "git",
+    "tags": [
+      "library",
+      "dll",
+      "mirc"
+    ],
+    "description": "Dynamic-link libraries (DLLs) Development Kit for mIRC.",
+    "license": "MIT",
+    "web": "https://github.com/rockcavera/nim-mdlldk"
   }
 ]
