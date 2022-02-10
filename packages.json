@@ -25060,6 +25060,23 @@
     "web": "https://github.com/Q-Master/networkutils.nim"
   },
   {
+    "name": "klymene",
+    "url": "https://github.com/georgelemon/clymene",
+    "method": "git",
+    "tags": [
+      "cli",
+      "cli-toolkit",
+      "toolkit",
+      "command-line",
+      "cli-framework",
+      "klymene",
+      "interactive"
+    ],
+    "description": "Create beautiful command line interfaces in Nim. Based on docopt.",
+    "license": "MIT",
+    "web": "https://github.com/georgelemon/clymene"
+  },
+  {
     "name": "tim",
     "url": "https://github.com/openpeep/tim",
     "method": "git",
@@ -25102,20 +25119,15 @@
     "web": "https://github.com/rockcavera/nim-mdlldk"
   },
   {
-    "name": "klymene",
-    "url": "https://github.com/georgelemon/clymene",
+    "name": "uuid4",
+    "url": "https://github.com/vtbassmatt/nim-uuid4",
     "method": "git",
     "tags": [
-      "cli",
-      "cli-toolkit",
-      "toolkit",
-      "command-line",
-      "cli-framework",
-      "klymene",
-      "interactive"
+      "uuid",
+      "library"
     ],
-    "description": "Create beautiful command line interfaces in Nim. Based on docopt.",
+    "description": "UUIDs in pure Nim",
     "license": "MIT",
-    "web": "https://github.com/georgelemon/clymene"
+    "web": "https://github.com/vtbassmatt/nim-uuid4"
   }
 ]
