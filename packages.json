@@ -25060,6 +25060,23 @@
     "web": "https://github.com/Q-Master/networkutils.nim"
   },
   {
+    "name": "klymene",
+    "url": "https://github.com/georgelemon/clymene",
+    "method": "git",
+    "tags": [
+      "cli",
+      "cli-toolkit",
+      "toolkit",
+      "command-line",
+      "cli-framework",
+      "klymene",
+      "interactive"
+    ],
+    "description": "Create beautiful command line interfaces in Nim. Based on docopt.",
+    "license": "MIT",
+    "web": "https://github.com/georgelemon/clymene"
+  },
+  {
     "name": "tim",
     "url": "https://github.com/openpeep/tim",
     "method": "git",
