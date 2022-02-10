@@ -25117,5 +25117,17 @@
     "description": "A fast, multi-threading and disk space efficient package manager for PHP development and production environments",
     "license": "GPL-3.0-or-later",
     "web": "https://github.com/psypac/psypac"
+  },
+  {
+    "name": "uuid4",
+    "url": "https://github.com/vtbassmatt/nim-uuid4",
+    "method": "git",
+    "tags": [
+      "uuid",
+      "library"
+    ],
+    "description": "UUIDs in pure Nim",
+    "license": "MIT",
+    "web": "https://github.com/vtbassmatt/nim-uuid4"
   }
 ]
