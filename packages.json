@@ -25100,5 +25100,22 @@
     "description": "Dynamic-link libraries (DLLs) Development Kit for mIRC.",
     "license": "MIT",
     "web": "https://github.com/rockcavera/nim-mdlldk"
+  },
+  {
+    "name": "psy",
+    "url": "https://github.com/psypac/psypac",
+    "method": "git",
+    "tags": [
+      "php-development",
+      "php",
+      "psy",
+      "psypac",
+      "cli",
+      "developer-tools",
+      "composer-alternative"
+    ],
+    "description": "A fast, multi-threading and disk space efficient package manager for PHP development and production environments",
+    "license": "GPL-3.0-or-later",
+    "web": "https://github.com/psypac/psypac"
   }
 ]
