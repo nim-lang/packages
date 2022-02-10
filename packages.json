@@ -25100,5 +25100,22 @@
     "description": "Dynamic-link libraries (DLLs) Development Kit for mIRC.",
     "license": "MIT",
     "web": "https://github.com/rockcavera/nim-mdlldk"
+  },
+  {
+    "name": "klymene",
+    "url": "https://github.com/georgelemon/clymene",
+    "method": "git",
+    "tags": [
+      "cli",
+      "cli-toolkit",
+      "toolkit",
+      "command-line",
+      "cli-framework",
+      "klymene",
+      "interactive"
+    ],
+    "description": "Create beautiful command line interfaces in Nim. Based on docopt.",
+    "license": "MIT",
+    "web": "https://github.com/georgelemon/clymene"
   }
 ]
