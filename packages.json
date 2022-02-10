@@ -25084,7 +25084,7 @@
       "yml",
       "nyml"
     ],
-    "description": "A new awesome nimble package",
+    "description": "Stupid simple YAML-like implementation from YAML to JsonNode",
     "license": "MIT",
     "web": "https://github.com/openpeep/nyml"
   },
