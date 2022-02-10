@@ -25087,5 +25087,18 @@
     "description": "A new awesome nimble package",
     "license": "MIT",
     "web": "https://github.com/openpeep/nyml"
+  },
+  {
+    "name": "mdlldk",
+    "url": "https://github.com/rockcavera/nim-mdlldk",
+    "method": "git",
+    "tags": [
+      "library",
+      "dll",
+      "mirc"
+    ],
+    "description": "Dynamic-link libraries (DLLs) Development Kit for mIRC.",
+    "license": "MIT",
+    "web": "https://github.com/rockcavera/nim-mdlldk"
   }
 ]
