@@ -25160,5 +25160,20 @@
     "license": "Apache-2.0",
     "web": "https://gitlab.com/artemklevtsov/nim-uap/-/blob/master/README.md",
     "doc": "https://artemklevtsov.gitlab.io/nim-uap/ua.html"
+  },
+  {
+    "name": "madam",
+    "url": "https://github.com/openpeep/madam",
+    "method": "git",
+    "tags": [
+      "frontend",
+      "webserver",
+      "httpbeast",
+      "prototyping",
+      "frontend-development"
+    ],
+    "description": "Local webserver for Design Prototyping and Front-end Development",
+    "license": "MIT",
+    "web": "https://github.com/openpeep/madam"
   }
 ]
