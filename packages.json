@@ -25146,5 +25146,19 @@
     "description": "UUIDs in pure Nim",
     "license": "MIT",
     "web": "https://github.com/vtbassmatt/nim-uuid4"
+  },
+  {
+    "name": "uap",
+    "url": "https://gitlab.com/artemklevtsov/nim-uap",
+    "method": "git",
+    "tags": [
+      "library",
+      "cli",
+      "useragent"
+    ],
+    "description": "Nim implementation of user-agent parser",
+    "license": "Apache-2.0",
+    "web": "https://gitlab.com/artemklevtsov/nim-uap/-/blob/master/README.md",
+    "doc": "https://artemklevtsov.gitlab.io/nim-uap/ua.html"
   }
 ]
