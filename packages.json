@@ -25172,7 +25172,7 @@
       "prototyping",
       "frontend-development"
     ],
-    "description": "A new awesome nimble package",
+    "description": "Local webserver for Design Prototyping and Front-end Development",
     "license": "MIT",
     "web": "https://github.com/openpeep/madam"
   }
