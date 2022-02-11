@@ -25148,6 +25148,24 @@
     "web": "https://github.com/vtbassmatt/nim-uuid4"
   },
   {
+    "name": "watchout",
+    "url": "https://github.com/openpeep/watchout",
+    "method": "git",
+    "tags": [
+      "filesystem",
+      "monitor",
+      "filesystem-monitor",
+      "watcher",
+      "fswatch",
+      "watchout",
+      "reload",
+      "fsnotify"
+    ],
+    "description": "⚡️ Just... yellin' for changes! File System Monitor for devs",
+    "license": "MIT",
+    "web": "https://github.com/openpeep/watchout"
+  },
+  {
     "name": "uap",
     "url": "https://gitlab.com/artemklevtsov/nim-uap",
     "method": "git",
