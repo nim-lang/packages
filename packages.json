@@ -25164,5 +25164,19 @@
     "description": "⚡️ Just... yellin' for changes! File System Monitor for devs",
     "license": "MIT",
     "web": "https://github.com/openpeep/watchout"
+  },
+  {
+    "name": "uap",
+    "url": "https://gitlab.com/artemklevtsov/nim-uap",
+    "method": "git",
+    "tags": [
+      "library",
+      "cli",
+      "useragent"
+    ],
+    "description": "Nim implementation of user-agent parser",
+    "license": "Apache-2.0",
+    "web": "https://gitlab.com/artemklevtsov/nim-uap/-/blob/master/README.md",
+    "doc": "https://artemklevtsov.gitlab.io/nim-uap/ua.html"
   }
 ]
