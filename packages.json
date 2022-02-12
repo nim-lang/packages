@@ -25221,5 +25221,18 @@
     "description": "Full-featured CRC library for Nim.",
     "license": "MIT",
     "web": "https://github.com/sumatoshi/w8crc"
+  },
+  {
+    "name": "discord.nim",
+    "url": "https://github.com/nolanplatt/discord.nim",
+    "method": "git",
+    "tags": [
+      "nim-discord-api",
+      "discord",
+      "discord-library"
+    ],
+    "description": "Powerful wrapper for Discord's API built in Nim",
+    "license": "MIT",
+    "web": "https://github.com/nolanplatt/discord.nim"
   }
 ]
