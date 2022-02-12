@@ -25208,5 +25208,18 @@
     "description": "Drag and drop source / target",
     "license": "GPL-3.0-only",
     "web": "https://github.com/adokitkat/dnd"
+  },
+  {
+    "name": "w8crc",
+    "url": "https://github.com/sumatoshi/w8crc",
+    "method": "git",
+    "tags": [
+      "crc",
+      "checksum",
+      "library"
+    ],
+    "description": "Full-featured CRC library for Nim.",
+    "license": "MIT",
+    "web": "https://github.com/sumatoshi/w8crc"
   }
 ]
