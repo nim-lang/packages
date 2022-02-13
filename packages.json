@@ -25234,5 +25234,18 @@
     "description": "Basic calculator in Nim",
     "license": "MIT",
     "web": "https://github.com/RainbowAsteroids/crowncalc"
+  },
+  {
+    "name": "binance",
+    "url": "https://github.com/juancarlospaco/binance",
+    "method": "git",
+    "tags": [
+      "binance",
+      "tradingview",
+      "finance"
+    ],
+    "description": "Binance Client",
+    "license": "MIT",
+    "web": "https://github.com/juancarlospaco/binance"
   }
 ]
