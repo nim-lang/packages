@@ -25234,5 +25234,18 @@
     "description": "Powerful wrapper for Discord's API built in Nim",
     "license": "MIT",
     "web": "https://github.com/nolanplatt/discord.nim"
+  },
+  {
+    "name": "crowncalc",
+    "url": "https://github.com/RainbowAsteroids/crowncalc",
+    "method": "git",
+    "tags": [
+      "calculator",
+      "sdl",
+      "library"
+    ],
+    "description": "Basic calculator in Nim",
+    "license": "MIT",
+    "web": "https://github.com/RainbowAsteroids/crowncalc"
   }
 ]
