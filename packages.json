@@ -25249,5 +25249,19 @@
     "description": "a convention mainly created for `createThread` proc",
     "license": "MIT",
     "web": "https://github.com/hamidb80/packedArgs"
+  },
+  {
+    "name": "nim_chachac20_poly1305",
+    "url": "https://github.com/lantos-lgtm/nim_chacha20_poly1305",
+    "method": "git",
+    "tags": [
+      "chacha20",
+      "poly1305",
+      "chacha20_poly1305",
+      "xchacha20_poly1305"
+    ],
+    "description": "xchacha20_poly1305, chacha20, poly1305",
+    "license": "MIT",
+    "web": "https://github.com/lantos-lgtm/nim_chacha20_poly1305"
   }
 ]
