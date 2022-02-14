@@ -8575,7 +8575,7 @@
   },
   {
     "name": "fugitive",
-    "url": "https://github.com/citycide/fugitive",
+    "url": "https://github.com/haltcase/fugitive",
     "method": "git",
     "tags": [
       "git",
@@ -8587,7 +8587,7 @@
     ],
     "description": "Simple command line tool to make git more intuitive, along with useful GitHub addons.",
     "license": "MIT",
-    "web": "https://github.com/citycide/fugitive"
+    "web": "https://github.com/haltcase/fugitive"
   },
   {
     "name": "dbg",
@@ -9148,7 +9148,7 @@
   },
   {
     "name": "cascade",
-    "url": "https://github.com/citycide/cascade",
+    "url": "https://github.com/haltcase/cascade",
     "method": "git",
     "tags": [
       "macro",
@@ -9159,7 +9159,7 @@
     ],
     "description": "Method & assignment cascades for Nim, inspired by Smalltalk & Dart.",
     "license": "MIT",
-    "web": "https://github.com/citycide/cascade"
+    "web": "https://github.com/haltcase/cascade"
   },
   {
     "name": "chrono",
@@ -10579,7 +10579,7 @@
   },
   {
     "name": "glob",
-    "url": "https://github.com/citycide/glob",
+    "url": "https://github.com/haltcase/glob",
     "method": "git",
     "tags": [
       "glob",
@@ -10591,7 +10591,7 @@
     ],
     "description": "Pure library for matching file paths against Unix style glob patterns.",
     "license": "MIT",
-    "web": "https://github.com/citycide/glob"
+    "web": "https://github.com/haltcase/glob"
   },
   {
     "name": "lda",
