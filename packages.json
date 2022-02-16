@@ -25266,5 +25266,22 @@
     "description": "xchacha20_poly1305, chacha20, poly1305",
     "license": "MIT",
     "web": "https://github.com/lantos-lgtm/nim_chacha20_poly1305"
+  },
+  {
+    "name": "otplib",
+    "url": "https://github.com/dimspith/otplib",
+    "method": "git",
+    "tags": [
+      "otp",
+      "totp",
+      "hotp",
+      "two-factor-authentication",
+      "2fa",
+      "one-time-password",
+      "mfa"
+    ],
+    "description": "Easy to use OTP library for Nim",
+    "license": "Unlicense",
+    "web": "https://github.com/dimspith/otplib"
   }
 ]
