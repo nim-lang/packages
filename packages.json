@@ -25283,5 +25283,19 @@
     "description": "Easy to use OTP library for Nim",
     "license": "Unlicense",
     "web": "https://github.com/dimspith/otplib"
+  },
+  {
+    "name": "dogapi",
+    "url": "https://github.com/thexxiv/dogapi-nim",
+    "method": "git",
+    "tags": [
+      "api-client",
+      "api-wrapper",
+      "dogapi"
+    ],
+    "description": "Dog API client",
+    "license": "Apache-2.0",
+    "web": "https://github.com/thexxiv/dogapi-nim",
+    "doc": "https://thexxiv.github.io/dogapi-nim"
   }
 ]
