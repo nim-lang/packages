@@ -25300,6 +25300,23 @@
     "web": "https://github.com/metagn/shorteststring"
   },
   {
+    "name": "variantsugar",
+    "url": "https://github.com/metagn/variantsugar",
+    "method": "git",
+    "tags": [
+      "object",
+      "variants",
+      "sum-types",
+      "macro",
+      "pragma",
+      "adt",
+      "union"
+    ],
+    "description": "utility macros mostly for object variants",
+    "license": "MIT",
+    "web": "https://github.com/metagn/variantsugar"
+  },
+  {
     "name": "dogapi",
     "url": "https://github.com/thexxiv/dogapi-nim",
     "method": "git",
