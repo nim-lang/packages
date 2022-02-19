@@ -25312,5 +25312,17 @@
     "license": "Apache-2.0",
     "web": "https://github.com/thexxiv/dogapi-nim",
     "doc": "https://thexxiv.github.io/dogapi-nim"
+  },
+  {
+    "name": "cloudbet",
+    "url": "https://github.com/juancarlospaco/cloudbet",
+    "method": "git",
+    "tags": [
+      "casino",
+      "crypto"
+    ],
+    "description": "Cloudbet Virtual Crypto Casino API Client",
+    "license": "MIT",
+    "web": "https://github.com/juancarlospaco/cloudbet"
   }
 ]
