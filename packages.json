@@ -25312,5 +25312,22 @@
     "license": "Apache-2.0",
     "web": "https://github.com/thexxiv/dogapi-nim",
     "doc": "https://thexxiv.github.io/dogapi-nim"
+  },
+  {
+    "name": "toktok",
+    "url": "https://github.com/openpeep/toktok",
+    "method": "git",
+    "tags": [
+      "lexer",
+      "token",
+      "tokenizer",
+      "lex",
+      "toktok",
+      "lexbase",
+      "macros"
+    ],
+    "description": "Generic tokenizer written in Nim language 👑 Powered by Nim's Macros",
+    "license": "MIT",
+    "web": "https://github.com/openpeep/toktok"
   }
 ]
