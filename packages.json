@@ -25371,5 +25371,16 @@
     "description": "Tool to download dogs images",
     "license": "Apache-2.0",
     "web": "https://github.com/thexxiv/dogapi-cli"
+  },
+  {
+    "name": "goto",
+    "url": "https:///",
+    "method": "",
+    "tags": [
+      "sugar"
+    ],
+    "description": "The goto statement of Nim.",
+    "license": "MIT",
+    "web": "https:///"
   }
 ]
