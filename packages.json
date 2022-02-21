@@ -25223,6 +25223,18 @@
     "web": "https://github.com/sumatoshi/w8crc"
   },
   {
+    "name": "cloudbet",
+    "url": "https://github.com/juancarlospaco/cloudbet",
+    "method": "git",
+    "tags": [
+      "casino",
+      "crypto"
+    ],
+    "description": "Cloudbet Virtual Crypto Casino API Client",
+    "license": "MIT",
+    "web": "https://github.com/juancarlospaco/cloudbet"
+  },
+  {
     "name": "crowncalc",
     "url": "https://github.com/RainbowAsteroids/crowncalc",
     "method": "git",
