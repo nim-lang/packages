@@ -25223,6 +25223,18 @@
     "web": "https://github.com/sumatoshi/w8crc"
   },
   {
+    "name": "cloudbet",
+    "url": "https://github.com/juancarlospaco/cloudbet",
+    "method": "git",
+    "tags": [
+      "casino",
+      "crypto"
+    ],
+    "description": "Cloudbet Virtual Crypto Casino API Client",
+    "license": "MIT",
+    "web": "https://github.com/juancarlospaco/cloudbet"
+  },
+  {
     "name": "crowncalc",
     "url": "https://github.com/RainbowAsteroids/crowncalc",
     "method": "git",
@@ -25314,15 +25326,33 @@
     "doc": "https://thexxiv.github.io/dogapi-nim"
   },
   {
-    "name": "cloudbet",
-    "url": "https://github.com/juancarlospaco/cloudbet",
+    "name": "toktok",
+    "url": "https://github.com/openpeep/toktok",
     "method": "git",
     "tags": [
-      "casino",
-      "crypto"
+      "lexer",
+      "token",
+      "tokenizer",
+      "lex",
+      "toktok",
+      "lexbase",
+      "macros"
     ],
-    "description": "Cloudbet Virtual Crypto Casino API Client",
+    "description": "Generic tokenizer written in Nim language 👑 Powered by Nim's Macros",
     "license": "MIT",
-    "web": "https://github.com/juancarlospaco/cloudbet"
+    "web": "https://github.com/openpeep/toktok"
+  },
+  {
+    "name": "dogapi_cli",
+    "url": "https://github.com/thexxiv/dogapi-cli",
+    "method": "git",
+    "tags": [
+      "images",
+      "cli",
+      "dogapi"
+    ],
+    "description": "Tool to download dogs images",
+    "license": "Apache-2.0",
+    "web": "https://github.com/thexxiv/dogapi-cli"
   }
 ]
