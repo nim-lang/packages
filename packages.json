@@ -25371,5 +25371,20 @@
     "description": "Tool to download dogs images",
     "license": "Apache-2.0",
     "web": "https://github.com/thexxiv/dogapi-cli"
+  },
+  {
+    "name": "nofi",
+    "url": "https://github.com/ct-clmsn/nofi/",
+    "method": "git",
+    "tags": [
+      "hpc",
+      "supercomputing",
+      "libfabric",
+      "rdma",
+      "distributed-computing"
+    ],
+    "description": "Nim wrapper for rofi, open fabrics interface; provides distributed computing interface for high performance computing (HPC) environments",
+    "license": "Boost",
+    "web": "https://github.com/ct-clmsn/nofi/"
   }
 ]
