@@ -25371,5 +25371,16 @@
     "description": "Tool to download dogs images",
     "license": "Apache-2.0",
     "web": "https://github.com/thexxiv/dogapi-cli"
+  },
+  {
+    "name": "helloworld",
+    "url": "https:///",
+    "method": "",
+    "tags": [
+      "no"
+    ],
+    "description": "Hello world for Nim",
+    "license": "MIT",
+    "web": "https:///"
   }
 ]
