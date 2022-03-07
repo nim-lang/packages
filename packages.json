@@ -25371,5 +25371,21 @@
     "description": "Tool to download dogs images",
     "license": "Apache-2.0",
     "web": "https://github.com/thexxiv/dogapi-cli"
+  },
+  {
+    "name": "iterrr",
+    "url": "https://github.com/hamidb80/steps",
+    "method": "git",
+    "tags": [
+      "iterator",
+      "iterate",
+      "iterating",
+      "functional",
+      "lazy",
+      "library"
+    ],
+    "description": "iterate faster. functional style, lazy like, extensible iterator library",
+    "license": "MIT",
+    "web": "https://github.com/hamidb80/steps"
   }
 ]
