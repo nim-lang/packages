@@ -25390,7 +25390,7 @@
   },
   {
     "name": "SLAP",
-    "https://github.com/bichanna/slap",
+    "url": "https://github.com/bichanna/slap",
     "method": "git",
     "tags": [
       "language",
