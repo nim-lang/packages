@@ -25387,7 +25387,7 @@
     "description": "iterate faster. functional style, lazy like, extensible iterator library",
     "license": "MIT",
     "web": "https://github.com/hamidb80/steps"
-  }
+  },
   {
     "name": "SLAP",
     "https://github.com/bichanna/slap",
