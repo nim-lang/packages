@@ -25388,4 +25388,17 @@
     "license": "MIT",
     "web": "https://github.com/hamidb80/steps"
   }
+  {
+    "name": "SLAP",
+    "https://github.com/bichanna/slap",
+    "method": "git",
+    "tags": [
+      "language",
+      "interpreter"
+    ],
+    "description": "A SLow And Powerless programming language written in Nim",
+    "license": "MIT",
+    "web": "https://github.com/bichanna/slap/blob/master/docs/index.md#slap"
+    "doc": "https://github.com/bichanna/slap/blob/master/docs/index.md#syntax"
+  }
 ]
