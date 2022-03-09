@@ -25400,5 +25400,19 @@
     "license": "MIT",
     "web": "https://github.com/bichanna/slap/blob/master/docs/index.md#slap",
     "doc": "https://github.com/bichanna/slap/blob/master/docs/index.md#syntax"
+  },
+  {
+    "name": "logit",
+    "url": "https://github.com/Miqueas/Logit",
+    "method": "git",
+    "tags": [
+      "library",
+      "log",
+      "logs",
+      "logging"
+    ],
+    "description": "Dependency-free, cross-platform and small logging library for Nim, with a simple and comfortable API",
+    "license": "Zlib",
+    "web": "https://github.com/Miqueas/Logit"
   }
 ]
