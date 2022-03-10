@@ -25414,5 +25414,19 @@
     "description": "Dependency-free, cross-platform and small logging library for Nim, with a simple and comfortable API",
     "license": "Zlib",
     "web": "https://github.com/Miqueas/Logit"
+  },
+  {
+    "name": "sos",
+    "url": "https://github.com/ct-clmsn/nim-sos/",
+    "method": "git",
+    "tags": [
+      "hpc",
+      "supercomputing",
+      "distributed-computing",
+      "openshmem"
+    ],
+    "description": "Nim wrapper for Sandia OpenSHMEM, a high performance computing (HPC), distributed shared symmetric memory library",
+    "license": "boost",
+    "web": "https://github.com/ct-clmsn/nim-sos/"
   }
 ]
