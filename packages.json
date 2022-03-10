@@ -25384,7 +25384,7 @@
       "distributed-computing"
     ],
     "description": "Nim wrapper for rofi, open fabrics interface; provides distributed computing interface for high performance computing (HPC) environments",
-    "license": "Boost",
+    "license": "boost",
     "web": "https://github.com/ct-clmsn/nofi/"
   }
 ]
