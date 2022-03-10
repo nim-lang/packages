@@ -25431,6 +25431,7 @@
     "web": "https://github.com/Miqueas/Logit"
   },
   {
+
       "name": "remizstd",
       "url": "https://gitlab.com/RemiliaScarlet/remizstd/",
       "method": "git",
@@ -25445,6 +25446,8 @@
       "license": "GPLv3.0",
       "web": "https://chiselapp.com/user/MistressRemilia/repository/RemiZstd/home",
       "doc": "https://chiselapp.com/user/MistressRemilia/repository/RemiZstd/doc/trunk/www/remizstd.html"
+  },
+  {
     "name": "sos",
     "url": "https://github.com/ct-clmsn/nim-sos/",
     "method": "git",
