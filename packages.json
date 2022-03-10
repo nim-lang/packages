@@ -25431,7 +25431,6 @@
     "web": "https://github.com/Miqueas/Logit"
   },
   {
-
       "name": "remizstd",
       "url": "https://gitlab.com/RemiliaScarlet/remizstd/",
       "method": "git",
@@ -25443,7 +25442,7 @@
           "compression"
       ],
       "description": "Nim bindings for the ZStandard compression library.  Context-based and stream-based APIs available.  Based on the zstd.cr Crystal bindings.",
-      "license": "GPLv3.0",
+      "license": "GPL-3.0",
       "web": "https://chiselapp.com/user/MistressRemilia/repository/RemiZstd/home",
       "doc": "https://chiselapp.com/user/MistressRemilia/repository/RemiZstd/doc/trunk/www/remizstd.html"
   },
