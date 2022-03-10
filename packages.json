@@ -25386,6 +25386,8 @@
     "description": "Nim wrapper for rofi, open fabrics interface; provides distributed computing interface for high performance computing (HPC) environments",
     "license": "boost",
     "web": "https://github.com/ct-clmsn/nofi/"
+  },
+  {
     "name": "iterrr",
     "url": "https://github.com/hamidb80/iterrr",
     "method": "git",
