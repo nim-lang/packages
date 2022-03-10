@@ -25386,5 +25386,46 @@
     "description": "Nim wrapper for rofi, open fabrics interface; provides distributed computing interface for high performance computing (HPC) environments",
     "license": "boost",
     "web": "https://github.com/ct-clmsn/nofi/"
+    "name": "iterrr",
+    "url": "https://github.com/hamidb80/iterrr",
+    "method": "git",
+    "tags": [
+      "iterator",
+      "iterate",
+      "iterating",
+      "functional",
+      "lazy",
+      "library"
+    ],
+    "description": "iterate faster. functional style, lazy like, extensible iterator library",
+    "license": "MIT",
+    "web": "https://github.com/hamidb80/steps"
+  },
+  {
+    "name": "SLAP",
+    "url": "https://github.com/bichanna/slap",
+    "method": "git",
+    "tags": [
+      "language",
+      "interpreter"
+    ],
+    "description": "A SLow And Powerless programming language written in Nim",
+    "license": "MIT",
+    "web": "https://github.com/bichanna/slap/blob/master/docs/index.md#slap",
+    "doc": "https://github.com/bichanna/slap/blob/master/docs/index.md#syntax"
+  },
+  {
+    "name": "logit",
+    "url": "https://github.com/Miqueas/Logit",
+    "method": "git",
+    "tags": [
+      "library",
+      "log",
+      "logs",
+      "logging"
+    ],
+    "description": "Dependency-free, cross-platform and small logging library for Nim, with a simple and comfortable API",
+    "license": "Zlib",
+    "web": "https://github.com/Miqueas/Logit"
   }
 ]
