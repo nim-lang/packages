@@ -16005,7 +16005,7 @@
       "raylib",
       "gamedev"
     ],
-    "description": "The Ultimate Raylib gaming library wrapper",
+    "description": "Yet another raylib Nim wrapper",
     "license": "MIT",
     "web": "https://github.com/planetis-m/naylib"
   },
