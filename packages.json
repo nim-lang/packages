@@ -15996,6 +15996,20 @@
     "web": "https://github.com/planetis-m/sparseset"
   },
   {
+    "name": "naylib",
+    "url": "https://github.com/planetis-m/naylib",
+    "method": "git",
+    "tags": [
+      "library",
+      "wrapper",
+      "raylib",
+      "gamedev"
+    ],
+    "description": "The Ultimate Raylib gaming library wrapper",
+    "license": "MIT",
+    "web": "https://github.com/planetis-m/naylib"
+  },
+  {
     "name": "golden",
     "url": "https://github.com/disruptek/golden",
     "method": "git",
