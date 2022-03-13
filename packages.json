@@ -1,5 +1,18 @@
 [
   {
+    "name": "niprefs",
+    "url": "https://github.com/Patitotective/niprefs",
+    "method": "git",
+    "tags": [
+      "preferences",
+      "prefs"
+    ],
+    "description": " A dynamic preferences-system with a table-like structure for Nim.", 
+    "license": "MIT",
+    "web": "https://github.com/Patitotective/niprefs",
+    "doc": "https://github.com/Patitotective/NiPrefs",
+  },
+  {
     "name": "lrparser",
     "url": "https://github.com/vanyle/lrparser/",
     "method": "git",
