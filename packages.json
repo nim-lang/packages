@@ -10,7 +10,7 @@
     "description": " A dynamic preferences-system with a table-like structure for Nim.", 
     "license": "MIT",
     "web": "https://github.com/Patitotective/niprefs",
-    "doc": "https://github.com/Patitotective/NiPrefs",
+    "doc": "https://github.com/Patitotective/NiPrefs"
   },
   {
     "name": "lrparser",
