@@ -25486,5 +25486,23 @@
     "description": "Nim wrapper for Sandia OpenSHMEM, a high performance computing (HPC), distributed shared symmetric memory library",
     "license": "boost",
     "web": "https://github.com/ct-clmsn/nim-sos/"
+  },
+  {
+    "name": "argon2_highlevel",
+    "url": "https://github.com/termermc/argon2-highlevel",
+    "method": "git",
+    "tags": [
+      "argon2",
+      "crypto",
+      "hash",
+      "library",
+      "password",
+      "wrapper",
+      "async",
+      "highlevel"
+    ],
+    "description": "A high-level Nim Argon2 password hashing library",
+    "license": "MIT",
+    "web": "https://github.com/termermc/argon2-highlevel"
   }
 ]
