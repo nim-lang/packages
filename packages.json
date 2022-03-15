@@ -7,7 +7,7 @@
       "preferences",
       "prefs"
     ],
-    "description": " A dynamic preferences-system with a table-like structure for Nim.", 
+    "description": " A dynamic preferences-system with a table-like structure for Nim.",
     "license": "MIT",
     "web": "https://github.com/Patitotective/niprefs",
     "doc": "https://github.com/Patitotective/NiPrefs"
@@ -25458,20 +25458,20 @@
     "web": "https://github.com/Miqueas/Logit"
   },
   {
-      "name": "remizstd",
-      "url": "https://gitlab.com/RemiliaScarlet/remizstd/",
-      "method": "git",
-      "tags": [
-          "library",
-          "binding",
-          "zstandard",
-          "zstd",
-          "compression"
-      ],
-      "description": "Nim bindings for the ZStandard compression library.  Context-based and stream-based APIs available.  Based on the zstd.cr Crystal bindings.",
-      "license": "GPL-3.0",
-      "web": "https://chiselapp.com/user/MistressRemilia/repository/RemiZstd/home",
-      "doc": "https://chiselapp.com/user/MistressRemilia/repository/RemiZstd/doc/trunk/www/remizstd.html"
+    "name": "remizstd",
+    "url": "https://gitlab.com/RemiliaScarlet/remizstd/",
+    "method": "git",
+    "tags": [
+      "library",
+      "binding",
+      "zstandard",
+      "zstd",
+      "compression"
+    ],
+    "description": "Nim bindings for the ZStandard compression library.  Context-based and stream-based APIs available.  Based on the zstd.cr Crystal bindings.",
+    "license": "GPL-3.0",
+    "web": "https://chiselapp.com/user/MistressRemilia/repository/RemiZstd/home",
+    "doc": "https://chiselapp.com/user/MistressRemilia/repository/RemiZstd/doc/trunk/www/remizstd.html"
   },
   {
     "name": "sos",
@@ -25504,5 +25504,16 @@
     "description": "A high-level Nim Argon2 password hashing library",
     "license": "MIT",
     "web": "https://github.com/termermc/argon2-highlevel"
+  },
+  {
+    "name": "htmlgenerator",
+    "url": "https://github.com/z-kk/htmlgenerator",
+    "method": "git",
+    "tags": [
+      "html"
+    ],
+    "description": "Generate HTML string by nim object",
+    "license": "MIT",
+    "web": "https://github.com/z-kk/htmlgenerator"
   }
 ]
