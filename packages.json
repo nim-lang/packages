@@ -25515,5 +25515,17 @@
     "description": "Generate HTML string by nim object",
     "license": "MIT",
     "web": "https://github.com/z-kk/htmlgenerator"
+  },
+  {
+    "name": "aqcalc",
+    "url": "https://github.com/VitorGoatman/aqcalc",
+    "method": "git",
+    "tags": [
+      "library",
+      "gematria"
+    ],
+    "description": "Calculate gematria values for Alphanumeric Qabbala",
+    "license": "Unlicense",
+    "web": "https://github.com/VitorGoatman/aqcalc"
   }
 ]
