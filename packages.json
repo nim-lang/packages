@@ -25527,5 +25527,19 @@
     "description": "Calculate gematria values for Alphanumeric Qabbala",
     "license": "Unlicense",
     "web": "https://github.com/VitorGoatman/aqcalc"
+  },
+  {
+    "name": "ftd2xx",
+    "url": "https://github.com/leeooox/ftd2xx",
+    "method": "git",
+    "tags": [
+      "ftdi",
+      "usb",
+      "wrapper",
+      "hardware"
+    ],
+    "description": "Nim wrapper for FTDI ftd2xx library",
+    "license": "MIT",
+    "web": "https://github.com/leeooox/ftd2xx"
   }
 ]
