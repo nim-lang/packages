@@ -25560,4 +25560,17 @@
     "license": "MIT",
     "web": "https://github.com/enthus1ast/nimSocks"
   }  
+    "name": "run_exe",
+    "url": "https://github.com/V0idMatr1x/run_exe",
+    "method": "git",
+    "tags": [
+      "lib",
+      "osproc",
+      "subprocess",
+      "dsl"
+    ],
+    "description": "A mini DSL for Nim that provides syntactic sugar for running/piping shell commands. ",
+    "license": "GPL-3.0-or-later",
+    "web": "https://github.com/V0idMatr1x/run_exe"
+  }
 ]
