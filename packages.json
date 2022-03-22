@@ -25541,5 +25541,23 @@
     "description": "Nim wrapper for FTDI ftd2xx library",
     "license": "MIT",
     "web": "https://github.com/leeooox/ftd2xx"
-  }
+  },
+  {
+    "name": "nimSocks",
+    "url": "https://github.com/enthus1ast/nimSocks.git",
+    "method": "git",
+    "tags": [
+      "SOCKS",
+      "server",
+      "client",
+      "SOCKS4",
+      "SOCKS4a",
+      "SOCKS5",
+      "whitelist",
+      "blacklist"
+    ],
+    "description": "A filtering SOCKS proxy server and client library written in nim.",
+    "license": "MIT",
+    "web": "https://github.com/enthus1ast/nimSocks"
+  }  
 ]
