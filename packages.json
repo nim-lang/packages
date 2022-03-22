@@ -25559,7 +25559,8 @@
     "description": "A filtering SOCKS proxy server and client library written in nim.",
     "license": "MIT",
     "web": "https://github.com/enthus1ast/nimSocks"
-  }  
+  },
+  {
     "name": "run_exe",
     "url": "https://github.com/V0idMatr1x/run_exe",
     "method": "git",
