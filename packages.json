@@ -25570,7 +25570,7 @@
       "subprocess",
       "dsl"
     ],
-    "description": "A mini DSL for Nim that provides syntactic sugar for running/piping shell commands. ",
+    "description": "A Scripting ToolBox that provides a declarative DSL for ultimate productivity!",
     "license": "GPL-3.0-or-later",
     "web": "https://github.com/V0idMatr1x/run_exe"
   }
