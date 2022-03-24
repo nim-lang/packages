@@ -25573,5 +25573,17 @@
     "description": "A Scripting ToolBox that provides a declarative DSL for ultimate productivity!",
     "license": "GPL-3.0-or-later",
     "web": "https://github.com/V0idMatr1x/run_exe"
+  },
+  {
+    "name": "quote_node",
+    "url": "https://github.com/choltreppe/nim_quote_node",
+    "method": "git",
+    "tags": [
+      "macro",
+      "AST"
+    ],
+    "description": "A macro to quote AST, interpolating with NimNodes",
+    "license": "MIT",
+    "web": "https://github.com/choltreppe/nim_quote_node"
   }
 ]
