@@ -1691,6 +1691,20 @@
     "web": "https://github.com/PMunch/jsonschema"
   },
   {
+    "name": "nimlangserver",
+    "url": "https://github.com/nim-lang/langserver",
+    "method": "git",
+    "tags": [
+      "lsp",
+      "nimsuggest",
+      "editor",
+      "ide-tools"
+    ],
+    "description": "The Nim language server implementation (based on nimsuggest)",
+    "license": "MIT",
+    "web": "https://github.com/nim-lang/langserver"
+  },
+  {
     "name": "nimlsp",
     "url": "https://github.com/PMunch/nimlsp",
     "method": "git",
