@@ -20526,7 +20526,7 @@
   },
   {
     "name": "fsnotify",
-    "url": "https://github.com/xflywind/fsnotify",
+    "url": "https://github.com/planety/fsnotify",
     "method": "git",
     "tags": [
       "os",
@@ -20535,7 +20535,7 @@
     ],
     "description": "A file system monitor in Nim.",
     "license": "Apache-2.0",
-    "web": "https://github.com/xflywind/fsnotify"
+    "web": "https://github.com/planety/fsnotify"
   },
   {
     "name": "xio",
