@@ -25613,5 +25613,24 @@
     "license": "MIT",
     "description": "Simple text progress bars in Nim!",
     "web": "https://github.com/bichanna/pronimgress#pronimgress"
+  },
+  {
+    "name": "rconv",
+    "url": "https://github.com/prefixaut/rconv",
+    "method": "git",
+    "tags": [
+      "rhythm",
+      "game",
+      "rhythm-game",
+      "converter",
+      "file-converter",
+      "parsing",
+      "parser",
+      "cli",
+      "library"
+    ],
+    "license": "MIT",
+    "description": "Universal Rhythm-Game File parser and converter",
+    "web": "https://github.com/prefixaut/rconv"
   }
 ]
