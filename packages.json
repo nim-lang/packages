@@ -1691,6 +1691,20 @@
     "web": "https://github.com/PMunch/jsonschema"
   },
   {
+    "name": "nimlangserver",
+    "url": "https://github.com/nim-lang/langserver",
+    "method": "git",
+    "tags": [
+      "lsp",
+      "nimsuggest",
+      "editor",
+      "ide-tools"
+    ],
+    "description": "The Nim language server implementation (based on nimsuggest)",
+    "license": "MIT",
+    "web": "https://github.com/nim-lang/langserver"
+  },
+  {
     "name": "nimlsp",
     "url": "https://github.com/PMunch/nimlsp",
     "method": "git",
@@ -20512,7 +20526,7 @@
   },
   {
     "name": "fsnotify",
-    "url": "https://github.com/xflywind/fsnotify",
+    "url": "https://github.com/planety/fsnotify",
     "method": "git",
     "tags": [
       "os",
@@ -20521,7 +20535,7 @@
     ],
     "description": "A file system monitor in Nim.",
     "license": "Apache-2.0",
-    "web": "https://github.com/xflywind/fsnotify"
+    "web": "https://github.com/planety/fsnotify"
   },
   {
     "name": "xio",
@@ -25599,5 +25613,24 @@
     "license": "MIT",
     "description": "Simple text progress bars in Nim!",
     "web": "https://github.com/bichanna/pronimgress#pronimgress"
+  },
+  {
+    "name": "rconv",
+    "url": "https://github.com/prefixaut/rconv",
+    "method": "git",
+    "tags": [
+      "rhythm",
+      "game",
+      "rhythm-game",
+      "converter",
+      "file-converter",
+      "parsing",
+      "parser",
+      "cli",
+      "library"
+    ],
+    "license": "MIT",
+    "description": "Universal Rhythm-Game File parser and converter",
+    "web": "https://github.com/prefixaut/rconv"
   }
 ]
