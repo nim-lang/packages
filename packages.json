@@ -6787,6 +6787,20 @@
     "web": "https://github.com/status-im/nim-json-serialization"
   },
   {
+    "name": "ssz_serialization",
+    "url": "https://github.com/status-im/nim-ssz-serialization",
+    "method": "git",
+    "tags": [
+      "library",
+      "ssz",
+      "serialization",
+      "ethereum"
+    ],
+    "description": "Nim implementation of the Ethereum SSZ serialization format",
+    "license": "MIT",
+    "web": "https://github.com/status-im/nim-ssz-serialization"
+  },
+  {
     "name": "confutils",
     "url": "https://github.com/status-im/nim-confutils",
     "method": "git",
@@ -6797,6 +6811,21 @@
     "description": "Simplified handling of command line options and config files",
     "license": "Apache License 2.0",
     "web": "https://github.com/status-im/nim-confutils"
+  },
+  {
+    "name": "taskpools",
+    "url": "https://github.com/status-im/nim-taskpools",
+    "method": "git",
+    "tags": [
+      "library",
+      "multithreading",
+      "parallelism",
+      "data-parallelism",
+      "threadpool"
+    ],
+    "description": "lightweight, energy-efficient, easily auditable threadpool",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/status-im/nim-taskpools"
   },
   {
     "name": "std_shims",
@@ -12627,11 +12656,11 @@
     "doc": "https://ijneb.github.io/nimetry"
   },
   {
-    "name": "snappy",
-    "alias": "nim-snappy"
+    "name": "nim-snappy",
+    "alias": "snappy"
   },
   {
-    "name": "nim-snappy",
+    "name": "snappy",
     "url": "https://github.com/status-im/nim-snappy",
     "method": "git",
     "tags": [
