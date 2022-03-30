@@ -12627,11 +12627,11 @@
     "doc": "https://ijneb.github.io/nimetry"
   },
   {
-    "name": "snappy",
-    "alias": "nim-snappy"
+    "name": "nim-snappy",
+    "alias": "snappy"
   },
   {
-    "name": "nim-snappy",
+    "name": "snappy",
     "url": "https://github.com/status-im/nim-snappy",
     "method": "git",
     "tags": [
