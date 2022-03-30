@@ -25647,5 +25647,20 @@
     "license": "MIT",
     "description": "Convert big numbers to what's pleasant to see (an adorable, little girl, perhaps?) ... in Nim!",
     "web": "https://github.com/bichanna/millie.nim"
+  },
+  {
+    "name": "owlkettle",
+    "url": "https://github.com/can-lehmann/owlkettle",
+    "method": "git",
+    "tags": [
+      "framework",
+      "dsl",
+      "gui",
+      "ui",
+      "gtk"
+    ],
+    "description": "A declarative user interface framework based on GTK",
+    "license": "MIT",
+    "web": "https://github.com/can-lehmann/owlkettle"
   }
 ]
