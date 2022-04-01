@@ -14821,6 +14821,34 @@
     "license": "GPL-3.0-or-later"
   },
   {
+    "name": "userdef",
+    "url": "https://github.com/theAkito/userdef",
+    "method": "git",
+    "tags": [
+      "akito",
+      "gosu",
+      "su-exec",
+      "docker",
+      "kubernetes",
+      "helm",
+      "permission",
+      "linux",
+      "posix",
+      "postgres",
+      "process",
+      "security",
+      "alpine",
+      "busybox",
+      "useradd",
+      "adduser",
+      "shadow",
+      "musl",
+      "libc"
+    ],
+    "description": "A more advanced adduser for your Alpine based Docker images.",
+    "license": "GPL-3.0-or-later"
+  },
+  {
     "name": "sue",
     "url": "https://github.com/theAkito/sue",
     "method": "git",
