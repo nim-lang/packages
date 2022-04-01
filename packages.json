@@ -25691,5 +25691,20 @@
     "description": "A declarative user interface framework based on GTK",
     "license": "MIT",
     "web": "https://github.com/can-lehmann/owlkettle"
+  },
+  {
+    "name": "gimg",
+    "url": "https://gitlab.com/lurlo/gimg",
+    "method": "git",
+    "tags": [
+      "scraper",
+      "images",
+      "google",
+      "search",
+      "lib"
+    ],
+    "description": "Google Images scraper lib and CLI",
+    "license": "MIT",
+    "web": "https://gitlab.com/lurlo/gimg"
   }
 ]
