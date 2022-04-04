@@ -25734,5 +25734,21 @@
     "description": "Google Images scraper lib and CLI",
     "license": "MIT",
     "web": "https://gitlab.com/lurlo/gimg"
+  },
+  {
+    "name": "parsepage",
+    "url": "https://gitlab.com/lurlo/parsepage",
+    "method": "git",
+    "tags": [
+      "extractor",
+      "cli",
+      "configurable",
+      "tool",
+      "html",
+      "bulk"
+    ],
+    "description": "Automatically extracts the data of sites",
+    "license": "GPL-3.0-only",
+    "web": "https://gitlab.com/lurlo/parsepage"
   }
 ]
