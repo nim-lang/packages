@@ -14586,7 +14586,7 @@
   },
   {
     "name": "toxcore",
-    "url": "https://git.sr.ht/~ehmry/nim_tox",
+    "url": "https://git.sr.ht/~ehmry/nim-toxcore",
     "method": "git",
     "tags": [
       "tox",
@@ -14595,7 +14595,7 @@
     ],
     "description": "C Tox core wrapper",
     "license": "GPL-3.0",
-    "web": "https://git.sr.ht/~ehmry/nim_tox"
+    "web": "https://git.sr.ht/~ehmry/nim-toxcore"
   },
   {
     "name": "rapid",
@@ -22095,25 +22095,25 @@
   },
   {
     "name": "eris",
-    "url": "https://git.sr.ht/~ehmry/eris",
+    "url": "https://codeberg.org/eris/nim-eris",
     "method": "git",
     "tags": [
       "eris"
     ],
     "description": "Encoding for Robust Immutable Storage (ERIS)",
     "license": "ISC",
-    "web": "http://purl.org/eris"
+    "web": "https://eris.codeberg.page"
   },
   {
     "name": "eris_utils",
-    "url": "https://git.sr.ht/~ehmry/eris_utils",
+    "url": "https://codeberg.org/eris/nim-eris_utils",
     "method": "git",
     "tags": [
       "eris"
     ],
     "description": "Utilities for the Encoding for Robust Immutable Storage (ERIS)",
     "license": "GPL-3.0",
-    "web": "http://purl.org/eris"
+    "web": "https://eris.codeberg.page"
   },
   {
     "name": "html2karax",
