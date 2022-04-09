@@ -25428,7 +25428,7 @@
   },
   {
     "name": "dogapi",
-    "url": "https://github.com/thexxiv/dogapi-nim",
+    "url": "https://github.com/thechampagne/dogapi-nim",
     "method": "git",
     "tags": [
       "api-client",
@@ -25437,8 +25437,7 @@
     ],
     "description": "Dog API client",
     "license": "Apache-2.0",
-    "web": "https://github.com/thexxiv/dogapi-nim",
-    "doc": "https://thexxiv.github.io/dogapi-nim"
+    "web": "https://github.com/thechampagne/dogapi-nim"
   },
   {
     "name": "toktok",
@@ -25459,7 +25458,7 @@
   },
   {
     "name": "dogapi_cli",
-    "url": "https://github.com/thexxiv/dogapi-cli",
+    "url": "https://github.com/thechampagne/dogapi-cli",
     "method": "git",
     "tags": [
       "images",
@@ -25468,7 +25467,7 @@
     ],
     "description": "Tool to download dogs images",
     "license": "Apache-2.0",
-    "web": "https://github.com/thexxiv/dogapi-cli"
+    "web": "https://github.com/thechampagne/dogapi-cli"
   },
   {
     "name": "nofi",
