@@ -25749,5 +25749,17 @@
     "description": "Automatically extracts the data of sites",
     "license": "GPL-3.0-only",
     "web": "https://gitlab.com/lurlo/parsepage"
+  },
+  {
+    "name": "resultutils",
+    "url": "https://github.com/nonnil/resultutils",
+    "method": "git",
+    "tags": [
+      "result",
+      "results"
+    ],
+    "description": "Utility macros for easier handling of Result",
+    "license": "MIT",
+    "web": "https://github.com/nonnil/resultutils"
   }
 ]
