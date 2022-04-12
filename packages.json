@@ -6970,6 +6970,20 @@
     "web": "https://github.com/status-im/nim-rlp"
   },
   {
+    "name": "nitro",
+    "url": "https://github.com/status-im/nim-nitro",
+    "method": "git",
+    "tags": [
+      "state-channels",
+      "smart-contracts",
+      "blockchain",
+      "ethereum"
+    ],
+    "description": " Nitro state channels in Nim",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/status-im/nim-nitro"
+  },
+  {
     "name": "eth_keys",
     "url": "https://github.com/status-im/nim-eth-keys",
     "method": "git",
