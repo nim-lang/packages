@@ -14848,6 +14848,34 @@
     "license": "GPL-3.0-or-later"
   },
   {
+    "name": "useradd",
+    "url": "https://github.com/theAkito/nim-useradd",
+    "method": "git",
+    "tags": [
+      "akito",
+      "gosu",
+      "su-exec",
+      "docker",
+      "kubernetes",
+      "helm",
+      "permission",
+      "linux",
+      "posix",
+      "postgres",
+      "process",
+      "security",
+      "alpine",
+      "busybox",
+      "useradd",
+      "adduser",
+      "shadow",
+      "musl",
+      "libc"
+    ],
+    "description": "Linux adduser/useradd library with all batteries included.",
+    "license": "GPL-3.0-or-later"
+  },
+  {
     "name": "userdef",
     "url": "https://github.com/theAkito/userdef",
     "method": "git",
