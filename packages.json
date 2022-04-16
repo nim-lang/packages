@@ -25816,5 +25816,16 @@
     "description": "Utility macros for easier handling of Result",
     "license": "MIT",
     "web": "https://github.com/nonnil/resultutils"
+  },
+  {
+    "name": "stdarg",
+    "url": "https://github.com/sls1005/stdarg",
+    "method": "git",
+    "tags": [
+      "wrapper"
+    ],
+    "description": "A wrapper for <stdarg.h>",
+    "license": "MIT",
+    "web": "https://github.com/sls1005/stdarg"
   }
 ]
