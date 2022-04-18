@@ -25841,5 +25841,19 @@
     "description": "A metadata reading & writing library",
     "license": "MIT",
     "web": "https://github.com/sauerbread/metatag"
+  },
+  {
+    "name": "pantry",
+    "url": "https://github.com/ire4ever1190/pantry-nim",
+    "method": "git",
+    "tags": [
+      "wrapper",
+      "json",
+      "api"
+    ],
+    "description": "Client library for https://getpantry.cloud/",
+    "license": "MIT",
+    "web": "https://github.com/ire4ever1190/pantry-nim",
+    "doc": "https://tempdocs.netlify.app/pantry/stable"
   }
 ]
