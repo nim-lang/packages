@@ -25827,5 +25827,19 @@
     "description": "A wrapper for <stdarg.h>",
     "license": "MIT",
     "web": "https://github.com/sls1005/stdarg"
+  },
+  {
+    "name": "metatag",
+    "url": "https://github.com/sauerbread/metatag",
+    "method": "git",
+    "tags": [
+      "mp3",
+      "id3",
+      "flac",
+      "metadata"
+    ],
+    "description": "A metadata reading & writing library",
+    "license": "MIT",
+    "web": "https://github.com/sauerbread/metatag"
   }
 ]
