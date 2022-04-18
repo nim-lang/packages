@@ -25853,6 +25853,7 @@
     ],
     "description": "Client library for https://getpantry.cloud/",
     "license": "MIT",
-    "web": "https://github.com/ire4ever1190/pantry-nim"
+    "web": "https://github.com/ire4ever1190/pantry-nim",
+    "doc": "https://tempdocs.netlify.app/pantry/stable"
   }
 ]
