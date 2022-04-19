@@ -25864,7 +25864,7 @@
       "govee",
       "wrapper",
       "api"
-    ]
+    ],
     "description": "A Nim wrapper for the Govee API.",
     "license": "MIT",
     "web": "https://github.com/nonimportant/nim-govee",
