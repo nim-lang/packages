@@ -25855,5 +25855,19 @@
     "license": "MIT",
     "web": "https://github.com/ire4ever1190/pantry-nim",
     "doc": "https://tempdocs.netlify.app/pantry/stable"
+  },
+  {
+    "name": "govee",
+    "url": "https://github.com/nonimportant/nim-govee",
+    "method": "git",
+    "tags": [
+      "govee",
+      "wrapper",
+      "api"
+    ],
+    "description": "A Nim wrapper for the Govee API.",
+    "license": "MIT",
+    "web": "https://github.com/nonimportant/nim-govee",
+    "doc": "https://nonimportant.github.io/nim-govee/"
   }
 ]
