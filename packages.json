@@ -25880,5 +25880,18 @@
     "description": "This is a simple implementation of a WebSocket server with 100% Nim.",
     "license": "MIT",
     "web": "https://github.com/obemaru4012/bamboo_websocket"
+  },
+  {
+    "name": "cppclass",
+    "url": "https://github.com/sls1005/NimCPPClass",
+    "method": "git",
+    "tags": [
+      "cpp",
+      "class",
+      "sugar"
+    ],
+    "description": "Syntax sugar which helps to define C++ classes from Nim.",
+    "license": "MIT",
+    "web": "https://github.com/sls1005/NimCPPClass"
   }
 ]
