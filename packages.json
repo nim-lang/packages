@@ -25908,5 +25908,20 @@
     "description": "Nim wrapper for STE||AR HPX, a high performance computing (HPC), distributed memory runtime system, providing parallelism and asynchronous global address space support.",
     "license": "boost",
     "web": "https://github.com/ct-clmsn/nim-hpx/"
+  },
+  {
+    "name": "excelin",
+    "url": "https://mashingan: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@github.com/mashingan/excelin",
+    "method": "git",
+    "tags": [
+      "read-excel",
+      "create-excel",
+      "excel",
+      "library",
+      "pure"
+    ],
+    "description": "Create and read Excel purely in Nim",
+    "license": "MIT",
+    "web": "https://mashingan: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@github.com/mashingan/excelin"
   }
 ]
