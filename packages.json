@@ -25893,5 +25893,20 @@
     "description": "Syntax sugar which helps to define C++ classes from Nim.",
     "license": "MIT",
     "web": "https://github.com/sls1005/NimCPPClass"
+  },
+  {
+    "name": "hpx",
+    "url": "https://github.com/ct-clmsn/nim-hpx/",
+    "method": "git",
+    "tags": [
+      "hpc",
+      "supercomputing",
+      "distributed-computing",
+      "ste||ar-hpx",
+      "hpx"
+    ],
+    "description": "Nim wrapper for STE||AR HPX, a high performance computing (HPC), distributed memory runtime system, providing parallelism and asynchronous global address space support.",
+    "license": "boost",
+    "web": "https://github.com/ct-clmsn/nim-hpx/"
   }
 ]
