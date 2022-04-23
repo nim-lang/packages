@@ -25937,5 +25937,16 @@
     "description": "Bindings for libruby and high-level Ruby embedding framework",
     "license": "MPL-2.0",
     "web": "https://github.com/ryukoposting/ruby-nim"
+  },
+  {
+    "name": "nimmikudance",
+    "url": "https://github.com/aphkyle/NimMikuDance",
+    "method": "git",
+    "tags": [
+      "MMD",
+      "pure"
+    ],
+    "description": "MMD I/O!",
+    "license": "ISC"
   }
 ]
