@@ -25923,5 +25923,19 @@
     "description": "Create and read Excel purely in Nim",
     "license": "MIT",
     "web": "https://github.com/mashingan/excelin"
+  },
+  {
+    "name": "ruby",
+    "url": "https://github.com/ryukoposting/ruby-nim",
+    "method": "git",
+    "tags": [
+      "ruby",
+      "scripting",
+      "wrapper",
+      "mri"
+    ],
+    "description": "Bindings for libruby and high-level Ruby embedding framework",
+    "license": "MPL-2.0",
+    "web": "https://github.com/ryukoposting/ruby-nim"
   }
 ]
