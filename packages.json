@@ -6916,6 +6916,19 @@
     "web": "https://github.com/status-im/nim-eth"
   },
   {
+    "name": "ethers",
+    "url": "https://github.com/status-im/nim-ethers",
+    "method": "git",
+    "tags": [
+      "library",
+      "ethereum",
+      "web3"
+    ],
+    "description": "Port of ethers.js to Nim",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/status-im/nim-ethers"
+  },
+  {
     "name": "metrics",
     "url": "https://github.com/status-im/nim-metrics",
     "method": "git",
@@ -6968,6 +6981,20 @@
     "description": "Deprecated RLP serialization library for Nim (now part of the 'eth' module)",
     "license": "Apache License 2.0",
     "web": "https://github.com/status-im/nim-rlp"
+  },
+  {
+    "name": "nitro",
+    "url": "https://github.com/status-im/nim-nitro",
+    "method": "git",
+    "tags": [
+      "state-channels",
+      "smart-contracts",
+      "blockchain",
+      "ethereum"
+    ],
+    "description": " Nitro state channels in Nim",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/status-im/nim-nitro"
   },
   {
     "name": "eth_keys",
@@ -14818,6 +14845,34 @@
       "quick"
     ],
     "description": "Nim implementation of NanoID, a tiny, secure, URL-friendly, unique string ID generator. Works with Linux and Windows!",
+    "license": "GPL-3.0-or-later"
+  },
+  {
+    "name": "useradd",
+    "url": "https://github.com/theAkito/nim-useradd",
+    "method": "git",
+    "tags": [
+      "akito",
+      "gosu",
+      "su-exec",
+      "docker",
+      "kubernetes",
+      "helm",
+      "permission",
+      "linux",
+      "posix",
+      "postgres",
+      "process",
+      "security",
+      "alpine",
+      "busybox",
+      "useradd",
+      "adduser",
+      "shadow",
+      "musl",
+      "libc"
+    ],
+    "description": "Linux adduser/useradd library with all batteries included.",
     "license": "GPL-3.0-or-later"
   },
   {
@@ -25749,5 +25804,149 @@
     "description": "Automatically extracts the data of sites",
     "license": "GPL-3.0-only",
     "web": "https://gitlab.com/lurlo/parsepage"
+  },
+  {
+    "name": "resultutils",
+    "url": "https://github.com/nonnil/resultutils",
+    "method": "git",
+    "tags": [
+      "result",
+      "results"
+    ],
+    "description": "Utility macros for easier handling of Result",
+    "license": "MIT",
+    "web": "https://github.com/nonnil/resultutils"
+  },
+  {
+    "name": "stdarg",
+    "url": "https://github.com/sls1005/stdarg",
+    "method": "git",
+    "tags": [
+      "wrapper"
+    ],
+    "description": "A wrapper for <stdarg.h>",
+    "license": "MIT",
+    "web": "https://github.com/sls1005/stdarg"
+  },
+  {
+    "name": "metatag",
+    "url": "https://github.com/sauerbread/metatag",
+    "method": "git",
+    "tags": [
+      "mp3",
+      "id3",
+      "flac",
+      "metadata"
+    ],
+    "description": "A metadata reading & writing library",
+    "license": "MIT",
+    "web": "https://github.com/sauerbread/metatag"
+  },
+  {
+    "name": "pantry",
+    "url": "https://github.com/ire4ever1190/pantry-nim",
+    "method": "git",
+    "tags": [
+      "wrapper",
+      "json",
+      "api"
+    ],
+    "description": "Client library for https://getpantry.cloud/",
+    "license": "MIT",
+    "web": "https://github.com/ire4ever1190/pantry-nim",
+    "doc": "https://tempdocs.netlify.app/pantry/stable"
+  },
+  {
+    "name": "govee",
+    "url": "https://github.com/nonimportant/nim-govee",
+    "method": "git",
+    "tags": [
+      "govee",
+      "wrapper",
+      "api"
+    ],
+    "description": "A Nim wrapper for the Govee API.",
+    "license": "MIT",
+    "web": "https://github.com/nonimportant/nim-govee",
+    "doc": "https://nonimportant.github.io/nim-govee/"
+  },
+  {
+    "name": "bamboo_websocket",
+    "url": "https://github.com/obemaru4012/bamboo_websocket",
+    "method": "git",
+    "tags": [
+      "websocket"
+    ],
+    "description": "This is a simple implementation of a WebSocket server with 100% Nim.",
+    "license": "MIT",
+    "web": "https://github.com/obemaru4012/bamboo_websocket"
+  },
+  {
+    "name": "cppclass",
+    "url": "https://github.com/sls1005/NimCPPClass",
+    "method": "git",
+    "tags": [
+      "cpp",
+      "class",
+      "sugar"
+    ],
+    "description": "Syntax sugar which helps to define C++ classes from Nim.",
+    "license": "MIT",
+    "web": "https://github.com/sls1005/NimCPPClass"
+  },
+  {
+    "name": "hpx",
+    "url": "https://github.com/ct-clmsn/nim-hpx/",
+    "method": "git",
+    "tags": [
+      "hpc",
+      "supercomputing",
+      "distributed-computing",
+      "ste||ar-hpx",
+      "hpx"
+    ],
+    "description": "Nim wrapper for STE||AR HPX, a high performance computing (HPC), distributed memory runtime system, providing parallelism and asynchronous global address space support.",
+    "license": "boost",
+    "web": "https://github.com/ct-clmsn/nim-hpx/"
+  },
+  {
+    "name": "excelin",
+    "url": "https://github.com/mashingan/excelin",
+    "method": "git",
+    "tags": [
+      "read-excel",
+      "create-excel",
+      "excel",
+      "library",
+      "pure"
+    ],
+    "description": "Create and read Excel purely in Nim",
+    "license": "MIT",
+    "web": "https://github.com/mashingan/excelin"
+  },
+  {
+    "name": "ruby",
+    "url": "https://github.com/ryukoposting/ruby-nim",
+    "method": "git",
+    "tags": [
+      "ruby",
+      "scripting",
+      "wrapper",
+      "mri"
+    ],
+    "description": "Bindings for libruby and high-level Ruby embedding framework",
+    "license": "MPL-2.0",
+    "web": "https://github.com/ryukoposting/ruby-nim"
+  },
+  {
+    "name": "nimmikudance",
+    "url": "https://github.com/aphkyle/NimMikuDance",
+    "method": "git",
+    "tags": [
+      "MMD",
+      "pure"
+    ],
+    "description": "MMD I/O!",
+    "license": "ISC"
   }
 ]
