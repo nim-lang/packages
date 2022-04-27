@@ -25948,5 +25948,18 @@
     ],
     "description": "MMD I/O!",
     "license": "ISC"
+  },
+  {
+    "name": "audiodb",
+    "url": "https://github.com/thechampagne/audiodb-nim",
+    "method": "git",
+    "tags": [
+      "api-client",
+      "api-wrapper",
+      "audiodb"
+    ],
+    "description": "TheAudioDB API client",
+    "license": "Apache-2.0",
+    "web": "https://github.com/thechampagne/audiodb-nim"
   }
 ]
