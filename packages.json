@@ -26001,6 +26001,6 @@
     ],
     "description": "Load local environment variables from .env files",
     "license": "MIT",
-    "web": "https://wioenena-q.github.io/nim-dotenv/"
+    "web": "https://wioenena-q.github.io/nim-dotenv"
   }
 ]
