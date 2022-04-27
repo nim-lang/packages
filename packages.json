@@ -16149,6 +16149,36 @@
     "web": "https://github.com/planetis-m/naylib"
   },
   {
+    "name": "ssostrings",
+    "url": "https://github.com/planetis-m/ssostrings",
+    "method": "git",
+    "tags": [
+      "small-string-optimized",
+      "string",
+      "sso",
+      "optimization",
+      "datatype"
+    ],
+    "description": "Small String Optimized (SSO) string implementation",
+    "license": "MIT",
+    "web": "https://github.com/planetis-m/ssostrings"
+  },
+  {
+    "name": "cowstrings",
+    "url": "https://github.com/planetis-m/cowstrings",
+    "method": "git",
+    "tags": [
+      "copy-on-write",
+      "string",
+      "cow",
+      "optimization",
+      "datatype"
+    ],
+    "description": "Copy-On-Write string implementation",
+    "license": "MIT",
+    "web": "https://github.com/planetis-m/cowstrings"
+  },
+  {
     "name": "golden",
     "url": "https://github.com/disruptek/golden",
     "method": "git",
