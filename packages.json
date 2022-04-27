@@ -25991,5 +25991,16 @@
     "description": "TheAudioDB API client",
     "license": "Apache-2.0",
     "web": "https://github.com/thechampagne/audiodb-nim"
+  },
+  {
+    "name": "nimdotenv",
+    "url": "https://github.com/wioenena-q/nim-dotenv",
+    "method": "git",
+    "tags": [
+      "dotenv"
+    ],
+    "description": "Load local environment variables from .env files",
+    "license": "MIT",
+    "web": "https://wioenena-q.github.io/nim-dotenv/"
   }
 ]
