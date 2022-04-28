@@ -1,5 +1,19 @@
 [
   {
+    "name": "periapsisEngine",
+    "url": "https://github.com/Periapsis-Studios/Periapsis-Engine",
+    "method": "git",
+    "tags": [
+      "game",
+      "engine",
+      "2D"
+    ],
+    "author": "Knedlik",
+    "description": "A 2D game engine made by Periapsis Studios",
+    "license": "MIT",
+    "doc": "https://periapsis-studios.github.io/Periapsis-Engine/theindex.html"
+  },
+  {
     "name": "niprefs",
     "url": "https://github.com/Patitotective/niprefs",
     "method": "git",
@@ -16149,6 +16163,36 @@
     "web": "https://github.com/planetis-m/naylib"
   },
   {
+    "name": "ssostrings",
+    "url": "https://github.com/planetis-m/ssostrings",
+    "method": "git",
+    "tags": [
+      "small-string-optimized",
+      "string",
+      "sso",
+      "optimization",
+      "datatype"
+    ],
+    "description": "Small String Optimized (SSO) string implementation",
+    "license": "MIT",
+    "web": "https://github.com/planetis-m/ssostrings"
+  },
+  {
+    "name": "cowstrings",
+    "url": "https://github.com/planetis-m/cowstrings",
+    "method": "git",
+    "tags": [
+      "copy-on-write",
+      "string",
+      "cow",
+      "optimization",
+      "datatype"
+    ],
+    "description": "Copy-On-Write string implementation",
+    "license": "MIT",
+    "web": "https://github.com/planetis-m/cowstrings"
+  },
+  {
     "name": "golden",
     "url": "https://github.com/disruptek/golden",
     "method": "git",
@@ -25961,5 +26005,16 @@
     "description": "TheAudioDB API client",
     "license": "Apache-2.0",
     "web": "https://github.com/thechampagne/audiodb-nim"
+  },
+  {
+    "name": "nimdotenv",
+    "url": "https://github.com/wioenena-q/nim-dotenv",
+    "method": "git",
+    "tags": [
+      "dotenv"
+    ],
+    "description": "Load local environment variables from .env files",
+    "license": "MIT",
+    "web": "https://wioenena-q.github.io/nim-dotenv"
   }
 ]
