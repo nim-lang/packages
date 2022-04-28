@@ -1,5 +1,14 @@
 [
   {
+    "name": "periapsisEngine",
+    "url": "https://github.com/Periapsis-Studios/Periapsis-Engine",
+    "method": "git",
+    "author": "Knedlik",
+    "description": "A 2D game engine made by Periapsis Studios",
+    "license": "MIT",
+    "doc": "https://periapsis-studios.github.io/Periapsis-Engine/theindex.html"
+  },
+  {
     "name": "niprefs",
     "url": "https://github.com/Patitotective/niprefs",
     "method": "git",
