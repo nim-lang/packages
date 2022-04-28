@@ -3,6 +3,11 @@
     "name": "periapsisEngine",
     "url": "https://github.com/Periapsis-Studios/Periapsis-Engine",
     "method": "git",
+    "tags": [
+      "game",
+      "engine",
+      "2D"
+    ],
     "author": "Knedlik",
     "description": "A 2D game engine made by Periapsis Studios",
     "license": "MIT",
