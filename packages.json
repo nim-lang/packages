@@ -26029,5 +26029,18 @@
     "description": "TheCocktailDB API client",
     "license": "Apache-2.0",
     "web": "https://github.com/thechampagne/cocktaildb-nim"
+  },
+  {
+    "name": "mealdb",
+    "url": "https://github.com/thechampagne/mealdb-nim",
+    "method": "git",
+    "tags": [
+      "api-client",
+      "api-wrapper",
+      "mealdb"
+    ],
+    "description": "TheMealDB API client",
+    "license": "Apache-2.0",
+    "web": "https://github.com/thechampagne/mealdb-nim"
   }
 ]
