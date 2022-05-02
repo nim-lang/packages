@@ -26042,5 +26042,20 @@
     "description": "TheMealDB API client",
     "license": "Apache-2.0",
     "web": "https://github.com/thechampagne/mealdb-nim"
+  },
+  {
+    "name": "nephyr",
+    "url": "https://github.com/EmbeddedNim/nephyr",
+    "method": "git",
+    "tags": [
+      "zephyr",
+      "embedded",
+      "wrapper",
+      "rtos",
+      "mcu"
+    ],
+    "description": "Nim wrapper for Zephyr RTOS",
+    "license": "Apache-2.0",
+    "web": "https://github.com/EmbeddedNim/nephyr"
   }
 ]
