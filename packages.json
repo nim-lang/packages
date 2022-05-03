@@ -26057,5 +26057,17 @@
     "description": "Nim wrapper for Zephyr RTOS",
     "license": "Apache-2.0",
     "web": "https://github.com/EmbeddedNim/nephyr"
+  },
+  {
+    "name": "uspokoysa",
+    "url": "https://github.com/ioplker/uspokoysa",
+    "method": "git",
+    "tags": [
+      "timebreaks",
+      "nigui"
+    ],
+    "description": "Dead simple Nim app for making timebreaks",
+    "license": "BSD-3-Clause",
+    "web": "https://github.com/ioplker/uspokoysa"
   }
 ]
