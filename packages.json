@@ -22838,6 +22838,39 @@
     "license": "Public Domain"
   },
   {
+    "name": "nimwave",
+    "url": "https://github.com/ansiwave/nimwave",
+    "method": "git",
+    "tags": [
+      "tui",
+      "terminal"
+    ],
+    "description": "A TUI -> GUI library",
+    "license": "Public Domain"
+  },
+  {
+    "name": "illwave",
+    "url": "https://github.com/ansiwave/illwave",
+    "method": "git",
+    "tags": [
+      "tui",
+      "terminal"
+    ],
+    "description": "A cross-platform terminal UI library",
+    "license": "WTFPL"
+  },
+  {
+    "name": "ansiutils",
+    "url": "https://github.com/ansiwave/ansiutils",
+    "method": "git",
+    "tags": [
+      "ansi",
+      "cp437"
+    ],
+    "description": "Utilities for parsing CP437 and ANSI escape codes",
+    "license": "Public Domain"
+  },
+  {
     "name": "minecraft_server_status",
     "url": "https://github.com/GabrielLasso/minecraft_server_status",
     "method": "git",
