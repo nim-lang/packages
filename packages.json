@@ -26102,5 +26102,18 @@
     "description": "Dead simple Nim app for making timebreaks",
     "license": "BSD-3-Clause",
     "web": "https://github.com/ioplker/uspokoysa"
+  },
+  {
+    "name": "taskman",
+    "url": "https://github.com/ire4ever1190/taskman",
+    "method": "git",
+    "tags": [
+      "scheduler",
+      "task",
+      "job"
+    ],
+    "description": "A package that manages background async tasks",
+    "license": "MIT",
+    "web": "https://github.com/ire4ever1190/taskman"
   }
 ]
