@@ -26112,8 +26112,9 @@
       "task",
       "job"
     ],
-    "description": "A package that manages background async tasks",
+    "description": "A package that manages background tasks on a schedule",
     "license": "MIT",
-    "web": "https://github.com/ire4ever1190/taskman"
+    "web": "https://github.com/ire4ever1190/taskman",
+    "doc": "https://tempdocs.netlify.app/taskman/stable"
   }
 ]
