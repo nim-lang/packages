@@ -25883,16 +25883,17 @@
     "web": "https://gitlab.com/lurlo/parsepage"
   },
   {
-    "name": "resultutils",
-    "url": "https://github.com/nonnil/resultutils",
+    "name": "resultsutils",
+    "url": "https://github.com/nonnil/resultsutils",
     "method": "git",
     "tags": [
       "result",
-      "results"
+      "results",
+      "error"
     ],
     "description": "Utility macros for easier handling of Result",
     "license": "MIT",
-    "web": "https://github.com/nonnil/resultutils"
+    "web": "https://github.com/nonnil/resultsutils"
   },
   {
     "name": "stdarg",
