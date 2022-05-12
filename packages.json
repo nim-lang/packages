@@ -26147,6 +26147,18 @@
     "web": "https://git.sr.ht/~xigoi/matext"
   },
   {
+    "name": "smoothing",
+    "url": "https://github.com/paulnorrie/smoothing",
+    "method": "git",
+    "tags": [
+      "math",
+      "statistics"
+    ],
+    "description": "Smoothing functions for Regression and Density Estimation",
+    "license": "GPL-3.0-or-later",
+    "web": "https://github.com/paulnorrie/smoothing"
+  },
+  {
     "name": "blarg",
     "url": "https://github.com/squattingmonk/blarg",
     "method": "git",
