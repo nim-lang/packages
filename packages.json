@@ -26193,5 +26193,18 @@
     "description": "A fast Hyper Server & Web Framework",
     "license": "MIT",
     "web": "https://github.com/supranim/supranim"
+  },
+  {
+    "name": "leopard",
+    "url": "https://github.com/status-im/nim-leopard",
+    "method": "git",
+      "tags": [
+        "data-recovery",
+        "erasure-coding",
+        "reed-solomon"
+    ],
+    "description": "Nim wrapper for Leopard-RS: a fast library for Reed-Solomon erasure correction coding",
+    "license": "Apache-2.0",
+    "web": "https://github.com/status-im/nim-leopard"
   }
 ]
