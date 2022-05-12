@@ -26175,5 +26175,23 @@
     "description": "A simple to use HTTP rate limiting library to limit any action during a specific period of time.",
     "license": "MIT",
     "web": "https://github.com/supranim/limiter"
+  },
+  {
+    "name": "supranim",
+    "url": "https://github.com/supranim/supranim",
+    "method": "git",
+    "tags": [
+      "framework",
+      "web-development",
+      "web",
+      "webdev",
+      "web-application",
+      "http",
+      "httpframework",
+      "supranim"
+    ],
+    "description": "A fast Hyper Server & Web Framework",
+    "license": "MIT",
+    "web": "https://github.com/supranim/supranim"
   }
 ]
