@@ -1,17 +1,5 @@
 [
   {
-    "name": "smoothing",
-    "url": "https://github.com/paulnorrie/smoothing",
-    "method": "git",
-    "tags": [
-      "math",
-      "statistics"
-    ],
-    "author": "Paul Norrie",
-    "description": "Smoothing functions for Regression and Density Estimation",
-    "license": "GPL3"
-  },
-  {
     "name": "periapsisEngine",
     "url": "https://github.com/Periapsis-Studios/Periapsis-Engine",
     "method": "git",
