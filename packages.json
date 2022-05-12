@@ -26145,5 +26145,19 @@
     "description": "Render LaTeX math as multiline Unicode text",
     "license": "GPL-3.0-or-later",
     "web": "https://git.sr.ht/~xigoi/matext"
+  },
+  {
+    "name": "blarg",
+    "url": "https://github.com/squattingmonk/blarg",
+    "method": "git",
+    "tags": [
+      "command-line",
+      "options",
+      "arguments",
+      "parseopt"
+    ],
+    "description": "A basic little argument parser",
+    "license": "MIT",
+    "web": "https://github.com/squattingmonk/blarg"
   }
 ]
