@@ -1,5 +1,5 @@
 [
- {
+  {
     "name": "smoothing",
     "url": "https://github.com/paulnorrie/smoothing",
     "method": "git",
@@ -26157,5 +26157,17 @@
     "description": "Render LaTeX math as multiline Unicode text",
     "license": "GPL-3.0-or-later",
     "web": "https://git.sr.ht/~xigoi/matext"
+  },
+  {
+    "name": "smoothing",
+    "url": "https://github.com/paulnorrie/smoothing",
+    "method": "git",
+    "tags": [
+      "math",
+      "statistics"
+    ],
+    "description": "Smoothing functions for Regression and Density Estimation",
+    "license": "GPL-3.0-or-later",
+    "web": "https://github.com/paulnorrie/smoothing"
   }
 ]
