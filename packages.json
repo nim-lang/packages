@@ -26159,5 +26159,21 @@
     "description": "A basic little argument parser",
     "license": "MIT",
     "web": "https://github.com/squattingmonk/blarg"
+  },
+  {
+    "name": "limiter",
+    "url": "https://github.com/supranim/limiter",
+    "method": "git",
+    "tags": [
+      "http",
+      "limiter",
+      "rate-limiter",
+      "throttle",
+      "api",
+      "supranim"
+    ],
+    "description": "A simple to use HTTP rate limiting library to limit any action during a specific period of time.",
+    "license": "MIT",
+    "web": "https://github.com/supranim/limiter"
   }
 ]
