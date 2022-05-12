@@ -26157,5 +26157,35 @@
     "description": "Smoothing functions for Regression and Density Estimation",
     "license": "GPL-3.0-or-later",
     "web": "https://github.com/paulnorrie/smoothing"
+  },
+  {
+    "name": "blarg",
+    "url": "https://github.com/squattingmonk/blarg",
+    "method": "git",
+    "tags": [
+      "command-line",
+      "options",
+      "arguments",
+      "parseopt"
+    ],
+    "description": "A basic little argument parser",
+    "license": "MIT",
+    "web": "https://github.com/squattingmonk/blarg"
+  },
+  {
+    "name": "limiter",
+    "url": "https://github.com/supranim/limiter",
+    "method": "git",
+    "tags": [
+      "http",
+      "limiter",
+      "rate-limiter",
+      "throttle",
+      "api",
+      "supranim"
+    ],
+    "description": "A simple to use HTTP rate limiting library to limit any action during a specific period of time.",
+    "license": "MIT",
+    "web": "https://github.com/supranim/limiter"
   }
 ]
