@@ -26210,13 +26210,30 @@
     "name": "leopard",
     "url": "https://github.com/status-im/nim-leopard",
     "method": "git",
-      "tags": [
-        "data-recovery",
-        "erasure-coding",
-        "reed-solomon"
+    "tags": [
+      "data-recovery",
+      "erasure-coding",
+      "reed-solomon"
     ],
     "description": "Nim wrapper for Leopard-RS: a fast library for Reed-Solomon erasure correction coding",
     "license": "Apache-2.0",
     "web": "https://github.com/status-im/nim-leopard"
+  },
+  {
+    "name": "emitter",
+    "url": "https://github.com/supranim/emitter",
+    "method": "git",
+    "tags": [
+      "events",
+      "event-emitter",
+      "emitter",
+      "listener",
+      "subscriber",
+      "subscribe",
+      "actions"
+    ],
+    "description": "Supranim's Event Emitter - Subscribe & listen for various events within your application",
+    "license": "MIT",
+    "web": "https://github.com/supranim/emitter"
   }
 ]
