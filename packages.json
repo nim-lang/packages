@@ -26235,5 +26235,18 @@
     "description": "Supranim's Event Emitter - Subscribe & listen for various events within your application",
     "license": "MIT",
     "web": "https://github.com/supranim/emitter"
+  },
+  {
+    "name": "libharu",
+    "url": "https://github.com/z-kk/libharu",
+    "method": "git",
+    "tags": [
+      "pdf",
+      "hpdf",
+      "libharu"
+    ],
+    "description": "library for libharu",
+    "license": "MIT",
+    "web": "https://github.com/z-kk/libharu"
   }
 ]
