@@ -26262,5 +26262,13 @@
     "license": "MIT",
     "web": "https://sr.ht/~mjaa/odbcn-nim/",
     "doc": "https://mjaa.srht.site/odbcn-nim/odbcn.html"
+  },
+  {
+    "name": "capstone",
+    "url": "https://github.com/hdbg/capstone-nim",
+    "method": "git",
+    "tags": ["wrapper", "disasm"],
+    "description":"Capstone3 high-level wrapper",
+    "license": "MIT"
   }
 ]
