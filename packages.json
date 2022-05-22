@@ -1,5 +1,18 @@
 [
   {
+    "name": "artemis",
+    "url": "https://git.skylarhill.me/skylar/artemis",
+    "method": "git",
+    "tags": [
+      "gemini",
+      "server",
+      "async"
+    ],
+    "author": "Skylar Hill",
+    "description": "A simple Nim server for the Gemini protocol. Forked from geminim",
+    "license": "GPLv3"
+  },
+  {
     "name": "periapsisEngine",
     "url": "https://github.com/Periapsis-Studios/Periapsis-Engine",
     "method": "git",
