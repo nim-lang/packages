@@ -1,4 +1,3 @@
-
 # A very simple Nim package scanner.
 #
 # Scans the package list from this repository.
@@ -12,50 +11,94 @@
 #  * Missing/unknown license
 #  * Insecure git:// url on GitHub
 #
-# Usage: nim c -d:ssl -r package_scanner.nim
+# Usage: nim r -d:ssl package_scanner.nim
 #
 # Copyright 2015 Federico Ceratto <federico.ceratto@gmail.com>
 # Released under GPLv3 License, see /usr/share/common-licenses/GPL-3
 
-import httpclient
-import net
-import json
-import os
-import sets
-import strutils
+import std/[httpclient, net, json, os, sets, strutils]
 
-const
-  LICENSES = @[
-    "Allegro 4 Giftware",
-    "Apache License 2.0",
-    "BSD",
-    "BSD2",
-    "BSD3",
-    "CC0",
-    "GPL",
-    "GPLv2",
-    "GPLv3",
-    "LGPLv2",
-    "LGPLv3",
-    "MIT",
-    "MS-PL",
-    "MPL",
-    "WTFPL",
+const licenses = [
+    "allegro 4 giftware",
+    "apache license 2.0",
+    "apache",
+    "apache2",
+    "apache 2.0",
+    "apache-2.0",
+    "apache-2.0 license",
+    "apache version 2.0",
+    "mit or apache 2.0",
+    "apache license 2.0 or mit",
+    "mit or apache license 2.0",
+    "(mit or apache license 2.0) and simplified bsd",
+    "lxxsdt-mit",
+    "lgplv2.1",
+    "0bsd",
+    "bsd",
+    "bsd2",
+    "bsd-2",
+    "bsd3",
+    "bsd-3",
+    "bsd 3-clause",
+    "bsd-3-clause",
+    "boost",
+    "boost-1.0",
+    "bsl",
+    "bsl-1.0",
+    "2-clause bsd",
+    "cc0",
+    "cc0-1.0",
+    "gpl",
+    "gpl2",
+    "gpl3",
+    "gplv2",
+    "gplv3",
+    "gplv3+",
+    "gpl-2.0",
+    "agpl-3.0",
+    "gpl-3.0",
+    "gpl-3.0-or-later",
+    "gpl-3.0-only",
+    "lgplv3 or gplv2",
+    "apache 2.0 or gplv2",
+    "lgpl-2.1-or-later",
+    "lgpl with static linking exception",
+    "gnu lesser general public license v2.1",
+    "openldap",
+    "lgpl",
+    "lgplv2",
+    "lgplv3",
+    "lgpl-2.1",
+    "lgpl-3.0",
+    "agplv3",
+    "mit",
+    "mit/isc",
+    "ms-pl",
+    "mpl",
+    "mplv2",
+    "mpl-2.0",
+    "mpl 2.0",
+    "epl-2.0",
+    "eupl-1.2",
+    "wtfpl",
     "libpng",
+    "fontconfig",
     "zlib",
-    "ISC",
-    "Unlicense"
+    "isc",
+    "ppl",
+    "hydra",
+    "openssl and ssleay",
+    "unlicense",
+    "public domain",
+    "proprietary",
   ]
-  VCS_TYPES = @["git", "hg"]
 
 proc canFetchNimbleRepository(name: string, urlJson: JsonNode): bool =
-  # The fetch is a lie!
   # TODO: Make this check the actual repo url and check if there is a
   #       nimble file in it
   result = true
   var url: string
-  var client = newHttpClient(timeout=100000)
-  defer: client.close()
+  var client = newHttpClient(timeout = 100_000)
 
   if not urlJson.isNil:
     url = urlJson.str
@@ -64,76 +107,73 @@ proc canFetchNimbleRepository(name: string, urlJson: JsonNode): bool =
         client.headers = newHttpHeaders({"authorization": "Bearer " & getEnv("GITHUB_TOKEN")})
     try:
       discard client.getContent(url)
-    except HttpRequestError, TimeoutError:
-      echo "W: ", name, ": unable to fetch repo ", url, " ",
-           getCurrentExceptionMsg()
-    except AssertionError:
-      echo "W: ", name, ": httpclient failed ", url, " ",
-           getCurrentExceptionMsg()
+    except TimeoutError:
+      echo "W: ", name, ": Timeout error fetching repo ", url, " ", getCurrentExceptionMsg()
+    except HttpRequestError:
+      echo "W: ", name, ": HTTP error fetching repo ", url, " ", getCurrentExceptionMsg()
+    except AssertionDefect:
+      echo "W: ", name, ": httpclient error fetching repo ", url, " ", getCurrentExceptionMsg()
     except:
-      echo "W: Another error attempting to request: ", url
-      echo "  Error was: ", getCurrentExceptionMsg()
+      echo "W: Unkown error fetching repo ", url, " ", getCurrentExceptionMsg()
+    finally:
+      client.close()
 
-proc verifyAlias(pdata: JsonNode, result: var int) =
-  if not pdata.hasKey("name"):
-    echo "E: missing alias' package name"
-    result.inc()
-
+proc verifyAlias(pkg: JsonNode, result: var int) =
+  if not pkg.hasKey("name"):
+    echo "E: Missing alias' package name"
+    inc result
   # TODO: Verify that 'alias' points to a known package.
 
 proc check(): int =
   var name: string
-  echo ""
-  let pkg_list = parseJson(readFile(getCurrentDir() / "packages.json"))
-  var names = initSet[string]()
+  var names = initHashSet[string]()
 
-  for pdata in pkg_list:
-    name = if pdata.hasKey("name"): pdata["name"].str else: ""
-
-    if pdata.hasKey("alias"):
-      verifyAlias(pdata, result)
+  for pkg in parseJson(readFile(getCurrentDir() / "packages.json")):
+    name = if pkg.hasKey("name"): pkg["name"].str else: ""
+    if pkg.hasKey("alias"):
+      verifyAlias(pkg, result)
     else:
-      if name == "":
+      if name.len == 0:
         echo "E: missing package name"
-        result.inc()
-      elif not pdata.hasKey("method"):
+        inc result
+      elif not pkg.hasKey("method"):
         echo "E: ", name, " has no method"
-        result.inc()
-      elif not (pdata["method"].str in VCS_TYPES):
-        echo "E: ", name, " has an unknown method: ", pdata["method"].str
-        result.inc()
-      elif not pdata.hasKey("url"):
+        inc result
+      elif pkg["method"].str notin ["git", "hg"]:
+        echo "E: ", name, " has an unknown method: ", pkg["method"].str
+        inc result
+      elif not pkg.hasKey("url"):
         echo "E: ", name, " has no URL"
-        result.inc()
-      elif pdata.hasKey("web") and not canFetchNimbleRepository(name, pdata["web"]):
-        result.inc()
-      elif not pdata.hasKey("tags"):
+        inc result
+      elif not pkg.hasKey("tags"):
         echo "E: ", name, " has no tags"
-        result.inc()
-      elif not pdata.hasKey("description"):
+        inc result
+      elif not pkg.hasKey("description"):
         echo "E: ", name, " has no description"
-        result.inc()
-      elif not pdata.hasKey("license"):
+        inc result
+      elif pkg.hasKey("description") and pkg["description"].str == "":
+        echo "E: ", name, " has empty description"
+        inc result
+      elif not pkg.hasKey("license"):
         echo "E: ", name, " has no license"
-        result.inc()
-      elif pdata["url"].str.normalize.startsWith("git://github.com/"):
+        inc result
+      elif pkg["url"].str.normalize.startsWith("git://github.com/"):
         echo "E: ", name, " has an insecure git:// URL instead of https://"
-        result.inc()
-      else:
-        # Other warnings should go here
-        if not (pdata["license"].str in LICENSES):
-          echo "W: ", name, " has an unexpected license: ", pdata["license"]
+        inc result
+      elif pkg["license"].str.toLowerAscii notin licenses:
+        echo "E: ", name, " has an unexpected license: ", pkg["license"]
+        inc result
+      elif pkg.hasKey("web") and not canFetchNimbleRepository(name, pkg["web"]):
+        echo "W: Failed to fetch source code repo for ", name
 
     if name.normalize notin names:
-      names.incl(name.normalize)
+      names.incl name.normalize
     else:
       echo("E: ", name, ": a package by that name already exists.")
-      result.inc()
+      inc result
 
-  echo ""
-  echo "Problematic packages count: ", result
+  echo "\nProblematic packages count: ", result
 
 
 when isMainModule:
   quit(check())
-
