@@ -26299,5 +26299,20 @@
     "description": "ipfs http client",
     "license": "Apache-2.0",
     "web": "https://github.com/xflywind/ipfshttpclient"
+  },
+  {
+    "name": "mouse",
+    "url": "https://github.com/hiikion/mouse",
+    "method": "git",
+    "tags": [
+      "mouse",
+      "windows",
+      "linux",
+      "winapi",
+      "xdo"
+    ],
+    "description": "Mouse interactions in nim",
+    "license": "MPL-2.0",
+    "web": "https://github.com/hiikion/mouse"
   }
 ]
