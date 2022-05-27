@@ -5,7 +5,7 @@
     "method": "git", 
     "tags": [
       "dialogs", 
-      "file dialogs"
+      "file-dialogs"
     ], 
     "description": "Tiny file dialogs Nim bindings.", 
     "license": "MIT", 
