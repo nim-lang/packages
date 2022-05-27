@@ -1,7 +1,7 @@
 [
   {
-    "name": "tinyfiledialogs", 
-    "url": "https://github.com/Patitotective/tinyfiledialogs.nim", 
+    "name": "tinydialogs", 
+    "url": "https://github.com/Patitotective/tinydialogs", 
     "method": "git", 
     "tags": [
       "dialogs", 
@@ -9,7 +9,7 @@
     ], 
     "description": "Tiny file dialogs Nim bindings.", 
     "license": "MIT", 
-    "web": "https://github.com/Patitotective/tinyfiledialogs.nim"
+    "web": "https://github.com/Patitotective/tinydialogs"
   },
   {
     "name": "artemis",
