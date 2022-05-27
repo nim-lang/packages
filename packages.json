@@ -4,9 +4,8 @@
     "url": "https://github.com/Patitotective/nim_tinyfiledialogs", 
     "method": "git", 
     "tags": [
-      "wrapper", 
-      "bindings", 
-      "tinyfd"
+      "dialogs", 
+      "file dialogs"
     ], 
     "description": "Tiny file dialogs Nim bindings.", 
     "license": "MIT", 
