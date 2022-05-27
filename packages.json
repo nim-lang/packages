@@ -10,7 +10,7 @@
     ], 
     "description": "Tiny file dialogs Nim bindings.", 
     "license": "MIT", 
-    "web": "https://github.com/Patitotective/nim_tinyfiledialogs", 
+    "web": "https://github.com/Patitotective/nim_tinyfiledialogs"
   },
   {
     "name": "artemis",
