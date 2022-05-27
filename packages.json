@@ -1,5 +1,18 @@
 [
   {
+    "name": "nim_tinyfiledialogs", 
+    "url": "https://github.com/Patitotective/nim_tinyfiledialogs", 
+    "method": "git", 
+    "tags": [
+      "wrapper", 
+      "bindings", 
+      "tinyfd"
+    ], 
+    "description": "Tiny file dialogs Nim bindings.", 
+    "license": "MIT", 
+    "web": "https://github.com/Patitotective/nim_tinyfiledialogs", 
+  },
+  {
     "name": "artemis",
     "url": "https://git.skylarhill.me/skylar/artemis",
     "method": "git",
