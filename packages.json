@@ -1,14 +1,14 @@
 [
   {
-    "name": "tinydialogs", 
-    "url": "https://github.com/Patitotective/tinydialogs", 
-    "method": "git", 
+    "name": "tinydialogs",
+    "url": "https://github.com/Patitotective/tinydialogs",
+    "method": "git",
     "tags": [
-      "dialogs", 
+      "dialogs",
       "file-dialogs"
-    ], 
-    "description": "Tiny file dialogs Nim bindings.", 
-    "license": "MIT", 
+    ],
+    "description": "Tiny file dialogs Nim bindings.",
+    "license": "MIT",
     "web": "https://github.com/Patitotective/tinydialogs"
   },
   {
@@ -26326,5 +26326,16 @@
     "description": "Mouse interactions in nim",
     "license": "MPL-2.0",
     "web": "https://github.com/hiikion/mouse"
+  },
+  {
+    "name": "autoderef",
+    "url": "https://github.com/sls1005/autoderef",
+    "method": "git",
+    "tags": [
+      "sugar"
+    ],
+    "description": "Syntax sugar which supports auto-dereferencing",
+    "license": "MIT",
+    "web": "https://github.com/sls1005/autoderef"
   }
 ]
