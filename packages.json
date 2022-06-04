@@ -26343,7 +26343,7 @@
     "url": "https://github.com/choltreppe/nim_receq",
     "method": "git",
     "tags": [
-      "compare".
+      "compare",
       "eq"
     ],
     "description": "Operator for comparing any recursive ref object",
