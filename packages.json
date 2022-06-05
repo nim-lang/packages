@@ -1,5 +1,19 @@
 [
   {
+    "name": "rpgsheet",
+    "url": "https://git.skylarhill.me/skylar/rpgsheet",
+    "method": "git",
+    "tags": [
+      "tui",
+      "ttrpg",
+      "dnd",
+      "rpg"
+    ],
+    "description": "System-agnostic CLI/TUI for tabletop roleplaying game character sheets",
+    "license": "GPLv3",
+    "web": "https://git.skylarhill.me/skylar/rpgsheet"
+  },
+  {
     "name": "tinydialogs",
     "url": "https://github.com/Patitotective/tinydialogs",
     "method": "git",
