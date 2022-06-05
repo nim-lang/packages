@@ -26363,5 +26363,23 @@
     "description": "Operator for comparing any recursive ref object",
     "license": "MIT",
     "web": "https://github.com/choltreppe/nim_receq"
+  },
+  {
+    "name": "cdecl",
+    "url": "https://github.com/elcritch/cdecl",
+    "method": "git",
+    "tags": [
+      "cmacros",
+      "c++",
+      "c",
+      "macros",
+      "variables",
+      "declaration",
+      "utilities",
+      "wrapper"
+    ],
+    "description": "Nim helper for using C Macros",
+    "license": "MIT",
+    "web": "https://github.com/elcritch/cdecl"
   }
 ]
