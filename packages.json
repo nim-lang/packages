@@ -26381,5 +26381,19 @@
     "description": "Nim helper for using C Macros",
     "license": "MIT",
     "web": "https://github.com/elcritch/cdecl"
+    "name": "fidgetty",
+    "url": "https://github.com/elcritch/fidgets",
+    "method": "git",
+    "tags": [
+      "ui",
+      "widgets",
+      "widget",
+      "opengl",
+      "immediate",
+      "mode"
+    ],
+    "description": "Widget library built on Fidget written in pure Nim and OpenGL rendered",
+    "license": "MIT",
+    "web": "https://github.com/elcritch/fidgets"
   }
 ]
