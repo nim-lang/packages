@@ -26381,6 +26381,8 @@
     "description": "Nim helper for using C Macros",
     "license": "MIT",
     "web": "https://github.com/elcritch/cdecl"
+  },
+  {
     "name": "fidgetty",
     "url": "https://github.com/elcritch/fidgets",
     "method": "git",
