@@ -26363,5 +26363,21 @@
     "description": "Operator for comparing any recursive ref object",
     "license": "MIT",
     "web": "https://github.com/choltreppe/nim_receq"
+  },
+  {
+    "name": "fidgetty",
+    "url": "https://github.com/elcritch/fidgets",
+    "method": "git",
+    "tags": [
+      "ui",
+      "widgets",
+      "widget",
+      "opengl",
+      "immediate",
+      "mode"
+    ],
+    "description": "Widget library built on Fidget written in pure Nim and OpenGL rendered",
+    "license": "MIT",
+    "web": "https://github.com/elcritch/fidgets"
   }
 ]
