@@ -1949,6 +1949,34 @@
     "web": "https://github.com/PMunch/ratel"
   },
   {
+    "name": "coap",
+    "url": "https://github.com/PMunch/libcoap",
+    "method": "git",
+    "tags": [
+      "library",
+      "coap",
+      "wrapper",
+      "futhark"
+    ],
+    "description": "libcoap C library wrapped in Nim with full async integration",
+    "license": "MIT",
+    "web": "https://github.com/PMunch/libcoap"
+  },
+  {
+    "name": "ikeahomesmart",
+    "url": "https://github.com/PMunch/ikeahomesmart",
+    "method": "git",
+    "tags": [
+      "library",
+      "ikea",
+      "homesmart",
+      "coap"
+    ],
+    "description": "IKEA Home Smart library to monitor and control lights through the IKEA Gateway",
+    "license": "MIT",
+    "web": "https://github.com/PMunch/ikeahomesmart"
+  },
+  {
     "name": "sdl2_nim",
     "url": "https://github.com/Vladar4/sdl2_nim",
     "method": "git",
