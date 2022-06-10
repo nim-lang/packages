@@ -26440,5 +26440,16 @@
     "description": "Widget library built on Fidget written in pure Nim and OpenGL rendered",
     "license": "MIT",
     "web": "https://github.com/elcritch/fidgets"
+  },
+  {
+    "name": "pixels",
+    "url": "https://github.com/Araq/pixels",
+    "method": "git",
+    "tags": [
+      "graphics"
+    ],
+    "description": "Toy support library for primitive graphics programming.",
+    "license": "MIT",
+    "web": "https://github.com/Araq/pixels"
   }
 ]
