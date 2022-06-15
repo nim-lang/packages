@@ -26481,5 +26481,19 @@
     "description": "A tiny utility package to extract Nimble information from any project",
     "license": "MIT",
     "web": "https://github.com/openpeep/pkginfo"
+  },
+  {
+    "name": "imstyle",
+    "url": "https://github.com/Patitotective/ImStyle",
+    "method": "git",
+    "tags": [
+      "style",
+      "imgui",
+      "toml",
+      "dear-imgui"
+    ],
+    "description": "A nice way to manage your ImGui application's style",
+    "license": "MIT",
+    "web": "https://github.com/Patitotective/ImStyle"
   }
 ]
