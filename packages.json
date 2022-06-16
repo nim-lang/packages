@@ -26515,7 +26515,7 @@
     "method": "git",
     "tags": [
       "graphics",
-      "library",
+      "library"
     ],
     "description": "Farbfeld Encoder and Decoder written in Nim.",
     "license": "MIT",
