@@ -26508,5 +26508,17 @@
     "description": "An asynchronous donwload system.",
     "license": "MIT",
     "web": "https://github.com/Patitotective/downit"
+  },
+  {
+    "name": "nimFF",
+    "url": "https://github.com/egeoz/nimFF",
+    "method": "git",
+    "tags": [
+      "graphics",
+      "library",
+    ],
+    "description": "Farbfeld Encoder and Decoder written in Nim.",
+    "license": "MIT",
+    "web": "https://github.com/egeoz/nimFF"
   }
 ]
