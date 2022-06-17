@@ -26520,5 +26520,16 @@
     "description": "Farbfeld Encoder and Decoder written in Nim.",
     "license": "MIT",
     "web": "https://github.com/egeoz/nimFF"
+  },
+  {
+    "name": "splitmix64",
+    "url": "https://github.com/IcedQuinn/splitmix64",
+    "method": "git",
+    "tags": [
+      "random"
+    ],
+    "description": "Tiny random number generator.",
+    "license": "CC0",
+    "web": "https://github.com/IcedQuinn/splitmix64"
   }
 ]
