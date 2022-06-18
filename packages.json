@@ -26531,5 +26531,18 @@
     "description": "Tiny random number generator.",
     "license": "CC0",
     "web": "https://github.com/IcedQuinn/splitmix64"
+  },
+  {
+    "name": "anano",
+    "url": "https://github.com/ire4ever1190/anano",
+    "method": "git",
+    "tags": [
+      "identifier",
+      "random"
+    ],
+    "description": "Another nanoID implementation for nim",
+    "license": "MIT",
+    "web": "https://github.com/ire4ever1190/anano",
+    "doc": "https://tempdocs.netlify.app/anano/stable"
   }
 ]
