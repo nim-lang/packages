@@ -36,7 +36,8 @@
     ],
     "description": "Tiny file dialogs Nim bindings.",
     "license": "MIT",
-    "web": "https://github.com/Patitotective/tinydialogs"
+    "web": "https://github.com/Patitotective/tinydialogs",
+    "doc": "http://nimopenurl.surge.sh/openurl.html"
   },
   {
     "name": "artemis",
