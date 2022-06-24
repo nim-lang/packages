@@ -24,7 +24,8 @@
     ],
     "description": "Open Any Url/File in the default App / WebBrowser.",
     "license": "MIT",
-    "web": "https://github.com/foxoman/openurl"
+    "web": "https://github.com/foxoman/openurl",
+    "doc": "http://nimopenurl.surge.sh/openurl.html"
   },
   {
     "name": "tinydialogs",
@@ -36,8 +37,7 @@
     ],
     "description": "Tiny file dialogs Nim bindings.",
     "license": "MIT",
-    "web": "https://github.com/Patitotective/tinydialogs",
-    "doc": "http://nimopenurl.surge.sh/openurl.html"
+    "web": "https://github.com/Patitotective/tinydialogs"
   },
   {
     "name": "artemis",
