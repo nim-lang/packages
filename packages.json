@@ -14,6 +14,19 @@
     "web": "https://git.skylarhill.me/skylar/rpgsheet"
   },
   {
+    "name": "openurl",
+    "url": "https://github.com/foxoman/openurl",
+    "method": "git",
+    "tags": [
+      "open",
+      "url",
+      "uri"
+    ],
+    "description": "Open Any Url/File in the default App / WebBrowser.",
+    "license": "MIT",
+    "web": "https://github.com/foxoman/openurl"
+  },
+  {
     "name": "tinydialogs",
     "url": "https://github.com/Patitotective/tinydialogs",
     "method": "git",
