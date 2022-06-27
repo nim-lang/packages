@@ -26558,5 +26558,19 @@
     "license": "MIT",
     "web": "https://github.com/ire4ever1190/anano",
     "doc": "https://tempdocs.netlify.app/anano/stable"
+  },
+  {
+    "name": "libsodium",
+    "url": "https://github.com/zimawhit3/nim-libsodium",
+    "method": "git",
+    "tags": [
+      "library",
+      "wrapper",
+      "crypto",
+      "sodium"
+    ],
+    "description": "libsodium wrapper",
+    "license": "MPL-2.0",
+    "web": "https://github.com/zimawhit3/nim-libsodium"
   }
 ]
