@@ -7082,6 +7082,21 @@
     "web": "https://github.com/status-im/nim-libp2p"
   },
   {
+    "name": "libp2pdht",
+    "url": "https://github.com/status-im/nim-libp2p-dht",
+    "method": "git",
+    "tags": [
+      "library",
+      "networking",
+      "libp2p",
+      "dhs",
+      "kademlia"
+    ],
+    "description": "DHT based on the libp2p Kademlia spec",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/status-im/nim-libp2p"
+  },
+  {
     "name": "rlp",
     "url": "https://github.com/status-im/nim-rlp",
     "method": "git",
