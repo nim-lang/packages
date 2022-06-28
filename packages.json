@@ -26558,5 +26558,17 @@
     "license": "MIT",
     "web": "https://github.com/ire4ever1190/anano",
     "doc": "https://tempdocs.netlify.app/anano/stable"
-  }
+  },
+    {
+    "name": "pwnedpass",
+    "url": "https://github.com/foxoman/pwnedpass",
+    "method": "git",
+    "tags": [
+      "pwned",
+      "pwnedpasswords"
+    ],
+    "description": "Check if a passphrase has been pwned using the Pwned Passwords v3 API",
+    "license": "MIT",
+    "web": "https://github.com/foxoman/pwnedpass"
+    }
 ]
