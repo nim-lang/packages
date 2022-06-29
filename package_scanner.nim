@@ -50,6 +50,7 @@ const licenses = [
     "cc0-1.0",
     "gpl",
     "gpl2",
+    "gpl-2.0-only",
     "gpl3",
     "gplv2",
     "gplv3",
