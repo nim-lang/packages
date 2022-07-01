@@ -16201,7 +16201,7 @@
     ],
     "description": "Generating structured data from arbitrary, unstructured input.",
     "license": "MIT",
-    "web": "https://github.com/planetis-m/bingo"
+    "web": "https://github.com/planetis-m/arbitrary"
   },
   {
     "name": "gnuplotlib",
