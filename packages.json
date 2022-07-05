@@ -26613,5 +26613,20 @@
     "description": "A 2D Sequence Implementation",
     "license": "GPL-2.0-only",
     "web": "https://github.com/avahe-kellenberger/seq2d"
+  },
+  {
+    "name": "fushin",
+    "url": "https://github.com/eggplants/fushin",
+    "method": "git",
+    "tags": [
+      "library",
+      "cli",
+      "parser",
+      "html"
+    ],
+    "description": "Fetch fushinsha serif data and save as csv files",
+    "license": "MIT",
+    "web": "https://github.com/eggplants/fushin",
+    "doc": "https://egpl.ga/fushin/fushin.html"
   }
 ]
