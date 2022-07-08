@@ -26655,7 +26655,7 @@
     "description": "A game engine in Nim with an opengl backend",
     "license": "MIT",
     "web": "https://github.com/bob16795/hangover"
-  }
+  },
   {
     "name": "wttrin",
     "url": "https://github.com/Infinitybeond1/wttrin",
