@@ -26667,7 +26667,7 @@
       "nim",
       "wttrin"
     ],
-    "description": "A CLI tool to fetch weather data from wttr.in",
+    "description": "A library with functions to fetch weather data from wttr.in",
     "license": "GPL-3.0-or-later",
     "web": "https://github.com/Infinitybeond1/wttrin"
   }
