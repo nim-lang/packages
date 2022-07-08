@@ -26664,7 +26664,6 @@
       "weather",
       "weather-api",
       "cli",
-      "nim",
       "wttrin"
     ],
     "description": "A library with functions to fetch weather data from wttr.in",
