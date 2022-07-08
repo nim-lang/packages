@@ -26655,5 +26655,19 @@
     "description": "A game engine in Nim with an opengl backend",
     "license": "MIT",
     "web": "https://github.com/bob16795/hangover"
+  },
+  {
+    "name": "wttrin",
+    "url": "https://github.com/Infinitybeond1/wttrin",
+    "method": "git",
+    "tags": [
+      "weather",
+      "weather-api",
+      "cli",
+      "wttrin"
+    ],
+    "description": "A library with functions to fetch weather data from wttr.in",
+    "license": "GPL-3.0-or-later",
+    "web": "https://github.com/Infinitybeond1/wttrin"
   }
 ]
