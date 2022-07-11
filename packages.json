@@ -1424,27 +1424,6 @@
     "web": "https://github.com/achesak/nim-coverartarchive"
   },
   {
-    "name": "nim-ogg",
-    "alias": "ogg"
-  },
-  {
-    "name": "ogg",
-    "url": "https://bitbucket.org/BitPuffin/nim-ogg",
-    "method": "hg",
-    "tags": [
-      "library",
-      "wrapper",
-      "binding",
-      "audio",
-      "sound",
-      "video",
-      "metadata",
-      "media"
-    ],
-    "description": "Binding to libogg",
-    "license": "CC0"
-  },
-  {
     "name": "nim-vorbis",
     "alias": "vorbis"
   },
