@@ -10229,6 +10229,23 @@
     "web": "https://github.com/Vindaar/nimnlopt"
   },
   {
+    "name": "nimwin",
+    "url": "https://github.com/TriedAngle/nimwin",
+    "method": "git",
+    "tags": [
+      "gui",
+      "opengl",
+      "vulkan",
+      "web",
+      "windowing",
+      "window",
+      "graphics"
+    ],
+    "description": "Platform Agnostic Windowing Library for Nim",
+    "license": "Apache-2.0",
+    "web": "https://github.com/TriedAngle/nimwin"
+  },
+  {
     "name": "itertools",
     "url": "https://github.com/narimiran/itertools",
     "method": "git",
