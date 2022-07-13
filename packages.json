@@ -26661,5 +26661,19 @@
     "description": "A library with functions to fetch weather data from wttr.in",
     "license": "GPL-3.0-or-later",
     "web": "https://github.com/Infinitybeond1/wttrin"
+  },
+  {
+    "name": "nimiSlides",
+    "url": "https://github.com/HugoGranstrom/nimib-reveal/",
+    "method": "git",
+    "tags": [
+      "presentation",
+      "slideshow",
+      "nimib",
+      "reveal"
+    ],
+    "description": "Create Reveal.js slideshows in Nim",
+    "license": "MIT",
+    "web": "https://github.com/HugoGranstrom/nimib-reveal/"
   }
 ]
