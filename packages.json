@@ -26705,5 +26705,17 @@
     "description": "RayTracing Algorith in Nim",
     "license": "GPL-3.0",
     "web": "https://github.com/lorycontixd/RaytracingAlgorithm"
+  },
+  {
+    "name": "RaytracingAlgorithm",
+    "url": "https://github.com/lorycontixd/RaytracingAlgorithm",
+    "method": "git",
+    "tags": [
+      "raytracer",
+      "library"
+    ],
+    "description": "RayTracing Algorith in Nim",
+    "license": "GPL-3.0",
+    "web": "https://github.com/lorycontixd/RaytracingAlgorithm"
   }
 ]
