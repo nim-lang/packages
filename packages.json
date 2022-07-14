@@ -26692,5 +26692,18 @@
     "description": "Create Reveal.js slideshows in Nim",
     "license": "MIT",
     "web": "https://github.com/HugoGranstrom/nimib-reveal/"
+  },
+  {
+    "name": "RaytracingAlgorithm",
+    "url": "https://github.com/lorycontixd/RaytracingAlgorithm",
+    "method": "git",
+    "tags": [
+      "raytracer",
+      "nim",
+      "library"
+    ],
+    "description": "RayTracing Algorith in Nim",
+    "license": "GPL-3.0",
+    "web": "https://github.com/lorycontixd/RaytracingAlgorithm"
   }
 ]
