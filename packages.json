@@ -26705,5 +26705,21 @@
     "description": "RayTracing Algorith in Nim",
     "license": "GPL-3.0",
     "web": "https://github.com/lorycontixd/RaytracingAlgorithm"
+  },
+  {
+    "name": "nage",
+    "url": "https://github.com/acikek/nage",
+    "method": "git",
+    "tags": [
+      "app",
+      "binary",
+      "game",
+      "engine",
+      "cli",
+      "rpg"
+    ],
+    "description": "Not Another Game Engine; CLI text adventure engine",
+    "license": "MIT",
+    "web": "https://github.com/acikek/nage"
   }
 ]
