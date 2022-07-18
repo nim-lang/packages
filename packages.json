@@ -26736,5 +26736,19 @@
     "description": "Library for interacting with Monero wallets via RPC.",
     "license": "MIT",
     "web": "https://github.com/eversinc33/nim-monero-rpc"
+  },
+  {
+    "name": "colorizeEcho",
+    "url": "https://github.com/pseuxide/colorizeEcho",
+    "method": "git",
+    "tags": [
+      "colorstring",
+      "message",
+      "debug",
+      "color"
+    ],
+    "description": "colorizeEcho is a package which colorize echo message on Windows command prompt.",
+    "license": "MIT",
+    "web": "https://github.com/pseuxide/colorizeEcho"
   }
 ]
