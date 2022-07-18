@@ -26778,5 +26778,19 @@
     "description": "ETF (Erlang Term Format) library for nim",
     "license": "MIT",
     "web": "https://github.com/metagn/etf"
+  },
+  {
+    "name": "tagger",
+    "url": "https://github.com/aruZeta/tagger",
+    "method": "git",
+    "tags": [
+      "html",
+      "xml",
+      "tags",
+      "library"
+    ],
+    "description": "A library to generate xml and html tags",
+    "license": "MIT",
+    "web": "https://github.com/aruZeta/tagger"
   }
 ]
