@@ -26762,5 +26762,21 @@
     "description": "A small utility to create JSON objects written in Nim. This is inspired by jpmens/jo.",
     "license": "MIT",
     "web": "https://github.com/uga-rosa/njo"
+  },
+  {
+    "name": "etf",
+    "url": "https://github.com/metagn/etf",
+    "method": "git",
+    "tags": [
+      "etf",
+      "erlang",
+      "library",
+      "parser",
+      "binary",
+      "discord"
+    ],
+    "description": "ETF (Erlang Term Format) library for nim",
+    "license": "MIT",
+    "web": "https://github.com/metagn/etf"
   }
 ]
