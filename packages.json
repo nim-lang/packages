@@ -26736,5 +26736,17 @@
     "description": "Library for interacting with Monero wallets via RPC.",
     "license": "MIT",
     "web": "https://github.com/eversinc33/nim-monero-rpc"
+  },
+  {
+    "name": "njo",
+    "url": "https://github.com/uga-rosa/njo",
+    "method": "git",
+    "tags": [
+      "cli",
+      "tool"
+    ],
+    "description": "A small utility to create JSON objects written in Nim. This is inspired by jpmens/jo.",
+    "license": "MIT",
+    "web": "https://github.com/uga-rosa/njo"
   }
 ]
