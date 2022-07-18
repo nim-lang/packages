@@ -26721,5 +26721,20 @@
     "description": "Not Another Game Engine; CLI text adventure engine",
     "license": "MIT",
     "web": "https://github.com/acikek/nage"
+  },
+  {
+    "name": "monerorpc",
+    "url": "https://github.com/eversinc33/nim-monero-rpc",
+    "method": "git",
+    "tags": [
+      "monero",
+      "rpc",
+      "client",
+      "wallet",
+      "cryptocurrency"
+    ],
+    "description": "Library for interacting with Monero wallets via RPC.",
+    "license": "MIT",
+    "web": "https://github.com/eversinc33/nim-monero-rpc"
   }
 ]
