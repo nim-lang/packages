@@ -26792,5 +26792,19 @@
     "description": "A library to generate xml and html tags",
     "license": "MIT",
     "web": "https://github.com/aruZeta/tagger"
+  },
+  {
+    "name": "batteries",
+    "url": "https://github.com/AngelEzquerra/nim-batteries",
+    "method": "git",
+    "tags": [
+      "import",
+      "prelude",
+      "batteries",
+      "included"
+    ],
+    "description": "Module that imports common nim standard library modules for your convenience",
+    "license": "MIT",
+    "web": "https://github.com/AngelEzquerra/nim-batteries"
   }
 ]
