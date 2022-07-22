@@ -15380,14 +15380,14 @@
   },
   {
     "name": "cal",
-    "url": "https://github.com/xflywind/cal",
+    "url": "https://github.com/ringabout/cal",
     "method": "git",
     "tags": [
       "calculator"
     ],
     "description": "A simple interactive calculator",
     "license": "MIT",
-    "web": "https://github.com/xflywind/cal"
+    "web": "https://github.com/ringabout/cal"
   },
   {
     "name": "spurdify",
@@ -16105,7 +16105,7 @@
   },
   {
     "name": "timeit",
-    "url": "https://github.com/xflywind/timeit",
+    "url": "https://github.com/ringabout/timeit",
     "method": "git",
     "tags": [
       "timeit",
@@ -16113,7 +16113,7 @@
     ],
     "description": "measuring execution times written in nim.",
     "license": "MIT",
-    "web": "https://github.com/xflywind/timeit"
+    "web": "https://github.com/ringabout/timeit"
   },
   {
     "name": "manu",
@@ -17064,7 +17064,7 @@
   },
   {
     "name": "docx",
-    "url": "https://github.com/xflywind/docx",
+    "url": "https://github.com/ringabout/docx",
     "method": "git",
     "tags": [
       "docx",
@@ -17072,7 +17072,7 @@
     ],
     "description": "A simple docx reader.",
     "license": "MIT",
-    "web": "https://github.com/xflywind/docx"
+    "web": "https://github.com/ringabout/docx"
   },
   {
     "name": "word2vec",
@@ -17346,7 +17346,7 @@
   },
   {
     "name": "xlsx",
-    "url": "https://github.com/xflywind/xlsx",
+    "url": "https://github.com/ringabout/xlsx",
     "method": "git",
     "tags": [
       "xlsx",
@@ -17355,7 +17355,7 @@
     ],
     "description": "Read and parse Excel files",
     "license": "MIT",
-    "web": "https://github.com/xflywind/xlsx"
+    "web": "https://github.com/ringabout/xlsx"
   },
   {
     "name": "faker",
@@ -19950,7 +19950,7 @@
   },
   {
     "name": "nimish",
-    "url": "https://github.com/xflywind/nimish",
+    "url": "https://github.com/ringabout/nimish",
     "method": "git",
     "tags": [
       "macro",
@@ -19959,7 +19959,7 @@
     ],
     "description": "C macro for Nim.",
     "license": "Apache-2.0",
-    "web": "https://github.com/xflywind/nimish"
+    "web": "https://github.com/ringabout/nimish"
   },
   {
     "name": "vds",
@@ -20030,7 +20030,7 @@
   },
   {
     "name": "shene",
-    "url": "https://github.com/xflywind/shene",
+    "url": "https://github.com/ringabout/shene",
     "method": "git",
     "tags": [
       "interface",
@@ -20039,7 +20039,7 @@
     ],
     "description": "Interface for Nim.",
     "license": "Apache-2.0",
-    "web": "https://github.com/xflywind/shene"
+    "web": "https://github.com/ringabout/shene"
   },
   {
     "name": "subnet",
@@ -20269,7 +20269,7 @@
   },
   {
     "name": "wepoll",
-    "url": "https://github.com/xflywind/wepoll",
+    "url": "https://github.com/ringabout/wepoll",
     "method": "git",
     "tags": [
       "epoll",
@@ -20278,7 +20278,7 @@
     ],
     "description": "Windows epoll wrapper.",
     "license": "MIT",
-    "web": "https://github.com/xflywind/wepoll"
+    "web": "https://github.com/ringabout/wepoll"
   },
   {
     "name": "nim_midi",
@@ -20478,7 +20478,7 @@
   },
   {
     "name": "ioselectors",
-    "url": "https://github.com/xflywind/ioselectors",
+    "url": "https://github.com/ringabout/ioselectors",
     "method": "git",
     "tags": [
       "selectors",
@@ -20487,7 +20487,7 @@
     ],
     "description": "Selectors extension.",
     "license": "Apache-2.0",
-    "web": "https://github.com/xflywind/ioselectors"
+    "web": "https://github.com/ringabout/ioselectors"
   },
   {
     "name": "nwatchdog",
@@ -20517,7 +20517,7 @@
   },
   {
     "name": "httpx",
-    "url": "https://github.com/xflywind/httpx",
+    "url": "https://github.com/ringabout/httpx",
     "method": "git",
     "tags": [
       "web",
@@ -20526,7 +20526,7 @@
     ],
     "description": "A super-fast epoll-backed and parallel HTTP server.",
     "license": "MIT",
-    "web": "https://github.com/xflywind/httpx"
+    "web": "https://github.com/ringabout/httpx"
   },
   {
     "name": "meow",
@@ -20733,7 +20733,7 @@
   },
   {
     "name": "timerwheel",
-    "url": "https://github.com/xflywind/timerwheel",
+    "url": "https://github.com/ringabout/timerwheel",
     "method": "git",
     "tags": [
       "timer",
@@ -20742,7 +20742,7 @@
     ],
     "description": "A high performance timer based on timerwheel for Nim.",
     "license": "Apache-2.0",
-    "web": "https://github.com/xflywind/timerwheel"
+    "web": "https://github.com/ringabout/timerwheel"
   },
   {
     "name": "hcparse",
@@ -20843,7 +20843,7 @@
   },
   {
     "name": "xio",
-    "url": "https://github.com/xflywind/async",
+    "url": "https://github.com/ringabout/async",
     "method": "git",
     "tags": [
       "net",
@@ -20852,7 +20852,7 @@
     ],
     "description": "Cross platform system API for os and net.",
     "license": "Apache-2.0",
-    "web": "https://github.com/xflywind/async"
+    "web": "https://github.com/ringabout/async"
   },
   {
     "name": "once",
@@ -21025,7 +21025,7 @@
   },
   {
     "name": "websocketx",
-    "url": "https://github.com/xflywind/websocketx",
+    "url": "https://github.com/ringabout/websocketx",
     "method": "git",
     "tags": [
       "httpx",
@@ -21034,7 +21034,7 @@
     ],
     "description": "Websocket for httpx.",
     "license": "MIT",
-    "web": "https://github.com/xflywind/websocketx"
+    "web": "https://github.com/ringabout/websocketx"
   },
   {
     "name": "nimp",
@@ -26424,7 +26424,7 @@
   },
   {
     "name": "ipfshttpclient",
-    "url": "https://github.com/xflywind/ipfshttpclient",
+    "url": "https://github.com/ringabout/ipfshttpclient",
     "method": "git",
     "tags": [
       "ipfs",
@@ -26433,7 +26433,7 @@
     ],
     "description": "ipfs http client",
     "license": "Apache-2.0",
-    "web": "https://github.com/xflywind/ipfshttpclient"
+    "web": "https://github.com/ringabout/ipfshttpclient"
   },
   {
     "name": "mouse",
