@@ -26806,5 +26806,18 @@
     "description": "Module that imports common nim standard library modules for your convenience",
     "license": "MIT",
     "web": "https://github.com/AngelEzquerra/nim-batteries"
+  },
+  {
+    "name": "array2d",
+    "url": "https://github.com/avahe-kellenberger/array2d",
+    "method": "git",
+    "tags": [
+      "nim",
+      "array2d",
+      "grid"
+    ],
+    "description": "A 2D Array Implementation",
+    "license": "GPL-2.0-only",
+    "web": "https://github.com/avahe-kellenberger/array2d"
   }
 ]
