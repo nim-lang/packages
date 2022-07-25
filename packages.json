@@ -26819,5 +26819,21 @@
     "description": "A 2D Array Implementation",
     "license": "GPL-2.0-only",
     "web": "https://github.com/avahe-kellenberger/array2d"
+  },
+  {
+    "name": "dye",
+    "url": "https://github.com/Infinitybeond1/dye",
+    "method": "git",
+    "tags": [
+      "image",
+      "cli",
+      "dye",
+      "colorize",
+      "color",
+      "palettes"
+    ],
+    "description": "An image colorizer",
+    "license": "GPL-3.0-or-later",
+    "web": "https://github.com/Infinitybeond1/dye"
   }
 ]
