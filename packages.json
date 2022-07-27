@@ -26835,5 +26835,17 @@
     "description": "An image colorizer",
     "license": "GPL-3.0-or-later",
     "web": "https://github.com/Infinitybeond1/dye"
+  },
+  {
+    "name": "shellopt",
+    "url": "https://github.com/uga-rosa/shellopt.nim",
+    "method": "git",
+    "tags": [
+      "library",
+      "cli"
+    ],
+    "description": "Command line argument parser in the form commonly used in ordinary shell.",
+    "license": "MIT",
+    "web": "https://github.com/uga-rosa/shellopt.nim"
   }
 ]
