@@ -24761,7 +24761,7 @@
   },
   {
     "name": "brainlyextractor",
-    "url": "https://gitlab.com/lurlo/brainlyextractor",
+    "url": "https://github.com/thisago/brainlyextractor",
     "method": "git",
     "tags": [
       "library",
@@ -24770,11 +24770,11 @@
     ],
     "description": "Brainly data extractor",
     "license": "MIT",
-    "web": "https://gitlab.com/lurlo/brainlyextractor"
+    "web": "https://github.com/thisago/brainlyextractor"
   },
   {
     "name": "duckduckgo",
-    "url": "https://gitlab.com/lurlo/duckduckgo",
+    "url": "https://github.com/thisago/duckduckgo",
     "method": "git",
     "tags": [
       "library",
@@ -24785,11 +24785,11 @@
     ],
     "description": "Duckduckgo search",
     "license": "MIT",
-    "web": "https://gitlab.com/lurlo/duckduckgo"
+    "web": "https://github.com/thisago/duckduckgo"
   },
   {
     "name": "scraper",
-    "url": "https://gitlab.com/lurlo/scraper",
+    "url": "https://github.com/thisago/scraper",
     "method": "git",
     "tags": [
       "web",
@@ -24799,7 +24799,7 @@
     ],
     "description": "Scraping tools",
     "license": "MIT",
-    "web": "https://gitlab.com/lurlo/scraper"
+    "web": "https://github.com/thisago/scraper"
   },
   {
     "name": "htmlunescape",
@@ -24860,7 +24860,7 @@
   },
   {
     "name": "bluesoftcosmos",
-    "url": "https://gitlab.com/lurlo/bluesoftcosmos",
+    "url": "https://github.com/thisago/bluesoftcosmos",
     "method": "git",
     "tags": [
       "scraper",
@@ -24870,7 +24870,7 @@
     ],
     "description": "Bluesoft Cosmos extractor",
     "license": "gpl-3.0",
-    "web": "https://gitlab.com/lurlo/bluesoftcosmos"
+    "web": "https://github.com/thisago/bluesoftcosmos"
   },
   {
     "name": "cliche",
@@ -25280,7 +25280,7 @@
   },
   {
     "name": "servclip",
-    "url": "https://gitlab.com/lurlo/servclip",
+    "url": "https://github.com/thisago/servclip",
     "method": "git",
     "tags": [
       "clipboard",
@@ -25292,7 +25292,7 @@
     ],
     "description": "Manage your clipboard remotely",
     "license": "MIT",
-    "web": "https://gitlab.com/lurlo/servclip"
+    "web": "https://github.com/thisago/servclip"
   },
   {
     "name": "slicerator",
@@ -26001,7 +26001,7 @@
   },
   {
     "name": "gimg",
-    "url": "https://gitlab.com/lurlo/gimg",
+    "url": "https://github.com/thisago/gimg",
     "method": "git",
     "tags": [
       "scraper",
@@ -26012,11 +26012,11 @@
     ],
     "description": "Google Images scraper lib and CLI",
     "license": "MIT",
-    "web": "https://gitlab.com/lurlo/gimg"
+    "web": "https://github.com/thisago/gimg"
   },
   {
     "name": "parsepage",
-    "url": "https://gitlab.com/lurlo/parsepage",
+    "url": "https://github.com/thisago/parsepage",
     "method": "git",
     "tags": [
       "extractor",
@@ -26028,7 +26028,7 @@
     ],
     "description": "Automatically extracts the data of sites",
     "license": "GPL-3.0-only",
-    "web": "https://gitlab.com/lurlo/parsepage"
+    "web": "https://github.com/thisago/parsepage"
   },
   {
     "name": "resultsutils",
