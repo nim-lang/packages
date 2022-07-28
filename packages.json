@@ -26860,5 +26860,19 @@
     "description": "Simple testing framework for Nim",
     "license": "GPL-2.0-only",
     "web": "https://github.com/avahe-kellenberger/nimtest"
+  },
+  {
+    "name": "jitter",
+    "url": "https://github.com/sharpcdf/jitter",
+    "method": "git",
+    "tags": [
+      "package-manager",
+      "downloader",
+      "git",
+      "package"
+    ],
+    "description": "A git-based binary manager for linux.",
+    "license": "MIT",
+    "web": "https://github.com/sharpcdf/jitter"
   }
 ]
