@@ -26847,5 +26847,44 @@
     "description": "Command line argument parser in the form commonly used in ordinary shell.",
     "license": "MIT",
     "web": "https://github.com/uga-rosa/shellopt.nim"
+  },
+  {
+    "name": "nimtest",
+    "url": "https://github.com/avahe-kellenberger/nimtest",
+    "method": "git",
+    "tags": [
+      "nim",
+      "test",
+      "framework"
+    ],
+    "description": "Simple testing framework for Nim",
+    "license": "GPL-2.0-only",
+    "web": "https://github.com/avahe-kellenberger/nimtest"
+  },
+  {
+    "name": "jitter",
+    "url": "https://github.com/sharpcdf/jitter",
+    "method": "git",
+    "tags": [
+      "package-manager",
+      "downloader",
+      "git",
+      "package"
+    ],
+    "description": "A git-based binary manager for linux.",
+    "license": "MIT",
+    "web": "https://github.com/sharpcdf/jitter"
+  },
+  {
+    "name": "trayx",
+    "url": "https://github.com/teob97/T-RayX",
+    "method": "git",
+    "tags": [
+      "raytracing",
+      "package"
+    ],
+    "description": "Ray tracing",
+    "license": "GPL3",
+    "web": "https://github.com/teob97/T-RayX"
   }
 ]
