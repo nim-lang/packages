@@ -26894,8 +26894,6 @@
     "tags": [
       "html",
       "utility",
-      "nim",
-      "nim-lang",
       "string"
     ],
     "description": "Small utilities that isn't large enough to have a individual modules",
