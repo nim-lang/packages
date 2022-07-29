@@ -26886,5 +26886,18 @@
     "description": "Ray tracing",
     "license": "GPL3",
     "web": "https://github.com/teob97/T-RayX"
+  },
+  {
+    "name": "util",
+    "url": "https://github.com/thisago/util",
+    "method": "git",
+    "tags": [
+      "html",
+      "utility",
+      "string"
+    ],
+    "description": "Small utilities that isn't large enough to have a individual modules",
+    "license": "MIT",
+    "web": "https://github.com/thisago/util"
   }
 ]
