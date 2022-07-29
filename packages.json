@@ -26899,5 +26899,21 @@
     "description": "Small utilities that isn't large enough to have a individual modules",
     "license": "MIT",
     "web": "https://github.com/thisago/util"
+  },
+  {
+    "name": "kiwifyDownload",
+    "url": "https://github.com/thisago/kiwifyDownload",
+    "method": "git",
+    "tags": [
+      "download",
+      "kiwify",
+      "course",
+      "cli",
+      "tool",
+      "video"
+    ],
+    "description": "Downloads the kiwify videos from course JSON",
+    "license": "MIT",
+    "web": "https://github.com/thisago/kiwifyDownload"
   }
 ]
