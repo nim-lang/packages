@@ -26915,5 +26915,18 @@
     "description": "Downloads the kiwify videos from course JSON",
     "license": "MIT",
     "web": "https://github.com/thisago/kiwifyDownload"
+  },
+  {
+    "name": "vimeo",
+    "url": "https://github.com/thisago/vimeo",
+    "method": "git",
+    "tags": [
+      "vimeo",
+      "extractor",
+      "video"
+    ],
+    "description": "Vimeo extractor",
+    "license": "MIT",
+    "web": "https://github.com/thisago/vimeo"
   }
 ]
