@@ -26899,5 +26899,18 @@
     "description": "Small utilities that isn't large enough to have a individual modules",
     "license": "MIT",
     "web": "https://github.com/thisago/util"
+  },
+  {
+    "name": "vimeo",
+    "url": "https://github.com/thisago/vimeo",
+    "method": "git",
+    "tags": [
+      "vimeo",
+      "extractor",
+      "video"
+    ],
+    "description": "Vimeo extractor",
+    "license": "MIT",
+    "web": "https://github.com/thisago/vimeo"
   }
 ]
