@@ -26928,5 +26928,46 @@
     "description": "Vimeo extractor",
     "license": "MIT",
     "web": "https://github.com/thisago/vimeo"
+  },
+  {
+    "name": "wayland",
+    "url": "https://github.com/j-james/nim-wayland",
+    "method": "git",
+    "tags": [
+      "wayland",
+      "wrapper",
+      "library"
+    ],
+    "description": "Nim bindings for Wayland",
+    "license": "MIT",
+    "web": "https://github.com/j-james/nim-wayland"
+  },
+  {
+    "name": "wlroots",
+    "url": "https://github.com/j-james/nim-wlroots",
+    "method": "git",
+    "tags": [
+      "wayland",
+      "wlroots",
+      "wrapper",
+      "library"
+    ],
+    "description": "Nim bindings for wlroots",
+    "license": "MIT",
+    "web": "https://github.com/j-james/nim-wlroots"
+  },
+  {
+    "name": "xkb",
+    "url": "https://github.com/j-james/nim-xkbcommon",
+    "method": "git",
+    "tags": [
+      "xkb",
+      "xkbcommon",
+      "wrapper",
+      "library"
+    ],
+    "description": "A light wrapper over xkbcommon",
+    "license": "MIT",
+    "web": "https://github.com/j-james/nim-xkbcommon"
   }
 ]
