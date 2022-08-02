@@ -26969,5 +26969,19 @@
     "description": "A light wrapper over xkbcommon",
     "license": "MIT",
     "web": "https://github.com/j-james/nim-xkbcommon"
+  },
+  {
+    "name": "thes",
+    "url": "https://github.com/c-blake/thes",
+    "method": "git",
+    "tags": [
+      "thesaurus",
+      "definitions",
+      "graph algorithms",
+      "graph example"
+    ],
+    "description": "/u/cb/pkg/cb/th/pkg/dump.nims(16, 1) Error: invalid indentation\nbad pkg/dump.nims",
+    "license": "/u/cb/pkg/cb/th/pkg/dump.nims(16, 1) Error: invalid indentation\nbad pkg/dump.nims",
+    "web": "https://github.com/c-blake/thes"
   }
 ]
