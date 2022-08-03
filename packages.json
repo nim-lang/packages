@@ -27003,5 +27003,17 @@
     "description": "Thesaurus CLI/Library & Analyzer in Nim",
     "license": "MIT/ISC",
     "web": "https://github.com/c-blake/thes"
+  },
+  {
+    "name": "yamlscript",
+    "url": "https://github.com/yaml/yamlscript",
+    "method": "git",
+    "tags": [
+      "foo",
+      "bar"
+    ],
+    "description": "Program in YAML",
+    "license": "MIT",
+    "web": "https://github.com/yaml/yamlscript"
   }
 ]
