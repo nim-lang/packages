@@ -26989,5 +26989,19 @@
     "description": "Classical Graph Algos in Nim",
     "license": "MIT/ISC",
     "web": "https://github.com/c-blake/gralg"
+  },
+  {
+    "name": "thes",
+    "url": "https://github.com/c-blake/thes",
+    "method": "git",
+    "tags": [
+      "thesaurus",
+      "definitions",
+      "graph algorithms",
+      "graph example"
+    ],
+    "description": "Thesaurus CLI/Library & Analyzer in Nim",
+    "license": "MIT/ISC",
+    "web": "https://github.com/c-blake/thes"
   }
 ]
