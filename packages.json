@@ -27003,5 +27003,19 @@
     "description": "Thesaurus CLI/Library & Analyzer in Nim",
     "license": "MIT/ISC",
     "web": "https://github.com/c-blake/thes"
+  },
+  {
+    "name": "nbcnews",
+    "url": "https://github.com/thisago/nbcnews",
+    "method": "git",
+    "tags": [
+      "scraper",
+      "library",
+      "news",
+      "nbcnews"
+    ],
+    "description": "NBC News scraper",
+    "license": "gpl-3-only",
+    "web": "https://github.com/thisago/nbcnews"
   }
 ]
