@@ -27003,5 +27003,21 @@
     "description": "Thesaurus CLI/Library & Analyzer in Nim",
     "license": "MIT/ISC",
     "web": "https://github.com/c-blake/thes"
+  },
+  {
+    "name": "editlyconf",
+    "url": "https://github.com/thisago/editlyconf",
+    "method": "git",
+    "tags": [
+      "video",
+      "config",
+      "library",
+      "video-editing",
+      "editly",
+      "video-generation"
+    ],
+    "description": "Editly config generation tools and types",
+    "license": "mit",
+    "web": "https://github.com/thisago/editlyconf"
   }
 ]
