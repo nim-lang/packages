@@ -27015,7 +27015,7 @@
       "nbcnews"
     ],
     "description": "NBC News scraper",
-    "license": "gpl-3-only",
+    "license": "gpl-3.0-only",
     "web": "https://github.com/thisago/nbcnews"
   }
 ]
