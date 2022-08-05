@@ -27005,6 +27005,20 @@
     "web": "https://github.com/c-blake/thes"
   },
   {
+    "name": "nbcnews",
+    "url": "https://github.com/thisago/nbcnews",
+    "method": "git",
+    "tags": [
+      "scraper",
+      "library",
+      "news",
+      "nbcnews"
+    ],
+    "description": "NBC News scraper",
+    "license": "gpl-3.0-only",
+    "web": "https://github.com/thisago/nbcnews"
+  },
+  {
     "name": "records",
     "url": "https://github.com/rotu/nim-records",
     "method": "git",
