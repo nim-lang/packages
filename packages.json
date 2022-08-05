@@ -27019,5 +27019,38 @@
     "description": "Editly config generation tools and types",
     "license": "mit",
     "web": "https://github.com/thisago/editlyconf"
+  },
+  {
+    "name": "records",
+    "url": "https://github.com/rotu/nim-records",
+    "method": "git",
+    "tags": [
+      "tuples",
+      "tuple",
+      "relation",
+      "relational",
+      "algebra",
+      "records",
+      "record",
+      "heterogeneous",
+      "strongly",
+      "statically",
+      "typed"
+    ],
+    "description": "Operations on tuples as heterogeneous record types a la Relational Algebra",
+    "license": "MIT",
+    "web": "https://github.com/rotu/nim-records"
+  },
+  {
+    "name": "geomancer",
+    "url": "https://github.com/VitorGoatman/geomancer",
+    "method": "git",
+    "tags": [
+      "geomancy",
+      "divination"
+    ],
+    "description": "A library and program for getting geomancy charts and figures.",
+    "license": "Unlicense",
+    "web": "https://github.com/VitorGoatman/geomancer"
   }
 ]
