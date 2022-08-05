@@ -27036,5 +27036,17 @@
     "description": "A library and program for getting geomancy charts and figures.",
     "license": "Unlicense",
     "web": "https://github.com/VitorGoatman/geomancer"
+  },
+  {
+    "name": "geomancer",
+    "url": "https://github.com/VitorGoatman/geomancer",
+    "method": "git",
+    "tags": [
+      "geomancy",
+      "divination"
+    ],
+    "description": "A library and program for getting geomancy charts and figures.",
+    "license": "Unlicense",
+    "web": "https://github.com/VitorGoatman/geomancer"
   }
 ]
