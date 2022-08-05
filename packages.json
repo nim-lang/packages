@@ -27005,6 +27005,22 @@
     "web": "https://github.com/c-blake/thes"
   },
   {
+    "name": "editlyconf",
+    "url": "https://github.com/thisago/editlyconf",
+    "method": "git",
+    "tags": [
+      "video",
+      "config",
+      "library",
+      "video-editing",
+      "editly",
+      "video-generation"
+    ],
+    "description": "Editly config generation tools and types",
+    "license": "mit",
+    "web": "https://github.com/thisago/editlyconf"
+  },
+  {
     "name": "nbcnews",
     "url": "https://github.com/thisago/nbcnews",
     "method": "git",
