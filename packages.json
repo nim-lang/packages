@@ -27003,5 +27003,26 @@
     "description": "Thesaurus CLI/Library & Analyzer in Nim",
     "license": "MIT/ISC",
     "web": "https://github.com/c-blake/thes"
+  },
+  {
+    "name": "records",
+    "url": "https://github.com/rotu/nim-records",
+    "method": "git",
+    "tags": [
+      "tuples",
+      "tuple",
+      "relation",
+      "relational",
+      "algebra",
+      "records",
+      "record",
+      "heterogeneous",
+      "strongly",
+      "statically",
+      "typed"
+    ],
+    "description": "Operations on tuples as heterogeneous record types a la Relational Algebra",
+    "license": "MIT",
+    "web": "https://github.com/rotu/nim-records"
   }
 ]
