@@ -27066,5 +27066,20 @@
     "description": "A library and program for getting geomancy charts and figures.",
     "license": "Unlicense",
     "web": "https://github.com/VitorGoatman/geomancer"
+  },
+  {
+    "name": "NimNN",
+    "url": "https://github.com/xcodz-dot/NimNN",
+    "method": "git",
+    "tags": [
+      "neural",
+      "networks",
+      "simulator",
+      "native",
+      "genetic"
+    ],
+    "description": "Neural Networks from scratch",
+    "license": "MIT",
+    "web": "https://github.com/xcodz-dot/NimNN"
   }
 ]
