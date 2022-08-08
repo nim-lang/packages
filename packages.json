@@ -27066,5 +27066,27 @@
     "description": "A library and program for getting geomancy charts and figures.",
     "license": "Unlicense",
     "web": "https://github.com/VitorGoatman/geomancer"
+  },
+  {
+    "name": "timsort",
+    "url": "https://github.com/xrfez/timsort",
+    "method": "git",
+    "tags": [
+      "sort",
+      "timsort",
+      "2D",
+      "algorithm",
+      "fast",
+      "merge",
+      "insertion",
+      "python",
+      "java",
+      "stable",
+      "index",
+      "multiple"
+    ],
+    "description": "timsort algorithm implemented in Nim",
+    "license": "Apache-2.0",
+    "web": "https://github.com/xrfez/timsort"
   }
 ]
