@@ -27066,5 +27066,16 @@
     "description": "A library and program for getting geomancy charts and figures.",
     "license": "Unlicense",
     "web": "https://github.com/VitorGoatman/geomancer"
+  },
+  {
+    "name": "simpleargs",
+    "url": "https://github.com/HTGenomeAnalysisUnit/nim-simpleargs",
+    "method": "git",
+    "tags": [
+      "argparse"
+    ],
+    "description": "Simple command line arguments parsing",
+    "license": "MIT",
+    "web": "https://github.com/HTGenomeAnalysisUnit/nim-simpleargs"
   }
 ]
