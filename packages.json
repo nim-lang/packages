@@ -27090,7 +27090,7 @@
       "udp",
       "network"
     ],
-    "description": "Queue watcher helps monitor TCP connections and diagnose buffer and connectivity issues on Linux machines related to input and output queues",
+    "description": "Monitor TCP connections and diagnose buffer and connectivity issues on Linux machines related to input and output queues",
     "license": "MIT",
     "web": "https://github.com/pouriyajamshidi/qwatcher"
   }
