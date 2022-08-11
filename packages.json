@@ -2945,7 +2945,7 @@
       "library",
       "compiler"
     ],
-    "description": "Compiler package providing the compiler sources as a library/binary.",
+    "description": "Package providing the Nim compiler binaries plus all its source files that can be used as a library",
     "license": "MIT",
     "web": "https://github.com/nim-lang/Nim"
   },
