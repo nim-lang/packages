@@ -27077,5 +27077,21 @@
     "description": "Simple command line arguments parsing",
     "license": "MIT",
     "web": "https://github.com/HTGenomeAnalysisUnit/nim-simpleargs"
+  },
+  {
+    "name": "qwatcher",
+    "url": "https://github.com/pouriyajamshidi/qwatcher",
+    "method": "git",
+    "tags": [
+      "buffer-monitoring",
+      "queue",
+      "linux",
+      "tcp",
+      "udp",
+      "network"
+    ],
+    "description": "Queue watcher helps monitor TCP connections and diagnose buffer and connectivity issues on Linux machines related to input and output queues",
+    "license": "MIT",
+    "web": "https://github.com/pouriyajamshidi/qwatcher"
   }
 ]
