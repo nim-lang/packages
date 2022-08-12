@@ -27106,5 +27106,19 @@
     "description": "Nim wrapper for libpe library",
     "license": "MIT",
     "web": "https://github.com/srozb/nim-libpe"
+  },
+  {
+    "name": "mersal",
+    "url": "https://github.com/foxoman/mersal",
+    "method": "git",
+    "tags": [
+      "otp",
+      "wrapper",
+      "sms"
+    ],
+    "description": "Send SMS and Otp in nim, a wrapper for TextBelt's public API",
+    "license": "MIT",
+    "web": "https://github.com/foxoman/mersal",
+    "doc": "https://mersal-doc.surge.sh/mersal"
   }
 ]
