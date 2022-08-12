@@ -27093,5 +27093,18 @@
     "description": "Monitor TCP connections and diagnose buffer and connectivity issues on Linux machines related to input and output queues",
     "license": "MIT",
     "web": "https://github.com/pouriyajamshidi/qwatcher"
+  },
+  {
+    "name": "libpe",
+    "url": "https://github.com/srozb/nim-libpe",
+    "method": "git",
+    "tags": [
+      "pe",
+      "wrapper",
+      "library"
+    ],
+    "description": "Nim wrapper for libpe library",
+    "license": "MIT",
+    "web": "https://github.com/srozb/nim-libpe"
   }
 ]
