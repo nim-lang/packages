@@ -27106,5 +27106,20 @@
     "description": "Nim wrapper for libpe library",
     "license": "MIT",
     "web": "https://github.com/srozb/nim-libpe"
+  },
+  {
+    "name": "checkif",
+    "url": "https://github.com/thisago/checkif",
+    "method": "git",
+    "tags": [
+      "windows",
+      "fs",
+      "cli",
+      "tool",
+      "test"
+    ],
+    "description": "A CLI tool to check files (and registry in Windows)",
+    "license": "MIT",
+    "web": "https://github.com/thisago/checkif"
   }
 ]
