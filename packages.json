@@ -27120,5 +27120,19 @@
     "license": "MIT",
     "web": "https://github.com/foxoman/mersal",
     "doc": "https://mersal-doc.surge.sh/mersal"
+  },
+  {
+    "name": "swayipc",
+    "url": "https://github.com/nnsee/nim-swayipc",
+    "method": "git",
+    "tags": [
+      "sway",
+      "i3",
+      "ipc",
+      "library"
+    ],
+    "description": "sway IPC library",
+    "license": "GPL-3.0-or-later",
+    "web": "https://github.com/nnsee/nim-swayipc"
   }
 ]
