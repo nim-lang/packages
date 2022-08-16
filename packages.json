@@ -27120,5 +27120,20 @@
     "license": "MIT",
     "web": "https://github.com/foxoman/mersal",
     "doc": "https://mersal-doc.surge.sh/mersal"
+  },
+  {
+    "name": "imnotify",
+    "url": "https://github.com/Patitotective/ImNotify",
+    "method": "git",
+    "tags": [
+      "imgui",
+      "notifications",
+      "popup",
+      "dear-imgui",
+      "gui"
+    ],
+    "description": "A notifications library for Dear ImGui",
+    "license": "MIT",
+    "web": "https://github.com/Patitotective/ImNotify"
   }
 ]
