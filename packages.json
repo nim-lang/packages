@@ -27135,5 +27135,25 @@
     "description": "A notifications library for Dear ImGui",
     "license": "MIT",
     "web": "https://github.com/Patitotective/ImNotify"
+  },
+  {
+    "name": "bu",
+    "url": "https://github.com/c-blake/bu",
+    "method": "git",
+    "tags": [
+      "bu",
+      "unix",
+      "posix",
+      "linux",
+      "sysadmin",
+      "system administration",
+      "shell utilities",
+      "benchmarking",
+      "colorization",
+      "extreme value statistics"
+    ],
+    "description": "B)asic|But-For U)tility Code/Programs (Usually Nim & With Unix/POSIX/Linux Context)",
+    "license": "MIT/ISC",
+    "web": "https://github.com/c-blake/bu"
   }
 ]
