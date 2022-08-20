@@ -27169,5 +27169,18 @@
     "description": "Bindings for Clipper2Lib: Polygon Clipping and Offsetting Library from Angus Johnson",
     "license": "boost",
     "web": "https://github.com/scemino/clipper2"
+  },
+  {
+    "name": "libdeflate_gzip",
+    "url": "https://github.com/radekm/nim_libdeflate_gzip",
+    "method": "git",
+    "tags": [
+      "compression",
+      "gzip",
+      "deflate"
+    ],
+    "description": "A wrapper for libdeflate",
+    "license": "MIT",
+    "web": "https://github.com/radekm/nim_libdeflate_gzip"
   }
 ]
