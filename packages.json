@@ -27068,6 +27068,21 @@
     "web": "https://github.com/VitorGoatman/geomancer"
   },
   {
+    "name": "NimNN",
+    "url": "https://github.com/xcodz-dot/NimNN",
+    "method": "git",
+    "tags": [
+      "neural",
+      "networks",
+      "simulator",
+      "native",
+      "genetic"
+    ],
+    "description": "Neural Networks from scratch",
+    "license": "MIT",
+    "web": "https://github.com/xcodz-dot/NimNN"
+  },
+  {
     "name": "simpleargs",
     "url": "https://github.com/HTGenomeAnalysisUnit/nim-simpleargs",
     "method": "git",
