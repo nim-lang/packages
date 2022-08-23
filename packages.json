@@ -26917,6 +26917,28 @@
     "web": "https://github.com/thisago/kiwifyDownload"
   },
   {
+    "name": "timsort2",
+    "url": "https://github.com/xrfez/timsort",
+    "method": "git",
+    "tags": [
+      "sort",
+      "timsort",
+      "2D",
+      "algorithm",
+      "fast",
+      "merge",
+      "insertion",
+      "python",
+      "java",
+      "stable",
+      "index",
+      "multiple"
+    ],
+    "description": "timsort algorithm implemented in Nim",
+    "license": "Apache-2.0",
+    "web": "https://github.com/xrfez/timsort"
+  },
+  {
     "name": "vimeo",
     "url": "https://github.com/thisago/vimeo",
     "method": "git",
