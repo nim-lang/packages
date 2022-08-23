@@ -26917,6 +26917,28 @@
     "web": "https://github.com/thisago/kiwifyDownload"
   },
   {
+    "name": "timsort2",
+    "url": "https://github.com/xrfez/timsort",
+    "method": "git",
+    "tags": [
+      "sort",
+      "timsort",
+      "2D",
+      "algorithm",
+      "fast",
+      "merge",
+      "insertion",
+      "python",
+      "java",
+      "stable",
+      "index",
+      "multiple"
+    ],
+    "description": "timsort algorithm implemented in Nim",
+    "license": "Apache-2.0",
+    "web": "https://github.com/xrfez/timsort"
+  },
+  {
     "name": "vimeo",
     "url": "https://github.com/thisago/vimeo",
     "method": "git",
@@ -27068,25 +27090,119 @@
     "web": "https://github.com/VitorGoatman/geomancer"
   },
   {
-    "name": "timsort2",
-    "url": "https://github.com/xrfez/timsort",
+    "name": "simpleargs",
+    "url": "https://github.com/HTGenomeAnalysisUnit/nim-simpleargs",
     "method": "git",
     "tags": [
-      "sort",
-      "timsort",
-      "2D",
-      "algorithm",
-      "fast",
-      "merge",
-      "insertion",
-      "python",
-      "java",
-      "stable",
-      "index",
-      "multiple"
+      "argparse"
     ],
-    "description": "timsort algorithm implemented in Nim",
-    "license": "Apache-2.0",
-    "web": "https://github.com/xrfez/timsort"
+    "description": "Simple command line arguments parsing",
+    "license": "MIT",
+    "web": "https://github.com/HTGenomeAnalysisUnit/nim-simpleargs"
+  },
+  {
+    "name": "qwatcher",
+    "url": "https://github.com/pouriyajamshidi/qwatcher",
+    "method": "git",
+    "tags": [
+      "buffer-monitoring",
+      "queue",
+      "linux",
+      "tcp",
+      "udp",
+      "network"
+    ],
+    "description": "Monitor TCP connections and diagnose buffer and connectivity issues on Linux machines related to input and output queues",
+    "license": "MIT",
+    "web": "https://github.com/pouriyajamshidi/qwatcher"
+  },
+  {
+    "name": "libpe",
+    "url": "https://github.com/srozb/nim-libpe",
+    "method": "git",
+    "tags": [
+      "pe",
+      "wrapper",
+      "library"
+    ],
+    "description": "Nim wrapper for libpe library",
+    "license": "MIT",
+    "web": "https://github.com/srozb/nim-libpe"
+  },
+  {
+    "name": "mersal",
+    "url": "https://github.com/foxoman/mersal",
+    "method": "git",
+    "tags": [
+      "otp",
+      "wrapper",
+      "sms"
+    ],
+    "description": "Send SMS and Otp in nim, a wrapper for TextBelt's public API",
+    "license": "MIT",
+    "web": "https://github.com/foxoman/mersal",
+    "doc": "https://mersal-doc.surge.sh/mersal"
+  },
+  {
+    "name": "imnotify",
+    "url": "https://github.com/Patitotective/ImNotify",
+    "method": "git",
+    "tags": [
+      "imgui",
+      "notifications",
+      "popup",
+      "dear-imgui",
+      "gui"
+    ],
+    "description": "A notifications library for Dear ImGui",
+    "license": "MIT",
+    "web": "https://github.com/Patitotective/ImNotify"
+  },
+  {
+    "name": "bu",
+    "url": "https://github.com/c-blake/bu",
+    "method": "git",
+    "tags": [
+      "bu",
+      "unix",
+      "posix",
+      "linux",
+      "sysadmin",
+      "system administration",
+      "shell utilities",
+      "benchmarking",
+      "colorization",
+      "extreme value statistics"
+    ],
+    "description": "B)asic|But-For U)tility Code/Programs (Usually Nim & With Unix/POSIX/Linux Context)",
+    "license": "MIT/ISC",
+    "web": "https://github.com/c-blake/bu"
+  },
+  {
+    "name": "clipper2",
+    "url": "https://github.com/scemino/clipper2",
+    "method": "git",
+    "tags": [
+      "clipper",
+      "polygon",
+      "clipping",
+      "offsetting"
+    ],
+    "description": "Bindings for Clipper2Lib: Polygon Clipping and Offsetting Library from Angus Johnson",
+    "license": "boost",
+    "web": "https://github.com/scemino/clipper2"
+  },
+  {
+    "name": "libdeflate_gzip",
+    "url": "https://github.com/radekm/nim_libdeflate_gzip",
+    "method": "git",
+    "tags": [
+      "compression",
+      "gzip",
+      "deflate"
+    ],
+    "description": "A wrapper for libdeflate",
+    "license": "MIT",
+    "web": "https://github.com/radekm/nim_libdeflate_gzip"
   }
 ]
