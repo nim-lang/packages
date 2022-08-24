@@ -27219,5 +27219,34 @@
     "description": "A wrapper for libdeflate",
     "license": "MIT",
     "web": "https://github.com/radekm/nim_libdeflate_gzip"
+  },
+  {
+    "name": "metacall",
+    "url": "https://github.com/metacall/core?subdir=source/ports/nim_port",
+    "method": "git",
+    "tags": [
+      "ffi",
+      "interop",
+      "interoperability",
+      "bindings",
+      "wrapper",
+      "python",
+      "nodejs",
+      "ruby",
+      "csharp",
+      "rust",
+      "c",
+      "java",
+      "javascript",
+      "typescript",
+      "cobol",
+      "rpc",
+      "wasm",
+      "meta-object-protocol"
+    ],
+    "description": "A library for interoperability between Nim and multiple programming languages",
+    "license": "Apache-2.0",
+    "web": "https://metacall.io",
+    "doc": "https://github.com/metacall/core/blob/develop/source/ports/nim_port/README.md"
   }
 ]
