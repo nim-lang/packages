@@ -2938,15 +2938,20 @@
     "web": "https://github.com/NimParsers/parsetoml"
   },
   {
-    "name": "compiler",
+    "name": "nim",
     "url": "https://github.com/nim-lang/Nim.git",
     "method": "git",
     "tags": [
-      "library"
+      "library",
+      "compiler"
     ],
-    "description": "Compiler package providing the compiler sources as a library.",
+    "description": "Package providing the Nim compiler binaries plus all its source files that can be used as a library",
     "license": "MIT",
     "web": "https://github.com/nim-lang/Nim"
+  },
+  {
+    "name": "compiler",
+    "alias": "nim"
   },
   {
     "name": "nre",
