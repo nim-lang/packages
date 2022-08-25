@@ -16218,20 +16218,6 @@
     "web": "https://github.com/planetis-m/bingo"
   },
   {
-    "name": "arbitrary",
-    "url": "https://github.com/planetis-m/arbitrary",
-    "method": "git",
-    "tags": [
-      "binary",
-      "structured",
-      "fuzzing",
-      "unit-testing"
-    ],
-    "description": "Generating structured data from arbitrary, unstructured input.",
-    "license": "MIT",
-    "web": "https://github.com/planetis-m/arbitrary"
-  },
-  {
     "name": "gnuplotlib",
     "url": "https://github.com/planetis-m/gnuplotlib",
     "method": "git",
