@@ -6801,6 +6801,24 @@
     "web": "https://github.com/zah/nim-package-visible-types"
   },
   {
+    "name": "drchaos",
+    "url": "https://github.com/status-im/nim-drchaos",
+    "method": "git",
+    "tags": [
+      "security",
+      "binary",
+      "structured",
+      "fuzzing",
+      "unit-testing",
+      "coverage-guided",
+      "grammar-fuzzer",
+      "mutator-based"
+    ],
+    "description": "A powerful and easy-to-use fuzzing framework in Nim for C/C++/Obj-C targets",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/status-im/nim-drchaos"
+  },
+  {
     "name": "presto",
     "url": "https://github.com/status-im/nim-presto",
     "method": "git",
