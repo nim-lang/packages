@@ -27253,5 +27253,19 @@
     "description": "Bitcoin Lightning client",
     "license": "MIT",
     "web": "https://github.com/juancarlospaco/bitcoin-lightning"
+  },
+  {
+    "name": "brightcove",
+    "url": "https://github.com/thisago/brightcove",
+    "method": "git",
+    "tags": [
+      "library",
+      "extractor",
+      "brightcove",
+      "video"
+    ],
+    "description": "Brightcove player parser",
+    "license": "MIT",
+    "web": "https://github.com/thisago/brightcove"
   }
 ]
