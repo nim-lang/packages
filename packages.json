@@ -27197,6 +27197,22 @@
     "web": "https://github.com/Patitotective/ImNotify"
   },
   {
+    "name": "pricecsv",
+    "url": "https://github.com/thisago/pricecsv",
+    "method": "git",
+    "tags": [
+      "cli",
+      "calculator",
+      "csv",
+      "bulk",
+      "price",
+      "tool"
+    ],
+    "description": "Easily calculate the total of all products in csv",
+    "license": "gpl-3.0",
+    "web": "https://github.com/thisago/pricecsv"
+  },
+  {
     "name": "bu",
     "url": "https://github.com/c-blake/bu",
     "method": "git",
@@ -27255,19 +27271,17 @@
     "web": "https://github.com/juancarlospaco/bitcoin-lightning"
   },
   {
-    "name": "pricecsv",
-    "url": "https://github.com/thisago/pricecsv",
+    "name": "brightcove",
+    "url": "https://github.com/thisago/brightcove",
     "method": "git",
     "tags": [
-      "cli",
-      "calculator",
-      "csv",
-      "bulk",
-      "price",
-      "tool"
+      "library",
+      "extractor",
+      "brightcove",
+      "video"
     ],
-    "description": "Easily calculate the total of all products in csv",
-    "license": "gpl-3.0",
-    "web": "https://github.com/thisago/pricecsv"
+    "description": "Brightcove player parser",
+    "license": "MIT",
+    "web": "https://github.com/thisago/brightcove"
   }
 ]
