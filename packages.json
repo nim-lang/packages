@@ -27271,6 +27271,21 @@
     "web": "https://github.com/juancarlospaco/bitcoin-lightning"
   },
   {
+    "name": "studiobacklottv",
+    "url": "https://github.com/thisago/studiobacklottv",
+    "method": "git",
+    "tags": [
+      "video",
+      "studiobacklot",
+      "extractor",
+      "cli",
+      "tool"
+    ],
+    "description": "Studio Backlot TV video extractor",
+    "license": "MIT",
+    "web": "https://github.com/thisago/studiobacklottv"
+  },
+  {
     "name": "brightcove",
     "url": "https://github.com/thisago/brightcove",
     "method": "git",
