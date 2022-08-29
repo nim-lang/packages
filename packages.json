@@ -27268,5 +27268,19 @@
     "description": "Studio Backlot TV video extractor",
     "license": "MIT",
     "web": "https://github.com/thisago/studiobacklottv"
+  },
+  {
+    "name": "brightcove",
+    "url": "https://github.com/thisago/brightcove",
+    "method": "git",
+    "tags": [
+      "library",
+      "extractor",
+      "brightcove",
+      "video"
+    ],
+    "description": "Brightcove player parser",
+    "license": "MIT",
+    "web": "https://github.com/thisago/brightcove"
   }
 ]
