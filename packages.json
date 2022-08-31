@@ -27324,5 +27324,19 @@
     "description": "Set that can safely add and remove elements while iterating.",
     "license": "GPL-2.0-only",
     "web": "https://github.com/avahe-kellenberger/safeset"
+  },
+  {
+    "name": "tlv",
+    "url": "https://github.com/d4rckh/nim-tlv",
+    "method": "git",
+    "tags": [
+      "tlv",
+      "serialization",
+      "database",
+      "data"
+    ],
+    "description": "Simplified TLV parsing for nim.",
+    "license": "MIT",
+    "web": "https://github.com/d4rckh/nim-tlv"
   }
 ]
