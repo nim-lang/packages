@@ -27311,5 +27311,18 @@
     "description": "A simple code generation library for other programming languages!",
     "license": "MIT",
     "web": "https://github.com/Mythical-Forest-Collective/CodeGenLib"
+  },
+  {
+    "name": "safeset",
+    "url": "https://github.com/avahe-kellenberger/safeset",
+    "method": "git",
+    "tags": [
+      "safeset",
+      "set",
+      "iterate"
+    ],
+    "description": "Set that can safely add and remove elements while iterating.",
+    "license": "GPL-2.0-only",
+    "web": "https://github.com/avahe-kellenberger/safeset"
   }
 ]
