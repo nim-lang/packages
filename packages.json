@@ -27327,7 +27327,7 @@
   },
   {
     "name": "tlv",
-    "url": "https://github.com/d4rckh/tlv",
+    "url": "https://github.com/d4rckh/nim-tlv",
     "method": "git",
     "tags": [
       "tlv",
@@ -27337,6 +27337,6 @@
     ],
     "description": "Simplified TLV parsing for nim.",
     "license": "MIT",
-    "web": "https://github.com/d4rckh/tlv"
+    "web": "https://github.com/d4rckh/nim-tlv"
   }
 ]
