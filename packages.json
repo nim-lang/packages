@@ -27338,5 +27338,19 @@
     "description": "Simplified TLV parsing for nim.",
     "license": "MIT",
     "web": "https://github.com/d4rckh/nim-tlv"
+  },
+  {
+    "name": "libfuzzy",
+    "url": "https://github.com/srozb/nim-libfuzzy",
+    "method": "git",
+    "tags": [
+      "hash",
+      "fuzzy",
+      "ssdeep",
+      "cryptography"
+    ],
+    "description": "libfuzzy/ssdeep wrapper",
+    "license": "GPL-2.0 license",
+    "web": "https://github.com/srozb/nim-libfuzzy"
   }
 ]
