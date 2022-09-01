@@ -27338,5 +27338,22 @@
     "description": "Simplified TLV parsing for nim.",
     "license": "MIT",
     "web": "https://github.com/d4rckh/nim-tlv"
+  },
+  {
+    "name": "ndup",
+    "url": "https://github.com/c-blake/ndup",
+    "method": "git",
+    "tags": [
+      "rolling hash",
+      "content-sensitive framing",
+      "near duplicate",
+      "duplicate",
+      "detection",
+      "binary files",
+      "set file manipulation"
+    ],
+    "description": "Near-Duplicate File Detection",
+    "license": "MIT/ISC",
+    "web": "https://github.com/c-blake/ndup"
   }
 ]
