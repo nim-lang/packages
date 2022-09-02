@@ -27338,5 +27338,18 @@
     "description": "Simplified TLV parsing for nim.",
     "license": "MIT",
     "web": "https://github.com/d4rckh/nim-tlv"
+  },
+  {
+    "name": "shiftfields",
+    "url": "https://github.com/sumatoshi/shiftfields",
+    "method": "git",
+    "tags": [
+      "bitfield",
+      "bitfields",
+      "library"
+    ],
+    "description": "ShiftField type and sugar for c-style shift bitfields in nim.",
+    "license": "MIT",
+    "web": "https://github.com/sumatoshi/shiftfields"
   }
 ]
