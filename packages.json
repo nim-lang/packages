@@ -29172,5 +29172,19 @@
     "description": "Simple configuration file format (scfg) parser",
     "license": "CC-BY-SA 4.0",
     "web": "https://codeberg.org/xoich/nim-scfg"
+  },
+  {
+    "name": "powernim",
+    "url": "https://codeberg.org/wreed/powernim",
+    "method": "git",
+    "tags": [
+      "menu",
+      "powermenu",
+      "gui",
+      "gtk"
+    ],
+    "description": "Basic power menu for Linux (with systemd)",
+    "license": "BSD-2-Clause",
+    "web": "https://codeberg.org/wreed/powernim"
   }
 ]
