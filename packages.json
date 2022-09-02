@@ -1997,6 +1997,30 @@
     "web": "https://github.com/PMunch/ikeahomesmart"
   },
   {
+    "name": "autotemplate",
+    "url": "https://github.com/PMunch/autotemplate",
+    "method": "git",
+    "tags": [
+      "library",
+      "templates"
+    ],
+    "description": "Small library to automatically generate type-bound templates from files",
+    "license": "MIT",
+    "web": "https://github.com/PMunch/autotemplate"
+  },
+  {
+    "name": "deriveables",
+    "url": "https://github.com/PMunch/deriveables",
+    "method": "git",
+    "tags": [
+      "library",
+      "types"
+    ],
+    "description": "Small library to generate procedures with a type derivation system",
+    "license": "MIT",
+    "web": "https://github.com/PMunch/deriveables"
+  },
+  {
     "name": "sdl2_nim",
     "url": "https://github.com/Vladar4/sdl2_nim",
     "method": "git",
