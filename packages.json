@@ -1997,6 +1997,30 @@
     "web": "https://github.com/PMunch/ikeahomesmart"
   },
   {
+    "name": "autotemplate",
+    "url": "https://github.com/PMunch/autotemplate",
+    "method": "git",
+    "tags": [
+      "library",
+      "templates"
+    ],
+    "description": "Small library to automatically generate type-bound templates from files",
+    "license": "MIT",
+    "web": "https://github.com/PMunch/autotemplate"
+  },
+  {
+    "name": "deriveables",
+    "url": "https://github.com/PMunch/deriveables",
+    "method": "git",
+    "tags": [
+      "library",
+      "types"
+    ],
+    "description": "Small library to generate procedures with a type derivation system",
+    "license": "MIT",
+    "web": "https://github.com/PMunch/deriveables"
+  },
+  {
     "name": "sdl2_nim",
     "url": "https://github.com/Vladar4/sdl2_nim",
     "method": "git",
@@ -27351,5 +27375,38 @@
     "description": "ShiftField type and sugar for c-style shift bitfields in nim.",
     "license": "MIT",
     "web": "https://github.com/sumatoshi/shiftfields"
+  },
+  {
+    "name": "ndup",
+    "url": "https://github.com/c-blake/ndup",
+    "method": "git",
+    "tags": [
+      "rolling hash",
+      "content-sensitive framing",
+      "near duplicate",
+      "duplicate",
+      "detection",
+      "binary files",
+      "set file manipulation"
+    ],
+    "description": "Near-Duplicate File Detection",
+    "license": "MIT/ISC",
+    "web": "https://github.com/c-blake/ndup"
+  },
+  {
+    "name": "libfuzzy",
+    "url": "https://github.com/srozb/nim-libfuzzy",
+    "method": "git",
+    "tags": [
+      "cryptography",
+      "ssdeep",
+      "libfuzzy",
+      "fuzzyhashing",
+      "hash",
+      "wrapper"
+    ],
+    "description": "libfuzzy/ssdeep wrapper",
+    "license": "GPL-2.0-only",
+    "web": "https://github.com/srozb/nim-libfuzzy"
   }
 ]
