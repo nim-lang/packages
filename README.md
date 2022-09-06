@@ -53,7 +53,7 @@ contain a .nimble file, or else it will be rejected.
 
 The requirements might change in future.
 
-## Upgrading packages
+## Releasing a new package version
 
 The version number in the directory is derived from git tags (not the `version` field in the `.nimble` script). To release a new version of a package, follow the [instructions from the Nimble readme](https://github.com/nim-lang/nimble#releasing-a-new-version):
 
