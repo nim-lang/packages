@@ -22399,17 +22399,6 @@
     "web": "https://eris.codeberg.page"
   },
   {
-    "name": "eris_utils",
-    "url": "https://codeberg.org/eris/nim-eris_utils",
-    "method": "git",
-    "tags": [
-      "eris"
-    ],
-    "description": "Utilities for the Encoding for Robust Immutable Storage (ERIS)",
-    "license": "GPL-3.0",
-    "web": "https://eris.codeberg.page"
-  },
-  {
     "name": "html2karax",
     "url": "https://github.com/nim-lang-cn/html2karax",
     "method": "git",
