@@ -27408,5 +27408,23 @@
     "description": "libfuzzy/ssdeep wrapper",
     "license": "GPL-2.0-only",
     "web": "https://github.com/srozb/nim-libfuzzy"
+  },
+  {
+    "name": "QRgen",
+    "url": "https://github.com/aruZeta/QRgen",
+    "method": "git",
+    "tags": [
+      "qrcode",
+      "qr code",
+      "qr generator",
+      "qr",
+      "qr codes",
+      "qrcode generator",
+      "qr code generator",
+      "library"
+    ],
+    "description": "A QR code generation library.",
+    "license": "MIT",
+    "web": "https://github.com/aruZeta/QRgen"
   }
 ]
