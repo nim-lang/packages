@@ -27458,5 +27458,14 @@
     "description": "PE tool based on libpe (with no S)",
     "license": "MIT",
     "web": "https://github.com/srozb/peni"
+  },
+  {
+    "name": "getdns",
+    "url": "https://git.sr.ht/~ehmry/getdns-nim",
+    "method": "git",
+    "tags": [ "dns", network" ],
+    "description": "Wrapper over the getdns API",
+    "license": "BSD-3-Clause",
+    "web": "https://getdnsapi.net/"
   }
 ]
