@@ -27458,5 +27458,19 @@
     "description": "PE tool based on libpe (with no S)",
     "license": "MIT",
     "web": "https://github.com/srozb/peni"
+  },
+  {
+    "name": "ezscr",
+    "url": "https://github.com/thisago/ezscr",
+    "method": "git",
+    "tags": [
+      "script",
+      "tool",
+      "portable",
+      "nimscript"
+    ],
+    "description": "Portable and easy Nimscript runner. Nim compiler not needed",
+    "license": "gpl-3.0-only",
+    "web": "https://github.com/thisago/ezscr"
   }
 ]
