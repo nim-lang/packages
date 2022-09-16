@@ -27284,6 +27284,24 @@
     "web": "https://github.com/radekm/nim_libdeflate_gzip"
   },
   {
+    "name": "QRgen",
+    "url": "https://github.com/aruZeta/QRgen",
+    "method": "git",
+    "tags": [
+      "qrcode",
+      "qr code",
+      "qr generator",
+      "qr",
+      "qr codes",
+      "qrcode generator",
+      "qr code generator",
+      "library"
+    ],
+    "description": "A QR code generation library.",
+    "license": "MIT",
+    "web": "https://github.com/aruZeta/QRgen"
+  },
+  {
     "name": "bitcoinlightning",
     "url": "https://github.com/juancarlospaco/bitcoin-lightning",
     "method": "git",
@@ -27364,6 +27382,19 @@
     "web": "https://github.com/d4rckh/nim-tlv"
   },
   {
+    "name": "shiftfields",
+    "url": "https://github.com/sumatoshi/shiftfields",
+    "method": "git",
+    "tags": [
+      "bitfield",
+      "bitfields",
+      "library"
+    ],
+    "description": "ShiftField type and sugar for c-style shift bitfields in nim.",
+    "license": "MIT",
+    "web": "https://github.com/sumatoshi/shiftfields"
+  },
+  {
     "name": "ndup",
     "url": "https://github.com/c-blake/ndup",
     "method": "git",
@@ -27409,5 +27440,60 @@
     "description": "Jester rate limiter plugin",
     "license": "MIT",
     "web": "https://github.com/C-NERD/clown_limiter"
+  },
+  {
+    "name": "bitseqs",
+    "url": "https://github.com/adokitkat/bitfields",
+    "method": "git",
+    "tags": [
+      "bit",
+      "bitfield",
+      "seq",
+      "bitseq",
+      "manipulation",
+      "utility",
+      "library"
+    ],
+    "description": "Utility for a bit manipulation",
+    "license": "MIT",
+    "web": "https://github.com/adokitkat/bitfields"
+  },
+  {
+    "name": "peni",
+    "url": "https://github.com/srozb/peni",
+    "method": "git",
+    "tags": [
+      "pe",
+      "tool",
+      "static",
+      "analysis",
+      "malware"
+    ],
+    "description": "PE tool based on libpe (with no S)",
+    "license": "MIT",
+    "web": "https://github.com/srozb/peni"
+  },
+  {
+    "name": "getdns",
+    "url": "https://git.sr.ht/~ehmry/getdns-nim",
+    "method": "git",
+    "tags": [ "dns", "network" ],
+    "description": "Wrapper over the getdns API",
+    "license": "BSD-3-Clause",
+    "web": "https://getdnsapi.net/"
+  },
+  {
+    "name": "ezscr",
+    "url": "https://github.com/thisago/ezscr",
+    "method": "git",
+    "tags": [
+      "script",
+      "tool",
+      "portable",
+      "nimscript"
+    ],
+    "description": "Portable and easy Nimscript runner. Nim compiler not needed",
+    "license": "gpl-3.0-only",
+    "web": "https://github.com/thisago/ezscr"
   }
 ]
