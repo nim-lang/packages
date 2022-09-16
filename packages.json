@@ -27428,6 +27428,20 @@
     "web": "https://github.com/srozb/nim-libfuzzy"
   },
   {
+    "name": "clown_limiter",
+    "url": "https://github.com/C-NERD/clown_limiter",
+    "method": "git",
+    "tags": [
+      "jester",
+      "rate_limiter",
+      "plugin",
+      "clown_limiter"
+    ],
+    "description": "Jester rate limiter plugin",
+    "license": "MIT",
+    "web": "https://github.com/C-NERD/clown_limiter"
+  },
+  {
     "name": "bitseqs",
     "url": "https://github.com/adokitkat/bitfields",
     "method": "git",
