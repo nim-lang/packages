@@ -18880,7 +18880,8 @@
     "method": "git",
     "tags": [
       "encryption",
-      "obfuscation"
+      "obfuscation",
+      "abandoned"
     ],
     "description": "A library to automatically encrypt all string constants in your programs",
     "license": "MIT",
