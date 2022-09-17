@@ -27206,6 +27206,18 @@
     "doc": "https://mersal-doc.surge.sh/mersal"
   },
   {
+    "name": "zigcc",
+    "url": "https://github.com/enthus1ast/zigcc",
+    "method": "git",
+    "tags": [
+      "zig",
+      "wrapper"
+    ],
+    "description": "wraps `zig cc` to be able to be called by the nim compiler",
+    "license": "MIT",
+    "web": "https://github.com/enthus1ast/zigcc"
+  },
+  {
     "name": "imnotify",
     "url": "https://github.com/Patitotective/ImNotify",
     "method": "git",
