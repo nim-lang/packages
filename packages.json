@@ -1997,6 +1997,30 @@
     "web": "https://github.com/PMunch/ikeahomesmart"
   },
   {
+    "name": "autotemplate",
+    "url": "https://github.com/PMunch/autotemplate",
+    "method": "git",
+    "tags": [
+      "library",
+      "templates"
+    ],
+    "description": "Small library to automatically generate type-bound templates from files",
+    "license": "MIT",
+    "web": "https://github.com/PMunch/autotemplate"
+  },
+  {
+    "name": "deriveables",
+    "url": "https://github.com/PMunch/deriveables",
+    "method": "git",
+    "tags": [
+      "library",
+      "types"
+    ],
+    "description": "Small library to generate procedures with a type derivation system",
+    "license": "MIT",
+    "web": "https://github.com/PMunch/deriveables"
+  },
+  {
     "name": "sdl2_nim",
     "url": "https://github.com/Vladar4/sdl2_nim",
     "method": "git",
@@ -2938,15 +2962,20 @@
     "web": "https://github.com/NimParsers/parsetoml"
   },
   {
-    "name": "compiler",
+    "name": "nim",
     "url": "https://github.com/nim-lang/Nim.git",
     "method": "git",
     "tags": [
-      "library"
+      "library",
+      "compiler"
     ],
-    "description": "Compiler package providing the compiler sources as a library.",
+    "description": "Package providing the Nim compiler binaries plus all its source files that can be used as a library",
     "license": "MIT",
     "web": "https://github.com/nim-lang/Nim"
+  },
+  {
+    "name": "compiler",
+    "alias": "nim"
   },
   {
     "name": "nre",
@@ -6794,6 +6823,24 @@
     "description": "A hacky helper lib for authoring Nim packages with package-level visiblity",
     "license": "MIT",
     "web": "https://github.com/zah/nim-package-visible-types"
+  },
+  {
+    "name": "drchaos",
+    "url": "https://github.com/status-im/nim-drchaos",
+    "method": "git",
+    "tags": [
+      "security",
+      "binary",
+      "structured",
+      "fuzzing",
+      "unit-testing",
+      "coverage-guided",
+      "grammar-fuzzer",
+      "mutator-based"
+    ],
+    "description": "A powerful and easy-to-use fuzzing framework in Nim for C/C++/Obj-C targets",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/status-im/nim-drchaos"
   },
   {
     "name": "presto",
@@ -26917,6 +26964,28 @@
     "web": "https://github.com/thisago/kiwifyDownload"
   },
   {
+    "name": "timsort2",
+    "url": "https://github.com/xrfez/timsort",
+    "method": "git",
+    "tags": [
+      "sort",
+      "timsort",
+      "2D",
+      "algorithm",
+      "fast",
+      "merge",
+      "insertion",
+      "python",
+      "java",
+      "stable",
+      "index",
+      "multiple"
+    ],
+    "description": "timsort algorithm implemented in Nim",
+    "license": "Apache-2.0",
+    "web": "https://github.com/xrfez/timsort"
+  },
+  {
     "name": "vimeo",
     "url": "https://github.com/thisago/vimeo",
     "method": "git",
@@ -27068,6 +27137,21 @@
     "web": "https://github.com/VitorGoatman/geomancer"
   },
   {
+    "name": "NimNN",
+    "url": "https://github.com/xcodz-dot/NimNN",
+    "method": "git",
+    "tags": [
+      "neural",
+      "networks",
+      "simulator",
+      "native",
+      "genetic"
+    ],
+    "description": "Neural Networks from scratch",
+    "license": "MIT",
+    "web": "https://github.com/xcodz-dot/NimNN"
+  },
+  {
     "name": "simpleargs",
     "url": "https://github.com/HTGenomeAnalysisUnit/nim-simpleargs",
     "method": "git",
@@ -27132,5 +27216,296 @@
     "description": "wraps `zig cc` to be able to be called by the nim compiler",
     "license": "MIT",
     "web": "https://github.com/enthus1ast/zigcc"
-  }  
+  },
+  {
+    "name": "imnotify",
+    "url": "https://github.com/Patitotective/ImNotify",
+    "method": "git",
+    "tags": [
+      "imgui",
+      "notifications",
+      "popup",
+      "dear-imgui",
+      "gui"
+    ],
+    "description": "A notifications library for Dear ImGui",
+    "license": "MIT",
+    "web": "https://github.com/Patitotective/ImNotify"
+  },
+  {
+    "name": "pricecsv",
+    "url": "https://github.com/thisago/pricecsv",
+    "method": "git",
+    "tags": [
+      "cli",
+      "calculator",
+      "csv",
+      "bulk",
+      "price",
+      "tool"
+    ],
+    "description": "Easily calculate the total of all products in csv",
+    "license": "gpl-3.0",
+    "web": "https://github.com/thisago/pricecsv"
+  },
+  {
+    "name": "bu",
+    "url": "https://github.com/c-blake/bu",
+    "method": "git",
+    "tags": [
+      "bu",
+      "unix",
+      "posix",
+      "linux",
+      "sysadmin",
+      "system administration",
+      "shell utilities",
+      "benchmarking",
+      "colorization",
+      "extreme value statistics"
+    ],
+    "description": "B)asic|But-For U)tility Code/Programs (Usually Nim & With Unix/POSIX/Linux Context)",
+    "license": "MIT/ISC",
+    "web": "https://github.com/c-blake/bu"
+  },
+  {
+    "name": "clipper2",
+    "url": "https://github.com/scemino/clipper2",
+    "method": "git",
+    "tags": [
+      "clipper",
+      "polygon",
+      "clipping",
+      "offsetting"
+    ],
+    "description": "Bindings for Clipper2Lib: Polygon Clipping and Offsetting Library from Angus Johnson",
+    "license": "boost",
+    "web": "https://github.com/scemino/clipper2"
+  },
+  {
+    "name": "libdeflate_gzip",
+    "url": "https://github.com/radekm/nim_libdeflate_gzip",
+    "method": "git",
+    "tags": [
+      "compression",
+      "gzip",
+      "deflate"
+    ],
+    "description": "A wrapper for libdeflate",
+    "license": "MIT",
+    "web": "https://github.com/radekm/nim_libdeflate_gzip"
+  },
+  {
+    "name": "QRgen",
+    "url": "https://github.com/aruZeta/QRgen",
+    "method": "git",
+    "tags": [
+      "qrcode",
+      "qr code",
+      "qr generator",
+      "qr",
+      "qr codes",
+      "qrcode generator",
+      "qr code generator",
+      "library"
+    ],
+    "description": "A QR code generation library.",
+    "license": "MIT",
+    "web": "https://github.com/aruZeta/QRgen"
+  },
+  {
+    "name": "bitcoinlightning",
+    "url": "https://github.com/juancarlospaco/bitcoin-lightning",
+    "method": "git",
+    "tags": [
+      "crypto"
+    ],
+    "description": "Bitcoin Lightning client",
+    "license": "MIT",
+    "web": "https://github.com/juancarlospaco/bitcoin-lightning"
+  },
+  {
+    "name": "studiobacklottv",
+    "url": "https://github.com/thisago/studiobacklottv",
+    "method": "git",
+    "tags": [
+      "video",
+      "studiobacklot",
+      "extractor",
+      "cli",
+      "tool"
+    ],
+    "description": "Studio Backlot TV video extractor",
+    "license": "MIT",
+    "web": "https://github.com/thisago/studiobacklottv"
+  },
+  {
+    "name": "brightcove",
+    "url": "https://github.com/thisago/brightcove",
+    "method": "git",
+    "tags": [
+      "library",
+      "extractor",
+      "brightcove",
+      "video"
+    ],
+    "description": "Brightcove player parser",
+    "license": "MIT",
+    "web": "https://github.com/thisago/brightcove"
+  },
+  {
+    "name": "codegenlib",
+    "url": "https://github.com/Mythical-Forest-Collective/CodeGenLib",
+    "method": "git",
+    "tags": [
+      "library",
+      "codegen",
+      "codegeneration"
+    ],
+    "description": "A simple code generation library for other programming languages!",
+    "license": "MIT",
+    "web": "https://github.com/Mythical-Forest-Collective/CodeGenLib"
+  },
+  {
+    "name": "safeset",
+    "url": "https://github.com/avahe-kellenberger/safeset",
+    "method": "git",
+    "tags": [
+      "safeset",
+      "set",
+      "iterate"
+    ],
+    "description": "Set that can safely add and remove elements while iterating.",
+    "license": "GPL-2.0-only",
+    "web": "https://github.com/avahe-kellenberger/safeset"
+  },
+  {
+    "name": "tlv",
+    "url": "https://github.com/d4rckh/nim-tlv",
+    "method": "git",
+    "tags": [
+      "tlv",
+      "serialization",
+      "database",
+      "data"
+    ],
+    "description": "Simplified TLV parsing for nim.",
+    "license": "MIT",
+    "web": "https://github.com/d4rckh/nim-tlv"
+  },
+  {
+    "name": "shiftfields",
+    "url": "https://github.com/sumatoshi/shiftfields",
+    "method": "git",
+    "tags": [
+      "bitfield",
+      "bitfields",
+      "library"
+    ],
+    "description": "ShiftField type and sugar for c-style shift bitfields in nim.",
+    "license": "MIT",
+    "web": "https://github.com/sumatoshi/shiftfields"
+  },
+  {
+    "name": "ndup",
+    "url": "https://github.com/c-blake/ndup",
+    "method": "git",
+    "tags": [
+      "rolling hash",
+      "content-sensitive framing",
+      "near duplicate",
+      "duplicate",
+      "detection",
+      "binary files",
+      "set file manipulation"
+    ],
+    "description": "Near-Duplicate File Detection",
+    "license": "MIT/ISC",
+    "web": "https://github.com/c-blake/ndup"
+  },
+  {
+    "name": "libfuzzy",
+    "url": "https://github.com/srozb/nim-libfuzzy",
+    "method": "git",
+    "tags": [
+      "cryptography",
+      "ssdeep",
+      "libfuzzy",
+      "fuzzyhashing",
+      "hash",
+      "wrapper"
+    ],
+    "description": "libfuzzy/ssdeep wrapper",
+    "license": "GPL-2.0-only",
+    "web": "https://github.com/srozb/nim-libfuzzy"
+  },
+  {
+    "name": "clown_limiter",
+    "url": "https://github.com/C-NERD/clown_limiter",
+    "method": "git",
+    "tags": [
+      "jester",
+      "rate_limiter",
+      "plugin",
+      "clown_limiter"
+    ],
+    "description": "Jester rate limiter plugin",
+    "license": "MIT",
+    "web": "https://github.com/C-NERD/clown_limiter"
+  },
+  {
+    "name": "bitseqs",
+    "url": "https://github.com/adokitkat/bitfields",
+    "method": "git",
+    "tags": [
+      "bit",
+      "bitfield",
+      "seq",
+      "bitseq",
+      "manipulation",
+      "utility",
+      "library"
+    ],
+    "description": "Utility for a bit manipulation",
+    "license": "MIT",
+    "web": "https://github.com/adokitkat/bitfields"
+  },
+  {
+    "name": "peni",
+    "url": "https://github.com/srozb/peni",
+    "method": "git",
+    "tags": [
+      "pe",
+      "tool",
+      "static",
+      "analysis",
+      "malware"
+    ],
+    "description": "PE tool based on libpe (with no S)",
+    "license": "MIT",
+    "web": "https://github.com/srozb/peni"
+  },
+  {
+    "name": "getdns",
+    "url": "https://git.sr.ht/~ehmry/getdns-nim",
+    "method": "git",
+    "tags": [ "dns", "network" ],
+    "description": "Wrapper over the getdns API",
+    "license": "BSD-3-Clause",
+    "web": "https://getdnsapi.net/"
+  },
+  {
+    "name": "ezscr",
+    "url": "https://github.com/thisago/ezscr",
+    "method": "git",
+    "tags": [
+      "script",
+      "tool",
+      "portable",
+      "nimscript"
+    ],
+    "description": "Portable and easy Nimscript runner. Nim compiler not needed",
+    "license": "gpl-3.0-only",
+    "web": "https://github.com/thisago/ezscr"
+  }
 ]
