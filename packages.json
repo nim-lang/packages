@@ -27549,5 +27549,19 @@
     "description": "Nim bindings for libmpv",
     "license": "MIT",
     "web": "https://github.com/WeebNetsu/nim-mpv"
+  },
+  {
+    "name": "dimage",
+    "url": "https://github.com/accodeing/dimage",
+    "method": "git",
+    "tags": [
+      "library",
+      "image",
+      "metadata",
+      "size"
+    ],
+    "description": "Pure Nim, no external dependencies, image mime type and dimension reader for images",
+    "license": "LGPL-3.0-only",
+    "web": "https://github.com/accodeing/dimage"
   }
 ]
