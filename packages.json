@@ -18880,7 +18880,8 @@
     "method": "git",
     "tags": [
       "encryption",
-      "obfuscation"
+      "obfuscation",
+      "abandoned"
     ],
     "description": "A library to automatically encrypt all string constants in your programs",
     "license": "MIT",
@@ -27489,7 +27490,10 @@
     "name": "getdns",
     "url": "https://git.sr.ht/~ehmry/getdns-nim",
     "method": "git",
-    "tags": [ "dns", "network" ],
+    "tags": [
+      "dns",
+      "network"
+    ],
     "description": "Wrapper over the getdns API",
     "license": "BSD-3-Clause",
     "web": "https://getdnsapi.net/"
@@ -27531,5 +27535,19 @@
     "description": "Library to pack dependencies in the compiled binary. Supports .dll files",
     "license": "Apache-2.0 License",
     "web": "https://github.com/xrfez/packy"
+  },
+  {
+    "name": "mpv",
+    "url": "https://github.com/WeebNetsu/nim-mpv",
+    "method": "git",
+    "tags": [
+      "mpv",
+      "libmpv",
+      "bindings",
+      "nim-mpv"
+    ],
+    "description": "Nim bindings for libmpv",
+    "license": "MIT",
+    "web": "https://github.com/WeebNetsu/nim-mpv"
   }
 ]
