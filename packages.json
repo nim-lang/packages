@@ -27490,7 +27490,10 @@
     "name": "getdns",
     "url": "https://git.sr.ht/~ehmry/getdns-nim",
     "method": "git",
-    "tags": [ "dns", "network" ],
+    "tags": [
+      "dns",
+      "network"
+    ],
     "description": "Wrapper over the getdns API",
     "license": "BSD-3-Clause",
     "web": "https://getdnsapi.net/"
@@ -27508,5 +27511,19 @@
     "description": "Portable and easy Nimscript runner. Nim compiler not needed",
     "license": "gpl-3.0-only",
     "web": "https://github.com/thisago/ezscr"
+  },
+  {
+    "name": "mpv",
+    "url": "https://github.com/WeebNetsu/nim-mpv",
+    "method": "git",
+    "tags": [
+      "mpv",
+      "libmpv",
+      "bindings",
+      "nim-mpv"
+    ],
+    "description": "Nim bindings for libmpv",
+    "license": "MIT",
+    "web": "https://github.com/WeebNetsu/nim-mpv"
   }
 ]
