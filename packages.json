@@ -27561,7 +27561,7 @@
       "size"
     ],
     "description": "Pure Nim, no external dependencies, image mime type and dimension reader for images",
-    "license": "LGPL-3.0-only",
+    "license": "LGPL-3.0",
     "web": "https://github.com/accodeing/dimage"
   }
 ]
