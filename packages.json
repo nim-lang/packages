@@ -27563,5 +27563,18 @@
     "description": "Pure Nim, no external dependencies, image mime type and dimension reader for images",
     "license": "LGPL-3.0",
     "web": "https://github.com/accodeing/dimage"
+  },
+  {
+    "name": "aspartame",
+    "url": "https://git.sr.ht/~xigoi/aspartame",
+    "method": "git",
+    "tags": [
+      "syntax",
+      "sugar",
+      "utility"
+    ],
+    "description": "More syntactic sugar for Nim",
+    "license": "GPL-3.0-or-later",
+    "web": "https://git.sr.ht/~xigoi/aspartame"
   }
 ]
