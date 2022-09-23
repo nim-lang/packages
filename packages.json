@@ -1,4 +1,18 @@
 [
+    {
+    "name": "passy",
+    "url": "https://github.com/infinitybeond1/passy",
+    "method": "git",
+    "tags": [
+      "password",
+      "generator",
+      "cryptography",
+      "security"
+    ],
+    "description": "A fast little password generator",
+    "license": "GPL3",
+    "web": "https://github.com/infinitybeond1/passy"
+  },
   {
     "name": "entgrep",
     "url": "https://github.com/srozb/entgrep",
