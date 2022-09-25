@@ -27563,5 +27563,19 @@
     "description": "Pure Nim, no external dependencies, image mime type and dimension reader for images",
     "license": "LGPL-3.0",
     "web": "https://github.com/accodeing/dimage"
+  },
+  {
+    "name": "kdl",
+    "url": "https://github.com/Patitotective/kdl-nim",
+    "method": "git",
+    "tags": [
+      "kdl",
+      "parser",
+      "config",
+      "serialization"
+    ],
+    "description": "KDL document language Nim implementation",
+    "license": "MIT",
+    "web": "https://github.com/Patitotective/kdl-nim"
   }
 ]
