@@ -27189,7 +27189,7 @@
       "library"
     ],
     "description": "Nim wrapper for libpe library",
-    "license": "MIT",
+    "license": "GPL-3.0",
     "web": "https://github.com/srozb/nim-libpe"
   },
   {
