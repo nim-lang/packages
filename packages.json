@@ -27577,5 +27577,17 @@
     "description": "KDL document language Nim implementation",
     "license": "MIT",
     "web": "https://github.com/Patitotective/kdl-nim"
+  },
+  {
+    "name": "jsmacro",
+    "url": "https:///",
+    "method": "",
+    "tags": [
+      "javascript",
+      "macro"
+    ],
+    "description": "A macro to create js objects",
+    "license": "MIT",
+    "web": "https:///"
   }
 ]
