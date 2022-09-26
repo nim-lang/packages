@@ -1,5 +1,5 @@
 [
-    {
+  {
     "name": "passy",
     "url": "https://github.com/infinitybeond1/passy",
     "method": "git",
@@ -27595,5 +27595,17 @@
     "description": "KDL document language Nim implementation",
     "license": "MIT",
     "web": "https://github.com/Patitotective/kdl-nim"
+  },
+  {
+    "name": "deno_nim",
+    "url": "https://github.com/sigmaSd/deno-nim",
+    "method": "git",
+    "tags": [
+      "deno",
+      "std"
+    ],
+    "description": "Deno stdlib for nim",
+    "license": "MIT",
+    "web": "https://github.com/sigmaSd/deno-nim"
   }
 ]
