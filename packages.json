@@ -1,4 +1,18 @@
 [
+    {
+    "name": "passy",
+    "url": "https://github.com/infinitybeond1/passy",
+    "method": "git",
+    "tags": [
+      "password",
+      "generator",
+      "cryptography",
+      "security"
+    ],
+    "description": "A fast little password generator",
+    "license": "GPL3",
+    "web": "https://github.com/infinitybeond1/passy"
+  },
   {
     "name": "entgrep",
     "url": "https://github.com/srozb/entgrep",
@@ -22400,17 +22414,6 @@
     "web": "https://eris.codeberg.page"
   },
   {
-    "name": "eris_utils",
-    "url": "https://codeberg.org/eris/nim-eris_utils",
-    "method": "git",
-    "tags": [
-      "eris"
-    ],
-    "description": "Utilities for the Encoding for Robust Immutable Storage (ERIS)",
-    "license": "GPL-3.0",
-    "web": "https://eris.codeberg.page"
-  },
-  {
     "name": "html2karax",
     "url": "https://github.com/nim-lang-cn/html2karax",
     "method": "git",
@@ -27189,7 +27192,7 @@
       "library"
     ],
     "description": "Nim wrapper for libpe library",
-    "license": "MIT",
+    "license": "GPL-3.0",
     "web": "https://github.com/srozb/nim-libpe"
   },
   {
@@ -27578,5 +27581,19 @@
     "description": "A CLI tool to check files (and registry in Windows)",
     "license": "MIT",
     "web": "https://git.ozzuu.com/thisago/checkif"
+  },
+  {
+    "name": "kdl",
+    "url": "https://github.com/Patitotective/kdl-nim",
+    "method": "git",
+    "tags": [
+      "kdl",
+      "parser",
+      "config",
+      "serialization"
+    ],
+    "description": "KDL document language Nim implementation",
+    "license": "MIT",
+    "web": "https://github.com/Patitotective/kdl-nim"
   }
 ]
