@@ -23590,7 +23590,7 @@
   },
   {
     "name": "formulas",
-    "url": "https://gitea.com/thisago/formulas.nim",
+    "url": "https://git.ozzuu.com/thisago/formulas",
     "method": "git",
     "tags": [
       "math",
@@ -23598,7 +23598,7 @@
     ],
     "description": "Mathematical formulas",
     "license": "MIT",
-    "web": "https://gitea.com/thisago/formulas.nim"
+    "web": "https://git.ozzuu.com/thisago/formulas"
   },
   {
     "name": "parsesql",
@@ -23628,7 +23628,7 @@
   },
   {
     "name": "whois",
-    "url": "https://gitea.com/Thisago/whois.nim",
+    "url": "https://git.ozzuu.com/thisago/whois",
     "method": "git",
     "tags": [
       "whois",
@@ -23636,7 +23636,7 @@
     ],
     "description": "A simple and free whois client",
     "license": "MIT",
-    "web": "https://gitea.com/Thisago/whois.nim"
+    "web": "https://git.ozzuu.com/thisago/whois"
   },
   {
     "name": "statistical_tests",
@@ -23953,7 +23953,7 @@
   },
   {
     "name": "gm_api",
-    "url": "https://gitea.com/thisago/gm_api",
+    "url": "https://git.ozzuu.com/thisago/gm_api",
     "method": "git",
     "tags": [
       "greasemonkey",
@@ -23963,7 +23963,7 @@
     ],
     "description": "Bindings for Greasemonkey API and an userscript header generator",
     "license": "MIT",
-    "web": "https://gitea.com/thisago/gm_api"
+    "web": "https://git.ozzuu.com/thisago/gm_api"
   },
   {
     "name": "asyncthreadpool",
@@ -24143,7 +24143,7 @@
   },
   {
     "name": "ytextractor",
-    "url": "https://github.com/thisago/ytextractor",
+    "url": "https://git.ozzuu.com/thisago/ytextractor",
     "method": "git",
     "tags": [
       "youtube",
@@ -24152,7 +24152,7 @@
     ],
     "description": "Youtube data extractor",
     "license": "MIT",
-    "web": "https://github.com/thisago/ytextractor"
+    "web": "https://git.ozzuu.com/thisago/ytextractor"
   },
   {
     "name": "nimja",
@@ -24251,7 +24251,7 @@
   },
   {
     "name": "numToWord",
-    "url": "https://github.com/thisago/numToWord",
+    "url": "https://git.ozzuu.com/thisago/numToWord",
     "method": "git",
     "tags": [
       "numbers",
@@ -24260,7 +24260,7 @@
     ],
     "description": "Convert numbers to words",
     "license": "MIT",
-    "web": "https://github.com/thisago/numToWord"
+    "web": "https://git.ozzuu.com/thisago/numToWord"
   },
   {
     "name": "bs",
@@ -24317,7 +24317,7 @@
   },
   {
     "name": "htmlAntiCopy",
-    "url": "https://github.com/thisago/htmlAntiCopy",
+    "url": "https://git.ozzuu.com/thisago/htmlAntiCopy",
     "method": "git",
     "tags": [
       "html",
@@ -24326,7 +24326,7 @@
     ],
     "description": "Block copy of any text in HTML",
     "license": "MIT",
-    "web": "https://github.com/thisago/htmlAntiCopy"
+    "web": "https://git.ozzuu.com/thisago/htmlAntiCopy"
   },
   {
     "name": "distorm3",
@@ -24377,7 +24377,7 @@
   },
   {
     "name": "tic80",
-    "url": "https://github.com/thisago/tic80",
+    "url": "https://git.ozzuu.com/thisago/tic80",
     "method": "git",
     "tags": [
       "tic80",
@@ -24387,7 +24387,7 @@
     ],
     "description": "TIC-80 bindings",
     "license": "MIT",
-    "web": "https://github.com/thisago/tic80"
+    "web": "https://git.ozzuu.com/thisago/tic80"
   },
   {
     "name": "nimcrypt",
@@ -24582,7 +24582,7 @@
   },
   {
     "name": "tokarax",
-    "url": "https://github.com/thisago/tokarax",
+    "url": "https://git.ozzuu.com/thisago/tokarax",
     "method": "git",
     "tags": [
       "html",
@@ -24591,7 +24591,7 @@
     ],
     "description": "Converts HTML to Karax representation",
     "license": "MIT",
-    "web": "https://github.com/thisago/tokarax"
+    "web": "https://git.ozzuu.com/thisago/tokarax"
   },
   {
     "name": "asyncanything",
@@ -24685,7 +24685,7 @@
   },
   {
     "name": "dataUrl",
-    "url": "https://github.com/thisago/dataUrl",
+    "url": "https://git.ozzuu.com/thisago/dataUrl",
     "method": "git",
     "tags": [
       "cli",
@@ -24694,11 +24694,11 @@
     ],
     "description": "Easily create data urls! CLI included",
     "license": "MIT",
-    "web": "https://github.com/thisago/dataUrl"
+    "web": "https://git.ozzuu.com/thisago/dataUrl"
   },
   {
     "name": "animatecss",
-    "url": "https://github.com/thisago/animatecss",
+    "url": "https://git.ozzuu.com/thisago/animatecss",
     "method": "git",
     "tags": [
       "javascript",
@@ -24706,7 +24706,7 @@
     ],
     "description": "Easily use Animate.css classes",
     "license": "MIT",
-    "web": "https://github.com/thisago/animatecss"
+    "web": "https://git.ozzuu.com/thisago/animatecss"
   },
   {
     "name": "config",
@@ -24812,7 +24812,7 @@
   },
   {
     "name": "brainlyextractor",
-    "url": "https://github.com/thisago/brainlyextractor",
+    "url": "https://git.ozzuu.com/thisago/brainlyextractor",
     "method": "git",
     "tags": [
       "library",
@@ -24821,11 +24821,11 @@
     ],
     "description": "Brainly data extractor",
     "license": "MIT",
-    "web": "https://github.com/thisago/brainlyextractor"
+    "web": "https://git.ozzuu.com/thisago/brainlyextractor"
   },
   {
     "name": "duckduckgo",
-    "url": "https://github.com/thisago/duckduckgo",
+    "url": "https://git.ozzuu.com/thisago/duckduckgo",
     "method": "git",
     "tags": [
       "library",
@@ -24836,11 +24836,11 @@
     ],
     "description": "Duckduckgo search",
     "license": "MIT",
-    "web": "https://github.com/thisago/duckduckgo"
+    "web": "https://git.ozzuu.com/thisago/duckduckgo"
   },
   {
     "name": "scraper",
-    "url": "https://github.com/thisago/scraper",
+    "url": "https://git.ozzuu.com/thisago/scraper",
     "method": "git",
     "tags": [
       "web",
@@ -24850,7 +24850,7 @@
     ],
     "description": "Scraping tools",
     "license": "MIT",
-    "web": "https://github.com/thisago/scraper"
+    "web": "https://git.ozzuu.com/thisago/scraper"
   },
   {
     "name": "htmlunescape",
@@ -24911,7 +24911,7 @@
   },
   {
     "name": "bluesoftcosmos",
-    "url": "https://github.com/thisago/bluesoftcosmos",
+    "url": "https://git.ozzuu.com/thisago/bluesoftcosmos",
     "method": "git",
     "tags": [
       "scraper",
@@ -24921,7 +24921,7 @@
     ],
     "description": "Bluesoft Cosmos extractor",
     "license": "gpl-3.0",
-    "web": "https://github.com/thisago/bluesoftcosmos"
+    "web": "https://git.ozzuu.com/thisago/bluesoftcosmos"
   },
   {
     "name": "cliche",
@@ -25331,7 +25331,7 @@
   },
   {
     "name": "servclip",
-    "url": "https://github.com/thisago/servclip",
+    "url": "https://git.ozzuu.com/thisago/servclip",
     "method": "git",
     "tags": [
       "clipboard",
@@ -25343,7 +25343,7 @@
     ],
     "description": "Manage your clipboard remotely",
     "license": "MIT",
-    "web": "https://github.com/thisago/servclip"
+    "web": "https://git.ozzuu.com/thisago/servclip"
   },
   {
     "name": "slicerator",
@@ -26052,7 +26052,7 @@
   },
   {
     "name": "gimg",
-    "url": "https://github.com/thisago/gimg",
+    "url": "https://git.ozzuu.com/thisago/gimg",
     "method": "git",
     "tags": [
       "scraper",
@@ -26063,11 +26063,11 @@
     ],
     "description": "Google Images scraper lib and CLI",
     "license": "MIT",
-    "web": "https://github.com/thisago/gimg"
+    "web": "https://git.ozzuu.com/thisago/gimg"
   },
   {
     "name": "parsepage",
-    "url": "https://github.com/thisago/parsepage",
+    "url": "https://git.ozzuu.com/thisago/parsepage",
     "method": "git",
     "tags": [
       "extractor",
@@ -26079,7 +26079,7 @@
     ],
     "description": "Automatically extracts the data of sites",
     "license": "GPL-3.0-only",
-    "web": "https://github.com/thisago/parsepage"
+    "web": "https://git.ozzuu.com/thisago/parsepage"
   },
   {
     "name": "resultsutils",
@@ -26940,7 +26940,7 @@
   },
   {
     "name": "util",
-    "url": "https://github.com/thisago/util",
+    "url": "https://git.ozzuu.com/thisago/util",
     "method": "git",
     "tags": [
       "html",
@@ -26949,11 +26949,11 @@
     ],
     "description": "Small utilities that isn't large enough to have a individual modules",
     "license": "MIT",
-    "web": "https://github.com/thisago/util"
+    "web": "https://git.ozzuu.com/thisago/util"
   },
   {
     "name": "kiwifyDownload",
-    "url": "https://github.com/thisago/kiwifyDownload",
+    "url": "https://git.ozzuu.com/thisago/kiwifyDownload",
     "method": "git",
     "tags": [
       "download",
@@ -26965,7 +26965,7 @@
     ],
     "description": "Downloads the kiwify videos from course JSON",
     "license": "MIT",
-    "web": "https://github.com/thisago/kiwifyDownload"
+    "web": "https://git.ozzuu.com/thisago/kiwifyDownload"
   },
   {
     "name": "timsort2",
@@ -26991,7 +26991,7 @@
   },
   {
     "name": "vimeo",
-    "url": "https://github.com/thisago/vimeo",
+    "url": "https://git.ozzuu.com/thisago/vimeo",
     "method": "git",
     "tags": [
       "vimeo",
@@ -27000,7 +27000,7 @@
     ],
     "description": "Vimeo extractor",
     "license": "MIT",
-    "web": "https://github.com/thisago/vimeo"
+    "web": "https://git.ozzuu.com/thisago/vimeo"
   },
   {
     "name": "wayland",
@@ -27079,7 +27079,7 @@
   },
   {
     "name": "editlyconf",
-    "url": "https://github.com/thisago/editlyconf",
+    "url": "https://git.ozzuu.com/thisago/editlyconf",
     "method": "git",
     "tags": [
       "video",
@@ -27091,11 +27091,11 @@
     ],
     "description": "Editly config generation tools and types",
     "license": "mit",
-    "web": "https://github.com/thisago/editlyconf"
+    "web": "https://git.ozzuu.com/thisago/editlyconf"
   },
   {
     "name": "nbcnews",
-    "url": "https://github.com/thisago/nbcnews",
+    "url": "https://git.ozzuu.com/thisago/nbcnews",
     "method": "git",
     "tags": [
       "scraper",
@@ -27105,7 +27105,7 @@
     ],
     "description": "NBC News scraper",
     "license": "gpl-3.0-only",
-    "web": "https://github.com/thisago/nbcnews"
+    "web": "https://git.ozzuu.com/thisago/nbcnews"
   },
   {
     "name": "records",
@@ -27238,7 +27238,7 @@
   },
   {
     "name": "pricecsv",
-    "url": "https://github.com/thisago/pricecsv",
+    "url": "https://git.ozzuu.com/thisago/pricecsv",
     "method": "git",
     "tags": [
       "cli",
@@ -27250,7 +27250,7 @@
     ],
     "description": "Easily calculate the total of all products in csv",
     "license": "gpl-3.0",
-    "web": "https://github.com/thisago/pricecsv"
+    "web": "https://git.ozzuu.com/thisago/pricecsv"
   },
   {
     "name": "bu",
@@ -27330,7 +27330,7 @@
   },
   {
     "name": "studiobacklottv",
-    "url": "https://github.com/thisago/studiobacklottv",
+    "url": "https://git.ozzuu.com/thisago/studiobacklottv",
     "method": "git",
     "tags": [
       "video",
@@ -27341,11 +27341,11 @@
     ],
     "description": "Studio Backlot TV video extractor",
     "license": "MIT",
-    "web": "https://github.com/thisago/studiobacklottv"
+    "web": "https://git.ozzuu.com/thisago/studiobacklottv"
   },
   {
     "name": "brightcove",
-    "url": "https://github.com/thisago/brightcove",
+    "url": "https://git.ozzuu.com/thisago/brightcove",
     "method": "git",
     "tags": [
       "library",
@@ -27355,7 +27355,7 @@
     ],
     "description": "Brightcove player parser",
     "license": "MIT",
-    "web": "https://github.com/thisago/brightcove"
+    "web": "https://git.ozzuu.com/thisago/brightcove"
   },
   {
     "name": "codegenlib",
@@ -27503,7 +27503,7 @@
   },
   {
     "name": "ezscr",
-    "url": "https://github.com/thisago/ezscr",
+    "url": "https://git.ozzuu.com/thisago/ezscr",
     "method": "git",
     "tags": [
       "script",
@@ -27513,7 +27513,7 @@
     ],
     "description": "Portable and easy Nimscript runner. Nim compiler not needed",
     "license": "gpl-3.0-only",
-    "web": "https://github.com/thisago/ezscr"
+    "web": "https://git.ozzuu.com/thisago/ezscr"
   },
   {
     "name": "packy",
@@ -27566,6 +27566,21 @@
     "description": "Pure Nim, no external dependencies, image mime type and dimension reader for images",
     "license": "LGPL-3.0",
     "web": "https://github.com/accodeing/dimage"
+  },
+  {
+    "name": "checkif",
+    "url": "https://git.ozzuu.com/thisago/checkif",
+    "method": "git",
+    "tags": [
+      "windows",
+      "fs",
+      "cli",
+      "tool",
+      "test"
+    ],
+    "description": "A CLI tool to check files (and registry in Windows)",
+    "license": "MIT",
+    "web": "https://git.ozzuu.com/thisago/checkif"
   },
   {
     "name": "kdl",
