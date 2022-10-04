@@ -11444,7 +11444,7 @@
   },
   {
     "name": "fragments",
-    "url": "https://github.com/fragcolor-xyz/fragments",
+    "url": "https://github.com/sinkingsugar/fragments",
     "method": "git",
     "tags": [
       "ffi",
@@ -11458,11 +11458,11 @@
     ],
     "description": "Our very personal collection of utilities",
     "license": "MIT",
-    "web": "https://github.com/fragcolor-xyz/fragments"
+    "web": "https://github.com/sinkingsugar/fragments"
   },
   {
     "name": "nimline",
-    "url": "https://github.com/fragcolor-xyz/nimline",
+    "url": "https://github.com/sinkingsugar/nimline",
     "method": "git",
     "tags": [
       "c",
@@ -11473,7 +11473,7 @@
     ],
     "description": "Wrapper-less C/C++ interop for Nim",
     "license": "MIT",
-    "web": "https://github.com/fragcolor-xyz/nimline"
+    "web": "https://github.com/sinkingsugar/nimline"
   },
   {
     "name": "nim_telegram_bot",
