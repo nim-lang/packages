@@ -1,5 +1,5 @@
 [
-    {
+  {
     "name": "passy",
     "url": "https://github.com/infinitybeond1/passy",
     "method": "git",
@@ -27628,5 +27628,23 @@
     "description": "Linear algebra library for computer graphics applications",
     "license": "MIT",
     "web": "https://github.com/can-lehmann/geometrymath"
+  },
+  {
+    "name": "cssgrid",
+    "url": "https://github.com/elcritch/cssgrid",
+    "method": "git",
+    "tags": [
+      "cssgrid",
+      "css",
+      "layout",
+      "grid",
+      "engine",
+      "ui",
+      "ux",
+      "gui"
+    ],
+    "description": "pure Nim CSS Grid layout engine",
+    "license": "MIT",
+    "web": "https://github.com/elcritch/cssgrid"
   }
 ]
