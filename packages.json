@@ -27649,7 +27649,7 @@
   },
   {
     "name": "authenticode",
-    "url": "ssh://git@github.com/srozb/authenticode",
+    "url": "https://github.com/srozb/authenticode",
     "method": "git",
     "tags": [
       "library",
@@ -27660,6 +27660,6 @@
     ],
     "description": "PE Authenticode parser based on libyara implementation",
     "license": "BSD-3-Clause",
-    "web": "ssh://git@github.com/srozb/authenticode"
+    "web": "https://github.com/srozb/authenticode"
   }
 ]
