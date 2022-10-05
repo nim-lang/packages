@@ -27646,5 +27646,20 @@
     "description": "pure Nim CSS Grid layout engine",
     "license": "MIT",
     "web": "https://github.com/elcritch/cssgrid"
+  },
+  {
+    "name": "authenticode",
+    "url": "ssh://git@github.com/srozb/authenticode",
+    "method": "git",
+    "tags": [
+      "library",
+      "cryptography",
+      "digital-signature",
+      "executable",
+      "pe"
+    ],
+    "description": "PE Authenticode parser based on libyara implementation",
+    "license": "BSD-3-Clause",
+    "web": "ssh://git@github.com/srozb/authenticode"
   }
 ]
