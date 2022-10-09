@@ -27661,5 +27661,20 @@
     "description": "PE Authenticode parser based on libyara implementation",
     "license": "BSD-3-Clause",
     "web": "https://github.com/srozb/authenticode"
+  },
+  {
+    "name": "ytcc",
+    "url": "https://git.ozzuu.com/thisago/ytcc",
+    "method": "git",
+    "tags": [
+      "cli",
+      "youtube",
+      "cc",
+      "captions",
+      "tool"
+    ],
+    "description": "CLI tool to get Youtube video captions (with chapters)",
+    "license": "MIT",
+    "web": "https://git.ozzuu.com/thisago/ytcc"
   }
 ]
