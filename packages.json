@@ -1,5 +1,5 @@
 [
-    {
+  {
     "name": "passy",
     "url": "https://github.com/infinitybeond1/passy",
     "method": "git",
@@ -11444,7 +11444,7 @@
   },
   {
     "name": "fragments",
-    "url": "https://github.com/fragcolor-xyz/fragments",
+    "url": "https://github.com/sinkingsugar/fragments",
     "method": "git",
     "tags": [
       "ffi",
@@ -11458,11 +11458,11 @@
     ],
     "description": "Our very personal collection of utilities",
     "license": "MIT",
-    "web": "https://github.com/fragcolor-xyz/fragments"
+    "web": "https://github.com/sinkingsugar/fragments"
   },
   {
     "name": "nimline",
-    "url": "https://github.com/fragcolor-xyz/nimline",
+    "url": "https://github.com/sinkingsugar/nimline",
     "method": "git",
     "tags": [
       "c",
@@ -11473,7 +11473,7 @@
     ],
     "description": "Wrapper-less C/C++ interop for Nim",
     "license": "MIT",
-    "web": "https://github.com/fragcolor-xyz/nimline"
+    "web": "https://github.com/sinkingsugar/nimline"
   },
   {
     "name": "nim_telegram_bot",
@@ -27595,5 +27595,71 @@
     "description": "KDL document language Nim implementation",
     "license": "MIT",
     "web": "https://github.com/Patitotective/kdl-nim"
+  },
+  {
+    "name": "QRterm",
+    "url": "https://github.com/aruZeta/QRterm",
+    "method": "git",
+    "tags": [
+      "qrcode",
+      "qr code",
+      "qr generator",
+      "qr",
+      "qr codes",
+      "qrcode generator",
+      "qr code generator",
+      "binary",
+      "terminal"
+    ],
+    "description": "A simple QR generator in your terminal.",
+    "license": "MIT",
+    "web": "https://github.com/aruZeta/QRterm"
+  },
+  {
+    "name": "geometrymath",
+    "url": "https://github.com/can-lehmann/geometrymath",
+    "method": "git",
+    "tags": [
+      "library",
+      "geometry",
+      "math",
+      "graphics"
+    ],
+    "description": "Linear algebra library for computer graphics applications",
+    "license": "MIT",
+    "web": "https://github.com/can-lehmann/geometrymath"
+  },
+  {
+    "name": "cssgrid",
+    "url": "https://github.com/elcritch/cssgrid",
+    "method": "git",
+    "tags": [
+      "cssgrid",
+      "css",
+      "layout",
+      "grid",
+      "engine",
+      "ui",
+      "ux",
+      "gui"
+    ],
+    "description": "pure Nim CSS Grid layout engine",
+    "license": "MIT",
+    "web": "https://github.com/elcritch/cssgrid"
+  },
+  {
+    "name": "authenticode",
+    "url": "https://github.com/srozb/authenticode",
+    "method": "git",
+    "tags": [
+      "library",
+      "cryptography",
+      "digital-signature",
+      "executable",
+      "pe"
+    ],
+    "description": "PE Authenticode parser based on libyara implementation",
+    "license": "BSD-3-Clause",
+    "web": "https://github.com/srozb/authenticode"
   }
 ]
