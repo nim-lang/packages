@@ -27568,6 +27568,19 @@
     "web": "https://github.com/accodeing/dimage"
   },
   {
+    "name": "aspartame",
+    "url": "https://git.sr.ht/~xigoi/aspartame",
+    "method": "git",
+    "tags": [
+      "syntax",
+      "sugar",
+      "utility"
+    ],
+    "description": "More syntactic sugar for Nim",
+    "license": "GPL-3.0-or-later",
+    "web": "https://git.sr.ht/~xigoi/aspartame"
+  },
+  {
     "name": "checkif",
     "url": "https://git.ozzuu.com/thisago/checkif",
     "method": "git",
