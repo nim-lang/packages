@@ -10480,7 +10480,7 @@
   },
   {
     "name": "ast_pattern_matching",
-    "url": "https://github.com/krux02/ast-pattern-matching",
+    "url": "https://github.com/nim-lang/ast-pattern-matching",
     "method": "git",
     "tags": [
       "macros",
@@ -10489,7 +10489,7 @@
     ],
     "description": "a general ast pattern matching library with a focus on correctness and good error messages",
     "license": "MIT",
-    "web": "https://github.com/krux02/ast-pattern-matching"
+    "web": "https://github.com/nim-lang/ast-pattern-matching"
   },
   {
     "name": "tissue",
