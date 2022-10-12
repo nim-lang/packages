@@ -27689,5 +27689,18 @@
     "description": "CLI tool to get Youtube video captions (with chapters)",
     "license": "MIT",
     "web": "https://git.ozzuu.com/thisago/ytcc"
+  },
+  {
+    "name": "wcwidth",
+    "url": "https://github.com/shoyu777/wcwidth-nim",
+    "method": "git",
+    "tags": [
+      "nim",
+      "library",
+      "wcwidth"
+    ],
+    "description": "Implementation of wcwidth with Nim.",
+    "license": "MIT",
+    "web": "https://github.com/shoyu777/wcwidth-nim"
   }
 ]
