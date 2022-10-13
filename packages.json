@@ -27702,5 +27702,17 @@
     "description": "Implementation of wcwidth with Nim.",
     "license": "MIT",
     "web": "https://github.com/shoyu777/wcwidth-nim"
+  },
+  {
+    "name": "wcwidth",
+    "url": "https://github.com/shoyu777/wcwidth-nim",
+    "method": "git",
+    "tags": [
+      "library",
+      "wcwidth"
+    ],
+    "description": "Implementation of wcwidth with Nim.",
+    "license": "MIT",
+    "web": "https://github.com/shoyu777/wcwidth-nim"
   }
 ]
