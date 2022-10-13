@@ -27716,5 +27716,21 @@
     "description": "Simple DNS server for local development.",
     "license": "BSD-3-Clause",
     "web": "https://github.com/vandot/lodns"
+  },
+  {
+    "name": "emath",
+    "url": "https://github.com/hamidb80/emath",
+    "method": "git",
+    "tags": [
+      "math",
+      "expression",
+      "library",
+      "evaluator",
+      "ast",
+      "evaluation"
+    ],
+    "description": "math parser/evaluator library",
+    "license": "MIT",
+    "web": "https://github.com/hamidb80/emath"
   }
 ]
