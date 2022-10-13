@@ -27716,5 +27716,19 @@
     "description": "Simple DNS server for local development.",
     "license": "BSD-3-Clause",
     "web": "https://github.com/vandot/lodns"
+  },
+  {
+    "name": "wcwidth",
+    "url": "https://github.com/shoyu777/wcwidth-nim",
+    "method": "git",
+    "tags": [
+      "nim",
+      "library",
+      "wcwidth",
+      "eastasianwidth"
+    ],
+    "description": "Implementation of wcwidth with Nim.",
+    "license": "MIT",
+    "web": "https://github.com/shoyu777/wcwidth-nim"
   }
 ]
