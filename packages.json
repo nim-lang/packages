@@ -27732,5 +27732,17 @@
     "description": "math parser/evaluator library",
     "license": "MIT",
     "web": "https://github.com/hamidb80/emath"
+  },
+  {
+    "name": "sampleTodoList",
+    "url": "https://github.com/nk0086/TodoList",
+    "method": "git",
+    "tags": [
+      "todolist",
+      "cli"
+    ],
+    "description": "A new awesome nimble package",
+    "license": "MIT",
+    "web": "https://github.com/nk0086/TodoList"
   }
 ]
