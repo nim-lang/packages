@@ -27718,5 +27718,20 @@
     "description": "math parser/evaluator library",
     "license": "MIT",
     "web": "https://github.com/hamidb80/emath"
+  },
+  {
+    "name": "nimem",
+    "url": "https://github.com/qb-0/Nimem",
+    "method": "git",
+    "tags": [
+      "memory",
+      "process",
+      "memory",
+      "manipulation",
+      "external"
+    ],
+    "description": "Cross platform (windows, linux) library for external process memory manipulation",
+    "license": "MIT",
+    "web": "https://github.com/qb-0/Nimem"
   }
 ]
