@@ -7,6 +7,7 @@
 #  * Missing/unknown method
 #  * Missing/unreachable repository
 #  * Missing tags
+#  * Empty tags
 #  * Missing description
 #  * Missing/unknown license
 #  * Insecure git:// url on GitHub
@@ -166,6 +167,14 @@ proc check(): int =
         inc result
       elif pkg.hasKey("web") and not canFetchNimbleRepository(name, pkg["web"]):
         echo "W: Failed to fetch source code repo for ", name
+      elif pkg.hasKey("tags"):
+        var emptyTags = 0
+        for tag in pkg["tags"]:
+          if tag.getStr.len == 0:
+            inc emptyTags
+
+        if emptyTags > 0:
+          echo "W: ", name, " has ", emptyTags, " empty tags"
 
     if name.normalize notin names:
       names.incl name.normalize
