@@ -27718,5 +27718,19 @@
     "description": "math parser/evaluator library",
     "license": "MIT",
     "web": "https://github.com/hamidb80/emath"
+  },
+  {
+    "name": "tabcompletion",
+    "url": "https://github.com/z-kk/tabcompletion",
+    "method": "git",
+    "tags": [
+      "stdin",
+      "readline",
+      "tab",
+      "completion"
+    ],
+    "description": "stdin tab completion library",
+    "license": "MIT",
+    "web": "https://github.com/z-kk/tabcompletion"
   }
 ]
