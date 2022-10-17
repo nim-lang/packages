@@ -27732,5 +27732,17 @@
     "description": "stdin tab completion library",
     "license": "MIT",
     "web": "https://github.com/z-kk/tabcompletion"
+  },
+  {
+    "name": "jtr",
+    "url": "https://github.com/u1and0/jtr",
+    "method": "git",
+    "tags": [
+      "cli",
+      "json"
+    ],
+    "description": "jtr is a commmand of JSON tree viewer with type",
+    "license": "MIT",
+    "web": "https://github.com/u1and0/jtr"
   }
 ]
