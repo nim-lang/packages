@@ -22375,18 +22375,18 @@
   },
   {
     "name": "nimem",
-    "url": "https://github.com/Sann0/Nimem",
+    "url": "https://github.com/qb-0/Nimem",
     "method": "git",
     "tags": [
-      "windows",
+      "memory",
       "process",
       "memory",
-      "external",
-      "manipulate"
+      "manipulation",
+      "external"
     ],
-    "description": "Library for external memory manipulation on a windows process",
+    "description": "Cross platform (windows, linux) library for external process memory manipulation",
     "license": "MIT",
-    "web": "https://github.com/Sann0/Nimem"
+    "web": "https://github.com/qb-0/Nimem"
   },
   {
     "name": "eris",
