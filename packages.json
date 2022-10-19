@@ -22375,18 +22375,18 @@
   },
   {
     "name": "nimem",
-    "url": "https://github.com/Sann0/Nimem",
+    "url": "https://github.com/qb-0/Nimem",
     "method": "git",
     "tags": [
-      "windows",
+      "memory",
       "process",
       "memory",
-      "external",
-      "manipulate"
+      "manipulation",
+      "external"
     ],
-    "description": "Library for external memory manipulation on a windows process",
+    "description": "Cross platform (windows, linux) library for external process memory manipulation",
     "license": "MIT",
-    "web": "https://github.com/Sann0/Nimem"
+    "web": "https://github.com/qb-0/Nimem"
   },
   {
     "name": "eris",
@@ -27718,5 +27718,31 @@
     "description": "math parser/evaluator library",
     "license": "MIT",
     "web": "https://github.com/hamidb80/emath"
+  },
+  {
+    "name": "tabcompletion",
+    "url": "https://github.com/z-kk/tabcompletion",
+    "method": "git",
+    "tags": [
+      "stdin",
+      "readline",
+      "tab",
+      "completion"
+    ],
+    "description": "stdin tab completion library",
+    "license": "MIT",
+    "web": "https://github.com/z-kk/tabcompletion"
+  },
+  {
+    "name": "jtr",
+    "url": "https://github.com/u1and0/jtr",
+    "method": "git",
+    "tags": [
+      "cli",
+      "json"
+    ],
+    "description": "jtr is a commmand of JSON tree viewer with type",
+    "license": "MIT",
+    "web": "https://github.com/u1and0/jtr"
   }
 ]
