@@ -174,8 +174,7 @@ proc check(): int =
             inc emptyTags
 
         if emptyTags > 0:
-          echo "E: ", name, " has ", emptyTags, " empty tags"
-          inc result
+          echo "W: ", name, " has ", emptyTags, " empty tags"
 
     if name.normalize notin names:
       names.incl name.normalize

@@ -21824,7 +21824,8 @@
     "tags": [
       "library",
       "wrapper",
-      "parser"
+      "parser",
+      ""
     ],
     "description": "Nim wrappers for tree-sitter parser grammars",
     "license": "Apache-2.0",
@@ -22148,7 +22149,8 @@
       "library",
       "language",
       "syllable",
-      "syllables"
+      "syllables",
+      ""
     ],
     "description": "Syllable estimation for Nim.",
     "license": "MIT",
@@ -24336,7 +24338,8 @@
     "tags": [
       "draw",
       "drawing",
-      "gamedev"
+      "gamedev",
+      ""
     ],
     "description": "Simple library to draw stuff on a window",
     "license": "MIT",
@@ -24634,7 +24637,8 @@
     "url": "https://github.com/SciNim/scinim",
     "method": "git",
     "tags": [
-      "scinim"
+      "scinim",
+      ""
     ],
     "description": "The core types and functions of the SciNim ecosystem",
     "license": "MIT",
@@ -26308,7 +26312,8 @@
       "tmpfs",
       "ramdisk",
       "tempfile",
-      "linux"
+      "linux",
+      ""
     ],
     "description": "Create and remove ramdisks easily",
     "license": "MPL-2.0",
