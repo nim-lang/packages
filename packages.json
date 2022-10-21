@@ -27754,5 +27754,17 @@
     "description": "A library to handle measurement uncertainties",
     "license": "MIT",
     "web": "https://github.com/SciNim/Measuremancer"
+  },
+  {
+    "name": "casting",
+    "url": "https://github.com/sls1005/nim-casting",
+    "method": "git",
+    "tags": [
+      "cpp",
+      "cast"
+    ],
+    "description": "A wrapper of the C++ cast operators",
+    "license": "MIT",
+    "web": "https://github.com/sls1005/nim-casting"
   }
 ]
