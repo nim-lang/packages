@@ -27766,5 +27766,17 @@
     "description": "A wrapper of the C++ cast operators",
     "license": "MIT",
     "web": "https://github.com/sls1005/nim-casting"
+  },
+  {
+    "name": "pigeon",
+    "url": "https://github.com/dizzyliam/pigeon",
+    "method": "git",
+    "tags": [
+      "webdev",
+      "api",
+      "HTTP"
+    ],
+    "description": "Define procedures on the server, call them from the browser.",
+    "license": "MIT"
   }
 ]
