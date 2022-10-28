@@ -27778,5 +27778,17 @@
     ],
     "description": "Define procedures on the server, call them from the browser.",
     "license": "MIT"
+  },
+  {
+    "name": "thoughtful_rm",
+    "url": "https://github.com/sls1005/thoughtful-rm",
+    "method": "git",
+    "tags": [
+      "",
+      ""
+    ],
+    "description": "A wrapper of the rm command, that prevents accidental deletion.",
+    "license": "MIT",
+    "web": "https://github.com/sls1005/thoughtful-rm"
   }
 ]
