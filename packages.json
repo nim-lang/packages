@@ -27778,5 +27778,17 @@
     ],
     "description": "Define procedures on the server, call them from the browser.",
     "license": "MIT"
+  },
+  {
+    "name": "phoon",
+    "url": "https://github.com/ducdetronquito/phoon",
+    "method": "git",
+    "tags": [
+      "web",
+      "framework"
+    ],
+    "description": "A web framework inspired by ExpressJS 🐇⚡",
+    "license": "Public Domain",
+    "web": "https://github.com/ducdetronquito/phoon"
   }
 ]
