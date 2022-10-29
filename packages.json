@@ -27778,5 +27778,17 @@
     ],
     "description": "Define procedures on the server, call them from the browser.",
     "license": "MIT"
+  },
+  {
+    "name": "formatstr",
+    "url": "https://github.com/guibar64/formatstr",
+    "method": "git",
+    "tags": [
+      "string",
+      "format"
+    ],
+    "description": "string interpolation, complement of std/strformat for runtime strings",
+    "license": "MIT",
+    "web": "https://github.com/guibar64/formatstr"
   }
 ]
