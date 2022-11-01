@@ -27790,5 +27790,19 @@
     "description": "string interpolation, complement of std/strformat for runtime strings",
     "license": "MIT",
     "web": "https://github.com/guibar64/formatstr"
+  },
+  {
+    "name": "asyncredis",
+    "url": "https://github.com/Q-Master/redis.nim",
+    "method": "git",
+    "tags": [
+      "rabbitmq,",
+      "amqp,",
+      "async,",
+      "library"
+    ],
+    "description": "Pure Nim asyncronous driver for Redis DB",
+    "license": "MIT",
+    "web": "https://github.com/Q-Master/redis.nim"
   }
 ]
