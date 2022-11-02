@@ -27790,5 +27790,19 @@
     "description": "string interpolation, complement of std/strformat for runtime strings",
     "license": "MIT",
     "web": "https://github.com/guibar64/formatstr"
+  },
+  {
+    "name": "asyncrabbitmq",
+    "url": "https://github.com/Q-Master/rabbitmq.nim",
+    "method": "git",
+    "tags": [
+      "rabbitmq,",
+      "amqp,",
+      "async,",
+      "library"
+    ],
+    "description": "Pure Nim asyncronous driver for RabbitMQ",
+    "license": "MIT",
+    "web": "https://github.com/Q-Master/rabbitmq.nim"
   }
 ]
