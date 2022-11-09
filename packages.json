@@ -27804,5 +27804,18 @@
     "description": "Pure Nim asyncronous driver for RabbitMQ",
     "license": "MIT",
     "web": "https://github.com/Q-Master/rabbitmq.nim"
+  },
+  {
+    "name": "nimldap",
+    "url": "https://github.com/inv2004/nimldap",
+    "method": "git",
+    "tags": [
+      "ldap",
+      "bindings",
+      "openldap"
+    ],
+    "description": "LDAP client bindings",
+    "license": "MIT",
+    "web": "https://github.com/inv2004/nimldap"
   }
 ]
