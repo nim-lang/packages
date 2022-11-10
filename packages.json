@@ -27817,5 +27817,21 @@
     "description": "LDAP client bindings",
     "license": "MIT",
     "web": "https://github.com/inv2004/nimldap"
+  },
+  {
+    "name": "sas",
+    "url": "https://github.com/xcodz-dot/sas",
+    "method": "git",
+    "tags": [
+      "emulator",
+      "cpu",
+      "architecture",
+      "toy",
+      "simulator",
+      "compiler"
+    ],
+    "description": "SAS compiler",
+    "license": "MIT",
+    "web": "https://github.com/xcodz-dot/sas"
   }
 ]
