@@ -27833,5 +27833,19 @@
     "description": "SAS compiler",
     "license": "MIT",
     "web": "https://github.com/xcodz-dot/sas"
+  },
+  {
+    "name": "snekim",
+    "url": "https://codeberg.org/annaaurora/snekim",
+    "method": "git",
+    "tags": [
+      "game",
+      "2d-game",
+      "raylib",
+      "snake"
+    ],
+    "description": "A simple implementation of the classic snake game",
+    "license": "LGPLv3",
+    "web": "https://codeberg.org/annaaurora/snekim"
   }
 ]
