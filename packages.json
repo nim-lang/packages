@@ -27123,7 +27123,7 @@
   },
   {
     "name": "NimNN",
-    "url": "https://github.com/xcodz-dot/NimNN",
+    "url": "https://github.com/amaank404/NimNN",
     "method": "git",
     "tags": [
       "neural",
@@ -27134,7 +27134,7 @@
     ],
     "description": "Neural Networks from scratch",
     "license": "MIT",
-    "web": "https://github.com/xcodz-dot/NimNN"
+    "web": "https://github.com/amaank404/NimNN"
   },
   {
     "name": "simpleargs",
