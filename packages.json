@@ -27847,5 +27847,37 @@
     "description": "A simple implementation of the classic snake game",
     "license": "LGPLv3",
     "web": "https://codeberg.org/annaaurora/snekim"
+  },
+  {
+    "name": "toposort",
+    "url": "https://github.com/ryukoposting/toposort",
+    "method": "git",
+    "tags": [
+      "toposort",
+      "topological",
+      "kahn",
+      "graph",
+      "dependency",
+      "dependencies"
+    ],
+    "description": "Efficient topological sort using Kahn's algorithm",
+    "license": "BSD 3-Clause",
+    "web": "https://github.com/ryukoposting/toposort"
+  },
+  {
+    "name": "resolver",
+    "url": "https://github.com/ryukoposting/resolver",
+    "method": "git",
+    "tags": [
+      "resolver",
+      "dependency",
+      "dependencies",
+      "semver",
+      "version",
+      "version control"
+    ],
+    "description": "Semver parser and dependency management tools",
+    "license": "BSD 3-Clause",
+    "web": "https://github.com/ryukoposting/resolver"
   }
 ]
