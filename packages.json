@@ -27879,5 +27879,20 @@
     "description": "Semver parser and dependency management tools",
     "license": "BSD 3-Clause",
     "web": "https://github.com/ryukoposting/resolver"
+  },
+  {
+    "name": "convertKana",
+    "url": "https://github.com/z-kk/convertKana",
+    "method": "git",
+    "tags": [
+      "convert",
+      "japanese",
+      "kana",
+      "hiragana",
+      "katakana"
+    ],
+    "description": "Convert Japanese Kana",
+    "license": "MIT",
+    "web": "https://github.com/z-kk/convertKana"
   }
 ]
