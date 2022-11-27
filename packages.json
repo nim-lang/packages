@@ -27907,5 +27907,17 @@
     "description": "Open XML Spreadsheet (Excel) Library for Nim",
     "license": "MIT",
     "web": "https://github.com/khchen/xl"
+  },
+  {
+    "name": "cpptuples",
+    "url": "https://github.com/sls1005/cpptuples",
+    "method": "git",
+    "tags": [
+      "cpp",
+      "tuple"
+    ],
+    "description": "A wrapper for C++'s std::tuple",
+    "license": "MIT",
+    "web": "https://github.com/sls1005/cpptuples"
   }
 ]
