@@ -27907,5 +27907,17 @@
     "description": "Open XML Spreadsheet (Excel) Library for Nim",
     "license": "MIT",
     "web": "https://github.com/khchen/xl"
+  },
+  {
+    "name": "nimcolor",
+    "url": "https://github.com/JessaTehCrow/NimColor",
+    "method": "git",
+    "tags": [
+      "color",
+      "terminal"
+    ],
+    "description": "Color printing interface for nim",
+    "license": "MIT",
+    "web": "https://github.com/JessaTehCrow/NimColor"
   }
 ]
