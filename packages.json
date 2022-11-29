@@ -1,5 +1,19 @@
 [
   {
+    "name": "passy",
+    "url": "https://github.com/infinitybeond1/passy",
+    "method": "git",
+    "tags": [
+      "password",
+      "generator",
+      "cryptography",
+      "security"
+    ],
+    "description": "A fast little password generator",
+    "license": "GPL3",
+    "web": "https://github.com/infinitybeond1/passy"
+  },
+  {
     "name": "entgrep",
     "url": "https://github.com/srozb/entgrep",
     "method": "git",
@@ -10466,7 +10480,7 @@
   },
   {
     "name": "ast_pattern_matching",
-    "url": "https://github.com/krux02/ast-pattern-matching",
+    "url": "https://github.com/nim-lang/ast-pattern-matching",
     "method": "git",
     "tags": [
       "macros",
@@ -10475,7 +10489,7 @@
     ],
     "description": "a general ast pattern matching library with a focus on correctness and good error messages",
     "license": "MIT",
-    "web": "https://github.com/krux02/ast-pattern-matching"
+    "web": "https://github.com/nim-lang/ast-pattern-matching"
   },
   {
     "name": "tissue",
@@ -11430,7 +11444,7 @@
   },
   {
     "name": "fragments",
-    "url": "https://github.com/fragcolor-xyz/fragments",
+    "url": "https://github.com/sinkingsugar/fragments",
     "method": "git",
     "tags": [
       "ffi",
@@ -11444,11 +11458,11 @@
     ],
     "description": "Our very personal collection of utilities",
     "license": "MIT",
-    "web": "https://github.com/fragcolor-xyz/fragments"
+    "web": "https://github.com/sinkingsugar/fragments"
   },
   {
     "name": "nimline",
-    "url": "https://github.com/fragcolor-xyz/nimline",
+    "url": "https://github.com/sinkingsugar/nimline",
     "method": "git",
     "tags": [
       "c",
@@ -11459,7 +11473,7 @@
     ],
     "description": "Wrapper-less C/C++ interop for Nim",
     "license": "MIT",
-    "web": "https://github.com/fragcolor-xyz/nimline"
+    "web": "https://github.com/sinkingsugar/nimline"
   },
   {
     "name": "nim_telegram_bot",
@@ -16260,20 +16274,6 @@
     "web": "https://github.com/planetis-m/bingo"
   },
   {
-    "name": "arbitrary",
-    "url": "https://github.com/planetis-m/arbitrary",
-    "method": "git",
-    "tags": [
-      "binary",
-      "structured",
-      "fuzzing",
-      "unit-testing"
-    ],
-    "description": "Generating structured data from arbitrary, unstructured input.",
-    "license": "MIT",
-    "web": "https://github.com/planetis-m/arbitrary"
-  },
-  {
     "name": "gnuplotlib",
     "url": "https://github.com/planetis-m/gnuplotlib",
     "method": "git",
@@ -18880,7 +18880,8 @@
     "method": "git",
     "tags": [
       "encryption",
-      "obfuscation"
+      "obfuscation",
+      "abandoned"
     ],
     "description": "A library to automatically encrypt all string constants in your programs",
     "license": "MIT",
@@ -21823,8 +21824,7 @@
     "tags": [
       "library",
       "wrapper",
-      "parser",
-      ""
+      "parser"
     ],
     "description": "Nim wrappers for tree-sitter parser grammars",
     "license": "Apache-2.0",
@@ -22148,8 +22148,7 @@
       "library",
       "language",
       "syllable",
-      "syllables",
-      ""
+      "syllables"
     ],
     "description": "Syllable estimation for Nim.",
     "license": "MIT",
@@ -22374,18 +22373,18 @@
   },
   {
     "name": "nimem",
-    "url": "https://github.com/Sann0/Nimem",
+    "url": "https://github.com/qb-0/Nimem",
     "method": "git",
     "tags": [
-      "windows",
+      "memory",
       "process",
       "memory",
-      "external",
-      "manipulate"
+      "manipulation",
+      "external"
     ],
-    "description": "Library for external memory manipulation on a windows process",
+    "description": "Cross platform (windows, linux) library for external process memory manipulation",
     "license": "MIT",
-    "web": "https://github.com/Sann0/Nimem"
+    "web": "https://github.com/qb-0/Nimem"
   },
   {
     "name": "eris",
@@ -22396,17 +22395,6 @@
     ],
     "description": "Encoding for Robust Immutable Storage (ERIS)",
     "license": "ISC",
-    "web": "https://eris.codeberg.page"
-  },
-  {
-    "name": "eris_utils",
-    "url": "https://codeberg.org/eris/nim-eris_utils",
-    "method": "git",
-    "tags": [
-      "eris"
-    ],
-    "description": "Utilities for the Encoding for Robust Immutable Storage (ERIS)",
-    "license": "GPL-3.0",
     "web": "https://eris.codeberg.page"
   },
   {
@@ -23586,7 +23574,7 @@
   },
   {
     "name": "formulas",
-    "url": "https://gitea.com/thisago/formulas.nim",
+    "url": "https://git.ozzuu.com/thisago/formulas",
     "method": "git",
     "tags": [
       "math",
@@ -23594,7 +23582,7 @@
     ],
     "description": "Mathematical formulas",
     "license": "MIT",
-    "web": "https://gitea.com/thisago/formulas.nim"
+    "web": "https://git.ozzuu.com/thisago/formulas"
   },
   {
     "name": "parsesql",
@@ -23624,7 +23612,7 @@
   },
   {
     "name": "whois",
-    "url": "https://gitea.com/Thisago/whois.nim",
+    "url": "https://git.ozzuu.com/thisago/whois",
     "method": "git",
     "tags": [
       "whois",
@@ -23632,7 +23620,7 @@
     ],
     "description": "A simple and free whois client",
     "license": "MIT",
-    "web": "https://gitea.com/Thisago/whois.nim"
+    "web": "https://git.ozzuu.com/thisago/whois"
   },
   {
     "name": "statistical_tests",
@@ -23949,7 +23937,7 @@
   },
   {
     "name": "gm_api",
-    "url": "https://gitea.com/thisago/gm_api",
+    "url": "https://git.ozzuu.com/thisago/gm_api",
     "method": "git",
     "tags": [
       "greasemonkey",
@@ -23959,7 +23947,7 @@
     ],
     "description": "Bindings for Greasemonkey API and an userscript header generator",
     "license": "MIT",
-    "web": "https://gitea.com/thisago/gm_api"
+    "web": "https://git.ozzuu.com/thisago/gm_api"
   },
   {
     "name": "asyncthreadpool",
@@ -24139,7 +24127,7 @@
   },
   {
     "name": "ytextractor",
-    "url": "https://github.com/thisago/ytextractor",
+    "url": "https://git.ozzuu.com/thisago/ytextractor",
     "method": "git",
     "tags": [
       "youtube",
@@ -24148,7 +24136,7 @@
     ],
     "description": "Youtube data extractor",
     "license": "MIT",
-    "web": "https://github.com/thisago/ytextractor"
+    "web": "https://git.ozzuu.com/thisago/ytextractor"
   },
   {
     "name": "nimja",
@@ -24247,7 +24235,7 @@
   },
   {
     "name": "numToWord",
-    "url": "https://github.com/thisago/numToWord",
+    "url": "https://git.ozzuu.com/thisago/numToWord",
     "method": "git",
     "tags": [
       "numbers",
@@ -24256,7 +24244,7 @@
     ],
     "description": "Convert numbers to words",
     "license": "MIT",
-    "web": "https://github.com/thisago/numToWord"
+    "web": "https://git.ozzuu.com/thisago/numToWord"
   },
   {
     "name": "bs",
@@ -24313,7 +24301,7 @@
   },
   {
     "name": "htmlAntiCopy",
-    "url": "https://github.com/thisago/htmlAntiCopy",
+    "url": "https://git.ozzuu.com/thisago/htmlAntiCopy",
     "method": "git",
     "tags": [
       "html",
@@ -24322,7 +24310,7 @@
     ],
     "description": "Block copy of any text in HTML",
     "license": "MIT",
-    "web": "https://github.com/thisago/htmlAntiCopy"
+    "web": "https://git.ozzuu.com/thisago/htmlAntiCopy"
   },
   {
     "name": "distorm3",
@@ -24348,8 +24336,7 @@
     "tags": [
       "draw",
       "drawing",
-      "gamedev",
-      ""
+      "gamedev"
     ],
     "description": "Simple library to draw stuff on a window",
     "license": "MIT",
@@ -24373,7 +24360,7 @@
   },
   {
     "name": "tic80",
-    "url": "https://github.com/thisago/tic80",
+    "url": "https://git.ozzuu.com/thisago/tic80",
     "method": "git",
     "tags": [
       "tic80",
@@ -24383,7 +24370,7 @@
     ],
     "description": "TIC-80 bindings",
     "license": "MIT",
-    "web": "https://github.com/thisago/tic80"
+    "web": "https://git.ozzuu.com/thisago/tic80"
   },
   {
     "name": "nimcrypt",
@@ -24578,7 +24565,7 @@
   },
   {
     "name": "tokarax",
-    "url": "https://github.com/thisago/tokarax",
+    "url": "https://git.ozzuu.com/thisago/tokarax",
     "method": "git",
     "tags": [
       "html",
@@ -24587,7 +24574,7 @@
     ],
     "description": "Converts HTML to Karax representation",
     "license": "MIT",
-    "web": "https://github.com/thisago/tokarax"
+    "web": "https://git.ozzuu.com/thisago/tokarax"
   },
   {
     "name": "asyncanything",
@@ -24647,8 +24634,7 @@
     "url": "https://github.com/SciNim/scinim",
     "method": "git",
     "tags": [
-      "scinim",
-      ""
+      "scinim"
     ],
     "description": "The core types and functions of the SciNim ecosystem",
     "license": "MIT",
@@ -24681,7 +24667,7 @@
   },
   {
     "name": "dataUrl",
-    "url": "https://github.com/thisago/dataUrl",
+    "url": "https://git.ozzuu.com/thisago/dataUrl",
     "method": "git",
     "tags": [
       "cli",
@@ -24690,11 +24676,11 @@
     ],
     "description": "Easily create data urls! CLI included",
     "license": "MIT",
-    "web": "https://github.com/thisago/dataUrl"
+    "web": "https://git.ozzuu.com/thisago/dataUrl"
   },
   {
     "name": "animatecss",
-    "url": "https://github.com/thisago/animatecss",
+    "url": "https://git.ozzuu.com/thisago/animatecss",
     "method": "git",
     "tags": [
       "javascript",
@@ -24702,7 +24688,7 @@
     ],
     "description": "Easily use Animate.css classes",
     "license": "MIT",
-    "web": "https://github.com/thisago/animatecss"
+    "web": "https://git.ozzuu.com/thisago/animatecss"
   },
   {
     "name": "config",
@@ -24808,7 +24794,7 @@
   },
   {
     "name": "brainlyextractor",
-    "url": "https://github.com/thisago/brainlyextractor",
+    "url": "https://git.ozzuu.com/thisago/brainlyextractor",
     "method": "git",
     "tags": [
       "library",
@@ -24817,11 +24803,11 @@
     ],
     "description": "Brainly data extractor",
     "license": "MIT",
-    "web": "https://github.com/thisago/brainlyextractor"
+    "web": "https://git.ozzuu.com/thisago/brainlyextractor"
   },
   {
     "name": "duckduckgo",
-    "url": "https://github.com/thisago/duckduckgo",
+    "url": "https://git.ozzuu.com/thisago/duckduckgo",
     "method": "git",
     "tags": [
       "library",
@@ -24832,11 +24818,11 @@
     ],
     "description": "Duckduckgo search",
     "license": "MIT",
-    "web": "https://github.com/thisago/duckduckgo"
+    "web": "https://git.ozzuu.com/thisago/duckduckgo"
   },
   {
     "name": "scraper",
-    "url": "https://github.com/thisago/scraper",
+    "url": "https://git.ozzuu.com/thisago/scraper",
     "method": "git",
     "tags": [
       "web",
@@ -24846,7 +24832,7 @@
     ],
     "description": "Scraping tools",
     "license": "MIT",
-    "web": "https://github.com/thisago/scraper"
+    "web": "https://git.ozzuu.com/thisago/scraper"
   },
   {
     "name": "htmlunescape",
@@ -24907,7 +24893,7 @@
   },
   {
     "name": "bluesoftcosmos",
-    "url": "https://github.com/thisago/bluesoftcosmos",
+    "url": "https://git.ozzuu.com/thisago/bluesoftcosmos",
     "method": "git",
     "tags": [
       "scraper",
@@ -24917,7 +24903,7 @@
     ],
     "description": "Bluesoft Cosmos extractor",
     "license": "gpl-3.0",
-    "web": "https://github.com/thisago/bluesoftcosmos"
+    "web": "https://git.ozzuu.com/thisago/bluesoftcosmos"
   },
   {
     "name": "cliche",
@@ -25327,7 +25313,7 @@
   },
   {
     "name": "servclip",
-    "url": "https://github.com/thisago/servclip",
+    "url": "https://git.ozzuu.com/thisago/servclip",
     "method": "git",
     "tags": [
       "clipboard",
@@ -25339,7 +25325,7 @@
     ],
     "description": "Manage your clipboard remotely",
     "license": "MIT",
-    "web": "https://github.com/thisago/servclip"
+    "web": "https://git.ozzuu.com/thisago/servclip"
   },
   {
     "name": "slicerator",
@@ -26048,7 +26034,7 @@
   },
   {
     "name": "gimg",
-    "url": "https://github.com/thisago/gimg",
+    "url": "https://git.ozzuu.com/thisago/gimg",
     "method": "git",
     "tags": [
       "scraper",
@@ -26059,11 +26045,11 @@
     ],
     "description": "Google Images scraper lib and CLI",
     "license": "MIT",
-    "web": "https://github.com/thisago/gimg"
+    "web": "https://git.ozzuu.com/thisago/gimg"
   },
   {
     "name": "parsepage",
-    "url": "https://github.com/thisago/parsepage",
+    "url": "https://git.ozzuu.com/thisago/parsepage",
     "method": "git",
     "tags": [
       "extractor",
@@ -26075,7 +26061,7 @@
     ],
     "description": "Automatically extracts the data of sites",
     "license": "GPL-3.0-only",
-    "web": "https://github.com/thisago/parsepage"
+    "web": "https://git.ozzuu.com/thisago/parsepage"
   },
   {
     "name": "resultsutils",
@@ -26322,8 +26308,7 @@
       "tmpfs",
       "ramdisk",
       "tempfile",
-      "linux",
-      ""
+      "linux"
     ],
     "description": "Create and remove ramdisks easily",
     "license": "MPL-2.0",
@@ -26936,7 +26921,7 @@
   },
   {
     "name": "util",
-    "url": "https://github.com/thisago/util",
+    "url": "https://git.ozzuu.com/thisago/util",
     "method": "git",
     "tags": [
       "html",
@@ -26945,11 +26930,11 @@
     ],
     "description": "Small utilities that isn't large enough to have a individual modules",
     "license": "MIT",
-    "web": "https://github.com/thisago/util"
+    "web": "https://git.ozzuu.com/thisago/util"
   },
   {
     "name": "kiwifyDownload",
-    "url": "https://github.com/thisago/kiwifyDownload",
+    "url": "https://git.ozzuu.com/thisago/kiwifyDownload",
     "method": "git",
     "tags": [
       "download",
@@ -26961,7 +26946,7 @@
     ],
     "description": "Downloads the kiwify videos from course JSON",
     "license": "MIT",
-    "web": "https://github.com/thisago/kiwifyDownload"
+    "web": "https://git.ozzuu.com/thisago/kiwifyDownload"
   },
   {
     "name": "timsort2",
@@ -26987,7 +26972,7 @@
   },
   {
     "name": "vimeo",
-    "url": "https://github.com/thisago/vimeo",
+    "url": "https://git.ozzuu.com/thisago/vimeo",
     "method": "git",
     "tags": [
       "vimeo",
@@ -26996,7 +26981,7 @@
     ],
     "description": "Vimeo extractor",
     "license": "MIT",
-    "web": "https://github.com/thisago/vimeo"
+    "web": "https://git.ozzuu.com/thisago/vimeo"
   },
   {
     "name": "wayland",
@@ -27075,7 +27060,7 @@
   },
   {
     "name": "editlyconf",
-    "url": "https://github.com/thisago/editlyconf",
+    "url": "https://git.ozzuu.com/thisago/editlyconf",
     "method": "git",
     "tags": [
       "video",
@@ -27087,11 +27072,11 @@
     ],
     "description": "Editly config generation tools and types",
     "license": "mit",
-    "web": "https://github.com/thisago/editlyconf"
+    "web": "https://git.ozzuu.com/thisago/editlyconf"
   },
   {
     "name": "nbcnews",
-    "url": "https://github.com/thisago/nbcnews",
+    "url": "https://git.ozzuu.com/thisago/nbcnews",
     "method": "git",
     "tags": [
       "scraper",
@@ -27101,7 +27086,7 @@
     ],
     "description": "NBC News scraper",
     "license": "gpl-3.0-only",
-    "web": "https://github.com/thisago/nbcnews"
+    "web": "https://git.ozzuu.com/thisago/nbcnews"
   },
   {
     "name": "records",
@@ -27138,7 +27123,7 @@
   },
   {
     "name": "NimNN",
-    "url": "https://github.com/xcodz-dot/NimNN",
+    "url": "https://github.com/amaank404/NimNN",
     "method": "git",
     "tags": [
       "neural",
@@ -27149,7 +27134,7 @@
     ],
     "description": "Neural Networks from scratch",
     "license": "MIT",
-    "web": "https://github.com/xcodz-dot/NimNN"
+    "web": "https://github.com/amaank404/NimNN"
   },
   {
     "name": "simpleargs",
@@ -27188,7 +27173,7 @@
       "library"
     ],
     "description": "Nim wrapper for libpe library",
-    "license": "MIT",
+    "license": "GPL-3.0",
     "web": "https://github.com/srozb/nim-libpe"
   },
   {
@@ -27234,7 +27219,7 @@
   },
   {
     "name": "pricecsv",
-    "url": "https://github.com/thisago/pricecsv",
+    "url": "https://git.ozzuu.com/thisago/pricecsv",
     "method": "git",
     "tags": [
       "cli",
@@ -27246,7 +27231,7 @@
     ],
     "description": "Easily calculate the total of all products in csv",
     "license": "gpl-3.0",
-    "web": "https://github.com/thisago/pricecsv"
+    "web": "https://git.ozzuu.com/thisago/pricecsv"
   },
   {
     "name": "bu",
@@ -27326,7 +27311,7 @@
   },
   {
     "name": "studiobacklottv",
-    "url": "https://github.com/thisago/studiobacklottv",
+    "url": "https://git.ozzuu.com/thisago/studiobacklottv",
     "method": "git",
     "tags": [
       "video",
@@ -27337,11 +27322,11 @@
     ],
     "description": "Studio Backlot TV video extractor",
     "license": "MIT",
-    "web": "https://github.com/thisago/studiobacklottv"
+    "web": "https://git.ozzuu.com/thisago/studiobacklottv"
   },
   {
     "name": "brightcove",
-    "url": "https://github.com/thisago/brightcove",
+    "url": "https://git.ozzuu.com/thisago/brightcove",
     "method": "git",
     "tags": [
       "library",
@@ -27351,7 +27336,7 @@
     ],
     "description": "Brightcove player parser",
     "license": "MIT",
-    "web": "https://github.com/thisago/brightcove"
+    "web": "https://git.ozzuu.com/thisago/brightcove"
   },
   {
     "name": "codegenlib",
@@ -27489,14 +27474,17 @@
     "name": "getdns",
     "url": "https://git.sr.ht/~ehmry/getdns-nim",
     "method": "git",
-    "tags": [ "dns", "network" ],
+    "tags": [
+      "dns",
+      "network"
+    ],
     "description": "Wrapper over the getdns API",
     "license": "BSD-3-Clause",
     "web": "https://getdnsapi.net/"
   },
   {
     "name": "ezscr",
-    "url": "https://github.com/thisago/ezscr",
+    "url": "https://git.ozzuu.com/thisago/ezscr",
     "method": "git",
     "tags": [
       "script",
@@ -27506,6 +27494,442 @@
     ],
     "description": "Portable and easy Nimscript runner. Nim compiler not needed",
     "license": "gpl-3.0-only",
-    "web": "https://github.com/thisago/ezscr"
+    "web": "https://git.ozzuu.com/thisago/ezscr"
+  },
+  {
+    "name": "packy",
+    "url": "https://github.com/xrfez/packy",
+    "method": "git",
+    "tags": [
+      "packy",
+      "pack",
+      "packDep",
+      "dependency",
+      "dependencies",
+      ".dll",
+      "installer",
+      "bundle",
+      "bundler",
+      "pure",
+      "tool",
+      "utility",
+      "library",
+      "package"
+    ],
+    "description": "Library to pack dependencies in the compiled binary. Supports .dll files",
+    "license": "Apache-2.0 License",
+    "web": "https://github.com/xrfez/packy"
+  },
+  {
+    "name": "mpv",
+    "url": "https://github.com/WeebNetsu/nim-mpv",
+    "method": "git",
+    "tags": [
+      "mpv",
+      "libmpv",
+      "bindings",
+      "nim-mpv"
+    ],
+    "description": "Nim bindings for libmpv",
+    "license": "MIT",
+    "web": "https://github.com/WeebNetsu/nim-mpv"
+  },
+  {
+    "name": "dimage",
+    "url": "https://github.com/accodeing/dimage",
+    "method": "git",
+    "tags": [
+      "library",
+      "image",
+      "metadata",
+      "size"
+    ],
+    "description": "Pure Nim, no external dependencies, image mime type and dimension reader for images",
+    "license": "LGPL-3.0",
+    "web": "https://github.com/accodeing/dimage"
+  },
+  {
+    "name": "aspartame",
+    "url": "https://git.sr.ht/~xigoi/aspartame",
+    "method": "git",
+    "tags": [
+      "syntax",
+      "sugar",
+      "utility"
+    ],
+    "description": "More syntactic sugar for Nim",
+    "license": "GPL-3.0-or-later",
+    "web": "https://git.sr.ht/~xigoi/aspartame"
+  },
+  {
+    "name": "checkif",
+    "url": "https://git.ozzuu.com/thisago/checkif",
+    "method": "git",
+    "tags": [
+      "windows",
+      "fs",
+      "cli",
+      "tool",
+      "test"
+    ],
+    "description": "A CLI tool to check files (and registry in Windows)",
+    "license": "MIT",
+    "web": "https://git.ozzuu.com/thisago/checkif"
+  },
+  {
+    "name": "kdl",
+    "url": "https://github.com/Patitotective/kdl-nim",
+    "method": "git",
+    "tags": [
+      "kdl",
+      "parser",
+      "config",
+      "serialization"
+    ],
+    "description": "KDL document language Nim implementation",
+    "license": "MIT",
+    "web": "https://github.com/Patitotective/kdl-nim"
+  },
+  {
+    "name": "QRterm",
+    "url": "https://github.com/aruZeta/QRterm",
+    "method": "git",
+    "tags": [
+      "qrcode",
+      "qr code",
+      "qr generator",
+      "qr",
+      "qr codes",
+      "qrcode generator",
+      "qr code generator",
+      "binary",
+      "terminal"
+    ],
+    "description": "A simple QR generator in your terminal.",
+    "license": "MIT",
+    "web": "https://github.com/aruZeta/QRterm"
+  },
+  {
+    "name": "geometrymath",
+    "url": "https://github.com/can-lehmann/geometrymath",
+    "method": "git",
+    "tags": [
+      "library",
+      "geometry",
+      "math",
+      "graphics"
+    ],
+    "description": "Linear algebra library for computer graphics applications",
+    "license": "MIT",
+    "web": "https://github.com/can-lehmann/geometrymath"
+  },
+  {
+    "name": "cssgrid",
+    "url": "https://github.com/elcritch/cssgrid",
+    "method": "git",
+    "tags": [
+      "cssgrid",
+      "css",
+      "layout",
+      "grid",
+      "engine",
+      "ui",
+      "ux",
+      "gui"
+    ],
+    "description": "pure Nim CSS Grid layout engine",
+    "license": "MIT",
+    "web": "https://github.com/elcritch/cssgrid"
+  },
+  {
+    "name": "authenticode",
+    "url": "https://github.com/srozb/authenticode",
+    "method": "git",
+    "tags": [
+      "library",
+      "cryptography",
+      "digital-signature",
+      "executable",
+      "pe"
+    ],
+    "description": "PE Authenticode parser based on libyara implementation",
+    "license": "BSD-3-Clause",
+    "web": "https://github.com/srozb/authenticode"
+  },
+  {
+    "name": "ytcc",
+    "url": "https://git.ozzuu.com/thisago/ytcc",
+    "method": "git",
+    "tags": [
+      "cli",
+      "youtube",
+      "cc",
+      "captions",
+      "tool"
+    ],
+    "description": "CLI tool to get Youtube video captions (with chapters)",
+    "license": "MIT",
+    "web": "https://git.ozzuu.com/thisago/ytcc"
+  },
+  {
+    "name": "wcwidth",
+    "url": "https://github.com/shoyu777/wcwidth-nim",
+    "method": "git",
+    "tags": [
+      "nim",
+      "library",
+      "wcwidth"
+    ],
+    "description": "Implementation of wcwidth with Nim.",
+    "license": "MIT",
+    "web": "https://github.com/shoyu777/wcwidth-nim"
+  },
+  {
+    "name": "lodns",
+    "url": "https://github.com/vandot/lodns",
+    "method": "git",
+    "tags": [
+      "dns",
+      "udp",
+      "server",
+      "developer-tools"
+    ],
+    "description": "Simple DNS server for local development.",
+    "license": "BSD-3-Clause",
+    "web": "https://github.com/vandot/lodns"
+  },
+  {
+    "name": "emath",
+    "url": "https://github.com/hamidb80/emath",
+    "method": "git",
+    "tags": [
+      "math",
+      "expression",
+      "library",
+      "evaluator",
+      "ast",
+      "evaluation"
+    ],
+    "description": "math parser/evaluator library",
+    "license": "MIT",
+    "web": "https://github.com/hamidb80/emath"
+  },
+  {
+    "name": "tabcompletion",
+    "url": "https://github.com/z-kk/tabcompletion",
+    "method": "git",
+    "tags": [
+      "stdin",
+      "readline",
+      "tab",
+      "completion"
+    ],
+    "description": "stdin tab completion library",
+    "license": "MIT",
+    "web": "https://github.com/z-kk/tabcompletion"
+  },
+  {
+    "name": "jtr",
+    "url": "https://github.com/u1and0/jtr",
+    "method": "git",
+    "tags": [
+      "cli",
+      "json"
+    ],
+    "description": "jtr is a commmand of JSON tree viewer with type",
+    "license": "MIT",
+    "web": "https://github.com/u1and0/jtr"
+  },
+  {
+    "name": "measuremancer",
+    "url": "https://github.com/SciNim/Measuremancer",
+    "method": "git",
+    "tags": [
+      "measurements",
+      "error propagation",
+      "errors",
+      "uncertainties",
+      "science"
+    ],
+    "description": "A library to handle measurement uncertainties",
+    "license": "MIT",
+    "web": "https://github.com/SciNim/Measuremancer"
+  },
+  {
+    "name": "casting",
+    "url": "https://github.com/sls1005/nim-casting",
+    "method": "git",
+    "tags": [
+      "cpp",
+      "cast"
+    ],
+    "description": "A wrapper of the C++ cast operators",
+    "license": "MIT",
+    "web": "https://github.com/sls1005/nim-casting"
+  },
+  {
+    "name": "pigeon",
+    "url": "https://github.com/dizzyliam/pigeon",
+    "method": "git",
+    "tags": [
+      "webdev",
+      "api",
+      "HTTP"
+    ],
+    "description": "Define procedures on the server, call them from the browser.",
+    "license": "MIT"
+  },
+  {
+    "name": "formatstr",
+    "url": "https://github.com/guibar64/formatstr",
+    "method": "git",
+    "tags": [
+      "string",
+      "format"
+    ],
+    "description": "string interpolation, complement of std/strformat for runtime strings",
+    "license": "MIT",
+    "web": "https://github.com/guibar64/formatstr"
+  },
+  {
+    "name": "asyncrabbitmq",
+    "url": "https://github.com/Q-Master/rabbitmq.nim",
+    "method": "git",
+    "tags": [
+      "rabbitmq,",
+      "amqp,",
+      "async,",
+      "library"
+    ],
+    "description": "Pure Nim asyncronous driver for RabbitMQ",
+    "license": "MIT",
+    "web": "https://github.com/Q-Master/rabbitmq.nim"
+  },
+  {
+    "name": "nimldap",
+    "url": "https://github.com/inv2004/nimldap",
+    "method": "git",
+    "tags": [
+      "ldap",
+      "bindings",
+      "openldap"
+    ],
+    "description": "LDAP client bindings",
+    "license": "MIT",
+    "web": "https://github.com/inv2004/nimldap"
+  },
+  {
+    "name": "sas",
+    "url": "https://github.com/xcodz-dot/sas",
+    "method": "git",
+    "tags": [
+      "emulator",
+      "cpu",
+      "architecture",
+      "toy",
+      "simulator",
+      "compiler"
+    ],
+    "description": "SAS compiler",
+    "license": "MIT",
+    "web": "https://github.com/xcodz-dot/sas"
+  },
+  {
+    "name": "snekim",
+    "url": "https://codeberg.org/annaaurora/snekim",
+    "method": "git",
+    "tags": [
+      "game",
+      "2d-game",
+      "raylib",
+      "snake"
+    ],
+    "description": "A simple implementation of the classic snake game",
+    "license": "LGPLv3",
+    "web": "https://codeberg.org/annaaurora/snekim"
+  },
+  {
+    "name": "toposort",
+    "url": "https://github.com/ryukoposting/toposort",
+    "method": "git",
+    "tags": [
+      "toposort",
+      "topological",
+      "kahn",
+      "graph",
+      "dependency",
+      "dependencies"
+    ],
+    "description": "Efficient topological sort using Kahn's algorithm",
+    "license": "BSD 3-Clause",
+    "web": "https://github.com/ryukoposting/toposort"
+  },
+  {
+    "name": "resolver",
+    "url": "https://github.com/ryukoposting/resolver",
+    "method": "git",
+    "tags": [
+      "resolver",
+      "dependency",
+      "dependencies",
+      "semver",
+      "version",
+      "version control"
+    ],
+    "description": "Semver parser and dependency management tools",
+    "license": "BSD 3-Clause",
+    "web": "https://github.com/ryukoposting/resolver"
+  },
+  {
+    "name": "convertKana",
+    "url": "https://github.com/z-kk/convertKana",
+    "method": "git",
+    "tags": [
+      "convert",
+      "japanese",
+      "kana",
+      "hiragana",
+      "katakana"
+    ],
+    "description": "Convert Japanese Kana",
+    "license": "MIT",
+    "web": "https://github.com/z-kk/convertKana"
+  },
+  {
+    "name": "xl",
+    "url": "https://github.com/khchen/xl",
+    "method": "git",
+    "tags": [
+      "excel",
+      "openxml",
+      "xlsx"
+    ],
+    "description": "Open XML Spreadsheet (Excel) Library for Nim",
+    "license": "MIT",
+    "web": "https://github.com/khchen/xl"
+  },
+  {
+    "name": "cpptuples",
+    "url": "https://github.com/sls1005/cpptuples",
+    "method": "git",
+    "tags": [
+      "cpp",
+      "tuple"
+    ],
+    "description": "A wrapper for C++'s std::tuple",
+    "license": "MIT",
+    "web": "https://github.com/sls1005/cpptuples"
+  },
+  {
+    "name": "nimcolor",
+    "url": "https://github.com/JessaTehCrow/NimColor",
+    "method": "git",
+    "tags": [
+      "color",
+      "terminal"
+    ],
+    "description": "Color printing interface for nim",
+    "license": "MIT",
+    "web": "https://github.com/JessaTehCrow/NimColor"
   }
 ]
