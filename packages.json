@@ -27931,5 +27931,18 @@
     "description": "Color printing interface for nim",
     "license": "MIT",
     "web": "https://github.com/JessaTehCrow/NimColor"
+  },
+  {
+    "name": "cgi",
+    "url": "https://github.com/nim-lang/cgi",
+    "method": "git",
+    "tags": [
+      "cgi",
+      "official",
+      "stdlib"
+    ],
+    "description": "Helper procs for CGI applications in Nim.",
+    "license": "MIT",
+    "web": "https://github.com/nim-lang/cgi"
   }
 ]
