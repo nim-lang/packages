@@ -27950,7 +27950,7 @@
     "url": "https://codeberg.org/emanresu3/nim-pipexp",
     "method": "git",
     "tags": [
-      "functionalprogramming",
+      "functional",
       "pipeline",
       "composition"
     ],
