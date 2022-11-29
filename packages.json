@@ -27957,5 +27957,18 @@
     "description": "SMTP client implementation (originally in the stdlib).",
     "license": "MIT",
     "web": "https://github.com/nim-lang/smtp"
+   },
+   {
+    "name": "asyncftpclient",
+    "url": "https://github.com/nim-lang/asyncftpclient",
+    "method": "git",
+    "tags": [
+      "stdlib",
+      "ftpclient",
+      "official"
+    ],
+    "description": "FTP client implementation (originally in the stdlib).",
+    "license": "MIT",
+    "web": "https://github.com/nim-lang/asyncftpclient"
   }
 ]
