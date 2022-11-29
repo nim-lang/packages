@@ -27944,5 +27944,18 @@
     "description": "Helper procs for CGI applications in Nim.",
     "license": "MIT",
     "web": "https://github.com/nim-lang/cgi"
+  },
+  {
+    "name": "asyncftpclient",
+    "url": "https://github.com/nim-lang/asyncftpclient",
+    "method": "git",
+    "tags": [
+      "stdlib",
+      "ftpclient",
+      "official"
+    ],
+    "description": "FTP client implementation (originally in the stdlib).",
+    "license": "MIT",
+    "web": "https://github.com/nim-lang/asyncftpclient"
   }
 ]
