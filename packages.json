@@ -27944,5 +27944,16 @@
     "description": "Helper procs for CGI applications in Nim.",
     "license": "MIT",
     "web": "https://github.com/nim-lang/cgi"
+  },
+  {
+    "name": "template",
+    "url": "https://github.com/ArikRahman/template",
+    "method": "git",
+    "tags": [
+      "y"
+    ],
+    "description": "Tinkering about with Nim",
+    "license": "MIT",
+    "web": "https://github.com/ArikRahman/template"
   }
 ]
