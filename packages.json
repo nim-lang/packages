@@ -27957,8 +27957,8 @@
     "description": "SMTP client implementation (originally in the stdlib).",
     "license": "MIT",
     "web": "https://github.com/nim-lang/smtp"
-   },
-   {
+  },
+  {
     "name": "asyncftpclient",
     "url": "https://github.com/nim-lang/asyncftpclient",
     "method": "git",
@@ -27970,5 +27970,16 @@
     "description": "FTP client implementation (originally in the stdlib).",
     "license": "MIT",
     "web": "https://github.com/nim-lang/asyncftpclient"
+  },
+  {
+    "name": "cppany",
+    "url": "https://github.com/sls1005/cppany",
+    "method": "git",
+    "tags": [
+      "cpp"
+    ],
+    "description": "A wrapper for C++'s std::any",
+    "license": "MIT",
+    "web": "https://github.com/sls1005/cppany"
   }
 ]
