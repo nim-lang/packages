@@ -27946,6 +27946,19 @@
     "web": "https://github.com/nim-lang/cgi"
   },
   {
+    "name": "pipexp",
+    "url": "https://codeberg.org/emanresu3/nim-pipexp",
+    "method": "git",
+    "tags": [
+      "functional",
+      "pipeline",
+      "composition"
+    ],
+    "description": "Expression-based pipe operators with placeholder argument",
+    "license": "MIT",
+    "web": "https://codeberg.org/emanresu3/nim-pipexp"
+  },
+  {
     "name": "smtp",
     "url": "https://github.com/nim-lang/smtp",
     "method": "git",
