@@ -27944,5 +27944,69 @@
     "description": "Helper procs for CGI applications in Nim.",
     "license": "MIT",
     "web": "https://github.com/nim-lang/cgi"
+  },
+  {
+    "name": "pipexp",
+    "url": "https://codeberg.org/emanresu3/nim-pipexp",
+    "method": "git",
+    "tags": [
+      "functional",
+      "pipeline",
+      "composition"
+    ],
+    "description": "Expression-based pipe operators with placeholder argument",
+    "license": "MIT",
+    "web": "https://codeberg.org/emanresu3/nim-pipexp"
+  },
+  {
+    "name": "smtp",
+    "url": "https://github.com/nim-lang/smtp",
+    "method": "git",
+    "tags": [
+      "stdlib",
+      "smtp",
+      "official"
+    ],
+    "description": "SMTP client implementation (originally in the stdlib).",
+    "license": "MIT",
+    "web": "https://github.com/nim-lang/smtp"
+  },
+  {
+    "name": "asyncftpclient",
+    "url": "https://github.com/nim-lang/asyncftpclient",
+    "method": "git",
+    "tags": [
+      "stdlib",
+      "ftpclient",
+      "official"
+    ],
+    "description": "FTP client implementation (originally in the stdlib).",
+    "license": "MIT",
+    "web": "https://github.com/nim-lang/asyncftpclient"
+  },
+  {
+    "name": "cppany",
+    "url": "https://github.com/sls1005/cppany",
+    "method": "git",
+    "tags": [
+      "cpp"
+    ],
+    "description": "A wrapper for C++'s std::any",
+    "license": "MIT",
+    "web": "https://github.com/sls1005/cppany"
+  },
+  {
+    "name": "apt_brain",
+    "url": "https://github.com/genkaisoft/apt-brain",
+    "method": "git",
+    "tags": [
+      "apt",
+      "for",
+      "SHARP",
+      "Brain"
+    ],
+    "description": "apt for SHARP Brain",
+    "license": "GPL-3.0-or-later",
+    "web": "https://github.com/genkaisoft/apt-brain"
   }
 ]
