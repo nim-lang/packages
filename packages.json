@@ -27961,6 +27961,19 @@
     "web": "https://github.com/nim-lang/cgi"
   },
   {
+    "name": "punycode",
+    "url": "https://github.com/nim-lang/punycode",
+    "method": "git",
+    "tags": [
+      "stdlib",
+      "punycode",
+      "official"
+    ],
+    "description": "Implements a representation of Unicode with the limited ASCII character subset in Nim.",
+    "license": "MIT",
+    "web": "https://github.com/nim-lang/punycode"
+  },
+  {
     "name": "pipexp",
     "url": "https://codeberg.org/emanresu3/nim-pipexp",
     "method": "git",
