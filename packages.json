@@ -22523,6 +22523,21 @@
     "web": "https://github.com/tdely/nimflux"
   },
   {
+    "name": "rwlocks",
+    "url": "https://github.com/tdely/nim-rwlocks",
+    "method": "git",
+    "tags": [
+      "lock",
+      "mrsw",
+      "multi-reader",
+      "single-writer",
+      "readers-writer"
+    ],
+    "description": "Readers-writer (MRSW) lock",
+    "license": "MIT",
+    "web": "https://github.com/tdely/nim-rwlocks"
+  },
+  {
     "name": "moss_nim",
     "url": "https://github.com/D4D3VD4V3/moss_nim",
     "method": "git",
