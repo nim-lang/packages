@@ -28008,5 +28008,18 @@
     "description": "apt for SHARP Brain",
     "license": "GPL-3.0-or-later",
     "web": "https://github.com/genkaisoft/apt-brain"
+  },
+  {
+    "name": "db_connector",
+    "url": "https://github.com/nim-lang/db_connector",
+    "method": "git",
+    "tags": [
+      "stdlib",
+      "official",
+      "database"
+    ],
+    "description": "Unified database connector.",
+    "license": "MIT",
+    "web": "https://github.com/nim-lang/db_connector"
   }
 ]
