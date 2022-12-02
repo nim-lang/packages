@@ -27408,6 +27408,20 @@
     "web": "https://github.com/sumatoshi/shiftfields"
   },
   {
+    "name": "mummy",
+    "url": "https://github.com/guzba/mummy",
+    "method": "git",
+    "tags": [
+      "web",
+      "http",
+      "server",
+      "websockets"
+    ],
+    "description": "Multithreaded HTTP + WebSocket server",
+    "license": "MIT",
+    "web": "https://github.com/guzba/mummy"
+  },
+  {
     "name": "ndup",
     "url": "https://github.com/c-blake/ndup",
     "method": "git",
