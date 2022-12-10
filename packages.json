@@ -28064,5 +28064,21 @@
     "description": "Unified database connector.",
     "license": "MIT",
     "web": "https://github.com/nim-lang/db_connector"
+  },
+  {
+    "name": "snorlogue",
+    "url": "https://github.com/PhilippMDoerner/Snorlogue",
+    "method": "git",
+    "tags": [
+      "web",
+      "prologue",
+      "norm",
+      "extension",
+      "administration",
+      "library"
+    ],
+    "description": "A Prologue extension. Provides an admin environment for your prologue server making use of norm.",
+    "license": "MIT",
+    "web": "https://github.com/PhilippMDoerner/Snorlogue"
   }
 ]
