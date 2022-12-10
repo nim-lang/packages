@@ -28080,5 +28080,22 @@
     "description": "A Prologue extension. Provides an admin environment for your prologue server making use of norm.",
     "license": "MIT",
     "web": "https://github.com/PhilippMDoerner/Snorlogue"
-  }
+  },
+  {
+    "name": "strides",
+    "url": "https://github.com/fsh/strides",
+    "method": "git",
+    "tags": [
+      "stride",
+      "range",
+      "slicing",
+      "indexing",
+      "utility",
+      "library"
+      ],
+    "description": "Strided indexing and slicing with a step",
+    "license": "MIT",
+    "web": "https://github.com/fsh/strides",
+    "doc": "https://fsh.github.io/strides/strides.html"
+  },
 ]
