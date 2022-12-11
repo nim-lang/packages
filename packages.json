@@ -28103,10 +28103,23 @@
       "indexing",
       "utility",
       "library"
-      ],
+    ],
     "description": "Strided indexing and slicing with a step",
     "license": "MIT",
     "web": "https://github.com/fsh/strides",
     "doc": "https://fsh.github.io/strides/strides.html"
+  },
+  {
+    "name": "gptcli",
+    "url": "https://github.com/HACCKKER/gptcli",
+    "method": "git",
+    "tags": [
+      "client",
+      "cli",
+      "chatgpt"
+    ],
+    "description": "chatgpt cli client written in nim",
+    "license": "MIT",
+    "web": "https://github.com/HACCKKER/gptcli"
   }
 ]
