@@ -18081,6 +18081,17 @@
     "license": "Public Domain"
   },
   {
+    "name": "parazoa",
+    "url": "https://github.com/paranim/parazoa",
+    "method": "git",
+    "tags": [
+      "immutable",
+      "persistent"
+    ],
+    "description": "Immutable, persistent data structures",
+    "license": "Public Domain"
+  },
+  {
     "name": "sqlite3_abi",
     "url": "https://github.com/arnetheduck/nim-sqlite3-abi",
     "method": "git",
