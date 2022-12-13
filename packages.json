@@ -28050,6 +28050,21 @@
     "web": "https://github.com/sls1005/cppany"
   },
   {
+    "name": "waterpark",
+    "url": "https://github.com/guzba/waterpark",
+    "method": "git",
+    "tags": [
+      "threads",
+      "postgres",
+      "sqlite",
+      "mysql",
+      "database"
+    ],
+    "description": "Thread-safe database connection pools",
+    "license": "MIT",
+    "web": "https://github.com/guzba/waterpark"
+  },
+  {
     "name": "apt_brain",
     "url": "https://github.com/genkaisoft/apt-brain",
     "method": "git",
