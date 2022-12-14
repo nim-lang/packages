@@ -28148,5 +28148,17 @@
     "description": "Cli tool to update the nimble version of a package.",
     "license": "MIT",
     "web": "https://github.com/philolo1/update_nimble_version"
+  },
+  {
+    "name": "tinyre",
+    "url": "https://github.com/khchen/tinyre",
+    "method": "git",
+    "tags": [
+      "re",
+      "regex"
+    ],
+    "description": "Tiny Regex Engine for Nim",
+    "license": "MIT",
+    "web": "https://github.com/khchen/tinyre"
   }
 ]
