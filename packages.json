@@ -28196,5 +28196,24 @@
     "description": "Tiny Regex Engine for Nim",
     "license": "MIT",
     "web": "https://github.com/khchen/tinyre"
+  },
+  {
+    "name": "integers",
+    "url": "https://github.com/fsh/integers",
+    "method": "git",
+    "tags": [
+      "library",
+      "wrapper",
+      "GMP",
+      "integers",
+      "bigint",
+      "numbers",
+      "number-theory",
+      "math"
+    ],
+    "description": "Ergonomic arbitrary precision integers wrapping GMP",
+    "license": "MIT",
+    "web": "https://github.com/fsh/integers",
+    "doc": "https://fsh.github.io/integers/integers.html"
   }
 ]
