@@ -14158,6 +14158,22 @@
     "web": "https://github.com/treeform/bitty/"
   },
   {
+    "name": "webby",
+    "url": "https://github.com/treeform/webby/",
+    "method": "git",
+    "tags": [
+      "web",
+      "http",
+      "uri",
+      "url",
+      "headers",
+      "query"
+    ],
+    "description": "Web utilities - http headers and query parsing.",
+    "license": "MIT",
+    "web": "https://github.com/treeform/webby/"
+  },
+  {
     "name": "fnv",
     "url": "https://gitlab.com/ryukoposting/nim-fnv",
     "method": "git",
