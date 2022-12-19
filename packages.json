@@ -28214,6 +28214,24 @@
     "web": "https://github.com/khchen/tinyre"
   },
   {
+    "name": "depot",
+    "url": "https://github.com/guzba/depot",
+    "method": "git",
+    "tags": [
+      "aws",
+      "s3",
+      "r2",
+      "b2",
+      "gcs",
+      "backblaze",
+      "cloudflare",
+      "amazon"
+    ],
+    "description": "For working with S3-compatible storage APIs",
+    "license": "MIT",
+    "web": "https://github.com/guzba/depot"
+  },
+  {
     "name": "integers",
     "url": "https://github.com/fsh/integers",
     "method": "git",
