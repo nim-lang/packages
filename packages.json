@@ -28243,5 +28243,16 @@
     "description": "🚋 Traffic Analysis in Nim",
     "license": "GPL-3.0",
     "web": "https://github.com/facorazza/tram"
+  },
+  {
+    "name": "rowdy",
+    "url": "https://github.com/ajusa/rowdy",
+    "method": "git",
+    "tags": [
+        "web",
+        "routing"
+    ],
+    "description": "Automatically bind procs to the mummy web server",
+    "license": "MIT"
   }
 ]
