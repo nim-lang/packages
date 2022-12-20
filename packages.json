@@ -28272,5 +28272,17 @@
     ],
     "description": "Automatically bind procs to the mummy web server",
     "license": "MIT"
+  },
+  {
+    "name": "openai",
+    "url": "https://github.com/ThomasTJdev/nim_openai",
+    "method": "git",
+    "tags": [
+      "openai",
+      "davinci",
+      "gpt" 
+    ],
+    "description": "Basic API handling for openAI",
+    "license": "MIT"
   }
 ]
