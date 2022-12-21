@@ -28267,8 +28267,8 @@
     "url": "https://github.com/ajusa/rowdy",
     "method": "git",
     "tags": [
-        "web",
-        "routing"
+      "web",
+      "routing"
     ],
     "description": "Automatically bind procs to the mummy web server",
     "license": "MIT"
@@ -28280,9 +28280,23 @@
     "tags": [
       "openai",
       "davinci",
-      "gpt" 
+      "gpt"
     ],
     "description": "Basic API handling for openAI",
     "license": "MIT"
+  },
+  {
+    "name": "ttop",
+    "url": "https://github.com/inv2004/ttop",
+    "method": "git",
+    "tags": [
+      "top",
+      "monitoring",
+      "cli",
+      "tui"
+    ],
+    "description": "Monitoring tool with historical snapshots",
+    "license": "MIT",
+    "web": "https://github.com/inv2004/ttop"
   }
 ]
