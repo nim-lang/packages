@@ -10,7 +10,7 @@
       "nimquery"
     ],
     "description": "Simple library to make tests on html string using css query selectors",
-    "licence": "MIT",
+    "license": "MIT",
     "web": "https://github.com/Yandall/HTest/"
   },
   {
