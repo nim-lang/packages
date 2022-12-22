@@ -1,5 +1,19 @@
 [
   {
+    "name": "htest",
+    "url": "https://github.com/Yandall/HTest/",
+    "method": "git",
+    "tags": [
+      "html",
+      "test",
+      "unittest",
+      "nimquery"
+    ],
+    "description": "Simple library to make tests on html string using css query selectors",
+    "license": "MIT",
+    "web": "https://github.com/Yandall/HTest/"
+  },
+  {
     "name": "passy",
     "url": "https://github.com/infinitybeond1/passy",
     "method": "git",
