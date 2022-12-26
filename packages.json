@@ -28312,5 +28312,20 @@
     "description": "Monitoring tool with historical snapshots",
     "license": "MIT",
     "web": "https://github.com/inv2004/ttop"
+  },
+  {
+    "name": "couchdbapi",
+    "url": "https://github.com/zendbit/nim.couchdbapi",
+    "method": "git",
+    "tags": [
+      "couchdb",
+      "database",
+      "apache",
+      "hosql",
+      "json"
+    ],
+    "description": "Apache CouchDb driver (REST API) for nim lang.",
+    "license": "BSD",
+    "web": "https://github.com/zendbit/nim.couchdbapi"
   }
 ]
