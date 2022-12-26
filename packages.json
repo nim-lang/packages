@@ -28319,7 +28319,7 @@
       "method": "git",
       "tags": [
         "tables",
-        "maps"]
+        "maps"],
       "description": "bidirectional {maps, tables, dictionaries} in nim",
       "license": "MIT",
       "web": "https://github.com/Retkid/bitables"
