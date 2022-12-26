@@ -28320,7 +28320,7 @@
       "tags": [
         "tables",
         "maps"]
-      "description": "bidirectional {maps, tables, dictionaries} in nim"",
+      "description": "bidirectional {maps, tables, dictionaries} in nim",
       "license": "MIT",
       "web": "https://github.com/Retkid/bitables"
   }
