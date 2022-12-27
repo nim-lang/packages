@@ -28339,5 +28339,17 @@
     "description": "A wrapper for the libpcap library",
     "license": "MIT",
     "web": "https://github.com/praetoriannero/nim_libpcap"
+  },
+  {
+    "name": "puyo_core",
+    "url": "https://github.com/izumiya-keisuke/puyo-core",
+    "method": "git",
+    "tags": [
+      "",
+      ""
+    ],
+    "description": "Puyo Puyo Library",
+    "license": "Apache-2.0 OR MPL-2.0",
+    "web": "https://github.com/izumiya-keisuke/puyo-core"
   }
 ]
