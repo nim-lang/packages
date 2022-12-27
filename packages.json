@@ -28313,15 +28313,31 @@
     "license": "MIT",
     "web": "https://github.com/inv2004/ttop"
   },
-    {
-      "name": "bitables",
-      "url": "https://github.com/Retkid/bitables",
-      "method": "git",
-      "tags": [
-        "tables",
-        "maps"],
-      "description": "bidirectional {maps, tables, dictionaries} in nim",
-      "license": "MIT",
-      "web": "https://github.com/Retkid/bitables"
+  {
+    "name": "bitables",
+    "url": "https://github.com/Retkid/bitables",
+    "method": "git",
+    "tags": [
+      "tables",
+      "maps"
+    ],
+    "description": "bidirectional {maps, tables, dictionaries} in nim",
+    "license": "MIT",
+    "web": "https://github.com/Retkid/bitables"
+  },
+  {
+    "name": "libpcap",
+    "url": "https://github.com/praetoriannero/nim_libpcap",
+    "method": "git",
+    "tags": [
+      "libpcap",
+      "packet",
+      "pcap",
+      "sniff",
+      "sniffer"
+    ],
+    "description": "A wrapper for the libpcap library",
+    "license": "MIT",
+    "web": "https://github.com/praetoriannero/nim_libpcap"
   }
 ]
