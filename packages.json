@@ -28339,5 +28339,18 @@
     "description": "A wrapper for the libpcap library",
     "license": "MIT",
     "web": "https://github.com/praetoriannero/nim_libpcap"
+  },
+  {
+    "name": "simswitch",
+    "url": "https:///",
+    "method": "",
+    "tags": [
+      "sims4",
+      "modscontrol",
+      "windows"
+    ],
+    "description": "A new awesome nimble package",
+    "license": "MIT",
+    "web": "https:///"
   }
 ]
