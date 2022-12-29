@@ -9260,8 +9260,8 @@
       "library",
       "serialization"
     ],
-    "description": "Concise Binary Object Representation decoder (RFC7049).",
-    "license": "MIT",
+    "description": "Concise Binary Object Representation decoder",
+    "license": "Unlicense",
     "web": "https://git.sr.ht/~ehmry/nim_cbor"
   },
   {
