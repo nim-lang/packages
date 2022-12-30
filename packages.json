@@ -28339,5 +28339,20 @@
     "description": "A wrapper for the libpcap library",
     "license": "MIT",
     "web": "https://github.com/praetoriannero/nim_libpcap"
+  },
+  {
+    "name": "engineio",
+    "url": "https://github.com/samc0de/engineio",
+    "method": "git",
+    "tags": [
+      "socketio",
+      "engineio",
+      "library",
+      "websocket",
+      "client"
+    ],
+    "description": "An Engine.IO client library for Nim",
+    "license": "MIT",
+    "web": "https://github.com/samc0de/engineio"
   }
 ]
