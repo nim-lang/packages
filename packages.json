@@ -28314,6 +28314,18 @@
     "web": "https://github.com/inv2004/ttop"
   },
   {
+    "name": "bossy",
+    "url": "https://github.com/guzba/bossy",
+    "method": "git",
+    "tags": [
+      "command-line",
+      "cli"
+    ],
+    "description": "Makes supporting command line arguments easier",
+    "license": "MIT",
+    "web": "https://github.com/guzba/bossy"
+  },
+  {
     "name": "bitables",
     "url": "https://github.com/Retkid/bitables",
     "method": "git",
