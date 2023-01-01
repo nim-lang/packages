@@ -9875,8 +9875,8 @@
     "web": "https://github.com/numforge/nim-clblast"
   },
   {
-    "alias": "nimp5",
-    "name": "p5nim"
+    "name": "nimp5",
+    "alias": "p5nim"
   },
   {
     "name": "p5nim",
