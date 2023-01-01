@@ -9876,7 +9876,11 @@
   },
   {
     "name": "nimp5",
-    "url": "https://github.com/Foldover/nim-p5",
+    "alias": "p5nim"
+  },
+  {
+    "name": "p5nim",
+    "url": "https://github.com/pietroppeter/p5nim",
     "method": "git",
     "tags": [
       "p5",
@@ -9888,7 +9892,7 @@
     ],
     "description": "Nim bindings for p5.js.",
     "license": "MIT",
-    "web": "https://github.com/Foldover/nim-p5"
+    "web": "https://github.com/pietroppeter/p5nim"
   },
   {
     "name": "names",
