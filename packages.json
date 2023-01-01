@@ -385,7 +385,7 @@
   },
   {
     "name": "torim",
-    "url": "https://github.com/KittyTechnoProgrammer/torim",
+    "url": "https://github.com/Techno-Fox/torim",
     "method": "git",
     "tags": [
       "tor",
@@ -393,8 +393,8 @@
     ],
     "description": "Updated version of tor.nim from https://github.com/FedericoCeratto/nim-tor",
     "license": "GPL-3.0",
-    "web": "https://github.com/KittyTechnoProgrammer/torim",
-    "doc": "https://github.com/KittyTechnoProgrammer/torim"
+    "web": "https://github.com/Techno-Fox/torim",
+    "doc": "https://github.com/Techno-Fox/torim"
   },
   {
     "name": "jupyternim",
@@ -20557,7 +20557,7 @@
   },
   {
     "name": "psutilim",
-    "url": "https://github.com/KittyTechnoProgrammer/psutilim",
+    "url": "https://github.com/Techno-Fox/psutilim",
     "method": "git",
     "tags": [
       "psutilim",
@@ -20567,8 +20567,8 @@
     ],
     "description": "Updated psutil module from https://github.com/johnscillieri/psutil-nim",
     "license": "MIT",
-    "web": "https://github.com/KittyTechnoProgrammer/psutilim",
-    "doc": "https://github.com/KittyTechnoProgrammer/psutilim"
+    "web": "https://github.com/Techno-Fox/psutilim",
+    "doc": "https://github.com/Techno-Fox/psutilim"
   },
   {
     "name": "ioselectors",
