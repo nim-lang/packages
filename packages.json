@@ -26510,12 +26510,6 @@
     "method": "git",
     "tags": ["wrapper", "disasm"],
     "description":"Capstone3 high-level wrapper",
-    "license": "MIT",
-    "tags": [
-      "wrapper",
-      "disasm"
-    ],
-    "description": "Capstone3 high-level wrapper",
     "license": "MIT"
   },
   {
