@@ -26510,7 +26510,7 @@
     "method": "git",
     "tags": ["wrapper", "disasm"],
     "description":"Capstone3 high-level wrapper",
-    "license": "MIT"
+    "license": "MIT",
     "tags": [
       "wrapper",
       "disasm"
@@ -28373,5 +28373,19 @@
     "description": "An Engine.IO client library for Nim",
     "license": "MIT",
     "web": "https://github.com/samc0de/engineio"
+  },
+  {
+    "name": "pape",
+    "url": "https://github.com/hdbg/pape",
+    "method": "git",
+    "tags": [
+      "windows",
+      "internal",
+      "pe",
+      "parser"
+    ],
+    "description": "Pure Nim PE parsing library",
+    "license": "MIT",
+    "web": "https://github.com/hdbg/pape"
   }
 ]
