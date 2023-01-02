@@ -7,11 +7,12 @@
 #  * Missing/unknown method
 #  * Missing/unreachable repository
 #  * Missing tags
+#  * Empty tags
 #  * Missing description
 #  * Missing/unknown license
 #  * Insecure git:// url on GitHub
 #
-# Usage: nim r -d:ssl package_scanner.nim
+# Usage: nim r [-d:dontFetchRepos] package_scanner.nim 
 #
 # Copyright 2015 Federico Ceratto <federico.ceratto@gmail.com>
 # Released under GPLv3 License, see /usr/share/common-licenses/GPL-3
@@ -50,6 +51,7 @@ const licenses = [
     "cc0-1.0",
     "gpl",
     "gpl2",
+    "gpl-2.0-only",
     "gpl3",
     "gplv2",
     "gplv3",
@@ -163,8 +165,19 @@ proc check(): int =
       elif pkg["license"].str.toLowerAscii notin licenses:
         echo "E: ", name, " has an unexpected license: ", pkg["license"]
         inc result
-      elif pkg.hasKey("web") and not canFetchNimbleRepository(name, pkg["web"]):
-        echo "W: Failed to fetch source code repo for ", name
+      elif pkg.hasKey("web"):
+        when not defined(dontFetchRepos):
+          if not canFetchNimbleRepository(name, pkg["web"]):
+            echo "W: Failed to fetch source code repo for ", name
+      elif pkg.hasKey("tags"):
+        var emptyTags = 0
+        for tag in pkg["tags"]:
+          if tag.getStr.len == 0:
+            inc emptyTags
+
+        if emptyTags > 0:
+          echo "E: ", name, " has ", emptyTags, " empty tags"
+          inc result
 
     if name.normalize notin names:
       names.incl name.normalize
