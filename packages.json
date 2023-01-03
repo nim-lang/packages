@@ -3,7 +3,9 @@
     "name": "nimcorpora",
     "url": "https://github.com/neroist/nimcorpora",
     "method": "git",
-    "tags": ["corpora"],
+    "tags": [
+      "corpora"
+    ],
     "description": "A Nim interface for Darius Kazemi's Corpora Project",
     "license": "0BSD",
     "web": "https://github.com/neroist/nimcorpora",
@@ -26518,8 +26520,11 @@
     "name": "capstone",
     "url": "https://github.com/hdbg/capstone-nim",
     "method": "git",
-    "tags": ["wrapper", "disasm"],
-    "description":"Capstone3 high-level wrapper",
+    "tags": [
+      "wrapper",
+      "disasm"
+    ],
+    "description": "Capstone3 high-level wrapper",
     "license": "MIT"
   },
   {
@@ -28391,5 +28396,20 @@
     "description": "Pure Nim PE parsing library",
     "license": "MIT",
     "web": "https://github.com/hdbg/pape"
+  },
+  {
+    "name": "googleTranslate",
+    "url": "https://git.ozzuu.com/thisago/googleTranslate",
+    "method": "git",
+    "tags": [
+      "translate",
+      "library",
+      "batchexecute",
+      "googleTranslator",
+      "google"
+    ],
+    "description": "A simple Google Translate implementation",
+    "license": "MIT",
+    "web": "https://git.ozzuu.com/thisago/googleTranslate"
   }
 ]
