@@ -3,10 +3,8 @@
     "name": "nimcorpora",
     "url": "https://github.com/neroist/nimcorpora",
     "method": "git",
-    "tags": [
-      "corpora"
-    ],
-    "description": "A Nim interface for Darius Kazemi's Corpora Project.",
+    "tags": ["corpora"],
+    "description": "A Nim interface for Darius Kazemi's Corpora Project",
     "license": "0BSD",
     "web": "https://github.com/neroist/nimcorpora",
     "doc": "https://neroist.github.io/nimcorpora/nimcorpora.html"
