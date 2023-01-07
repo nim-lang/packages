@@ -1,5 +1,20 @@
 [
   {
+    "name": "parlexgen",
+    "url": "https://github.com/choltreppe/parlexgen",
+    "method": "git",
+    "tags": [
+      "lexer",
+      "parser",
+      "lexer-generator",
+      "parser-generator",
+      "lex",
+      "parse"
+    ],
+    "description": "A Parser/Lexer Generator.",
+    "license": "MIT"
+  },
+  {
     "name": "nimcorpora",
     "url": "https://github.com/neroist/nimcorpora",
     "method": "git",
