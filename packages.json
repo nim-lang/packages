@@ -28413,6 +28413,26 @@
     "web": "https://github.com/hdbg/pape"
   },
   {
+    "name": "crunchy",
+    "url": "https://github.com/guzba/crunchy",
+    "method": "git",
+    "tags": [
+        "sha",
+        "sha256",
+        "sha-256",
+        "crc32",
+        "crc-32",
+        "adler32",
+        "adler-32",
+        "crc",
+        "checksum",
+        "hash"
+    ],
+    "description": "SIMD-optimized hashing, checksums and CRCs",
+    "license": "MIT",
+    "web": "https://github.com/guzba/crunchy"
+  },
+  {
     "name": "googleTranslate",
     "url": "https://git.ozzuu.com/thisago/googleTranslate",
     "method": "git",
