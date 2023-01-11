@@ -28417,16 +28417,16 @@
     "url": "https://github.com/guzba/crunchy",
     "method": "git",
     "tags": [
-        "sha",
-        "sha256",
-        "sha-256",
-        "crc32",
-        "crc-32",
-        "adler32",
-        "adler-32",
-        "crc",
-        "checksum",
-        "hash"
+      "sha",
+      "sha256",
+      "sha-256",
+      "crc32",
+      "crc-32",
+      "adler32",
+      "adler-32",
+      "crc",
+      "checksum",
+      "hash"
     ],
     "description": "SIMD-optimized hashing, checksums and CRCs",
     "license": "MIT",
@@ -28446,5 +28446,18 @@
     "description": "A simple Google Translate implementation",
     "license": "MIT",
     "web": "https://git.ozzuu.com/thisago/googleTranslate"
+  },
+  {
+    "name": "xgui",
+    "url": "https://github.com/thatrandomperson5/xgui-nim",
+    "method": "git",
+    "tags": [
+      "library",
+      "gui",
+      "xml"
+    ],
+    "description": "XGui is a tool for nigui that imports xml files and turns them into nim at compile-time.",
+    "license": "MIT",
+    "web": "https://github.com/thatrandomperson5/xgui-nim"
   }
 ]
