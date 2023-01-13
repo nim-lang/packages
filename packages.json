@@ -28327,5 +28327,17 @@
     "description": "Apache CouchDb driver (REST API) for nim lang.",
     "license": "BSD",
     "web": "https://github.com/zendbit/nim.couchdbapi"
+  },
+  {
+    "name": "yawd",
+    "url": "https://github.com/zendbit/nim.yawd",
+    "method": "git",
+    "tags": [
+      "webdriver",
+      "yawd"
+    ],
+    "description": "Yet Another WebDriver (YAWD) for nim lang.",
+    "license": "BSD",
+    "web": "https://github.com/zendbit/nim.yawd"
   }
 ]
