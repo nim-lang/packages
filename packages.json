@@ -1,5 +1,32 @@
 [
   {
+    "name": "parlexgen",
+    "url": "https://github.com/choltreppe/parlexgen",
+    "method": "git",
+    "tags": [
+      "lexer",
+      "parser",
+      "lexer-generator",
+      "parser-generator",
+      "lex",
+      "parse"
+    ],
+    "description": "A Parser/Lexer Generator.",
+    "license": "MIT"
+  },
+  {
+    "name": "nimcorpora",
+    "url": "https://github.com/neroist/nimcorpora",
+    "method": "git",
+    "tags": [
+      "corpora"
+    ],
+    "description": "A Nim interface for Darius Kazemi's Corpora Project",
+    "license": "0BSD",
+    "web": "https://github.com/neroist/nimcorpora",
+    "doc": "https://neroist.github.io/nimcorpora/nimcorpora.html"
+  },
+  {
     "name": "htest",
     "url": "https://github.com/Yandall/HTest/",
     "method": "git",
@@ -385,7 +412,7 @@
   },
   {
     "name": "torim",
-    "url": "https://github.com/KittyTechnoProgrammer/torim",
+    "url": "https://github.com/Techno-Fox/torim",
     "method": "git",
     "tags": [
       "tor",
@@ -393,8 +420,8 @@
     ],
     "description": "Updated version of tor.nim from https://github.com/FedericoCeratto/nim-tor",
     "license": "GPL-3.0",
-    "web": "https://github.com/KittyTechnoProgrammer/torim",
-    "doc": "https://github.com/KittyTechnoProgrammer/torim"
+    "web": "https://github.com/Techno-Fox/torim",
+    "doc": "https://github.com/Techno-Fox/torim"
   },
   {
     "name": "jupyternim",
@@ -9260,8 +9287,8 @@
       "library",
       "serialization"
     ],
-    "description": "Concise Binary Object Representation decoder (RFC7049).",
-    "license": "MIT",
+    "description": "Concise Binary Object Representation decoder",
+    "license": "Unlicense",
     "web": "https://git.sr.ht/~ehmry/nim_cbor"
   },
   {
@@ -9876,7 +9903,11 @@
   },
   {
     "name": "nimp5",
-    "url": "https://github.com/Foldover/nim-p5",
+    "alias": "p5nim"
+  },
+  {
+    "name": "p5nim",
+    "url": "https://github.com/pietroppeter/p5nim",
     "method": "git",
     "tags": [
       "p5",
@@ -9888,7 +9919,7 @@
     ],
     "description": "Nim bindings for p5.js.",
     "license": "MIT",
-    "web": "https://github.com/Foldover/nim-p5"
+    "web": "https://github.com/pietroppeter/p5nim"
   },
   {
     "name": "names",
@@ -20553,7 +20584,7 @@
   },
   {
     "name": "psutilim",
-    "url": "https://github.com/KittyTechnoProgrammer/psutilim",
+    "url": "https://github.com/Techno-Fox/psutilim",
     "method": "git",
     "tags": [
       "psutilim",
@@ -20563,8 +20594,8 @@
     ],
     "description": "Updated psutil module from https://github.com/johnscillieri/psutil-nim",
     "license": "MIT",
-    "web": "https://github.com/KittyTechnoProgrammer/psutilim",
-    "doc": "https://github.com/KittyTechnoProgrammer/psutilim"
+    "web": "https://github.com/Techno-Fox/psutilim",
+    "doc": "https://github.com/Techno-Fox/psutilim"
   },
   {
     "name": "ioselectors",
@@ -28314,6 +28345,134 @@
     "web": "https://github.com/inv2004/ttop"
   },
   {
+    "name": "bossy",
+    "url": "https://github.com/guzba/bossy",
+    "method": "git",
+    "tags": [
+      "command-line",
+      "cli"
+    ],
+    "description": "Makes supporting command line arguments easier",
+    "license": "MIT",
+    "web": "https://github.com/guzba/bossy"
+  },
+  {
+    "name": "bitables",
+    "url": "https://github.com/Retkid/bitables",
+    "method": "git",
+    "tags": [
+      "tables",
+      "maps"
+    ],
+    "description": "bidirectional {maps, tables, dictionaries} in nim",
+    "license": "MIT",
+    "web": "https://github.com/Retkid/bitables"
+  },
+  {
+    "name": "libpcap",
+    "url": "https://github.com/praetoriannero/nim_libpcap",
+    "method": "git",
+    "tags": [
+      "libpcap",
+      "packet",
+      "pcap",
+      "sniff",
+      "sniffer"
+    ],
+    "description": "A wrapper for the libpcap library",
+    "license": "MIT",
+    "web": "https://github.com/praetoriannero/nim_libpcap"
+  },
+  {
+    "name": "engineio",
+    "url": "https://github.com/samc0de/engineio",
+    "method": "git",
+    "tags": [
+      "socketio",
+      "engineio",
+      "library",
+      "websocket",
+      "client"
+    ],
+    "description": "An Engine.IO client library for Nim",
+    "license": "MIT",
+    "web": "https://github.com/samc0de/engineio"
+  },
+  {
+    "name": "pape",
+    "url": "https://github.com/hdbg/pape",
+    "method": "git",
+    "tags": [
+      "windows",
+      "internal",
+      "pe",
+      "parser"
+    ],
+    "description": "Pure Nim PE parsing library",
+    "license": "MIT",
+    "web": "https://github.com/hdbg/pape"
+  },
+  {
+    "name": "crunchy",
+    "url": "https://github.com/guzba/crunchy",
+    "method": "git",
+    "tags": [
+      "sha",
+      "sha256",
+      "sha-256",
+      "crc32",
+      "crc-32",
+      "adler32",
+      "adler-32",
+      "crc",
+      "checksum",
+      "hash"
+    ],
+    "description": "SIMD-optimized hashing, checksums and CRCs",
+    "license": "MIT",
+    "web": "https://github.com/guzba/crunchy"
+  },
+  {
+    "name": "googleTranslate",
+    "url": "https://git.ozzuu.com/thisago/googleTranslate",
+    "method": "git",
+    "tags": [
+      "translate",
+      "library",
+      "batchexecute",
+      "googleTranslator",
+      "google"
+    ],
+    "description": "A simple Google Translate implementation",
+    "license": "MIT",
+    "web": "https://git.ozzuu.com/thisago/googleTranslate"
+  },
+  {
+    "name": "curly",
+    "url": "https://github.com/guzba/curly",
+    "method": "git",
+    "tags": [
+      "curl",
+      "libcurl"
+    ],
+    "description": "Makes using libcurl efficiently easy",
+    "license": "MIT",
+    "web": "https://github.com/guzba/curly"
+  },
+  {
+    "name": "xgui",
+    "url": "https://github.com/thatrandomperson5/xgui-nim",
+    "method": "git",
+    "tags": [
+      "library",
+      "gui",
+      "xml"
+    ],
+    "description": "XGui is a tool for nigui that imports xml files and turns them into nim at compile-time.",
+    "license": "MIT",
+    "web": "https://github.com/thatrandomperson5/xgui-nim"
+  },
+  {
     "name": "couchdbapi",
     "url": "https://github.com/zendbit/nim.couchdbapi",
     "method": "git",
@@ -28321,7 +28480,7 @@
       "couchdb",
       "database",
       "apache",
-      "hosql",
+      "nosql",
       "json"
     ],
     "description": "Apache CouchDb driver (REST API) for nim lang.",
