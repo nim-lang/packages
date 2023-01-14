@@ -28498,5 +28498,21 @@
     "description": "Yet Another WebDriver (YAWD) for nim lang.",
     "license": "BSD",
     "web": "https://github.com/zendbit/nim.yawd"
+  },
+  {
+    "name": "simpledb",
+    "url": "https://github.com/jjv360/nim-simpledb",
+    "method": "git",
+    "tags": [
+      "db",
+      "database",
+      "nosql",
+      "sqlite",
+      "json",
+      "object"
+    ],
+    "description": "A simple NoSQL JSON document database",
+    "license": "MIT",
+    "web": "https://github.com/jjv360/nim-simpledb"
   }
 ]
