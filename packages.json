@@ -28498,5 +28498,20 @@
     "description": "Yet Another WebDriver (YAWD) for nim lang.",
     "license": "BSD",
     "web": "https://github.com/zendbit/nim.yawd"
+  },
+  {
+    "name": "necsus",
+    "url": "https://github.com/NecsusECS/Necsus",
+    "method": "git",
+    "tags": [
+      "ecs",
+      "entity",
+      "component",
+      "system",
+      "games"
+    ],
+    "description": "Entity Component System",
+    "license": "MIT",
+    "web": "https://github.com/NecsusECS/Necsus"
   }
 ]
