@@ -28543,5 +28543,20 @@
     "description": "libsensors wrapper",
     "license": "MIT",
     "web": "https://github.com//inv2004/sensors"
+  },
+  {
+    "name": "subscribestar",
+    "url": "https://git.ozzuu.com/thisago/subscribestar",
+    "method": "git",
+    "tags": [
+      "web",
+      "library",
+      "scraper",
+      "data",
+      "extracting"
+    ],
+    "description": "Subscribestar extractor",
+    "license": "MIT",
+    "web": "https://git.ozzuu.com/thisago/subscribestar"
   }
 ]
