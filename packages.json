@@ -1,9 +1,26 @@
 [
   {
+    "name": "parlexgen",
+    "url": "https://github.com/choltreppe/parlexgen",
+    "method": "git",
+    "tags": [
+      "lexer",
+      "parser",
+      "lexer-generator",
+      "parser-generator",
+      "lex",
+      "parse"
+    ],
+    "description": "A Parser/Lexer Generator.",
+    "license": "MIT"
+  },
+  {
     "name": "nimcorpora",
     "url": "https://github.com/neroist/nimcorpora",
     "method": "git",
-    "tags": ["corpora"],
+    "tags": [
+      "corpora"
+    ],
     "description": "A Nim interface for Darius Kazemi's Corpora Project",
     "license": "0BSD",
     "web": "https://github.com/neroist/nimcorpora",
@@ -26518,8 +26535,11 @@
     "name": "capstone",
     "url": "https://github.com/hdbg/capstone-nim",
     "method": "git",
-    "tags": ["wrapper", "disasm"],
-    "description":"Capstone3 high-level wrapper",
+    "tags": [
+      "wrapper",
+      "disasm"
+    ],
+    "description": "Capstone3 high-level wrapper",
     "license": "MIT"
   },
   {
@@ -28391,5 +28411,137 @@
     "description": "Pure Nim PE parsing library",
     "license": "MIT",
     "web": "https://github.com/hdbg/pape"
+  },
+  {
+    "name": "crunchy",
+    "url": "https://github.com/guzba/crunchy",
+    "method": "git",
+    "tags": [
+      "sha",
+      "sha256",
+      "sha-256",
+      "crc32",
+      "crc-32",
+      "adler32",
+      "adler-32",
+      "crc",
+      "checksum",
+      "hash"
+    ],
+    "description": "SIMD-optimized hashing, checksums and CRCs",
+    "license": "MIT",
+    "web": "https://github.com/guzba/crunchy"
+  },
+  {
+    "name": "googleTranslate",
+    "url": "https://git.ozzuu.com/thisago/googleTranslate",
+    "method": "git",
+    "tags": [
+      "translate",
+      "library",
+      "batchexecute",
+      "googleTranslator",
+      "google"
+    ],
+    "description": "A simple Google Translate implementation",
+    "license": "MIT",
+    "web": "https://git.ozzuu.com/thisago/googleTranslate"
+  },
+  {
+    "name": "curly",
+    "url": "https://github.com/guzba/curly",
+    "method": "git",
+    "tags": [
+      "curl",
+      "libcurl"
+    ],
+    "description": "Makes using libcurl efficiently easy",
+    "license": "MIT",
+    "web": "https://github.com/guzba/curly"
+  },
+  {
+    "name": "xgui",
+    "url": "https://github.com/thatrandomperson5/xgui-nim",
+    "method": "git",
+    "tags": [
+      "library",
+      "gui",
+      "xml"
+    ],
+    "description": "XGui is a tool for nigui that imports xml files and turns them into nim at compile-time.",
+    "license": "MIT",
+    "web": "https://github.com/thatrandomperson5/xgui-nim"
+  },
+  {
+    "name": "couchdbapi",
+    "url": "https://github.com/zendbit/nim.couchdbapi",
+    "method": "git",
+    "tags": [
+      "couchdb",
+      "database",
+      "apache",
+      "nosql",
+      "json"
+    ],
+    "description": "Apache CouchDb driver (REST API) for nim lang.",
+    "license": "BSD",
+    "web": "https://github.com/zendbit/nim.couchdbapi"
+  },
+  {
+    "name": "yawd",
+    "url": "https://github.com/zendbit/nim.yawd",
+    "method": "git",
+    "tags": [
+      "webdriver",
+      "yawd"
+    ],
+    "description": "Yet Another WebDriver (YAWD) for nim lang.",
+    "license": "BSD",
+    "web": "https://github.com/zendbit/nim.yawd"
+  },
+  {
+    "name": "simpledb",
+    "url": "https://github.com/jjv360/nim-simpledb",
+    "method": "git",
+    "tags": [
+      "db",
+      "database",
+      "nosql",
+      "sqlite",
+      "json",
+      "object"
+    ],
+    "description": "A simple NoSQL JSON document database",
+    "license": "MIT",
+    "web": "https://github.com/jjv360/nim-simpledb"
+  },
+  {
+    "name": "necsus",
+    "url": "https://github.com/NecsusECS/Necsus",
+    "method": "git",
+    "tags": [
+      "ecs",
+      "entity",
+      "component",
+      "system",
+      "games"
+    ],
+    "description": "Entity Component System",
+    "license": "MIT",
+    "web": "https://github.com/NecsusECS/Necsus"
+  },
+  {
+    "name": "sensors",
+    "url": "https://github.com//inv2004/sensors",
+    "method": "git",
+    "tags": [
+      "sensors",
+      "wrapper",
+      "linux",
+      "temperature"
+    ],
+    "description": "libsensors wrapper",
+    "license": "MIT",
+    "web": "https://github.com//inv2004/sensors"
   }
 ]
