@@ -28529,5 +28529,19 @@
     "description": "Entity Component System",
     "license": "MIT",
     "web": "https://github.com/NecsusECS/Necsus"
+  },
+  {
+    "name": "sensors",
+    "url": "https://github.com//inv2004/sensors",
+    "method": "git",
+    "tags": [
+      "sensors",
+      "wrapper",
+      "linux",
+      "temperature"
+    ],
+    "description": "libsensors wrapper",
+    "license": "MIT",
+    "web": "https://github.com//inv2004/sensors"
   }
 ]
