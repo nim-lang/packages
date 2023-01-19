@@ -28558,5 +28558,17 @@
     "description": "Subscribestar extractor",
     "license": "MIT",
     "web": "https://git.ozzuu.com/thisago/subscribestar"
+  },
+  {
+    "name": "freedesktop_org",
+    "url": "https://git.sr.ht/~ehmry/freedesktop_org",
+    "method": "git",
+    "tags": [
+      "library",
+      "freedesktop"
+    ],
+    "description": "Library implementation of some Freedesktop.org standards",
+    "license": "Unlicense",
+    "web": "https://git.sr.ht/~ehmry/freedesktop_org"
   }
 ]
