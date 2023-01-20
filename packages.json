@@ -1,5 +1,5 @@
 [
-    {
+  {
     "name": "testdiff",
     "url": "https://github.com/geotre/testdiff",
     "method": "git",
@@ -28583,5 +28583,21 @@
     "description": "Library implementation of some Freedesktop.org standards",
     "license": "Unlicense",
     "web": "https://git.sr.ht/~ehmry/freedesktop_org"
+  },
+  {
+    "name": "fblib",
+    "url": "https://github.com/survivorm/fblib",
+    "method": "git",
+    "tags": [
+      "fb2",
+      "fictionbook",
+      "book",
+      "ebook",
+      "library",
+      "tools"
+    ],
+    "description": "FictionBook2 library and tools.",
+    "license": "MIT",
+    "web": "https://github.com/survivorm/fblib"
   }
 ]
