@@ -28614,7 +28614,20 @@
     "license": "agplv3",
     "web": "https://codeberg.org/eris/coap-nim"
   },
-    {
+  {
+    "name": "enkodo",
+    "url": "https://github.com/hortinstein/enkodo",
+    "method": "git",
+    "tags": [
+      "monocypher",
+      "encryption",
+      "javascript"
+    ],
+    "description": "A cross platform encyption and serialization library",
+    "license": "MIT",
+    "web": "https://github.com/hortinstein/enkodo"
+  },
+  {
     "name": "vikunja",
     "url": "https://github.com/ruivieira/nim-vikunja",
     "method": "git",
