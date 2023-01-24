@@ -28669,5 +28669,23 @@
     "description": "Nim library for interfacing with the FFmpeg CLI to start, observe and terminate encode jobs with an intuitive API",
     "license": "MIT",
     "web": "https://git.termer.net/termer/nim-ffmpeg-cli"
+  },
+  {
+    "name": "nimblex",
+    "url": "https://github.com/jjv360/nimblex",
+    "method": "git",
+    "tags": [
+      "run",
+      "cli",
+      "package",
+      "npx",
+      "runner",
+      "command",
+      "line",
+      "installer"
+    ],
+    "description": "Run command line tools directly from the Nimble Directory",
+    "license": "MIT",
+    "web": "https://github.com/jjv360/nimblex"
   }
 ]
