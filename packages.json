@@ -28652,5 +28652,22 @@
     "description": "Nim REST client to Vikunja",
     "license": "apache 2.0",
     "web": "https://github.com/ruivieira/nim-vikunja"
+  },
+  {
+    "name": "ffmpeg_cli",
+    "url": "https://git.termer.net/termer/nim-ffmpeg-cli",
+    "method": "git",
+    "tags": [
+      "ffmpeg",
+      "media",
+      "encoder",
+      "audio",
+      "video",
+      "nim",
+      "cli"
+    ],
+    "description": "Nim library for interfacing with the FFmpeg CLI to start, observe and terminate encode jobs with an intuitive API",
+    "license": "MIT",
+    "web": "https://git.termer.net/termer/nim-ffmpeg-cli"
   }
 ]
