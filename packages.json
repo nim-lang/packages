@@ -28687,5 +28687,19 @@
     "description": "Run command line tools directly from the Nimble Directory",
     "license": "MIT",
     "web": "https://github.com/jjv360/nimblex"
+  },
+  {
+    "name": "ponairi",
+    "url": "https://github.com/ire4ever1190/ponairi",
+    "method": "git",
+    "tags": [
+      "orm",
+      "sql",
+      "sqlite"
+    ],
+    "description": "Simple ORM for SQLite that can perform CRUD operations",
+    "license": "MIT",
+    "web": "https://github.com/ire4ever1190/ponairi",
+    "doc": "https://tempdocs.netlify.app/ponairi/stable"
   }
 ]
