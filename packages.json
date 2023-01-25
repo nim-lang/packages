@@ -28687,5 +28687,18 @@
     "description": "Run command line tools directly from the Nimble Directory",
     "license": "MIT",
     "web": "https://github.com/jjv360/nimblex"
+  },
+  {
+    "name": "enkodo",
+    "url": "https://github.com/hortinstein/enkodo",
+    "method": "git",
+    "tags": [
+      "encryption",
+      "serialization",
+      "typescript"
+    ],
+    "description": "A cross platform encyption and serialization library",
+    "license": "MIT",
+    "web": "https://github.com/hortinstein/enkodo"
   }
 ]
