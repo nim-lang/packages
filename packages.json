@@ -28701,5 +28701,18 @@
     "license": "MIT",
     "web": "https://github.com/ire4ever1190/ponairi",
     "doc": "https://tempdocs.netlify.app/ponairi/stable"
+  },
+  {
+    "name": "scfg",
+    "url": "https://codeberg.org/xoich/nim-scfg",
+    "method": "git",
+    "tags": [
+      "library",
+      "config",
+      "parser"
+    ],
+    "description": "Simple configuration file format (scfg) parser",
+    "license": "CC-BY-SA 4.0",
+    "web": "https://codeberg.org/xoich/nim-scfg"
   }
 ]
