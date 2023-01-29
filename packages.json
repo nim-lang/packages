@@ -28671,6 +28671,17 @@
     "web": "https://git.termer.net/termer/nim-ffmpeg-cli"
   },
   {
+    "name": "ready",
+    "url": "https://github.com/guzba/ready",
+    "method": "git",
+    "tags": [
+      "redis"
+    ],
+    "description": "A Redis client for multi-threaded servers",
+    "license": "MIT",
+    "web": "https://github.com/guzba/ready"
+  },
+  {
     "name": "nimblex",
     "url": "https://github.com/jjv360/nimblex",
     "method": "git",
