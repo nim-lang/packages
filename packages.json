@@ -28712,5 +28712,17 @@
     "license": "MIT",
     "web": "https://github.com/ire4ever1190/ponairi",
     "doc": "https://tempdocs.netlify.app/ponairi/stable"
+  },
+  {
+    "name": "primes",
+    "url": "https://github.com/wokibe/primes",
+    "method": "git",
+    "tags": [
+      "primes",
+      "is_prime"
+    ],
+    "description": "Utilities for prime numbers",
+    "license": "MIT",
+    "web": "https://github.com/wokibe/primes"
   }
 ]
