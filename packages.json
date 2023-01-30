@@ -28719,7 +28719,9 @@
     "method": "git",
     "tags": [
       "uf2",
-      "microcontroller"
+      "microcontroller",
+      "usb",
+      "flashing"
     ],
     "description": "A uf2 library for nim.",
     "license": "MIT",
