@@ -29147,5 +29147,17 @@
     "description": "Seq selector in CLI",
     "license": "MIT",
     "web": "https://github.com/z-kk/cliSeqSelector"
+  },
+  {
+    "name": "primes",
+    "url": "https://github.com/wokibe/primes",
+    "method": "git",
+    "tags": [
+      "primes",
+      "is_prime"
+    ],
+    "description": "Utilities for prime numbers",
+    "license": "MIT",
+    "web": "https://github.com/wokibe/primes"
   }
 ]
