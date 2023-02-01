@@ -28733,5 +28733,19 @@
     "license": "MIT",
     "web": "https://github.com/ire4ever1190/ponairi",
     "doc": "https://tempdocs.netlify.app/ponairi/stable"
+  },
+  {
+    "name": "uf2lib",
+    "url": "https://github.com/patrick-skamarak/uf2lib",
+    "method": "git",
+    "tags": [
+      "uf2",
+      "microcontroller",
+      "usb",
+      "flashing"
+    ],
+    "description": "A uf2 library for nim.",
+    "license": "MIT",
+    "web": "https://github.com/patrick-skamarak/uf2lib"
   }
 ]
