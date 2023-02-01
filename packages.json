@@ -1,5 +1,26 @@
 [
   {
+    "name": "uing",
+    "url": "https://github.com/neroist/uing",
+    "method": "git",
+    "tags": [
+      "ui",
+      "gui",
+      "library",
+      "wrapper",
+      "libui",
+      "libui-ng",
+      "linux",
+      "windows",
+      "macosx",
+      "cross-platform"
+    ],
+    "description": "Bindings for the libui-ng C library. Fork of ui.",
+    "license": "MIT",
+    "doc": "https://neroist.github.io/uing",
+    "web": "https://github.com/neroist/uing"
+  },
+  {
     "name": "testdiff",
     "url": "https://github.com/geotre/testdiff",
     "method": "git",
