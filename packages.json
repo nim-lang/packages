@@ -28747,5 +28747,26 @@
     "description": "A uf2 library for nim.",
     "license": "MIT",
     "web": "https://github.com/patrick-skamarak/uf2lib"
+  },
+  {
+    "name": "simple_parseopt",
+    "url": "https://github.com/onelivesleft/simple_parseopt",
+    "method": "git",
+    "tags": [
+      "parseopt",
+      "command",
+      "line",
+      "simple",
+      "option",
+      "argument",
+      "parameter",
+      "options",
+      "arguments",
+      "parameters",
+      "library"
+    ],
+    "description": "Nim module which provides clean, zero-effort command line parsing.",
+    "license": "MIT",
+    "web": "https://github.com/onelivesleft/simple_parseopt"
   }
 ]
