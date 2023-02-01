@@ -28712,5 +28712,19 @@
     "license": "MIT",
     "web": "https://github.com/ire4ever1190/ponairi",
     "doc": "https://tempdocs.netlify.app/ponairi/stable"
+  },
+  {
+    "name": "cliSeqSelector",
+    "url": "https://github.com/z-kk/cliSeqSelector",
+    "method": "git",
+    "tags": [
+      "cli",
+      "console",
+      "selector",
+      "combo"
+    ],
+    "description": "Seq selector in CLI",
+    "license": "MIT",
+    "web": "https://github.com/z-kk/cliSeqSelector"
   }
 ]
