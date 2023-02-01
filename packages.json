@@ -29133,5 +29133,19 @@
     "description": "Binding for libspinners an elegant terminal spinners",
     "license": "MIT",
     "web": "https://github.com/thechampagne/libspinners-nim"
+  },
+  {
+    "name": "cliSeqSelector",
+    "url": "https://github.com/z-kk/cliSeqSelector",
+    "method": "git",
+    "tags": [
+      "cli",
+      "console",
+      "selector",
+      "combo"
+    ],
+    "description": "Seq selector in CLI",
+    "license": "MIT",
+    "web": "https://github.com/z-kk/cliSeqSelector"
   }
 ]
