@@ -28775,5 +28775,16 @@
     "description": "A simple library with a simple interface to do password hashing and validation with different algorithms",
     "license": "MIT",
     "web": "https://github.com/PhilippMDoerner/nimword"
+  },
+  {
+    "name": "spinners",
+    "url": "https://github.com/thechampagne/libspinners-nim",
+    "method": "git",
+    "tags": [
+      "spinners"
+    ],
+    "description": "Binding for libspinners an elegant terminal spinners",
+    "license": "MIT",
+    "web": "https://github.com/thechampagne/libspinners-nim"
   }
 ]
