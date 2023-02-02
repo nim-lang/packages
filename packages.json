@@ -28747,5 +28747,16 @@
     "description": "A uf2 library for nim.",
     "license": "MIT",
     "web": "https://github.com/patrick-skamarak/uf2lib"
+  },
+  {
+    "name": "colortest",
+    "url": "https://github.com/z-kk/colortest",
+    "method": "git",
+    "tags": [
+      "colortest"
+    ],
+    "description": "color test program",
+    "license": "MIT",
+    "web": "https://github.com/z-kk/colortest"
   }
 ]
