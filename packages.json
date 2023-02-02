@@ -29122,5 +29122,16 @@
     "description": "Simple cert generator for local development.",
     "license": "BSD-3-Clause",
     "web": "https://github.com/vandot/locert"
+  },
+  {
+    "name": "spinners",
+    "url": "https://github.com/thechampagne/libspinners-nim",
+    "method": "git",
+    "tags": [
+      "spinners"
+    ],
+    "description": "Binding for libspinners an elegant terminal spinners",
+    "license": "MIT",
+    "web": "https://github.com/thechampagne/libspinners-nim"
   }
 ]
