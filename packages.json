@@ -28753,8 +28753,27 @@
     "url": "https://github.com/ilmanzo/containertools",
     "license": "GPL-3.0",
     "method": "git",
-    "tags": [ "dsl", "container" ],
+    "tags": [
+      "dsl",
+      "container"
+    ],
     "description": "a library and a DSL to handle container spec files",
     "web": "https://github.com/ilmanzo/containertools"
+  },
+  {
+    "name": "nimword",
+    "url": "https://github.com/PhilippMDoerner/nimword",
+    "method": "git",
+    "tags": [
+      "hashing",
+      "password",
+      "libsodium",
+      "openssl",
+      "argon2",
+      "pbkdf2"
+    ],
+    "description": "A simple library with a simple interface to do password hashing and validation with different algorithms",
+    "license": "MIT",
+    "web": "https://github.com/PhilippMDoerner/nimword"
   }
 ]
