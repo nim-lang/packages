@@ -28775,5 +28775,17 @@
     "description": "A simple library with a simple interface to do password hashing and validation with different algorithms",
     "license": "MIT",
     "web": "https://github.com/PhilippMDoerner/nimword"
+  },
+  {
+    "name": "containertools",
+    "url": "https://github.com/ilmanzo/containertools",
+    "method": "git",
+    "tags": [
+      "DSL",
+      "CONTAINER"
+    ],
+    "description": "A library to handle container file",
+    "license": "GPL-3.0",
+    "web": "https://github.com/ilmanzo/containertools"
   }
 ]
