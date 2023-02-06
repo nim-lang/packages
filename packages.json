@@ -28802,5 +28802,22 @@
     "description": "Playdate Nim bindings with extra features.",
     "license": "MIT",
     "web": "https://github.com/samdze/playdate-nim"
+  },
+  {
+    "name": "find",
+    "url": "https://github.com/openpeep/find",
+    "method": "git",
+    "tags": [
+      "files",
+      "finder",
+      "find",
+      "iterator",
+      "file",
+      "filesystem",
+      "fs"
+    ],
+    "description": "Finds files and directories based on different criteria via an intuitive fluent interface",
+    "license": "MIT",
+    "web": "https://github.com/openpeep/find"
   }
 ]
