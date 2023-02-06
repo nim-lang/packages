@@ -28819,5 +28819,20 @@
     "description": "Finds files and directories based on different criteria via an intuitive fluent interface",
     "license": "MIT",
     "web": "https://github.com/openpeep/find"
+  },
+  {
+    "name": "valido",
+    "url": "https://github.com/openpeep/valido",
+    "method": "git",
+    "tags": [
+      "validation",
+      "strings",
+      "validator",
+      "input",
+      "sanitizer"
+    ],
+    "description": "A library of string validators and sanitizers.",
+    "license": "MIT",
+    "web": "https://github.com/openpeep/valido"
   }
 ]
