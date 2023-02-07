@@ -29109,5 +29109,18 @@
     "description": "Runned is a simple tool to check the execution time of terminal commands.",
     "license": "MIT",
     "web": "https://github.com/Gael-Lopes-Da-Silva/Runned"
+  },
+  {
+    "name": "locert",
+    "url": "https://github.com/vandot/locert",
+    "method": "git",
+    "tags": [
+      "cert",
+      "ca",
+      "developer-tools"
+    ],
+    "description": "Simple cert generator for local development.",
+    "license": "BSD-3-Clause",
+    "web": "https://github.com/vandot/locert"
   }
 ]
