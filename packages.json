@@ -28864,5 +28864,19 @@
     "description": "Ratel library for the LIS3DHTR 3-axis accelerometer",
     "license": "MIT",
     "web": "https://github.com/garrettkinman/ratel-LIS3DHTR"
+  },
+  {
+    "name": "bag",
+    "url": "https://github.com/openpeep/bag",
+    "method": "git",
+    "tags": [
+      "form",
+      "validation",
+      "input",
+      "input-validation"
+    ],
+    "description": "Validate HTTP input data in a fancy way",
+    "license": "MIT",
+    "web": "https://github.com/openpeep/bag"
   }
 ]
