@@ -28834,5 +28834,20 @@
     "description": "A library of string validators and sanitizers.",
     "license": "MIT",
     "web": "https://github.com/openpeep/valido"
+  },
+  {
+    "name": "elfcore",
+    "url": "https://github.com/patrick-skamarak/elflib",
+    "method": "git",
+    "tags": [
+      "elf",
+      "executable",
+      "linking",
+      "format",
+      "binary"
+    ],
+    "description": "An elf file library for nim",
+    "license": "MIT",
+    "web": "https://github.com/patrick-skamarak/elflib"
   }
 ]
