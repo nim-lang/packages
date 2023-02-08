@@ -28864,5 +28864,24 @@
     "description": "Ratel library for the LIS3DHTR 3-axis accelerometer",
     "license": "MIT",
     "web": "https://github.com/garrettkinman/ratel-LIS3DHTR"
+  },
+  {
+    "name": "spriterot",
+    "url": "https://github.com/samdze/spriterot",
+    "method": "git",
+    "tags": [
+      "gamedev",
+      "image",
+      "sprite",
+      "spritesheet",
+      "game",
+      "cli",
+      "command",
+      "tool",
+      "binary"
+    ],
+    "description": "Command line utility to create spritesheets of rotated sprites.",
+    "license": "MIT",
+    "web": "https://github.com/samdze/spriterot"
   }
 ]
