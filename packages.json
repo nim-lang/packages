@@ -28878,5 +28878,21 @@
     "description": "Validate HTTP input data in a fancy way",
     "license": "MIT",
     "web": "https://github.com/openpeep/bag"
+  },
+  {
+    "name": "labeledtypes",
+    "url": "https://github.com/hamidb80/labeledtypes",
+    "method": "git",
+    "tags": [
+      "label",
+      "labeling",
+      "type",
+      "types",
+      "annonation",
+      "macro"
+    ],
+    "description": "label your types - a convention for self-documented and more readable code",
+    "license": "MIT",
+    "web": "https://github.com/hamidb80/labeledtypes"
   }
 ]
