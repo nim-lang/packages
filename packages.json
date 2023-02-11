@@ -28894,5 +28894,22 @@
     "description": "label your types - a convention for self-documented and more readable code",
     "license": "MIT",
     "web": "https://github.com/hamidb80/labeledtypes"
+  },
+  {
+    "name": "iconim",
+    "url": "https://github.com/openpeep/iconim",
+    "method": "git",
+    "tags": [
+      "svg",
+      "icons",
+      "icon",
+      "svg-icons",
+      "serverside",
+      "rendering",
+      "icons-manager"
+    ],
+    "description": "SVG icon library manager for server-side rendering",
+    "license": "MIT",
+    "web": "https://github.com/openpeep/iconim"
   }
 ]
