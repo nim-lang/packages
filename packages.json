@@ -28911,5 +28911,17 @@
     "description": "SVG icon library manager for server-side rendering",
     "license": "MIT",
     "web": "https://github.com/openpeep/iconim"
+  },
+  {
+    "name": "NimProtect",
+    "url": "https://github.com/itaymigdal/NimProtect",
+    "method": "git",
+    "tags": [
+      "Encryption",
+      "Obfuscation"
+    ],
+    "description": "NimProtect is a tiny single-macro library for protecting sensitive strings in compiled binaries",
+    "license": "MIT",
+    "web": "https://github.com/itaymigdal/NimProtect"
   }
 ]
