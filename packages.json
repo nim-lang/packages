@@ -29093,5 +29093,21 @@
     "license": "MIT",
     "web": "https://github.com/gabbhack/sam_protocol",
     "doc": "https://gabb.eu.org/sam_protocol"
+  },
+  {
+    "name": "Runned",
+    "url": "https://github.com/Gael-Lopes-Da-Silva/Runned",
+    "method": "git",
+    "tags": [
+      "runned",
+      "time",
+      "ptime",
+      "executiontime",
+      "execution-time",
+      "execution_time"
+    ],
+    "description": "Runned is a simple tool to check the execution time of terminal commands.",
+    "license": "MIT",
+    "web": "https://github.com/Gael-Lopes-Da-Silva/Runned"
   }
 ]
