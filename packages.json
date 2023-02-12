@@ -28911,5 +28911,21 @@
     "description": "SVG icon library manager for server-side rendering",
     "license": "MIT",
     "web": "https://github.com/openpeep/iconim"
+  },
+  {
+    "name": "Runned",
+    "url": "https://github.com/Gael-Lopes-Da-Silva/Runned",
+    "method": "git",
+    "tags": [
+      "runned",
+      "time",
+      "ptime",
+      "executiontime",
+      "execution-time",
+      "execution_time"
+    ],
+    "description": "Runned is a simple tool to check the execution time of terminal commands.",
+    "license": "MIT",
+    "web": "https://github.com/Gael-Lopes-Da-Silva/Runned"
   }
 ]
