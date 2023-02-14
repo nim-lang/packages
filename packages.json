@@ -29245,5 +29245,17 @@
     "description": "Library to build command-line interfaces.",
     "license": "MIT",
     "web": "https://github.com/moigagoo/climate"
+  },
+  {
+    "name": "nimprotect",
+    "url": "https://github.com/itaymigdal/NimProtect",
+    "method": "git",
+    "tags": [
+      "Encryption",
+      "Obfuscation"
+    ],
+    "description": "NimProtect is a tiny single-macro library for protecting sensitive strings in compiled binaries",
+    "license": "MIT",
+    "web": "https://github.com/itaymigdal/NimProtect"
   }
 ]
