@@ -28911,5 +28911,17 @@
     "description": "SVG icon library manager for server-side rendering",
     "license": "MIT",
     "web": "https://github.com/openpeep/iconim"
+  },
+  {
+    "name": "bezier",
+    "url": "https://github.com/Nycto/bezier-nim",
+    "method": "git",
+    "tags": [
+      "bezier",
+      "curve"
+    ],
+    "description": "Bezier curves",
+    "license": "Apache-2.0",
+    "web": "https://github.com/Nycto/bezier-nim"
   }
 ]
