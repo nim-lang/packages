@@ -28911,5 +28911,17 @@
     "description": "SVG icon library manager for server-side rendering",
     "license": "MIT",
     "web": "https://github.com/openpeep/iconim"
+  },
+  {
+    "name": "jsonfmt",
+    "url": "https://github.com/fkdosilovic/jsonfmt",
+    "method": "git",
+    "tags": [
+      "json",
+      "cli"
+    ],
+    "description": "Ridiculously simple and effective JSON formatter.",
+    "license": "MIT",
+    "web": "https://github.com/fkdosilovic/jsonfmt"
   }
 ]
