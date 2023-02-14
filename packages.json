@@ -29215,5 +29215,17 @@
     "license": "Apache-2.0",
     "web": "https://metacall.io",
     "doc": "https://github.com/metacall/core/blob/develop/source/ports/nim_port/README.md"
+  },
+  {
+    "name": "jsonfmt",
+    "url": "https://github.com/fkdosilovic/jsonfmt",
+    "method": "git",
+    "tags": [
+      "json",
+      "cli"
+    ],
+    "description": "Ridiculously simple and effective JSON formatter.",
+    "license": "MIT",
+    "web": "https://github.com/fkdosilovic/jsonfmt"
   }
 ]
