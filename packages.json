@@ -28926,5 +28926,16 @@
     "description": "Low level db_sqlite and db_postgres forks with a proper typing",
     "license": "MIT",
     "web": "https://github.com/PhilippMDoerner/lowdb"
+  },
+  {
+    "name": "sam_protocol",
+    "url": "https://github.com/gabbhack/sam_protocol",
+    "method": "git",
+    "tags": [
+      "i2p"
+    ],
+    "description": "I2P SAM Protocol without any IO",
+    "license": "MIT",
+    "web": "https://github.com/gabbhack/sam_protocol"
   }
 ]
