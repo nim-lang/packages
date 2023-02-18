@@ -28911,5 +28911,20 @@
     "description": "SVG icon library manager for server-side rendering",
     "license": "MIT",
     "web": "https://github.com/openpeep/iconim"
+  },
+  {
+    "name": "lowdb",
+    "url": "https://github.com/PhilippMDoerner/lowdb",
+    "method": "git",
+    "tags": [
+      "sqlite",
+      "postgres",
+      "database",
+      "binding",
+      "library"
+    ],
+    "description": "Low level db_sqlite and db_postgres forks with a proper typing",
+    "license": "MIT",
+    "web": "https://github.com/PhilippMDoerner/lowdb"
   }
 ]
