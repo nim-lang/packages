@@ -28913,6 +28913,21 @@
     "web": "https://github.com/openpeep/iconim"
   },
   {
+    "name": "lowdb",
+    "url": "https://github.com/PhilippMDoerner/lowdb",
+    "method": "git",
+    "tags": [
+      "sqlite",
+      "postgres",
+      "database",
+      "binding",
+      "library"
+    ],
+    "description": "Low level db_sqlite and db_postgres forks with a proper typing",
+    "license": "MIT",
+    "web": "https://github.com/PhilippMDoerner/lowdb"
+  },
+  {
     "name": "bezier",
     "url": "https://github.com/Nycto/bezier-nim",
     "method": "git",
@@ -28920,7 +28935,7 @@
       "bezier",
       "curve"
     ],
-    "description": "Bezier curves",
+    "description": "Bezier curve tools",
     "license": "Apache-2.0",
     "web": "https://github.com/Nycto/bezier-nim"
   }
