@@ -28926,5 +28926,20 @@
     "description": "Low level db_sqlite and db_postgres forks with a proper typing",
     "license": "MIT",
     "web": "https://github.com/PhilippMDoerner/lowdb"
+  },
+  {
+    "name": "kroutes",
+    "url": "https://github.com/ryukoposting/kroutes",
+    "method": "git",
+    "tags": [
+      "karax",
+      "router",
+      "frontend",
+      "routing",
+      "webapp"
+    ],
+    "description": "Karax router supporting both client-side and server-side rendering",
+    "license": "MIT",
+    "web": "https://github.com/ryukoposting/kroutes"
   }
 ]
