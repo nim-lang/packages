@@ -28941,5 +28941,21 @@
     "description": "Karax router supporting both client-side and server-side rendering",
     "license": "MIT",
     "web": "https://github.com/ryukoposting/kroutes"
+  },
+  {
+    "name": "nimtranslate2",
+    "url": "https://github.com/777shuang/nimtranslate2",
+    "method": "git",
+    "tags": [
+      "library",
+      "translate",
+      "linux",
+      "windows",
+      "macosx",
+      "cross-platform"
+    ],
+    "description": "A Nim library for translating text using Google Translate API.",
+    "license": "GPL-3.0-or-later",
+    "web": "https://github.com/777shuang/nimtranslate2"
   }
 ]
