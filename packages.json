@@ -28836,6 +28836,113 @@
     "web": "https://github.com/openpeep/valido"
   },
   {
+    "name": "elfcore",
+    "url": "https://github.com/patrick-skamarak/elflib",
+    "method": "git",
+    "tags": [
+      "elf",
+      "executable",
+      "linking",
+      "format",
+      "binary"
+    ],
+    "description": "An elf file library for nim",
+    "license": "MIT",
+    "web": "https://github.com/patrick-skamarak/elflib"
+  },
+  {
+    "name": "lis3dhtr",
+    "url": "https://github.com/garrettkinman/ratel-LIS3DHTR",
+    "method": "git",
+    "tags": [
+      "library",
+      "embedded",
+      "accelerometer",
+      "sensor",
+      "ratel"
+    ],
+    "description": "Ratel library for the LIS3DHTR 3-axis accelerometer",
+    "license": "MIT",
+    "web": "https://github.com/garrettkinman/ratel-LIS3DHTR"
+  },
+  {
+    "name": "bag",
+    "url": "https://github.com/openpeep/bag",
+    "method": "git",
+    "tags": [
+      "form",
+      "validation",
+      "input",
+      "input-validation"
+    ],
+    "description": "Validate HTTP input data in a fancy way",
+    "license": "MIT",
+    "web": "https://github.com/openpeep/bag"
+  },
+  {
+    "name": "labeledtypes",
+    "url": "https://github.com/hamidb80/labeledtypes",
+    "method": "git",
+    "tags": [
+      "label",
+      "labeling",
+      "type",
+      "types",
+      "annonation",
+      "macro"
+    ],
+    "description": "label your types - a convention for self-documented and more readable code",
+    "license": "MIT",
+    "web": "https://github.com/hamidb80/labeledtypes"
+  },
+  {
+    "name": "iconim",
+    "url": "https://github.com/openpeep/iconim",
+    "method": "git",
+    "tags": [
+      "svg",
+      "icons",
+      "icon",
+      "svg-icons",
+      "serverside",
+      "rendering",
+      "icons-manager"
+    ],
+    "description": "SVG icon library manager for server-side rendering",
+    "license": "MIT",
+    "web": "https://github.com/openpeep/iconim"
+  },
+  {
+    "name": "lowdb",
+    "url": "https://github.com/PhilippMDoerner/lowdb",
+    "method": "git",
+    "tags": [
+      "sqlite",
+      "postgres",
+      "database",
+      "binding",
+      "library"
+    ],
+    "description": "Low level db_sqlite and db_postgres forks with a proper typing",
+    "license": "MIT",
+    "web": "https://github.com/PhilippMDoerner/lowdb"
+  },
+  {
+    "name": "kroutes",
+    "url": "https://github.com/ryukoposting/kroutes",
+    "method": "git",
+    "tags": [
+      "karax",
+      "router",
+      "frontend",
+      "routing",
+      "webapp"
+    ],
+    "description": "Karax router supporting both client-side and server-side rendering",
+    "license": "MIT",
+    "web": "https://github.com/ryukoposting/kroutes"
+  },
+  {
     "name": "locert",
     "url": "https://github.com/vandot/locert",
     "method": "git",
