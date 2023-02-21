@@ -28954,5 +28954,20 @@
     "description": "Nemini is a very basic Gemini server able to host static files and with virtual host support",
     "license": "AGPLv3",
     "web": "https://codeberg.org/pswilde/Nemini"
+  },
+  {
+    "name": "ni18n",
+    "url": "https://github.com/heinthanth/ni18n",
+    "method": "git",
+    "tags": [
+      "i18n",
+      "l10n",
+      "internationalization",
+      "localization",
+      "translation"
+    ],
+    "description": "Super Fast Nim Macros For Internationalization and Localization",
+    "license": "MIT",
+    "web": "https://github.com/heinthanth/ni18n"
   }
 ]
