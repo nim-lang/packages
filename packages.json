@@ -1,5 +1,18 @@
 [
   {
+    "name": "geolocation",
+    "url": "https://github.com/HazeCS/geolocation",
+    "method": "git",
+    "tags": [
+      "geolocation",
+      "geoip",
+      "geo",
+      "location"
+    ],
+    "description": "Retreive geolocation details from an IP",
+    "license": "MIT"
+  },
+  {
     "name": "uing",
     "url": "https://github.com/neroist/uing",
     "method": "git",
@@ -28969,5 +28982,17 @@
     "description": "Bible tools!",
     "license": "MIT",
     "web": "https://git.ozzuu.com/thisago/bibleTools"
+  },
+  {
+    "name": "bezier",
+    "url": "https://github.com/Nycto/bezier-nim",
+    "method": "git",
+    "tags": [
+      "bezier",
+      "curve"
+    ],
+    "description": "Bezier curve tools",
+    "license": "Apache-2.0",
+    "web": "https://github.com/Nycto/bezier-nim"
   }
 ]
