@@ -28954,5 +28954,18 @@
     "description": "Nemini is a very basic Gemini server able to host static files and with virtual host support",
     "license": "AGPLv3",
     "web": "https://codeberg.org/pswilde/Nemini"
+  },
+  {
+    "name": "nimx2",
+    "url": "https://github.com/777shuang/nimx2",
+    "method": "git",
+    "tags": [
+      "gui",
+      "library",
+      "cross-platform"
+    ],
+    "description": "GUI framework",
+    "license": "MIT",
+    "web": "https://github.com/777shuang/nimx2"
   }
 ]
