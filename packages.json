@@ -28967,5 +28967,17 @@
     "description": "Nemini is a very basic Gemini server able to host static files and with virtual host support",
     "license": "AGPLv3",
     "web": "https://codeberg.org/pswilde/Nemini"
+  },
+  {
+    "name": "bezier",
+    "url": "https://github.com/Nycto/bezier-nim",
+    "method": "git",
+    "tags": [
+      "bezier",
+      "curve"
+    ],
+    "description": "Bezier curve tools",
+    "license": "Apache-2.0",
+    "web": "https://github.com/Nycto/bezier-nim"
   }
 ]
