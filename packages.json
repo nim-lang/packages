@@ -28954,5 +28954,20 @@
     "description": "Nemini is a very basic Gemini server able to host static files and with virtual host support",
     "license": "AGPLv3",
     "web": "https://codeberg.org/pswilde/Nemini"
+  },
+  {
+    "name": "bibleTools",
+    "url": "https://git.ozzuu.com/thisago/bibleTools",
+    "method": "git",
+    "tags": [
+      "bible",
+      "tool",
+      "library",
+      "tools",
+      "text"
+    ],
+    "description": "Bible tools!",
+    "license": "MIT",
+    "web": "https://git.ozzuu.com/thisago/bibleTools"
   }
 ]
