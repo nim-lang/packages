@@ -1,5 +1,39 @@
 [
   {
+    "name": "uing",
+    "url": "https://github.com/neroist/uing",
+    "method": "git",
+    "tags": [
+      "ui",
+      "gui",
+      "library",
+      "wrapper",
+      "libui",
+      "libui-ng",
+      "linux",
+      "windows",
+      "macosx",
+      "cross-platform"
+    ],
+    "description": "Bindings for the libui-ng C library. Fork of ui.",
+    "license": "MIT",
+    "doc": "https://neroist.github.io/uing",
+    "web": "https://github.com/neroist/uing"
+  },
+  {
+    "name": "testdiff",
+    "url": "https://github.com/geotre/testdiff",
+    "method": "git",
+    "tags": [
+      "tests",
+      "testing",
+      "diff",
+      "difference"
+    ],
+    "description": "Simple utility for diffing values in tests.",
+    "license": "MIT"
+  },
+  {
     "name": "parlexgen",
     "url": "https://github.com/choltreppe/parlexgen",
     "method": "git",
@@ -28543,5 +28577,382 @@
     "description": "libsensors wrapper",
     "license": "MIT",
     "web": "https://github.com//inv2004/sensors"
+  },
+  {
+    "name": "subscribestar",
+    "url": "https://git.ozzuu.com/thisago/subscribestar",
+    "method": "git",
+    "tags": [
+      "web",
+      "library",
+      "scraper",
+      "data",
+      "extracting"
+    ],
+    "description": "Subscribestar extractor",
+    "license": "MIT",
+    "web": "https://git.ozzuu.com/thisago/subscribestar"
+  },
+  {
+    "name": "freedesktop_org",
+    "url": "https://git.sr.ht/~ehmry/freedesktop_org",
+    "method": "git",
+    "tags": [
+      "library",
+      "freedesktop"
+    ],
+    "description": "Library implementation of some Freedesktop.org standards",
+    "license": "Unlicense",
+    "web": "https://git.sr.ht/~ehmry/freedesktop_org"
+  },
+  {
+    "name": "fblib",
+    "url": "https://github.com/survivorm/fblib",
+    "method": "git",
+    "tags": [
+      "fb2",
+      "fictionbook",
+      "book",
+      "ebook",
+      "library",
+      "tools"
+    ],
+    "description": "FictionBook2 library and tools.",
+    "license": "MIT",
+    "web": "https://github.com/survivorm/fblib"
+  },
+  {
+    "name": "taps_coap",
+    "url": "https://codeberg.org/eris/coap-nim",
+    "method": "git",
+    "tags": [
+      "coap",
+      "library",
+      "protocol",
+      "taps"
+    ],
+    "description": "Pure Nim CoAP implementation",
+    "license": "agplv3",
+    "web": "https://codeberg.org/eris/coap-nim"
+  },
+  {
+    "name": "jwtea",
+    "url": "https://github.com/guzba/jwtea",
+    "method": "git",
+    "tags": [
+      "jwt",
+      "hmac",
+      "rsa"
+    ],
+    "description": "Brew JSON Web Tokens in pure Nim",
+    "license": "MIT",
+    "web": "https://github.com/guzba/jwtea"
+  },
+  {
+    "name": "enkodo",
+    "url": "https://github.com/hortinstein/enkodo",
+    "method": "git",
+    "tags": [
+      "monocypher",
+      "encryption",
+      "javascript"
+    ],
+    "description": "A cross platform encyption and serialization library",
+    "license": "MIT",
+    "web": "https://github.com/hortinstein/enkodo"
+  },
+  {
+    "name": "vikunja",
+    "url": "https://github.com/ruivieira/nim-vikunja",
+    "method": "git",
+    "tags": [
+      "client",
+      "rest",
+      "project-management"
+    ],
+    "description": "Nim REST client to Vikunja",
+    "license": "apache 2.0",
+    "web": "https://github.com/ruivieira/nim-vikunja"
+  },
+  {
+    "name": "ffmpeg_cli",
+    "url": "https://git.termer.net/termer/nim-ffmpeg-cli",
+    "method": "git",
+    "tags": [
+      "ffmpeg",
+      "media",
+      "encoder",
+      "audio",
+      "video",
+      "nim",
+      "cli"
+    ],
+    "description": "Nim library for interfacing with the FFmpeg CLI to start, observe and terminate encode jobs with an intuitive API",
+    "license": "MIT",
+    "web": "https://git.termer.net/termer/nim-ffmpeg-cli"
+  },
+  {
+    "name": "ready",
+    "url": "https://github.com/guzba/ready",
+    "method": "git",
+    "tags": [
+      "redis"
+    ],
+    "description": "A Redis client for multi-threaded servers",
+    "license": "MIT",
+    "web": "https://github.com/guzba/ready"
+  },
+  {
+    "name": "nimblex",
+    "url": "https://github.com/jjv360/nimblex",
+    "method": "git",
+    "tags": [
+      "run",
+      "cli",
+      "package",
+      "npx",
+      "runner",
+      "command",
+      "line",
+      "installer"
+    ],
+    "description": "Run command line tools directly from the Nimble Directory",
+    "license": "MIT",
+    "web": "https://github.com/jjv360/nimblex"
+  },
+  {
+    "name": "ponairi",
+    "url": "https://github.com/ire4ever1190/ponairi",
+    "method": "git",
+    "tags": [
+      "orm",
+      "sql",
+      "sqlite"
+    ],
+    "description": "Simple ORM for SQLite that can perform CRUD operations",
+    "license": "MIT",
+    "web": "https://github.com/ire4ever1190/ponairi",
+    "doc": "https://tempdocs.netlify.app/ponairi/stable"
+  },
+  {
+    "name": "uf2lib",
+    "url": "https://github.com/patrick-skamarak/uf2lib",
+    "method": "git",
+    "tags": [
+      "uf2",
+      "microcontroller",
+      "usb",
+      "flashing"
+    ],
+    "description": "A uf2 library for nim.",
+    "license": "MIT",
+    "web": "https://github.com/patrick-skamarak/uf2lib"
+  },
+  {
+    "name": "containertools",
+    "url": "https://github.com/ilmanzo/containertools",
+    "license": "GPL-3.0",
+    "method": "git",
+    "tags": [
+      "dsl",
+      "container"
+    ],
+    "description": "a library and a DSL to handle container spec files",
+    "web": "https://github.com/ilmanzo/containertools"
+  },
+  {
+    "name": "nimword",
+    "url": "https://github.com/PhilippMDoerner/nimword",
+    "method": "git",
+    "tags": [
+      "hashing",
+      "password",
+      "libsodium",
+      "openssl",
+      "argon2",
+      "pbkdf2"
+    ],
+    "description": "A simple library with a simple interface to do password hashing and validation with different algorithms",
+    "license": "MIT",
+    "web": "https://github.com/PhilippMDoerner/nimword"
+  },
+  {
+    "name": "micros",
+    "url": "https://github.com/beef331/micros",
+    "method": "git",
+    "tags": [
+      "macros"
+    ],
+    "description": "A library that makes macros much easier, one might even say makes them micros.",
+    "license": "MIT",
+    "web": "https://github.com/beef331/micros"
+  },
+  {
+    "name": "playdate",
+    "url": "https://github.com/samdze/playdate-nim",
+    "method": "git",
+    "tags": [
+      "playdate",
+      "bindings",
+      "wrapper",
+      "game",
+      "sdk",
+      "gamedev"
+    ],
+    "description": "Playdate Nim bindings with extra features.",
+    "license": "MIT",
+    "web": "https://github.com/samdze/playdate-nim"
+  },
+  {
+    "name": "find",
+    "url": "https://github.com/openpeep/find",
+    "method": "git",
+    "tags": [
+      "files",
+      "finder",
+      "find",
+      "iterator",
+      "file",
+      "filesystem",
+      "fs"
+    ],
+    "description": "Finds files and directories based on different criteria via an intuitive fluent interface",
+    "license": "MIT",
+    "web": "https://github.com/openpeep/find"
+  },
+  {
+    "name": "valido",
+    "url": "https://github.com/openpeep/valido",
+    "method": "git",
+    "tags": [
+      "validation",
+      "strings",
+      "validator",
+      "input",
+      "sanitizer"
+    ],
+    "description": "A library of string validators and sanitizers.",
+    "license": "MIT",
+    "web": "https://github.com/openpeep/valido"
+  },
+  {
+    "name": "elfcore",
+    "url": "https://github.com/patrick-skamarak/elflib",
+    "method": "git",
+    "tags": [
+      "elf",
+      "executable",
+      "linking",
+      "format",
+      "binary"
+    ],
+    "description": "An elf file library for nim",
+    "license": "MIT",
+    "web": "https://github.com/patrick-skamarak/elflib"
+  },
+  {
+    "name": "lis3dhtr",
+    "url": "https://github.com/garrettkinman/ratel-LIS3DHTR",
+    "method": "git",
+    "tags": [
+      "library",
+      "embedded",
+      "accelerometer",
+      "sensor",
+      "ratel"
+    ],
+    "description": "Ratel library for the LIS3DHTR 3-axis accelerometer",
+    "license": "MIT",
+    "web": "https://github.com/garrettkinman/ratel-LIS3DHTR"
+  },
+  {
+    "name": "bag",
+    "url": "https://github.com/openpeep/bag",
+    "method": "git",
+    "tags": [
+      "form",
+      "validation",
+      "input",
+      "input-validation"
+    ],
+    "description": "Validate HTTP input data in a fancy way",
+    "license": "MIT",
+    "web": "https://github.com/openpeep/bag"
+  },
+  {
+    "name": "labeledtypes",
+    "url": "https://github.com/hamidb80/labeledtypes",
+    "method": "git",
+    "tags": [
+      "label",
+      "labeling",
+      "type",
+      "types",
+      "annonation",
+      "macro"
+    ],
+    "description": "label your types - a convention for self-documented and more readable code",
+    "license": "MIT",
+    "web": "https://github.com/hamidb80/labeledtypes"
+  },
+  {
+    "name": "iconim",
+    "url": "https://github.com/openpeep/iconim",
+    "method": "git",
+    "tags": [
+      "svg",
+      "icons",
+      "icon",
+      "svg-icons",
+      "serverside",
+      "rendering",
+      "icons-manager"
+    ],
+    "description": "SVG icon library manager for server-side rendering",
+    "license": "MIT",
+    "web": "https://github.com/openpeep/iconim"
+  },
+  {
+    "name": "lowdb",
+    "url": "https://github.com/PhilippMDoerner/lowdb",
+    "method": "git",
+    "tags": [
+      "sqlite",
+      "postgres",
+      "database",
+      "binding",
+      "library"
+    ],
+    "description": "Low level db_sqlite and db_postgres forks with a proper typing",
+    "license": "MIT",
+    "web": "https://github.com/PhilippMDoerner/lowdb"
+  },
+  {
+    "name": "kroutes",
+    "url": "https://github.com/ryukoposting/kroutes",
+    "method": "git",
+    "tags": [
+      "karax",
+      "router",
+      "frontend",
+      "routing",
+      "webapp"
+    ],
+    "description": "Karax router supporting both client-side and server-side rendering",
+    "license": "MIT",
+    "web": "https://github.com/ryukoposting/kroutes"
+  },
+  {
+    "name": "nemini",
+    "url": "https://codeberg.org/pswilde/Nemini",
+    "method": "git",
+    "tags": [
+      "gemini",
+      "web servers",
+      "backend"
+    ],
+    "description": "Nemini is a very basic Gemini server able to host static files and with virtual host support",
+    "license": "AGPLv3",
+    "web": "https://codeberg.org/pswilde/Nemini"
   }
 ]
