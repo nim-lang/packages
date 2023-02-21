@@ -29063,5 +29063,23 @@
     "description": "Super Fast Nim Macros For Internationalization and Localization",
     "license": "MIT",
     "web": "https://github.com/heinthanth/ni18n"
+  },
+  {
+    "name": "versicles",
+    "url": "https://git.ozzuu.com/thisago/versicles",
+    "method": "git",
+    "tags": [
+      "bible",
+      "verses",
+      "versicles",
+      "scriptures",
+      "markdown",
+      "tool",
+      "cli",
+      "library"
+    ],
+    "description": "Lib and CLI tool to manipulate biblical verses!",
+    "license": "MIT",
+    "web": "https://git.ozzuu.com/thisago/versicles"
   }
 ]
