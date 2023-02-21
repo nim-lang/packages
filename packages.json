@@ -29048,5 +29048,20 @@
     "description": "A compact notation for math that transpiles to LaTeX",
     "license": "GPL-3.0-or-later",
     "web": "https://xigoi.srht.site/heine/"
+  },
+  {
+    "name": "ni18n",
+    "url": "https://github.com/heinthanth/ni18n",
+    "method": "git",
+    "tags": [
+      "i18n",
+      "l10n",
+      "internationalization",
+      "localization",
+      "translation"
+    ],
+    "description": "Super Fast Nim Macros For Internationalization and Localization",
+    "license": "MIT",
+    "web": "https://github.com/heinthanth/ni18n"
   }
 ]
