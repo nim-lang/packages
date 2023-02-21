@@ -28928,6 +28928,34 @@
     "web": "https://github.com/PhilippMDoerner/lowdb"
   },
   {
+    "name": "kroutes",
+    "url": "https://github.com/ryukoposting/kroutes",
+    "method": "git",
+    "tags": [
+      "karax",
+      "router",
+      "frontend",
+      "routing",
+      "webapp"
+    ],
+    "description": "Karax router supporting both client-side and server-side rendering",
+    "license": "MIT",
+    "web": "https://github.com/ryukoposting/kroutes"
+  },
+  {
+    "name": "nemini",
+    "url": "https://codeberg.org/pswilde/Nemini",
+    "method": "git",
+    "tags": [
+      "gemini",
+      "web servers",
+      "backend"
+    ],
+    "description": "Nemini is a very basic Gemini server able to host static files and with virtual host support",
+    "license": "AGPLv3",
+    "web": "https://codeberg.org/pswilde/Nemini"
+  },
+  {
     "name": "bezier",
     "url": "https://github.com/Nycto/bezier-nim",
     "method": "git",
