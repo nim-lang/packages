@@ -1,5 +1,18 @@
 [
   {
+    "name": "geolocation",
+    "url": "https://github.com/HazeCS/geolocation",
+    "method": "git",
+    "tags": [
+      "geolocation",
+      "geoip",
+      "geo",
+      "location"
+    ],
+    "description": "Retreive geolocation details from an IP",
+    "license": "MIT"
+  },
+  {
     "name": "uing",
     "url": "https://github.com/neroist/uing",
     "method": "git",
@@ -18239,7 +18252,7 @@
   },
   {
     "name": "uri3",
-    "url": "https://github.com/zendbit/nim.uri3",
+    "url": "https://github.com/zendbit/nim_uri3",
     "method": "git",
     "tags": [
       "uri",
@@ -18248,7 +18261,7 @@
     ],
     "description": "nim.uri3 is a Nim module that provides improved way for working with URIs. It is based on the uri module in the Nim standard library and fork from nim-uri2",
     "license": "MIT",
-    "web": "https://github.com/zendbit/nim.uri3"
+    "web": "https://github.com/zendbit/nim_uri3"
   },
   {
     "name": "triplets",
@@ -18439,7 +18452,7 @@
   },
   {
     "name": "zfcore",
-    "url": "https://github.com/zendbit/nim.zfcore",
+    "url": "https://github.com/zendbit/nim_zfcore",
     "method": "git",
     "tags": [
       "web",
@@ -18450,7 +18463,7 @@
     ],
     "description": "zfcore is high performance asynchttpserver and web framework for nim lang",
     "license": "BSD",
-    "web": "https://github.com/zendbit/nim.zfcore"
+    "web": "https://github.com/zendbit/nim_zfcore"
   },
   {
     "name": "nimpress",
@@ -18512,7 +18525,7 @@
   },
   {
     "name": "zfblast",
-    "url": "https://github.com/zendbit/nim.zfblast",
+    "url": "https://github.com/zendbit/nim_zfblast",
     "method": "git",
     "tags": [
       "web",
@@ -18522,7 +18535,7 @@
     ],
     "description": "High performance http server (https://tools.ietf.org/html/rfc2616) with persistent connection for nim language.",
     "license": "BSD",
-    "web": "https://github.com/zendbit/nim.zfblast"
+    "web": "https://github.com/zendbit/nim_zfblast"
   },
   {
     "name": "paravim",
@@ -20283,7 +20296,7 @@
   },
   {
     "name": "zfplugs",
-    "url": "https://github.com/zendbit/nim.zfplugs",
+    "url": "https://github.com/zendbit/nim_zfplugs",
     "method": "git",
     "tags": [
       "web",
@@ -20293,9 +20306,9 @@
       "asynchttpserver",
       "plugins"
     ],
-    "description": "This is the plugins for the zfcore framework https://github.com/zendbit/nim.zfcore",
+    "description": "This is the plugins for the zfcore framework https://github.com/zendbit/nim_zfcore",
     "license": "BSD",
-    "web": "https://github.com/zendbit/nim.zfplugs"
+    "web": "https://github.com/zendbit/nim_zfplugs"
   },
   {
     "name": "hldiff",
@@ -20646,7 +20659,7 @@
   },
   {
     "name": "nwatchdog",
-    "url": "https://github.com/zendbit/nim.nwatchdog",
+    "url": "https://github.com/zendbit/nim_nwatchdog",
     "method": "git",
     "tags": [
       "watchdog",
@@ -20655,7 +20668,7 @@
     ],
     "description": "Simple watchdog (watch file changes modified, deleted, created) in nim lang.",
     "license": "BSD",
-    "web": "https://github.com/zendbit/nim.nwatchdog"
+    "web": "https://github.com/zendbit/nim_nwatchdog"
   },
   {
     "name": "logue",
@@ -21786,7 +21799,7 @@
   },
   {
     "name": "stdext",
-    "url": "https://github.com/zendbit/nim.stdext",
+    "url": "https://github.com/zendbit/nim_stdext",
     "method": "git",
     "tags": [
       "stdlib",
@@ -21795,7 +21808,7 @@
     ],
     "description": "Extends stdlib make it easy on some case",
     "license": "BSD",
-    "web": "https://github.com/zendbit/nim.stdext"
+    "web": "https://github.com/zendbit/nim_stdext"
   },
   {
     "name": "AccurateSums",
@@ -24560,7 +24573,7 @@
   },
   {
     "name": "zfdbms",
-    "url": "https://github.com/zendbit/nim.zfdbms",
+    "url": "https://github.com/zendbit/nim_zfdbms",
     "method": "git",
     "tags": [
       "sql",
@@ -24574,8 +24587,8 @@
     ],
     "description": "Simple database generator, connector and query tools.",
     "license": "BSD",
-    "web": "https://github.com/zendbit/nim.zfdbms",
-    "doc": "https://github.com/zendbit/nim.zfdbms/blob/main/README.md"
+    "web": "https://github.com/zendbit/nim_zfdbms",
+    "doc": "https://github.com/zendbit/nim_zfdbms/blob/main/README.md"
   },
   {
     "name": "selenimum",
@@ -28508,7 +28521,7 @@
   },
   {
     "name": "couchdbapi",
-    "url": "https://github.com/zendbit/nim.couchdbapi",
+    "url": "https://github.com/zendbit/nim_couchdbapi",
     "method": "git",
     "tags": [
       "couchdb",
@@ -28519,11 +28532,11 @@
     ],
     "description": "Apache CouchDb driver (REST API) for nim lang.",
     "license": "BSD",
-    "web": "https://github.com/zendbit/nim.couchdbapi"
+    "web": "https://github.com/zendbit/nim_couchdbapi"
   },
   {
     "name": "yawd",
-    "url": "https://github.com/zendbit/nim.yawd",
+    "url": "https://github.com/zendbit/nim_yawd",
     "method": "git",
     "tags": [
       "webdriver",
@@ -28531,7 +28544,7 @@
     ],
     "description": "Yet Another WebDriver (YAWD) for nim lang.",
     "license": "BSD",
-    "web": "https://github.com/zendbit/nim.yawd"
+    "web": "https://github.com/zendbit/nim_yawd"
   },
   {
     "name": "simpledb",
@@ -28786,5 +28799,224 @@
     "description": "Binding for libspinners an elegant terminal spinners",
     "license": "MIT",
     "web": "https://github.com/thechampagne/libspinners-nim"
+  },
+  {
+    "name": "micros",
+    "url": "https://github.com/beef331/micros",
+    "method": "git",
+    "tags": [
+      "macros"
+    ],
+    "description": "A library that makes macros much easier, one might even say makes them micros.",
+    "license": "MIT",
+    "web": "https://github.com/beef331/micros"
+  },
+  {
+    "name": "playdate",
+    "url": "https://github.com/samdze/playdate-nim",
+    "method": "git",
+    "tags": [
+      "playdate",
+      "bindings",
+      "wrapper",
+      "game",
+      "sdk",
+      "gamedev"
+    ],
+    "description": "Playdate Nim bindings with extra features.",
+    "license": "MIT",
+    "web": "https://github.com/samdze/playdate-nim"
+  },
+  {
+    "name": "find",
+    "url": "https://github.com/openpeep/find",
+    "method": "git",
+    "tags": [
+      "files",
+      "finder",
+      "find",
+      "iterator",
+      "file",
+      "filesystem",
+      "fs"
+    ],
+    "description": "Finds files and directories based on different criteria via an intuitive fluent interface",
+    "license": "MIT",
+    "web": "https://github.com/openpeep/find"
+  },
+  {
+    "name": "valido",
+    "url": "https://github.com/openpeep/valido",
+    "method": "git",
+    "tags": [
+      "validation",
+      "strings",
+      "validator",
+      "input",
+      "sanitizer"
+    ],
+    "description": "A library of string validators and sanitizers.",
+    "license": "MIT",
+    "web": "https://github.com/openpeep/valido"
+  },
+  {
+    "name": "elfcore",
+    "url": "https://github.com/patrick-skamarak/elflib",
+    "method": "git",
+    "tags": [
+      "elf",
+      "executable",
+      "linking",
+      "format",
+      "binary"
+    ],
+    "description": "An elf file library for nim",
+    "license": "MIT",
+    "web": "https://github.com/patrick-skamarak/elflib"
+  },
+  {
+    "name": "lis3dhtr",
+    "url": "https://github.com/garrettkinman/ratel-LIS3DHTR",
+    "method": "git",
+    "tags": [
+      "library",
+      "embedded",
+      "accelerometer",
+      "sensor",
+      "ratel"
+    ],
+    "description": "Ratel library for the LIS3DHTR 3-axis accelerometer",
+    "license": "MIT",
+    "web": "https://github.com/garrettkinman/ratel-LIS3DHTR"
+  },
+  {
+    "name": "bag",
+    "url": "https://github.com/openpeep/bag",
+    "method": "git",
+    "tags": [
+      "form",
+      "validation",
+      "input",
+      "input-validation"
+    ],
+    "description": "Validate HTTP input data in a fancy way",
+    "license": "MIT",
+    "web": "https://github.com/openpeep/bag"
+  },
+  {
+    "name": "labeledtypes",
+    "url": "https://github.com/hamidb80/labeledtypes",
+    "method": "git",
+    "tags": [
+      "label",
+      "labeling",
+      "type",
+      "types",
+      "annonation",
+      "macro"
+    ],
+    "description": "label your types - a convention for self-documented and more readable code",
+    "license": "MIT",
+    "web": "https://github.com/hamidb80/labeledtypes"
+  },
+  {
+    "name": "iconim",
+    "url": "https://github.com/openpeep/iconim",
+    "method": "git",
+    "tags": [
+      "svg",
+      "icons",
+      "icon",
+      "svg-icons",
+      "serverside",
+      "rendering",
+      "icons-manager"
+    ],
+    "description": "SVG icon library manager for server-side rendering",
+    "license": "MIT",
+    "web": "https://github.com/openpeep/iconim"
+  },
+  {
+    "name": "lowdb",
+    "url": "https://github.com/PhilippMDoerner/lowdb",
+    "method": "git",
+    "tags": [
+      "sqlite",
+      "postgres",
+      "database",
+      "binding",
+      "library"
+    ],
+    "description": "Low level db_sqlite and db_postgres forks with a proper typing",
+    "license": "MIT",
+    "web": "https://github.com/PhilippMDoerner/lowdb"
+  },
+  {
+    "name": "kroutes",
+    "url": "https://github.com/ryukoposting/kroutes",
+    "method": "git",
+    "tags": [
+      "karax",
+      "router",
+      "frontend",
+      "routing",
+      "webapp"
+    ],
+    "description": "Karax router supporting both client-side and server-side rendering",
+    "license": "MIT",
+    "web": "https://github.com/ryukoposting/kroutes"
+  },
+  {
+    "name": "nemini",
+    "url": "https://codeberg.org/pswilde/Nemini",
+    "method": "git",
+    "tags": [
+      "gemini",
+      "web servers",
+      "backend"
+    ],
+    "description": "Nemini is a very basic Gemini server able to host static files and with virtual host support",
+    "license": "AGPLv3",
+    "web": "https://codeberg.org/pswilde/Nemini"
+  },
+  {
+    "name": "nimx2",
+    "url": "https://github.com/777shuang/nimx2",
+    "method": "git",
+    "tags": [
+      "gui",
+      "library",
+      "cross-platform"
+    ],
+    "description": "GUI framework",
+    "license": "MIT",
+    "web": "https://github.com/777shuang/nimx2"
+  },
+  {
+    "name": "bibleTools",
+    "url": "https://git.ozzuu.com/thisago/bibleTools",
+    "method": "git",
+    "tags": [
+      "bible",
+      "tool",
+      "library",
+      "tools",
+      "text"
+    ],
+    "description": "Bible tools!",
+    "license": "MIT",
+    "web": "https://git.ozzuu.com/thisago/bibleTools"
+  },
+  {
+    "name": "bezier",
+    "url": "https://github.com/Nycto/bezier-nim",
+    "method": "git",
+    "tags": [
+      "bezier",
+      "curve"
+    ],
+    "description": "Bezier curve tools",
+    "license": "Apache-2.0",
+    "web": "https://github.com/Nycto/bezier-nim"
   }
 ]
