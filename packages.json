@@ -29007,5 +29007,18 @@
     "description": "Bezier curve tools",
     "license": "Apache-2.0",
     "web": "https://github.com/Nycto/bezier-nim"
+  },
+  {
+    "name": "heine",
+    "url": "https://git.sr.ht/~xigoi/heine",
+    "method": "git",
+    "tags": [
+      "math",
+      "latex",
+      "language"
+    ],
+    "description": "A compact notation for math that transpiles to LaTeX",
+    "license": "GPL-3.0-or-later",
+    "web": "https://git.sr.ht/~xigoi/heine"
   }
 ]
