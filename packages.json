@@ -29019,6 +29019,6 @@
     ],
     "description": "A compact notation for math that transpiles to LaTeX",
     "license": "GPL-3.0-or-later",
-    "web": "https://git.sr.ht/~xigoi/heine"
+    "web": "https://xigoi.srht.site/heine/"
   }
 ]
