@@ -29007,5 +29007,18 @@
     "description": "Bezier curve tools",
     "license": "Apache-2.0",
     "web": "https://github.com/Nycto/bezier-nim"
+  },
+  {
+    "name": "ants",
+    "url": "https://github.com/elcritch/ants",
+    "method": "git",
+    "tags": [
+      "yaml",
+      "markdown",
+      "configuration"
+    ],
+    "description": "ANT: statically typed configurations for Nim (and others)",
+    "license": "MIT",
+    "web": "https://github.com/elcritch/ants"
   }
 ]
