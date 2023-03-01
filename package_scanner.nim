@@ -181,7 +181,6 @@ proc check(): int =
 
       if pkg.hasKey("url"):
         let abandoned = abandonedTag in pkg["tags"].getElems
-        echo name, " ", abandoned
         if not (defined(dontFetchRepos) or abandoned):
           if not canFetchNimbleRepository(name, pkg["url"]):
             echo "W: Failed to fetch source code repo for ", name
