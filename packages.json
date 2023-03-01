@@ -29232,5 +29232,18 @@
     "description": "Ridiculously simple and effective JSON formatter.",
     "license": "MIT",
     "web": "https://github.com/fkdosilovic/jsonfmt"
+  },
+  {
+    "name": "climate",
+    "url": "https://github.com/moigagoo/climate",
+    "method": "git",
+    "tags": [
+      "cli",
+      "command-line",
+      "commandline"
+    ],
+    "description": "Library to build command-line interfaces.",
+    "license": "MIT",
+    "web": "https://github.com/moigagoo/climate"
   }
 ]
