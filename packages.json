@@ -29020,8 +29020,8 @@
     "description": "ANT: statically typed configurations for Nim (and others)",
     "license": "MIT",
     "web": "https://github.com/elcritch/ants"
-   },
-   {
+  },
+  {
     "name": "kraut",
     "url": "https://github.com/moigagoo/kraut",
     "method": "git",
@@ -29035,5 +29035,197 @@
     "description": "Router for Karax frontend framework.",
     "license": "MIT",
     "web": "https://github.com/moigagoo/kraut"
+  },
+  {
+    "name": "heine",
+    "url": "https://git.sr.ht/~xigoi/heine",
+    "method": "git",
+    "tags": [
+      "math",
+      "latex",
+      "language"
+    ],
+    "description": "A compact notation for math that transpiles to LaTeX",
+    "license": "GPL-3.0-or-later",
+    "web": "https://xigoi.srht.site/heine/"
+  },
+  {
+    "name": "ni18n",
+    "url": "https://github.com/heinthanth/ni18n",
+    "method": "git",
+    "tags": [
+      "i18n",
+      "l10n",
+      "internationalization",
+      "localization",
+      "translation"
+    ],
+    "description": "Super Fast Nim Macros For Internationalization and Localization",
+    "license": "MIT",
+    "web": "https://github.com/heinthanth/ni18n"
+  },
+  {
+    "name": "versicles",
+    "url": "https://git.ozzuu.com/thisago/versicles",
+    "method": "git",
+    "tags": [
+      "bible",
+      "verses",
+      "versicles",
+      "scriptures",
+      "markdown",
+      "tool",
+      "cli",
+      "library"
+    ],
+    "description": "Lib and CLI tool to manipulate biblical verses!",
+    "license": "MIT",
+    "web": "https://git.ozzuu.com/thisago/versicles"
+  },
+  {
+    "name": "sam_protocol",
+    "url": "https://github.com/gabbhack/sam_protocol",
+    "method": "git",
+    "tags": [
+      "i2p"
+    ],
+    "description": "I2P SAM Protocol without any IO",
+    "license": "MIT",
+    "web": "https://github.com/gabbhack/sam_protocol",
+    "doc": "https://gabb.eu.org/sam_protocol"
+  },
+  {
+    "name": "Runned",
+    "url": "https://github.com/Gael-Lopes-Da-Silva/Runned",
+    "method": "git",
+    "tags": [
+      "runned",
+      "time",
+      "ptime",
+      "executiontime",
+      "execution-time",
+      "execution_time"
+    ],
+    "description": "Runned is a simple tool to check the execution time of terminal commands.",
+    "license": "MIT",
+    "web": "https://github.com/Gael-Lopes-Da-Silva/Runned"
+  },
+  {
+    "name": "locert",
+    "url": "https://github.com/vandot/locert",
+    "method": "git",
+    "tags": [
+      "cert",
+      "ca",
+      "developer-tools"
+    ],
+    "description": "Simple cert generator for local development.",
+    "license": "BSD-3-Clause",
+    "web": "https://github.com/vandot/locert"
+  },
+  {
+    "name": "spinners",
+    "url": "https://github.com/thechampagne/libspinners-nim",
+    "method": "git",
+    "tags": [
+      "spinners"
+    ],
+    "description": "Binding for libspinners an elegant terminal spinners",
+    "license": "MIT",
+    "web": "https://github.com/thechampagne/libspinners-nim"
+  },
+  {
+    "name": "cliSeqSelector",
+    "url": "https://github.com/z-kk/cliSeqSelector",
+    "method": "git",
+    "tags": [
+      "cli",
+      "console",
+      "selector",
+      "combo"
+    ],
+    "description": "Seq selector in CLI",
+    "license": "MIT",
+    "web": "https://github.com/z-kk/cliSeqSelector"
+  },
+  {
+    "name": "primes",
+    "url": "https://github.com/wokibe/primes",
+    "method": "git",
+    "tags": [
+      "primes",
+      "is_prime"
+    ],
+    "description": "Utilities for prime numbers",
+    "license": "MIT",
+    "web": "https://github.com/wokibe/primes"
+  },
+  {
+    "name": "scfg",
+    "url": "https://codeberg.org/xoich/nim-scfg",
+    "method": "git",
+    "tags": [
+      "library",
+      "config",
+      "parser"
+    ],
+    "description": "Simple configuration file format (scfg) parser",
+    "license": "CC-BY-SA 4.0",
+    "web": "https://codeberg.org/xoich/nim-scfg"
+  },
+  {
+    "name": "powernim",
+    "url": "https://codeberg.org/wreed/powernim",
+    "method": "git",
+    "tags": [
+      "menu",
+      "powermenu",
+      "gui",
+      "gtk"
+    ],
+    "description": "Basic power menu for Linux (with systemd)",
+    "license": "BSD-2-Clause",
+    "web": "https://codeberg.org/wreed/powernim"
+  },
+  {
+    "name": "metacall",
+    "url": "https://github.com/metacall/core?subdir=source/ports/nim_port",
+    "method": "git",
+    "tags": [
+      "ffi",
+      "interop",
+      "interoperability",
+      "bindings",
+      "wrapper",
+      "python",
+      "nodejs",
+      "ruby",
+      "csharp",
+      "rust",
+      "c",
+      "java",
+      "javascript",
+      "typescript",
+      "cobol",
+      "rpc",
+      "wasm",
+      "meta-object-protocol"
+    ],
+    "description": "A library for interoperability between Nim and multiple programming languages",
+    "license": "Apache-2.0",
+    "web": "https://metacall.io",
+    "doc": "https://github.com/metacall/core/blob/develop/source/ports/nim_port/README.md"
+  },
+  {
+    "name": "jsonfmt",
+    "url": "https://github.com/fkdosilovic/jsonfmt",
+    "method": "git",
+    "tags": [
+      "json",
+      "cli"
+    ],
+    "description": "Ridiculously simple and effective JSON formatter.",
+    "license": "MIT",
+    "web": "https://github.com/fkdosilovic/jsonfmt"
   }
 ]
