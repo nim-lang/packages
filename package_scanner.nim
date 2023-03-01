@@ -131,9 +131,11 @@ proc verifyAlias(pkg: JsonNode, result: var int) =
 proc check(): int =
   var name: string
   var names = initHashSet[string]()
+  let abandonedTag = newJString("abandoned")
 
   for pkg in parseJson(readFile(getCurrentDir() / "packages.json")):
     name = if pkg.hasKey("name"): pkg["name"].str else: ""
+
     if pkg.hasKey("alias"):
       verifyAlias(pkg, result)
     else:
@@ -167,10 +169,6 @@ proc check(): int =
       elif pkg["license"].str.toLowerAscii notin licenses:
         echo "E: ", name, " has an unexpected license: ", pkg["license"]
         inc result
-      elif pkg.hasKey("web"):
-        when not defined(dontFetchRepos):
-          if not canFetchNimbleRepository(name, pkg["web"]):
-            echo "W: Failed to fetch source code repo for ", name
       elif pkg.hasKey("tags"):
         var emptyTags = 0
         for tag in pkg["tags"]:
@@ -180,6 +178,13 @@ proc check(): int =
         if emptyTags > 0:
           echo "E: ", name, " has ", emptyTags, " empty tags"
           inc result
+
+      if pkg.hasKey("url"):
+        let abandoned = abandonedTag in pkg["tags"].getElems
+        echo name, " ", abandoned
+        if not (defined(dontFetchRepos) or abandoned):
+          if not canFetchNimbleRepository(name, pkg["url"]):
+            echo "W: Failed to fetch source code repo for ", name
 
     if name.normalize notin names:
       names.incl name.normalize
