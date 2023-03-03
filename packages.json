@@ -1132,7 +1132,8 @@
     "method": "git",
     "tags": [
       "library",
-      "audio"
+      "audio",
+      "deleted"
     ],
     "description": "A high-level libao wrapper",
     "license": "MIT",
@@ -1159,7 +1160,8 @@
       "library",
       "opengl",
       "math",
-      "game"
+      "game",
+      "deleted"
     ],
     "description": "OpenGL math library",
     "license": "CC0",
@@ -1588,7 +1590,8 @@
       "audio",
       "sound",
       "metadata",
-      "media"
+      "media",
+      "deleted"
     ],
     "description": "Binding to libvorbis",
     "license": "CC0"
@@ -1608,7 +1611,8 @@
       "audio",
       "sound",
       "media",
-      "io"
+      "io",
+      "deleted"
     ],
     "description": "Binding to portaudio",
     "license": "CC0"
@@ -1641,7 +1645,8 @@
       "cryptography",
       "hash",
       "password",
-      "security"
+      "security",
+      "deleted"
     ],
     "description": "Binding and utilities for scrypt",
     "license": "CC0"
@@ -2671,7 +2676,8 @@
     "method": "git",
     "tags": [
       "csv",
-      "json"
+      "json",
+      "deleted"
     ],
     "description": "Convert CSV files to JSON",
     "license": "MIT",
@@ -4650,7 +4656,8 @@
     "tags": [
       "event",
       "future",
-      "asyncdispatch"
+      "asyncdispatch",
+      "deleted"
     ],
     "description": "Asynchronous event loop for progaming with MVC",
     "license": "MIT",
@@ -6589,7 +6596,8 @@
     "tags": [
       "maps",
       "gemf",
-      "parser"
+      "parser",
+      "deleted"
     ]
   },
   {
@@ -6866,7 +6874,8 @@
     "method": "git",
     "tags": [
       "jwt",
-      "libjwt"
+      "libjwt",
+      "deleted"
     ],
     "description": "Bindings for libjwt",
     "license": "LGPLv2.1",
@@ -6881,7 +6890,8 @@
       "bTree",
       "HB+-Trie",
       "db",
-      "forestdb"
+      "forestdb",
+      "deleted"
     ],
     "description": "ForestDB is fast key-value storage engine that is based on a Hierarchical B+-Tree based Trie, or HB+-Trie.",
     "license": "Apache License 2.0",
@@ -7609,7 +7619,8 @@
     "method": "git",
     "tags": [
       "storage",
-      "io"
+      "io",
+      "deleted"
     ],
     "description": "Efficient object storage system",
     "license": "MIT",
@@ -7889,7 +7900,8 @@
       "erasure",
       "hash",
       "crypto",
-      "compression"
+      "compression",
+      "deleted"
     ],
     "description": "Binding for Intel Storage Acceleration library",
     "license": "Apache License 2.0",
@@ -7917,7 +7929,8 @@
     "method": "git",
     "tags": [
       "library",
-      "linux"
+      "linux",
+      "deleted"
     ],
     "description": "Color and utilities library for linux terminal.",
     "license": "MIT",
@@ -7931,7 +7944,8 @@
       "library",
       "dpdk",
       "packet",
-      "processing"
+      "processing",
+      "deleted"
     ],
     "description": "Library for fast packet processing",
     "license": "Apache License 2.0",
@@ -7964,7 +7978,8 @@
       "SSD",
       "NVME",
       "io",
-      "storage"
+      "storage",
+      "deleted"
     ],
     "description": "The Storage Performance Development Kit(SPDK) provides a set of tools and libraries for writing high performance, scalable, user-mode storage applications.",
     "license": "MIT",
@@ -9110,7 +9125,8 @@
     "method": "git",
     "tags": [
       "optimization",
-      "tabu"
+      "tabu",
+      "deleted"
     ],
     "description": "An implementation of the tabu search heuristic in Nim.",
     "license": "BSD-3",
@@ -9444,7 +9460,8 @@
       "pdcurses",
       "curses",
       "console",
-      "gui"
+      "gui",
+      "deleted"
     ],
     "description": "Nim wrapper for PDCurses",
     "license": "MIT",
@@ -9458,7 +9475,8 @@
       "libuv",
       "wrapper",
       "node",
-      "networking"
+      "networking",
+      "deleted"
     ],
     "description": "libuv bindings for Nim",
     "license": "MIT",
@@ -9470,7 +9488,8 @@
     "method": "git",
     "tags": [
       "roman",
-      "numerals"
+      "numerals",
+      "deleted"
     ],
     "description": "Conversion between integers and Roman numerals",
     "license": "MIT",
@@ -9593,7 +9612,8 @@
       "table",
       "string",
       "key",
-      "value"
+      "value",
+      "deleted"
     ],
     "description": "Efficient hash table that is a key-value mapping (removed from stdlib)",
     "license": "MIT",
@@ -11419,7 +11439,8 @@
     "tags": [
       "bignumber",
       "multiprecision",
-      "imath"
+      "imath",
+      "deleted"
     ],
     "description": "A Nim Wrapper of the imath BigNumber library.",
     "license": "MIT"
@@ -12265,7 +12286,8 @@
     "method": "git",
     "tags": [
       "events",
-      "emitter"
+      "emitter",
+      "deleted"
     ],
     "description": "Event Based Programming for Nim.",
     "license": "MIT"
@@ -13010,7 +13032,8 @@
     "tags": [
       "plot",
       "graph",
-      "chart"
+      "chart",
+      "deleted"
     ],
     "description": "Plotting module in pure nim",
     "license": "CC0",
@@ -13112,7 +13135,8 @@
       "algebra",
       "parse",
       "evaluate",
-      "mathematics"
+      "mathematics",
+      "deleted"
     ],
     "description": "Algebraic expression parser and evaluator",
     "license": "CC0",
@@ -13897,7 +13921,8 @@
       "tags",
       "http",
       "generating",
-      "url"
+      "url",
+      "deleted"
     ],
     "description": "A little lib for generating URL with args.",
     "license": "MIT",
@@ -14209,7 +14234,8 @@
       "nmap",
       "networking",
       "network mapper",
-      "blmvxer"
+      "blmvxer",
+      "deleted"
     ],
     "description": "A pure implementaion of nmap for nim.",
     "license": "MIT",
@@ -15658,7 +15684,8 @@
     "tags": [
       "redneck",
       "string",
-      "slang"
+      "slang",
+      "deleted"
     ],
     "description": "Redneck Translator for Y'all",
     "license": "MIT",
@@ -15671,7 +15698,8 @@
     "tags": [
       "sweet_anita",
       "tourette",
-      "string"
+      "string",
+      "deleted"
     ],
     "description": "Sweet_Anita Translator, help spread awareness about Tourettes",
     "license": "MIT",
@@ -16081,7 +16109,8 @@
     "method": "git",
     "tags": [
       "html",
-      "browser"
+      "browser",
+      "deleted"
     ],
     "description": "View the offline or online html page in browser",
     "license": "MIT",
@@ -17584,7 +17613,8 @@
     "tags": [
       "hexdigest",
       "hexadecimal",
-      "binary"
+      "binary",
+      "deleted"
     ],
     "description": "Binary <-> text conversion.",
     "license": "MPL",
@@ -17597,7 +17627,8 @@
     "tags": [
       "blake2b",
       "blake2s",
-      "spookyhash"
+      "spookyhash",
+      "deleted"
     ],
     "description": "Collection of hash algorithms ported to Nim",
     "license": "CC0",
@@ -18387,7 +18418,8 @@
       "gui",
       "async",
       "framework",
-      "sdl2"
+      "sdl2",
+      "deleted"
     ],
     "description": "The Nim GUI asynchronous framework based on SDL2.",
     "license": "AGPLv3",
@@ -18838,7 +18870,8 @@
       "library",
       "math",
       "matrix",
-      "vector"
+      "vector",
+      "deleted"
     ],
     "description": "A graphics math library",
     "license": "MIT",
@@ -19305,7 +19338,8 @@
     "tags": [
       "tool",
       "binary",
-      "dotfiles"
+      "dotfiles",
+      "deleted"
     ],
     "description": "dotfiles provisioning tool",
     "license": "MIT",
@@ -19699,7 +19733,8 @@
     "tags": [
       "comparison",
       "3-way comparison",
-      "three-way comparison"
+      "three-way comparison",
+      "deleted"
     ],
     "description": "Functionality for compare two values",
     "license": "MIT",
@@ -19754,7 +19789,8 @@
       "gradient",
       "gradients",
       "color",
-      "colors"
+      "colors",
+      "deleted"
     ],
     "description": "Color gradients generation",
     "license": "MIT",
@@ -20387,7 +20423,8 @@
     "tags": [
       "base64",
       "cui",
-      "tool"
+      "tool",
+      "deleted"
     ],
     "description": "base64 cui",
     "license": "MIT",
@@ -20440,7 +20477,8 @@
       "library",
       "time",
       "format",
-      "ms"
+      "ms",
+      "deleted"
     ],
     "description": "Convert various time formats to milliseconds",
     "license": "MIT",
@@ -21079,7 +21117,8 @@
     "tags": [
       "blackvas",
       "web",
-      "cli"
+      "cli",
+      "deleted"
     ],
     "description": "The Blackvas CLI",
     "license": "MIT",
@@ -22364,7 +22403,8 @@
     "tags": [
       "array",
       "arrays",
-      "hat"
+      "hat",
+      "deleted"
     ],
     "description": "Various kinds of hashed array trees.",
     "license": "MIT",
@@ -24358,7 +24398,8 @@
     "url": "https://github.com/DavidMeagher1/composition",
     "method": "git",
     "tags": [
-      "library"
+      "library",
+      "deleted"
     ],
     "description": "Composition pattern with event handling library in Nim",
     "license": "MIT",
@@ -24602,7 +24643,8 @@
       "sdk",
       "matrix.org",
       "decentralization",
-      "protocol"
+      "protocol",
+      "deleted"
     ],
     "description": "A Matrix (https://matrix.org) client and appservice API wrapper for Nim!",
     "license": "GPL-3.0",
@@ -25713,7 +25755,8 @@
       "psypac",
       "cli",
       "developer-tools",
-      "composer-alternative"
+      "composer-alternative",
+      "deleted"
     ],
     "description": "A fast, multi-threading and disk space efficient package manager for PHP development and production environments",
     "license": "GPL-3.0-or-later",
