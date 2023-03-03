@@ -154,7 +154,7 @@
     "description": "Open Any Url/File in the default App / WebBrowser.",
     "license": "MIT",
     "web": "https://github.com/foxoman/openurl",
-    "doc": "http://nimopenurl.surge.sh/openurl.html"
+    "doc": "https://nimopenurl.surge.sh/openurl.html"
   },
   {
     "name": "tinydialogs",
@@ -427,8 +427,8 @@
     ],
     "description": "Simple, modern and portable interpreted programming language for efficient scripting",
     "license": "MIT",
-    "web": "http://arturo-lang.io/",
-    "doc": "http://arturo-lang.io/"
+    "web": "https://arturo-lang.io/",
+    "doc": "https://arturo-lang.io/"
   },
   {
     "name": "nimchromepath",
@@ -800,7 +800,7 @@
     ],
     "description": "Additional functions for sequences that are not present in sequtils",
     "license": "MIT",
-    "web": "http://htmlpreview.github.io/?https://github.com/Michedev/sequtils2/blob/master/sequtils2.html"
+    "web": "https://htmlpreview.github.io/?https://github.com/Michedev/sequtils2/blob/master/sequtils2.html"
   },
   {
     "name": "github_api",
@@ -3256,7 +3256,7 @@
   },
   {
     "name": "RingBuffer",
-    "url": "git@github.com:megawac/RingBuffer.nim.git",
+    "url": "https://github.com/megawac/RingBuffer.nim.git",
     "method": "git",
     "tags": [
       "sequence",
@@ -5364,7 +5364,7 @@
   },
   {
     "name": "teafiles",
-    "url": "git@github.com:andreaferretti/nim-teafiles.git",
+    "url": "https://github.com/andreaferretti/nim-teafiles.git",
     "method": "git",
     "tags": [
       "teafiles",
@@ -5377,7 +5377,7 @@
   },
   {
     "name": "emmy",
-    "url": "git@github.com:andreaferretti/emmy.git",
+    "url": "https://github.com/andreaferretti/emmy.git",
     "method": "git",
     "tags": [
       "algebra",
@@ -5742,7 +5742,7 @@
     ],
     "description": "YAML 1.2 implementation for Nim",
     "license": "MIT",
-    "web": "http://flyx.github.io/NimYAML/"
+    "web": "https://flyx.github.io/NimYAML/"
   },
   {
     "name": "nimyaml",
@@ -5927,7 +5927,7 @@
     ],
     "description": "Additions to the Nim's standard library, like boost for C++",
     "license": "MIT",
-    "web": "http://vegansk.github.io/nimboost/"
+    "web": "https://vegansk.github.io/nimboost/"
   },
   {
     "name": "asyncdocker",
@@ -5939,7 +5939,7 @@
     ],
     "description": "Asynchronous docker client written by Nim-lang",
     "license": "MIT",
-    "web": "http://tulayang.github.io/asyncdocker.html"
+    "web": "https://tulayang.github.io/asyncdocker.html"
   },
   {
     "name": "python3",
@@ -6322,7 +6322,7 @@
   },
   {
     "name": "qrcode",
-    "description": "module for creating and reading QR codes using http://goqr.me/",
+    "description": "module for creating and reading QR codes using https://goqr.me/",
     "tags": [
       "qr",
       "qrcode",
@@ -6585,7 +6585,7 @@
     "method": "hg",
     "license": "MIT",
     "description": "Library for reading GEMF map tile stores",
-    "web": "http://www.cgtk.co.uk/gemf",
+    "web": "https://www.cgtk.co.uk/gemf",
     "tags": [
       "maps",
       "gemf",
@@ -6678,7 +6678,7 @@
     ],
     "description": "OAuth library for nim",
     "license": "Apache License 2.0",
-    "web": "http://cordea.github.io/oauth"
+    "web": "https://cordea.github.io/oauth"
   },
   {
     "name": "jsbind",
@@ -6752,7 +6752,7 @@
     ],
     "description": "Experimental wrapper to webgl for Nim",
     "license": "MIT",
-    "web": "http://stisa.space/webgl/"
+    "web": "https://stisa.space/webgl/"
   },
   {
     "name": "fileinput",
@@ -7935,7 +7935,7 @@
     ],
     "description": "Library for fast packet processing",
     "license": "Apache License 2.0",
-    "web": "http://dpdk.org/"
+    "web": "https://dpdk.org/"
   },
   {
     "name": "libserialport",
@@ -8050,7 +8050,7 @@
     ],
     "description": "Simple linear algebra for nim. Js too.",
     "license": "MIT",
-    "web": "http://stisa.space/snail/"
+    "web": "https://stisa.space/snail/"
   },
   {
     "name": "jswebsockets",
@@ -8064,7 +8064,7 @@
     ],
     "description": "Websockets wrapper for nim js backend.",
     "license": "MIT",
-    "web": "http://stisa.space/jswebsockets/"
+    "web": "https://stisa.space/jswebsockets/"
   },
   {
     "name": "morelogging",
@@ -8093,7 +8093,7 @@
     ],
     "description": "AJAX wrapper for nim js backend.",
     "license": "MIT",
-    "web": "http://stisa.space/ajax/"
+    "web": "https://stisa.space/ajax/"
   },
   {
     "name": "recaptcha",
@@ -8231,7 +8231,7 @@
     ],
     "description": "Library for async programming and communication. This Library uses a future/promise, non-blocking I/O model based on libuv.",
     "license": "MIT",
-    "web": "http://tulayang.github.io/node/"
+    "web": "https://tulayang.github.io/node/"
   },
   {
     "name": "tempdir",
@@ -9906,7 +9906,7 @@
     ],
     "description": "Additional control structures",
     "license": "MIT",
-    "web": "http://htmlpreview.github.io/?https://github.com/TakeYourFreedom/Additional-Control-Structures-for-Nim/blob/master/controlStructures.html"
+    "web": "https://htmlpreview.github.io/?https://github.com/TakeYourFreedom/Additional-Control-Structures-for-Nim/blob/master/controlStructures.html"
   },
   {
     "name": "notetxt",
@@ -12668,7 +12668,7 @@
       "xml",
       "dom"
     ],
-    "description": "Implementation of XML DOM Level 2 Core specification (http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/core.html)",
+    "description": "Implementation of XML DOM Level 2 Core specification (https://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/core.html)",
     "license": "MIT",
     "web": "https://github.com/nim-lang/graveyard/tree/master/xmldom"
   },
@@ -14312,7 +14312,7 @@
       "fnv-0",
       "ryukoposting"
     ],
-    "description": "FNV-1 and FNV-1a non-cryptographic hash functions (documentation hosted at: http://ryuk.ooo/nimdocs/fnv/fnv.html)",
+    "description": "FNV-1 and FNV-1a non-cryptographic hash functions (documentation hosted at: https://ryuk.ooo/nimdocs/fnv/fnv.html)",
     "license": "Apache-2.0",
     "web": "https://gitlab.com/ryukoposting/nim-fnv"
   },
@@ -19123,7 +19123,7 @@
     "description": "Concurrent hash table",
     "license": "MIT",
     "web": "https://github.com/olliNiinivaara/StashTable",
-    "doc": "http://htmlpreview.github.io/?https://github.com/olliNiinivaara/StashTable/blob/master/src/stashtable.html"
+    "doc": "https://htmlpreview.github.io/?https://github.com/olliNiinivaara/StashTable/blob/master/src/stashtable.html"
   },
   {
     "name": "dimscord",
@@ -20518,7 +20518,7 @@
   },
   {
     "name": "desim",
-    "url": "http://github.com/jayvanderwall/desim",
+    "url": "https://github.com/jayvanderwall/desim",
     "method": "git",
     "tags": [
       "library",
@@ -20530,7 +20530,7 @@
     ],
     "description": "A lightweight discrete event simulator",
     "license": "MIT",
-    "web": "http://github.com/jayvanderwall/desim"
+    "web": "https://github.com/jayvanderwall/desim"
   },
   {
     "name": "NimpleHTTPServer",
@@ -24106,7 +24106,7 @@
     ],
     "description": "Plot and visualize data",
     "license": "Proprietary",
-    "web": "http://pl0t.com"
+    "web": "https://pl0t.com"
   },
   {
     "name": "gm_api",
@@ -24734,7 +24734,7 @@
     ],
     "description": "A consistent markup language",
     "license": "GPL-3.0",
-    "web": "http://xidoc.nim.town/"
+    "web": "https://xidoc.nim.town/"
   },
   {
     "name": "tokarax",
@@ -25373,7 +25373,7 @@
       "date",
       "converter"
     ],
-    "description": "Jalili <=> Gregorian date converter, originally a copy of http://jdf.scr.ir/",
+    "description": "Jalili <=> Gregorian date converter, originally a copy of https://jdf.scr.ir/",
     "license": "MIT",
     "web": "https://github.com/hamidb80/jalili-nim"
   },
