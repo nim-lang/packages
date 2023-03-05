@@ -286,7 +286,7 @@
     ],
     "description": "Nim0 is a toy one-pass compiler for a limited subset of the Nim language, targetting a 32-bit RISC CPU. Compiled Nim0 programs can be executed in the RISC emulator. All this in 5 heavily-documented sources, totalling less than 4k LOC. It is a port of Niklaus Wirth's Oberon-0 compiler as described in his book Compiler construction (included in the package), cross-referenced in the sources, that you can follow while reading the book.",
     "license": "MIT",
-    "web": "https://pmetras.gitlab.io/nim0",
+    "web": "https://pmetras.gitlab.io/nim0/",
     "doc": "https://gitlab.com/pmetras/nim0"
   },
   {
@@ -24603,7 +24603,7 @@
     "description": "Implementation of Unix crypt with support for Crypt-MD5, Crypt-SHA256 and Crypt-SHA512",
     "license": "MIT",
     "web": "https://github.com/napalu/nimcrypt",
-    "doc": "https://github.com/napalu/nimcrypt/blob/v0.0.1/README.md"
+    "doc": "https://github.com/napalu/nimcrypt"
   },
   {
     "name": "surfing",
@@ -24878,7 +24878,7 @@
     "description": "Simple ECS implementation for Nim",
     "license": "MIT",
     "web": "https://github.com/Timofffee/tecs.nim",
-    "doc": "https://timofffee.github.io/tecs.nim/"
+    "doc": "https://timofffee.github.io/tecs.nim/tecs.html"
   },
   {
     "name": "dataUrl",
@@ -25803,8 +25803,8 @@
     ],
     "description": "Nim implementation of user-agent parser",
     "license": "Apache-2.0",
-    "web": "https://gitlab.com/artemklevtsov/nim-uap/-/blob/master/README.md",
-    "doc": "https://artemklevtsov.gitlab.io/nim-uap/ua.html"
+    "web": "https://gitlab.com/artemklevtsov/nim-uap/",
+    "doc": "https://artemklevtsov.gitlab.io/nim-uap/"
   },
   {
     "name": "madam",
@@ -26333,7 +26333,7 @@
   },
   {
     "name": "govee",
-    "url": "https://github.com/nonimportant/nim-govee",
+    "url": "https://github.com/neroist/nim-govee",
     "method": "git",
     "tags": [
       "govee",
@@ -26342,8 +26342,8 @@
     ],
     "description": "A Nim wrapper for the Govee API.",
     "license": "MIT",
-    "web": "https://github.com/nonimportant/nim-govee",
-    "doc": "https://nonimportant.github.io/nim-govee/"
+    "web": "https://github.com/neroist/nim-govee",
+    "doc": "https://neroist.github.io/nim-govee/"
   },
   {
     "name": "bamboo_websocket",
@@ -26898,7 +26898,7 @@
     "description": "Fetch fushinsha serif data and save as csv files",
     "license": "MIT",
     "web": "https://github.com/eggplants/fushin",
-    "doc": "https://egpl.ga/fushin/fushin.html"
+    "doc": "https://egpl.dev/fushin/fushin.html"
   },
   {
     "name": "urlon",
