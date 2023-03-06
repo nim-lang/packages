@@ -1,5 +1,20 @@
 [
   {
+    "name": "unibs",
+    "url": "https://github.com/choltreppe/unibs",
+    "method": "git",
+    "tags": [
+      "serialization",
+      "serialize",
+      "deserialize",
+      "marshal",
+      "unmarshal",
+      "binary serialization"
+    ],
+    "description": "binary de-/serialization that works on js, c and VM (compiletime)",
+    "license": "MIT"
+  },
+  {
     "name": "geolocation",
     "url": "https://github.com/HazeCS/geolocation",
     "method": "git",
