@@ -29405,5 +29405,20 @@
     "description": "Library data wilayah indonesia",
     "license": "MIT",
     "web": "https://github.com/nekoding/wilayahindonesia-nim"
+  },
+  {
+    "name": "epub2gpub",
+    "url": "https://gitlab.com/mars2klb/epub2gpub",
+    "method": "git",
+    "tags": [
+      "epub",
+      "gpub",
+      "gemini",
+      "ebook",
+      "convert"
+    ],
+    "description": "Convert epub to gpub (https://codeberg.org/oppenlab/gempub)",
+    "license": "MIT",
+    "web": "https://gitlab.com/mars2klb/epub2gpub"
   }
 ]
