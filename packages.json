@@ -29375,5 +29375,18 @@
     "description": "A Frontend Web Framework for Nim based on Preact",
     "license": "MIT",
     "web": "https://github.com/itsumura-h/nim-palladian"
+  },
+  {
+    "name": "wilayahindonesia",
+    "url": "https://github.com/nekoding/wilayahindonesia-nim",
+    "method": "git",
+    "tags": [
+      "library",
+      "api",
+      "wrapper"
+    ],
+    "description": "Library data wilayah indonesia",
+    "license": "MIT",
+    "web": "https://github.com/nekoding/wilayahindonesia-nim"
   }
 ]
