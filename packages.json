@@ -29363,5 +29363,17 @@
     "description": "A few handy macros for those who prefer `let` over `var`",
     "license": "MIT",
     "doc": "https://sirnickolas.github.io/let-utils-nim/letUtils"
+  },
+  {
+    "name": "palladian",
+    "url": "https://github.com/itsumura-h/nim-palladian",
+    "method": "git",
+    "tags": [
+      "web",
+      "frontend"
+    ],
+    "description": "A Frontend Web Framework for Nim based on Preact",
+    "license": "MIT",
+    "web": "https://github.com/itsumura-h/nim-palladian"
   }
 ]
