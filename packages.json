@@ -29382,7 +29382,19 @@
     "method": "git",
     "tags": [
       "library",
-      "api",
+      "api"
+    ],
+    "description": "Library data wilayah indonesia",
+    "license": "MIT",
+    "web": "https://github.com/nekoding/wilayahindonesia-nim"
+  },
+  {
+    "name": "wilayahindonesia",
+    "url": "https://github.com/nekoding/wilayahindonesia-nim",
+    "method": "git",
+    "tags": [
+      "library",
+      "api"
     ],
     "description": "Library data wilayah indonesia",
     "license": "MIT",
