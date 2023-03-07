@@ -29375,5 +29375,22 @@
     "description": "A Frontend Web Framework for Nim based on Preact",
     "license": "MIT",
     "web": "https://github.com/itsumura-h/nim-palladian"
+  },
+  {
+    "name": "sauer",
+    "url": "https://github.com/moigagoo/sauer",
+    "method": "git",
+    "tags": [
+      "web",
+      "SPA",
+      "Karax",
+      "Kraut",
+      "CLI",
+      "frontend",
+      "router"
+    ],
+    "description": "Scaffolder for Karax.",
+    "license": "MIT",
+    "web": "https://github.com/moigagoo/sauer"
   }
 ]
