@@ -2,8 +2,8 @@
 
 set -e
 
-targetRepository="https://github.com/nim-lang/packages"
-targetBranch="master"
+targetRepository="https://github.com/$GITHUB_REPOSITORY"
+targetBranch="$GITHUB_BASE_REF"
 
 cp packages.json packages.json.bak
 git fetch "$targetRepository" "$targetBranch:base"
