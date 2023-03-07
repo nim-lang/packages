@@ -29377,6 +29377,23 @@
     "web": "https://github.com/itsumura-h/nim-palladian"
   },
   {
+    "name": "sauer",
+    "url": "https://github.com/moigagoo/sauer",
+    "method": "git",
+    "tags": [
+      "web",
+      "SPA",
+      "Karax",
+      "Kraut",
+      "CLI",
+      "frontend",
+      "router"
+    ],
+    "description": "Scaffolder for Karax.",
+    "license": "MIT",
+    "web": "https://github.com/moigagoo/sauer"
+  },
+  {
     "name": "wilayahindonesia",
     "url": "https://github.com/nekoding/wilayahindonesia-nim",
     "method": "git",
