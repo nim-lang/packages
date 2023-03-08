@@ -29420,5 +29420,20 @@
     "description": "Convert epub to gpub (https://codeberg.org/oppenlab/gempub)",
     "license": "MIT",
     "web": "https://gitlab.com/mars2klb/epub2gpub"
+  },
+  {
+    "name": "asyncIters",
+    "url": "https://github.com/SirNickolas/asyncIters-Nim",
+    "method": "git",
+    "tags": [
+      "async",
+      "iterator",
+      "macros",
+      "sugar",
+      "syntax"
+    ],
+    "description": "Async iterators. Able to both await futures and yield values",
+    "license": "MIT",
+    "doc": "https://sirnickolas.github.io/asyncIters-Nim/asyncIters"
   }
 ]
