@@ -16,6 +16,8 @@ Options:
   --check-urls  Try to request the package url
   --help        Print this help text"""
 
+const allowedNameChars = {'a'..'z', 'A'..'Z', '0'..'9', '_', '-', '.'}
+
 
 proc checkUrlReachable(client: HttpClient, url: string): string =
   var headers: HttpHeaders = nil
@@ -138,8 +140,8 @@ proc checkPackages(newPackagesPath: string, oldPackagesPath: string, checkUrls: 
             logPackageError(displayName & " has empty tags")
 
         if not isDeleted:
-          if not pkgName.validIdentifier():
-            logPackageError(displayName & " is not a valid identifier")
+          if not pkgName.allCharsInSet(allowedNameChars):
+            logPackageError(displayName & " is not a valid package name")
 
           if not pkg.hasKey("method"):
             logPackageError(displayName & " has no method")
