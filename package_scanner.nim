@@ -176,6 +176,9 @@ proc checkPackages(newPackagesPath: string, oldPackagesPath: string, checkUrls: 
       inc failedPackages
 
 
+  if client != nil:
+    client.close()
+
   echo ""
   if oldPackagesPath != "":
     echo "Found ", modifiedPackages, " modified package(s)"
