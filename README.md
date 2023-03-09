@@ -89,3 +89,7 @@ For example:
 ...
 ```
 
+# License
+
+* `package_scanner.nim` - [GPLv3](LICENSE-GPLv3.txt)
+* Everything else - [CC-BY-4.0](LICENSE.txt)
