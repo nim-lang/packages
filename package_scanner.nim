@@ -139,7 +139,7 @@ proc checkPackages(newPackagesPath: string, oldPackagesPath: string, checkUrls: 
 
       let isAlias = pkg.hasKey("alias")
       if isAlias:
-        if packageNameCounter[pkg["alias"].getStr().toLowerAscii()] == 0:
+        if packageNameCounter[pkg["alias"].getStr().normalize()] == 0:
           logPackageError(displayName & " is an alias pointing to a missing package")
       else:
         var tags = pkg.getElemsIfExists("tags")
