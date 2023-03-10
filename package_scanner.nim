@@ -1,3 +1,20 @@
+# Package scanner for the nimble package list.
+#
+# Check the packages for:
+# * Duplicate and invalid names
+# * Missing alias targets
+# * Empty tags
+# * Invalid method
+# * Missing description or license
+# * Unavailable URLs
+# * Insecure URLs
+#
+# Usage: nim r package_scanner.nim <packages.json> [--old=packages_old.json] [--check-urls]
+#
+# Copyright 2015 Federico Ceratto <federico.ceratto@gmail.com>
+# Copyright 2023 Gabriel Huber <mail@gabrielhuber.at>
+# Released under GPLv3 License, see LICENSE-GPLv3.txt
+
 import std/parseopt
 import std/os
 import std/json
@@ -9,7 +26,7 @@ import std/net
 
 
 const usage = """
-Usage: packagescanner2 <packages.json> [--old=packages_old.json] [--check-urls]
+Usage: package_scanner <packages.json> [--old=packages_old.json] [--check-urls]
 Scans the nimble package list for mistakes and dead packages.
 Options:
   --old=        Old package file, will only scan changed packages
@@ -73,49 +90,49 @@ proc checkPackages(newPackagesPath: string, oldPackagesPath: string, checkUrls: 
   if oldPackagesPath != "":
     let oldPackagesJson = parseJson(readFile(oldPackagesPath))
     for oldPkg in oldPackagesJson:
-      let oldNameLower = oldPkg.getStrIfExists("name").toLowerAscii()
-      if oldNameLower != "":
-        oldPackagesTable[oldNameLower] = oldPkg
+      let oldNameNorm = oldPkg.getStrIfExists("name").normalize()
+      if oldNameNorm != "":
+        oldPackagesTable[oldNameNorm] = oldPkg
 
   let newPackagesJson = parseJson(readFile(newPackagesPath))
   # Do a first pass through the list to count duplicate names
   var packageNameCounter = initCountTable[string]()
   for pkg in newPackagesJson:
-    let pkgNameLower = pkg.getStrIfExists("name").toLowerAscii()
-    if pkgNameLower != "":
-      packageNameCounter.inc(pkgNameLower)
+    let pkgNameNorm = pkg.getStrIfExists("name").normalize()
+    if pkgNameNorm != "":
+      packageNameCounter.inc(pkgNameNorm)
 
   var client: HttpClient = nil
   if checkUrls:
     client = newHttpClient(timeout=3000)
     client.headers = newHttpHeaders({"User-Agent": "Nim packge_scanner/2.0"})
 
-  var modifiedPackages = 0
-  var failedPackages = 0
+  var modifiedPackagesCount = 0
+  var failedPackagesCount = 0
   for pkg in newPackagesJson:
     var success = true  # Set to false by logPackageError
     let pkgName = pkg.getStrIfExists("name")
-    let pkgNameLower = pkgName.toLowerAscii()
+    let pkgNameNorm = pkgName.normalize()
     var displayName = pkgName
     if displayName == "":
       displayName = "<unnamed package>"
 
     # Start with detecting duplicates
-    if packageNameCounter[pkgNameLower] > 1:
+    if packageNameCounter[pkgNameNorm] > 1:
       let url = pkg.getStrIfExists("url", "<no url>")
       logPackageError("Duplicate package " & displayName & " from url " & url)
 
     # isNew should be used in future versions to do a conditional inspection
     # of the package contents which requires downloading the full release tarball
-    let isNew = not oldPackagesTable.hasKey(pkgNameLower)
+    let isNew = not oldPackagesTable.hasKey(pkgNameNorm)
     var isModified: bool
     if isNew:
       isModified = true
     else:
-      isModified = oldPackagesTable[pkgNameLower] != pkg
+      isModified = oldPackagesTable[pkgNameNorm] != pkg
 
     if isModified:
-      inc modifiedPackages
+      inc modifiedPackagesCount
 
       if pkgName == "":
         logPackageError("Missing package name")
@@ -173,7 +190,7 @@ proc checkPackages(newPackagesPath: string, oldPackagesPath: string, checkUrls: 
 
 
     if not success:
-      inc failedPackages
+      inc failedPackagesCount
 
 
   if client != nil:
@@ -181,9 +198,9 @@ proc checkPackages(newPackagesPath: string, oldPackagesPath: string, checkUrls: 
 
   echo ""
   if oldPackagesPath != "":
-    echo "Found ", modifiedPackages, " modified package(s)"
-  echo "Problematic packages count: ", failedPackages
-  if failedPackages > 0:
+    echo "Found ", modifiedPackagesCount, " modified package(s)"
+  echo "Problematic packages count: ", failedPackagesCount
+  if failedPackagesCount > 0:
     result = 1
 
 
