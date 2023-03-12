@@ -29459,5 +29459,19 @@
     "description": "Async iterators. Able to both await futures and yield values",
     "license": "MIT",
     "doc": "https://sirnickolas.github.io/asyncIters-Nim/asyncIters"
+  },
+  {
+    "name": "dhash",
+    "url": "https://github.com/filvyb/dhash",
+    "method": "git",
+    "tags": [
+      "hash",
+      "library",
+      "difference",
+      "image"
+    ],
+    "description": "Nim implementation of dHash algorithm",
+    "license": "LGPLv3",
+    "web": "https://github.com/filvyb/dhash"
   }
 ]
