@@ -1,5 +1,29 @@
 [
   {
+    "name": "webui",
+    "url": "https://github.com/neroist/webui",
+    "method": "git",
+    "tags": [
+      "webui",
+      "web",
+      "gui",
+      "ui",
+      "wrapper",
+      "bindings",
+      "cross-platform",
+      "browser",
+      "chrome",
+      "firefox",
+      "safari",
+      "webapp",
+      "library"
+    ],
+    "description": "Nim wrapper for WebUI",
+    "license": "MIT",
+    "web": "https://github.com/neroist/webui#readme",
+    "docs": "https://neroist.github.io/webui"
+  },
+  {
     "name": "unibs",
     "url": "https://github.com/choltreppe/unibs",
     "method": "git",
