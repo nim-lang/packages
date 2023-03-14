@@ -29473,5 +29473,17 @@
     "description": "Nim implementation of dHash algorithm",
     "license": "LGPLv3",
     "web": "https://github.com/filvyb/dhash"
+  },
+  {
+    "name": "minicoro",
+    "url": "https://git.envs.net/iacore/minicoro",
+    "method": "git",
+    "tags": [
+      "wrapper",
+      "coroutine"
+    ],
+    "description": "Lua-like asymmetric coroutine. Nim wrapper of minicoro in C",
+    "license": "Unlicense",
+    "web": "https://git.envs.net/iacore/minicoro"
   }
 ]
