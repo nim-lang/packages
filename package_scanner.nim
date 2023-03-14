@@ -1,192 +1,238 @@
-# A very simple Nim package scanner.
-#
-# Scans the package list from this repository.
+# Package scanner for the nimble package list.
 #
 # Check the packages for:
-#  * Missing name
-#  * Missing/unknown method
-#  * Missing/unreachable repository
-#  * Missing tags
-#  * Empty tags
-#  * Missing description
-#  * Missing/unknown license
-#  * Insecure git:// url on GitHub
+# * Duplicate and invalid names
+# * Missing alias targets
+# * Empty tags
+# * Invalid method
+# * Missing description or license
+# * Unavailable URLs
+# * Insecure URLs
 #
-# Usage: nim r [-d:dontFetchRepos] package_scanner.nim 
+# Usage: nim r package_scanner.nim <packages.json> [--old=packages_old.json] [--check-urls]
 #
 # Copyright 2015 Federico Ceratto <federico.ceratto@gmail.com>
-# Released under GPLv3 License, see /usr/share/common-licenses/GPL-3
+# Copyright 2023 Gabriel Huber <mail@gabrielhuber.at>
+# Released under GPLv3 License, see LICENSE-GPLv3.txt
 
-import std/[httpclient, net, json, os, sets, strutils]
+import std/parseopt
+import std/os
+import std/json
+import std/tables
+import std/strutils
+import std/httpclient
+import std/streams
+import std/net
 
-const licenses = [
-    "allegro 4 giftware",
-    "apache license 2.0",
-    "apache",
-    "apache2",
-    "apache 2.0",
-    "apache-2.0",
-    "apache-2.0 license",
-    "apache version 2.0",
-    "mit or apache 2.0",
-    "apache license 2.0 or mit",
-    "mit or apache license 2.0",
-    "(mit or apache license 2.0) and simplified bsd",
-    "lxxsdt-mit",
-    "lgplv2.1",
-    "0bsd",
-    "bsd",
-    "bsd2",
-    "bsd-2",
-    "bsd3",
-    "bsd-3",
-    "bsd 3-clause",
-    "bsd-3-clause",
-    "boost",
-    "boost-1.0",
-    "bsl",
-    "bsl-1.0",
-    "2-clause bsd",
-    "cc0",
-    "cc0-1.0",
-    "gpl",
-    "gpl2",
-    "gpl-2.0-only",
-    "gpl3",
-    "gplv2",
-    "gplv3",
-    "gplv3+",
-    "gpl-2.0",
-    "agpl-3.0",
-    "gpl-3.0",
-    "gpl-3.0-or-later",
-    "gpl-3.0-only",
-    "lgplv3 or gplv2",
-    "apache 2.0 or gplv2",
-    "lgpl-2.1-or-later",
-    "lgpl with static linking exception",
-    "gnu lesser general public license v2.1",
-    "openldap",
-    "lgpl",
-    "lgplv2",
-    "lgplv3",
-    "lgpl-2.1",
-    "lgpl-3.0",
-    "agplv3",
-    "mit",
-    "mit/isc",
-    "ms-pl",
-    "mpl",
-    "mplv2",
-    "mpl-2.0",
-    "mpl 2.0",
-    "epl-2.0",
-    "eupl-1.2",
-    "wtfpl",
-    "libpng",
-    "fontconfig",
-    "zlib",
-    "isc",
-    "ppl",
-    "hydra",
-    "openssl and ssleay",
-    "unlicense",
-    "public domain",
-    "proprietary",
-  ]
 
-proc canFetchNimbleRepository(name: string, urlJson: JsonNode): bool =
-  # TODO: Make this check the actual repo url and check if there is a
-  #       nimble file in it
-  result = true
-  var url: string
-  var client = newHttpClient(timeout = 100_000)
+const usage = """
+Usage: package_scanner <packages.json> [--old=packages_old.json] [--check-urls]
+Scans the nimble package list for mistakes and dead packages.
+Options:
+  --old=        Old package file, will only scan changed packages
+  --check-urls  Try to request the package url
+  --help        Print this help text"""
 
-  if not urlJson.isNil:
-    url = urlJson.str
-    if url.startsWith("https://github.com"):
-      if existsEnv("GITHUB_TOKEN"):
-        client.headers = newHttpHeaders({"authorization": "Bearer " & getEnv("GITHUB_TOKEN")})
-    try:
-      discard client.getContent(url)
-    except TimeoutError:
-      echo "W: ", name, ": Timeout error fetching repo ", url, " ", getCurrentExceptionMsg()
-    except HttpRequestError:
-      echo "W: ", name, ": HTTP error fetching repo ", url, " ", getCurrentExceptionMsg()
-    except AssertionDefect:
-      echo "W: ", name, ": httpclient error fetching repo ", url, " ", getCurrentExceptionMsg()
-    except:
-      echo "W: Unkown error fetching repo ", url, " ", getCurrentExceptionMsg()
-    finally:
-      client.close()
+const allowedNameChars = {'a'..'z', 'A'..'Z', '0'..'9', '_', '-', '.'}
 
-proc verifyAlias(pkg: JsonNode, result: var int) =
-  if not pkg.hasKey("name"):
-    echo "E: Missing alias' package name"
-    inc result
-  # TODO: Verify that 'alias' points to a known package.
 
-proc check(): int =
-  var name: string
-  var names = initHashSet[string]()
+proc checkUrlReachable(client: HttpClient, url: string): string =
+  var headers: HttpHeaders = nil
+  if url.startsWith("https://github.com"):
+    if existsEnv("GITHUB_TOKEN"):
+      headers = newHttpHeaders({"Authorization": "Bearer " & getEnv("GITHUB_TOKEN")})
 
-  for pkg in parseJson(readFile(getCurrentDir() / "packages.json")):
-    name = if pkg.hasKey("name"): pkg["name"].str else: ""
-    if pkg.hasKey("alias"):
-      verifyAlias(pkg, result)
+  try:
+    let resp = client.request(url, headers=headers)
+    discard resp.bodyStream.readAll()
+    if not resp.code.is2xx:
+      result = "Server returned status " & $resp.code
+  except TimeoutError:
+    result = "Timeout after " & $client.timeout & "ms"
+    client.close()
+  except HttpRequestError:
+    result = "HTTP error: " & getCurrentExceptionMsg()
+    client.close()
+  except AssertionDefect:
+    result = "httpclient error: " & getCurrentExceptionMsg()
+    client.close()
+  except CatchableError as e:
+    result = "Unexpected exception " & $e.name & ": " & e.msg
+    client.close()
+
+template logPackageError(errorMsg: string) =
+  echo "E: ", errorMsg
+  success = false
+
+template checkUrl(urlType: string, url: string) =
+  if url == "":
+    logPackageError(displayName & " has an empty " & urlType & " URL")
+  elif not url.startsWith("https://"):
+    logPackageError(displayName & " has a non-https " & urlType & " URL: " & url)
+  elif checkUrls:
+    let urlError = client.checkUrlReachable(url)
+    if urlError != "":
+      logPackageError(displayName & " has an unreachable " & urlType & " URL: " & url)
+      logPackageError(urlError)
+
+proc getStrIfExists(n: JsonNode, name: string, default: string = ""): string =
+  result = default
+  if n.hasKey(name) and n[name].kind == JString:
+    result = n[name].str
+
+proc getElemsIfExists(n: JsonNode, name: string, default: seq[JsonNode] = @[]): seq[JsonNode] =
+  result = default
+  if n.hasKey(name) and n[name].kind == JArray:
+    result = n[name].elems
+
+proc checkPackages(newPackagesPath: string, oldPackagesPath: string, checkUrls: bool = false): int =
+  var oldPackagesTable = initTable[string, JsonNode]()
+  if oldPackagesPath != "":
+    let oldPackagesJson = parseJson(readFile(oldPackagesPath))
+    for oldPkg in oldPackagesJson:
+      let oldNameNorm = oldPkg.getStrIfExists("name").normalize()
+      if oldNameNorm != "":
+        oldPackagesTable[oldNameNorm] = oldPkg
+
+  let newPackagesJson = parseJson(readFile(newPackagesPath))
+  # Do a first pass through the list to count duplicate names
+  var packageNameCounter = initCountTable[string]()
+  for pkg in newPackagesJson:
+    let pkgNameNorm = pkg.getStrIfExists("name").normalize()
+    if pkgNameNorm != "":
+      packageNameCounter.inc(pkgNameNorm)
+
+  var client: HttpClient = nil
+  if checkUrls:
+    client = newHttpClient(timeout=3000)
+    client.headers = newHttpHeaders({"User-Agent": "Nim packge_scanner/2.0"})
+
+  var modifiedPackagesCount = 0
+  var failedPackagesCount = 0
+  for pkg in newPackagesJson:
+    var success = true  # Set to false by logPackageError
+    let pkgName = pkg.getStrIfExists("name")
+    let pkgNameNorm = pkgName.normalize()
+    var displayName = pkgName
+    if displayName == "":
+      displayName = "<unnamed package>"
+
+    # Start with detecting duplicates
+    if packageNameCounter[pkgNameNorm] > 1:
+      let url = pkg.getStrIfExists("url", "<no url>")
+      logPackageError("Duplicate package " & displayName & " from url " & url)
+
+    # isNew should be used in future versions to do a conditional inspection
+    # of the package contents which requires downloading the full release tarball
+    let isNew = not oldPackagesTable.hasKey(pkgNameNorm)
+    var isModified: bool
+    if isNew:
+      isModified = true
     else:
-      if name.len == 0:
-        echo "E: missing package name"
-        inc result
-      elif not pkg.hasKey("method"):
-        echo "E: ", name, " has no method"
-        inc result
-      elif pkg["method"].str notin ["git", "hg"]:
-        echo "E: ", name, " has an unknown method: ", pkg["method"].str
-        inc result
-      elif not pkg.hasKey("url"):
-        echo "E: ", name, " has no URL"
-        inc result
-      elif not pkg.hasKey("tags"):
-        echo "E: ", name, " has no tags"
-        inc result
-      elif not pkg.hasKey("description"):
-        echo "E: ", name, " has no description"
-        inc result
-      elif pkg.hasKey("description") and pkg["description"].str == "":
-        echo "E: ", name, " has empty description"
-        inc result
-      elif not pkg.hasKey("license"):
-        echo "E: ", name, " has no license"
-        inc result
-      elif pkg["url"].str.normalize.startsWith("git://github.com/"):
-        echo "E: ", name, " has an insecure git:// URL instead of https://"
-        inc result
-      elif pkg["license"].str.toLowerAscii notin licenses:
-        echo "E: ", name, " has an unexpected license: ", pkg["license"]
-        inc result
-      elif pkg.hasKey("web"):
-        when not defined(dontFetchRepos):
-          if not canFetchNimbleRepository(name, pkg["web"]):
-            echo "W: Failed to fetch source code repo for ", name
-      elif pkg.hasKey("tags"):
-        var emptyTags = 0
-        for tag in pkg["tags"]:
-          if tag.getStr.len == 0:
-            inc emptyTags
+      isModified = oldPackagesTable[pkgNameNorm] != pkg
 
-        if emptyTags > 0:
-          echo "E: ", name, " has ", emptyTags, " empty tags"
-          inc result
+    if isModified:
+      inc modifiedPackagesCount
 
-    if name.normalize notin names:
-      names.incl name.normalize
-    else:
-      echo("E: ", name, ": a package by that name already exists.")
-      inc result
+      if pkgName == "":
+        logPackageError("Missing package name")
 
-  echo "\nProblematic packages count: ", result
+      let isAlias = pkg.hasKey("alias")
+      if isAlias:
+        if packageNameCounter[pkg["alias"].getStr().normalize()] == 0:
+          logPackageError(displayName & " is an alias pointing to a missing package")
+      else:
+        var tags = pkg.getElemsIfExists("tags")
+        var isDeleted = false
+        if tags.len == 0:
+          logPackageError(displayName & " has no tags")
+        else:
+          var emptyTags = false
+          for tag in tags:
+            if tag.getStr == "":
+              emptyTags = true
+            if tag.getStr.toLowerAscii() == "deleted":
+              isDeleted = true
+          if emptyTags:
+            logPackageError(displayName & " has empty tags")
 
+        if not isDeleted:
+          if not pkgName.allCharsInSet(allowedNameChars):
+            logPackageError(displayName & " is not a valid package name")
+
+          if not pkg.hasKey("method"):
+            logPackageError(displayName & " has no method")
+          elif pkg["method"].kind != JString or pkg["method"].str notin ["git", "hg"]:
+            logPackageError(displayName & " has an invalid method")
+
+          if pkg.getStrIfExists("description") == "":
+            logPackageError(displayName & " has no description")
+
+          if pkg.getStrIfExists("license") == "":
+            logPackageError(displayName & " has no license")
+
+          var downloadUrl = pkg.getStrIfExists("url")
+          if not pkg.hasKey("url"):
+            logPackageError(displayName & " has no download URL")
+          else:
+            downloadUrl = downloadUrl
+            checkUrl("download", downloadUrl)
+
+          if pkg.hasKey("web"):
+            let webUrl = pkg["web"].getStr()
+            if webUrl != downloadUrl:
+              checkUrl("web", webUrl)
+
+          if pkg.hasKey("doc"):
+            let docUrl = pkg["doc"].getStr()
+            if docUrl != downloadUrl:
+              checkUrl("doc", docUrl)
+
+
+    if not success:
+      inc failedPackagesCount
+
+
+  if client != nil:
+    client.close()
+
+  echo ""
+  if oldPackagesPath != "":
+    echo "Found ", modifiedPackagesCount, " modified package(s)"
+  echo "Problematic packages count: ", failedPackagesCount
+  if failedPackagesCount > 0:
+    result = 1
+
+
+proc cliMain(): int =
+  var parser = initOptParser(os.commandLineParams())
+  var newPackagesPath = ""
+  var oldPackagesPath = ""
+  var checkUrls = false
+  while true:
+    parser.next()
+    case parser.kind:
+    of cmdEnd: break
+    of cmdShortOption, cmdLongOption:
+      if parser.key == "old":
+        oldPackagesPath = parser.val
+      elif parser.key == "check-urls":
+        checkUrls = true
+      elif parser.key == "help":
+        echo usage
+        return 0
+    of cmdArgument:
+      if newPackagesPath == "":
+        newPackagesPath = parser.key
+      else:
+        echo "Too many arguments!"
+        return 1
+
+  if newPackagesPath == "":
+    echo usage
+    return 1
+
+  result = checkPackages(newPackagesPath, oldPackagesPath, checkUrls)
 
 when isMainModule:
-  quit(check())
+  quit(cliMain())
