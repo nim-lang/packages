@@ -29498,5 +29498,20 @@
     "description": "A simple wrapper around the winapi to control the clipboard",
     "license": "MIT",
     "web": "https://github.com/4zv4l/nclip"
+  },
+  {
+    "name": "jsFetchMock",
+    "url": "https://git.ozzuu.com/thisago/jsfetchMock",
+    "method": "git",
+    "tags": [
+      "web",
+      "js",
+      "mock",
+      "fetch",
+      "library"
+    ],
+    "description": "A simple lib to intercept Javascript fetch to capture or edit the data",
+    "license": "MIT",
+    "web": "https://git.ozzuu.com/thisago/jsfetchMock"
   }
 ]
