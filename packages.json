@@ -29476,7 +29476,7 @@
   },
   {
     "name": "minicoro",
-    "url": "https://git.envs.net/iacore/minicoro",
+    "url": "https://git.envs.net/iacore/minicoro-nim",
     "method": "git",
     "tags": [
       "wrapper",
