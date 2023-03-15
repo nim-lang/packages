@@ -29484,7 +29484,7 @@
     ],
     "description": "Lua-like asymmetric coroutine. Nim wrapper of minicoro in C",
     "license": "Unlicense",
-    "web": "https://git.envs.net/iacore/minicoro"
+    "web": "https://git.envs.net/iacore/minicoro-nim"
   },
   {
     "name": "nclip",
