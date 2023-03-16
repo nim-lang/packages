@@ -1,5 +1,24 @@
 [
   {
+    "name": "nimpretty_t",
+    "url": "https://github.com/tobealive/nimpretty_t",
+    "method": "git",
+    "tags": [
+      "nimpretty",
+      "code",
+      "formatter",
+      "formatting",
+      "autoformat",
+      "cli",
+      "terminal",
+      "command-line",
+      "utility",
+    ],
+    "description": "Use nimpretty with tab indentation.",
+    "license": "MIT",
+    "web": "https://github.com/tobealive/nimpretty_t",
+  },
+  {
     "name": "webui",
     "url": "https://github.com/neroist/webui",
     "method": "git",
