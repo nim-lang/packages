@@ -29533,4 +29533,20 @@
     "license": "MIT",
     "web": "https://git.ozzuu.com/thisago/jsfetchMock"
   }
+  {
+    "name": "noptics",
+    "url": "https://gitlab.com/OFThomas/noptics",
+    "method": "git",
+    "tags": [
+      "optics",
+      "linear-algebra",
+      "quantum",
+      "complex-numbers",
+      "library"
+    ],
+    "description": "Linear algebra, classical and quantum optics simulation package",
+    "license": "Apache-2.0",
+    "web": "https://gitlab.com/OFThomas/noptics",
+    "doc": "https://ofthomas.gitlab.io/noptics/"
+  }
 ]
