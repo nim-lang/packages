@@ -29532,7 +29532,7 @@
     "description": "A simple lib to intercept Javascript fetch to capture or edit the data",
     "license": "MIT",
     "web": "https://git.ozzuu.com/thisago/jsfetchMock"
-  }
+  },
   {
     "name": "noptics",
     "url": "https://gitlab.com/OFThomas/noptics",
