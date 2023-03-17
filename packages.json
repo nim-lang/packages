@@ -29532,5 +29532,20 @@
     "description": "A simple lib to intercept Javascript fetch to capture or edit the data",
     "license": "MIT",
     "web": "https://git.ozzuu.com/thisago/jsfetchMock"
+  },
+  {
+    "name": "fungus",
+    "url": "https://github.com/beef331/fungus",
+    "method": "git",
+    "tags": [
+      "adt",
+      "enum",
+      "rust",
+      "match",
+      "tagged union"
+    ],
+    "description": "Rust-like tuple enums",
+    "license": "MIT",
+    "web": "https://github.com/beef331/fungus"
   }
 ]
