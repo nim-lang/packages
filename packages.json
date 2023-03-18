@@ -29548,5 +29548,20 @@
     "license": "Apache-2.0",
     "web": "https://gitlab.com/OFThomas/noptics",
     "doc": "https://ofthomas.gitlab.io/noptics/"
+  },
+  {
+    "name": "fungus",
+    "url": "https://github.com/beef331/fungus",
+    "method": "git",
+    "tags": [
+      "adt",
+      "enum",
+      "rust",
+      "match",
+      "tagged union"
+    ],
+    "description": "Rust-like tuple enums",
+    "license": "MIT",
+    "web": "https://github.com/beef331/fungus"
   }
 ]
