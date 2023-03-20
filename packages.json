@@ -29592,18 +29592,18 @@
     "license": "BSD-3"
   },
   {
-      "name": "drawIt",
-      "url": "https://gitlab.com/OFThomas/drawIt",
-      "method": "git",
-      "tags": [
-          "terminal display",
-          "plotting",
-          "drawing",
-          "TUI",
-          "shapes"
-      ],
-      "description": "Nim Terminal User Interface library for plotting graphs and drawing shapes in the terminal, uses unicode chars and colours!",
-      "license": "Apache-2.0",
-      "web": "https://gitlab.com/OFThomas/drawIt"
+    "name": "drawIt",
+    "url": "https://gitlab.com/OFThomas/drawIt",
+    "method": "git",
+    "tags": [
+      "terminal display",
+      "plotting",
+      "drawing",
+      "TUI",
+      "shapes"
+    ],
+    "description": "Nim Terminal User Interface library for plotting graphs and drawing shapes in the terminal, uses unicode chars and colours!",
+    "license": "Apache-2.0",
+    "web": "https://gitlab.com/OFThomas/drawIt"
   }
 ]
