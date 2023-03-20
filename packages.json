@@ -12,11 +12,11 @@
       "cli",
       "terminal",
       "command-line",
-      "utility",
+      "utility"
     ],
     "description": "Use nimpretty with tab indentation.",
     "license": "MIT",
-    "web": "https://github.com/tobealive/nimpretty_t",
+    "web": "https://github.com/tobealive/nimpretty_t"
   },
   {
     "name": "webui",
@@ -29563,5 +29563,32 @@
     "description": "Rust-like tuple enums",
     "license": "MIT",
     "web": "https://github.com/beef331/fungus"
+  },
+  {
+    "name": "climinesweeper",
+    "url": "https://github.com/KerorinNorthFox/MineSweeper_on_CLI",
+    "method": "git",
+    "tags": [
+      "minesweeper",
+      "cli",
+      "game",
+      "application"
+    ],
+    "description": "Play MineSweeper on CLI",
+    "license": "MIT",
+    "web": "https://github.com/KerorinNorthFox/MineSweeper_on_CLI"
+  },
+  {
+    "name": "nimalyzer",
+    "url": "https://github.com/thindil/nimalyzer",
+    "method": "git",
+    "tags": [
+      "cli",
+      "tool",
+      "static analyzer",
+      "code analyzer"
+    ],
+    "description": "A static code analyzer for Nim",
+    "license": "BSD-3"
   }
 ]
