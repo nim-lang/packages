@@ -13085,7 +13085,7 @@
   },
   {
     "name": "nimetry",
-    "url": "https://github.com/ijneb/nimetry",
+    "url": "https://github.com/refaqtor/nimetry",
     "method": "git",
     "tags": [
       "plot",
@@ -13095,8 +13095,8 @@
     ],
     "description": "Plotting module in pure nim",
     "license": "CC0",
-    "web": "https://github.com/ijneb/nimetry",
-    "doc": "https://ijneb.github.io/nimetry"
+    "web": "https://github.com/refaqtor/nimetry",
+    "doc": "https://benjif.github.io/nimetry"
   },
   {
     "name": "nim-snappy",
@@ -13187,7 +13187,7 @@
   },
   {
     "name": "algebra",
-    "url": "https://github.com/ijneb/nim-algebra",
+    "url": "https://github.com/refaqtor/nim-algebra",
     "method": "git",
     "tags": [
       "algebra",
@@ -13198,7 +13198,7 @@
     ],
     "description": "Algebraic expression parser and evaluator",
     "license": "CC0",
-    "web": "https://github.com/ijneb/nim-algebra"
+    "web": "https://github.com/refaqtor/nim-algebra"
   },
   {
     "name": "biblioteca_guarrilla",
