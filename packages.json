@@ -29605,5 +29605,16 @@
     "description": "Nim Terminal User Interface library for plotting graphs and drawing shapes in the terminal, uses unicode chars and colours!",
     "license": "Apache-2.0",
     "web": "https://gitlab.com/OFThomas/drawIt"
+  },
+  {
+    "name": "embedfs",
+    "url": "https://github.com/iffy/nim-embedfs",
+    "method": "git",
+    "tags": [
+      "bundling",
+      "static"
+    ],
+    "description": "Embed directories in executables, easily",
+    "license": "MIT"
   }
 ]
