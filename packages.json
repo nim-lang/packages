@@ -29628,5 +29628,22 @@
     ],
     "description": "A library for using YAML with Nim",
     "license": "Unlicense"
+  },
+  {
+    "name": "lodev",
+    "url": "https://github.com/vandot/lodev",
+    "method": "git",
+    "tags": [
+      "cert",
+      "ca",
+      "dns",
+      "server",
+      "proxy",
+      "https",
+      "developer-tools"
+    ],
+    "description": "Simple reverse proxy server for local development.",
+    "license": "BSD-3-Clause",
+    "web": "https://github.com/vandot/lodev"
   }
 ]
