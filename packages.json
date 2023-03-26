@@ -29645,5 +29645,22 @@
     "description": "Simple reverse proxy server for local development.",
     "license": "BSD-3-Clause",
     "web": "https://github.com/vandot/lodev"
+  },
+  {
+    "name": "lv2",
+    "url": "https://gitlab.com/lpirl/lv2-nim",
+    "method": "git",
+    "tags": [
+      "linux",
+      "bindings",
+      "audio",
+      "sound",
+      "daw",
+      "dsp",
+      "lv2"
+    ],
+    "description": "Nim bindings for LV2",
+    "license": "GPL-3.0",
+    "web": "https://gitlab.com/lpirl/lv2-nim"
   }
 ]
