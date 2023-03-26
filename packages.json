@@ -1,5 +1,22 @@
 [
   {
+    "name": "nimitheme",
+    "url": "https://github.com/neroist/nimitheme",
+    "method": "git",
+    "tags": [
+      "nimib",
+      "theme",
+      "addon",
+      "style",
+      "library",
+      "html",
+      "nimib-extension"
+    ],
+    "description": "make nimib look beautiful with nimitheme",
+    "license": "MIT",
+    "web": "https://neroist.github.io/nimitheme/index.html"
+  },
+  {
     "name": "nimpretty_t",
     "url": "https://github.com/tobealive/nimpretty_t",
     "method": "git",
