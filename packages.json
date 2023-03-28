@@ -19036,6 +19036,19 @@
     "web": "https://github.com/angluca/mui"
   },
   {
+    "name": "tigr",
+    "url": "https://github.com/angluca/tigr-nim",
+    "method": "git",
+    "tags": [
+      "opengl", "2d", "game", "ui",
+      "image", "png", "graphics",
+      "cross-platform"
+    ],
+    "description": "A tiny immediate-mode UI library",
+    "license": "MIT",
+    "web": "https://github.com/angluca/tigr-nim"
+  },
+  {
     "name": "nimatic",
     "url": "https://github.com/DangerOnTheRanger/nimatic",
     "method": "git",
