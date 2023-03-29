@@ -19040,8 +19040,13 @@
     "url": "https://github.com/angluca/tigr-nim",
     "method": "git",
     "tags": [
-      "opengl", "2d", "game", "ui",
-      "image", "png", "graphics",
+      "opengl",
+      "2d",
+      "game",
+      "ui",
+      "image",
+      "png",
+      "graphics",
       "cross-platform"
     ],
     "description": "A tiny immediate-mode UI library",
@@ -29692,5 +29697,19 @@
     "description": "Nim bindings for LV2",
     "license": "GPL-3.0",
     "web": "https://gitlab.com/lpirl/lv2-nim"
+  },
+  {
+    "name": "happyx",
+    "url": "https://github.com/HapticX/happyx",
+    "method": "git",
+    "tags": [
+      "web",
+      "async",
+      "framework",
+      "hapticx"
+    ],
+    "description": "Asynchronous web-framework written with ♥",
+    "license": "GNU GPLv3",
+    "web": "https://github.com/HapticX/happyx"
   }
 ]
