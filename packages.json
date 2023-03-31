@@ -5421,6 +5421,7 @@
       "parsing",
       "formatter",
       "formatting",
+      "template engines",
       "highlighting",
       "terminal",
       "color",
