@@ -29711,5 +29711,16 @@
     "description": "Asynchronous web-framework written with ♥",
     "license": "GNU GPLv3",
     "web": "https://github.com/HapticX/happyx"
-  }
+  },
+  {
+   "name":"jsonnet",
+   "url":"https://github.com/thechampagne/jsonnet-nim",
+   "method":"git",
+   "tags":[
+      "jsonnet"
+   ],
+   "description":"Binding for Jsonnet the data templating language",
+   "license":"Apache-2.0",
+   "web":"https://github.com/thechampagne/jsonnet-nim"
+  } 
 ]
