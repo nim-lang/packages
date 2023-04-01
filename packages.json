@@ -19069,7 +19069,7 @@
       "graphics",
       "cross-platform"
     ],
-    "description": "A tiny immediate-mode UI library",
+    "description": "TIGR is a tiny cross-platform graphics library",
     "license": "MIT",
     "web": "https://github.com/angluca/tigr-nim"
   },
