@@ -29713,6 +29713,18 @@
     "web": "https://github.com/HapticX/happyx"
   },
   {
+    "name": "nuance",
+    "url": "https://github.com/metagn/nuance",
+    "method": "git",
+    "tags": [
+      "ast",
+      "compiler"
+    ],
+    "description": "nim untyped AST node generation at runtime with custom line info",
+    "license": "MIT",
+    "web": "https://github.com/metagn/nuance"
+  },
+  {
    "name":"jsonnet",
    "url":"https://github.com/thechampagne/jsonnet-nim",
    "method":"git",
