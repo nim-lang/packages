@@ -55,7 +55,7 @@
       "library"
     ],
     "description": "Nim wrapper for WebUI",
-    "license": "MIT",
+    "license": "GPL2",
     "web": "https://github.com/neroist/webui#readme",
     "docs": "https://neroist.github.io/webui"
   },
