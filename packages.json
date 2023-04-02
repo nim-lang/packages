@@ -29778,5 +29778,16 @@
    "description":"Binding for hyper an HTTP library",
    "license":"Apache-2.0",
    "web":"https://github.com/thechampagne/hyper-nim"
+  },
+  {
+   "name":"rure",
+   "url":"https://github.com/thechampagne/rure-nim",
+   "method":"git",
+   "tags":[
+      "rure"
+   ],
+   "description":"Binding for rust regex library",
+   "license":"Apache-2.0",
+   "web":"https://github.com/thechampagne/rure-nim"
   }
 ]
