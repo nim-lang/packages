@@ -29767,5 +29767,16 @@
    "description":"Binding for Jsonnet the data templating language",
    "license":"Apache-2.0",
    "web":"https://github.com/thechampagne/jsonnet-nim"
-  } 
+  },
+  {
+   "name":"rustls",
+   "url":"https://github.com/thechampagne/rustls-nim",
+   "method":"git",
+   "tags":[
+      "rustls"
+   ],
+   "description":"Binding for rustls a TLS library",
+   "license":"Apache-2.0",
+   "web":"https://github.com/thechampagne/rustls-nim"
+  }
 ]
