@@ -29758,36 +29758,36 @@
     "web": "https://github.com/metagn/nuance"
   },
   {
-   "name":"jsonnet",
-   "url":"https://github.com/thechampagne/jsonnet-nim",
-   "method":"git",
-   "tags":[
+    "name":"jsonnet",
+    "url":"https://github.com/thechampagne/jsonnet-nim",
+    "method":"git",
+    "tags":[
       "jsonnet"
-   ],
-   "description":"Binding for Jsonnet the data templating language",
-   "license":"Apache-2.0",
-   "web":"https://github.com/thechampagne/jsonnet-nim"
+    ],
+    "description":"Binding for Jsonnet the data templating language",
+    "license":"Apache-2.0",
+    "web":"https://github.com/thechampagne/jsonnet-nim"
   },
   {
-   "name":"hyper",
-   "url":"https://github.com/thechampagne/hyper-nim",
-   "method":"git",
-   "tags":[
+    "name":"hyper",
+    "url":"https://github.com/thechampagne/hyper-nim",
+    "method":"git",
+    "tags":[
       "hyper"
-   ],
-   "description":"Binding for hyper an HTTP library",
-   "license":"Apache-2.0",
-   "web":"https://github.com/thechampagne/hyper-nim"
+    ],
+    "description":"Binding for hyper an HTTP library",
+    "license":"Apache-2.0",
+    "web":"https://github.com/thechampagne/hyper-nim"
   },
   {
-   "name":"rure",
-   "url":"https://github.com/thechampagne/rure-nim",
-   "method":"git",
-   "tags":[
+    "name":"rure",
+    "url":"https://github.com/thechampagne/rure-nim",
+    "method":"git",
+    "tags":[
       "rure"
-   ],
-   "description":"Binding for rust regex library",
-   "license":"Apache-2.0",
-   "web":"https://github.com/thechampagne/rure-nim"
+    ],
+    "description":"Binding for rust regex library",
+    "license":"Apache-2.0",
+    "web":"https://github.com/thechampagne/rure-nim"
   }
 ]
