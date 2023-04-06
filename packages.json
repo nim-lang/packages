@@ -29769,47 +29769,64 @@
     "web": "https://github.com/metagn/nuance"
   },
   {
-    "name":"jsonnet",
-    "url":"https://github.com/thechampagne/jsonnet-nim",
-    "method":"git",
-    "tags":[
+    "name": "jsonnet",
+    "url": "https://github.com/thechampagne/jsonnet-nim",
+    "method": "git",
+    "tags": [
       "jsonnet"
     ],
-    "description":"Binding for Jsonnet the data templating language",
-    "license":"Apache-2.0",
-    "web":"https://github.com/thechampagne/jsonnet-nim"
+    "description": "Binding for Jsonnet the data templating language",
+    "license": "Apache-2.0",
+    "web": "https://github.com/thechampagne/jsonnet-nim"
   },
   {
-    "name":"hyper",
-    "url":"https://github.com/thechampagne/hyper-nim",
-    "method":"git",
-    "tags":[
+    "name": "hyper",
+    "url": "https://github.com/thechampagne/hyper-nim",
+    "method": "git",
+    "tags": [
       "hyper"
     ],
-    "description":"Binding for hyper an HTTP library",
-    "license":"Apache-2.0",
-    "web":"https://github.com/thechampagne/hyper-nim"
+    "description": "Binding for hyper an HTTP library",
+    "license": "Apache-2.0",
+    "web": "https://github.com/thechampagne/hyper-nim"
   },
   {
-    "name":"rure",
-    "url":"https://github.com/thechampagne/rure-nim",
-    "method":"git",
-    "tags":[
+    "name": "rure",
+    "url": "https://github.com/thechampagne/rure-nim",
+    "method": "git",
+    "tags": [
       "rure"
     ],
-    "description":"Binding for rust regex library",
-    "license":"Apache-2.0",
-    "web":"https://github.com/thechampagne/rure-nim"
+    "description": "Binding for rust regex library",
+    "license": "Apache-2.0",
+    "web": "https://github.com/thechampagne/rure-nim"
   },
   {
-    "name":"rustls",
-    "url":"https://github.com/thechampagne/rustls-nim",
-    "method":"git",
-    "tags":[
+    "name": "rustls",
+    "url": "https://github.com/thechampagne/rustls-nim",
+    "method": "git",
+    "tags": [
       "rustls"
     ],
-    "description":"Binding for rustls a TLS library",
-    "license":"Apache-2.0",
-    "web":"https://github.com/thechampagne/rustls-nim"
+    "description": "Binding for rustls a TLS library",
+    "license": "Apache-2.0",
+    "web": "https://github.com/thechampagne/rustls-nim"
+  },
+  {
+    "name": "cron",
+    "url": "https://github.com/c-blake/cron",
+    "method": "git",
+    "tags": [
+      "cron",
+      "scheduled-tasks",
+      "task-scheduler",
+      "periodic-jobs",
+      "jobs",
+      "demon",
+      "daemon"
+    ],
+    "description": "Library to ease writing cron-like programs",
+    "license": "MIT/ISC",
+    "web": "https://github.com/c-blake/cron"
   }
 ]
