@@ -29828,5 +29828,18 @@
     "description": "Library to ease writing cron-like programs",
     "license": "MIT/ISC",
     "web": "https://github.com/c-blake/cron"
+  },
+  {
+    "name": "libpothole",
+    "url": "https://gt.tilambda.zone/o/pothole/libpothole.git",
+    "method": "git",
+    "tags": [
+      "library",
+      "pothole",
+      "activitypub"
+    ],
+    "description": "Essential libraries for the Pothole server.",
+    "license": "GPL-3.0-or-later",
+    "web": "https://gt.tilambda.zone/o/pothole/libpothole"
   }
 ]
