@@ -29831,16 +29831,15 @@
   },
   {
     "name": "libpothole",
-    "url": "https://tilambda.zone//o/pothole/libpothole",
+    "url": "https://gt.tilambda.zone/o/pothole/libpothole.git",
     "method": "git",
     "tags": [
       "library",
       "pothole",
-      "activitypub",
-      ""
+      "activitypub"
     ],
     "description": "Essential libraries for the Pothole server.",
     "license": "GPL-3.0-or-later",
-    "web": "https://tilambda.zone//o/pothole/libpothole"
+    "web": "https://gt.tilambda.zone/o/pothole/libpothole"
   }
 ]
