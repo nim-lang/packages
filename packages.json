@@ -29870,5 +29870,19 @@
     "description": "Bindings to the Webgeolocation Web API",
     "license": "MIT",
     "web": "https://github.com/maleyva1/webgeoloaction"
+  },
+  {
+    "name": "vcard",
+    "url": "https://github.com/jdbernard/nim-vcard.git",
+    "method": "git",
+    "tags": [
+      "address",
+      "contacts",
+      "library",
+      "vcard"
+    ],
+    "description": "Nim parser for the vCard format version 3.0 (4.0 planned).",
+    "license": "MIT",
+    "web": "https://github.com/jdbernard/nim-vcard"
   }
 ]
