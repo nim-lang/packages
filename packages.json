@@ -23416,23 +23416,6 @@
     "web": "https://github.com/jackhftang/xgboost.nim"
   },
   {
-    "name": "nodem",
-    "url": "https://github.com/al6x/nim?subdir=nodem",
-    "method": "git",
-    "tags": [
-      "net",
-      "network",
-      "rpc",
-      "messaging",
-      "distributed",
-      "tcp",
-      "http"
-    ],
-    "description": "Call remote Nim functions as if it's local",
-    "license": "MIT",
-    "web": "https://github.com/al6x/nim/tree/main/nodem"
-  },
-  {
     "name": "unittest2",
     "url": "https://github.com/status-im/nim-unittest2",
     "method": "git",
