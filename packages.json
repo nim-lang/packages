@@ -1,5 +1,20 @@
 [
   {
+    "name": "mcsrvstat.nim",
+    "url": "https://github.com/hitblast/mcsrvstat.nim",
+    "method": "git",
+    "tags": [
+      "mcsrvstat",
+      "api-wrapper",
+      "minecraft",
+      "minecraft-server-status",
+      "library"
+    ],
+    "description": "A hybrid and asynchronous Nim wrapper for the Minecraft Server Status API.",
+    "license": "MIT",
+    "web": "https://github.com/hitblast/mcsrvstat.nim"
+  },
+  {
     "name": "nimitheme",
     "url": "https://github.com/neroist/nimitheme",
     "method": "git",
