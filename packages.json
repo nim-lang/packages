@@ -1,5 +1,20 @@
 [
   {
+    "name": "youtubescraper",
+    "url": "https://github.com/TaxMachine/youtubescraper",
+    "method": "git",
+    "tags": [
+      "youtube",
+      "scraper",
+      "api",
+      "wrapper",
+      "library"
+    ],
+    "description": "Very fast and lightweight YouTube scraper for Nim.",
+    "license": "WTFPL",
+    "web": "https://github.com/TaxMachine/youtubescraper"
+  },
+  {
     "name": "mcsrvstat.nim",
     "url": "https://github.com/hitblast/mcsrvstat.nim",
     "method": "git",
