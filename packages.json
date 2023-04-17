@@ -29899,5 +29899,18 @@
     "description": "Nim parser for the vCard format version 3.0 (4.0 planned).",
     "license": "MIT",
     "web": "https://github.com/jdbernard/nim-vcard"
+  },
+  {
+    "name": "nimppt",
+    "url": "https://github.com/HUSKI3/Nimppt",
+    "method": "git",
+    "tags": [
+      "presentation",
+      "cli",
+      "markdown"
+    ],
+    "description": "A simple and elegant presentation generator",
+    "license": "MIT",
+    "web": "https://github.com/HUSKI3/Nimppt"
   }
 ]
