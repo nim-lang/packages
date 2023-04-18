@@ -29927,5 +29927,20 @@
     "description": "A simple and elegant presentation generator",
     "license": "MIT",
     "web": "https://github.com/HUSKI3/Nimppt"
+  },
+  {
+    "name": "nimAesCrypt",
+    "url": "https://github.com/maxDcb/nimAesCrypt",
+    "method": "git",
+    "tags": [
+      "nim",
+      "aes",
+      "security",
+      "aes-256",
+      "aes-encryption"
+    ],
+    "description": "Nim file-encryption module that uses AES256-CBC to encrypt/decrypt files.",
+    "license": "Apache 2.0",
+    "web": "https://github.com/maxDcb/nimAesCrypt"
   }
 ]
