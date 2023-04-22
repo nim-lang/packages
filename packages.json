@@ -29942,5 +29942,21 @@
     "description": "Nim file-encryption module that uses AES256-CBC to encrypt/decrypt files.",
     "license": "Apache 2.0",
     "web": "https://github.com/maxDcb/nimAesCrypt"
+  },
+  {
+    "name": "niscv",
+    "url": "https://gitlab.com/OFThomas/niscv",
+    "method": "git",
+    "tags": [
+      "virtual-machine",
+      "emulator",
+      "riscv",
+      "isa",
+      "virtual",
+      "machine"
+    ],
+    "description": "Nim powered RISC-V virtual machine and emulator.",
+    "license": "GPL3",
+    "web": "https://gitlab.com/OFThomas/niscv"
   }
 ]
