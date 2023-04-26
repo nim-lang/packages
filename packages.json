@@ -14,7 +14,7 @@
       "htmltoimage",
       "bindings",
       "wrapper"
-    ]
+    ],
     "description": "Nim bindings for wkhtmltox",
     "license": "LGPL-3.0-or-later",
     "web": "https://github.com/neroist/nim-wkhtmltox"
