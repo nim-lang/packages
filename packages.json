@@ -12847,17 +12847,24 @@
   },
   {
     "name": "result",
-    "url": "https://github.com/arnetheduck/nim-result",
+    "alias": "results"
+  },
+  {
+    "name": "results",
+    "url": "https://github.com/arnetheduck/nim-results",
     "method": "git",
     "tags": [
       "library",
       "result",
+      "results",
       "errors",
-      "functional"
+      "functional",
+      "option",
+      "options"
     ],
-    "description": "Friendly, exception-free value-or-error returns, similar to Option[T]",
+    "description": "Friendly value-or-error type",
     "license": "MIT",
-    "web": "https://github.com/arnetheduck/nim-result"
+    "web": "https://github.com/arnetheduck/nim-results"
   },
   {
     "name": "asciigraph",
