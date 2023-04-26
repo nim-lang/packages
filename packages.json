@@ -12856,8 +12856,11 @@
     "tags": [
       "library",
       "result",
+      "results",
       "errors",
-      "functional"
+      "functional",
+      "option",
+      "options"
     ],
     "description": "Friendly value-or-error type",
     "license": "MIT",
