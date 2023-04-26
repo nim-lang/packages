@@ -1,5 +1,25 @@
 [
   {
+    "name": "nimwkhtmltox",
+    "url": "https://github.com/neroist/nim-wkhtmltox",
+    "method": "git",
+    "tags": [
+      "wkhtmltopdf",
+      "wkhtmltoimage,
+      "wkhtmltox",
+      "pdf",
+      "image",
+      "html",
+      "htmltopdf",
+      "htmltoimage",
+      "bindings",
+      "wrapper"
+    ]
+    "description": "Nim bindings for wkhtmltox",
+    "license": "LGPL-3.0-or-later",
+    "web": "https://github.com/neroist/nim-wkhtmltox"
+  },
+  {
     "name": "youtubescraper",
     "url": "https://github.com/TaxMachine/youtubescraper",
     "method": "git",
