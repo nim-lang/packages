@@ -30017,5 +30017,19 @@
     "description": "Cozy Task Pool for threaded concurrency based on tasks and channels.",
     "license": "GPL-2.0-or-later",
     "web": "https://github.com/indiscipline/cozytaskpool"
+  },
+  {
+    "name": "genericinheritablefix",
+    "url": "https://github.com/metagn/genericinheritablefix",
+    "method": "git",
+    "tags": [
+      "inheritable",
+      "generic",
+      "fix",
+      "shim"
+    ],
+    "description": "shim for {.inheritable.} to work on generic objects for nim after 0.20",
+    "license": "MIT",
+    "web": "https://github.com/metagn/genericinheritablefix"
   }
 ]
