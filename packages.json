@@ -30028,5 +30028,19 @@
     ],
     "description": "Wrapper around PEG library, enhancing PEG reusability.",
     "license": "MIT"
+  },
+  {
+    "name": "checksums",
+    "url": "https://github.com/nim-lang/checksums",
+    "method": "git",
+    "tags": [
+      "checksums",
+      "official",
+      "hash",
+      "crypto"
+    ],
+    "description": "Hash algorithms in Nim.",
+    "license": "MIT",
+    "web": "https://github.com/nim-lang/checksums"
   }
 ]
