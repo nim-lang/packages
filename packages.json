@@ -30017,5 +30017,16 @@
     "description": "Cozy Task Pool for threaded concurrency based on tasks and channels.",
     "license": "GPL-2.0-or-later",
     "web": "https://github.com/indiscipline/cozytaskpool"
+  },
+  {
+    "name": "grammarian",
+    "url": "https://github.com/olmeca/grammarian",
+    "method": "git",
+    "tags": [
+      "peg",
+      "parsing"
+    ],
+    "description": "Wrapper around PEG library, enhancing PEG reusability.",
+    "license": "MIT"
   }
 ]
