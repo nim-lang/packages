@@ -30086,5 +30086,21 @@
     "description": "Few async tools for nim (then, catch, finally, and more)",
     "license": "MIT",
     "web": "https://github.com/archnim/sunk"
+  },
+  {
+    "name": "openai",
+    "url": "https://github.com/Uzo2005/openai",
+    "method": "git",
+    "tags": [
+      "openai",
+      "api",
+      "web",
+      "client",
+      "http",
+      "openapi"
+    ],
+    "description": "Openai API client For Nim",
+    "license": "MIT",
+    "web": "https://github.com/Uzo2005/openai"
   }
 ]
