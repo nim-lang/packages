@@ -30101,5 +30101,18 @@
     "description": "Openai API client For Nim",
     "license": "MIT",
     "web": "https://github.com/Uzo2005/openai"
+  },
+  {
+    "name": "replitDb",
+    "url": "https:///",
+    "method": "",
+    "tags": [
+      "replit",
+      "replitdb",
+      "replitdatabase"
+    ],
+    "description": "A wrapper for the Replit DB.",
+    "license": "MIT",
+    "web": "https:///"
   }
 ]
