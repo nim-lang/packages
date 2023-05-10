@@ -1,5 +1,19 @@
 [
   {
+    "name": "nimipdf",
+    "url": "https://github.com/neroist/nimipdf",
+    "method": "git",
+    "tags": [
+      "nimib",
+      "pdf",
+      "wkhtmltopdf",
+      "nimibex"
+    ],
+    "description": "Nim library that adds a PDF backend for nimib",
+    "license": "MIT",
+    "web": "https://neroist.github.io/nimipdf/index.pdf"
+  },
+  {
     "name": "nimwkhtmltox",
     "url": "https://github.com/neroist/nim-wkhtmltox",
     "method": "git",
