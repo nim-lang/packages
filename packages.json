@@ -1,5 +1,22 @@
 [
   {
+    "name": "lorem",
+    "url": "https://github.com/neroist/lorem",
+    "method": "git",
+    "tags": [
+      "lorem-ipsum",
+      "lorem",
+      "ipsum",
+      "text-generator",
+      "text-generation",
+      "random"
+    ],
+    "description": "Nim library that generates \"Lorem ipsum\" text.",
+    "license": "MIT",
+    "web": "https://github.com/neroist/lorem",
+    "doc": "https://neroist.github.io/lorem/lorem.html"
+  },
+  {
     "name": "nimipdf",
     "url": "https://github.com/neroist/nimipdf",
     "method": "git",
