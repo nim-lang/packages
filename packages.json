@@ -1,5 +1,18 @@
 [
   {
+    "name": "gitman",
+    "url": "https://github.com/nirokay/gitman",
+    "method": "git",
+    "tags": [
+      "git",
+      "manager",
+      "repository-manager"
+    ],
+    "description": "Cross-platform git repository manager.",
+    "license": "GPL-3.0-only",
+    "web": "https://github.com/nirokay/gitman"
+  },
+  {
     "name": "lorem",
     "url": "https://github.com/neroist/lorem",
     "method": "git",
