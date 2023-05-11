@@ -30159,5 +30159,19 @@
     "description": "Cross-platform gamepad driver",
     "license": "MIT",
     "web": "https://github.com/konsumer/nim-gamepad"
+  },
+  {
+    "name": "gamepad",
+    "url": "https://github.com/konsumer/nim-gamepad",
+    "method": "git",
+    "tags": [
+      "joystick",
+      "gamepad",
+      "games",
+      "input"
+    ],
+    "description": "Cross-platform gamepad driver",
+    "license": "MIT",
+    "web": "https://github.com/konsumer/nim-gamepad"
   }
 ]
