@@ -11971,6 +11971,18 @@
     "web": "https://github.com/treeform/print"
   },
   {
+    "name": "pretty",
+    "url": "https://github.com/treeform/pretty",
+    "method": "git",
+    "tags": [
+      "pretty",
+      "print"
+    ],
+    "description": "A pretty printer for Nim types",
+    "license": "MIT",
+    "web": "https://github.com/treeform/pretty"
+  },
+  {
     "name": "vmath",
     "url": "https://github.com/treeform/vmath",
     "method": "git",
