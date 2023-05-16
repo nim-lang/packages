@@ -30184,5 +30184,20 @@
     "description": "Seq that can safely add and remove elements while iterating.",
     "license": "GPL-2.0-only",
     "web": "https://github.com/avahe-kellenberger/safeseq"
+  },
+  {
+    "name": "sha256_64B",
+    "url": "https://github.com/status-im/sha256_64B",
+    "method": "git",
+    "tags": [
+      "sha256_64B",
+      "sha256",
+      "batch parallel hash",
+      "assembly optimization",
+      "merkle tree"
+    ],
+    "description": "sha256 hash of batches of 64B blocks in parallel via pure asm lib hashtree",
+    "license": "MIT or Apache License 2.0",
+    "web": "https://github.com/status-im/sha256_64B"
   }
 ]
