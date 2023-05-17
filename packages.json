@@ -30199,5 +30199,16 @@
     "description": "sha256 hash of batches of 64B blocks in parallel via pure asm lib hashtree",
     "license": "MIT or Apache License 2.0",
     "web": "https://github.com/status-im/sha256_64B"
+  },
+  {
+    "name": "chat_openai",
+    "url": "https://github.com/joshuajohncohen/chat_openai-nim",
+    "method": "git",
+    "tags": [
+      "openai"
+    ],
+    "description": "A CLI for the Chat series of models provided by OpenAI",
+    "license": "MIT",
+    "web": "https://github.com/joshuajohncohen/chat_openai-nim"
   }
 ]
