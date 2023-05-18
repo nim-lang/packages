@@ -30205,7 +30205,7 @@
     "url": "https://github.com/joshuajohncohen/chat_openai-nim",
     "method": "git",
     "tags": [
-      "openai"
+      "openai", "chatgpt", "chat", "client", "cli", "gpt4", "gpt-4", "gpt"
     ],
     "description": "A CLI for the Chat series of models provided by OpenAI",
     "license": "MIT",
