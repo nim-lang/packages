@@ -29854,7 +29854,7 @@
       "framework",
       "hapticx"
     ],
-    "description": "Asynchronous web-framework written with ♥",
+    "description": "Macro-oriented asynchronous web-framework written with ♥",
     "license": "GNU GPLv3",
     "web": "https://github.com/HapticX/happyx"
   },
