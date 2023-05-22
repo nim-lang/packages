@@ -30264,5 +30264,18 @@
     "description": "Wrapper around physfs",
     "license": "MIT",
     "web": "https://github.com/konsumer/nim-physfs_static"
+  },
+  {
+    "name": "perceptual",
+    "url": "https://github.com/deNULL/perceptual",
+    "method": "git",
+    "tags": [
+      "perceptual",
+      "hashes",
+      "images"
+    ],
+    "description": "A library for computing and comparing perceptual hashes in Nim",
+    "license": "MIT",
+    "web": "https://github.com/deNULL/perceptual"
   }
 ]
