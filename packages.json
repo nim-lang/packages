@@ -30264,5 +30264,18 @@
     "description": "Wrapper around physfs",
     "license": "MIT",
     "web": "https://github.com/konsumer/nim-physfs_static"
+  },
+  {
+    "name": "nats",
+    "url": "https://github.com/deem0n/nim-nats",
+    "method": "git",
+    "tags": [
+      "nats",
+      "library",
+      "wrapper"
+    ],
+    "description": "Nim wrapper for the nats.c - NATS client library",
+    "license": "MIT",
+    "web": "https://github.com/deem0n/nim-nats"
   }
 ]
