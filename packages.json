@@ -30302,5 +30302,20 @@
     "description": "A library for computing and comparing perceptual hashes in Nim",
     "license": "MIT",
     "web": "https://github.com/deNULL/perceptual"
+  },
+  {
+    "name": "malebolgia",
+    "url": "https://github.com/Araq/malebolgia",
+    "method": "git",
+    "tags": [
+      "thread",
+      "pool",
+      "spawn",
+      "concurrency",
+      "parallelism"
+    ],
+    "description": "Malebolgia creates new spawns. Experiments with thread pools and related APIs.",
+    "license": "MIT",
+    "web": "https://github.com/Araq/malebolgia"
   }
 ]
