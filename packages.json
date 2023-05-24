@@ -25930,7 +25930,7 @@
   },
   {
     "name": "tim",
-    "url": "https://github.com/openpeep/tim",
+    "url": "https://github.com/openpeeps/tim",
     "method": "git",
     "tags": [
       "template-engine",
@@ -25941,11 +25941,11 @@
     ],
     "description": "Really lightweight template engine",
     "license": "MIT",
-    "web": "https://github.com/openpeep/tim"
+    "web": "https://github.com/openpeeps/tim"
   },
   {
     "name": "nyml",
-    "url": "https://github.com/openpeep/nyml",
+    "url": "https://github.com/openpeeps/nyml",
     "method": "git",
     "tags": [
       "yaml",
@@ -25955,7 +25955,7 @@
     ],
     "description": "Stupid simple YAML-like implementation from YAML to JsonNode",
     "license": "MIT",
-    "web": "https://github.com/openpeep/nyml"
+    "web": "https://github.com/openpeeps/nyml"
   },
   {
     "name": "mdlldk",
@@ -26002,7 +26002,7 @@
   },
   {
     "name": "watchout",
-    "url": "https://github.com/openpeep/watchout",
+    "url": "https://github.com/openpeeps/watchout",
     "method": "git",
     "tags": [
       "filesystem",
@@ -26016,7 +26016,7 @@
     ],
     "description": "⚡️ Just... yellin' for changes! File System Monitor for devs",
     "license": "MIT",
-    "web": "https://github.com/openpeep/watchout"
+    "web": "https://github.com/openpeeps/watchout"
   },
   {
     "name": "uap",
@@ -26034,7 +26034,7 @@
   },
   {
     "name": "madam",
-    "url": "https://github.com/openpeep/madam",
+    "url": "https://github.com/openpeeps/madam",
     "method": "git",
     "tags": [
       "frontend",
@@ -26045,7 +26045,7 @@
     ],
     "description": "Local webserver for Design Prototyping and Front-end Development",
     "license": "MIT",
-    "web": "https://github.com/openpeep/madam"
+    "web": "https://github.com/openpeeps/madam"
   },
   {
     "name": "dnd",
@@ -26196,7 +26196,7 @@
   },
   {
     "name": "toktok",
-    "url": "https://github.com/openpeep/toktok",
+    "url": "https://github.com/openpeeps/toktok",
     "method": "git",
     "tags": [
       "lexer",
@@ -26209,7 +26209,7 @@
     ],
     "description": "Generic tokenizer written in Nim language 👑 Powered by Nim's Macros",
     "license": "MIT",
-    "web": "https://github.com/openpeep/toktok"
+    "web": "https://github.com/openpeeps/toktok"
   },
   {
     "name": "dogapi_cli",
@@ -27008,7 +27008,7 @@
   },
   {
     "name": "pkginfo",
-    "url": "https://github.com/openpeep/pkginfo",
+    "url": "https://github.com/openpeeps/pkginfo",
     "method": "git",
     "tags": [
       "macros",
@@ -27020,7 +27020,7 @@
     ],
     "description": "A tiny utility package to extract Nimble information from any project",
     "license": "MIT",
-    "web": "https://github.com/openpeep/pkginfo"
+    "web": "https://github.com/openpeeps/pkginfo"
   },
   {
     "name": "imstyle",
@@ -29138,7 +29138,7 @@
   },
   {
     "name": "find",
-    "url": "https://github.com/openpeep/find",
+    "url": "https://github.com/openpeeps/find",
     "method": "git",
     "tags": [
       "files",
@@ -29151,11 +29151,11 @@
     ],
     "description": "Finds files and directories based on different criteria via an intuitive fluent interface",
     "license": "MIT",
-    "web": "https://github.com/openpeep/find"
+    "web": "https://github.com/openpeeps/find"
   },
   {
     "name": "valido",
-    "url": "https://github.com/openpeep/valido",
+    "url": "https://github.com/openpeeps/valido",
     "method": "git",
     "tags": [
       "validation",
@@ -29166,7 +29166,7 @@
     ],
     "description": "A library of string validators and sanitizers.",
     "license": "MIT",
-    "web": "https://github.com/openpeep/valido"
+    "web": "https://github.com/openpeeps/valido"
   },
   {
     "name": "elfcore",
@@ -29200,7 +29200,7 @@
   },
   {
     "name": "bag",
-    "url": "https://github.com/openpeep/bag",
+    "url": "https://github.com/openpeeps/bag",
     "method": "git",
     "tags": [
       "form",
@@ -29210,7 +29210,7 @@
     ],
     "description": "Validate HTTP input data in a fancy way",
     "license": "MIT",
-    "web": "https://github.com/openpeep/bag"
+    "web": "https://github.com/openpeeps/bag"
   },
   {
     "name": "labeledtypes",
@@ -29230,7 +29230,7 @@
   },
   {
     "name": "iconim",
-    "url": "https://github.com/openpeep/iconim",
+    "url": "https://github.com/openpeeps/iconim",
     "method": "git",
     "tags": [
       "svg",
@@ -29243,7 +29243,7 @@
     ],
     "description": "SVG icon library manager for server-side rendering",
     "license": "MIT",
-    "web": "https://github.com/openpeep/iconim"
+    "web": "https://github.com/openpeeps/iconim"
   },
   {
     "name": "lowdb",
