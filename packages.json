@@ -30329,5 +30329,20 @@
     "description": "A template processor and language.",
     "license": "MIT",
     "web": "https://github.com/flenniken/statictea"
+  },
+  {
+    "name": "pyopenai",
+    "url": "https://github.com/HACCKKER/pyopenai",
+    "method": "git",
+    "tags": [
+      "python",
+      "openai",
+      "http",
+      "api",
+      "library"
+    ],
+    "description": "An attempt to reimplement python OpenAI API bindings in nim",
+    "license": "MIT",
+    "web": "https://github.com/HACCKKER/pyopenai"
   }
 ]
