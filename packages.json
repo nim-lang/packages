@@ -30364,5 +30364,21 @@
     "description": "A face detection, pupil/eyes localization and facial landmark points detection library",
     "license": "MIT",
     "web": "https://github.com/deNULL/facedetect"
+  },
+  {
+    "name": "bro",
+    "url": "https://github.com/openpeeps/bro",
+    "method": "git",
+    "tags": [
+      "css",
+      "sass",
+      "parser",
+      "css-parser",
+      "css-compiler",
+      "stylesheet"
+    ],
+    "description": "A super fast statically typed stylesheet language for cool kids",
+    "license": "MIT",
+    "web": "https://github.com/openpeeps/bro"
   }
 ]
