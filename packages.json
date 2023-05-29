@@ -11971,6 +11971,18 @@
     "web": "https://github.com/treeform/print"
   },
   {
+    "name": "pretty",
+    "url": "https://github.com/treeform/pretty",
+    "method": "git",
+    "tags": [
+      "pretty",
+      "print"
+    ],
+    "description": "A pretty printer for Nim types",
+    "license": "MIT",
+    "web": "https://github.com/treeform/pretty"
+  },
+  {
     "name": "vmath",
     "url": "https://github.com/treeform/vmath",
     "method": "git",
@@ -25901,7 +25913,11 @@
   },
   {
     "name": "klymene",
-    "url": "https://github.com/georgelemon/clymene",
+    "alias": "kapsis"
+  },
+  {
+    "name": "kapsis",
+    "url": "https://github.com/openpeeps/kapsis",
     "method": "git",
     "tags": [
       "cli",
@@ -25909,16 +25925,15 @@
       "toolkit",
       "command-line",
       "cli-framework",
-      "klymene",
       "interactive"
     ],
-    "description": "Create beautiful command line interfaces in Nim. Based on docopt.",
+    "description": "Build delightful command line interfaces in seconds.",
     "license": "MIT",
-    "web": "https://github.com/georgelemon/clymene"
+    "web": "https://github.com/openpeeps/kapsis"
   },
   {
     "name": "tim",
-    "url": "https://github.com/openpeep/tim",
+    "url": "https://github.com/openpeeps/tim",
     "method": "git",
     "tags": [
       "template-engine",
@@ -25929,11 +25944,11 @@
     ],
     "description": "Really lightweight template engine",
     "license": "MIT",
-    "web": "https://github.com/openpeep/tim"
+    "web": "https://github.com/openpeeps/tim"
   },
   {
     "name": "nyml",
-    "url": "https://github.com/openpeep/nyml",
+    "url": "https://github.com/openpeeps/nyml",
     "method": "git",
     "tags": [
       "yaml",
@@ -25943,7 +25958,7 @@
     ],
     "description": "Stupid simple YAML-like implementation from YAML to JsonNode",
     "license": "MIT",
-    "web": "https://github.com/openpeep/nyml"
+    "web": "https://github.com/openpeeps/nyml"
   },
   {
     "name": "mdlldk",
@@ -25990,7 +26005,7 @@
   },
   {
     "name": "watchout",
-    "url": "https://github.com/openpeep/watchout",
+    "url": "https://github.com/openpeeps/watchout",
     "method": "git",
     "tags": [
       "filesystem",
@@ -26004,7 +26019,7 @@
     ],
     "description": "⚡️ Just... yellin' for changes! File System Monitor for devs",
     "license": "MIT",
-    "web": "https://github.com/openpeep/watchout"
+    "web": "https://github.com/openpeeps/watchout"
   },
   {
     "name": "uap",
@@ -26022,7 +26037,7 @@
   },
   {
     "name": "madam",
-    "url": "https://github.com/openpeep/madam",
+    "url": "https://github.com/openpeeps/madam",
     "method": "git",
     "tags": [
       "frontend",
@@ -26033,7 +26048,7 @@
     ],
     "description": "Local webserver for Design Prototyping and Front-end Development",
     "license": "MIT",
-    "web": "https://github.com/openpeep/madam"
+    "web": "https://github.com/openpeeps/madam"
   },
   {
     "name": "dnd",
@@ -26184,7 +26199,7 @@
   },
   {
     "name": "toktok",
-    "url": "https://github.com/openpeep/toktok",
+    "url": "https://github.com/openpeeps/toktok",
     "method": "git",
     "tags": [
       "lexer",
@@ -26197,7 +26212,7 @@
     ],
     "description": "Generic tokenizer written in Nim language 👑 Powered by Nim's Macros",
     "license": "MIT",
-    "web": "https://github.com/openpeep/toktok"
+    "web": "https://github.com/openpeeps/toktok"
   },
   {
     "name": "dogapi_cli",
@@ -26996,7 +27011,7 @@
   },
   {
     "name": "pkginfo",
-    "url": "https://github.com/openpeep/pkginfo",
+    "url": "https://github.com/openpeeps/pkginfo",
     "method": "git",
     "tags": [
       "macros",
@@ -27008,7 +27023,7 @@
     ],
     "description": "A tiny utility package to extract Nimble information from any project",
     "license": "MIT",
-    "web": "https://github.com/openpeep/pkginfo"
+    "web": "https://github.com/openpeeps/pkginfo"
   },
   {
     "name": "imstyle",
@@ -29126,7 +29141,7 @@
   },
   {
     "name": "find",
-    "url": "https://github.com/openpeep/find",
+    "url": "https://github.com/openpeeps/find",
     "method": "git",
     "tags": [
       "files",
@@ -29139,11 +29154,11 @@
     ],
     "description": "Finds files and directories based on different criteria via an intuitive fluent interface",
     "license": "MIT",
-    "web": "https://github.com/openpeep/find"
+    "web": "https://github.com/openpeeps/find"
   },
   {
     "name": "valido",
-    "url": "https://github.com/openpeep/valido",
+    "url": "https://github.com/openpeeps/valido",
     "method": "git",
     "tags": [
       "validation",
@@ -29154,7 +29169,7 @@
     ],
     "description": "A library of string validators and sanitizers.",
     "license": "MIT",
-    "web": "https://github.com/openpeep/valido"
+    "web": "https://github.com/openpeeps/valido"
   },
   {
     "name": "elfcore",
@@ -29188,7 +29203,7 @@
   },
   {
     "name": "bag",
-    "url": "https://github.com/openpeep/bag",
+    "url": "https://github.com/openpeeps/bag",
     "method": "git",
     "tags": [
       "form",
@@ -29198,7 +29213,7 @@
     ],
     "description": "Validate HTTP input data in a fancy way",
     "license": "MIT",
-    "web": "https://github.com/openpeep/bag"
+    "web": "https://github.com/openpeeps/bag"
   },
   {
     "name": "labeledtypes",
@@ -29218,7 +29233,7 @@
   },
   {
     "name": "iconim",
-    "url": "https://github.com/openpeep/iconim",
+    "url": "https://github.com/openpeeps/iconim",
     "method": "git",
     "tags": [
       "svg",
@@ -29231,7 +29246,7 @@
     ],
     "description": "SVG icon library manager for server-side rendering",
     "license": "MIT",
-    "web": "https://github.com/openpeep/iconim"
+    "web": "https://github.com/openpeeps/iconim"
   },
   {
     "name": "lowdb",
@@ -29842,7 +29857,7 @@
       "framework",
       "hapticx"
     ],
-    "description": "Asynchronous web-framework written with ♥",
+    "description": "Macro-oriented asynchronous web-framework written with ♥",
     "license": "GNU GPLv3",
     "web": "https://github.com/HapticX/happyx"
   },
@@ -30159,5 +30174,195 @@
     "description": "Cross-platform gamepad driver",
     "license": "MIT",
     "web": "https://github.com/konsumer/nim-gamepad"
+  },
+  {
+    "name": "safeseq",
+    "url": "https://github.com/avahe-kellenberger/safeseq",
+    "method": "git",
+    "tags": [
+      "seq",
+      "iteration",
+      "remove"
+    ],
+    "description": "Seq that can safely add and remove elements while iterating.",
+    "license": "GPL-2.0-only",
+    "web": "https://github.com/avahe-kellenberger/safeseq"
+  },
+  {
+    "name": "sha256_64B",
+    "url": "https://github.com/status-im/sha256_64B",
+    "method": "git",
+    "tags": [
+      "sha256_64B",
+      "sha256",
+      "batch parallel hash",
+      "assembly optimization",
+      "merkle tree"
+    ],
+    "description": "sha256 hash of batches of 64B blocks in parallel via pure asm lib hashtree",
+    "license": "MIT or Apache License 2.0",
+    "web": "https://github.com/status-im/sha256_64B"
+  },
+  {
+    "name": "chat_openai",
+    "url": "https://github.com/joshuajohncohen/chat_openai-nim",
+    "method": "git",
+    "tags": [
+      "openai",
+      "chatgpt",
+      "chat",
+      "client",
+      "cli",
+      "gpt4",
+      "gpt-4",
+      "gpt"
+    ],
+    "description": "A CLI for the Chat series of models provided by OpenAI",
+    "license": "MIT",
+    "web": "https://github.com/joshuajohncohen/chat_openai-nim"
+  },
+  {
+    "name": "nmostr",
+    "url": "https://github.com/Gruruya/nmostr",
+    "method": "git",
+    "tags": [
+      "nostr library",
+      "decentralized messaging protocol",
+      "censorship-resistant social media"
+    ],
+    "description": "Library for Nostr: a simple, open protocol enabling censorship-resistant social media.",
+    "license": "AGPL-3.0-only",
+    "web": "https://github.com/Gruruya/nmostr",
+    "doc": "https://gruruya.github.io/nmostr"
+  },
+  {
+    "name": "StripeKit",
+    "url": "https://github.com/vfehring/StripeKit",
+    "method": "git",
+    "tags": [
+      "payment-processor",
+      "stripe"
+    ],
+    "description": "Stripe API wrapper for Nim",
+    "license": "MIT",
+    "web": "https://github.com/vfehring/StripeKit"
+  },
+  {
+    "name": "physfs_static",
+    "url": "https://github.com/konsumer/nim-physfs_static",
+    "method": "git",
+    "tags": [
+      "physfs",
+      "zip",
+      "wad",
+      "iso9660",
+      "7z",
+      "grp",
+      "hog",
+      "mvl",
+      "qpak",
+      "slp",
+      "vdf"
+    ],
+    "description": "Wrapper around physfs",
+    "license": "MIT",
+    "web": "https://github.com/konsumer/nim-physfs_static"
+  },
+  {
+    "name": "nats",
+    "url": "https://github.com/deem0n/nim-nats",
+    "method": "git",
+    "tags": [
+      "nats",
+      "library",
+      "wrapper"
+    ],
+    "description": "Nim wrapper for the nats.c - NATS client library",
+    "license": "MIT",
+    "web": "https://github.com/deem0n/nim-nats"
+  },
+  {
+    "name": "nico_font_tool",
+    "url": "https://github.com/TakWolf/nico-font-tool",
+    "method": "git",
+    "tags": [
+      "pico-8",
+      "game"
+    ],
+    "description": "A tool for converting fonts to NICO Game Framework format fonts.",
+    "license": "MIT",
+    "web": "https://github.com/TakWolf/nico-font-tool"
+  },
+  {
+    "name": "perceptual",
+    "url": "https://github.com/deNULL/perceptual",
+    "method": "git",
+    "tags": [
+      "perceptual",
+      "hashes",
+      "images"
+    ],
+    "description": "A library for computing and comparing perceptual hashes in Nim",
+    "license": "MIT",
+    "web": "https://github.com/deNULL/perceptual"
+  },
+  {
+    "name": "malebolgia",
+    "url": "https://github.com/Araq/malebolgia",
+    "method": "git",
+    "tags": [
+      "thread",
+      "pool",
+      "spawn",
+      "concurrency",
+      "parallelism"
+    ],
+    "description": "Malebolgia creates new spawns. Experiments with thread pools and related APIs.",
+    "license": "MIT",
+    "web": "https://github.com/Araq/malebolgia"
+  },
+  {
+    "name": "statictea",
+    "url": "https://github.com/flenniken/statictea",
+    "method": "git",
+    "tags": [
+      "template system",
+      "language"
+    ],
+    "description": "A template processor and language.",
+    "license": "MIT",
+    "web": "https://github.com/flenniken/statictea"
+  },
+  {
+    "name": "pyopenai",
+    "url": "https://github.com/HACCKKER/pyopenai",
+    "method": "git",
+    "tags": [
+      "python",
+      "openai",
+      "http",
+      "api",
+      "library"
+    ],
+    "description": "An attempt to reimplement python OpenAI API bindings in nim",
+    "license": "MIT",
+    "web": "https://github.com/HACCKKER/pyopenai"
+  },
+  {
+    "name": "facedetect",
+    "url": "https://github.com/deNULL/facedetect",
+    "method": "git",
+    "tags": [
+      "face",
+      "detection",
+      "eye",
+      "pupil",
+      "pico",
+      "facial",
+      "landmarks"
+    ],
+    "description": "A face detection, pupil/eyes localization and facial landmark points detection library",
+    "license": "MIT",
+    "web": "https://github.com/deNULL/facedetect"
   }
 ]
