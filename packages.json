@@ -30391,5 +30391,20 @@
     "description": "A deadly simply log package supporting very simple colorful logging.",
     "license": "MIT",
     "web": "https://github.com/sslime336/simplelog"
+  },
+  {
+    "name": "measures",
+    "url": "https://github.com/energy-nim/measures",
+    "method": "git",
+    "tags": [
+      "library",
+      "units",
+      "physics",
+      "metrics",
+      "measurements"
+    ],
+    "description": "General purpose measuring units datatypes with integrated conversions and definitions.",
+    "license": "MIT",
+    "web": "https://github.com/energy-nim/measures" 
   }
 ]
