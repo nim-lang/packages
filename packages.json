@@ -30454,5 +30454,19 @@
     "description": "A quick media server in nim",
     "license": "GPL-3.0-only",
     "web": "https://github.com/arashi-software/shio"
+  },
+  {
+    "name": "simpleflake",
+    "url": "https://github.com/aisk/simpleflake.nim",
+    "method": "git",
+    "tags": [
+      "id",
+      "idgenerator",
+      "web",
+      "library"
+    ],
+    "description": "Simpleflake for nim",
+    "license": "MIT",
+    "web": "https://github.com/aisk/simpleflake.nim"
   }
 ]
