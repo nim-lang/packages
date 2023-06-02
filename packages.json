@@ -30381,5 +30381,78 @@
     "description": "DENIM - Nim code to Bun.js/Node.js in seconds via NAPI",
     "license": "MIT",
     "web": "https://github.com/openpeeps/denim"
+  },
+  {
+    "name": "bro",
+    "url": "https://github.com/openpeeps/bro",
+    "method": "git",
+    "tags": [
+      "css",
+      "sass",
+      "parser",
+      "css-parser",
+      "css-compiler",
+      "stylesheet"
+    ],
+    "description": "A super fast statically typed stylesheet language for cool kids",
+    "license": "MIT",
+    "web": "https://github.com/openpeeps/bro"
+  },
+  {
+    "name": "nimcatapi",
+    "url": "https://github.com/nirokay/nimcatapi",
+    "method": "git",
+    "tags": [
+      "thecatapi",
+      "thedogapi",
+      "api",
+      "animals",
+      "network",
+      "images"
+    ],
+    "description": "nimcatapi is a library that lets you easily request images from thecatapi and/or thedogapi.",
+    "license": "GPL-3.0-only",
+    "web": "https://github.com/nirokay/nimcatapi"
+  },
+  {
+    "name": "simplelog",
+    "url": "https://github.com/sslime336/simplelog",
+    "method": "git",
+    "tags": [
+      "log"
+    ],
+    "description": "A deadly simply log package supporting very simple colorful logging.",
+    "license": "MIT",
+    "web": "https://github.com/sslime336/simplelog"
+  },
+  {
+    "name": "measures",
+    "url": "https://github.com/energy-nim/measures",
+    "method": "git",
+    "tags": [
+      "library",
+      "units",
+      "physics",
+      "metrics",
+      "measurements"
+    ],
+    "description": "General purpose measuring units datatypes with integrated conversions and definitions.",
+    "license": "MIT",
+    "web": "https://github.com/energy-nim/measures"
+  },
+  {
+    "name": "shio",
+    "url": "https://github.com/arashi-software/shio",
+    "method": "git",
+    "tags": [
+      "web",
+      "server",
+      "file",
+      "http",
+      "jester"
+    ],
+    "description": "A quick media server in nim",
+    "license": "GPL-3.0-only",
+    "web": "https://github.com/arashi-software/shio"
   }
 ]
