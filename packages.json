@@ -30366,6 +30366,23 @@
     "web": "https://github.com/deNULL/facedetect"
   },
   {
+    "name": "denim",
+    "url": "https://github.com/openpeeps/denim",
+    "method": "git",
+    "tags": [
+      "node",
+      "nodejs",
+      "bun",
+      "bunsh",
+      "napi",
+      "addon",
+      "toolkit"
+    ],
+    "description": "DENIM - Nim code to Bun.js/Node.js in seconds via NAPI",
+    "license": "MIT",
+    "web": "https://github.com/openpeeps/denim"
+  },
+  {
     "name": "bro",
     "url": "https://github.com/openpeeps/bro",
     "method": "git",
