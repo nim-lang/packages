@@ -12244,6 +12244,23 @@
     "web": "https://github.com/treeform/windy"
   },
   {
+    "name": "guardmons",
+    "url": "https://github.com/treeform/guardmons",
+    "method": "git",
+    "tags": [
+      "daemon",
+      "ssh",
+      "copy",
+      "shell",
+      "kill",
+      "top",
+      "watch"
+    ],
+    "description": "Cross-platform collection of OS Utilities",
+    "license": "MIT",
+    "web": "https://github.com/treeform/guardmons"
+  },
+  {
     "name": "xdo",
     "url": "https://github.com/juancarlospaco/nim-xdo",
     "method": "git",
