@@ -30473,5 +30473,20 @@
     "description": "A quick media server in nim",
     "license": "GPL-3.0-only",
     "web": "https://github.com/arashi-software/shio"
+  },
+  {
+    "name": "delaunator",
+    "url": "https://github.com/patternspandemic/delaunator-nim",
+    "method": "git",
+    "tags": [
+      "delaunay",
+      "voronoi",
+      "dual graph",
+      "library"
+    ],
+    "description": "Fast 2D Delaunay triangulation. A Nim port of Mapbox/Delaunator.",
+    "license": "Unlicense",
+    "web": "https://github.com/patternspandemic/delaunator-nim",
+    "doc": "https://patternspandemic.github.io/delaunator-nim/"
   }
 ]
