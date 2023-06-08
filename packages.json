@@ -30488,5 +30488,24 @@
     "license": "Unlicense",
     "web": "https://github.com/patternspandemic/delaunator-nim",
     "doc": "https://patternspandemic.github.io/delaunator-nim/"
+  },
+  {
+    "name": "pixienator",
+    "url": "https://github.com/patternspandemic/pixienator",
+    "method": "git",
+    "tags": [
+      "delaunator",
+      "pixie",
+      "visualization",
+      "delaunay",
+      "voronoi",
+      "dual graph",
+      "helpers",
+      "library"
+    ],
+    "description": "Helpers for visualizing delaunator with pixie.",
+    "license": "Unlicense",
+    "web": "https://github.com/patternspandemic/pixienator",
+    "doc": "https://patternspandemic.github.io/pixienator/"
   }
 ]
