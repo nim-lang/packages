@@ -1,5 +1,21 @@
 [
   {
+    "name": "nimip",
+    "url": "https://github.com/hitblast/nimip",
+    "method": "git",
+    "tags": [
+      "nimip",
+      "api-wrapper",
+      "ip-api",
+      "ip-address-lookup",
+      "library",
+      "hybrid"
+    ],
+    "description": "Asynchronously lookup IP addresses with this tiny, hybrid Nim application.",
+    "license": "MIT",
+    "web": "https://github.com/hitblast/nimip"
+  },
+  {
     "name": "gitman",
     "url": "https://github.com/nirokay/gitman",
     "method": "git",
