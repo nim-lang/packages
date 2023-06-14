@@ -30447,7 +30447,8 @@
     ],
     "description": "nimcatapi is a library that lets you easily request images from thecatapi and/or thedogapi.",
     "license": "GPL-3.0-only",
-    "web": "https://github.com/nirokay/nimcatapi"
+    "web": "https://github.com/nirokay/nimcatapi",
+    "doc": "https://nirokay.github.io/nim-docs/nimcatapi/nimcatapi.html"
   },
   {
     "name": "simplelog",
