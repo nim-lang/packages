@@ -30583,5 +30583,24 @@
     "description": "Nim module for the bzip2 compression format.",
     "license": "MIT",
     "web": "https://codeberg.org/Yepoleb/nim-bz2"
+  },
+  {
+  "name": "mvb",
+  "url": "https://github.com/tapsterbot/mvb-opencv",
+  "method": "git",
+  "tags": [
+    "opencv",  
+    "library",
+    "wrapper",
+    "image",
+    "processing",
+    "minimal",
+    "mininum",
+    "viable",
+    "bindings"
+  ],
+  "description": "Minimum viable bindings for OpenCV",
+  "license": "MIT",
+  "web": "https://github.com/tapsterbot/mvb-opencv"
   }
 ]
