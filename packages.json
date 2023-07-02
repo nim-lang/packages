@@ -30617,5 +30617,17 @@
     "description": "Email parser to JsonNode based on Cyrus JMAP parser",
     "license": "BSD",
     "web": "https://github.com/mildred/emailparser.nim"
+  },
+  {
+    "name": "colored_logger",
+    "url": "https://github.com/4zv4l/colored_logger",
+    "method": "git",
+    "tags": [
+      "logging",
+      "colours",
+    ],
+    "description": "A simple colored logger from std/logging",
+    "license": "MIT",
+    "web": "https://github.com/4zv4l/colored_logger"
   }
 ]
