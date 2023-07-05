@@ -30629,5 +30629,17 @@
     "description": "A simple colored logger from std/logging",
     "license": "MIT",
     "web": "https://github.com/4zv4l/colored_logger"
+  },
+  {
+    "name": "nimpath",
+    "url": "https://github.com/weskerfoot/NimPath",
+    "method": "git",
+    "tags": [
+      "web",
+      "parser"
+    ],
+    "description": "Interface to libxml2's XPath parser",
+    "license": "MIT",
+    "web": "https://github.com/weskerfoot/NimPath",
   }
 ]
