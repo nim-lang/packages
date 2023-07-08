@@ -30653,5 +30653,17 @@
     "description": "Simple parser for HTML",
     "license": "MIT",
     "web": "https://github.com/TelegramXPlus/beautifulparser"
+  },
+  {
+    "name": "musicSort",
+    "url": "https:///",
+    "method": "",
+    "tags": [
+      "music",
+      "metadata"
+    ],
+    "description": "A new awesome nimble package",
+    "license": "MIT",
+    "web": "https:///"
   }
 ]
