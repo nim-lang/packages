@@ -30653,5 +30653,21 @@
     "description": "Simple parser for HTML",
     "license": "MIT",
     "web": "https://github.com/TelegramXPlus/beautifulparser"
+  },
+  {
+    "name": "brainimfuck",
+    "url": "https://github.com/nirokay/brainimfuck",
+    "method": "git",
+    "tags": [
+      "brainfuck",
+      "interpreter",
+      "language",
+      "cli",
+      "binary",
+      "app"
+    ],
+    "description": "Brainfuck interpreter with some advanced features, such as syntax checking and highlighting errors.",
+    "license": "GPL-3.0-only",
+    "web": "https://github.com/nirokay/brainimfuck"
   }
 ]
