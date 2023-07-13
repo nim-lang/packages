@@ -28626,7 +28626,7 @@
   },
   {
     "name": "gptcli",
-    "url": "https://github.com/HACCKKER/gptcli",
+    "url": "https://github.com/jaredmontoya/gptcli",
     "method": "git",
     "tags": [
       "client",
@@ -28635,7 +28635,7 @@
     ],
     "description": "chatgpt cli client written in nim",
     "license": "MIT",
-    "web": "https://github.com/HACCKKER/gptcli"
+    "web": "https://github.com/jaredmontoya/gptcli"
   },
   {
     "name": "update_nimble_version",
@@ -30370,7 +30370,7 @@
   },
   {
     "name": "pyopenai",
-    "url": "https://github.com/HACCKKER/pyopenai",
+    "url": "https://github.com/jaredmontoya/pyopenai",
     "method": "git",
     "tags": [
       "python",
@@ -30381,7 +30381,7 @@
     ],
     "description": "An attempt to reimplement python OpenAI API bindings in nim",
     "license": "MIT",
-    "web": "https://github.com/HACCKKER/pyopenai"
+    "web": "https://github.com/jaredmontoya/pyopenai"
   },
   {
     "name": "facedetect",
