@@ -30695,5 +30695,20 @@
     "description": "A Nim binding for DX Library",
     "license": "MIT",
     "web": "https://github.com/777shuang/DxLib"
+  },
+  {
+    "name": "spotlightr",
+    "url": "https://git.ozzuu.com/thisago/spotlightr",
+    "method": "git",
+    "tags": [
+      "library",
+      "extractor",
+      "scraper",
+      "video",
+      "stream"
+    ],
+    "description": "Spotlightr basic extractor to get the video",
+    "license": "MIT",
+    "web": "https://git.ozzuu.com/thisago/spotlightr"
   }
 ]
