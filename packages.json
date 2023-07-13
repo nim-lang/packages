@@ -28626,7 +28626,7 @@
   },
   {
     "name": "gptcli",
-    "url": "https://github.com/HACCKKER/gptcli",
+    "url": "https://github.com/jaredmontoya/gptcli",
     "method": "git",
     "tags": [
       "client",
@@ -28635,7 +28635,7 @@
     ],
     "description": "chatgpt cli client written in nim",
     "license": "MIT",
-    "web": "https://github.com/HACCKKER/gptcli"
+    "web": "https://github.com/jaredmontoya/gptcli"
   },
   {
     "name": "update_nimble_version",
@@ -30370,7 +30370,7 @@
   },
   {
     "name": "pyopenai",
-    "url": "https://github.com/HACCKKER/pyopenai",
+    "url": "https://github.com/jaredmontoya/pyopenai",
     "method": "git",
     "tags": [
       "python",
@@ -30381,7 +30381,7 @@
     ],
     "description": "An attempt to reimplement python OpenAI API bindings in nim",
     "license": "MIT",
-    "web": "https://github.com/HACCKKER/pyopenai"
+    "web": "https://github.com/jaredmontoya/pyopenai"
   },
   {
     "name": "facedetect",
@@ -30669,5 +30669,31 @@
     "description": "Brainfuck interpreter with some advanced features, such as syntax checking and highlighting errors.",
     "license": "GPL-3.0-only",
     "web": "https://github.com/nirokay/brainimfuck"
+  },
+  {
+    "name": "gtrends",
+    "url": "https://git.ozzuu.com/thisago/gtrends",
+    "method": "git",
+    "tags": [
+      "library",
+      "google_trends",
+      "trends",
+      "rss",
+      "google"
+    ],
+    "description": "Google Trends RSS",
+    "license": "MIT",
+    "web": "https://git.ozzuu.com/thisago/gtrends"
+  },
+  {
+    "name": "DxLib",
+    "url": "https://github.com/777shuang/DxLib",
+    "method": "git",
+    "tags": [
+      "bindings"
+    ],
+    "description": "A Nim binding for DX Library",
+    "license": "MIT",
+    "web": "https://github.com/777shuang/DxLib"
   }
 ]
