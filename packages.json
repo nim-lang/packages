@@ -185,6 +185,17 @@
     "license": "MIT"
   },
   {
+    "name": "polyrpc",
+    "url": "https://github.com/choltreppe/polyrpc",
+    "method": "git",
+    "tags": [
+      "rpc",
+      "remote procedure call"
+    ],
+    "description": "A system for generating remote-procedure-calls for any pair of server and client",
+    "license": "MIT"
+  },
+  {
     "name": "geolocation",
     "url": "https://github.com/HazeCS/geolocation",
     "method": "git",
@@ -30710,5 +30721,18 @@
     "description": "Spotlightr basic extractor to get the video",
     "license": "MIT",
     "web": "https://git.ozzuu.com/thisago/spotlightr"
+  },
+  {
+    "name": "rclnim",
+    "url": "https://github.com/Pylgos/rclnim",
+    "method": "git",
+    "tags": [
+      "library",
+      "embedded",
+      "ros2"
+    ],
+    "description": "Nim bindings for ROS2",
+    "license": "MIT",
+    "web": "https://github.com/Pylgos/rclnim"
   }
 ]
