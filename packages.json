@@ -26213,7 +26213,11 @@
   },
   {
     "name": "variantsugar",
-    "url": "https://github.com/metagn/variantsugar",
+    "alias": "skinsuit"
+  },
+  {
+    "name": "skinsuit",
+    "url": "https://github.com/metagn/skinsuit",
     "method": "git",
     "tags": [
       "object",
@@ -26226,7 +26230,7 @@
     ],
     "description": "utility macros mostly for object variants",
     "license": "MIT",
-    "web": "https://github.com/metagn/variantsugar"
+    "web": "https://github.com/metagn/skinsuit"
   },
   {
     "name": "dogapi",
