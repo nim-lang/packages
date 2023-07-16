@@ -185,6 +185,17 @@
     "license": "MIT"
   },
   {
+    "name": "polyrpc",
+    "url": "https://github.com/choltreppe/polyrpc",
+    "method": "git",
+    "tags": [
+      "rpc",
+      "remote procedure call"
+    ],
+    "description": "A system for generating remote-procedure-calls for any pair of server and client",
+    "license": "MIT"
+  },
+  {
     "name": "geolocation",
     "url": "https://github.com/HazeCS/geolocation",
     "method": "git",
@@ -26202,7 +26213,11 @@
   },
   {
     "name": "variantsugar",
-    "url": "https://github.com/metagn/variantsugar",
+    "alias": "skinsuit"
+  },
+  {
+    "name": "skinsuit",
+    "url": "https://github.com/metagn/skinsuit",
     "method": "git",
     "tags": [
       "object",
@@ -26215,7 +26230,7 @@
     ],
     "description": "utility macros mostly for object variants",
     "license": "MIT",
-    "web": "https://github.com/metagn/variantsugar"
+    "web": "https://github.com/metagn/skinsuit"
   },
   {
     "name": "dogapi",
@@ -28626,7 +28641,7 @@
   },
   {
     "name": "gptcli",
-    "url": "https://github.com/HACCKKER/gptcli",
+    "url": "https://github.com/jaredmontoya/gptcli",
     "method": "git",
     "tags": [
       "client",
@@ -28635,7 +28650,7 @@
     ],
     "description": "chatgpt cli client written in nim",
     "license": "MIT",
-    "web": "https://github.com/HACCKKER/gptcli"
+    "web": "https://github.com/jaredmontoya/gptcli"
   },
   {
     "name": "update_nimble_version",
@@ -30370,7 +30385,7 @@
   },
   {
     "name": "pyopenai",
-    "url": "https://github.com/HACCKKER/pyopenai",
+    "url": "https://github.com/jaredmontoya/pyopenai",
     "method": "git",
     "tags": [
       "python",
@@ -30381,7 +30396,7 @@
     ],
     "description": "An attempt to reimplement python OpenAI API bindings in nim",
     "license": "MIT",
-    "web": "https://github.com/HACCKKER/pyopenai"
+    "web": "https://github.com/jaredmontoya/pyopenai"
   },
   {
     "name": "facedetect",
@@ -30711,5 +30726,33 @@
     "description": "casting macro for procedure parameters",
     "license": "MIT",
     "web": "https://github.com/hamidb80/caster/"
+  },
+  {
+    "name": "spotlightr",
+    "url": "https://git.ozzuu.com/thisago/spotlightr",
+    "method": "git",
+    "tags": [
+      "library",
+      "extractor",
+      "scraper",
+      "video",
+      "stream"
+    ],
+    "description": "Spotlightr basic extractor to get the video",
+    "license": "MIT",
+    "web": "https://git.ozzuu.com/thisago/spotlightr"
+  },
+  {
+    "name": "rclnim",
+    "url": "https://github.com/Pylgos/rclnim",
+    "method": "git",
+    "tags": [
+      "library",
+      "embedded",
+      "ros2"
+    ],
+    "description": "Nim bindings for ROS2",
+    "license": "MIT",
+    "web": "https://github.com/Pylgos/rclnim"
   }
 ]
