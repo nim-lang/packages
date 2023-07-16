@@ -30738,5 +30738,19 @@
     "description": "Nim bindings for ROS2",
     "license": "MIT",
     "web": "https://github.com/Pylgos/rclnim"
+  },
+  {
+    "name": "broly",
+    "url": "https://github.com/solaoi/broly",
+    "method": "git",
+    "tags": [
+      "mock",
+      "stub",
+      "test",
+      "server"
+    ],
+    "description": "HighPerformance Stub Server",
+    "license": "MIT",
+    "web": "https://github.com/solaoi/broly"
   }
 ]
