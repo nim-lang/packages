@@ -1,5 +1,23 @@
 [
   {
+    "name": "sun_moon",
+    "url": "https://github.com/dschaadt/sun_moon",
+    "method": "git",
+    "tags": [
+      "astro",
+      "sun",
+      "moon",
+      "position",
+      "sunrise",
+      "sunset",
+      "moonrise",
+      "moonset",
+    ],
+    "description": "Astro functions for calcuation of sun and moon position, rise and set time as well as civil, nautical and astronomical dawn and dusk as a function of latitude and longitude.",
+    "license": "MIT",
+    "web": "https://github.com/dschaadt/sun_moon"
+  },
+  {
     "name": "nimip",
     "url": "https://github.com/hitblast/nimip",
     "method": "git",
