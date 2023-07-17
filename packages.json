@@ -30793,5 +30793,23 @@
     "description": "Voicepeak Server",
     "license": "MIT",
     "web": "https://github.com/solaoi/voicepeaky"
+  },
+  {
+    "name": "nimf",
+    "url": "https://github.com/Gruruya/nimf",
+    "method": "git",
+    "tags": [
+      "find command-line utility",
+      "multithreaded filesystem search tool",
+      "fast",
+      "finder",
+      "cli",
+      "shell",
+      "terminal",
+      "console"
+    ],
+    "description": "Search for files in a directory hierarchy.",
+    "license": "AGPL-3.0-only",
+    "web": "https://github.com/Gruruya/nimf"
   }
 ]
