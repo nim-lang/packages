@@ -30712,6 +30712,22 @@
     "web": "https://github.com/777shuang/DxLib"
   },
   {
+    "name": "caster",
+    "url": "https://github.com/hamidb80/caster/",
+    "method": "git",
+    "tags": [
+      "sugar",
+      "macro",
+      "cast",
+      "caster",
+      "casting",
+      "parameters"
+    ],
+    "description": "casting macro for procedure parameters",
+    "license": "MIT",
+    "web": "https://github.com/hamidb80/caster/"
+  },
+  {
     "name": "spotlightr",
     "url": "https://git.ozzuu.com/thisago/spotlightr",
     "method": "git",
