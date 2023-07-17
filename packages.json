@@ -30749,7 +30749,7 @@
       "test",
       "server"
     ],
-    "description": "HighPerformance Stub Server",
+    "description": "High Performance Stub Server",
     "license": "MIT",
     "web": "https://github.com/solaoi/broly"
   }
