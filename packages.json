@@ -19231,6 +19231,22 @@
     "web": "https://github.com/angluca/tigr-nim"
   },
   {
+    "name": "sokol",
+    "url": "https://github.com/floooh/sokol-nim",
+    "method": "git",
+    "tags": [
+      "opengl",
+      "3d",
+      "game",
+      "imgui",
+      "graphics",
+      "cross-platform"
+    ],
+    "description": "sokol is a minimal cross-platform standalone graphics library",
+    "license": "MIT",
+    "web": "https://github.com/floooh/sokol-nim"
+  },
+  {
     "name": "nimatic",
     "url": "https://github.com/DangerOnTheRanger/nimatic",
     "method": "git",
@@ -30701,6 +30717,17 @@
     "web": "https://git.ozzuu.com/thisago/gtrends"
   },
   {
+    "name": "musicSort",
+    "url": "https://github.com/CarkWilkinson/musicSort",
+    "method": "git",
+    "tags": [
+      "music"
+    ],
+    "description": "A tool to sort your mp3 music files based on id3 metadata",
+    "license": "MIT",
+    "web": "https://github.com/CarkWilkinson/musicSort"
+  },
+  {
     "name": "DxLib",
     "url": "https://github.com/777shuang/DxLib",
     "method": "git",
@@ -30710,6 +30737,22 @@
     "description": "A Nim binding for DX Library",
     "license": "MIT",
     "web": "https://github.com/777shuang/DxLib"
+  },
+  {
+    "name": "caster",
+    "url": "https://github.com/hamidb80/caster/",
+    "method": "git",
+    "tags": [
+      "sugar",
+      "macro",
+      "cast",
+      "caster",
+      "casting",
+      "parameters"
+    ],
+    "description": "casting macro for procedure parameters",
+    "license": "MIT",
+    "web": "https://github.com/hamidb80/caster/"
   },
   {
     "name": "spotlightr",
@@ -30752,5 +30795,17 @@
     "description": "High Performance Stub Server",
     "license": "MIT",
     "web": "https://github.com/solaoi/broly"
+  },
+  {
+    "name": "voicepeaky",
+    "url": "https://github.com/solaoi/voicepeaky",
+    "method": "git",
+    "tags": [
+      "voicepeak",
+      "wrapper"
+    ],
+    "description": "Voicepeak Server",
+    "license": "MIT",
+    "web": "https://github.com/solaoi/voicepeaky"
   }
 ]
