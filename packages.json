@@ -30738,5 +30738,17 @@
     "description": "Nim bindings for ROS2",
     "license": "MIT",
     "web": "https://github.com/Pylgos/rclnim"
+  },
+  {
+    "name": "voicepeaky",
+    "url": "https://github.com/solaoi/voicepeaky",
+    "method": "git",
+    "tags": [
+      "voicepeak",
+      "wrapper"
+    ],
+    "description": "Voicepeak Server",
+    "license": "MIT",
+    "web": "https://github.com/solaoi/voicepeaky"
   }
 ]
