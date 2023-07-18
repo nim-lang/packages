@@ -1,5 +1,23 @@
 [
   {
+    "name": "sun_moon",
+    "url": "https://github.com/dschaadt/sun_moon",
+    "method": "git",
+    "tags": [
+      "astro",
+      "sun",
+      "moon",
+      "position",
+      "sunrise",
+      "sunset",
+      "moonrise",
+      "moonset",
+    ],
+    "description": "Astro functions for calcuation of sun and moon position, rise and set time as well as civil, nautical and astronomical dawn and dusk as a function of latitude and longitude.",
+    "license": "MIT",
+    "web": "https://github.com/dschaadt/sun_moon"
+  },
+  {
     "name": "nimip",
     "url": "https://github.com/hitblast/nimip",
     "method": "git",
@@ -182,6 +200,17 @@
       "binary serialization"
     ],
     "description": "binary de-/serialization that works on js, c and VM (compiletime)",
+    "license": "MIT"
+  },
+  {
+    "name": "polyrpc",
+    "url": "https://github.com/choltreppe/polyrpc",
+    "method": "git",
+    "tags": [
+      "rpc",
+      "remote procedure call"
+    ],
+    "description": "A system for generating remote-procedure-calls for any pair of server and client",
     "license": "MIT"
   },
   {
@@ -19220,6 +19249,22 @@
     "web": "https://github.com/angluca/tigr-nim"
   },
   {
+    "name": "sokol",
+    "url": "https://github.com/floooh/sokol-nim",
+    "method": "git",
+    "tags": [
+      "opengl",
+      "3d",
+      "game",
+      "imgui",
+      "graphics",
+      "cross-platform"
+    ],
+    "description": "sokol is a minimal cross-platform standalone graphics library",
+    "license": "MIT",
+    "web": "https://github.com/floooh/sokol-nim"
+  },
+  {
     "name": "nimatic",
     "url": "https://github.com/DangerOnTheRanger/nimatic",
     "method": "git",
@@ -26202,7 +26247,11 @@
   },
   {
     "name": "variantsugar",
-    "url": "https://github.com/metagn/variantsugar",
+    "alias": "skinsuit"
+  },
+  {
+    "name": "skinsuit",
+    "url": "https://github.com/metagn/skinsuit",
     "method": "git",
     "tags": [
       "object",
@@ -26215,7 +26264,7 @@
     ],
     "description": "utility macros mostly for object variants",
     "license": "MIT",
-    "web": "https://github.com/metagn/variantsugar"
+    "web": "https://github.com/metagn/skinsuit"
   },
   {
     "name": "dogapi",
@@ -30686,6 +30735,17 @@
     "web": "https://git.ozzuu.com/thisago/gtrends"
   },
   {
+    "name": "musicSort",
+    "url": "https://github.com/CarkWilkinson/musicSort",
+    "method": "git",
+    "tags": [
+      "music"
+    ],
+    "description": "A tool to sort your mp3 music files based on id3 metadata",
+    "license": "MIT",
+    "web": "https://github.com/CarkWilkinson/musicSort"
+  },
+  {
     "name": "DxLib",
     "url": "https://github.com/777shuang/DxLib",
     "method": "git",
@@ -30695,5 +30755,93 @@
     "description": "A Nim binding for DX Library",
     "license": "MIT",
     "web": "https://github.com/777shuang/DxLib"
+  },
+  {
+    "name": "caster",
+    "url": "https://github.com/hamidb80/caster/",
+    "method": "git",
+    "tags": [
+      "sugar",
+      "macro",
+      "cast",
+      "caster",
+      "casting",
+      "parameters"
+    ],
+    "description": "casting macro for procedure parameters",
+    "license": "MIT",
+    "web": "https://github.com/hamidb80/caster/"
+  },
+  {
+    "name": "spotlightr",
+    "url": "https://git.ozzuu.com/thisago/spotlightr",
+    "method": "git",
+    "tags": [
+      "library",
+      "extractor",
+      "scraper",
+      "video",
+      "stream"
+    ],
+    "description": "Spotlightr basic extractor to get the video",
+    "license": "MIT",
+    "web": "https://git.ozzuu.com/thisago/spotlightr"
+  },
+  {
+    "name": "rclnim",
+    "url": "https://github.com/Pylgos/rclnim",
+    "method": "git",
+    "tags": [
+      "library",
+      "embedded",
+      "ros2"
+    ],
+    "description": "Nim bindings for ROS2",
+    "license": "MIT",
+    "web": "https://github.com/Pylgos/rclnim"
+  },
+  {
+    "name": "broly",
+    "url": "https://github.com/solaoi/broly",
+    "method": "git",
+    "tags": [
+      "mock",
+      "stub",
+      "test",
+      "server"
+    ],
+    "description": "High Performance Stub Server",
+    "license": "MIT",
+    "web": "https://github.com/solaoi/broly"
+  },
+  {
+    "name": "voicepeaky",
+    "url": "https://github.com/solaoi/voicepeaky",
+    "method": "git",
+    "tags": [
+      "voicepeak",
+      "wrapper"
+    ],
+    "description": "Voicepeak Server",
+    "license": "MIT",
+    "web": "https://github.com/solaoi/voicepeaky"
+  },
+  {
+    "name": "nimf",
+    "url": "https://github.com/Gruruya/nimf",
+    "method": "git",
+    "tags": [
+      "find command-line utility",
+      "multithreaded filesystem search tool",
+      "fast",
+      "finder",
+      "cli",
+      "shell",
+      "terminal",
+      "console"
+    ],
+    "description": "Search for files in a directory hierarchy.",
+    "license": "AGPL-3.0-only",
+    "web": "https://github.com/Gruruya/nimf"
   }
 ]
