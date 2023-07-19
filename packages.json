@@ -30887,5 +30887,20 @@
     "description": "Google Cookies. In your hands",
     "license": "MIT",
     "web": "https://github.com/thisago/gookie"
+  },
+  {
+    "name": "nipify",
+    "url": "https://github.com/eliot-collin/nipify",
+    "method": "git",
+    "tags": [
+        "library",
+        "ip",
+        "geoip",
+        "ipv4",
+        "ipv6"
+    ],
+    "description": "library for ipify",
+    "license": "MIT",
+    "web": "https://github.com/eliot-collin/nipify"
   }
 ]
