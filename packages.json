@@ -30917,5 +30917,19 @@
     "description": "RNG for dummies in Nim",
     "license": "MIT",
     "web": "https://github.com/xTrayambak/librng"
+  },
+  {
+    "name": "objc_runtime",
+    "url": "https://github.com/bung87/objc_runtime",
+    "method": "git",
+    "tags": [
+      "osx",
+      "objective-c",
+      "runtime",
+      "wrapper"
+    ],
+    "description": "objective-c runtime bindings",
+    "license": "LGPL-2.1-or-later",
+    "web": "https://github.com/bung87/objc_runtime"
   }
 ]
