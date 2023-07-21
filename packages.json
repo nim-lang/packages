@@ -29939,10 +29939,11 @@
       "framework",
       "frontend",
       "backend",
-      "hapticx"
+      "hapticx",
+      "happyx"
     ],
-    "description": "Macro-oriented asynchronous web-framework written with ♥",
-    "license": "GNU GPLv3",
+    "description": "Macro-oriented full-stack web-framework written with ♥",
+    "license": "MIT",
     "web": "https://github.com/HapticX/happyx"
   },
   {
