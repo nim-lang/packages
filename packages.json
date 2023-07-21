@@ -30889,6 +30889,20 @@
     "web": "https://github.com/thisago/gookie"
   },
   {
+    "name": "clibard",
+    "url": "https://github.com/thisago/clibard",
+    "method": "git",
+    "tags": [
+      "cli",
+      "bard",
+      "ai",
+      "chat"
+    ],
+    "description": "Command line interface for Google Bard",
+    "license": "GPL-3.0-or-later",
+    "web": "https://github.com/thisago/clibard"
+  },
+  {
     "name": "librng",
     "url": "https://github.com/xTrayambak/librng",
     "method": "git",
