@@ -1,5 +1,39 @@
 [
   {
+    "name": "sun_moon",
+    "url": "https://github.com/dschaadt/sun_moon",
+    "method": "git",
+    "tags": [
+      "astro",
+      "sun",
+      "moon",
+      "position",
+      "sunrise",
+      "sunset",
+      "moonrise",
+      "moonset"
+    ],
+    "description": "Astro functions for calcuation of sun and moon position, rise and set time as well as civil, nautical and astronomical dawn and dusk as a function of latitude and longitude.",
+    "license": "MIT",
+    "web": "https://github.com/dschaadt/sun_moon"
+  },
+  {
+    "name": "nimip",
+    "url": "https://github.com/hitblast/nimip",
+    "method": "git",
+    "tags": [
+      "nimip",
+      "api-wrapper",
+      "ip-api",
+      "ip-address-lookup",
+      "library",
+      "hybrid"
+    ],
+    "description": "Asynchronously lookup IP addresses with this tiny, hybrid Nim application.",
+    "license": "MIT",
+    "web": "https://github.com/hitblast/nimip"
+  },
+  {
     "name": "gitman",
     "url": "https://github.com/nirokay/gitman",
     "method": "git",
@@ -166,6 +200,17 @@
       "binary serialization"
     ],
     "description": "binary de-/serialization that works on js, c and VM (compiletime)",
+    "license": "MIT"
+  },
+  {
+    "name": "polyrpc",
+    "url": "https://github.com/choltreppe/polyrpc",
+    "method": "git",
+    "tags": [
+      "rpc",
+      "remote procedure call"
+    ],
+    "description": "A system for generating remote-procedure-calls for any pair of server and client",
     "license": "MIT"
   },
   {
@@ -12244,6 +12289,23 @@
     "web": "https://github.com/treeform/windy"
   },
   {
+    "name": "guardmons",
+    "url": "https://github.com/treeform/guardmons",
+    "method": "git",
+    "tags": [
+      "daemon",
+      "ssh",
+      "copy",
+      "shell",
+      "kill",
+      "top",
+      "watch"
+    ],
+    "description": "Cross-platform collection of OS Utilities",
+    "license": "MIT",
+    "web": "https://github.com/treeform/guardmons"
+  },
+  {
     "name": "xdo",
     "url": "https://github.com/juancarlospaco/nim-xdo",
     "method": "git",
@@ -19185,6 +19247,22 @@
     "description": "TIGR is a tiny cross-platform graphics library",
     "license": "MIT",
     "web": "https://github.com/angluca/tigr-nim"
+  },
+  {
+    "name": "sokol",
+    "url": "https://github.com/floooh/sokol-nim",
+    "method": "git",
+    "tags": [
+      "opengl",
+      "3d",
+      "game",
+      "imgui",
+      "graphics",
+      "cross-platform"
+    ],
+    "description": "sokol is a minimal cross-platform standalone graphics library",
+    "license": "MIT",
+    "web": "https://github.com/floooh/sokol-nim"
   },
   {
     "name": "nimatic",
@@ -26169,7 +26247,11 @@
   },
   {
     "name": "variantsugar",
-    "url": "https://github.com/metagn/variantsugar",
+    "alias": "skinsuit"
+  },
+  {
+    "name": "skinsuit",
+    "url": "https://github.com/metagn/skinsuit",
     "method": "git",
     "tags": [
       "object",
@@ -26182,7 +26264,7 @@
     ],
     "description": "utility macros mostly for object variants",
     "license": "MIT",
-    "web": "https://github.com/metagn/variantsugar"
+    "web": "https://github.com/metagn/skinsuit"
   },
   {
     "name": "dogapi",
@@ -28593,7 +28675,7 @@
   },
   {
     "name": "gptcli",
-    "url": "https://github.com/HACCKKER/gptcli",
+    "url": "https://github.com/jaredmontoya/gptcli",
     "method": "git",
     "tags": [
       "client",
@@ -28602,7 +28684,7 @@
     ],
     "description": "chatgpt cli client written in nim",
     "license": "MIT",
-    "web": "https://github.com/HACCKKER/gptcli"
+    "web": "https://github.com/jaredmontoya/gptcli"
   },
   {
     "name": "update_nimble_version",
@@ -30337,7 +30419,7 @@
   },
   {
     "name": "pyopenai",
-    "url": "https://github.com/HACCKKER/pyopenai",
+    "url": "https://github.com/jaredmontoya/pyopenai",
     "method": "git",
     "tags": [
       "python",
@@ -30348,7 +30430,7 @@
     ],
     "description": "An attempt to reimplement python OpenAI API bindings in nim",
     "license": "MIT",
-    "web": "https://github.com/HACCKKER/pyopenai"
+    "web": "https://github.com/jaredmontoya/pyopenai"
   },
   {
     "name": "facedetect",
@@ -30414,7 +30496,8 @@
     ],
     "description": "nimcatapi is a library that lets you easily request images from thecatapi and/or thedogapi.",
     "license": "GPL-3.0-only",
-    "web": "https://github.com/nirokay/nimcatapi"
+    "web": "https://github.com/nirokay/nimcatapi",
+    "doc": "https://nirokay.github.io/nim-docs/nimcatapi/nimcatapi.html"
   },
   {
     "name": "simplelog",
@@ -30456,5 +30539,382 @@
     "description": "A quick media server in nim",
     "license": "GPL-3.0-only",
     "web": "https://github.com/arashi-software/shio"
+  },
+  {
+    "name": "delaunator",
+    "url": "https://github.com/patternspandemic/delaunator-nim",
+    "method": "git",
+    "tags": [
+      "delaunay",
+      "voronoi",
+      "dual graph",
+      "library"
+    ],
+    "description": "Fast 2D Delaunay triangulation. A Nim port of Mapbox/Delaunator.",
+    "license": "Unlicense",
+    "web": "https://github.com/patternspandemic/delaunator-nim",
+    "doc": "https://patternspandemic.github.io/delaunator-nim/"
+  },
+  {
+    "name": "pixienator",
+    "url": "https://github.com/patternspandemic/pixienator",
+    "method": "git",
+    "tags": [
+      "delaunator",
+      "pixie",
+      "visualization",
+      "delaunay",
+      "voronoi",
+      "dual graph",
+      "helpers",
+      "library"
+    ],
+    "description": "Helpers for visualizing delaunator with pixie.",
+    "license": "Unlicense",
+    "web": "https://github.com/patternspandemic/pixienator",
+    "doc": "https://patternspandemic.github.io/pixienator/"
+  },
+  {
+    "name": "nimmicrograd",
+    "url": "https://github.com/soheil555/nimmicrograd",
+    "method": "git",
+    "tags": [
+      "micrograd",
+      "neural-network",
+      "deep-learning",
+      "autograd-engine"
+    ],
+    "description": "Nim implementation of micrograd autograd engine.",
+    "license": "MIT",
+    "web": "https://github.com/soheil555/nimmicrograd"
+  },
+  {
+    "name": "nimegenerator",
+    "url": "https://github.com/nirokay/nimegenerator",
+    "method": "git",
+    "tags": [
+      "random-name-generator",
+      "random-word-generator",
+      "library",
+      "executable",
+      "hybrid"
+    ],
+    "description": "Random name/word generator.",
+    "license": "GPL-3.0-only",
+    "web": "https://github.com/nirokay/nimegenerator",
+    "doc": "https://nirokay.github.io/nim-docs/nimegenerator/nimegenerator.html"
+  },
+  {
+    "name": "hyperloglog",
+    "url": "https://github.com/deNULL/hyperloglog",
+    "method": "git",
+    "tags": [
+      "hyperloglog",
+      "hll",
+      "data-structure",
+      "count-distinct",
+      "cardinality",
+      "sets"
+    ],
+    "description": "A HyperLogLog data structure implementation in Nim",
+    "license": "MIT",
+    "web": "https://github.com/deNULL/hyperloglog"
+  },
+  {
+    "name": "bz2",
+    "url": "https://codeberg.org/Yepoleb/nim-bz2.git",
+    "method": "git",
+    "tags": [
+      "compression",
+      "bzip2",
+      "bz2"
+    ],
+    "description": "Nim module for the bzip2 compression format.",
+    "license": "MIT",
+    "web": "https://codeberg.org/Yepoleb/nim-bz2"
+  },
+  {
+    "name": "mvb",
+    "url": "https://github.com/tapsterbot/mvb-opencv",
+    "method": "git",
+    "tags": [
+      "opencv",
+      "library",
+      "wrapper",
+      "image",
+      "processing",
+      "minimal",
+      "mininum",
+      "viable",
+      "bindings"
+    ],
+    "description": "Minimum viable bindings for OpenCV",
+    "license": "MIT",
+    "web": "https://github.com/tapsterbot/mvb-opencv"
+  },
+  {
+    "name": "emailparser",
+    "url": "https://github.com/mildred/emailparser.nim",
+    "method": "git",
+    "tags": [
+      "email",
+      "rfc822",
+      "rfc2822",
+      "parser",
+      "jmap"
+    ],
+    "description": "Email parser to JsonNode based on Cyrus JMAP parser",
+    "license": "BSD",
+    "web": "https://github.com/mildred/emailparser.nim"
+  },
+  {
+    "name": "colored_logger",
+    "url": "https://github.com/4zv4l/colored_logger",
+    "method": "git",
+    "tags": [
+      "logging",
+      "colours"
+    ],
+    "description": "A simple colored logger from std/logging",
+    "license": "MIT",
+    "web": "https://github.com/4zv4l/colored_logger"
+  },
+  {
+    "name": "nimpath",
+    "url": "https://github.com/weskerfoot/NimPath",
+    "method": "git",
+    "tags": [
+      "web",
+      "parser"
+    ],
+    "description": "Interface to libxml2's XPath parser",
+    "license": "MIT",
+    "web": "https://github.com/weskerfoot/NimPath"
+  },
+  {
+    "name": "beautifulparser",
+    "url": "https://github.com/TelegramXPlus/beautifulparser",
+    "method": "git",
+    "tags": [
+      "parser",
+      "html"
+    ],
+    "description": "Simple parser for HTML",
+    "license": "MIT",
+    "web": "https://github.com/TelegramXPlus/beautifulparser"
+  },
+  {
+    "name": "brainimfuck",
+    "url": "https://github.com/nirokay/brainimfuck",
+    "method": "git",
+    "tags": [
+      "brainfuck",
+      "interpreter",
+      "language",
+      "cli",
+      "binary",
+      "app"
+    ],
+    "description": "Brainfuck interpreter with some advanced features, such as syntax checking and highlighting errors.",
+    "license": "GPL-3.0-only",
+    "web": "https://github.com/nirokay/brainimfuck"
+  },
+  {
+    "name": "gtrends",
+    "url": "https://git.ozzuu.com/thisago/gtrends",
+    "method": "git",
+    "tags": [
+      "library",
+      "google_trends",
+      "trends",
+      "rss",
+      "google"
+    ],
+    "description": "Google Trends RSS",
+    "license": "MIT",
+    "web": "https://git.ozzuu.com/thisago/gtrends"
+  },
+  {
+    "name": "musicSort",
+    "url": "https://github.com/CarkWilkinson/musicSort",
+    "method": "git",
+    "tags": [
+      "music"
+    ],
+    "description": "A tool to sort your mp3 music files based on id3 metadata",
+    "license": "MIT",
+    "web": "https://github.com/CarkWilkinson/musicSort"
+  },
+  {
+    "name": "DxLib",
+    "url": "https://github.com/777shuang/DxLib",
+    "method": "git",
+    "tags": [
+      "bindings"
+    ],
+    "description": "A Nim binding for DX Library",
+    "license": "MIT",
+    "web": "https://github.com/777shuang/DxLib"
+  },
+  {
+    "name": "caster",
+    "url": "https://github.com/hamidb80/caster/",
+    "method": "git",
+    "tags": [
+      "sugar",
+      "macro",
+      "cast",
+      "caster",
+      "casting",
+      "parameters"
+    ],
+    "description": "casting macro for procedure parameters",
+    "license": "MIT",
+    "web": "https://github.com/hamidb80/caster/"
+  },
+  {
+    "name": "spotlightr",
+    "url": "https://git.ozzuu.com/thisago/spotlightr",
+    "method": "git",
+    "tags": [
+      "library",
+      "extractor",
+      "scraper",
+      "video",
+      "stream"
+    ],
+    "description": "Spotlightr basic extractor to get the video",
+    "license": "MIT",
+    "web": "https://git.ozzuu.com/thisago/spotlightr"
+  },
+  {
+    "name": "rclnim",
+    "url": "https://github.com/Pylgos/rclnim",
+    "method": "git",
+    "tags": [
+      "library",
+      "embedded",
+      "ros2"
+    ],
+    "description": "Nim bindings for ROS2",
+    "license": "MIT",
+    "web": "https://github.com/Pylgos/rclnim"
+  },
+  {
+    "name": "broly",
+    "url": "https://github.com/solaoi/broly",
+    "method": "git",
+    "tags": [
+      "mock",
+      "stub",
+      "test",
+      "server"
+    ],
+    "description": "High Performance Stub Server",
+    "license": "MIT",
+    "web": "https://github.com/solaoi/broly"
+  },
+  {
+    "name": "voicepeaky",
+    "url": "https://github.com/solaoi/voicepeaky",
+    "method": "git",
+    "tags": [
+      "voicepeak",
+      "wrapper"
+    ],
+    "description": "Voicepeak Server",
+    "license": "MIT",
+    "web": "https://github.com/solaoi/voicepeaky"
+  },
+  {
+    "name": "nimf",
+    "url": "https://github.com/Gruruya/nimf",
+    "method": "git",
+    "tags": [
+      "find command-line utility",
+      "multithreaded filesystem search tool",
+      "fast",
+      "finder",
+      "cli",
+      "shell",
+      "terminal",
+      "console"
+    ],
+    "description": "Search for files in a directory hierarchy.",
+    "license": "AGPL-3.0-only",
+    "web": "https://github.com/Gruruya/nimf"
+  },
+  {
+    "name": "bard",
+    "url": "https://github.com/thisago/bard",
+    "method": "git",
+    "tags": [
+      "library",
+      "batchexecute",
+      "bard",
+      "ai",
+      "google"
+    ],
+    "description": "Nim interface of Google Bard free API",
+    "license": "MIT",
+    "web": "https://github.com/thisago/bard"
+  },
+  {
+    "name": "docid",
+    "url": "https://github.com/thisago/docid",
+    "method": "git",
+    "tags": [
+      "library",
+      "id",
+      "generator",
+      "verifier"
+    ],
+    "description": "Document IDs generation and validation",
+    "license": "MIT",
+    "web": "https://github.com/thisago/docid"
+  },
+  {
+    "name": "gookie",
+    "url": "https://github.com/thisago/gookie",
+    "method": "git",
+    "tags": [
+      "library",
+      "dirty",
+      "google",
+      "cookie",
+      "session"
+    ],
+    "description": "Google Cookies. In your hands",
+    "license": "MIT",
+    "web": "https://github.com/thisago/gookie"
+  },
+  {
+    "name": "clibard",
+    "url": "https://github.com/thisago/clibard",
+    "method": "git",
+    "tags": [
+      "cli",
+      "bard",
+      "ai",
+      "chat"
+    ],
+    "description": "Command line interface for Google Bard",
+    "license": "GPL-3.0-or-later",
+    "web": "https://github.com/thisago/clibard"
+  },
+  {
+    "name": "librng",
+    "url": "https://github.com/xTrayambak/librng",
+    "method": "git",
+    "tags": [
+      "library",
+      "rng",
+      "maths",
+      "math",
+      "random"
+    ],
+    "description": "RNG for dummies in Nim",
+    "license": "MIT",
+    "web": "https://github.com/xTrayambak/librng"
   }
 ]
