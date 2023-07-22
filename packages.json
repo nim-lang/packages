@@ -12306,6 +12306,21 @@
     "web": "https://github.com/treeform/guardmons"
   },
   {
+    "name": "debby",
+    "url": "https://github.com/treeform/debby",
+    "method": "git",
+    "tags": [
+      "db",
+      "sqlite",
+      "mysql",
+      "postgresql",
+      "orm"
+    ],
+    "description": "Database ORM layer",
+    "license": "MIT",
+    "web": "https://github.com/treeform/debby"
+  },
+  {
     "name": "xdo",
     "url": "https://github.com/juancarlospaco/nim-xdo",
     "method": "git",
