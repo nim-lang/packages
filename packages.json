@@ -30944,5 +30944,19 @@
     "description": "Moving the mouse around in nim inspired by python's pyautogui. Windows Only",
     "license": "GNU GENERAL PUBLIC LICENSE",
     "web": "https://github.com/Cooperzilla/nimautogui"
+  },
+  {
+    "name": "strophe",
+    "url": "https://github.com/SillaIndustries/nim-strophe",
+    "method": "git",
+    "tags": [
+      "library",
+      "wrapper",
+      "strophe",
+      "messaging"
+    ],
+    "description": "Libstrophe wrapper",
+    "license": "MIT",
+    "web": "https://github.com/SillaIndustries/nim-strophe"
   }
 ]
