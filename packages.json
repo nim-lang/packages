@@ -30944,5 +30944,20 @@
     "description": "Moving the mouse around in nim inspired by python's pyautogui. Windows Only",
     "license": "GNU GENERAL PUBLIC LICENSE",
     "web": "https://github.com/Cooperzilla/nimautogui"
+  },
+  {
+    "name": "chatgptclient",
+    "url": "https://github.com/jaredmontoya/chatgptclient",
+    "method": "git",
+    "tags": [
+      "client",
+      "openai",
+      "gpt",
+      "gui",
+      "chat"
+    ],
+    "description": "Native gui client for OpenAI chatgpt",
+    "license": "GPL-3.0-or-later",
+    "web": "https://github.com/jaredmontoya/chatgptclient"
   }
 ]
