@@ -30959,5 +30959,21 @@
     "description": "Native gui client for OpenAI chatgpt",
     "license": "GPL-3.0-or-later",
     "web": "https://github.com/jaredmontoya/chatgptclient"
+  },
+  {
+    "name": "bale",
+    "url": "https://github.com/hamidb80/bale",
+    "method": "git",
+    "tags": [
+      "bale",
+      "bale.ai",
+      "bot",
+      "api",
+      "client",
+      "messanger"
+    ],
+    "description": "Bale.ai bot API",
+    "license": "MIT",
+    "web": "https://github.com/hamidb80/bale"
   }
 ]
