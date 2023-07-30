@@ -53,6 +53,15 @@ contain a .nimble file, or else it will be rejected.
 
 The requirements might change in future.
 
+## Releasing a new package version
+
+The version number in the directory is derived from git tags (not the `version` field in the `.nimble` script). To release a new version of a package, follow the [instructions from the Nimble readme](https://github.com/nim-lang/nimble#releasing-a-new-version):
+
+> * Increment the version in your ``.nimble`` file.
+> * Commit your changes.
+> * Tag your release, by for example running ``git tag v0.2.0``.
+> * Push your tags and commits.
+
 ## Renaming packages
 
 To rename a package you will need to add a new entry for your package. Simply
@@ -80,3 +89,7 @@ For example:
 ...
 ```
 
+# License
+
+* `package_scanner.nim` - [GPLv3](LICENSE-GPLv3.txt)
+* Everything else - [CC-BY-4.0](LICENSE.txt)

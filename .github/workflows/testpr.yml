@@ -1,0 +1,17 @@
+on: pull_request
+
+jobs:
+  default:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+          ref: ${{ github.event.pull_request.head.sha }}
+      - uses: iffy/install-nim@v3.2.2
+        with:
+          version: stable
+      - run: ./getmergebase.sh
+      - run: nim r -d:ssl -d:release package_scanner.nim packages.json --old=packages_old.json --check-urls
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
