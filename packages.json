@@ -30990,5 +30990,18 @@
     "description": "A line editing library in pure Nim",
     "license": "MIT",
     "web": "https://github.com/h3rald/minline"
+  },
+  {
+    "name": "battinfo",
+    "url": "https://gitlab.com/prashere/battinfo",
+    "method": "git",
+    "tags": [
+      "utility",
+      "linux",
+      "battery"
+    ],
+    "description": "cli tool to query battery info for GNU/Linux",
+    "license": "GPL-3.0-only",
+    "web": "https://gitlab.com/prashere/battinfo"
   }
 ]
