@@ -31003,5 +31003,17 @@
     "description": "cli tool to query battery info for GNU/Linux",
     "license": "GPL-3.0-only",
     "web": "https://gitlab.com/prashere/battinfo"
+  },
+  {
+    "name": "anycallconv",
+    "url": "https://github.com/sls1005/anycallconv",
+    "method": "git",
+    "tags": [
+      "macro",
+      "sugar"
+    ],
+    "description": "A macro to create special procedural types for parameters.",
+    "license": "MIT",
+    "web": "https://github.com/sls1005/anycallconv"
   }
 ]
