@@ -31003,5 +31003,20 @@
     "description": "cli tool to query battery info for GNU/Linux",
     "license": "GPL-3.0-only",
     "web": "https://gitlab.com/prashere/battinfo"
+  },
+  {
+    "name": "bcs",
+    "url": "https://github.com/C-NERD/nimBcs",
+    "method": "git",
+    "tags": [
+      "bcs",
+      "aptos",
+      "serializer",
+      "deserializer",
+      "types"
+    ],
+    "description": "nim implementation of bcs serialization format",
+    "license": "MIT",
+    "web": "https://github.com/C-NERD/nimBcs"
   }
 ]
