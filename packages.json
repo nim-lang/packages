@@ -31052,5 +31052,19 @@
     "description": "Layout helpers and sugar for Karax",
     "license": "MIT",
     "web": "https://github.com/moigagoo/karkas"
+  },
+  {
+    "name": "voicepeaky4gpt",
+    "url": "https://github.com/solaoi/voicepeaky4gpt",
+    "method": "git",
+    "tags": [
+      "voicepeak",
+      "wrapper",
+      "opeanai",
+      "gpt"
+    ],
+    "description": "Voicepeak Server With GPT",
+    "license": "MIT",
+    "web": "https://github.com/solaoi/voicepeaky4gpt"
   }
 ]
