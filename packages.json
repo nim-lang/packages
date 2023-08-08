@@ -31066,5 +31066,16 @@
     "description": "Voicepeak Server With GPT",
     "license": "MIT",
     "web": "https://github.com/solaoi/voicepeaky4gpt"
+  },
+  {
+    "name": "NimbleEx01",
+    "url": "https://github.com/CodeBoySoca/NimbleEx01",
+    "method": "git",
+    "tags": [
+      "library"
+    ],
+    "description": "A nimble package to do basic math operations",
+    "license": "MIT",
+    "web": "https://github.com/CodeBoySoca/NimbleEx01"
   }
 ]
