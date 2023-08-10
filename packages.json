@@ -31084,5 +31084,20 @@
     "description": "extensible performant http and web socket proxy server",
     "license": "MIT",
     "web": "https://github.com/C-NERD/dan_magaji"
+  },
+  {
+    "name": "pbm",
+    "url": "https://github.com/hamidb80/pbm",
+    "method": "git",
+    "tags": [
+      "pbm",
+      "parser",
+      "writer",
+      "image",
+      "binary"
+    ],
+    "description": ".PBM file format parser",
+    "license": "MIT",
+    "web": "https://github.com/hamidb80/pbm"
   }
 ]
