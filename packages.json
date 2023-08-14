@@ -31129,5 +31129,16 @@
     "description": "Provides a system.cmp like function that can be used with std/algorithm.sort to smartly sort string sequences based on their contents rather than exact match",
     "license": "MIT",
     "web": "https://github.com/amaank404/namenumbersort"
+  },
+  {
+    "name": "propositionalLogic",
+    "url": "https://github.com/Azumabashi/nim-propositional-logic/",
+    "method": "git",
+    "tags": [
+      "logic"
+    ],
+    "description": "A library for (standard) propositional logic",
+    "license": "MIT",
+    "web": "https://github.com/Azumabashi/nim-propositional-logic/"
   }
 ]
