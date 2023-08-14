@@ -31143,5 +31143,16 @@
     "license": "MIT",
     "web": "https://github.com/MCRusher/cflags",
     "doc": "https://mcrusher.github.io/cflags/cflags.html"
+  },
+  {
+    "name": "propositionalLogic",
+    "url": "https://github.com/Azumabashi/nim-propositional-logic/",
+    "method": "git",
+    "tags": [
+      "logic"
+    ],
+    "description": "A library for (standard) propositional logic",
+    "license": "MIT",
+    "web": "https://github.com/Azumabashi/nim-propositional-logic/"
   }
 ]
