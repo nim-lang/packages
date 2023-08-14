@@ -31129,5 +31129,19 @@
     "description": "Provides a system.cmp like function that can be used with std/algorithm.sort to smartly sort string sequences based on their contents rather than exact match",
     "license": "MIT",
     "web": "https://github.com/amaank404/namenumbersort"
+  },
+  {
+    "name": "cflags",
+    "url": "https://github.com/MCRusher/cflags",
+    "method": "git",
+    "tags": [
+      "c",
+      "interop",
+      "library"
+    ],
+    "description": "A C-compatible bitmask flags interface, with a subset of nim set functionality",
+    "license": "MIT",
+    "web": "https://github.com/MCRusher/cflags",
+    "doc": "https://mcrusher.github.io/cflags/cflags.html"
   }
 ]
