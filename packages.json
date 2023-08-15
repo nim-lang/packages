@@ -30967,6 +30967,20 @@
     "web": "https://github.com/Cooperzilla/nimautogui"
   },
   {
+    "name": "strophe",
+    "url": "https://github.com/SillaIndustries/nim-strophe",
+    "method": "git",
+    "tags": [
+      "library",
+      "wrapper",
+      "strophe",
+      "messaging"
+    ],
+    "description": "Libstrophe wrapper",
+    "license": "MIT",
+    "web": "https://github.com/SillaIndustries/nim-strophe"
+  },
+  {
     "name": "chatgptclient",
     "url": "https://github.com/jaredmontoya/chatgptclient",
     "method": "git",
