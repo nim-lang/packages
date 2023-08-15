@@ -1,5 +1,26 @@
 [
   {
+    "name": "luigi",
+    "url": "https://github.com/neroist/luigi",
+    "method": "git",
+    "tags": [
+      "ui",
+      "gui",
+      "library",
+      "wrapper",
+      "luigi",
+      "X11",
+      "linux",
+      "windows",
+      "essence",
+      "essenceOS",
+      "cross-platform"
+    ],
+    "description": "Nim bindings for the barebones single-header GUI library for Win32, X11, and Essence: Luigi.",
+    "license": "MIT",
+    "web": "https://github.com/neroist/luigi"
+  },
+  {
     "name": "sun_moon",
     "url": "https://github.com/dschaadt/sun_moon",
     "method": "git",
@@ -30958,5 +30979,208 @@
     "description": "Libstrophe wrapper",
     "license": "MIT",
     "web": "https://github.com/SillaIndustries/nim-strophe"
+  },
+  {
+    "name": "chatgptclient",
+    "url": "https://github.com/jaredmontoya/chatgptclient",
+    "method": "git",
+    "tags": [
+      "client",
+      "openai",
+      "gpt",
+      "gui",
+      "chat"
+    ],
+    "description": "Native gui client for OpenAI chatgpt",
+    "license": "GPL-3.0-or-later",
+    "web": "https://github.com/jaredmontoya/chatgptclient"
+  },
+  {
+    "name": "bale",
+    "url": "https://github.com/hamidb80/bale",
+    "method": "git",
+    "tags": [
+      "bale",
+      "bale.ai",
+      "bot",
+      "api",
+      "client",
+      "messanger"
+    ],
+    "description": "Bale.ai bot API",
+    "license": "MIT",
+    "web": "https://github.com/hamidb80/bale"
+  },
+  {
+    "name": "minline",
+    "url": "https://github.com/h3rald/minline",
+    "method": "git",
+    "tags": [
+      "command-line",
+      "repl",
+      "prompt",
+      "readline",
+      "linenoise"
+    ],
+    "description": "A line editing library in pure Nim",
+    "license": "MIT",
+    "web": "https://github.com/h3rald/minline"
+  },
+  {
+    "name": "battinfo",
+    "url": "https://gitlab.com/prashere/battinfo",
+    "method": "git",
+    "tags": [
+      "utility",
+      "linux",
+      "battery"
+    ],
+    "description": "cli tool to query battery info for GNU/Linux",
+    "license": "GPL-3.0-only",
+    "web": "https://gitlab.com/prashere/battinfo"
+  },
+  {
+    "name": "bcs",
+    "url": "https://github.com/C-NERD/nimBcs",
+    "method": "git",
+    "tags": [
+      "bcs",
+      "aptos",
+      "serializer",
+      "deserializer",
+      "types"
+    ],
+    "description": "nim implementation of bcs serialization format",
+    "license": "MIT",
+    "web": "https://github.com/C-NERD/nimBcs"
+  },
+  {
+    "name": "karkas",
+    "url": "https://github.com/moigagoo/karkas",
+    "method": "git",
+    "tags": [
+      "Karax",
+      "frontend",
+      "layout"
+    ],
+    "description": "Layout helpers and sugar for Karax",
+    "license": "MIT",
+    "web": "https://github.com/moigagoo/karkas"
+  },
+  {
+    "name": "voicepeaky4gpt",
+    "url": "https://github.com/solaoi/voicepeaky4gpt",
+    "method": "git",
+    "tags": [
+      "voicepeak",
+      "wrapper",
+      "opeanai",
+      "gpt"
+    ],
+    "description": "Voicepeak Server With GPT",
+    "license": "MIT",
+    "web": "https://github.com/solaoi/voicepeaky4gpt"
+  },
+  {
+    "name": "dan_magaji",
+    "url": "https://github.com/C-NERD/dan_magaji",
+    "method": "git",
+    "tags": [
+      "proxy",
+      "http",
+      "ws",
+      "websocket",
+      "tcp",
+      "udp",
+      "extensible",
+      "server"
+    ],
+    "description": "extensible performant http and web socket proxy server",
+    "license": "MIT",
+    "web": "https://github.com/C-NERD/dan_magaji"
+  },
+  {
+    "name": "fastpnm",
+    "url": "https://github.com/hamidb80/pbm",
+    "method": "git",
+    "tags": [
+      "netpbm",
+      "parser",
+      "pbm",
+      "pgm",
+      "ppm",
+      "pnm",
+      "fast"
+    ],
+    "description": "fast PNM (.pbm .pgm .ppm) parser",
+    "license": "MIT",
+    "web": "https://github.com/hamidb80/fastpnm"
+  },
+  {
+    "name": "mapster",
+    "url": "https://github.com/PhilippMDoerner/mapster",
+    "method": "git",
+    "tags": [
+      "mapping",
+      "map",
+      "pragma",
+      "convert",
+      "code-generation"
+    ],
+    "description": "A library to quickly generate functions converting instances of type A to B",
+    "license": "MIT",
+    "web": "https://github.com/PhilippMDoerner/mapster"
+  },
+  {
+    "name": "namenumbersort",
+    "url": "https://github.com/amaank404/namenumbersort",
+    "method": "git",
+    "tags": [
+      "sorting",
+      "hybrid",
+      "cmp"
+    ],
+    "description": "Provides a system.cmp like function that can be used with std/algorithm.sort to smartly sort string sequences based on their contents rather than exact match",
+    "license": "MIT",
+    "web": "https://github.com/amaank404/namenumbersort"
+  },
+  {
+    "name": "cflags",
+    "url": "https://github.com/MCRusher/cflags",
+    "method": "git",
+    "tags": [
+      "c",
+      "interop",
+      "library"
+    ],
+    "description": "A C-compatible bitmask flags interface, with a subset of nim set functionality",
+    "license": "MIT",
+    "web": "https://github.com/MCRusher/cflags",
+    "doc": "https://mcrusher.github.io/cflags/cflags.html"
+  },
+  {
+    "name": "propositionalLogic",
+    "url": "https://github.com/Azumabashi/nim-propositional-logic/",
+    "method": "git",
+    "tags": [
+      "logic"
+    ],
+    "description": "A library for (standard) propositional logic",
+    "license": "MIT",
+    "web": "https://github.com/Azumabashi/nim-propositional-logic/"
+  },
+  {
+    "name": "stack_strings",
+    "url": "https://github.com/termermc/nim-stack-strings/",
+    "method": "git",
+    "tags": [
+      "stack",
+      "zero-allocation",
+      "string",
+      "openArray"
+    ],
+    "description": "Library for guaranteed zero heap allocation strings ",
+    "license": "MIT",
+    "web": "https://github.com/termermc/nim-stack-strings/"
   }
 ]
