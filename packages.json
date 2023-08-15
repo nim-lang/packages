@@ -31154,5 +31154,19 @@
     "description": "A library for (standard) propositional logic",
     "license": "MIT",
     "web": "https://github.com/Azumabashi/nim-propositional-logic/"
+  },
+  {
+    "name": "stack_strings",
+    "url": "https://github.com/termermc/nim-stack-strings/",
+    "method": "git",
+    "tags": [
+      "stack",
+      "zero-allocation",
+      "string",
+      "openArray"
+    ],
+    "description": "Library for guaranteed zero heap allocation strings ",
+    "license": "MIT",
+    "web": "https://github.com/termermc/nim-stack-strings/"
   }
 ]
