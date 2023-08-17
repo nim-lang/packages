@@ -31182,5 +31182,18 @@
     "description": "Library for guaranteed zero heap allocation strings ",
     "license": "MIT",
     "web": "https://github.com/termermc/nim-stack-strings/"
+  },
+  {
+    "name": "getpodia",
+    "url": "https://github.com/thisago/getpodia",
+    "method": "git",
+    "tags": [
+      "scraper",
+      "podia",
+      "library"
+    ],
+    "description": "Extract Podia sites courses data",
+    "license": "GPL-3",
+    "web": "https://github.com/thisago/getpodia"
   }
 ]
