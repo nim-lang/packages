@@ -31181,7 +31181,8 @@
     ],
     "description": "Library for guaranteed zero heap allocation strings ",
     "license": "MIT",
-    "web": "https://github.com/termermc/nim-stack-strings/"
+    "web": "https://github.com/termermc/nim-stack-strings/",
+    "doc": "https://docs.termer.net/nim/stack_strings/"
   },
   {
     "name": "getpodia",
