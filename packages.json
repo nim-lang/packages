@@ -31247,5 +31247,20 @@
     "description": "Library to encode and decode data using Reed-Solomon correction codes.",
     "license": "MIT",
     "web": "https://github.com/lscrd/Reed-Solomon"
+  },
+  {
+    "name": "cligpt",
+    "url": "https://github.com/thisago/cligpt",
+    "method": "git",
+    "tags": [
+      "cli",
+      "chatgpt",
+      "ai",
+      "chat",
+      "app"
+    ],
+    "description": "Command line interface for ChatGPT",
+    "license": "GPL-3.0",
+    "web": "https://github.com/thisago/cligpt"
   }
 ]
