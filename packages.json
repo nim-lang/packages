@@ -21582,8 +21582,8 @@
     "web": "https://github.com/Niminem/Neel"
   },
   {
-    "name": "marggers",
-    "url": "https://github.com/metagn/marggers",
+    "name": "margrave",
+    "url": "https://github.com/metagn/margrave",
     "method": "git",
     "tags": [
       "markdown",
@@ -21593,8 +21593,12 @@
     ],
     "description": "dialect of Markdown in pure Nim with focus on HTML output",
     "license": "MIT",
-    "web": "https://github.com/metagn/marggers",
-    "doc": "https://metagn.github.io/marggers/marggers.html"
+    "web": "https://github.com/metagn/margrave",
+    "doc": "https://metagn.github.io/margrave/docs/margrave.html"
+  },
+  {
+    "name": "marggers",
+    "alias": "margrave"
   },
   {
     "name": "dual",
