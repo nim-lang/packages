@@ -31260,6 +31260,6 @@
     ],
     "description": "Library to authenticate and make requests to Microsoft Dynamics 365 Business Central web services",
     "license": "GPL-3.0-only",
-    "url": "https://codeberg.org/pswilde/bc_webservices"
+    "web": "https://codeberg.org/pswilde/bc_webservices"
   }
 ]
