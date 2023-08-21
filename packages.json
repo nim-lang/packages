@@ -31248,6 +31248,7 @@
     "license": "MIT",
     "web": "https://github.com/lscrd/Reed-Solomon"
   },
+  {
     "name": "bc_webservices",
     "url": "https://codeberg.org/pswilde/bc_webservices",
     "method": "git",
