@@ -31247,5 +31247,22 @@
     "description": "Library to encode and decode data using Reed-Solomon correction codes.",
     "license": "MIT",
     "web": "https://github.com/lscrd/Reed-Solomon"
+  },
+  {
+    "name": "dirtygpt",
+    "url": "https://github.com/thisago/dirtygpt",
+    "method": "git",
+    "tags": [
+      "chatgpt",
+      "gpt",
+      "ai",
+      "lib",
+      "free",
+      "prompt",
+      "userscript"
+    ],
+    "description": "A dirty and free way to use ChatGPT in Nim",
+    "license": "MIT",
+    "web": "https://github.com/thisago/dirtygpt"
   }
 ]
