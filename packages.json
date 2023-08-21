@@ -1,5 +1,24 @@
 [
   {
+    "name": "rtmidi",
+    "url": "https://github.com/stoneface86/nim-rtmidi/",
+    "method": "git",
+    "tags": [
+      "midi",
+      "cross-platform",
+      "windows",
+      "linux",
+      "macosx",
+      "audio",
+      "wrapper",
+      "library"
+    ],
+    "description": "Nim bindings for RtMidi, a cross-platform realtime MIDI input/output library.",
+    "license": "MIT",
+    "web": "https://github.com/stoneface86/nim-rtmidi/",
+    "docs": "https://stoneface86.github.io/nim-rtmidi/docs/"
+  },
+  {
     "name": "luigi",
     "url": "https://github.com/neroist/luigi",
     "method": "git",
@@ -21582,8 +21601,8 @@
     "web": "https://github.com/Niminem/Neel"
   },
   {
-    "name": "marggers",
-    "url": "https://github.com/metagn/marggers",
+    "name": "margrave",
+    "url": "https://github.com/metagn/margrave",
     "method": "git",
     "tags": [
       "markdown",
@@ -21593,8 +21612,12 @@
     ],
     "description": "dialect of Markdown in pure Nim with focus on HTML output",
     "license": "MIT",
-    "web": "https://github.com/metagn/marggers",
-    "doc": "https://metagn.github.io/marggers/marggers.html"
+    "web": "https://github.com/metagn/margrave",
+    "doc": "https://metagn.github.io/margrave/docs/margrave.html"
+  },
+  {
+    "name": "marggers",
+    "alias": "margrave"
   },
   {
     "name": "dual",
@@ -31181,6 +31204,48 @@
     ],
     "description": "Library for guaranteed zero heap allocation strings ",
     "license": "MIT",
-    "web": "https://github.com/termermc/nim-stack-strings/"
+    "web": "https://github.com/termermc/nim-stack-strings/",
+    "doc": "https://docs.termer.net/nim/stack_strings/"
+  },
+  {
+    "name": "getpodia",
+    "url": "https://github.com/thisago/getpodia",
+    "method": "git",
+    "tags": [
+      "scraper",
+      "podia",
+      "library"
+    ],
+    "description": "Extract Podia sites courses data",
+    "license": "GPL-3",
+    "web": "https://github.com/thisago/getpodia"
+  },
+  {
+    "name": "websitegenerator",
+    "url": "https://github.com/nirokay/websitegenerator",
+    "method": "git",
+    "tags": [
+      "html",
+      "css",
+      "website",
+      "generator",
+      "library"
+    ],
+    "description": "Static html and css generator.",
+    "license": "GPL-3.0-only",
+    "web": "https://github.com/nirokay/websitegenerator",
+    "doc": "https://nirokay.github.io/nim-docs/websitegenerator/websitegenerator.html"
+  },
+  {
+    "name": "reed_solomon",
+    "url": "https://github.com/lscrd/Reed-Solomon",
+    "method": "git",
+    "tags": [
+      "library",
+      "Reed-Solomon"
+    ],
+    "description": "Library to encode and decode data using Reed-Solomon correction codes.",
+    "license": "MIT",
+    "web": "https://github.com/lscrd/Reed-Solomon"
   }
 ]
