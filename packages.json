@@ -1,5 +1,24 @@
 [
   {
+    "name": "rtmidi",
+    "url": "https://github.com/stoneface86/nim-rtmidi/",
+    "method": "git",
+    "tags": [
+      "midi",
+      "cross-platform",
+      "windows",
+      "linux",
+      "macosx",
+      "audio",
+      "wrapper",
+      "library"
+    ],
+    "description": "Nim bindings for RtMidi, a cross-platform realtime MIDI input/output library.",
+    "license": "MIT",
+    "web": "https://github.com/stoneface86/nim-rtmidi/",
+    "docs": "https://stoneface86.github.io/nim-rtmidi/docs/"
+  },
+  {
     "name": "luigi",
     "url": "https://github.com/neroist/luigi",
     "method": "git",
