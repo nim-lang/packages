@@ -31262,5 +31262,37 @@
     "description": "Command line interface for ChatGPT",
     "license": "GPL-3.0",
     "web": "https://github.com/thisago/cligpt"
+  },
+  {
+    "name": "dirtygpt",
+    "url": "https://github.com/thisago/dirtygpt",
+    "method": "git",
+    "tags": [
+      "chatgpt",
+      "gpt",
+      "ai",
+      "lib",
+      "free",
+      "prompt",
+      "userscript"
+    ],
+    "description": "A dirty and free way to use ChatGPT in Nim",
+    "license": "MIT",
+    "web": "https://github.com/thisago/dirtygpt"
+  },
+  {
+    "name": "bc_webservices",
+    "url": "https://codeberg.org/pswilde/bc_webservices",
+    "method": "git",
+    "tags": [
+      "library",
+      "Business Central",
+      "Microsoft Dynamics 365",
+      "OData",
+      "REST API"
+    ],
+    "description": "Library to authenticate and make requests to Microsoft Dynamics 365 Business Central web services",
+    "license": "GPL-3.0-only",
+    "web": "https://codeberg.org/pswilde/bc_webservices"
   }
 ]
