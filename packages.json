@@ -31296,6 +31296,19 @@
     "web": "https://codeberg.org/pswilde/bc_webservices"
   },
   {
+    "name": "knot",
+    "url": "https://github.com/metagn/knot",
+    "method": "git",
+    "tags": [
+      "macro",
+      "namespace",
+      "trait"
+    ],
+    "description": "tie compile-time values to types under names",
+    "license": "MIT",
+    "web": "https://github.com/metagn/knot"
+  },
+  {
     "name": "shopifyextractor",
     "url": "https://github.com/thisago/shopifyextractor",
     "method": "git",
