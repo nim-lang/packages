@@ -31309,6 +31309,20 @@
     "web": "https://github.com/metagn/knot"
   },
   {
+    "name": "spread",
+    "url": "https://github.com/metagn/spread",
+    "method": "git",
+    "tags": [
+      "macro",
+      "sugar",
+      "syntax",
+      "argument"
+    ],
+    "description": "macro for spreading blocks into call parameters/collections ",
+    "license": "MIT",
+    "web": "https://github.com/metagn/spread"
+  },
+  {
     "name": "shopifyextractor",
     "url": "https://github.com/thisago/shopifyextractor",
     "method": "git",
