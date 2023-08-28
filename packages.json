@@ -31321,5 +31321,19 @@
     "description": "Shopify ecommerces data in a instant",
     "license": "GPL-3.0-only",
     "web": "https://github.com/thisago/shopifyextractor"
+  },
+  {
+    "name": "saucenao-nim",
+    "url": "https://github.com/filvyb/saucenao-nim",
+    "method": "git",
+    "tags": [
+      "async",
+      "api",
+      "wrapper",
+      "SauceNAO"
+    ],
+    "description": "Asynchronous Nim wrapper for SauceNAO's API",
+    "license": "LGPL-3.0-or-later",
+    "web": "https://github.com/filvyb/saucenao-nim"
   }
 ]
