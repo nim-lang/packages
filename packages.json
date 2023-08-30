@@ -31355,8 +31355,7 @@
     "url": "https://github.com/avahe-kellenberger/safeseq",
     "method": "git",
     "tags": [
-      "",
-      ""
+      "seq",
     ],
     "description": "Seq that can safely add and remove elements while iterating.",
     "license": "GPL-2.0-only",
