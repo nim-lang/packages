@@ -31349,5 +31349,17 @@
     "description": "Asynchronous Nim wrapper for SauceNAO's API",
     "license": "LGPL-3.0-or-later",
     "web": "https://github.com/filvyb/saucenao-nim"
+  },
+  {
+    "name": "safeseq",
+    "url": "https://github.com/avahe-kellenberger/safeseq",
+    "method": "git",
+    "tags": [
+      "",
+      ""
+    ],
+    "description": "Seq that can safely add and remove elements while iterating.",
+    "license": "GPL-2.0-only",
+    "web": "https://github.com/avahe-kellenberger/safeseq"
   }
 ]
