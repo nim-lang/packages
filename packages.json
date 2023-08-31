@@ -30934,19 +30934,18 @@
     "web": "https://github.com/thisago/docid"
   },
   {
-    "name": "gookie",
-    "url": "https://github.com/thisago/gookie",
+    "name": "igcook",
+    "url": "https://github.com/thisago/igcook",
     "method": "git",
     "tags": [
       "library",
-      "dirty",
-      "google",
+      "httpOnly",
       "cookie",
       "session"
     ],
-    "description": "Google Cookies. In your hands",
+    "description": "In other words: Cook",
     "license": "MIT",
-    "web": "https://github.com/thisago/gookie"
+    "web": "https://github.com/thisago/igcook"
   },
   {
     "name": "clibard",
