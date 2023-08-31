@@ -30934,8 +30934,8 @@
     "web": "https://github.com/thisago/docid"
   },
   {
-    "name": "igcook",
-    "url": "https://github.com/thisago/igcook",
+    "name": "iecook",
+    "url": "https://github.com/thisago/iecook",
     "method": "git",
     "tags": [
       "library",
@@ -30945,7 +30945,7 @@
     ],
     "description": "In other words: Cook",
     "license": "MIT",
-    "web": "https://github.com/thisago/igcook"
+    "web": "https://github.com/thisago/iecook"
   },
   {
     "name": "clibard",
