@@ -30943,7 +30943,7 @@
       "cookie",
       "session"
     ],
-    "description": "In other words: Cook",
+    "description": "Cook all cookies of your browser",
     "license": "MIT",
     "web": "https://github.com/thisago/iecook"
   },
