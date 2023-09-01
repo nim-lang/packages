@@ -1,7 +1,7 @@
 [
   {
     "name": "crockford-base32",
-    "url": "https://github.com/Yu-Vitaqua-fer-Chronos/Crackford-Base32-Nim",
+    "url": "https://github.com/Yu-Vitaqua-fer-Chronos/Crockford-Base32-Nim",
     "method": "git",
     "tags": [
       "base",
