@@ -1,5 +1,19 @@
 [
   {
+    "name": "nulid",
+    "url": "https://github.com/Yu-Vitaqua-fer-Chronos/NULID",
+    "method": "git",
+    "tags": [
+      "library",
+      "id",
+      "ulid",
+      "uuid",
+      "guid"
+    ],
+    "description": "A ULID implementation in Nim!",
+    "license": "CC0",
+  },
+  {
     "name": "crockford-base32",
     "url": "https://github.com/Yu-Vitaqua-fer-Chronos/Crockford-Base32-Nim",
     "method": "git",
