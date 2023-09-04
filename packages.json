@@ -2444,6 +2444,21 @@
     "web": "https://github.com/PMunch/deriveables"
   },
   {
+    "name": "mapm",
+    "url": "https://github.com/PMunch/mapm-nim",
+    "method": "git",
+    "tags": [
+      "library",
+      "decimal",
+      "arithmetic",
+      "precision",
+      "wrapper"
+    ],
+    "description": "Nim wrapper for MAPM, an arbitrary maths library with support for trig functions",
+    "license": "MIT+Freeware",
+    "web": "https://github.com/PMunch/mapm-nim"
+  },
+  {
     "name": "sdl2_nim",
     "url": "https://github.com/Vladar4/sdl2_nim",
     "method": "git",
