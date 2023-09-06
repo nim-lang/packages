@@ -14,7 +14,7 @@
     "license": "CC0"
   },
   {
-    "name": "crockford-base32",
+    "name": "crockfordb32",
     "url": "https://github.com/Yu-Vitaqua-fer-Chronos/Crockford-Base32-Nim",
     "method": "git",
     "tags": [
