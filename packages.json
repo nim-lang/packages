@@ -31404,5 +31404,20 @@
     "description": "Instagram internal web api implementation",
     "license": "MIT",
     "web": "https://github.com/thisago/instagram"
+  },
+  {
+    "name": "forge",
+    "url": "https://github.com/daylinmorgan/forge",
+    "method": "git",
+    "tags": [
+      "compilation",
+      "compile",
+      "cross-compile",
+      "cli",
+      "zig"
+    ],
+    "description": "basic toolchain to forge (cross-compile) your multi-platform nim binaries",
+    "license": "MIT",
+    "web": "https://github.com/daylinmorgan/forge"
   }
 ]
