@@ -31393,19 +31393,6 @@
     "web": "https://github.com/filvyb/saucenao-nim"
   },
   {
-    "name": "instagram",
-    "url": "https://github.com/thisago/instagram",
-    "method": "git",
-    "tags": [
-      "instagram",
-      "library",
-      "internal-api"
-    ],
-    "description": "Instagram internal web api implementation",
-    "license": "MIT",
-    "web": "https://github.com/thisago/instagram"
-  },
-  {
     "name": "forge",
     "url": "https://github.com/daylinmorgan/forge",
     "method": "git",
