@@ -1,5 +1,17 @@
 [
   {
+    "name": "worldtree",
+    "url": "https://github.com/keithaustin/worldtree",
+    "method": "git",
+    "tags": [
+      "entity-component-system",
+      "ecs",
+      "dod"
+    ],
+    "description": "A small, lightweight ECS framework for Nim.",
+    "license": "MIT"
+  },
+  {
     "name": "nulid",
     "url": "https://github.com/Yu-Vitaqua-fer-Chronos/NULID",
     "method": "git",
