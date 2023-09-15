@@ -31436,8 +31436,8 @@
     "web": "https://github.com/jjv360/nim-stdx"
   },
   {
-    "name": "inquire",
-    "url": "https://github.com/arashi-software/inquire",
+    "name": "zuhyo",
+    "url": "https://github.com/arashi-software/zuhyo",
     "method": "git",
     "tags": [
       "graphql",
@@ -31449,6 +31449,6 @@
     ],
     "description": "The easiest way to interact with a graphql api",
     "license": "LGPL-3.0-or-later",
-    "web": "https://github.com/arashi-software/inquire"
+    "web": "https://github.com/arashi-software/zuhyo"
   }
 ]
