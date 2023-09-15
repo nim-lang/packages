@@ -31434,5 +31434,21 @@
     "description": "A collection of extra utilities for Nim.",
     "license": "MIT",
     "web": "https://github.com/jjv360/nim-stdx"
+  },
+  {
+    "name": "zuhyo",
+    "url": "https://github.com/arashi-software/zuhyo",
+    "method": "git",
+    "tags": [
+      "graphql",
+      "api",
+      "web",
+      "library",
+      "helper",
+      "gql"
+    ],
+    "description": "The easiest way to interact with a graphql api",
+    "license": "LGPL-3.0-or-later",
+    "web": "https://github.com/arashi-software/zuhyo"
   }
 ]
