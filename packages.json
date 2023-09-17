@@ -31420,6 +31420,19 @@
     "web": "https://github.com/daylinmorgan/forge"
   },
   {
+    "name": "unicody",
+    "url": "https://github.com/guzba/unicody",
+    "method": "git",
+    "tags": [
+      "utf8",
+      "utf-8",
+      "unicode"
+    ],
+    "description": "An alternative / companion to std/unicode",
+    "license": "MIT",
+    "web": "https://github.com/guzba/unicody"
+  },
+  {
     "name": "stdx",
     "url": "https://github.com/jjv360/nim-stdx",
     "method": "git",
