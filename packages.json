@@ -31465,5 +31465,18 @@
     "description": "Basic wrapper for APIs of various Boorus",
     "license": "LGPL-3.0-or-later",
     "web": "https://github.com/filvyb/nimbooru"
+  },
+  {
+    "name": "getprime",
+    "url": "https://github.com/xjzh123/getprime",
+    "method": "git",
+    "tags": [
+      "math",
+      "prime numbers",
+      "random"
+    ],
+    "description": "Generate random prime numbers, and do prime number tests. Note: don't support prime numbers larger than approximately 3037000499 (sqrt(int.high)).",
+    "license": "MIT",
+    "web": "https://github.com/xjzh123/getprime"
   }
 ]
