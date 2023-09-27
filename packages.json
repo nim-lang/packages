@@ -31492,5 +31492,35 @@
     "description": "Software artifact metadata to make it easy to tie deployments to source code and collect metadata.",
     "license": "GPLv3",
     "web": "https://github.com/crashappsec/chalk"
+  },
+  {
+    "name": "fedi_auth",
+    "url": "https://codeberg.org/pswilde/fedi_auth",
+    "method": "git",
+    "tags": [
+      "library",
+      "fediverse",
+      "mastodon",
+      "gotosocial",
+      "pleroma",
+      "mastoapi"
+    ],
+    "description": "A basic library to authenticate to fediverse instances",
+    "license": "GPLv3",
+    "web": "https://codeberg.org/pswilde/fedi_auth"
+  },
+  {
+    "name": "gts_emoji_importer",
+    "url": "https://codeberg.org/pswilde/gts_emoji_importer",
+    "method": "git",
+    "tags": [
+      "library",
+      "emojis"
+      "fediverse",
+      "gotosocial"
+    ],
+    "description": "A tool for admins to import custom emojis into GoToSocial",
+    "license": "GPLv3",
+    "web": "https://codeberg.org/pswilde/gts_emoji_importer"
   }
 ]
