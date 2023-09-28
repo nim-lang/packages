@@ -1,5 +1,17 @@
 [
   {
+    "name": "worldtree",
+    "url": "https://github.com/keithaustin/worldtree",
+    "method": "git",
+    "tags": [
+      "entity-component-system",
+      "ecs",
+      "dod"
+    ],
+    "description": "A small, lightweight ECS framework for Nim.",
+    "license": "MIT"
+  },
+  {
     "name": "nulid",
     "url": "https://github.com/Yu-Vitaqua-fer-Chronos/NULID",
     "method": "git",
@@ -11,10 +23,10 @@
       "guid"
     ],
     "description": "A ULID implementation in Nim!",
-    "license": "CC0",
+    "license": "CC0"
   },
   {
-    "name": "crockford-base32",
+    "name": "crockfordb32",
     "url": "https://github.com/Yu-Vitaqua-fer-Chronos/Crockford-Base32-Nim",
     "method": "git",
     "tags": [
@@ -25,7 +37,7 @@
       "decode"
     ],
     "description": "A simple implementation of Crockford Base32.",
-    "license": "CC0",
+    "license": "CC0"
   },
   {
     "name": "rtmidi",
@@ -2442,6 +2454,21 @@
     "description": "Small library to generate procedures with a type derivation system",
     "license": "MIT",
     "web": "https://github.com/PMunch/deriveables"
+  },
+  {
+    "name": "mapm",
+    "url": "https://github.com/PMunch/mapm-nim",
+    "method": "git",
+    "tags": [
+      "library",
+      "decimal",
+      "arithmetic",
+      "precision",
+      "wrapper"
+    ],
+    "description": "Nim wrapper for MAPM, an arbitrary maths library with support for trig functions",
+    "license": "MIT+Freeware",
+    "web": "https://github.com/PMunch/mapm-nim"
   },
   {
     "name": "sdl2_nim",
@@ -30118,19 +30145,6 @@
     "web": "https://github.com/c-blake/cron"
   },
   {
-    "name": "libpothole",
-    "url": "https://gt.tilambda.zone/o/pothole/libpothole.git",
-    "method": "git",
-    "tags": [
-      "library",
-      "pothole",
-      "activitypub"
-    ],
-    "description": "Essential libraries for the Pothole server.",
-    "license": "GPL-3.0-or-later",
-    "web": "https://gt.tilambda.zone/o/pothole/libpothole"
-  },
-  {
     "name": "dnsstamps2",
     "url": "https://github.com/rockcavera/nim-dnsstamps2",
     "method": "git",
@@ -31376,5 +31390,107 @@
     "description": "Asynchronous Nim wrapper for SauceNAO's API",
     "license": "LGPL-3.0-or-later",
     "web": "https://github.com/filvyb/saucenao-nim"
+  },
+  {
+    "name": "forge",
+    "url": "https://github.com/daylinmorgan/forge",
+    "method": "git",
+    "tags": [
+      "compilation",
+      "compile",
+      "cross-compile",
+      "cli",
+      "zig"
+    ],
+    "description": "basic toolchain to forge (cross-compile) your multi-platform nim binaries",
+    "license": "MIT",
+    "web": "https://github.com/daylinmorgan/forge"
+  },
+  {
+    "name": "unicody",
+    "url": "https://github.com/guzba/unicody",
+    "method": "git",
+    "tags": [
+      "utf8",
+      "utf-8",
+      "unicode"
+    ],
+    "description": "An alternative / companion to std/unicode",
+    "license": "MIT",
+    "web": "https://github.com/guzba/unicody"
+  },
+  {
+    "name": "stdx",
+    "url": "https://github.com/jjv360/nim-stdx",
+    "method": "git",
+    "tags": [
+      "std",
+      "standard",
+      "lib",
+      "library",
+      "extras",
+      "stdx"
+    ],
+    "description": "A collection of extra utilities for Nim.",
+    "license": "MIT",
+    "web": "https://github.com/jjv360/nim-stdx"
+  },
+  {
+    "name": "zuhyo",
+    "url": "https://github.com/arashi-software/zuhyo",
+    "method": "git",
+    "tags": [
+      "graphql",
+      "api",
+      "web",
+      "library",
+      "helper",
+      "gql"
+    ],
+    "description": "The easiest way to interact with a graphql api",
+    "license": "LGPL-3.0-or-later",
+    "web": "https://github.com/arashi-software/zuhyo"
+  },
+  {
+    "name": "nimbooru",
+    "url": "https://github.com/filvyb/nimbooru",
+    "method": "git",
+    "tags": [
+      "api",
+      "async",
+      "wrapper",
+      "booru",
+      "gelbooru"
+    ],
+    "description": "Basic wrapper for APIs of various Boorus",
+    "license": "LGPL-3.0-or-later",
+    "web": "https://github.com/filvyb/nimbooru"
+  },
+  {
+    "name": "getprime",
+    "url": "https://github.com/xjzh123/getprime",
+    "method": "git",
+    "tags": [
+      "math",
+      "prime numbers",
+      "random"
+    ],
+    "description": "Generate random prime numbers, and do prime number tests. Note: don't support prime numbers larger than approximately 3037000499 (sqrt(int.high)).",
+    "license": "MIT",
+    "web": "https://github.com/xjzh123/getprime"
+  },
+  {
+    "name": "chalk",
+    "url": "https://github.com/crashappsec/chalk",
+    "method": "git",
+    "tags": [
+      "observability",
+      "security",
+      "docker",
+      "sbom"
+    ],
+    "description": "Software artifact metadata to make it easy to tie deployments to source code and collect metadata.",
+    "license": "GPLv3",
+    "web": "https://github.com/crashappsec/chalk"
   }
 ]
