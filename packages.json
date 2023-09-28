@@ -31492,5 +31492,21 @@
     "description": "Software artifact metadata to make it easy to tie deployments to source code and collect metadata.",
     "license": "GPLv3",
     "web": "https://github.com/crashappsec/chalk"
+  },
+  {
+    "name": "unifetch",
+    "url": "https://github.com/thisago/unifetch",
+    "method": "git",
+    "tags": [
+      "library",
+      "web",
+      "multi-backend",
+      "seamless",
+      "fetch",
+      "httpclient"
+    ],
+    "description": "Multi backend HTTP fetching",
+    "license": "MIT",
+    "web": "https://github.com/thisago/unifetch"
   }
 ]
