@@ -31519,7 +31519,7 @@
       "opengl",
       "siwin"
     ],
-    "description": " Easy to use and flexible UI framework in pure Nim",
+    "description": "Easy to use and flexible UI framework in pure Nim",
     "license": "MIT",
     "web": "https://github.com/levovix0/sigui"
   }
