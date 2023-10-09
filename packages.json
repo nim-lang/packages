@@ -24115,7 +24115,7 @@
   },
   {
     "name": "preserves",
-    "url": "https://git.sr.ht/~ehmry/preserves-nim",
+    "url": "https://git.syndicate-lang.org/ehmry/preserves-nim",
     "method": "git",
     "tags": [
       "binary",
@@ -24337,7 +24337,7 @@
   },
   {
     "name": "syndicate",
-    "url": "https://git.sr.ht/~ehmry/syndicate-nim",
+    "url": "https://git.syndicate-lang.org/ehmry/syndicate-nim",
     "method": "git",
     "tags": [
       "actors",
