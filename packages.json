@@ -31538,5 +31538,20 @@
     "description": "Easy to use and flexible UI framework in pure Nim",
     "license": "MIT",
     "web": "https://github.com/levovix0/sigui"
+  },
+  {
+    "name": "webidl2nim",
+    "url": "https://github.com/ASVIEST/webidl2nim",
+    "method": "git",
+    "tags": [
+      "web",
+      "webidl",
+      "js",
+      "javascript",
+      "tool"
+    ],
+    "description": "webidl to Nim bindings generator",
+    "license": "MIT",
+    "web": "https://github.com/ASVIEST/webidl2nim"
   }
 ]
