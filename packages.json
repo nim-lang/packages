@@ -9,7 +9,9 @@
       "mc"
     ],
     "description": "ModernNet is a barebones library to interact with the Minecraft Java Edition protocol!",
-    "license": "Apache-2.0"
+    "license": "Apache-2.0",
+    "web": "https://github.com/Nimberite-Development/ModernNet",
+    "doc": "https://nimberite-development.github.io/ModernNet/"
   },
   {
     "name": "worldtree",
@@ -51,7 +53,9 @@
       "decode"
     ],
     "description": "A simple implementation of Crockford Base32.",
-    "license": "CC0"
+    "license": "CC0",
+    "web": "https://github.com/Yu-Vitaqua-fer-Chronos/Crockford-Base32-Nim",
+    "doc": "https://yu-vitaqua-fer-chronos.github.io/Crockford-Base32-Nim/"
   },
   {
     "name": "rtmidi",
