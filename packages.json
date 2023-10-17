@@ -31582,5 +31582,18 @@
     "description": "A few CLI utilities",
     "license": "0BSD",
     "web": "https://github.com/pcarrier/bz"
+  },
+  {
+    "name": "hyprland_ipc",
+    "url": "https://github.com/xTrayambak/hyprland_ipc",
+    "method": "git",
+    "tags": [
+      "ipc",
+      "hyprland",
+      "library"
+    ],
+    "description": "An unofficial wrapper to Hyprland's IPC layer",
+    "license": "GPLv3",
+    "web": "https://github.com/xTrayambak/hyprland_ipc"
   }
 ]
