@@ -31595,5 +31595,19 @@
     "description": "An unofficial wrapper to Hyprland's IPC layer",
     "license": "GPLv3",
     "web": "https://github.com/xTrayambak/hyprland_ipc"
+  },
+  {
+    "name": "gemmaJSON",
+    "url": "https://github.com/sainttttt/gemmaJSON",
+    "method": "git",
+    "tags": [
+      "simd",
+      "json",
+      "parser",
+      "wrapper"
+    ],
+    "description": "json parsing library based on bindings of simdjson",
+    "license": "MIT",
+    "web": "https://github.com/sainttttt/gemmaJSON"
   }
 ]
