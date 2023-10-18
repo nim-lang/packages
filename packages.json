@@ -1,5 +1,19 @@
 [
   {
+    "name": "modernnet",
+    "url": "https://github.com/Nimberite-Development/ModernNet",
+    "method": "git",
+    "tags": [
+      "minecraft",
+      "protocol",
+      "mc"
+    ],
+    "description": "ModernNet is a barebones library to interact with the Minecraft Java Edition protocol!",
+    "license": "Apache-2.0",
+    "web": "https://github.com/Nimberite-Development/ModernNet",
+    "doc": "https://nimberite-development.github.io/ModernNet/"
+  },
+  {
     "name": "worldtree",
     "url": "https://github.com/keithaustin/worldtree",
     "method": "git",
@@ -23,7 +37,9 @@
       "guid"
     ],
     "description": "A ULID implementation in Nim!",
-    "license": "CC0"
+    "license": "CC0",
+    "web": "https://github.com/Yu-Vitaqua-fer-Chronos/NULID",
+    "doc": "https://yu-vitaqua-fer-chronos.github.io/NULID/"
   },
   {
     "name": "crockfordb32",
@@ -37,7 +53,9 @@
       "decode"
     ],
     "description": "A simple implementation of Crockford Base32.",
-    "license": "CC0"
+    "license": "CC0",
+    "web": "https://github.com/Yu-Vitaqua-fer-Chronos/Crockford-Base32-Nim",
+    "doc": "https://yu-vitaqua-fer-chronos.github.io/Crockford-Base32-Nim/"
   },
   {
     "name": "rtmidi",
@@ -24103,7 +24121,7 @@
   },
   {
     "name": "preserves",
-    "url": "https://git.sr.ht/~ehmry/preserves-nim",
+    "url": "https://git.syndicate-lang.org/ehmry/preserves-nim",
     "method": "git",
     "tags": [
       "binary",
@@ -24325,7 +24343,7 @@
   },
   {
     "name": "syndicate",
-    "url": "https://git.sr.ht/~ehmry/syndicate-nim",
+    "url": "https://git.syndicate-lang.org/ehmry/syndicate-nim",
     "method": "git",
     "tags": [
       "actors",
@@ -27992,16 +28010,18 @@
   },
   {
     "name": "codegenlib",
-    "url": "https://github.com/Mythical-Forest-Collective/CodeGenLib",
+    "url": "https://github.com/Yu-Vitaqua-fer-Chronos/CodeGenLib",
     "method": "git",
     "tags": [
       "library",
       "codegen",
-      "codegeneration"
+      "codegeneration",
+      "java"
     ],
-    "description": "A simple code generation library for other programming languages!",
+    "description": "A simple code generation library for other programming languages.",
     "license": "MIT",
-    "web": "https://github.com/Mythical-Forest-Collective/CodeGenLib"
+    "web": "https://github.com/Yu-Vitaqua-fer-Chronos/CodeGenLib",
+    "doc": "https://yu-vitaqua-fer-chronos.github.io/CodeGenLib/"
   },
   {
     "name": "safeset",
@@ -31522,5 +31542,102 @@
     "description": "A tool for admins to import custom emojis into GoToSocial",
     "license": "GPLv3",
     "web": "https://codeberg.org/pswilde/gts_emoji_importer"
+  },
+  {
+    "name": "unifetch",
+    "url": "https://github.com/thisago/unifetch",
+    "method": "git",
+    "tags": [
+      "library",
+      "web",
+      "multi-backend",
+      "seamless",
+      "fetch",
+      "httpclient"
+    ],
+    "description": "Multi backend HTTP fetching",
+    "license": "MIT",
+    "web": "https://github.com/thisago/unifetch"
+  },
+  {
+    "name": "sigui",
+    "url": "https://github.com/levovix0/sigui",
+    "method": "git",
+    "tags": [
+      "ui",
+      "gui",
+      "opengl",
+      "siwin"
+    ],
+    "description": "Easy to use and flexible UI framework in pure Nim",
+    "license": "MIT",
+    "web": "https://github.com/levovix0/sigui"
+  },
+  {
+    "name": "webidl2nim",
+    "url": "https://github.com/ASVIEST/webidl2nim",
+    "method": "git",
+    "tags": [
+      "web",
+      "webidl",
+      "js",
+      "javascript",
+      "tool"
+    ],
+    "description": "webidl to Nim bindings generator",
+    "license": "MIT",
+    "web": "https://github.com/ASVIEST/webidl2nim"
+  },
+  {
+    "name": "nimzip",
+    "url": "https://github.com/thechampagne/nimzip",
+    "method": "git",
+    "tags": [
+      "zip",
+      "binding"
+    ],
+    "description": "Binding for a portable, simple zip library",
+    "license": "MIT",
+    "web": "https://github.com/thechampagne/nimzip"
+  },
+  {
+    "name": "bz",
+    "url": "https://github.com/pcarrier/bz",
+    "method": "git",
+    "tags": [
+      "unix",
+      "cli",
+      "utils"
+    ],
+    "description": "A few CLI utilities",
+    "license": "0BSD",
+    "web": "https://github.com/pcarrier/bz"
+  },
+  {
+    "name": "hyprland_ipc",
+    "url": "https://github.com/xTrayambak/hyprland_ipc",
+    "method": "git",
+    "tags": [
+      "ipc",
+      "hyprland",
+      "library"
+    ],
+    "description": "An unofficial wrapper to Hyprland's IPC layer",
+    "license": "GPLv3",
+    "web": "https://github.com/xTrayambak/hyprland_ipc"
+  },
+  {
+    "name": "gemmaJSON",
+    "url": "https://github.com/sainttttt/gemmaJSON",
+    "method": "git",
+    "tags": [
+      "simd",
+      "json",
+      "parser",
+      "wrapper"
+    ],
+    "description": "json parsing library based on bindings of simdjson",
+    "license": "MIT",
+    "web": "https://github.com/sainttttt/gemmaJSON"
   }
 ]
