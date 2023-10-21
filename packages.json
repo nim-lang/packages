@@ -31651,5 +31651,17 @@
     "description": "The fastest Fourier transform in the Rhein (so far)",
     "license": "MIT",
     "web": "https://github.com/arnetheduck/nim-fftr"
+  },
+  {
+    "name": "clim",
+    "url": "https://github.com/xjzh123/clim",
+    "method": "git",
+    "tags": [
+      "cli",
+      "macros"
+    ],
+    "description": "Yet another CLI option parser generator for Nim.",
+    "license": "MIT",
+    "web": "https://github.com/xjzh123/clim"
   }
 ]
