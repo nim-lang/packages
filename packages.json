@@ -31698,5 +31698,16 @@
     "description": "Allocate closures on stack",
     "license": "MIT",
     "web": "https://github.com/guibar64/stackclosures"
+  },
+  {
+    "name": "astiife",
+    "url": "https://github.com/xjzh123/astiife",
+    "method": "git",
+    "tags": [
+      "macros"
+    ],
+    "description": "AST IIFE for nim. Generate code with AST.",
+    "license": "MIT",
+    "web": "https://github.com/xjzh123/astiife"
   }
 ]
