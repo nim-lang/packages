@@ -15580,6 +15580,29 @@
     "license": "GPL-3.0-or-later"
   },
   {
+    "name": "zoominvitr",
+    "url": "https://github.com/theAkito/zoominvitr",
+    "method": "git",
+    "tags": [
+      "akito",
+      "zoom",
+      "meeting",
+      "conference",
+      "video",
+      "schedule",
+      "invite",
+      "invitation",
+      "social",
+      "jitsi",
+      "bigbluebutton",
+      "bluejeans",
+      "api",
+      "docker"
+    ],
+    "description": "Automatically send invitations regarding planned Zoom meetings.",
+    "license": "AGPL-3.0-or-later"
+  },
+  {
     "name": "couchdb",
     "url": "https://github.com/theAkito/nim-couchdb",
     "method": "git",
