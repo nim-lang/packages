@@ -315,7 +315,9 @@
     "name": "arrayutils",
     "url": "https://github.com/choltreppe/arrayutils",
     "method": "git",
-    "tags": ["array"],
+    "tags": [
+      "array"
+    ],
     "description": "map/mapIt for arrays",
     "license": "MIT"
   },
@@ -31709,5 +31711,20 @@
     "description": "AST IIFE for nim. Generate code with AST.",
     "license": "MIT",
     "web": "https://github.com/xjzh123/astiife"
+  },
+  {
+    "name": "cap10",
+    "url": "https://github.com/crashappsec/cap10",
+    "method": "git",
+    "tags": [
+      "terminal",
+      "expect",
+      "pty",
+      "capture",
+      "replay"
+    ],
+    "description": "A tool to capture and replay command line terminal sessions",
+    "license": "Apache-2.0",
+    "web": "https://github.com/crashappsec/cap10"
   }
 ]
