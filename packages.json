@@ -31168,6 +31168,18 @@
     "web": "https://gitlab.com/prashere/battinfo"
   },
   {
+    "name": "anycallconv",
+    "url": "https://github.com/sls1005/anycallconv",
+    "method": "git",
+    "tags": [
+      "macro",
+      "sugar"
+    ],
+    "description": "A macro to create special procedural types for parameters.",
+    "license": "MIT",
+    "web": "https://github.com/sls1005/anycallconv"
+  },
+  {
     "name": "bcs",
     "url": "https://github.com/C-NERD/nimBcs",
     "method": "git",
