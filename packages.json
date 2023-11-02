@@ -31795,5 +31795,22 @@
     "description": "A tool to capture and replay command line terminal sessions",
     "license": "Apache-2.0",
     "web": "https://github.com/crashappsec/cap10"
+  },
+  {
+    "name": "docchanger",
+    "url": "https://github.com/nirokay/docchanger",
+    "method": "git",
+    "tags": [
+      "document-changer",
+      "document-generator",
+      "document-generation",
+      "docx",
+      "docx-files",
+      "binary"
+    ],
+    "description": "Replaces substrings in .docx files with data, that is parsed from a json config file.",
+    "license": "GPL-3.0-only",
+    "web": "https://github.com/nirokay/docchanger",
+    "doc": "https://nirokay.github.io/nim-docs/docchanger/docchanger"
   }
 ]
