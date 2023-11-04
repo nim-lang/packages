@@ -31812,5 +31812,18 @@
     "license": "GPL-3.0-only",
     "web": "https://github.com/nirokay/docchanger",
     "doc": "https://nirokay.github.io/nim-docs/docchanger/docchanger"
+  },
+  {
+    "name": "funcblock",
+    "url": "https://github.com/lilkeet/funcblock",
+    "method": "git",
+    "tags": [
+      "func",
+      "block",
+      "noSideEffects"
+    ],
+    "description": "Implements a block that returns a value with no side effects.",
+    "license": "WTFPL",
+    "web": "https://github.com/lilkeet/funcblock"
   }
 ]
