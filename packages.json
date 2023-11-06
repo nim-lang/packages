@@ -30618,7 +30618,7 @@
       "library"
     ],
     "description": "An attempt to reimplement python OpenAI API bindings in nim",
-    "license": "MIT",
+    "license": "GPL-3.0-or-later",
     "web": "https://github.com/jaredmontoya/pyopenai"
   },
   {
