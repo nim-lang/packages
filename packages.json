@@ -31824,5 +31824,21 @@
     "description": "A thread safe logging library using Nim's own logging module",
     "license": "AGPL-3.0-or-later",
     "web": "https://pswilde.codeberg.page/threadlogging_docs/threadlogging.html"
+  },
+  {
+    "name": "cap10",
+    "url": "https://github.com/crashappsec/cap10",
+    "method": "git",
+    "tags": [
+      "terminal",
+      "expect",
+      "capture",
+      "replay",
+      "pty",
+      "tty"
+    ],
+    "description": "A tool to capture and replay command line terminal sessions",
+    "license": "Apache-2.0",
+    "web": "https://github.com/crashappsec/cap10"
   }
 ]
