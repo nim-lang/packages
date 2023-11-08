@@ -31824,5 +31824,22 @@
     "description": "A thread safe logging library using Nim's own logging module",
     "license": "AGPL-3.0-or-later",
     "web": "https://pswilde.codeberg.page/threadlogging_docs/threadlogging.html"
+  },
+    {
+    "name": "paint",
+    "url": "https://github.com/pNeal0/paint",
+    "method": "git",
+    "tags": [
+      "color",
+      "library",
+      "command-line",
+      "rgb",
+      "terminal",
+      "text",
+      "colorize"
+    ],
+    "description": "Colorize strings in a simple and clean way",
+    "license": "MIT",
+    "web": "https://github.com/pNeal0/paint"
   }
 ]
