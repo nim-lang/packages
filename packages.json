@@ -31826,7 +31826,7 @@
     "license": "AGPL-3.0-or-later",
     "web": "https://pswilde.codeberg.page/threadlogging_docs/threadlogging.html"
   },
-    {
+  {
     "name": "paint",
     "url": "https://github.com/pNeal0/paint",
     "method": "git",
@@ -31842,5 +31842,20 @@
     "description": "Colorize strings in a simple and clean way",
     "license": "MIT",
     "web": "https://github.com/pNeal0/paint"
+  },
+  {
+    "name": "webpage_extractors",
+    "url": "https://github.com/bung87/webpage_extractors",
+    "method": "git",
+    "tags": [
+      "web",
+      "page",
+      "html",
+      "content",
+      "extractors"
+    ],
+    "description": "webpage information extractor",
+    "license": "MIT",
+    "web": "https://github.com/bung87/webpage_extractors"
   }
 ]
