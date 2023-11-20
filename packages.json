@@ -31857,5 +31857,23 @@
     "description": "webpage information extractor",
     "license": "MIT",
     "web": "https://github.com/bung87/webpage_extractors"
+  },
+  {
+    "name": "noxen",
+    "url": "https://github.com/ptVoid/noxen",
+    "method": "git",
+    "tags": [
+      "libary",
+      "terminal",
+      "boxes",
+      "windows",
+      "terminal-boxes",
+      "terminal-windows",
+      "nim-boxen",
+      "boxen"
+    ],
+    "description": "highly customizable terminal boxes for nim!",
+    "license": "MIT",
+    "web": "https://github.com/ptVoid/noxen"
   }
 ]
