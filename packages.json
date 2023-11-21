@@ -31857,5 +31857,18 @@
     "description": "webpage information extractor",
     "license": "MIT",
     "web": "https://github.com/bung87/webpage_extractors"
+  },
+  {
+    "name": "yahttp",
+    "url": "https://github.com/mishankov/yahttp",
+    "method": "git",
+    "tags": [
+      "http",
+      "http-client",
+      "ssl"
+    ],
+    "description": "Awesome simple HTTP client for Nim",
+    "license": "MIT",
+    "web": "https://github.com/mishankov/yahttp?tab=readme-ov-file#-yahttp---awesome-simple-http-client-for-nim"
   }
 ]
