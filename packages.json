@@ -31877,6 +31877,20 @@
     "web": "https://github.com/bung87/webpage_extractors"
   },
   {
+    "name": "niMIDI",
+    "url": "https://github.com/Mycsina/NiMIDI",
+    "method": "git",
+    "tags": [
+      "MIDI",
+      "parser",
+      "writer",
+      "library"
+    ],
+    "description": "MIDI file parser in Nim, for Nim",
+    "license": "MIT",
+    "web": "https://github.com/Mycsina/NiMIDI"
+},
+{
     "name": "yahttp",
     "url": "https://github.com/mishankov/yahttp",
     "method": "git",
