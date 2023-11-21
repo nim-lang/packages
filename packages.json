@@ -31871,5 +31871,18 @@
     "description": "MIDI file parser in Nim, for Nim",
     "license": "MIT",
     "web": "https://github.com/Mycsina/NiMIDI"
+},
+{
+    "name": "yahttp",
+    "url": "https://github.com/mishankov/yahttp",
+    "method": "git",
+    "tags": [
+      "http",
+      "http-client",
+      "ssl"
+    ],
+    "description": "Awesome simple HTTP client for Nim",
+    "license": "MIT",
+    "web": "https://github.com/mishankov/yahttp?tab=readme-ov-file#-yahttp---awesome-simple-http-client-for-nim"
   }
 ]
