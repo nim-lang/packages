@@ -31914,5 +31914,35 @@
     "description": "Awesome simple HTTP client for Nim",
     "license": "MIT",
     "web": "https://github.com/mishankov/yahttp?tab=readme-ov-file#-yahttp---awesome-simple-http-client-for-nim"
+  },
+  {
+    "name": "nimpk",
+    "url": "https://github.com/khchen/nimpk",
+    "method": "git",
+    "tags": [
+      "pocketlang",
+      "script",
+      "scripting",
+      "programming",
+      "language"
+    ],
+    "description": "PocketLang binding for Nim",
+    "license": "MIT",
+    "web": "https://github.com/khchen/nimpk"
+  },
+  {
+    "name": "gura",
+    "url": "https://github.com/khchen/gura",
+    "method": "git",
+    "tags": [
+      "configuration",
+      "serialization",
+      "parsing",
+      "toml",
+      "yaml"
+    ],
+    "description": "Gura Configuration Language for Nim",
+    "license": "MIT",
+    "web": "https://github.com/khchen/gura"
   }
 ]
