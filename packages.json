@@ -31944,5 +31944,19 @@
     "description": "Gura Configuration Language for Nim",
     "license": "MIT",
     "web": "https://github.com/khchen/gura"
+  },
+  {
+    "name": "num_crunch",
+    "url": "https://github.com/willi-kappler/num_crunch",
+    "method": "git",
+    "tags": [
+      "hpc",
+      "distributed",
+      "computation",
+      "number crunching"
+    ],
+    "description": "Allows to write distributed programs for number crunching easily.",
+    "license": "MIT",
+    "web": "https://github.com/willi-kappler/num_crunch"
   }
 ]
