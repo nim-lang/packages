@@ -31959,5 +31959,29 @@
     "description": "A Nim wrapper for the JACK client-side C API aka libjack",
     "license": "MIT",
     "web": "https://github.com/SpotlightKid/jacket"
+  },
+  {
+    "name": "wasmrt",
+    "url": "https://github.com/yglukhov/wasmrt",
+    "method": "git",
+    "tags": [
+      "wasm",
+      "webassembly"
+    ],
+    "description": "Nim wasm runtime",
+    "license": "MIT",
+    "web": "https://github.com/yglukhov/wasmrt"
+  },
+  {
+    "name": "yasync",
+    "url": "https://github.com/yglukhov/yasync",
+    "method": "git",
+    "tags": [
+      "async",
+      "futures"
+    ],
+    "description": "Yet another async/await for Nim",
+    "license": "MIT",
+    "web": "https://github.com/yglukhov/yasync"
   }
 ]
