@@ -1,5 +1,20 @@
 [
   {
+    "name": "avr_io",
+    "url": "https://github.com/Abathargh/avr_io",
+    "method": "git",
+    "tags": [
+      "avr",
+      "atmega",
+      "microcontroller",
+      "embedded",
+      "firmware"
+    ],
+    "description": "AVR registers, interrupts, progmem and peripheral support in nim!",
+    "license": "BSD-3",
+    "web": "https://github.com/Abathargh/avr_io/wiki"
+  },
+  {
     "name": "modernnet",
     "url": "https://github.com/Nimberite-Development/ModernNet",
     "method": "git",
