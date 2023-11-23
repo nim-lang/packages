@@ -31944,5 +31944,20 @@
     "description": "Gura Configuration Language for Nim",
     "license": "MIT",
     "web": "https://github.com/khchen/gura"
+  },
+  {
+    "name": "jacket",
+    "url": "https://github.com/SpotlightKid/jacket",
+    "method": "git",
+    "tags": [
+      "audio",
+      "midi",
+      "jack",
+      "library",
+      "wrapper"
+    ],
+    "description": "A Nim wrapper for the JACK client-side C API aka libjack",
+    "license": "MIT",
+    "web": "https://github.com/SpotlightKid/jacket"
   }
 ]
