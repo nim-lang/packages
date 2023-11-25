@@ -32003,10 +32003,10 @@
   },
   {
     "name": "iniplus",
-    "url": "https://systemoniagit/systemonia/iniplus",
+    "url": "https://github.com/systemonia/iniplus",
     "method": "git",
     "tags": [
-      "gggggggggggggggggggggggggggggggggggggggggggggini",
+      "ini",
       "config",
       "parser",
       "extended",
@@ -32014,6 +32014,6 @@
     ],
     "description": "An extended INI parser for Nim.",
     "license": "BSD-3-Clause",
-    "web": "https://systemoniagit/systemonia/iniplus"
+    "web": "https://github.com/systemonia/iniplus"
   }
 ]
