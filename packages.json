@@ -32015,5 +32015,18 @@
     "description": "An extended INI parser for Nim.",
     "license": "BSD-3-Clause",
     "web": "https://github.com/systemonia/iniplus"
+  },
+  {
+    "name": "pathutils",
+    "url": "https://github.com/hmbemba/pathutils",
+    "method": "git",
+    "tags": [
+      "utils",
+      "paths",
+      "helper"
+    ],
+    "description": "Utilities for handling paths",
+    "license": "MIT",
+    "web": "https://github.com/hmbemba/pathutils"
   }
 ]
