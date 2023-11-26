@@ -32040,5 +32040,19 @@
     "description": "Utilities for handling paths",
     "license": "MIT",
     "web": "https://github.com/hmbemba/pathutils"
+  },
+  {
+    "name": "sqids",
+    "url": "https://github.com/sqids/sqids-nim",
+    "method": "git",
+    "tags": [
+      "library",
+      "ids",
+      "id",
+      "sqids"
+    ],
+    "description": "Official Nim port of Sqids. Generate short YouTube-looking IDs from numbers.",
+    "license": "MIT",
+    "web": "https://github.com/sqids/sqids-nim"
   }
 ]
