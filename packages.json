@@ -32068,5 +32068,17 @@
     "description": "Nim package for easy shared library loading.",
     "license": "NCSA",
     "web": "https://github.com/amnr/dlutils"
-  }
+  },
+  {
+    "name": "whisper",
+    "url": "https://github.com/maleyva1/whisper",
+    "method": "git",
+    "tags": [
+      "bindings",
+      "whisper.cpp"
+    ],
+    "description": "Bindings for Whisper.cpp",
+    "license": "MIT",
+    "url": "https://github.com/maleyva1/whisper",
+  },
 ]
