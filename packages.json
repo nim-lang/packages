@@ -1,5 +1,20 @@
 [
   {
+    "name": "avr_io",
+    "url": "https://github.com/Abathargh/avr_io",
+    "method": "git",
+    "tags": [
+      "avr",
+      "atmega",
+      "microcontroller",
+      "embedded",
+      "firmware"
+    ],
+    "description": "AVR registers, interrupts, progmem and peripheral support in nim!",
+    "license": "BSD-3",
+    "web": "https://github.com/Abathargh/avr_io/wiki"
+  },
+  {
     "name": "modernnet",
     "url": "https://github.com/Nimberite-Development/ModernNet",
     "method": "git",
@@ -326,11 +341,25 @@
     "url": "https://github.com/choltreppe/objaccess",
     "method": "git",
     "tags": [
-      "getter", "setter",
-      "setable", "getable",
+      "getter",
+      "setter",
+      "setable",
+      "getable",
       "object"
     ],
     "description": "generate setters and getters for object types",
+    "license": "MIT"
+  },
+  {
+    "name": "unroll",
+    "url": "https://github.com/choltreppe/unroll",
+    "method": "git",
+    "tags": [
+      "unroll",
+      "compiletime",
+      "map"
+    ],
+    "description": "unroll for-loops (and map into seq/array) at compile-time in nim",
     "license": "MIT"
   },
   {
@@ -31901,8 +31930,8 @@
     "description": "MIDI file parser in Nim, for Nim",
     "license": "MIT",
     "web": "https://github.com/Mycsina/NiMIDI"
-},
-{
+  },
+  {
     "name": "yahttp",
     "url": "https://github.com/mishankov/yahttp",
     "method": "git",
@@ -31959,4 +31988,110 @@
     "license": "MIT",
     "web": "https://github.com/willi-kappler/num_crunch"
   }
+    "name": "jacket",
+    "url": "https://github.com/SpotlightKid/jacket",
+    "method": "git",
+    "tags": [
+      "audio",
+      "midi",
+      "jack",
+      "library",
+      "wrapper"
+    ],
+    "description": "A Nim wrapper for the JACK client-side C API aka libjack",
+    "license": "MIT",
+    "web": "https://github.com/SpotlightKid/jacket"
+  },
+  {
+    "name": "wasmrt",
+    "url": "https://github.com/yglukhov/wasmrt",
+    "method": "git",
+    "tags": [
+      "wasm",
+      "webassembly"
+    ],
+    "description": "Nim wasm runtime",
+    "license": "MIT",
+    "web": "https://github.com/yglukhov/wasmrt"
+  },
+  {
+    "name": "yasync",
+    "url": "https://github.com/yglukhov/yasync",
+    "method": "git",
+    "tags": [
+      "async",
+      "futures"
+    ],
+    "description": "Yet another async/await for Nim",
+    "license": "MIT",
+    "web": "https://github.com/yglukhov/yasync"
+  },
+  {
+    "name": "iniplus",
+    "url": "https://github.com/systemonia/iniplus",
+    "method": "git",
+    "tags": [
+      "ini",
+      "config",
+      "parser",
+      "extended",
+      "library"
+    ],
+    "description": "An extended INI parser for Nim.",
+    "license": "BSD-3-Clause",
+    "web": "https://github.com/systemonia/iniplus"
+  },
+  {
+    "name": "pathutils",
+    "url": "https://github.com/hmbemba/pathutils",
+    "method": "git",
+    "tags": [
+      "utils",
+      "paths",
+      "helper"
+    ],
+    "description": "Utilities for handling paths",
+    "license": "MIT",
+    "web": "https://github.com/hmbemba/pathutils"
+  },
+  {
+    "name": "sqids",
+    "url": "https://github.com/sqids/sqids-nim",
+    "method": "git",
+    "tags": [
+      "library",
+      "ids",
+      "id",
+      "sqids"
+    ],
+    "description": "Official Nim port of Sqids. Generate short YouTube-looking IDs from numbers.",
+    "license": "MIT",
+    "web": "https://github.com/sqids/sqids-nim"
+  },
+  {
+    "name": "dlutils",
+    "url": "https://github.com/amnr/dlutils",
+    "method": "git",
+    "tags": [
+      "shared",
+      "library",
+      "helper",
+      "wrapper"
+    ],
+    "description": "Nim package for easy shared library loading.",
+    "license": "NCSA",
+    "web": "https://github.com/amnr/dlutils"
+  },
+  {
+    "name": "whisper",
+    "url": "https://github.com/maleyva1/whisper",
+    "method": "git",
+    "tags": [
+      "bindings",
+      "whisper.cpp"
+    ],
+    "description": "Bindings for Whisper.cpp",
+    "license": "MIT",
+    "url": "https://github.com/maleyva1/whisper",
+  },
 ]
