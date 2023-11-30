@@ -31988,6 +31988,7 @@
     "license": "MIT",
     "web": "https://github.com/willi-kappler/num_crunch"
   },
+  {
     "name": "jacket",
     "url": "https://github.com/SpotlightKid/jacket",
     "method": "git",
