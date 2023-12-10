@@ -32093,7 +32093,7 @@
     ],
     "description": "Bindings for Whisper.cpp",
     "license": "MIT",
-    "url": "https://github.com/maleyva1/whisper"
+    "web": "https://github.com/maleyva1/whisper"
   },
   {
     "name": "moveiterators",
