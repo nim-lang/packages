@@ -32123,5 +32123,19 @@
     "description": "Macro-oriented web-framework compiles to native written with ♥",
     "license": "MIT",
     "web": "https://github.com/HapticX/happyx-native"
+  },
+  {
+    "name": "note",
+    "url": "https://codeberg.org/pswilde/note",
+    "method": "git",
+    "tags": [
+      "pastebin",
+      "scratchpad",
+      "web",
+      "frontend"
+    ],
+    "description": "A simple pastebin, inspired by w4/bin",
+    "license": "AGPL-3.0-or-later",
+    "web": "https://codeberg.org/pswilde/note"
   }
 ]
