@@ -32151,5 +32151,24 @@
     "description": "calendar with local holidays via ip location",
     "license": "MIT",
     "web": "https://github.com/inv2004/ccal"
+  },
+  {
+    "name": "implot",
+    "url": "https://github.com/dinau/nim_implot",
+    "method": "git",
+    "tags": [
+      "imgui",
+      "nimgl",
+      "implot",
+      "plot",
+      "gui",
+      "graph",
+      "glfw",
+      "opengl",
+      "cimgui"
+    ],
+    "description": "Nim binding for ImPlot (CImPlot/ImGui/CImGui)",
+    "license": "MIT License",
+    "web": "https://github.com/dinau/nim_implot"
   }
 ]
