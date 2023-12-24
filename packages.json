@@ -32194,5 +32194,17 @@
     "description": "Opinionated code formatter",
     "license": "MIT License",
     "web": "https://github.com/arnetheduck/nph"
+  },
+  {
+    "name": "pathutils",
+    "url": "https://github.com/hmbemba/pathutils",
+    "method": "git",
+    "tags": [
+      "paths",
+      "utils"
+    ],
+    "description": "Utilities for handling paths",
+    "license": "MIT",
+    "web": "https://github.com/hmbemba/pathutils"
   }
 ]
