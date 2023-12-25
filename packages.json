@@ -32194,5 +32194,19 @@
     "description": "Opinionated code formatter",
     "license": "MIT License",
     "web": "https://github.com/arnetheduck/nph"
+  },
+  {
+    "name": "icecream",
+    "url": "https://github.com/hmbemba/icecream",
+    "method": "git",
+    "tags": [
+      "print",
+      "icecream",
+      "ic",
+      "echo"
+    ],
+    "description": "nim port of the icecream python library",
+    "license": "MIT",
+    "web": "https://github.com/hmbemba/icecream"
   }
 ]
