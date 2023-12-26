@@ -5443,6 +5443,21 @@
     "web": "https://github.com/twist-vector/nim-stopwatch"
   },
   {
+    "name": "nimstrict",
+    "url": "https://github.com/jmsapps/nimstrict.git",
+    "method": "git",
+    "tags": [
+      "casesensitivity",
+      "camelcase",
+      "snakecase",
+      "linter",
+      "formatter"
+    ],
+    "description": "Enforce case sensitivity in Nim projects.",
+    "license": "GPLv2",
+    "web": "https://github.com/jmsapps/nimstrict.git"
+  },
+  {
     "name": "playground",
     "url": "https://github.com/theduke/nim-playground",
     "method": "git",
