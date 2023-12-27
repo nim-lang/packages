@@ -32211,5 +32211,19 @@
     "description": "Use threads as if they were servers/microservices to enable multi-threading with a simple mental model.",
     "license": "MIT",
     "web": "https://github.com/PhilippMDoerner/Appster"
+  },
+  {
+    "name": "ipacore",
+    "url": "https://github.com/phononim/ipacore",
+    "method": "git",
+    "tags": [
+      "ipa",
+      "library",
+      "core",
+      "phonology"
+    ],
+    "description": " A base International Phonetic Alphabet type definition. ",
+    "license": "BSD-3-Clause",
+    "web": "https://github.com/phononim/ipacore"
   }
 ]
