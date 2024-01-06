@@ -12496,6 +12496,19 @@
     "web": "https://github.com/treeform/debby"
   },
   {
+    "name": "taggy",
+    "url": "https://github.com/treeform/taggy",
+    "method": "git",
+    "tags": [
+      "html",
+      "xml",
+      "css"
+    ],
+    "description": "Everything to do with HTML and XML",
+    "license": "MIT",
+    "web": "https://github.com/treeform/taggy"
+  },
+  {
     "name": "xdo",
     "url": "https://github.com/juancarlospaco/nim-xdo",
     "method": "git",
