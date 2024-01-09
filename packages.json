@@ -7376,6 +7376,22 @@
     "web": "https://github.com/zah/nim-package-visible-types"
   },
   {
+    "name": "waku",
+    "url": "https://github.com/waku-org/nwaku",
+    "method": "git",
+    "tags": [
+      "peet-to-peer",
+      "communication",
+      "messaging",
+      "networking",
+      "cryptography",
+      "protocols"
+    ],
+    "description": "Implementation of the Waku protocol",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/waku-org/nwaku"
+  },
+  {
     "name": "drchaos",
     "url": "https://github.com/status-im/nim-drchaos",
     "method": "git",
