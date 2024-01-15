@@ -1,5 +1,18 @@
 [
   {
+    "name": "dekao",
+    "url": "https://github.com/ajusa/dekao",
+    "method": "git",
+    "tags": [
+      "html",
+      "template",
+      "htmx"
+    ],
+    "description": "Write HTML templates easily",
+    "license": "MIT",
+    "web": "https://github.com/ajusa/dekao"
+  },
+  {
     "name": "rssatom",
     "url": "https://codeberg.org/samsamros/rssatom",
     "method": "git",
