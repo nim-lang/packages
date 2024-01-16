@@ -1,5 +1,33 @@
 [
   {
+    "name": "dekao",
+    "url": "https://github.com/ajusa/dekao",
+    "method": "git",
+    "tags": [
+      "html",
+      "template",
+      "htmx"
+    ],
+    "description": "Write HTML templates easily",
+    "license": "MIT",
+    "web": "https://github.com/ajusa/dekao"
+  },
+  {
+    "name": "rssatom",
+    "url": "https://codeberg.org/samsamros/rssatom",
+    "method": "git",
+    "tags": [
+      "rss",
+      "atom",
+      "rss parser",
+      "rss creator",
+      "RFC 4287"
+    ],
+    "description": "rssatom is a package designed to read and create RSS and Atom feeds",
+    "license": "MIT",
+    "web": "https://codeberg.org/samsamros/rssatom"
+  },
+  {
     "name": "sudoku",
     "url": "https://github.com/roberto170/sudoku",
     "method": "git",
@@ -7376,6 +7404,36 @@
     "web": "https://github.com/zah/nim-package-visible-types"
   },
   {
+    "name": "waku",
+    "url": "https://github.com/waku-org/nwaku",
+    "method": "git",
+    "tags": [
+      "peet-to-peer",
+      "communication",
+      "messaging",
+      "networking",
+      "cryptography",
+      "protocols"
+    ],
+    "description": "Implementation of the Waku protocol",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/waku-org/nwaku"
+  },
+  {
+    "name": "dnsdisc",
+    "url": "https://github.com/status-im/nim-dnsdisc",
+    "method": "git",
+    "tags": [
+      "protocols",
+      "discovery",
+      "ethereum",
+      "dns"
+    ],
+    "description": "Nim discovery library supporting EIP-1459",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/status-im/nim-dnsdisc"
+  },
+  {
     "name": "drchaos",
     "url": "https://github.com/status-im/nim-drchaos",
     "method": "git",
@@ -12494,6 +12552,19 @@
     "description": "Database ORM layer",
     "license": "MIT",
     "web": "https://github.com/treeform/debby"
+  },
+  {
+    "name": "taggy",
+    "url": "https://github.com/treeform/taggy",
+    "method": "git",
+    "tags": [
+      "html",
+      "xml",
+      "css"
+    ],
+    "description": "Everything to do with HTML and XML",
+    "license": "MIT",
+    "web": "https://github.com/treeform/taggy"
   },
   {
     "name": "xdo",
@@ -32208,5 +32279,85 @@
     "description": "nim port of the icecream python library",
     "license": "MIT",
     "web": "https://github.com/hmbemba/icecream"
+  },
+  {
+    "name": "threadButler",
+    "url": "https://github.com/PhilippMDoerner/Appster",
+    "method": "git",
+    "tags": [
+      "channels",
+      "multithreading",
+      "parallelism",
+      "message-passing",
+      "client-server",
+      "library",
+      "alpha"
+    ],
+    "description": "Use threads as if they were servers/microservices to enable multi-threading with a simple mental model.",
+    "license": "MIT",
+    "web": "https://github.com/PhilippMDoerner/Appster"
+  },
+  {
+    "name": "ipacore",
+    "url": "https://github.com/phononim/ipacore",
+    "method": "git",
+    "tags": [
+      "ipa",
+      "library",
+      "core",
+      "phonology"
+    ],
+    "description": " A base International Phonetic Alphabet type definition. ",
+    "license": "BSD-3-Clause",
+    "web": "https://github.com/phononim/ipacore"
+  },
+  {
+    "name": "bight",
+    "url": "https://github.com/auxym/bight",
+    "method": "git",
+    "tags": [
+      "endianness",
+      "bytes",
+      "serialize",
+      "serialization",
+      "deserialize",
+      "deserialization"
+    ],
+    "description": "Byte-ordering operations with a simple read/write API.",
+    "license": "MIT",
+    "web": "https://github.com/auxym/bight",
+    "doc": "https://auxym.github.io/bight/bight.html"
+  },
+  {
+    "name": "highlightjs",
+    "url": "https://github.com/Ethosa/highlightjs",
+    "method": "git",
+    "tags": [
+      "highlight.js",
+      "highlight",
+      "javascript",
+      "frontend",
+      "web",
+      "bindings"
+    ],
+    "description": "highlight.js bindings for Nim",
+    "license": "MIT",
+    "web": "https://github.com/Ethosa/highlightjs"
+  },
+  {
+    "name": "tailwindcss",
+    "url": "https://github.com/Ethosa/tailwindcss-nim",
+    "method": "git",
+    "tags": [
+      "web",
+      "frontend",
+      "tailwindcss",
+      "tailwind",
+      "javascript",
+      "bindings"
+    ],
+    "description": "Tailwind CSS bindings for Nim",
+    "license": "MIT",
+    "web": "https://github.com/Ethosa/tailwindcss-nim"
   }
 ]
