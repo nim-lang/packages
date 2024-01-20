@@ -32373,5 +32373,18 @@
     "description": "Fork of httpbeast with Nim v2.x support",
     "license": "MIT",
     "web": "https://github.com/ThomasTJdev/httpbeast_fork"
+  },
+  {
+    "name": "jesterfork",
+    "url": "https://github.com/ThomasTJdev/jester_fork",
+    "method": "git",
+    "tags": [
+      "web",
+      "http",
+      "jester"
+    ],
+    "description": "Fork of jester with Nim v2.x support",
+    "license": "MIT",
+    "web": "https://github.com/ThomasTJdev/jester_fork"
   }
 ]
