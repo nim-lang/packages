@@ -32360,5 +32360,18 @@
     "description": "Utility package for mummy multithreaded server",
     "license": "MIT",
     "web": "https://github.com/ThomasTJdev/mummy_utils"
+  },
+  {
+    "name": "httpbeastfork",
+    "url": "https://github.com/ThomasTJdev/httpbeast_fork",
+    "method": "git",
+    "tags": [
+      "http",
+      "server",
+      "parallel"
+    ],
+    "description": "Fork of httpbeast with Nim v2.x support",
+    "license": "MIT",
+    "web": "https://github.com/ThomasTJdev/httpbeast_fork"
   }
 ]
