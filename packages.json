@@ -32362,6 +32362,19 @@
     "web": "https://github.com/ThomasTJdev/mummy_utils"
   },
   {
+    "name": "httpbeastfork",
+    "url": "https://github.com/ThomasTJdev/httpbeast_fork",
+    "method": "git",
+    "tags": [
+      "http",
+      "server",
+      "parallel"
+    ],
+    "description": "Fork of httpbeast with Nim v2.x support",
+    "license": "MIT",
+    "web": "https://github.com/ThomasTJdev/httpbeast_fork"
+  },
+  {
     "name": "jesterfork",
     "url": "https://github.com/ThomasTJdev/jester_fork",
     "method": "git",
