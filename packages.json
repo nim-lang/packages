@@ -32398,5 +32398,19 @@
     "description": "HTML Template Engine",
     "license": "MIT",
     "doc": "https://wraith29.github.io/templater/templater.html"
+  },
+  {
+    "name": "getopty",
+    "url": "https://github.com/amnr/getopty",
+    "method": "git",
+    "tags": [
+      "posix",
+      "cli",
+      "getopt",
+      "parser"
+    ],
+    "description": "POSIX compliant command line parser",
+    "license": "MIT or NCSA",
+    "web": "https://github.com/amnr/getopty"
   }
 ]
