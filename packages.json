@@ -32416,5 +32416,19 @@
     "description": "High level SDL 3.0 shared library wrapper",
     "license": "NCSA OR MIT OR Zlib",
     "web": "https://github.com/amnr/nsdl3"
+  },
+  {
+    "name": "getopty",
+    "url": "https://github.com/amnr/getopty",
+    "method": "git",
+    "tags": [
+      "posix",
+      "cli",
+      "getopt",
+      "parser"
+    ],
+    "description": "POSIX compliant command line parser",
+    "license": "MIT or NCSA",
+    "web": "https://github.com/amnr/getopty"
   }
 ]
