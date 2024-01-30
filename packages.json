@@ -32417,6 +32417,24 @@
     "doc": "https://wraith29.github.io/templater/templater.html"
   },
   {
+    "name": "nsdl3",
+    "url": "https://github.com/amnr/nsdl3",
+    "method": "git",
+    "tags": [
+      "sdl",
+      "sdl3",
+      "library",
+      "wrapper",
+      "gui",
+      "graphics",
+      "audio",
+      "video"
+    ],
+    "description": "High level SDL 3.0 shared library wrapper",
+    "license": "NCSA OR MIT OR Zlib",
+    "web": "https://github.com/amnr/nsdl3"
+  },
+  {
     "name": "nsdl2",
     "url": "https://github.com/amnr/nsdl2",
     "method": "git",
