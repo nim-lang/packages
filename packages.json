@@ -32317,6 +32317,23 @@
     "doc": "https://auxym.github.io/bight/bight.html"
   },
   {
+    "name": "nsdl1",
+    "url": "https://github.com/amnr/nsdl1",
+    "method": "git",
+    "tags": [
+      "sdl",
+      "library",
+      "wrapper",
+      "gui",
+      "graphics",
+      "audio",
+      "video"
+    ],
+    "description": "High level SDL 1.2 shared library wrapper",
+    "license": "NCSA",
+    "web": "https://github.com/amnr/nsdl1"
+  },
+  {
     "name": "highlightjs",
     "url": "https://github.com/Ethosa/highlightjs",
     "method": "git",
@@ -32416,6 +32433,24 @@
     "description": "High level SDL 3.0 shared library wrapper",
     "license": "NCSA OR MIT OR Zlib",
     "web": "https://github.com/amnr/nsdl3"
+  },
+  {
+    "name": "nsdl2",
+    "url": "https://github.com/amnr/nsdl2",
+    "method": "git",
+    "tags": [
+      "sdl",
+      "sdl2",
+      "library",
+      "wrapper",
+      "gui",
+      "graphics",
+      "audio",
+      "video"
+    ],
+    "description": "High level SDL 2.0 shared library wrapper",
+    "license": "NCSA OR MIT OR Zlib",
+    "web": "https://github.com/amnr/nsdl2"
   },
   {
     "name": "getopty",
