@@ -32317,6 +32317,23 @@
     "doc": "https://auxym.github.io/bight/bight.html"
   },
   {
+    "name": "nsdl1",
+    "url": "https://github.com/amnr/nsdl1",
+    "method": "git",
+    "tags": [
+      "sdl",
+      "library",
+      "wrapper",
+      "gui",
+      "graphics",
+      "audio",
+      "video"
+    ],
+    "description": "High level SDL 1.2 shared library wrapper",
+    "license": "NCSA",
+    "web": "https://github.com/amnr/nsdl1"
+  },
+  {
     "name": "highlightjs",
     "url": "https://github.com/Ethosa/highlightjs",
     "method": "git",
@@ -32414,20 +32431,17 @@
     "web": "https://github.com/amnr/getopty"
   },
   {
-    "name": "nsdl1",
-    "url": "https://github.com/amnr/nsdl1",
+    "name": "awsSigV4",
+    "url": "https://github.com/ThomasTJdev/nim_awsSigV4",
     "method": "git",
     "tags": [
-      "sdl",
-      "library",
-      "wrapper",
-      "gui",
-      "graphics",
-      "audio",
-      "video"
+      "aws",
+      "sigv4",
+      "signed",
+      "presigned"
     ],
-    "description": "High level SDL 1.2 shared library wrapper",
-    "license": "NCSA",
-    "web": "https://github.com/amnr/nsdl1"
-   }
+    "description": "Simple package for creating AWS Signature Version 4 (SigV4)",
+    "license": "MIT",
+    "web": "https://github.com/ThomasTJdev/nim_awsSigV4"
+  }
 ]
