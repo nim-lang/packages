@@ -32317,6 +32317,23 @@
     "doc": "https://auxym.github.io/bight/bight.html"
   },
   {
+    "name": "nsdl1",
+    "url": "https://github.com/amnr/nsdl1",
+    "method": "git",
+    "tags": [
+      "sdl",
+      "library",
+      "wrapper",
+      "gui",
+      "graphics",
+      "audio",
+      "video"
+    ],
+    "description": "High level SDL 1.2 shared library wrapper",
+    "license": "NCSA",
+    "web": "https://github.com/amnr/nsdl1"
+  },
+  {
     "name": "highlightjs",
     "url": "https://github.com/Ethosa/highlightjs",
     "method": "git",
