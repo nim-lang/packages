@@ -32479,5 +32479,18 @@
     "description": "Simple package for creating AWS Signature Version 4 (SigV4)",
     "license": "MIT",
     "web": "https://github.com/ThomasTJdev/nim_awsSigV4"
+  },
+  {
+    "name": "vier",
+    "url": "https://git.sr.ht/~xigoi/vier",
+    "method": "git",
+    "tags": [
+      "pixel",
+      "editor",
+      "modal"
+    ],
+    "description": "Vim-Inspired Editor of Rasters",
+    "license": "GPL-3.0-or-later",
+    "web": "https://git.sr.ht/~xigoi/vier"
   }
 ]
