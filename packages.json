@@ -32492,5 +32492,18 @@
     "description": "Vim-Inspired Editor of Rasters",
     "license": "GPL-3.0-or-later",
     "web": "https://xigoi.srht.site/vier/"
+  },
+  {
+    "name": "instagram",
+    "url": "https://github.com/thisago/instagram",
+    "method": "git",
+    "tags": [
+      "instagram",
+      "library",
+      "internal-api"
+    ],
+    "description": "Instagram internal web api implementation",
+    "license": "MIT",
+    "web": "https://github.com/thisago/instagram"
   }
 ]
