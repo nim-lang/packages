@@ -32519,7 +32519,7 @@
       "dearImgui"
     ],
     "description":"rlImgui bindings for nim",
-    "license":"MIT",
+    "license":"zlib",
     "web":"https://github.com/FFezio/NaylibImgui"
   }
 ]
