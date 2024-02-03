@@ -32505,5 +32505,17 @@
     "description": "Instagram internal web api implementation",
     "license": "MIT",
     "web": "https://github.com/thisago/instagram"
+  },
+  {
+    "name": "dither",
+    "url": "https://github.com/Nycto/dither-nim",
+    "method": "git",
+    "tags": [
+      "dither",
+      "graphics"
+    ],
+    "description": "Dithering algorithms in Nim",
+    "license": "Apache-2.0",
+    "web": "https://github.com/Nycto/dither-nim"
   }
 ]
