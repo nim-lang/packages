@@ -32513,8 +32513,7 @@
     "tags": [
       "trait",
       "interfaces",
-      "vtable",
-      ""
+      "vtable"
     ],
     "description": "Trait-like package made without insight",
     "license": "MIT",
