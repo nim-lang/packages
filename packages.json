@@ -32506,4 +32506,20 @@
     "license": "MIT",
     "web": "https://github.com/thisago/instagram"
   }
+  {
+    "name": "NaylibImgui",
+    "url": "https://github.com/FFezio/NaylibImgui"
+    "method":"git",
+    "tags":[
+      "raylib",
+      "library",
+      "wrapper",
+      "gameDev",
+      "graphics",
+      "dearImgui"
+    ],
+    "description":"rlImgui bindings for nim",
+    "license":"MIT",
+    "web":"https://github.com/FFezio/NaylibImgui"
+  }
 ]
