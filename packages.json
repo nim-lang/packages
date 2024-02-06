@@ -32551,5 +32551,20 @@
     "description": "Trait-like package made without insight",
     "license": "MIT",
     "web": "https://github.com/beef331/traitor"
+  },
+  {
+    "name": "bttrwttrin",
+    "url": "https://github.com/nirokay/bttrwttrin",
+    "method": "git",
+    "tags": [
+      "weather",
+      "weather-api",
+      "wttrin",
+      "library"
+    ],
+    "description": "Nim library to fetch weather using wttr.in",
+    "license": "GPL-3.0-or-later",
+    "web": "https://github.com/nirokay/bttrwttrin",
+    "doc": "https://nirokay.github.io/nim-docs/bttrwttrin/bttrwttrin.html"
   }
 ]
