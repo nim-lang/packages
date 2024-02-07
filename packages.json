@@ -1,5 +1,23 @@
 [
   {
+    "name": "nimplex",
+    "url": "https://github.com/amkrajewski/nimplex",
+    "method": "git",
+    "tags": [
+      "data",
+      "simplex",
+      "math",
+      "ai",
+      "ml",
+      "materials",
+      "science"
+    ],
+    "description": "NIM simPLEX: A concise scientific Nim library (with CLI and Python binding) providing samplings, uniform grids, and traversal graphs in compositional (simplex) spaces.",
+    "license": "MIT",
+    "web": "https://github.com/amkrajewski/nimplex",
+    "doc": "https://nimplex.phaseslab.org"
+  },
+  {
     "name": "tagforge",
     "url": "https://github.com/Nimberite-Development/TagForge-Nim",
     "method": "git",
