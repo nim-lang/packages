@@ -32613,5 +32613,18 @@
     "license": "GPL-3.0-or-later",
     "web": "https://github.com/nirokay/bttrwttrin",
     "doc": "https://nirokay.github.io/nim-docs/bttrwttrin/bttrwttrin.html"
+  },
+  {
+    "name": "serde",
+    "url": "https://github.com/codex-storage/nim-json",
+    "method": "git",
+    "tags": [
+      "library",
+      "serialization",
+      "json"
+    ],
+    "description": "Easy-to-use serialization capabilities (currently json only), with a drop-in replacement for std/json.",
+    "license": "MIT",
+    "web": "https://github.com/codex-storage/nim-json"
   }
 ]
