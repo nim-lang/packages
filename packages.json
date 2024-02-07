@@ -18,6 +18,35 @@
     "doc": "https://nimberite-development.github.io/TagForge-Nim/"
   },
   {
+    "name": "curlies",
+    "url": "https://github.com/svenrdz/curlies",
+    "method": "git",
+    "tags": [
+      "object construction",
+      "field init shorthand",
+      "update syntax",
+      "rust update syntax",
+      "fungus"
+    ],
+    "description": "A macro for object construction using {} (curlies).",
+    "license": "MIT",
+    "web": "https://github.com/svenrdz/curlies"
+  },
+  {
+    "name": "littlefs",
+    "url": "https://github.com/Graveflo/nim-littlefs.git",
+    "method": "git",
+    "tags": [
+      "littlefs",
+      "embeded",
+      "filesystem",
+      "fuse"
+    ],
+    "description": "API and bindings for littlefs. Includes a fuse implementation.",
+    "license": "BSD-3-Clause-1",
+    "web": "https://github.com/Graveflo/nim-littlefs"
+  },
+  {
     "name": "mutf8",
     "url": "https://github.com/Nimberite-Development/ModernNet",
     "method": "git",
