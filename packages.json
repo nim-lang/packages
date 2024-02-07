@@ -1,5 +1,23 @@
 [
   {
+    "name": "tagforge",
+    "url": "https://github.com/Nimberite-Development/TagForge-Nim",
+    "method": "git",
+    "tags": [
+      "minecraft",
+      "format",
+      "parse",
+      "dump",
+      "data",
+      "nbt",
+      "mc"
+    ],
+    "description": "A library made for the serialisation and deserialisation of MC NBT!",
+    "license": "Apache-2.0",
+    "web": "https://github.com/Nimberite-Development/TagForge-Nim",
+    "doc": "https://nimberite-development.github.io/TagForge-Nim/"
+  },
+  {
     "name": "curlies",
     "url": "https://github.com/svenrdz/curlies",
     "method": "git",
