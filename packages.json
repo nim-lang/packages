@@ -1,5 +1,19 @@
 [
   {
+    "name": "littlefs",
+    "url": "https://github.com/Graveflo/nim-littlefs.git",
+    "method": "git",
+    "tags": [
+      "littlefs",
+      "embeded",
+      "filesystem",
+      "fuse"
+    ],
+    "description": "API and bindings for littlefs. Includes a fuse implementation.",
+    "license": "BSD-3-Clause-1",
+    "web": "https://github.com/Graveflo/nim-littlefs"
+  },
+  {
     "name": "mutf8",
     "url": "https://github.com/Nimberite-Development/ModernNet",
     "method": "git",
