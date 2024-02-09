@@ -35,7 +35,7 @@ While we really appreciate your contribution, please follow the requirements: ot
 * The URL should work, a .nimble file should be present and the package should be installable
 * The package should build correctly with the latest Nim release
 * The package should not contain files without a license or in breach of 3rd parties licensing
-* Non-mature packages should be flagged as such, especially if they perform security-critical tasks (e.g. encryption)
+* Non-mature packages should be flagged as such by opening an issue here with a good explanation on how they are non-mature, especially if they perform security-critical tasks (e.g. encryption)
 * If a vulnerability is found, make a patch release against the latest stable release (or more) that fixes the issue without introducing any other change.
 * Tiny libraries should be avoided where possible
 * Avoid having many dependencies. Use "when defined(...)" to enable optional features.
