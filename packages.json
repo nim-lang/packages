@@ -32672,5 +32672,16 @@
     "description": "Pure Nim library to read AMQP stats via management plugin API",
     "license": "MIT",
     "web": "https://github.com/Q-Master/amqp-stats.nim"
+  },
+  {
+    "name": "cppconst",
+    "url": "https://github.com/sls1005/nim-cppconst",
+    "method": "git",
+    "tags": [
+      "cpp"
+    ],
+    "description": "Nim wrapper for C++ const-qualified types.",
+    "license": "MIT",
+    "web": "https://github.com/sls1005/nim-cppconst"
   }
 ]
