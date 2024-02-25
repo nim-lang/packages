@@ -32672,5 +32672,17 @@
     "description": "Pure Nim library to read AMQP stats via management plugin API",
     "license": "MIT",
     "web": "https://github.com/Q-Master/amqp-stats.nim"
+  },
+  {
+    "name": "selfpipe",
+    "url": "https://github.com/tdely/selfpipe",
+    "method": "git",
+    "tags": [
+      "signal",
+      "signalhandling"
+    ],
+    "description": "Easy safe signal handling",
+    "license": "MIT",
+    "web": "https://github.com/tdely/selfpipe"
   }
 ]
