@@ -32687,5 +32687,18 @@
     "description": "Pure nim interface library to send data to any StatsD compatible daemon",
     "license": "MIT",
     "web": "https://github.com/Q-Master/statsdclient.nim"
+  },
+  {
+    "name": "rmq_statsd",
+    "url": "https://github.com/Q-Master/rmq-statsd.nim",
+    "method": "git",
+    "tags": [
+      "rabbitmq",
+      "statsd",
+      "metrics"
+    ],
+    "description": "Pure nim rabbitmq to statsd metrics pusher",
+    "license": "MIT",
+    "web": "https://github.com/Q-Master/rmq-statsd.nim"
   }
 ]
