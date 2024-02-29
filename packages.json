@@ -32700,5 +32700,23 @@
     "description": "Pure nim rabbitmq to statsd metrics pusher",
     "license": "MIT",
     "web": "https://github.com/Q-Master/rmq-statsd.nim"
+  },
+  {
+    "name": "caprese",
+    "url": "https://github.com/zenywallet/caprese",
+    "method": "git",
+    "tags": [
+      "web",
+      "http",
+      "https",
+      "ssl",
+      "tls",
+      "websocket",
+      "proxy",
+      "framework"
+    ],
+    "description": "A front-end web server specialized for real-time message exchange",
+    "license": "MIT",
+    "web": "https://github.com/zenywallet/caprese"
   }
 ]
