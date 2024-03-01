@@ -32718,5 +32718,17 @@
     "description": "A front-end web server specialized for real-time message exchange",
     "license": "MIT",
     "web": "https://github.com/zenywallet/caprese"
+  },
+  {
+    "name": "pon2",
+    "url": "https://github.com/izumiya-keisuke/pon2",
+    "method": "git",
+    "tags": [
+      "puyopuyo",
+      "nazopuyo"
+    ],
+    "description": "Puyo Puyo and Nazo Puyo Application",
+    "license": "Apache-2.0",
+    "web": "https://github.com/izumiya-keisuke/pon2"
   }
 ]
