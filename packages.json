@@ -32684,5 +32684,63 @@
     "description": "Easy safe signal handling",
     "license": "MIT",
     "web": "https://github.com/tdely/selfpipe"
+  },
+  {
+    "name": "simplestatsdclient",
+    "url": "https://github.com/Q-Master/statsdclient.nim",
+    "method": "git",
+    "tags": [
+      "statsd",
+      "client",
+      "library",
+      "sync",
+      "async"
+    ],
+    "description": "Pure nim interface library to send data to any StatsD compatible daemon",
+    "license": "MIT",
+    "web": "https://github.com/Q-Master/statsdclient.nim"
+  },
+  {
+    "name": "rmq_statsd",
+    "url": "https://github.com/Q-Master/rmq-statsd.nim",
+    "method": "git",
+    "tags": [
+      "rabbitmq",
+      "statsd",
+      "metrics"
+    ],
+    "description": "Pure nim rabbitmq to statsd metrics pusher",
+    "license": "MIT",
+    "web": "https://github.com/Q-Master/rmq-statsd.nim"
+  },
+  {
+    "name": "caprese",
+    "url": "https://github.com/zenywallet/caprese",
+    "method": "git",
+    "tags": [
+      "web",
+      "http",
+      "https",
+      "ssl",
+      "tls",
+      "websocket",
+      "proxy",
+      "framework"
+    ],
+    "description": "A front-end web server specialized for real-time message exchange",
+    "license": "MIT",
+    "web": "https://github.com/zenywallet/caprese"
+  },
+  {
+    "name": "pon2",
+    "url": "https://github.com/izumiya-keisuke/pon2",
+    "method": "git",
+    "tags": [
+      "puyopuyo",
+      "nazopuyo"
+    ],
+    "description": "Puyo Puyo and Nazo Puyo Application",
+    "license": "Apache-2.0",
+    "web": "https://github.com/izumiya-keisuke/pon2"
   }
 ]
