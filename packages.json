@@ -32593,6 +32593,17 @@
     "web": "https://github.com/thisago/instagram"
   },
   {
+    "name": "cppconst",
+    "url": "https://github.com/sls1005/nim-cppconst",
+    "method": "git",
+    "tags": [
+      "cpp"
+    ],
+    "description": "Nim wrapper for C++ const-qualified types.",
+    "license": "MIT",
+    "web": "https://github.com/sls1005/nim-cppconst"
+  },
+  {
     "name": "dither",
     "url": "https://github.com/Nycto/dither-nim",
     "method": "git",
