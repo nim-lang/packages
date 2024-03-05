@@ -32742,5 +32742,18 @@
     "description": "Puyo Puyo and Nazo Puyo Application",
     "license": "Apache-2.0",
     "web": "https://github.com/izumiya-keisuke/pon2"
+  },
+  {
+    "name": "sat",
+    "url": "https://github.com/nim-lang/sat",
+    "method": "git",
+    "tags": [
+      "sat",
+      "official",
+      "solver"
+    ],
+    "description": "A SAT solver written in Nim.",
+    "license": "MIT",
+    "web": "https://github.com/nim-lang/sat"
   }
 ]
