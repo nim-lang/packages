@@ -32593,6 +32593,17 @@
     "web": "https://github.com/thisago/instagram"
   },
   {
+    "name": "cppconst",
+    "url": "https://github.com/sls1005/nim-cppconst",
+    "method": "git",
+    "tags": [
+      "cpp"
+    ],
+    "description": "Nim wrapper for C++ const-qualified types.",
+    "license": "MIT",
+    "web": "https://github.com/sls1005/nim-cppconst"
+  },
+  {
     "name": "dither",
     "url": "https://github.com/Nycto/dither-nim",
     "method": "git",
@@ -32674,14 +32685,86 @@
     "web": "https://github.com/Q-Master/amqp-stats.nim"
   },
   {
-    "name": "cppconst",
-    "url": "https://github.com/sls1005/nim-cppconst",
+    "name": "selfpipe",
+    "url": "https://github.com/tdely/selfpipe",
     "method": "git",
     "tags": [
-      "cpp"
+      "signal",
+      "signalhandling"
     ],
-    "description": "Nim wrapper for C++ const-qualified types.",
+    "description": "Easy safe signal handling",
     "license": "MIT",
-    "web": "https://github.com/sls1005/nim-cppconst"
+    "web": "https://github.com/tdely/selfpipe"
+  },
+  {
+    "name": "simplestatsdclient",
+    "url": "https://github.com/Q-Master/statsdclient.nim",
+    "method": "git",
+    "tags": [
+      "statsd",
+      "client",
+      "library",
+      "sync",
+      "async"
+    ],
+    "description": "Pure nim interface library to send data to any StatsD compatible daemon",
+    "license": "MIT",
+    "web": "https://github.com/Q-Master/statsdclient.nim"
+  },
+  {
+    "name": "rmq_statsd",
+    "url": "https://github.com/Q-Master/rmq-statsd.nim",
+    "method": "git",
+    "tags": [
+      "rabbitmq",
+      "statsd",
+      "metrics"
+    ],
+    "description": "Pure nim rabbitmq to statsd metrics pusher",
+    "license": "MIT",
+    "web": "https://github.com/Q-Master/rmq-statsd.nim"
+  },
+  {
+    "name": "caprese",
+    "url": "https://github.com/zenywallet/caprese",
+    "method": "git",
+    "tags": [
+      "web",
+      "http",
+      "https",
+      "ssl",
+      "tls",
+      "websocket",
+      "proxy",
+      "framework"
+    ],
+    "description": "A front-end web server specialized for real-time message exchange",
+    "license": "MIT",
+    "web": "https://github.com/zenywallet/caprese"
+  },
+  {
+    "name": "pon2",
+    "url": "https://github.com/izumiya-keisuke/pon2",
+    "method": "git",
+    "tags": [
+      "puyopuyo",
+      "nazopuyo"
+    ],
+    "description": "Puyo Puyo and Nazo Puyo Application",
+    "license": "Apache-2.0",
+    "web": "https://github.com/izumiya-keisuke/pon2"
+  },
+  {
+    "name": "sat",
+    "url": "https://github.com/nim-lang/sat",
+    "method": "git",
+    "tags": [
+      "sat",
+      "official",
+      "solver"
+    ],
+    "description": "A SAT solver written in Nim.",
+    "license": "MIT",
+    "web": "https://github.com/nim-lang/sat"
   }
 ]
