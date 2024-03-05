@@ -32674,6 +32674,20 @@
     "web": "https://github.com/Q-Master/amqp-stats.nim"
   },
   {
+    "name": "nimAdif",
+    "url": "https://github.com/clzls/nimAdif",
+    "method": "git",
+    "tags": [
+      "ham",
+      "adif",
+      "parser",
+      "formatter"
+    ],
+    "description": "An Amateur Data Interchange Format (ADIF) formatter and parser.",
+    "license": "MIT",
+    "web": "https://github.com/clzls/nimAdif"
+  },
+  {
     "name": "selfpipe",
     "url": "https://github.com/tdely/selfpipe",
     "method": "git",
