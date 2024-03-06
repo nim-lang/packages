@@ -32726,6 +32726,17 @@
     "web": "https://github.com/Q-Master/statsdclient.nim"
   },
   {
+    "name": "sunny",
+    "url": "https://github.com/guzba/sunny",
+    "method": "git",
+    "tags": [
+      "json"
+    ],
+    "description": "JSON in Nim with Go-like field tags",
+    "license": "MIT",
+    "web": "https://github.com/guzba/sunny"
+  },
+  {
     "name": "rmq_statsd",
     "url": "https://github.com/Q-Master/rmq-statsd.nim",
     "method": "git",
