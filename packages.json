@@ -1,5 +1,24 @@
 [
   {
+    "name": "nimcso",
+    "url": "https://github.com/amkrajewski/nimcso",
+    "method": "git",
+    "tags": [
+      "data",
+      "optimization",
+      "metaprogramming",
+      "databases",
+      "data selection",
+      "ai",
+      "ml",
+      "science"
+    ],
+    "description": "nim Composition Space Optimization: A high-performance tool leveraging metaprogramming to implement several methods for selecting components (data dimensions) in compositional datasets, as to optimize the data availability and density for applications such as machine learning.",
+    "license": "MIT",
+    "web": "https://github.com/amkrajewski/nimcso",
+    "doc": "https://nimcso.phaseslab.org"
+  },
+  {
     "name": "nimplex",
     "url": "https://github.com/amkrajewski/nimplex",
     "method": "git",
