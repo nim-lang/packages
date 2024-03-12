@@ -99,7 +99,7 @@
   },
   {
     "name": "mutf8",
-    "url": "https://github.com/Nimberite-Development/ModernNet",
+    "url": "https://github.com/The-Ticking-Clockwork/MUTF-8",
     "method": "git",
     "tags": [
       "encoding",
