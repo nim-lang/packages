@@ -18,6 +18,20 @@
     "web": "https://github.com/amkrajewski/nimcso",
     "doc": "https://nimcso.phaseslab.org"
   },
+   {
+    "name": "vqsort",
+    "url": "https://github.com/Asc2011/vqsort",
+    "method": "git",
+    "tags": [
+      "data",
+      "optimization",
+      "sorting",
+      "simd",
+      "quicksort"
+    ],
+    "description": "A vectorized Quicksort (AVX2-only)",
+    "license": "MIT"
+  },
   {
     "name": "nimplex",
     "url": "https://github.com/amkrajewski/nimplex",
