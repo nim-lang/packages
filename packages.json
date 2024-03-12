@@ -32840,5 +32840,20 @@
     "description": "A lightweight and extremely fast nginx log parser that stores the result into a sqlite3 database for further analysis and action",
     "license": "MIT",
     "web": "https://github.com/pouriyajamshidi/nginwho"
+  },
+  {
+    "name": "umriss",
+    "url": "https://github.com/tdely/umriss",
+    "method": "git",
+    "tags": [
+      "cli",
+      "syscalls",
+      "tool",
+      "seccomp",
+      "strace"
+    ],
+    "description": "Extract syscall stats from strace output files",
+    "license": "MIT",
+    "web": "https://github.com/tdely/umriss"
   }
 ]
