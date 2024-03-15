@@ -32854,5 +32854,65 @@
     "description": "Extract syscall stats from strace output files",
     "license": "MIT",
     "web": "https://github.com/tdely/umriss"
-  }
+  },
+  {
+    "name": "impulse",
+    "url": "https://github.com/SciNim/impulse",
+    "method": "git",
+    "tags": [
+      "signals",
+      "signal processing",
+      "FFT",
+      "PocketFFT",
+      "science"
+    ],
+    "description": "Signal processing primitives (FFT, ...) ",
+    "license": "MIT",
+    "web": "https://github.com/SciNim/impulse"
+  },
+  {
+    "name": "xrayAttenuation",
+    "url": "https://github.com/SciNim/xrayAttenuation",
+    "method": "git",
+    "tags": [
+      "xrays",
+      "xray interactions"
+      "reflection",
+      "transmission",
+      "attenuation",
+      "xray optics",
+      "multilayers",
+      "science"
+    ],
+    "description": "Library for X-ray reflectivity and transmission / absorption through matter",
+    "license": "MIT",
+    "web": "https://github.com/SciNim/xrayAttenuation"
+  },
+  {
+    "name": "orgtables",
+    "url": "https://github.com/Vindaar/orgtables",
+    "method": "git",
+    "tags": [
+      "org",
+      "org mode",
+      "tables",
+      "emacs"
+    ],
+    "description": "A library to turn Nim data into Org tables",
+    "license": "MIT",
+    "web": "https://github.com/Vindaar/orgtables"
+  },
+  {
+    "name": "flatBuffers",
+    "url": "https://github.com/Vindaar/flatBuffers",
+    "method": "git",
+    "tags": [
+      "buffers",
+      "serialization",
+      "pickle",
+    ],
+    "description": "Package to turn (nested) Nim objects to flat buffers and back.",
+    "license": "MIT",
+    "web": "https://github.com/Vindaar/flatBuffers"
+  },
 ]
