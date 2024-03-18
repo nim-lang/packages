@@ -18,7 +18,7 @@
     "web": "https://github.com/amkrajewski/nimcso",
     "doc": "https://nimcso.phaseslab.org"
   },
-   {
+  {
     "name": "vqsort",
     "url": "https://github.com/Asc2011/vqsort",
     "method": "git",
@@ -32909,10 +32909,27 @@
     "tags": [
       "buffers",
       "serialization",
-      "pickle",
+      "pickle"
     ],
     "description": "Package to turn (nested) Nim objects to flat buffers and back.",
     "license": "MIT",
     "web": "https://github.com/Vindaar/flatBuffers"
   },
+  {
+    "name": "pnimrp",
+    "url": "https://git.disroot.org/bloomingchad/pnimrp",
+    "method": "git",
+    "tags": [
+      "radio",
+      "terminal",
+      "minimal",
+      "mpv",
+      "libmpv",
+      "nim-lang",
+      ""
+    ],
+    "description": "terminal based audio station player in nim",
+    "license": "GPL-3.0-or-later",
+    "web": "https://git.disroot.org/bloomingchad/pnimrp"
+  }
 ]
