@@ -32925,8 +32925,7 @@
       "minimal",
       "mpv",
       "libmpv",
-      "nim-lang",
-      ""
+      "nim-lang"
     ],
     "description": "terminal based audio station player in nim",
     "license": "GPL-3.0-or-later",
