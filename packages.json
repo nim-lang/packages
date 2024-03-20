@@ -32930,5 +32930,18 @@
     "description": "terminal based audio station player in nim",
     "license": "GPL-3.0-or-later",
     "web": "https://git.disroot.org/bloomingchad/pnimrp"
+  },
+  {
+    "name": "expect",
+    "url": "https://github.com/penguinite/expect",
+    "method": "git",
+    "tags": [
+      "rust",
+      "expect",
+      "basic"
+    ],
+    "description": "Rust-style expect procedures",
+    "license": "BSD-3-Clause",
+    "web": "https://github.com/penguinite/expect"
   }
 ]
