@@ -23442,19 +23442,6 @@
     "web": "https://github.com/SolitudeSF/xcb"
   },
   {
-    "name": "nimjl",
-    "url": "https://github.com/Clonkk/nimjl",
-    "method": "git",
-    "tags": [
-      "Nim",
-      "Julia",
-      "Bridge"
-    ],
-    "description": "Nim Julia bridge",
-    "license": "MIT",
-    "web": "https://github.com/Clonkk/nimjl"
-  },
-  {
     "name": "nimflux",
     "url": "https://github.com/tdely/nimflux",
     "method": "git",
@@ -32966,8 +32953,7 @@
     "tags": [
       "Julia",
       "Nim",
-      "bridge",
-      "Science",
+      "Bridge",
       "SciNim",
       "Scientific",
       "Computing"
