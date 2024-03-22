@@ -32932,6 +32932,19 @@
     "web": "https://git.disroot.org/bloomingchad/pnimrp"
   },
   {
+    "name": "expect",
+    "url": "https://github.com/penguinite/expect",
+    "method": "git",
+    "tags": [
+      "rust",
+      "expect",
+      "basic"
+    ],
+    "description": "Rust-style expect procedures",
+    "license": "BSD-3-Clause",
+    "web": "https://github.com/penguinite/expect"
+  },
+  {
     "name": "css3selectors",
     "url": "https://github.com/Niminem/CSS3Selectors",
     "method": "git",
