@@ -32958,5 +32958,22 @@
     "description": "A Nim CSS Selectors library for the WHATWG standard compliant Chame HTML parser. Query HTML using CSS selectors with Nim just like you can with JavaScript.",
     "license": "MIT",
     "web": "https://github.com/Niminem/CSS3Selectors"
+  },
+  {
+    "name": "nimjl",
+    "url": "https://github.com/SciNim/nimjl",
+    "method": "git",
+    "tags": [
+      "Julia",
+      "Nim",
+      "bridge",
+      "Science",
+      "SciNim",
+      "Scientific",
+      "Computing"
+    ],
+    "description": "Nim Julia bridge",
+    "license": "MIT",
+    "web": "https://github.com/SciNim/nimjl"
   }
 ]
