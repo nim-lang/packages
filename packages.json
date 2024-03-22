@@ -32930,5 +32930,20 @@
     "description": "terminal based audio station player in nim",
     "license": "GPL-3.0-or-later",
     "web": "https://git.disroot.org/bloomingchad/pnimrp"
+  },
+  {
+    "name": "css3selectors",
+    "url": "https://github.com/Niminem/CSS3Selectors",
+    "method": "git",
+    "tags": [
+      "css3",
+      "css-selector",
+      "css-selectors",
+      "html-parser",
+      "htmlparser"
+    ],
+    "description": "A Nim CSS Selectors library for the WHATWG standard compliant Chame HTML parser. Query HTML using CSS selectors with Nim just like you can with JavaScript.",
+    "license": "MIT",
+    "web": "https://github.com/Niminem/CSS3Selectors"
   }
 ]
