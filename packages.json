@@ -32961,5 +32961,19 @@
     "description": "Nim Julia bridge",
     "license": "MIT",
     "web": "https://github.com/SciNim/nimjl"
+  },
+  {
+    "name": "pmath",
+    "url": "https://github.com/nlits-projects/pmath",
+    "method": "git",
+    "tags": [
+      "math",
+      "fractions",
+      "radicals",
+      "precise"
+    ],
+    "description": "library that resolves the inaccuracies of normal float math. ",
+    "license": "MIT",
+    "web": "https://github.com/nlits-projects/pmath"
   }
 ]
