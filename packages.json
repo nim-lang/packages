@@ -17299,6 +17299,20 @@
     "web": "https://github.com/planetis-m/cowstrings"
   },
   {
+    "name": "jsonpak",
+    "url": "https://github.com/planetis-m/jsonpak",
+    "method": "git",
+    "tags": [
+      "json",
+      "json-patch",
+      "json-pointer",
+      "data-structure"
+    ],
+    "description": "Packed ASTs for compact and efficient JSON representation, with JSON Pointer, JSON Patch support.",
+    "license": "MIT",
+    "web": "https://github.com/planetis-m/jsonpak"
+  },
+  {
     "name": "golden",
     "url": "https://github.com/disruptek/golden",
     "method": "git",
