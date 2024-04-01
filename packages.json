@@ -32956,7 +32956,7 @@
   },
   {
     "name": "pnimrp",
-    "url": "https://git.disroot.org/bloomingchad/pnimrp",
+    "url": "https://github.com/bloomingchad/pnimrp",
     "method": "git",
     "tags": [
       "radio",
@@ -32966,9 +32966,9 @@
       "libmpv",
       "nim-lang"
     ],
-    "description": "terminal based audio station player in nim",
+    "description": "simple terminal radio station player in nim making life easier",
     "license": "GPL-3.0-or-later",
-    "web": "https://git.disroot.org/bloomingchad/pnimrp"
+    "web": "https://github.com/bloomingchad/pnimrp"
   },
   {
     "name": "expect",
