@@ -33058,5 +33058,20 @@
     "description": "Low-level Nim wrapper for Chrome DevTools Protocol (CDP) v1.3 stable. Bend Chrome to your will with complete control over your browser. Scrape dynamic webpages, create browser automations, and beyond.",
     "license": "MIT",
     "web": "https://github.com/Niminem/ChromeDevToolsProtocol"
+  },
+  {
+    "name": "octolog",
+    "url": "https://github.com/jaar23/octolog",
+    "method": "git",
+    "tags": [
+      "std-logging",
+      "thread",
+      "multiple-thread",
+      "logging"
+    ],
+    "description": "octolog is a logging library built on top of std/logging for multi-threaded logging.",
+    "license": "GPL3",
+    "web": "https://github.com/jaar23/octolog",
+    "doc": "https://jaar23.github.io/octolog"
   }
 ]
