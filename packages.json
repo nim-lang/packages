@@ -33073,5 +33073,24 @@
     "license": "GPL3",
     "web": "https://github.com/jaar23/octolog",
     "doc": "https://jaar23.github.io/octolog"
+  },
+  {
+    "name": "nimcls",
+    "url": "https://github.com/YaDev/NimCLS",
+    "method": "git",
+    "tags": [
+      "class",
+      "dependency-injection",
+      "oop",
+      "inheritance",
+      "object",
+      "di",
+      "method",
+      "singleton",
+      "inject"
+    ],
+    "description": "Classes and dependency injection for Nim.",
+    "license": "MIT",
+    "web": "https://github.com/YaDev/NimCLS"
   }
 ]
