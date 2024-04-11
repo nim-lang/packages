@@ -33092,5 +33092,42 @@
     "description": "Classes and dependency injection for Nim.",
     "license": "MIT",
     "web": "https://github.com/YaDev/NimCLS"
+  },
+  {
+    "name": "stylus",
+    "url": "https://github.com/ferus-web/stylus",
+    "method": "git",
+    "tags": [
+      "css",
+      "parsing"
+    ],
+    "description": "A standards compliant CSS level 3 tokenizer and parser written in pure Nim",
+    "license": "MIT",
+    "web": "https://github.com/ferus-web/stylus"
+  },
+  {
+    "name": "mirage",
+    "url": "https://github.com/ferus-web/mirage",
+    "method": "git",
+    "tags": [
+      "interpreter",
+      "bytecode",
+      "code"
+    ],
+    "description": "A bytecode language generator and runtime",
+    "license": "MIT",
+    "web": "https://github.com/ferus-web/mirage"
+  },
+  {
+    "name": "ferusgfx",
+    "url": "https://github.com/ferus-web/ferusgfx",
+    "method": "git",
+    "tags": [
+      "graphics",
+      "gpu",
+    ],
+    "description": "A high-performance graphics renderer made for web engines",
+    "license": "MIT",
+    "web": "https://github.com/ferus-web/mirage"
   }
 ]
