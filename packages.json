@@ -33129,5 +33129,20 @@
     "description": "A high-performance graphics renderer made for web engines",
     "license": "MIT",
     "web": "https://github.com/ferus-web/mirage"
+  },
+  {
+    "name": "nimtcl",
+    "url": "https://github.com/neroist/nimtcl",
+    "method": "git",
+    "tags": [
+      "tcl",
+      "tk",
+      "wrapper",
+      "bindings",
+      "lang"
+    ],
+    "description": "Low-level Tcl & Tk bindings for Nim",
+    "license": "MIT",
+    "web": "https://github.com/neroist/nimtcl"
   }
 ]
