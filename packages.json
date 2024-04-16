@@ -33144,5 +33144,17 @@
     "description": "Low-level Tcl & Tk bindings for Nim",
     "license": "MIT",
     "web": "https://github.com/neroist/nimtcl"
+  },
+  {
+    "name": "simpleMail",
+    "url": "https://github.com/up7down8/simpleMail",
+    "method": "git",
+    "tags": [
+      "smtp",
+      "mail",
+    ],
+    "description": "Make sending HTML and file emails easier.",
+    "license": "MIT",
+    "web": "https://github.com/up7down8/simpleMail"
   }
 ]
