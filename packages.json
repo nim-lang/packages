@@ -33156,5 +33156,19 @@
     "description": "Make sending HTML and file emails easier.",
     "license": "MIT",
     "web": "https://github.com/up7down8/simpleMail"
+  },
+  {
+    "name": "asyncssh2",
+    "url": "https://github.com/up7down8/asyncssh2",
+    "method": "git",
+    "tags": [
+      "scp",
+      "ssh",
+      "sftp",
+      "asyncssh"
+    ],
+    "description": "Execute commands and upload/download files using multiple processes and asynchronous methods via SSH.",
+    "license": "MIT",
+    "web": "https://github.com/up7down8/asyncssh2"
   }
 ]
