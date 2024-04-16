@@ -33129,7 +33129,7 @@
     "description": "A high-performance graphics renderer made for web engines",
     "license": "MIT",
     "web": "https://github.com/ferus-web/mirage"
-  }
+  },
   {
     "name": "simpleMail",
     "url": "https://github.com/up7down8/simpleMail",
