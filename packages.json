@@ -33124,7 +33124,7 @@
     "method": "git",
     "tags": [
       "graphics",
-      "gpu",
+      "gpu"
     ],
     "description": "A high-performance graphics renderer made for web engines",
     "license": "MIT",
@@ -33151,7 +33151,7 @@
     "method": "git",
     "tags": [
       "smtp",
-      "mail",
+      "mail"
     ],
     "description": "Make sending HTML and file emails easier.",
     "license": "MIT",
@@ -33170,5 +33170,20 @@
     "description": "Execute commands and upload/download files using multiple processes and asynchronous methods via SSH.",
     "license": "MIT",
     "web": "https://github.com/up7down8/asyncssh2"
+  },
+  {
+    "name": "rex",
+    "url": "https://github.com/minamorl/rex",
+    "method": "git",
+    "tags": [
+      "observable",
+      "observe",
+      "library",
+      "rx",
+      "reactive"
+    ],
+    "description": "Reactive programming, in nim",
+    "license": "MIT",
+    "web": "https://github.com/minamorl/rex"
   }
 ]
