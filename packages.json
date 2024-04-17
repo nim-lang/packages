@@ -33128,7 +33128,7 @@
     ],
     "description": "A high-performance graphics renderer made for web engines",
     "license": "MIT",
-    "web": "https://github.com/ferus-web/mirage"
+    "web": "https://github.com/ferus-web/ferusgfx"
   },
   {
     "name": "nimtcl",
