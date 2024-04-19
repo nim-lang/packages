@@ -33188,7 +33188,7 @@
   },
   {
     "name": "dim",
-    "url": "https://github.com/lorenzoliuzzo/units",
+    "url": "https://github.com/lorenzoliuzzo/dim",
     "method": "git",
     "tags": [
       "dimensional",
