@@ -33196,6 +33196,6 @@
     ],
     "description": "Dimensional Analysis in Nim",
     "license": "GPL-3.0-or-later",
-    "web": "https://github.com/lorenzoliuzzo/units"
+    "web": "https://github.com/lorenzoliuzzo/dim"
   }
 ]
