@@ -33197,5 +33197,18 @@
     "description": "Dimensional Analysis in Nim",
     "license": "GPL-3.0-or-later",
     "web": "https://github.com/lorenzoliuzzo/dim"
+  },
+  {
+    "name": "sudo",
+    "url": "https://github.com/FyraLabs/sudo.nim",
+    "method": "git",
+    "tags": [
+      "sudo",
+      "linux",
+      "unix"
+    ],
+    "description": "Detect if you are running as root, restart self with sudo if needed or setup uid zero when running with the SUID flag set.",
+    "license": "MIT",
+    "web": "https://github.com/FyraLabs/sudo.nim"
   }
 ]
