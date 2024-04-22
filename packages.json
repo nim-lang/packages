@@ -33199,6 +33199,22 @@
     "web": "https://github.com/lorenzoliuzzo/dim"
   },
   {
+    "name": "respite",
+    "url": "https://github.com/guzba/respite",
+    "method": "git",
+    "tags": [
+      "redis",
+      "resp",
+      "sqlite",
+      "sql",
+      "database",
+      "server"
+    ],
+    "description": "Redis protocol backed by SQLite",
+    "license": "MIT",
+    "web": "https://github.com/guzba/respite"
+  },
+  {
     "name": "sudo",
     "url": "https://github.com/FyraLabs/sudo.nim",
     "method": "git",
