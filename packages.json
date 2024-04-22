@@ -1,5 +1,18 @@
 [
   {
+    "name": "well_parser",
+    "url": "https://codeberg.org/samsamros/RRC-permits",
+    "method": "git",
+    "tags": [
+      "Texas Railroad Commission",
+      "Drilling Permits",
+      "Injection wells"
+    ],
+    "description": "This project is intended to parse Texas Railroad Commission data provided in an unsuitable and non-transparent format. As of 2024, this code is able to parse Drilling Permit Master and Trailer and Underground Injection Control Data",
+    "license": "GPL-3.0",
+    "web": "https://codeberg.org/samsamros/RRC-permits"
+  },
+  {
     "name": "avrman",
     "url": "https://github.com/Abathargh/avrman",
     "method": "git",
