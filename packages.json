@@ -1,5 +1,88 @@
 [
   {
+    "name": "shellcmd",
+    "url": "https://github.com/Alogani/shellcmd",
+    "method": "git",
+    "tags": [
+      "library",
+      "childprocess",
+      "async",
+      "script",
+      "bash",
+      "terminal",
+      "system administration",
+    ],
+    "description": "Collection of Terminal commands to be used inside nim",
+    "license": "MIT",
+    "web": "https://github.com/Alogani/shellcmd"
+  },
+  {
+    "name": "asyncproc",
+    "url": "https://github.com/Alogani/asyncproc",
+    "method": "git",
+    "tags": [
+      "library",
+      "childprocess",
+      "async",
+    ],
+    "description": "Flexible child process spawner with strong async features",
+    "license": "MIT",
+    "web": "https://github.com/Alogani/asyncproc"
+  },
+  {
+    "name": "aloganimisc",
+    "url": "https://github.com/Alogani/aloganimisc",
+    "method": "git",
+    "tags": [
+      "library",
+      "dependency"
+    ],
+    "description": "Dependency for asyncproc and shellcmd package. Small utilities not worthing a package. Not meant to be used in production",
+    "license": "MIT",
+    "web": "https://github.com/Alogani/aloganimisc"
+  },
+  {
+    "name": "asyncio",
+    "url": "https://github.com/Alogani/asyncio",
+    "method": "git",
+    "tags": [
+      "library",
+      "async",
+      "asyncfile",
+      "asyncpipe",
+      "asyncstreams"
+    ],
+    "description": "Async files and streams tools",
+    "license": "MIT",
+    "web": "https://github.com/Alogani/asyncio"
+  },
+  {
+    "name": "asyncsync",
+    "url": "https://github.com/Alogani/asyncsync",
+    "method": "git",
+    "tags": [
+      "library",
+      "async",
+      "primitives"
+    ],
+    "description": "Async primitives working on std/asyncdispatch",
+    "license": "MIT",
+    "web": "https://github.com/Alogani/asyncsync"
+  },
+  {
+    "name": "csvdict",
+    "url": "https://github.com/Alogani/csvdict",
+    "method": "git",
+    "tags": [
+      "csv",
+      "library",
+      "data",
+    ],
+    "description": "Another CsvTable API. Goals are efficient, simple and flexible",
+    "license": "MIT",
+    "web": "https://github.com/Alogani/csvdict"
+  },
+  {
     "name": "well_parser",
     "url": "https://codeberg.org/samsamros/RRC-permits",
     "method": "git",
