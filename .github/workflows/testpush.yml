@@ -5,7 +5,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: iffy/install-nim@v5.0.3
+      - uses: iffy/install-nim@v5.0.4
         with:
           version: stable
       - run: nim c -d:ssl -r -d:release package_scanner.nim packages.json
