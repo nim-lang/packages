@@ -10,7 +10,7 @@
       "script",
       "bash",
       "terminal",
-      "system administration",
+      "system administration"
     ],
     "description": "Collection of Terminal commands to be used inside nim",
     "license": "MIT",
@@ -23,7 +23,7 @@
     "tags": [
       "library",
       "childprocess",
-      "async",
+      "async"
     ],
     "description": "Flexible child process spawner with strong async features",
     "license": "MIT",
@@ -76,7 +76,7 @@
     "tags": [
       "csv",
       "library",
-      "data",
+      "data"
     ],
     "description": "Another CsvTable API. Goals are efficient, simple and flexible",
     "license": "MIT",
@@ -33323,5 +33323,17 @@
     "license": "MIT",
     "web": "https://github.com/FyraLabs/sudo.nim",
     "doc": "https://fyralabs.github.io/sudo.nim/"
+  },
+  {
+    "name": "nimsrvstat",
+    "url": "https://github.com/Minejerik/nimsrvstat",
+    "method": "git",
+    "tags": [
+      "minecraft",
+      "api"
+    ],
+    "description": "A nim wrapper around mcsrvstat",
+    "license": "MIT",
+    "web": "https://github.com/Minejerik/nimsrvstat"
   }
 ]
