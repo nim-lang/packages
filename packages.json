@@ -33387,5 +33387,20 @@
     "description": "Some useful tools when working with dates.",
     "license": "MIT",
     "web": "https://github.com/GeK2K/nudates"
+  },
+  {
+    "name": "leveldbstatic",
+    "url": "https://github.com/codex-storage/nim-leveldb",
+    "method": "git",
+    "tags": [
+      "leveldb",
+      "library",
+      "wrapper",
+      "static",
+      "static-linked"
+    ],
+    "description": "Statically linked LevelDB wrapper for Nim",
+    "license": "MIT",
+    "web": "https://github.com/codex-storage/nim-leveldb"
   }
 ]
