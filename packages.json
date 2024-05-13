@@ -33376,5 +33376,16 @@
     "description": "git profile manager",
     "license": "MIT",
     "web": "https://github.com/tdely/dira"
+  },
+  {
+    "name": "nudates",
+    "url": "https://github.com/GeK2K/nudates",
+    "method": "git",
+    "tags": [
+      "dates"
+    ],
+    "description": "Some useful tools when working with dates.",
+    "license": "MIT",
+    "web": "https://github.com/GeK2K/nudates"
   }
 ]
