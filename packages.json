@@ -30733,7 +30733,7 @@
     ],
     "description": "Basic zero-dependency logging with automatic colors and styling for Nim.",
     "license": "GPL-2.0-or-later",
-    "web": "https://github.com/indiscipline/cozytaskpool"
+    "web": "https://github.com/indiscipline/cozylogwriter"
   },
   {
     "name": "grammarian",
