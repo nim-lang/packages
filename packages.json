@@ -33402,5 +33402,25 @@
     "description": "Statically linked LevelDB wrapper for Nim",
     "license": "MIT",
     "web": "https://github.com/codex-storage/nim-leveldb"
+  },
+  {
+    "name": "nimtk",
+    "url": "https://github.com/neroist/nimtk",
+    "method": "git",
+    "tags": [
+      "gui",
+      "ui",
+      "tcl",
+      "tk",
+      "tkinter",
+      "wrapper",
+      "cross-platform",
+      "windows",
+      "linux",
+      "macosx"
+    ],
+    "description": "High-level Tk wrapper for Nim",
+    "license": "MIT",
+    "web": "https://github.com/neroist/nimtk"
   }
 ]
