@@ -33439,5 +33439,22 @@
     "description": "High-level Tk wrapper for Nim",
     "license": "MIT",
     "web": "https://github.com/neroist/nimtk"
+  },
+  {
+    "name": "clap",
+    "url": "https://github.com/morganholly/nim-clap",
+    "method": "git",
+    "tags": [
+      "audio",
+      "plugin",
+      "audio-plugin",
+      "clap",
+      "clap-plugin",
+      "wrapper",
+      "sound"
+    ],
+    "description": "Clap audio plugin bindings",
+    "license": "MIT",
+    "web": "https://github.com/morganholly/nim-clap"
   }
 ]
