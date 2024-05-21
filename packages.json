@@ -33456,5 +33456,20 @@
     "description": "Clap audio plugin bindings",
     "license": "MIT",
     "web": "https://github.com/morganholly/nim-clap"
+  },
+  {
+    "name": "negl",
+    "url": "https://github.com/lualvsil/negl",
+    "method": "git",
+    "tags": [
+      "binding",
+      "egl",
+      "opengl",
+      "gles",
+      "android"
+    ],
+    "description": "Nim bindings for EGL",
+    "license": "MIT",
+    "web": "https://github.com/lualvsil/negl"
   }
 ]
