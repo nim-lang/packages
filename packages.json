@@ -33471,5 +33471,17 @@
     "description": "Nim bindings for EGL",
     "license": "MIT",
     "web": "https://github.com/lualvsil/negl"
+  },
+  {
+    "name": "nudates",
+    "url": "https://github.com/GeK2K/nudates",
+    "method": "git",
+    "tags": [
+      "date",
+      "calendar"
+    ],
+    "description": "Some useful tools when working with dates.",
+    "license": "MIT",
+    "web": "https://github.com/GeK2K/nudates"
   }
 ]
