@@ -33486,5 +33486,19 @@
     "description": "Basic wrapper over std/sysrand",
     "license": "BSD-3-Clause",
     "web": "https://github.com/penguinite/rng"
+  },
+  {
+    "name": "businessdays",
+    "url": "https://github.com/GeK2K/businessdays",
+    "method": "git",
+    "tags": [
+      "calendar",
+      "businessday",
+      "bizday",
+      "holiday"
+    ],
+    "description": "Business Days (or Working Days) calculator.",
+    "license": "MIT",
+    "web": "https://github.com/GeK2K/businessdays"
   }
 ]
