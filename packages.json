@@ -33486,5 +33486,17 @@
     "description": "Basic wrapper over std/sysrand",
     "license": "BSD-3-Clause",
     "web": "https://github.com/penguinite/rng"
+  },
+  {
+    "name": "nim_lk",
+    "url": "https://git.sr.ht/~ehmry/nim_lk",
+    "method": "git",
+    "tags": [
+      "package",
+      "sbom"
+    ],
+    "description": "Nix lockfile generator",
+    "license": "BSD-3-Clause",
+    "web": "https://git.sr.ht/~ehmry/nim_lk"
   }
 ]
