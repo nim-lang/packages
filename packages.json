@@ -33512,5 +33512,18 @@
     "description": "Nix lockfile generator",
     "license": "BSD-3-Clause",
     "web": "https://git.sr.ht/~ehmry/nim_lk"
+  },
+  {
+    "name": "gitty",
+    "url": "https://github.com/chrischtel/gitty",
+    "method": "git",
+    "tags": [
+      "cli",
+      "tool",
+      "gitignore"
+    ],
+    "description": "Easily create .gitignore files from your terminal",
+    "license": "BSD-3-Clause",
+    "web": "https://github.com/chrischtel/gitty"
   }
 ]
