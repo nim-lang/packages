@@ -33500,5 +33500,17 @@
     "description": "Business Days (or Working Days) calculator.",
     "license": "MIT",
     "web": "https://github.com/GeK2K/businessdays"
+  },
+  {
+    "name": "nim_lk",
+    "url": "https://git.sr.ht/~ehmry/nim_lk",
+    "method": "git",
+    "tags": [
+      "package",
+      "sbom"
+    ],
+    "description": "Nix lockfile generator",
+    "license": "BSD-3-Clause",
+    "web": "https://git.sr.ht/~ehmry/nim_lk"
   }
 ]
