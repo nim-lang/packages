@@ -33565,7 +33565,10 @@
     "url": "https://github.com/FyraLabs/nimsutils",
     "method": "git",
     "tags": [
-      "nimscript,nims,utils,sugar"
+      "nimscript",
+      "nims",
+      "utils",
+      "sugar"
     ],
     "description": "Common utils for Nimscript",
     "license": "MIT",
