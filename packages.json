@@ -33559,5 +33559,16 @@
     "description": "Simple structured console messages for Nim applications.",
     "license": "MIT",
     "web": "https://github.com/logavanc/shobiz"
+  },
+  {
+    "name": "nimsutils",
+    "url": "https://github.com/FyraLabs/nimsutils",
+    "method": "git",
+    "tags": [
+      "nimscript,nims,utils,sugar"
+    ],
+    "description": "Common utils for Nimscript",
+    "license": "MIT",
+    "web": "https://github.com/FyraLabs/nimsutils"
   }
 ]
