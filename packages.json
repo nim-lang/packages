@@ -33573,5 +33573,18 @@
     "description": "Common utils for Nimscript",
     "license": "MIT",
     "web": "https://github.com/FyraLabs/nimsutils"
+  },
+  {
+    "name": "chame",
+    "url": "https://git.sr.ht/~bptato/chame",
+    "method": "git",
+    "tags": [
+      "html",
+      "html5",
+      "parser"
+    ],
+    "description": "Standards-compliant HTML5 parser in Nim",
+    "license": "Unlicense",
+    "web": "https://chawan.net/doc/chame/"
   }
 ]
