@@ -33573,5 +33573,47 @@
     "description": "Common utils for Nimscript",
     "license": "MIT",
     "web": "https://github.com/FyraLabs/nimsutils"
+  },
+  {
+    "name": "chame",
+    "url": "https://git.sr.ht/~bptato/chame",
+    "method": "git",
+    "tags": [
+      "html",
+      "html5",
+      "parser"
+    ],
+    "description": "Standards-compliant HTML5 parser in Nim",
+    "license": "Unlicense",
+    "web": "https://chawan.net/doc/chame/"
+  },
+  {
+    "name": "chagashi",
+    "url": "https://git.sr.ht/~bptato/chagashi",
+    "method": "git",
+    "tags": [
+      "encoding",
+      "charset",
+      "encode",
+      "decode"
+    ],
+    "description": "Implementation of the WHATWG-specified text encoders and decoders",
+    "license": "Unlicense",
+    "web": "https://git.sr.ht/~bptato/chagashi"
+  },
+  {
+    "name": "monoucha",
+    "url": "https://git.sr.ht/~bptato/monoucha",
+    "method": "git",
+    "tags": [
+      "quickjs",
+      "javascript",
+      "js",
+      "wrapper",
+      "bindings"
+    ],
+    "description": "High-level wrapper for QuickJS",
+    "license": "MIT & Unlicense",
+    "web": "https://git.sr.ht/~bptato/monoucha"
   }
 ]
