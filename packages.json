@@ -1,5 +1,24 @@
 [
   {
+    "name": "nimgo",
+    "url": "https://github.com/Alogani/NimGo",
+    "method": "git",
+    "tags": [
+      "library",
+      "coroutines",
+      "async",
+      "mincoro",
+      "asyncfile",
+      "asyncsocket",
+      "asyncstreams",
+      "asyncproc",
+      "eventloop"
+    ],
+    "description": "Asynchronous Library Inspired by Go's goroutines, for Nim",
+    "license": "MIT",
+    "web": "https://github.com/Alogani/NimGo"
+  },
+  {
     "name": "shellcmd",
     "url": "https://github.com/Alogani/shellcmd",
     "method": "git",
