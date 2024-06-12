@@ -9734,7 +9734,7 @@
   },
   {
     "name": "pylib",
-    "url": "https://github.com/litlighilit/nimpylib",
+    "url": "https://github.com/nimpylib/pylib",
     "method": "git",
     "tags": [
       "python",
