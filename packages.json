@@ -33670,5 +33670,17 @@
     "description": "Futhark generated wrapper around unicorn-engine",
     "license": "MIT",
     "web": "https://github.com/m4ul3r/libunicorn-nim"
+  },
+  {
+    "name": "ninit",
+    "url": "https://github.com/cypherwytch/ninit",
+    "method": "git",
+    "tags": [
+      "nimble",
+      "package"
+    ],
+    "description": "Initialize a Nim package non-interactively (does not require nimble)",
+    "license": "BSD",
+    "web": "https://github.com/cypherwytch/ninit"
   }
 ]
