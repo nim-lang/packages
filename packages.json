@@ -9734,17 +9734,19 @@
   },
   {
     "name": "pylib",
-    "url": "https://github.com/Yardanico/nimpylib",
+    "url": "https://github.com/nimpylib/pylib",
     "method": "git",
     "tags": [
       "python",
       "compatibility",
       "library",
-      "pure"
+      "pure",
+      "macros",
+      "metaprogramming"
     ],
-    "description": "Nim library with python-like functions and operators",
+    "description": "Nim library with python-like functions, syntax and libraries",
     "license": "MIT",
-    "web": "https://github.com/Yardanico/nimpylib"
+    "web": "https://github.com/litlighilit/nimpylib"
   },
   {
     "name": "graphemes",
