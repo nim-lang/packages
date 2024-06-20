@@ -571,7 +571,7 @@
   },
   {
     "name": "webui",
-    "url": "https://github.com/neroist/webui",
+    "url": "https://github.com/webui-dev/nim-webui",
     "method": "git",
     "tags": [
       "webui",
@@ -590,8 +590,8 @@
     ],
     "description": "Nim wrapper for WebUI",
     "license": "MIT",
-    "web": "https://github.com/neroist/webui#readme",
-    "docs": "https://neroist.github.io/webui"
+    "web": "https://webui.me/",
+    "docs": "https://webui.me/docs"
   },
   {
     "name": "unibs",
