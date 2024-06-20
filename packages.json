@@ -33694,5 +33694,24 @@
     "description": "Cloths provides the way to process and structure string easily.",
     "license": "MIT",
     "web": "https://github.com/panno8M/cloths"
+  },
+  {
+    "name": "aptos",
+    "url": "https://github.com/C-NERD/nimAptos",
+    "method": "git",
+    "tags": [
+      "aptos",
+      "cryptocurrency",
+      "web3",
+      "crypto",
+      "coin",
+      "sdk",
+      "bcs",
+      "movelang",
+      "move"
+    ],
+    "description": "aptos library for nim lang",
+    "license": "MIT",
+    "web": "https://github.com/C-NERD/nimAptos"
   }
 ]
