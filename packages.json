@@ -33682,5 +33682,17 @@
     "description": "Initialize a Nim package non-interactively (does not require nimble)",
     "license": "BSD",
     "web": "https://github.com/cypherwytch/ninit"
+  },
+  {
+    "name": "cloths",
+    "url": "https://github.com/panno8M/cloths",
+    "method": "git",
+    "tags": [
+      "string",
+      "format"
+    ],
+    "description": "Cloths provides the way to process and structure string easily.",
+    "license": "MIT",
+    "web": "https://github.com/panno8M/cloths"
   }
 ]
