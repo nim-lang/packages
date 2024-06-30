@@ -33732,7 +33732,7 @@
   },
   {
     "name": "lsblk",
-    "url": "https:///",
+    "url": "https://github.com/FyraLabs/lsblk.nim",
     "method": "",
     "tags": [
       "lsblk",
@@ -33743,6 +33743,6 @@
     ],
     "description": "List out block-devices, including disks, partitions and their mountpoints",
     "license": "MIT",
-    "web": "https:///"
+    "web": "https://github.com/FyraLabs/lsblk.nim"
   }
 ]
