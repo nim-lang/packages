@@ -33729,5 +33729,20 @@
     "description": "A high-level and easy to use PGP library. Using Rust & Sequoia-PGP on the backend!",
     "license": "MIT",
     "web": "https://gitlab.com/IAlbassort/nimPGP/"
+  },
+  {
+    "name": "lsblk",
+    "url": "https:///",
+    "method": "",
+    "tags": [
+      "lsblk",
+      "disks",
+      "partitions",
+      "mountpoints",
+      "filesystem"
+    ],
+    "description": "List out block-devices, including disks, partitions and their mountpoints",
+    "license": "MIT",
+    "web": "https:///"
   }
 ]
