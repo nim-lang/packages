@@ -33733,7 +33733,7 @@
   {
     "name": "lsblk",
     "url": "https://github.com/FyraLabs/lsblk.nim",
-    "method": "",
+    "method": "git",
     "tags": [
       "lsblk",
       "disks",
