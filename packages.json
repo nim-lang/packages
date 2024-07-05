@@ -33783,7 +33783,7 @@
       "simd",
       "crypto"
     ],
-    "description": "This library provides thoroughly tested and highly-optimized implementations of cryptography protocols.",
+    "description": "Modular, high-performance, zero-dependency cryptography stack for proof systems and blockchain protocols.",
     "license": "MIT or Apache License 2.0",
     "web": "https://github.com/mratsim/constantine"
   }
