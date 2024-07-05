@@ -17205,6 +17205,19 @@
     "web": "https://github.com/ringabout/timeit"
   },
   {
+    "name": "mimalloc",
+    "url": "https://github.com/planetis-m/mimalloc_nim",
+    "method": "git",
+    "tags": [
+      "allocator",
+      "mimalloc",
+      "multithreading"
+    ],
+    "description": "A drop-in solution to use mimalloc in Nim with ARC/ORC",
+    "license": "MIT",
+    "web": "https://github.com/planetis-m/mimalloc_nim"
+  },
+  {
     "name": "manu",
     "url": "https://github.com/planetis-m/manu",
     "method": "git",
