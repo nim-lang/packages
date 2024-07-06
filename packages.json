@@ -33757,5 +33757,34 @@
     "description": "List out block-devices, including disks, partitions and their mountpoints",
     "license": "MIT",
     "web": "https://github.com/FyraLabs/lsblk.nim"
+  },
+  {
+    "name": "constantine",
+    "url": "https://github.com/mratsim/constantine",
+    "method": "git",
+    "tags": [
+      "cryptography",
+      "blockchain",
+      "zk",
+      "bigint",
+      "math",
+      "proof-systems",
+      "elliptic-curves",
+      "finite-fields",
+      "assembly",
+      "gpu",
+      "cuda",
+      "sha256",
+      "hash",
+      "hmac",
+      "hkdf",
+      "crypto",
+      "security",
+      "simd",
+      "crypto"
+    ],
+    "description": "Modular, high-performance, zero-dependency cryptography stack for proof systems and blockchain protocols.",
+    "license": "MIT or Apache License 2.0",
+    "web": "https://github.com/mratsim/constantine"
   }
 ]
