@@ -33786,5 +33786,17 @@
     "description": "Modular, high-performance, zero-dependency cryptography stack for proof systems and blockchain protocols.",
     "license": "MIT or Apache License 2.0",
     "web": "https://github.com/mratsim/constantine"
+  },
+  {
+    "name": "ecslib",
+    "url": "https://github.com/glassesneo/ecslib",
+    "method": "git",
+    "tags": [
+      "game-development",
+      "entity-component-system"
+    ],
+    "description": "A nimble package for Entity Component System",
+    "license": "MIT",
+    "web": "https://github.com/glassesneo/ecslib"
   }
 ]
