@@ -8980,7 +8980,7 @@
   },
   {
     "name": "mathexpr",
-    "url": "https://github.com/Yardanico/nim-mathexpr",
+    "url": "https://github.com/nimbackup/nim-mathexpr",
     "method": "git",
     "tags": [
       "math",
@@ -8989,7 +8989,7 @@
     ],
     "description": "MathExpr - pure-Nim mathematical expression evaluator library",
     "license": "MIT",
-    "web": "https://github.com/Yardanico/nim-mathexpr"
+    "web": "https://github.com/nimbackup/nim-mathexpr"
   },
   {
     "name": "frag",
@@ -9244,7 +9244,7 @@
   },
   {
     "name": "osureplay",
-    "url": "https://github.com/Yardanico/nim-osureplay",
+    "url": "https://github.com/nimbackup/nim-osureplay",
     "method": "git",
     "tags": [
       "library",
@@ -9255,7 +9255,7 @@
     ],
     "description": "osu! replay parser",
     "license": "MIT",
-    "web": "https://github.com/Yardanico/nim-osureplay"
+    "web": "https://github.com/nimbackup/nim-osureplay"
   },
   {
     "name": "tiger",
@@ -9386,7 +9386,7 @@
   },
   {
     "name": "spinny",
-    "url": "https://github.com/Yardanico/spinny",
+    "url": "https://github.com/nimbackup/spinny",
     "method": "git",
     "tags": [
       "terminal",
@@ -9396,7 +9396,7 @@
     ],
     "description": "Spinny is a tiny terminal spinner package for the Nim Programming Language.",
     "license": "MIT",
-    "web": "https://github.com/Yardanico/spinny"
+    "web": "https://github.com/nimbackup/spinny"
   },
   {
     "name": "nigui",
@@ -9568,7 +9568,7 @@
   },
   {
     "name": "vkapi",
-    "url": "https://github.com/Yardanico/nimvkapi",
+    "url": "https://github.com/nimbackup/nimvkapi",
     "method": "git",
     "tags": [
       "wrapper",
@@ -9579,7 +9579,7 @@
     ],
     "description": "A wrapper for the vk.com API (russian social network)",
     "license": "MIT",
-    "web": "https://github.com/Yardanico/nimvkapi"
+    "web": "https://github.com/nimbackup/nimvkapi"
   },
   {
     "name": "slacklib",
@@ -13523,7 +13523,7 @@
   },
   {
     "name": "asciigraph",
-    "url": "https://github.com/Yardanico/asciigraph",
+    "url": "https://github.com/nimbackup/asciigraph",
     "method": "git",
     "tags": [
       "graph",
@@ -13533,7 +13533,7 @@
     ],
     "description": "Console ascii line charts in pure nim",
     "license": "MIT",
-    "web": "https://github.com/Yardanico/asciigraph"
+    "web": "https://github.com/nimbackup/asciigraph"
   },
   {
     "name": "bearlibterminal",
@@ -18920,7 +18920,7 @@
   },
   {
     "name": "adb",
-    "url": "https://github.com/Yardanico/nim-adb",
+    "url": "https://github.com/nimbackup/nim-adb",
     "method": "git",
     "tags": [
       "adb",
@@ -18929,7 +18929,7 @@
     ],
     "description": "ADB protocol implementation in Nim",
     "license": "MIT",
-    "web": "https://github.com/Yardanico/nim-adb"
+    "web": "https://github.com/nimbackup/nim-adb"
   },
   {
     "name": "z3nim",
@@ -19677,7 +19677,7 @@
   },
   {
     "name": "libvlc",
-    "url": "https://github.com/Yardanico/nim-libvlc",
+    "url": "https://github.com/nimbackup/nim-libvlc",
     "method": "git",
     "tags": [
       "vlc",
@@ -19690,7 +19690,7 @@
     ],
     "description": "libvlc bindings for Nim",
     "license": "MIT",
-    "web": "https://github.com/Yardanico/nim-libvlc"
+    "web": "https://github.com/nimbackup/nim-libvlc"
   },
   {
     "name": "nimcoon",
@@ -20531,7 +20531,7 @@
   },
   {
     "name": "telenim",
-    "url": "https://github.com/Yardanico/telenim",
+    "url": "https://github.com/nimbackup/telenim",
     "method": "git",
     "tags": [
       "telegram",
@@ -20545,7 +20545,7 @@
     ],
     "description": "A high-level async TDLib wrapper for Nim",
     "license": "MIT",
-    "web": "https://github.com/Yardanico/telenim"
+    "web": "https://github.com/nimbackup/telenim"
   },
   {
     "name": "taskqueue",
