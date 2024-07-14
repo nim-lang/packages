@@ -19005,6 +19005,26 @@
     "web": "https://github.com/nitely/nim-hyperx"
   },
   {
+    "name": "grpc",
+    "url": "https://github.com/nitely/nim-grpc",
+    "method": "git",
+    "tags": [
+      "rpc",
+      "grpc",
+      "http",
+      "http2",
+      "web",
+      "web-server",
+      "web-client",
+      "server",
+      "client",
+      "client-server"
+    ],
+    "description": "Pure Nim gRPC client and server",
+    "license": "MIT",
+    "web": "https://github.com/nitely/nim-grpc"
+  },
+  {
     "name": "delight",
     "url": "https://github.com/liquid600pgm/delight",
     "method": "git",
