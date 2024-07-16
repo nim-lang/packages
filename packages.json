@@ -33831,5 +33831,18 @@
     "description": "Nim bindings for Erin Catto's Box2D physics engine. ",
     "license": "MIT",
     "web": "https://github.com/jon-edward/box2d.nim"
+  },
+  {
+    "name": "holidapi",
+    "url": "https://github.com/nirokay/holidapi",
+    "method": "git",
+    "tags": [
+      "api",
+      "api-wrapper",
+      "holiday"
+    ],
+    "description": "Collection of Holiday APIs - get holidays, their dates and additional information.",
+    "license": "GPL-3.0-only",
+    "web": "https://github.com/nirokay/holidapi"
   }
 ]
