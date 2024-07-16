@@ -33835,7 +33835,7 @@
   {
     "name": "holidapi",
     "url": "https://github.com/nirokay/holidapi",
-    "method": "url",
+    "method": "git",
     "tags": [
       "api",
       "api-wrapper",
