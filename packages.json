@@ -33844,5 +33844,18 @@
     "description": "Collection of Holiday APIs - get holidays, their dates and additional information.",
     "license": "GPL-3.0-only",
     "web": "https://github.com/nirokay/holidapi"
+  },
+  {
+    "name": "hannah",
+    "url": "https://github.com/sainttttt/hannah",
+    "method": "git",
+    "tags": [
+      "xxhash",
+      "wrapper",
+      "library"
+    ],
+    "description": "xxhash wrapper library for Nim",
+    "license": "MIT",
+    "web": "https://github.com/sainttttt/hannah"
   }
 ]
