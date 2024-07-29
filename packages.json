@@ -33857,5 +33857,17 @@
     "description": "xxhash wrapper library for Nim",
     "license": "MIT",
     "web": "https://github.com/sainttttt/hannah"
+  },
+  {
+    "name": "batmon",
+    "url": "https://codeberg.org/pswilde/batmon",
+    "method": "git",
+    "tags": [
+      "battery",
+      "notification"
+    ],
+    "description": "A simple daemon to notify you about changed to your battery's status. ",
+    "license": "BSD-3",
+    "web": "https://codeberg.org/pswilde/batmon"
   }
 ]
