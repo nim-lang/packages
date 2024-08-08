@@ -1,5 +1,18 @@
 [
   {
+    "name": "niqlite",
+    "url": "https://github.com/mentalonigiri/niqlite",
+    "method": "git",
+    "tags": [
+      "library",
+      "sqlite",
+      "fts5"
+    ],
+    "description": "sqlite wrapper with fts5 and cflags configuration for sqlite.c. Builds sqlite from source",
+    "license": "MIT",
+    "web": "https://github.com/mentalonigiri/niqlite"
+  },
+  {
     "name": "nimgo",
     "url": "https://github.com/Alogani/NimGo",
     "method": "git",
