@@ -33885,5 +33885,19 @@
     "description": "A simple daemon to notify you about changed to your battery's status. ",
     "license": "BSD-3",
     "web": "https://codeberg.org/pswilde/batmon"
+  },
+  {
+    "name": "wayland_native",
+    "url": "https://git.sr.ht/~ehmry/wayland-nim",
+    "method": "git",
+    "tags": [
+      "client",
+      "cps",
+      "library",
+      "wayland"
+    ],
+    "description": "Native Wayland client library",
+    "license": "Unlicense",
+    "web": "https://git.sr.ht/~ehmry/wayland-nim"
   }
 ]
