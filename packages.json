@@ -12835,6 +12835,19 @@
     "license": "MIT",
     "web": "https://github.com/treeform/taggy"
   },
+ {
+    "name": "tabby",
+    "url": "https://github.com/treeform/tabby",
+    "method": "git",
+    "tags": [
+      "csv",
+      "tsv",
+      "excel"
+    ],
+    "description": "Fast CSV parser with hooks.",
+    "license": "MIT",
+    "web": "https://github.com/treeform/tabby"
+  },
   {
     "name": "xdo",
     "url": "https://github.com/juancarlospaco/nim-xdo",
