@@ -33925,5 +33925,18 @@
     "description": "A simple clap-like command line argument parser written in Nim",
     "license": "MIT",
     "web": "https://github.com/AinTEAsports/nclap"
+  },
+  {
+    "name": "nclap",
+    "url": "https://github.com/AinTEAsports/nclap",
+    "method": "git",
+    "tags": [
+      "cil",
+      "argument",
+      "parser"
+    ],
+    "description": "A simple clap-like command line argument parser written in Nim",
+    "license": "MIT",
+    "web": "https://github.com/AinTEAsports/nclap"
   }
 ]
