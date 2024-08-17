@@ -33523,7 +33523,7 @@
   },
   {
     "name": "clap",
-    "url": "https://github.com/morganholly/nim-clap",
+    "url": "https://github.com/NimAudio/nim-clap",
     "method": "git",
     "tags": [
       "audio",
