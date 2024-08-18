@@ -1,5 +1,19 @@
 [
   {
+    "name": "envmw",
+    "url": "https://pf4sh.eu/git/pulux/envmw",
+    "method": "git",
+    "tags": [
+      "console",
+      "command-line",
+      "server",
+      "cli"
+    ],
+    "description": "InMemory Key-Value-Store",
+    "license": "MIT",
+    "web": "https://pf4sh.eu/git/pulux/envmw"
+  },
+  {
     "name": "niqlite",
     "url": "https://github.com/mentalonigiri/niqlite",
     "method": "git",
