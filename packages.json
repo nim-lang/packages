@@ -33952,5 +33952,18 @@
     "description": "A simple clap-like command line argument parser written in Nim",
     "license": "MIT",
     "web": "https://github.com/AinTEAsports/nclap"
+  },
+  {
+    "name": "turso-nim",
+    "url": "https://codeberg.org/13thab/turso-nim",
+    "method": "git",
+    "tags": [
+      "client",
+      "sdk",
+      "db"
+    ],
+    "description": "A new awesome nimble client for libsql and turso",
+    "license": "BSD-3-Clause",
+    "web": "https://codeberg.org/13thab/turso-nim"
   }
 ]
