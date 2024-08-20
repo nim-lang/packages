@@ -33550,7 +33550,25 @@
     ],
     "description": "Clap audio plugin bindings",
     "license": "MIT",
-    "web": "https://github.com/morganholly/nim-clap"
+    "web": "https://github.com/NimAudio/nim-clap"
+  },
+  {
+    "name": "pugl",
+    "url": "https://github.com/NimAudio/nim-pugl",
+    "method": "git",
+    "tags": [
+      "plugin",
+      "audio-plugin",
+      "pugl",
+      "graphics",
+      "opengl",
+      "gui",
+      "windowing",
+      "window"
+    ],
+    "description": "Clap audio plugin bindings",
+    "license": "MIT",
+    "web": "https://github.com/NimAudio/nim-pugl"
   },
   {
     "name": "negl",
