@@ -33983,5 +33983,19 @@
     "description": "A new awesome nimble client for libsql and turso",
     "license": "BSD-3-Clause",
     "web": "https://codeberg.org/13thab/turso-nim"
+  },
+  {
+    "name": "norg",
+    "url": "https://codeberg.org/pswilde/norgbackup",
+    "method": "git",
+    "tags": [
+      "backup",
+      "system-tools",
+      "borg",
+      "restic"
+    ],
+    "description": "A portable wrapper for borg backup and restic inspired by borgmatic.",
+    "license": "AGPL-3.0-or-later",
+    "web": "https://codeberg.org/pswilde/norgbackup"
   }
 ]
