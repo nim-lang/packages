@@ -33997,5 +33997,19 @@
     "description": "A portable wrapper for borg backup and restic inspired by borgmatic.",
     "license": "AGPL-3.0-or-later",
     "web": "https://codeberg.org/pswilde/norgbackup"
+  },
+  {
+    "name": "formatja",
+    "url": "https://github.com/enthus1ast/formatja",
+    "method": "git",
+    "tags": [
+      "string",
+      "interpolation",
+      "runtime",
+      "template"
+    ],
+    "description": "A simple runtime string interpolation library, that leverages nimjas lexer.",
+    "license": "MIT",
+    "web": "https://github.com/enthus1ast/formatja"
   }
 ]
