@@ -33997,7 +33997,7 @@
     "description": "A portable wrapper for borg backup and restic inspired by borgmatic.",
     "license": "AGPL-3.0-or-later",
     "web": "https://norgbackup.net",
-    "doc": "https://codeberg.org/pswilde/norgbackup/src/branch/main/readme.md"
+    "doc": "https://norgbackup.net/usage/"
   },
   {
     "name": "formatja",
