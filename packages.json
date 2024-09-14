@@ -34077,7 +34077,7 @@
     "description": "HIP / CUDA programming library for Nim.",
     "license": "MIT",
     "web": "https://monofuel.github.io/hippo/"
-  }
+  },
   {
     "name": "festim",
     "url": "https://github.com/CardealRusso/festim",
