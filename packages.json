@@ -34079,8 +34079,8 @@
     "web": "https://monofuel.github.io/hippo/"
   },
   {
-    "name": "festim",
-    "url": "https://github.com/CardealRusso/festim",
+    "name": "fenstim",
+    "url": "https://github.com/CardealRusso/fenstim",
     "method": "git",
     "tags": [
       "gui",
@@ -34089,7 +34089,7 @@
     ],
     "description": "The most minimal cross-platform GUI library - in Nim.",
     "license": "MIT",
-    "web": "https://github.com/CardealRusso/festim"
+    "web": "https://github.com/CardealRusso/fenstim"
   },
   {
     "name": "newt",
