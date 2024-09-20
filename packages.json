@@ -34104,7 +34104,7 @@
       "api",
       "library",
       "pytube",
-      "youtube-dl",
+      "youtube-dl"
     ],
     "description": "Youtube downloader library and CLI.",
     "license": "GPLv3",
