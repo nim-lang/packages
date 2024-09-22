@@ -34059,8 +34059,15 @@
       "performance",
       "base64",
       "unicode",
-      "avx2", "avx512", "neon", "sse", "riscv",
-      "utf8", "utf16", "utf32", "transcoding"
+      "avx2",
+      "avx512",
+      "neon",
+      "sse",
+      "riscv",
+      "utf8",
+      "utf16",
+      "utf32",
+      "transcoding"
     ],
     "license": "Apache-2.0",
     "web": "https://github.com/ferus-web/simdutf"
@@ -34109,5 +34116,22 @@
     "description": "Youtube downloader library and CLI.",
     "license": "GPLv3",
     "web": "https://github.com/navid-m/newt"
+  },
+  {
+    "name": "surrealdb",
+    "url": "https://github.com/Xkonti/surrealdb.nim",
+    "method": "git",
+    "tags": [
+      "surrealdb",
+      "database",
+      "surrealql",
+      "driver",
+      "sql",
+      "nosql",
+      "websocket"
+    ],
+    "description": "SurrealDB driver for Nim",
+    "license": "MIT",
+    "web": "https://github.com/Xkonti/surrealdb.nim"
   }
 ]
