@@ -34133,5 +34133,18 @@
     "description": "SurrealDB driver for Nim",
     "license": "MIT",
     "web": "https://github.com/Xkonti/surrealdb.nim"
+  },
+  {
+    "name": "minilru",
+    "url": "https://github.com/status-im/nim-minilru",
+    "method": "git",
+    "tags": [
+      "cache",
+      "lru",
+      "data structure"
+    ],
+    "description": "Minim(al/ized) LRU cache",
+    "license": "MIT",
+    "web": "https://github.com/status-im/nim-minilru"
   }
 ]
