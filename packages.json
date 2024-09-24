@@ -7881,19 +7881,6 @@
     "web": "https://github.com/status-im/nim-taskpools"
   },
   {
-    "name": "std_shims",
-    "url": "https://github.com/status-im/nim-std-shims",
-    "method": "git",
-    "tags": [
-      "library",
-      "backports",
-      "shims"
-    ],
-    "description": "APIs available in the latests version of Nim, backported to older stable releases",
-    "license": "Apache License 2.0",
-    "web": "https://github.com/status-im/nim-std-shims"
-  },
-  {
     "name": "stew",
     "url": "https://github.com/status-im/nim-stew",
     "method": "git",
@@ -8040,17 +8027,6 @@
     "web": "https://github.com/status-im/nim-libp2p"
   },
   {
-    "name": "rlp",
-    "url": "https://github.com/status-im/nim-rlp",
-    "method": "git",
-    "tags": [
-      "deprecated"
-    ],
-    "description": "Deprecated RLP serialization library for Nim (now part of the 'eth' module)",
-    "license": "Apache License 2.0",
-    "web": "https://github.com/status-im/nim-rlp"
-  },
-  {
     "name": "nitro",
     "url": "https://github.com/status-im/nim-nitro",
     "method": "git",
@@ -8063,29 +8039,6 @@
     "description": " Nitro state channels in Nim",
     "license": "Apache License 2.0",
     "web": "https://github.com/status-im/nim-nitro"
-  },
-  {
-    "name": "eth_keys",
-    "url": "https://github.com/status-im/nim-eth-keys",
-    "method": "git",
-    "tags": [
-      "deprecated"
-    ],
-    "description": "A deprecated reimplementation in pure Nim of eth-keys, the common API for Ethereum key operations (now part of the 'eth' package).",
-    "license": "Apache License 2.0",
-    "web": "https://github.com/status-im/nim-eth-keys"
-  },
-  {
-    "name": "eth_common",
-    "url": "https://github.com/status-im/nim-eth-common",
-    "method": "git",
-    "tags": [
-      "library",
-      "ethereum"
-    ],
-    "description": "Definitions of various data structures used in the Ethereum eco-system",
-    "license": "Apache License 2.0",
-    "web": "https://github.com/status-im/nim-eth-common"
   },
   {
     "name": "ethash",
@@ -8101,21 +8054,6 @@
     "description": "A Nim implementation of Ethash, the ethereum proof-of-work hashing function",
     "license": "Apache License 2.0",
     "web": "https://github.com/status-im/nim-ethash"
-  },
-  {
-    "name": "eth_bloom",
-    "url": "https://github.com/status-im/nim-eth-bloom",
-    "method": "git",
-    "tags": [
-      "deprecated"
-    ],
-    "description": "Ethereum bloom filter (deprecated, now part of the 'eth' package)",
-    "license": "Apache License 2.0",
-    "web": "https://github.com/status-im/nim-eth-bloom"
-  },
-  {
-    "name": "evmjit",
-    "alias": "evmc"
   },
   {
     "name": "evmc",
@@ -8186,60 +8124,6 @@
     "web": "https://github.com/status-im/nim-secp256k1"
   },
   {
-    "name": "eth_trie",
-    "url": "https://github.com/status-im/nim-eth-trie",
-    "method": "git",
-    "tags": [
-      "deprecated"
-    ],
-    "description": "Merkle Patricia Tries as specified by Ethereum (deprecated, now part of the 'eth' package)",
-    "license": "Apache License 2.0",
-    "web": "https://github.com/status-im/nim-eth-trie"
-  },
-  {
-    "name": "eth_p2p",
-    "url": "https://github.com/status-im/nim-eth-p2p",
-    "method": "git",
-    "tags": [
-      "deprecated",
-      "library",
-      "ethereum",
-      "p2p",
-      "devp2p",
-      "rplx",
-      "networking",
-      "whisper",
-      "swarm"
-    ],
-    "description": "Deprecated implementation of the Ethereum suite of P2P protocols (now part of the 'eth' package)",
-    "license": "Apache License 2.0",
-    "web": "https://github.com/status-im/nim-eth-p2p"
-  },
-  {
-    "name": "eth_keyfile",
-    "url": "https://github.com/status-im/nim-eth-keyfile",
-    "method": "git",
-    "tags": [
-      "deprecated"
-    ],
-    "description": "A deprecated library for handling Ethereum private keys and wallets (now part of the 'eth' package)",
-    "license": "Apache License 2.0",
-    "web": "https://github.com/status-im/nim-eth-keyfile"
-  },
-  {
-    "name": "byteutils",
-    "url": "https://github.com/status-im/nim-byteutils",
-    "method": "git",
-    "tags": [
-      "library",
-      "blobs",
-      "hex-dump"
-    ],
-    "description": "Useful utilities for manipulating and visualizing byte blobs",
-    "license": "Apache License 2.0",
-    "web": "https://github.com/status-im/nim-byteutils"
-  },
-  {
     "name": "ttmath",
     "url": "https://github.com/status-im/nim-ttmath",
     "method": "git",
@@ -8270,15 +8154,15 @@
     "web": "https://github.com/status-im/nim-testutils"
   },
   {
-    "name": "nimbus",
-    "url": "https://github.com/status-im/nimbus",
+    "name": "beacon_chain",
+    "url": "https://github.com/status-im/nimbus-eth2",
     "method": "git",
     "tags": [
       "ethereum"
     ],
-    "description": "An Ethereum 2.0 Sharding Client for Resource-Restricted Devices",
+    "description": "An efficient Ethereum beacon chain client",
     "license": "Apache License 2.0",
-    "web": "https://github.com/status-im/nimbus"
+    "web": "https://github.com/status-im/nimbus-eth2"
   },
   {
     "name": "stint",
@@ -24307,7 +24191,7 @@
       "tests",
       "unit-testing"
     ],
-    "description": "unittest fork focused on parallel test execution",
+    "description": "Unit test framework evolved from std/unittest",
     "license": "MIT",
     "web": "https://github.com/status-im/nim-unittest2"
   },
