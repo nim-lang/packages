@@ -34037,6 +34037,7 @@
     "method": "git",
     "tags": [
       "openai",
+      "chatgpt",
       "llm"
     ],
     "description": "OpenAI ChatGPT API client library.",
