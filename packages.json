@@ -34030,5 +34030,17 @@
     "description": "Minim(al/ized) LRU cache",
     "license": "MIT",
     "web": "https://github.com/status-im/nim-minilru"
+  },
+  {
+    "name": "openai_leap",
+    "url": "https://github.com/monofuel/openai_leap",
+    "method": "git",
+    "tags": [
+      "openai",
+      "llm"
+    ],
+    "description": "OpenAI ChatGPT API client library.",
+    "license": "MIT",
+    "web": "https://monofuel.github.io/openai_leap/"
   }
 ]
