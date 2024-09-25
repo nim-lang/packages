@@ -34042,5 +34042,20 @@
     "description": "OpenAI ChatGPT API client library.",
     "license": "MIT",
     "web": "https://monofuel.github.io/openai_leap/"
+  },
+  {
+    "name": "llama_leap",
+    "url": "https://github.com/monofuel/llama_leap",
+    "method": "git",
+    "tags": [
+      "ollama",
+      "llama2",
+      "llama3",
+      "meta",
+      "llm"
+    ],
+    "description": "Ollama API client library.",
+    "license": "MIT",
+    "web": "https://monofuel.github.io/llama_leap/"
   }
 ]
