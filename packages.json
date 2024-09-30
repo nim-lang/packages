@@ -34089,5 +34089,19 @@
     "description": " some useful tools for programming with Nim",
     "license": "MIT",
     "web": "https://github.com/GeK2K/nimutils"
+  },
+  {
+    "name": "buju",
+    "url": "https://github.com/haoyu234/buju",
+    "method": "git",
+    "tags": [
+      "layout",
+      "ui",
+      "ux",
+      "gui"
+    ],
+    "description": "buju (布局) is a simple layout engine, based on layout.h",
+    "license": "MIT",
+    "web": "https://github.com/haoyu234/buju"
   }
 ]
