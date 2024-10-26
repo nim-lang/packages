@@ -34103,5 +34103,21 @@
     "description": "buju (布局) is a simple layout engine, based on layout.h",
     "license": "MIT",
     "web": "https://github.com/haoyu234/buju"
+  },
+  {
+    "name": "froth",
+    "url": "https://github.com/metagn/froth",
+    "method": "git",
+    "tags": [
+      "pointer",
+      "taggedpointer",
+      "pointertag",
+      "library",
+      "memory",
+      "optimization"
+    ],
+    "description": "tagged pointer types with destructors",
+    "license": "MIT",
+    "web": "https://github.com/metagn/froth"
   }
 ]
