@@ -34125,7 +34125,13 @@
     "url": "https://github.com/openpeeps/crossdb-nim",
     "method": "git",
     "tags": [
-      "database,sql,imdb,embedded-db,crossdb,rdbms,in-memory"
+      "database",
+      "sql",
+      "imdb",
+      "embedded-db",
+      "crossdb",
+      "rdbms",
+      "in-memory"
     ],
     "description": "CrossDB Driver for Nim",
     "license": "MIT",
