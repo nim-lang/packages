@@ -34121,6 +34121,17 @@
     "web": "https://github.com/metagn/froth"
   },
   {
+    "name": "smelly",
+    "url": "https://github.com/guzba/smelly",
+    "method": "git",
+    "tags": [
+      "xml"
+    ],
+    "description": "Sometimes you have to parse XML",
+    "license": "MIT",
+    "web": "https://github.com/guzba/smelly"
+  },
+  {
     "name": "crossdb",
     "url": "https://github.com/openpeeps/crossdb-nim",
     "method": "git",
