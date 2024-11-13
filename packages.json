@@ -34160,5 +34160,16 @@
     "description": "2048 game clone runs in your terminal, written in Nim",
     "license": "MIT",
     "web": "https://github.com/enkaito/nim_2048"
+  },
+  {
+    "name": "rangex",
+    "url": "https://github.com/PegasusPlusUS/rangex-nim",
+    "method": "git",
+    "tags": [
+      "Snippet"
+    ],
+    "description": "Clear range maker",
+    "license": "MIT",
+    "web": "https://github.com/PegasusPlusUS/rangex-nim"
   }
 ]
