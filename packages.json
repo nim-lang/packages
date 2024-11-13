@@ -34171,5 +34171,19 @@
     "description": "Clear range maker",
     "license": "MIT",
     "web": "https://github.com/PegasusPlusUS/rangex-nim"
+  },
+  {
+    "name": "katalis",
+    "url": "https://github.com/zendbit/katalis",
+    "method": "git",
+    "tags": [
+      "web",
+      "framework",
+      "http",
+      "util"
+    ],
+    "description": "Katalis is nim lang micro web framework",
+    "license": "MIT",
+    "web": "https://github.com/zendbit/katalis"
   }
 ]
