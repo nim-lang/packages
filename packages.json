@@ -34185,5 +34185,18 @@
     "description": "Katalis is nim lang micro web framework",
     "license": "MIT",
     "web": "https://github.com/zendbit/katalis"
+  },
+  {
+    "name": "fox",
+    "url": "https://github.com/navid-m/fox",
+    "method": "git",
+    "tags": [
+      "hot-reload",
+      "debugging",
+      "development"
+    ],
+    "description": "Hot reloading for development of applications in Nim",
+    "license": "GPLv3",
+    "web": "https://github.com/navid-m/fox"
   }
 ]
