@@ -34211,5 +34211,19 @@
     "description": "A X(Formally known as Twitter) API wrapper library for Nim",
     "license": "MIT",
     "web": "https://aspiring-aster.github.io/twim/"
+  },
+  {
+    "name": "temple",
+    "url": "https://github.com/penguinite/temple.git",
+    "method": "git",
+    "tags": [
+      "library",
+      "template",
+      "templating",
+      "web"
+    ],
+    "description": "A templating library for run-time templating with support for simple conditionals and attributes.",
+    "license": "BSD-3-Clause",
+    "web": "https://github.com/penguinite/temple.git"
   }
 ]
