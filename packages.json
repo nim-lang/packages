@@ -34225,5 +34225,38 @@
     "description": "A templating library for run-time templating with support for simple conditionals and attributes.",
     "license": "BSD-3-Clause",
     "web": "https://github.com/penguinite/temple.git"
+  },
+  {
+    "name": "blend2d",
+    "url": "https://github.com/openpeeps/blend2d-nim",
+    "method": "git",
+    "tags": [
+      "graphics",
+      "2d",
+      "blend2d",
+      "2d-graphics",
+      "rasterization",
+      "vector"
+    ],
+    "description": "Blend2D for Nim language",
+    "license": "MIT",
+    "web": "https://github.com/openpeeps/blend2d-nim"
+  },
+  {
+    "name": "bestfetch",
+    "url": "https://gitlab.com/Maxb0tbeep/bestfetch",
+    "method": "git",
+    "tags": [
+      "console",
+      "cli",
+      "terminal",
+      "linux",
+      "fetch",
+      "system-fetch",
+      "sysfetch"
+    ],
+    "description": "a customizable, beautiful, and blazing fast system fetch",
+    "license": "GPLv3",
+    "web": "https://gitlab.com/Maxb0tbeep/bestfetch"
   }
 ]
