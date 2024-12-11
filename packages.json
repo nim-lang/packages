@@ -19087,6 +19087,19 @@
     "web": "https://github.com/nitely/nim-segmentation"
   },
   {
+    "name": "silerovad",
+    "url": "https://github.com/nitely/nim-silero-vad",
+    "method": "git",
+    "tags": [
+      "vad",
+      "voice",
+      "audio"
+    ],
+    "description": "Silero VAD Voice Activity Detection",
+    "license": "MIT",
+    "web": "https://github.com/nitely/nim-silero-vad"
+  },
+  {
     "name": "anonimongo",
     "url": "https://github.com/mashingan/anonimongo",
     "method": "git",
