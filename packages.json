@@ -34258,5 +34258,20 @@
     "description": "a customizable, beautiful, and blazing fast system fetch",
     "license": "GPLv3",
     "web": "https://gitlab.com/Maxb0tbeep/bestfetch"
+  },
+  {
+    "name": "flame",
+    "url": "https://github.com/navid-m/flame",
+    "method": "git",
+    "tags": [
+      "music",
+      "audio",
+      "synth",
+      "synthesizer",
+      "sequencer",
+    ],
+    "description": "High level audio synthesis and sequencing library",
+    "license": "GPLv3",
+    "web": "https://github.com/navid-m/flame"
   }
 ]
