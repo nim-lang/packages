@@ -27,6 +27,7 @@ optional):
   * web    - An optional URL for humans to read additional information about
              the package.
   * doc    - An optional URL for humans to read the package HTML documentation
+  * donations - A list of URLs that can be used to monetarily support the author of this package. Check [Accepting Donations](#accepting-donations)
 
 ### Requirements
 
@@ -88,6 +89,23 @@ For example:
   },
 ...
 ```
+
+## Accepting Donations
+
+You can optionally link donation URLs that can be used by other users to support you. \
+Try to link a mainstream donation website like BuyMeACoffee, Patreon or OpenCollective over less well-known ones to make it easier for others to support you.
+
+Donation links must follow the following guidelines:
+* They must be valid URLs
+* They mustn't be malicious (see [Donation Abuse](#donation-abuse))
+* If you decide to close your account on any of the websites you use to accept donations, you must remove the link from all your packages that still link to that URL.
+
+This is a relatively new feature (as of 17th of August 2024, the time of writing this, it hasn't been merged into Nimble's master branch) and the vast majority of Nimble clients will simply ignore this field for now. Newer ones that are taken from a source like `choosenim` or from a rolling release Linux distribution's packages will likely receive this update shortly after the [pull request](https://github.com/nim-lang/nimble/pulls/1258) is merged.
+
+If you wish to send a donation to a library's developer and are on a version of Nimble that supports this feature, run `nimble sponsor <name of library>`.
+
+### Donation Abuse
+Your package will be removed without notice if you attempt to use this feature maliciously (i.e, phishing via typosquatting or through another means) and you might be banned from adding your packages to the index for an indefinite period of time.
 
 # License
 
