@@ -34286,5 +34286,20 @@
     "description": "High level audio synthesis and sequencing library",
     "license": "GPLv3",
     "web": "https://github.com/navid-m/flame"
+  },
+  {
+    "name": "derichekde",
+    "url": "https://github.com/chancyk/deriche-kde",
+    "method": "git",
+    "tags": [
+      "kde",
+      "density",
+      "kernel",
+      "estimation",
+      "deriche",
+      "plot"
+    ],
+    "description": "Fast KDE implementation in pure Nim using linear binning and Deriche approximation",
+    "license": "BSD-3-Clause"
   }
 ]
