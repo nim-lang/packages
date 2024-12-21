@@ -34301,5 +34301,15 @@
     ],
     "description": "Fast KDE implementation in pure Nim using linear binning and Deriche approximation",
     "license": "BSD-3-Clause"
+  },
+  {
+    "name": "NimBTC",
+    "url": "https://git.dog/Caroline/NimBTC",
+    "method": "git",
+    "tags": [
+      "Crypto", "BTC", "Bitcoin"
+    ],
+    "description": "A BTC RPC Wrapper for Nim",
+    "license": "MIT"
   }
 ]
