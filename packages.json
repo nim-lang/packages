@@ -34320,10 +34320,10 @@
       "godot",
       "godot4",
       "gdextension",
-      "game",      
+      "game"
     ],
     "description": "Nim for Godot GDExtension. A pure library and a CLI tool.",
     "license": "MIT",
-    "url": "https://github.com/godot-nim/gdext-nim"
+    "web": "https://github.com/godot-nim/gdext-nim"
   }
 ]
