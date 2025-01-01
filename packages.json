@@ -17367,6 +17367,22 @@
     "web": "https://github.com/planetis-m/jsonpak"
   },
   {
+    "name": "computesim",
+    "url": "https://github.com/planetis-m/compute-sim",
+    "method": "git",
+    "tags": [
+      "gpu-simulation",
+      "compute-shaders",
+      "gpgpu-computing",
+      "multithreading",
+      "parallelism",
+      "threads"
+    ],
+    "description": "Learn and understand compute shader operations and control flow.",
+    "license": "MIT",
+    "web": "https://github.com/planetis-m/compute-sim"
+  },
+  {
     "name": "golden",
     "url": "https://github.com/disruptek/golden",
     "method": "git",
