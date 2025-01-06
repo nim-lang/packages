@@ -34365,6 +34365,7 @@
       "serving"
     ],
     "description": "HTTP serving made eazy",
-    "license": "MIT"
+    "license": "MIT",
+    "web":"https://roger-padrell.github.io/serverly/"
   }
 ]
