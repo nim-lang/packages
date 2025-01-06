@@ -34353,5 +34353,18 @@
     "description": "Simple validator and utils for Yubikey OTP",
     "license": "MIT",
     "web": "https://github.com/ThomasTJdev/nim_yubikey_otp"
+  },
+  {
+    "name": "serverly",
+    "url": "https://github.com/roger-padrell/serverly",
+    "method": "git",
+    "tags": [
+      "serverly",
+      "http",
+      "server",
+      "serving"
+    ],
+    "description": "HTTP serving made eazy",
+    "license": "MIT"
   }
 ]
