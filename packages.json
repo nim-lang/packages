@@ -1,5 +1,19 @@
 [
   {
+    "name": "tejina",
+    "url": "https://github.com/bctnry/tejina",
+    "method": "git",
+    "tags": [
+      "web",
+      "http",
+      "framework",
+      "template"
+    ],
+    "description": "Minimal web framework for Nim",
+    "license": "MIT",
+    "web": "https://github.com/bctnry/tejina"
+  },
+  {
     "name": "envmw",
     "url": "https://pf4sh.eu/git/pulux/envmw",
     "method": "git",
