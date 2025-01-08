@@ -17959,6 +17959,24 @@
     "web": "https://github.com/andreas-wilm/nimreadfq"
   },
   {
+    "name": "readfx",
+    "url": "https://github.com/quadram-institute-bioscience/readfx",
+    "method": "git",
+    "tags": [
+      "fasta",
+      "fastq",
+      "fastx",
+      "seqfu",
+      "bioinformatics",
+      "parser",
+      "kseq",
+      "readfq"
+    ],
+    "description": "FASTX parser for SeqFu (klib)",
+    "license": "MIT",
+    "web": "https://github.com/quadram-institute-bioscience/readfx"
+  },
+  {
     "name": "googlesearch",
     "url": "https://github.com/xyb/googlesearch.nim",
     "method": "git",
@@ -34311,7 +34329,7 @@
       "audio",
       "synth",
       "synthesizer",
-      "sequencer",
+      "sequencer"
     ],
     "description": "High level audio synthesis and sequencing library",
     "license": "GPLv3",
