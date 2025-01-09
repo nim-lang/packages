@@ -34355,7 +34355,9 @@
     "url": "https://git.dog/Caroline/NimBTC",
     "method": "git",
     "tags": [
-      "Crypto", "BTC", "Bitcoin"
+      "Crypto",
+      "BTC",
+      "Bitcoin"
     ],
     "description": "A BTC RPC Wrapper for Nim",
     "license": "MIT"
@@ -34398,6 +34400,23 @@
     ],
     "description": "HTTP serving made eazy",
     "license": "MIT",
-    "web":"https://roger-padrell.github.io/serverly/"
+    "web": "https://roger-padrell.github.io/serverly/"
+  },
+  {
+    "name": "sigils",
+    "url": "https://github.com/elcritch/sigils",
+    "method": "git",
+    "tags": [
+      "slots",
+      "signals",
+      "event",
+      "broadcast",
+      "gui",
+      "ui",
+      "multithreading"
+    ],
+    "description": "A slot and signals implementation for the Nim programming language",
+    "license": "MIT",
+    "web": "https://github.com/elcritch/sigils"
   }
 ]
