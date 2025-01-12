@@ -41,6 +41,20 @@
     "web": "https://github.com/mentalonigiri/niqlite"
   },
   {
+    "name": "libsndfile",
+    "url": "https://github.com/bctnry/nim-libsndfile",
+    "method": "git",
+    "tags": [
+      "audio",
+      "wav",
+      "wrapper",
+      "libsndfile"
+    ],
+    "description": "A C-style wrapper of libsndfile for Nim",
+    "license": "MIT",
+    "web": "https://github.com/bctnry/nim-libsndfile"
+  },
+  {
     "name": "nimgo",
     "url": "https://github.com/Alogani/NimGo",
     "method": "git",
