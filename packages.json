@@ -34432,5 +34432,22 @@
     "description": "A slot and signals implementation for the Nim programming language",
     "license": "MIT",
     "web": "https://github.com/elcritch/sigils"
+  },
+  {
+    "name": "macosutils",
+    "url": "https://github.com/elcritch/macosutils",
+    "method": "git",
+    "tags": [
+      "macos",
+      "osx",
+      "system",
+      "utilities",
+      "cfcore",
+      "corefoundation",
+      "wrapper"
+    ],
+    "description": "MacOS/OSX system util wrappers for CFCore and the like",
+    "license": "Apache-2.0",
+    "web": "https://github.com/elcritch/macosutils"
   }
 ]
