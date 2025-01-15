@@ -34432,5 +34432,22 @@
     "description": "A slot and signals implementation for the Nim programming language",
     "license": "MIT",
     "web": "https://github.com/elcritch/sigils"
+  },
+  {
+    "name": "dmon",
+    "url": "https://github.com/elcritch/dmon-nim",
+    "method": "git",
+    "tags": [
+      "file-water",
+      "file-monitor",
+      "monitor",
+      "cross-platform",
+      "notify",
+      "files",
+      "directories"
+    ],
+    "description": "Library to monitor file changes in a folder. A port of Dmon.",
+    "license": "BSD-2-Clause",
+    "web": "https://github.com/elcritch/dmon-nim"
   }
 ]
