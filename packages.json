@@ -34466,5 +34466,23 @@
     "description": "Library to monitor file changes in a folder. A port of Dmon.",
     "license": "BSD-2-Clause",
     "web": "https://github.com/elcritch/dmon-nim"
+  },
+  {
+    "name": "sdl3",
+    "url": "https://github.com/transmutrix/nim-sdl3",
+    "method": "git",
+    "tags": [
+      "sdl",
+      "game-dev",
+      "game-development",
+      "multimedia",
+      "wrapper",
+      "bindings",
+      "audio",
+      "video"
+    ],
+    "description": "SDl3 bindings for Nim",
+    "license": "MIT",
+    "web": "https://github.com/transmutrix/nim-sdl3"
   }
 ]
