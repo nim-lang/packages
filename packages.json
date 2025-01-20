@@ -18660,7 +18660,7 @@
   },
   {
     "name": "choosenim",
-    "url": "https://github.com/dom96/choosenim",
+    "url": "https://github.com/nim-lang/choosenim",
     "method": "git",
     "tags": [
       "install",
@@ -18672,7 +18672,7 @@
     ],
     "description": "The Nim toolchain installer.",
     "license": "MIT",
-    "web": "https://github.com/dom96/choosenim"
+    "web": "https://github.com/nim-lang/choosenim"
   },
   {
     "name": "nimlist",
