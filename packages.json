@@ -34541,5 +34541,17 @@
     "description": "Non-mature SIMD-accelerated drop-ins for std/strutils functions",
     "license": "MIT",
     "web": "https://github.com/xTrayambak/kaleidoscope"
+  },
+  {
+    "name": "icedhash",
+    "url": "https://github.com/IcedQuinn/icedhash",
+    "method": "git",
+    "tags": [
+      "hash",
+      "xxhash"
+    ],
+    "description": "A collection of cryptographic and non-cryptographic hashing routines which have been ported to native Nim",
+    "license": "MIT",
+    "web": "https://github.com/IcedQuinn/icedhash"
   }
 ]
