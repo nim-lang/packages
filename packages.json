@@ -34561,6 +34561,6 @@
     "tags": ["errorcode", "errno", "statuscode", "httpstatuscode", "httpcode"],
     "description": "Errorcodes maps Nim error states and POSIX and HTTP error codes to a single common enum. It can be used as an alternative to exceptions.",
     "license": "MIT", 
-    "web": "https://github.com/nim-lang/errorcodes.git"
+    "web": "https://github.com/nim-lang/errorcodes"
   }
 ]
