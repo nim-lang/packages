@@ -34562,5 +34562,14 @@
     "description": "Errorcodes maps Nim error states and POSIX and HTTP error codes to a single common enum. It can be used as an alternative to exceptions.",
     "license": "MIT", 
     "web": "https://github.com/nim-lang/errorcodes"
+  },
+  {
+    "name": "nimony",
+    "url": "https://github.com/nim-lang/nimony.git",
+    "method": "git",
+    "tags": ["Nim compiler"],
+    "description": "Nimony is a new Nim implementation that is in heavy development.",
+    "license": "MIT",
+    "web": "https://github.com/nim-lang/nimony"
   }
 ]
