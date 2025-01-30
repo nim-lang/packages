@@ -34553,5 +34553,14 @@
     "description": "A collection of cryptographic and non-cryptographic hashing routines which have been ported to native Nim",
     "license": "MIT",
     "web": "https://github.com/IcedQuinn/icedhash"
+  },
+  {
+    "name": "errorcodes",
+    "url": "https://github.com/nim-lang/errorcodes.git",
+    "method": "git",
+    "tags": ["errorcode", "errno", "statuscode", "httpstatuscode", "httpcode"],
+    "description": "Errorcodes maps Nim error states and POSIX and HTTP error codes to a single common enum. It can be used as an alternative to exceptions."
+    "license": "MIT", 
+    "web": "https://github.com/nim-lang/errorcodes.git"
   }
 ]
