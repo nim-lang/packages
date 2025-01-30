@@ -34564,12 +34564,12 @@
     "web": "https://github.com/nim-lang/errorcodes"
   },
   {
-    "name": "sat",
-    "url": "https://github.com/nim-lang/sat.git",
+    "name": "nimony",
+    "url": "https://github.com/nim-lang/nimony.git",
     "method": "git",
-    "tags": ["SAT", "boolean algebra"],
-    "description": "A SAT solver written in Nim. Used in the Nimble and Atlas package managers.",
+    "tags": ["Nim compiler"],
+    "description": "Nimony is a new Nim implementation that is in heavy development.",
     "license": "MIT",
-    "web": "https://github.com/nim-lang/sat"
+    "web": "https://github.com/nim-lang/nimony"
   }
 ]
