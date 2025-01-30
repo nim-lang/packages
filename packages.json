@@ -34562,5 +34562,14 @@
     "description": "Errorcodes maps Nim error states and POSIX and HTTP error codes to a single common enum. It can be used as an alternative to exceptions.",
     "license": "MIT", 
     "web": "https://github.com/nim-lang/errorcodes"
+  },
+  {
+    "name": "sat",
+    "url": "https://github.com/nim-lang/sat.git",
+    "method": "git",
+    "tags": ["SAT", "boolean algebra"],
+    "description": "A SAT solver written in Nim. Used in the Nimble and Atlas package managers.",
+    "license": "MIT",
+    "web": "https://github.com/nim-lang/sat"
   }
 ]
