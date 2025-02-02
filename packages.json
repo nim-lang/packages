@@ -34591,5 +34591,17 @@
     "description": "argv and argc for command line arguments",
     "license": "MIT",
     "web": "https://github.com/threatfender/args"
+  },
+  {
+    "name": "args",
+    "url": "https://github.com/threatfender/args",
+    "method": "git",
+    "tags": [
+      "cli",
+      "args"
+    ],
+    "description": "argv and argc for command line arguments",
+    "license": "MIT",
+    "web": "https://github.com/threatfender/args"
   }
 ]
