@@ -34601,7 +34601,6 @@
       "nim-qsn",
       "quantum",
       "encryption",
-      "crypto"
     ],
     "description": "A nim library for implementing post-quantum encrypting algorithms",
     "license": "MIT",
