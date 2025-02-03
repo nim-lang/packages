@@ -34591,5 +34591,20 @@
     "description": "argv and argc for command line arguments",
     "license": "MIT",
     "web": "https://github.com/threatfender/args"
+  }, 
+  {
+    "name": "qsn",
+    "url": "https://github.com/roger-padrell/nim-qsn",
+    "method": "git",
+    "tags": [
+      "qsn",
+      "nim-qsn",
+      "quantum",
+      "encryption",
+      "crypto"
+    ],
+    "description": "A nim library for implementing post-quantum encrypting algorithms",
+    "license": "MIT",
+    "web": "https://roger-padrell.github.io/nim-qsn/"
   }
 ]
