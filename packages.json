@@ -34591,5 +34591,19 @@
     "description": "argv and argc for command line arguments",
     "license": "MIT",
     "web": "https://github.com/threatfender/args"
-  }
+  }, 
+  {
+    "name": "nim_kyber",
+    "url": "https://github.com/roger-padrell/nim-kyber",
+    "method": "git",
+    "tags": [
+      "crypto",
+      "encrypting",
+      "kyber",
+      "post-quantum"
+    ],
+    "description": "Implementation of KYBER in NIM",
+    "license": "MIT",
+    "web": "https://roger-padrell.github.io/nim-kyber/"
+  },
 ]
