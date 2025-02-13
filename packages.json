@@ -34591,7 +34591,7 @@
     "description": "argv and argc for command line arguments",
     "license": "MIT",
     "web": "https://github.com/threatfender/args"
-  }, 
+  },
   {
     "name": "nim_kyber",
     "url": "https://github.com/roger-padrell/nim-kyber",
@@ -34605,5 +34605,21 @@
     "description": "Implementation of KYBER in NIM",
     "license": "MIT",
     "web": "https://roger-padrell.github.io/nim-kyber/"
+  },
+  {
+    "name": "libclip",
+    "url": "https://github.com/jabbalaci/libclip",
+    "method": "git",
+    "tags": [
+      "clipboard",
+      "library",
+      "cross-platform",
+      "copy",
+      "paste",
+      "wrapper"
+    ],
+    "description": "A cross-platform Nim library for reading/writing text from/to the clipboard",
+    "license": "MIT",
+    "web": "https://github.com/jabbalaci/libclip"
   },
 ]
