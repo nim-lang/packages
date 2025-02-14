@@ -34591,7 +34591,7 @@
     "description": "argv and argc for command line arguments",
     "license": "MIT",
     "web": "https://github.com/threatfender/args"
-  }, 
+  },
   {
     "name": "nim_kyber",
     "url": "https://github.com/roger-padrell/nim-kyber",
@@ -34606,4 +34606,20 @@
     "license": "MIT",
     "web": "https://roger-padrell.github.io/nim-kyber/"
   },
+  {
+    "name": "floof",
+    "url": "https://github.com/arashi-software/floof",
+    "method": "git",
+    "tags": [
+      "fuzzy",
+      "search",
+      "fuzzysearch",
+      "simd",
+      "threads",
+      "library"
+    ],
+    "description": "SIMD-accelerated multithreaded fuzzy search thats fast as f*ck",
+    "license": "BSD-3-Clause",
+    "web": "https://github.com/arashi-software/floof"
+  }
 ]
