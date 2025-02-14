@@ -34607,6 +34607,22 @@
     "web": "https://roger-padrell.github.io/nim-kyber/"
   },
   {
+    "name": "floof",
+    "url": "https://github.com/arashi-software/floof",
+    "method": "git",
+    "tags": [
+      "fuzzy",
+      "search",
+      "fuzzysearch",
+      "simd",
+      "threads",
+      "library"
+    ],
+    "description": "SIMD-accelerated multithreaded fuzzy search thats fast as f*ck",
+    "license": "BSD-3-Clause",
+    "web": "https://github.com/arashi-software/floof"
+  },
+  {
     "name": "libclip",
     "url": "https://github.com/jabbalaci/libclip",
     "method": "git",
@@ -34621,5 +34637,5 @@
     "description": "A cross-platform Nim library for reading/writing text from/to the clipboard",
     "license": "MIT",
     "web": "https://github.com/jabbalaci/libclip"
-  },
+  }
 ]
