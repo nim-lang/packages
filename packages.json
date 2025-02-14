@@ -34621,5 +34621,21 @@
     "description": "SIMD-accelerated multithreaded fuzzy search thats fast as f*ck",
     "license": "BSD-3-Clause",
     "web": "https://github.com/arashi-software/floof"
+  },
+  {
+    "name": "libclip",
+    "url": "https://github.com/jabbalaci/libclip",
+    "method": "git",
+    "tags": [
+      "clipboard",
+      "library",
+      "cross-platform",
+      "copy",
+      "paste",
+      "wrapper"
+    ],
+    "description": "A cross-platform Nim library for reading/writing text from/to the clipboard",
+    "license": "MIT",
+    "web": "https://github.com/jabbalaci/libclip"
   }
 ]
