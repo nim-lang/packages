@@ -34556,23 +34556,5 @@
     "description": "Non-mature SIMD-accelerated drop-ins for std/strutils functions",
     "license": "MIT",
     "web": "https://github.com/xTrayambak/kaleidoscope"
-  },
-  {
-    "name": "ormin2",
-    "url": "https://github.com/Luteva-ssh/ormin2",
-    "method": "git",
-    "tags": [
-      "ormin",
-      "orm",
-      "sql",
-      "database",
-      "db",
-      "sql",
-      "orm",
-      "nim-version-2"
-    ],
-    "description": "ormin for nim version >= 2.0.0",
-    "license": "MIT",
-    "web": "https://github.com/Luteva-ssh/ormin2"
   }
 ]
