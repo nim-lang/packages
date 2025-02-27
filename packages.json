@@ -1,5 +1,20 @@
 [
   {
+    "name": "nivot",
+    "url": "https://github.com/Luteva-ssh/nivot",
+    "method": "git",
+    "tags": [
+      "pivot",
+      "table",
+      "data",
+      "visualisation",
+      "terminal"
+    ],
+    "description": "nivot is a simple pivot library for nim.",
+    "license": "MIT",
+    "web": "https://github.com/Luteva-ssh/nivot"
+  },
+  {
     "name": "tejina",
     "url": "https://github.com/bctnry/tejina",
     "method": "git",
