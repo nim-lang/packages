@@ -8,7 +8,7 @@ jobs:
         with:
           fetch-depth: 0
           ref: ${{ github.event.pull_request.head.sha }}
-      - uses: iffy/install-nim@v5.0.9
+      - uses: iffy/install-nim@v5.0.10
         with:
           version: stable
       - run: ./getmergebase.sh

@@ -34556,5 +34556,101 @@
     "description": "Non-mature SIMD-accelerated drop-ins for std/strutils functions",
     "license": "MIT",
     "web": "https://github.com/xTrayambak/kaleidoscope"
+  },
+  {
+    "name": "icedhash",
+    "url": "https://github.com/IcedQuinn/icedhash",
+    "method": "git",
+    "tags": [
+      "hash",
+      "xxhash"
+    ],
+    "description": "A collection of cryptographic and non-cryptographic hashing routines which have been ported to native Nim",
+    "license": "MIT",
+    "web": "https://github.com/IcedQuinn/icedhash"
+  },
+  {
+    "name": "errorcodes",
+    "url": "https://github.com/nim-lang/errorcodes.git",
+    "method": "git",
+    "tags": [
+      "errorcode",
+      "errno",
+      "statuscode",
+      "httpstatuscode",
+      "httpcode"
+    ],
+    "description": "Errorcodes maps Nim error states and POSIX and HTTP error codes to a single common enum. It can be used as an alternative to exceptions.",
+    "license": "MIT",
+    "web": "https://github.com/nim-lang/errorcodes"
+  },
+  {
+    "name": "nimony",
+    "url": "https://github.com/nim-lang/nimony.git",
+    "method": "git",
+    "tags": [
+      "Nim compiler"
+    ],
+    "description": "Nimony is a new Nim implementation that is in heavy development.",
+    "license": "MIT",
+    "web": "https://github.com/nim-lang/nimony"
+  },
+  {
+    "name": "args",
+    "url": "https://github.com/threatfender/args",
+    "method": "git",
+    "tags": [
+      "cli",
+      "args"
+    ],
+    "description": "argv and argc for command line arguments",
+    "license": "MIT",
+    "web": "https://github.com/threatfender/args"
+  },
+  {
+    "name": "nim_kyber",
+    "url": "https://github.com/roger-padrell/nim-kyber",
+    "method": "git",
+    "tags": [
+      "crypto",
+      "encrypting",
+      "kyber",
+      "post-quantum"
+    ],
+    "description": "Implementation of KYBER in NIM",
+    "license": "MIT",
+    "web": "https://roger-padrell.github.io/nim-kyber/"
+  },
+  {
+    "name": "floof",
+    "url": "https://github.com/arashi-software/floof",
+    "method": "git",
+    "tags": [
+      "fuzzy",
+      "search",
+      "fuzzysearch",
+      "simd",
+      "threads",
+      "library"
+    ],
+    "description": "SIMD-accelerated multithreaded fuzzy search thats fast as f*ck",
+    "license": "BSD-3-Clause",
+    "web": "https://github.com/arashi-software/floof"
+  },
+  {
+    "name": "libclip",
+    "url": "https://github.com/jabbalaci/libclip",
+    "method": "git",
+    "tags": [
+      "clipboard",
+      "library",
+      "cross-platform",
+      "copy",
+      "paste",
+      "wrapper"
+    ],
+    "description": "A cross-platform Nim library for reading/writing text from/to the clipboard",
+    "license": "MIT",
+    "web": "https://github.com/jabbalaci/libclip"
   }
 ]
