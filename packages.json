@@ -34652,5 +34652,16 @@
     "description": "A cross-platform Nim library for reading/writing text from/to the clipboard",
     "license": "MIT",
     "web": "https://github.com/jabbalaci/libclip"
+  },
+  {
+    "name": "colors",
+    "url": "https://github.com/thing-king/colors",
+    "method": "git",
+    "tags": [
+      "colors"
+    ],
+    "description": "A simple, powerful terminal coloring and styling library akin to NPM `colors`",
+    "license": "MIT",
+    "web": "https://github.com/thing-king/colors"
   }
 ]
