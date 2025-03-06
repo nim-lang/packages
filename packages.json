@@ -34667,6 +34667,19 @@
     "web": "https://github.com/thing-king/colors"
   },
   {
+    "name": "nimdtp",
+    "url": "https://github.com/WKHAllen/nimdtp",
+    "method": "git",
+    "tags": [
+      "socket",
+      "networking",
+      "async"
+    ],
+    "description": "Modern networking interfaces for Nim.",
+    "license": "MIT",
+    "web": "https://github.com/WKHAllen/nimdtp"
+  },
+  {
     "name": "jsony_plus",
     "url": "https://github.com/thing-king/jsony_plus",
     "method": "git",
