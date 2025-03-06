@@ -34678,5 +34678,20 @@
     "description": "Modern networking interfaces for Nim.",
     "license": "MIT",
     "web": "https://github.com/WKHAllen/nimdtp"
+  },
+  {
+    "name": "jsony_plus",
+    "url": "https://github.com/thing-king/jsony_plus",
+    "method": "git",
+    "tags": [
+      "json",
+      "serializer",
+      "serialization",
+      "schema",
+      "jsony"
+    ],
+    "description": "An extension of `jsony` supporting better hooks, and type creation from schemas",
+    "license": "MIT",
+    "web": "https://github.com/thing-king/jsony_plus"
   }
 ]
