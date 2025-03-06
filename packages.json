@@ -34665,5 +34665,20 @@
     "description": "A simple, powerful terminal coloring and styling library akin to NPM `colors`",
     "license": "MIT",
     "web": "https://github.com/thing-king/colors"
+  },
+  {
+    "name": "jsony_plus",
+    "url": "https://github.com/thing-king/jsony_plus",
+    "method": "git",
+    "tags": [
+      "json",
+      "serializer",
+      "serialization",
+      "schema",
+      "jsony"
+    ],
+    "description": "An extension of `jsony` supporting better hooks, and type creation from schemas",
+    "license": "MIT",
+    "web": "https://github.com/thing-king/jsony_plus"
   }
 ]
