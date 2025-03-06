@@ -34665,5 +34665,16 @@
     "description": "A simple, powerful terminal coloring and styling library akin to NPM `colors`",
     "license": "MIT",
     "web": "https://github.com/thing-king/colors"
+  },
+  {
+    "name": "aws",
+    "url": "https://github.com/thing-king/aws",
+    "method": "git",
+    "tags": [
+      "aws"
+    ],
+    "description": "Rudimentary `aws-cli` wrapper",
+    "license": "MIT",
+    "web": "https://github.com/thing-king/aws"
   }
 ]
