@@ -34732,5 +34732,5 @@
     "description": "DOGEN is a beautifully simple (to use) DOcumentation GENerator from nim files.",
     "license": "MIT",
     "web": "https://roger-padrell.github.io/dogen/"
-  },
+  }
 ]
