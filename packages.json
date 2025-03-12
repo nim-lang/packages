@@ -34732,5 +34732,18 @@
     "description": "DOGEN is a beautifully simple (to use) DOcumentation GENerator from nim files.",
     "license": "MIT",
     "web": "https://roger-padrell.github.io/dogen/"
+  },
+  {
+    "name": "dataforseo",
+    "url": "https://github.com/Niminem/DataForSEO",
+    "method": "git",
+    "tags": [
+      "dataforseo,",
+      "seo",
+      "api"
+    ],
+    "description": "Nim client for the DataForSEO API (v3). Zero dependencies, supports both sync and async requests.",
+    "license": "MIT",
+    "web": "https://github.com/Niminem/DataForSEO"
   }
 ]
