@@ -34745,5 +34745,16 @@
     "description": "Nim client for the DataForSEO API (v3). Zero dependencies, supports both sync and async requests.",
     "license": "MIT",
     "web": "https://github.com/Niminem/DataForSEO"
+  },
+  {
+    "name": "assert",
+    "url": "https://github.com/alexekdahl/assert",
+    "method": "git",
+    "tags": [
+      "y"
+    ],
+    "description": "DbC library for Nim providing precondition and postcondition assertions",
+    "license": "MIT",
+    "web": "https://github.com/alexekdahl/assert"
   }
 ]
