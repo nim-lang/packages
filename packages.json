@@ -34756,5 +34756,19 @@
     "description": "DbC library for Nim providing precondition and postcondition assertions",
     "license": "MIT",
     "web": "https://github.com/alexekdahl/assert"
+  },
+  {
+    "name": "css",
+    "url": "https://github.com/thing-king/css",
+    "method": "git",
+    "tags": [
+      "css",
+      "parser",
+      "validaator",
+      "validation"
+    ],
+    "description": "CSS parser and validator",
+    "license": "MIT",
+    "web": "https://github.com/thing-king/css"
   }
 ]
