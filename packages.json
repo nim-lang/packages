@@ -34770,5 +34770,20 @@
     "description": "CSS parser and validator",
     "license": "MIT",
     "web": "https://github.com/thing-king/css"
+  },
+  {
+    "name": "gummienten",
+    "url": "https://github.com/roger-padrell/gummienten",
+    "method": "git",
+    "tags": [
+      "gummienten",
+      "video",
+      "editor",
+      "adobe",
+      "duck"
+    ],
+    "description": "Gummienten (Rubber Duck) is an open-source and eazy-to-use video editor",
+    "license": "MIT",
+    "web": "https://roger-padrell.github.io/gummienten/"
   }
 ]
