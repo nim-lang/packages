@@ -34770,5 +34770,21 @@
     "description": "CSS parser and validator",
     "license": "MIT",
     "web": "https://github.com/thing-king/css"
+  },
+  {
+    "name": "katabase",
+    "url": "https://github.com/zendbit/katabase",
+    "method": "git",
+    "tags": [
+      "katabase",
+      "rdbms",
+      "mysql",
+      "postgresql",
+      "sqlite",
+      "orm"
+    ],
+    "description": "Simple but flexible and powerfull ORM for Nim language. Currently support MySql/MariaDb, SqLite and PostgreSql",
+    "license": "MIT",
+    "web": "https://github.com/zendbit/katabase"
   }
 ]
