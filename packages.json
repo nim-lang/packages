@@ -33540,9 +33540,25 @@
       "windowing",
       "window"
     ],
-    "description": "Clap audio plugin bindings",
+    "description": "PUGL plugin graphics bindings",
     "license": "MIT",
     "web": "https://github.com/NimAudio/nim-pugl"
+  },
+  {
+    "name": "vecray",
+    "url": "https://github.com/morganholly/vecray",
+    "method": "git",
+    "tags": [
+      "vector",
+      "matrix",
+      "array",
+      "array2d",
+      "array3d",
+      "multidimensional-array"
+    ],
+    "description": "2d/3d array and vector types with basic math for them",
+    "license": "MIT",
+    "web": "https://github.com/morganholly/vecray"
   },
   {
     "name": "negl",
