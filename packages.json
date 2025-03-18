@@ -34802,5 +34802,26 @@
     "description": "Simple but flexible and powerfull ORM for Nim language. Currently support MySql/MariaDb, SqLite and PostgreSql",
     "license": "MIT",
     "web": "https://github.com/zendbit/katabase"
+  },
+  {
+    "name": "nimpsort",
+    "url": "https://github.com/cycneuramus/nimpsort",
+    "method": "git",
+    "tags": [
+      "autoformat",
+      "formatter",
+      "formatting",
+      "import",
+      "imports",
+      "utility",
+      "cli",
+      "terminal",
+      "command-line",
+      "code",
+      "nimpretty"
+    ],
+    "description": "Sort imports in Nim source files",
+    "license": "GPL-3.0-only",
+    "web": "https://github.com/cycneuramus/nimpsort"
   }
 ]
