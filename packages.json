@@ -34815,5 +34815,17 @@
       "hash"
     ],
     "license": "MIT"
+  },
+  {
+    "name": "ed2ksum",
+    "description": "ED2Ksum hash calculation",
+    "url": "https://github.com/infinoid/ed2ksum.nim",
+    "web": "https://github.com/infinoid/ed2ksum.nim",
+    "method": "git",
+    "tags": [
+      "ed2ksum",
+      "hash"
+    ],
+    "license": "MIT"
   }
 ]
