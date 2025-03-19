@@ -34802,5 +34802,18 @@
     "description": "Simple but flexible and powerfull ORM for Nim language. Currently support MySql/MariaDb, SqLite and PostgreSql",
     "license": "MIT",
     "web": "https://github.com/zendbit/katabase"
+  },
+  {
+    "name": "md4",
+    "description": "dumb MD4 digest calculation",
+    "url": "https://github.com/infinoid/md4.nim",
+    "web": "https://github.com/infinoid/md4.nim",
+    "method": "git",
+    "tags": [
+      "md4",
+      "digest",
+      "hash"
+    ],
+    "license": "MIT"
   }
 ]
