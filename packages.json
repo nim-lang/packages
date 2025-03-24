@@ -34827,5 +34827,19 @@
       "hash"
     ],
     "license": "MIT"
+  },
+  {
+    "name": "DotNimRemoting",
+    "description": "library for communicating with .NET applications using MS-NRTP",
+    "url": "https://github.com/filvyb/DotNimRemoting",
+    "web": "https://github.com/filvyb/DotNimRemoting",
+    "method": "git",
+    "tags": [
+      "dotnet",
+      "remoting",
+      "nrbf",
+      "nrtp"
+    ],
+    "license": "MIT"
   }
 ]
