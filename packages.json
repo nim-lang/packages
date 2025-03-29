@@ -34859,5 +34859,20 @@
     "description": "Sort imports in Nim source files",
     "license": "GPL-3.0-only",
     "web": "https://github.com/cycneuramus/nimpsort"
+  },
+  {
+    "name": "lifter",
+    "url": "https://github.com/thing-king/lifter",
+    "method": "git",
+    "tags": [
+      "object",
+      "ast",
+      "type",
+      "convert",
+      "lift"
+    ],
+    "description": "Lifts compile-time object to AST",
+    "license": "MIT",
+    "web": "https://github.com/thing-king/lifter"
   }
 ]
