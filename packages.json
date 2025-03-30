@@ -34859,5 +34859,20 @@
     "description": "Sort imports in Nim source files",
     "license": "GPL-3.0-only",
     "web": "https://github.com/cycneuramus/nimpsort"
+  },
+  {
+    "name": "web",
+    "url": "https://github.com/thing-king/web",
+    "method": "git",
+    "tags": [
+      "web",
+      "html",
+      "components",
+      "component",
+      "react"
+    ],
+    "description": "Macro-based HTML generation/templating with CSS validation",
+    "license": "MIT",
+    "web": "https://github.com/thing-king/web"
   }
 ]
