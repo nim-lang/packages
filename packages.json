@@ -34859,5 +34859,23 @@
     "description": "Sort imports in Nim source files",
     "license": "GPL-3.0-only",
     "web": "https://github.com/cycneuramus/nimpsort"
+  },
+  {
+    "name": "shark",
+    "description": "Convert nim source file content from camel to snake case and vice versa",
+    "url": "https://github.com/navid-m/shark",
+    "web": "https://github.com/navid-m/shark",
+    "method": "git",
+    "tags": [
+      "formatting",
+      "formatter",
+      "camelcase",
+      "snakecase",
+      "converter",
+      "utility",
+      "cli",
+      "library"
+    ],
+    "license": "GPL-3.0-only"
   }
 ]
