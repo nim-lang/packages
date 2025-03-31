@@ -10825,7 +10825,7 @@
   },
   {
     "name": "chroma",
-    "url": "https://github.com/treeform/chroma",
+    "url": "https://github.com/morganholly/chroma",
     "method": "git",
     "tags": [
       "colors",
@@ -10835,7 +10835,7 @@
     ],
     "description": "Everything you want to do with colors.",
     "license": "MIT",
-    "web": "https://github.com/treeform/chroma"
+    "web": "https://github.com/morganholly/chroma"
   },
   {
     "name": "nimrax",
