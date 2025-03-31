@@ -34859,5 +34859,21 @@
     "description": "Sort imports in Nim source files",
     "license": "GPL-3.0-only",
     "web": "https://github.com/cycneuramus/nimpsort"
+  },
+  {
+    "name": "kuzu",
+    "url": "https://github.com/mahlonsmith/nim-kuzu",
+    "method": "git",
+    "tags": [
+      "kuzu",
+      "kuzudb",
+      "library",
+      "wrapper",
+      "database",
+      "graph"
+    ],
+    "description": "A wrapper for Kuzu: an embedded graph database built for query speed and scalability.",
+    "license": "BSD-3-Clause",
+    "web": "https://kuzudb.com/"
   }
 ]
