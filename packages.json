@@ -34963,5 +34963,29 @@
     "description": "Simple wrapper to execute osproc.exec* commands with sudo.",
     "license": "BSD-3-Clause",
     "web": "https://github.com/vandot/nim-sudo"
+  },
+  {
+    "name": "darwinmetrics",
+    "url": "https://github.com/sm-moshi/darwinmetrics",
+    "method": "git",
+    "tags": [
+      "macos",
+      "nim",
+      "async",
+      "monitoring",
+      "api",
+      "metrics",
+      "cpu",
+      "memory",
+      "disk",
+      "processes",
+      "gpu",
+      "power",
+      "network",
+      "darwin"
+    ],
+    "description": "System metrics library for macOS (Darwin) written in pure Nim — CPU, memory, disk, processes, and more.",
+    "license": "MIT",
+    "web": "https://github.com/sm-moshi/darwinmetrics"
   }
 ]
