@@ -294,7 +294,7 @@
     "method": "git",
     "tags": [
       "littlefs",
-      "embeded",
+      "embedded",
       "filesystem",
       "fuse"
     ],
