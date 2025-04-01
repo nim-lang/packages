@@ -294,13 +294,25 @@
     "method": "git",
     "tags": [
       "littlefs",
-      "embeded",
+      "embedded",
       "filesystem",
       "fuse"
     ],
     "description": "API and bindings for littlefs. Includes a fuse implementation.",
     "license": "BSD-3-Clause-1",
     "web": "https://github.com/Graveflo/nim-littlefs"
+  },
+  {
+    "name": "nfind",
+    "url": "https://github.com/Graveflo/nfind.git",
+    "method": "git",
+    "tags": [
+      "glob",
+      "find"
+    ],
+    "description": "glob library and find tool",
+    "license": "MIT",
+    "web": "https://github.com/Graveflo/nfind"
   },
   {
     "name": "mutf8",
@@ -34874,5 +34886,18 @@
     "description": "Typed HTML5 element data and builder for structured HTML",
     "license": "MIT",
     "web": "https://github.com/thing-king/html"
+  },
+  {
+    "name": "nim-sudo",
+    "url": "https://github.com/vandot/nim-sudo",
+    "method": "git",
+    "tags": [
+      "sudo",
+      "linux",
+      "unix"
+    ],
+    "description": "Simple wrapper to execute osproc.exec* commands with sudo.",
+    "license": "BSD-3-Clause",
+    "web": "https://github.com/vandot/nim-sudo"
   }
 ]
