@@ -34873,6 +34873,22 @@
     "web": "https://github.com/cycneuramus/nimpsort"
   },
   {
+    "name": "kuzu",
+    "url": "https://github.com/mahlonsmith/nim-kuzu",
+    "method": "git",
+    "tags": [
+      "kuzu",
+      "kuzudb",
+      "library",
+      "wrapper",
+      "database",
+      "graph"
+    ],
+    "description": "A wrapper for Kuzu: an embedded graph database built for query speed and scalability.",
+    "license": "BSD-3-Clause",
+    "web": "https://kuzudb.com/"
+  },
+  {
     "name": "shark",
     "description": "Convert nim source file content from camel to snake case and vice versa",
     "url": "https://github.com/navid-m/shark",
