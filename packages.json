@@ -35003,5 +35003,24 @@
     "description": "Standalone WebRTC Data Channels, WebRTC Media Transport, and WebSockets",
     "license": "MIT",
     "web": "https://github.com/openpeeps/libdatachannel-nim"
+  },
+  {
+    "name": "darwinmetrics",
+    "url": "https://github.com/sm-moshi/darwinmetrics",
+    "method": "git",
+    "tags": [
+      "macos",
+      "nim",
+      "async",
+      "monitoring",
+      "api",
+      "metrics",
+      "cpu",
+      "memory",
+      "darwin"
+    ],
+    "description": "System metrics library for macOS (Darwin) written in pure Nim — CPU, memory, disk, processes, and more.",
+    "license": "MIT",
+    "web": "https://github.com/sm-moshi/darwinmetrics"
   }
 ]
