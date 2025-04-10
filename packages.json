@@ -35003,5 +35003,23 @@
     "description": "Standalone WebRTC Data Channels, WebRTC Media Transport, and WebSockets",
     "license": "MIT",
     "web": "https://github.com/openpeeps/libdatachannel-nim"
+  },
+  {
+    "name": "nimage",
+    "url": "https://github.com/moigagoo/nimage",
+    "method": "git",
+    "tags": [
+      "docker",
+      "images",
+      "hub",
+      "nim",
+      "build",
+      "push",
+      "tag",
+      "ci"
+    ],
+    "description": "App to build Nim Docker images and push them to Docker Hub.",
+    "license": "MIT",
+    "web": "https://github.com/moigagoo/nimage"
   }
 ]
