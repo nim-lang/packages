@@ -35003,5 +35003,23 @@
     "description": "Standalone WebRTC Data Channels, WebRTC Media Transport, and WebSockets",
     "license": "MIT",
     "web": "https://github.com/openpeeps/libdatachannel-nim"
+  },
+  {
+    "name": "dhbp",
+    "url": "https://github.com/moigagoo/dhbp",
+    "method": "git",
+    "tags": [
+      "ci",
+      "docker",
+      "nim",
+      "dockerhub",
+      "image",
+      "build",
+      "push",
+      "tag"
+    ],
+    "description": "App to build Nim Docker images and push them to Docker Hub.",
+    "license": "MIT",
+    "web": "https://github.com/moigagoo/dhbp"
   }
 ]
