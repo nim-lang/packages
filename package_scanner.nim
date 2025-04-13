@@ -23,7 +23,7 @@ import std/strutils
 import std/httpclient
 import std/streams
 import std/net
-
+import std/uri
 
 const usage = """
 Usage: package_scanner <packages.json> [--old=packages_old.json] [--check-urls]
@@ -34,7 +34,6 @@ Options:
   --help        Print this help text"""
 
 const allowedNameChars = {'a'..'z', 'A'..'Z', '0'..'9', '_', '-', '.'}
-
 
 proc checkUrlReachable(client: HttpClient, url: string): string =
   var headers: HttpHeaders = nil
@@ -105,7 +104,7 @@ proc checkPackages(newPackagesPath: string, oldPackagesPath: string, checkUrls: 
   var client: HttpClient = nil
   if checkUrls:
     client = newHttpClient(timeout=3000)
-    client.headers = newHttpHeaders({"User-Agent": "Nim packge_scanner/2.0"})
+    client.headers = newHttpHeaders({"User-Agent": "Nim package_scanner/2.0"})
 
   var modifiedPackagesCount = 0
   var failedPackagesCount = 0
@@ -121,6 +120,13 @@ proc checkPackages(newPackagesPath: string, oldPackagesPath: string, checkUrls: 
     if packageNameCounter[pkgNameNorm] > 1:
       let url = pkg.getStrIfExists("url", "<no url>")
       logPackageError("Duplicate package " & displayName & " from url " & url)
+
+    if "donations" in pkg and checkUrls:
+      for url in pkg["donations"]:
+        try:
+          let res = client.get(url.getStr())
+        except ValueError as exc:
+          logPackageError("Invalid donation link: `" & url.getStr() & "` (" & exc.msg & ')')
 
     # isNew should be used in future versions to do a conditional inspection
     # of the package contents which requires downloading the full release tarball
@@ -202,7 +208,6 @@ proc checkPackages(newPackagesPath: string, oldPackagesPath: string, checkUrls: 
   echo "Problematic packages count: ", failedPackagesCount
   if failedPackagesCount > 0:
     result = 1
-
 
 proc cliMain(): int =
   var parser = initOptParser(os.commandLineParams())
