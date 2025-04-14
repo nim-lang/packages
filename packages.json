@@ -35021,5 +35021,24 @@
     "description": "App to build Nim Docker images and push them to Docker Hub.",
     "license": "MIT",
     "web": "https://github.com/moigagoo/dhbp"
-  }
+  },
+  {
+    "name": "nimatch",
+    "url": "https://github.com/voidpunk/NiMatch",
+    "method": "git",
+    "tags": [
+      "match",
+      "rust",
+      "macro",
+      "nim",
+      "caseof",
+      "switch",
+      "sugar",
+      "synatx",
+      "nimatch"
+    ],
+    "description": "Rust-like match syntax macros for Nim",
+    "license": "MIT",
+    "web": "https://github.com/voidpunk/NiMatch"
+  },      
 ]
