@@ -35040,5 +35040,20 @@
     "description": "Rust-like match syntax macros for Nim",
     "license": "MIT",
     "web": "https://github.com/voidpunk/NiMatch"
-  },      
+  },
+  {
+    "name": "pharao",
+    "url": "https://github.com/capocasa/pharao",
+    "method": "git",
+    "tags": [
+      "web",
+      "http",
+      "server",
+      "php"
+    ],
+    "description": "Quick 'n easy Nim web programming, auto compile & run .nim from the web root",
+    "license": "MIT",
+    "web": "https://github.com/capocasa/pharao"
+  }
 ]
+
