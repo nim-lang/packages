@@ -35054,6 +35054,49 @@
     "description": "Quick 'n easy Nim web programming, auto compile & run .nim from the web root",
     "license": "MIT",
     "web": "https://github.com/capocasa/pharao"
+  },
+  {
+    "name": "gbm",
+    "url": "https://github.com/xTrayambak/gbm-nim",
+    "method": "git",
+    "tags": [
+      "gpu",
+      "linux",
+      "wayland",
+      "gbm",
+      "graphics",
+      "vram"
+    ],
+    "description": "Raw low-level bindings and idiomatic high-level bindings for Mesa's GBM API",
+    "license": "MIT",
+    "web": "https://github.com/xTrayambak/gbm-nim"
+  },
+  {
+    "name": "louvre",
+    "url": "https://github.com/xTrayambak/nim-louvre",
+    "method": "git",
+    "tags": [
+      "wayland",
+      "linux",
+      "louvre",
+      "compositor",
+      "window-manager"
+    ],
+    "description": "Bindings to Louvre, a simple-to-use C++ library that lets you build high-performance compositors with minimal amounts of code.",
+    "license": "LGPL-2.1-or-later",
+    "web": "https://github.com/xTrayambak/gbm-nim"
+  },
+  {
+    "name": "shakar",
+    "url": "https://github.com/ferus-web/shakar",
+    "method": "git",
+    "tags": [
+      "sugar",
+      "options"
+    ],
+    "description": "Syntactical sugar that's too sweet for the Nim standard library.",
+    "license": "MIT",
+    "web": "https://github.com/ferus-web/shakar"
   }
 ]
 
