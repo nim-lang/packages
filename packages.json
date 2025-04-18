@@ -35113,6 +35113,20 @@
     "description": "a library for manipulating data storage units",
     "license": "GPL-3.0-only",
     "web": "https://gitlab.com/Maxb0tbeep/bytesized"
+  },
+  {
+    "name": "nimlink",
+    "url": "https://github.com/thing-king/nimlink",
+    "method": "git",
+    "tags": [
+      "nim",
+      "dev",
+      "development",
+      "packages",
+      "link"
+    ],
+    "description": "Links Nim packages via `srcDir` correctly",
+    "license": "MIT",
+    "web": "https://github.com/thing-king/nimlink"
   }
 ]
-
