@@ -35097,6 +35097,22 @@
     "description": "Syntactical sugar that's too sweet for the Nim standard library.",
     "license": "MIT",
     "web": "https://github.com/ferus-web/shakar"
+  },
+  {
+    "name": "bytesized",
+    "url": "https://gitlab.com/Maxb0tbeep/bytesized",
+    "method": "git",
+    "tags": [
+      "bytes",
+      "human",
+      "convert",
+      "converter",
+      "storage",
+      "math"
+    ],
+    "description": "a library for manipulating data storage units",
+    "license": "GPL-3.0-only",
+    "web": "https://gitlab.com/Maxb0tbeep/bytesized"
   }
 ]
 
