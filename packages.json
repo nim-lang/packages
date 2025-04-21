@@ -35142,5 +35142,17 @@
     "description": "SQL builder library with fluent syntax",
     "license": "GPL-3.0-only",
     "web": "https://gitlab.com/navid-m/viper"
+  },
+  {
+    "name": "nmgr",
+    "url": "https://github.com/cycneuramus/nmgr",
+    "method": "git",
+    "tags": [
+      "nomad",
+      "cli"
+    ],
+    "description": "Programmatically manage jobs in a Nomad cluster",
+    "license": "GPL-3.0-only",
+    "web": "https://github.com/cycneuramus/nmgr"
   }
 ]
