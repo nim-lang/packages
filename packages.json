@@ -1,5 +1,18 @@
 [
    {
+    "name": "vexhost",
+    "url": "https://github.com/roger-padrell/vexhost",
+    "method": "git",
+    "tags": [
+      "vex",
+      "vexhost",
+      "host"
+    ],
+    "description": "VexHost is a server/origin hoster for VEX.",
+    "license": "MIT",
+    "web": "https://github.com/roger-padrell/vexhost"
+   },
+   {
     "name": "vexbox",
     "url": "https://github.com/roger-padrell/vexbox",
     "method": "git",
