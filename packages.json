@@ -35209,5 +35209,17 @@
     "description": "Loads IP blocklists into nftables from plain text or JSON feeds",
     "license": "AGPL-3.0-only",
     "web": "https://github.com/cycneuramus/deceptimeed"
+  },
+  {
+    "name": "age",
+    "url": "https://github.com/attakei/age",
+    "method": "git",
+    "tags": [
+      "cli",
+      "semver"
+    ],
+    "description": "Version bumping tool.",
+    "license": "Apache-2.0-only",
+    "web": "https://age.attakei.dev"
   }
 ]
