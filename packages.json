@@ -1,5 +1,5 @@
 [
-   {
+  {
     "name": "vexhost",
     "url": "https://github.com/roger-padrell/vexhost",
     "method": "git",
@@ -11,8 +11,8 @@
     "description": "VexHost is a server/origin hoster for VEX.",
     "license": "MIT",
     "web": "https://github.com/roger-padrell/vexhost"
-   },
-   {
+  },
+  {
     "name": "vexbox",
     "url": "https://github.com/roger-padrell/vexbox",
     "method": "git",
@@ -35195,5 +35195,19 @@
     "description": "Programmatically manage jobs in a Nomad cluster",
     "license": "GPL-3.0-only",
     "web": "https://github.com/cycneuramus/nmgr"
+  },
+  {
+    "name": "deceptimeed",
+    "url": "https://github.com/cycneuramus/deceptimeed",
+    "method": "git",
+    "tags": [
+      "blocklist",
+      "ip-blocking",
+      "threat-intelligence",
+      "honeypot"
+    ],
+    "description": "Loads IP blocklists into nftables from plain text or JSON feeds",
+    "license": "AGPL-3.0-only",
+    "web": "https://github.com/cycneuramus/deceptimeed"
   }
 ]
