@@ -35221,5 +35221,19 @@
     "description": "Version bumping tool.",
     "license": "Apache-2.0-only",
     "web": "https://age.attakei.dev"
+  },
+  {
+    "name": "jv",
+    "url": "https://github.com/meenbeese/jv",
+    "method": "git",
+    "tags": [
+      "java",
+      "nim",
+      "build-tool",
+      "version-manager"
+    ],
+    "description": "A Java version manager and build tool written in Nim",
+    "license": "MIT",
+    "web": "https://github.com/meenbeese/jv"
   }
 ]
