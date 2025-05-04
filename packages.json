@@ -35244,7 +35244,7 @@
       "lsp",
       "tooling"
     ],
-    "description": "Yet another LSP for Nim",
+    "description": "LSP implementation for Nim based on `nim check`",
     "license": "MIT",
     "web": "https://github.com/ire4ever1190/nimsight"
   }
