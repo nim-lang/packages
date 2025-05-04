@@ -35235,5 +35235,17 @@
     "description": "A Java version manager and build tool written in Nim",
     "license": "MIT",
     "web": "https://github.com/meenbeese/jv"
+  },
+  {
+    "name": "nimsight",
+    "url": "https://github.com/ire4ever1190/nimsight",
+    "method": "git",
+    "tags": [
+      "lsp",
+      "tooling"
+    ],
+    "description": "Yet another LSP for Nim",
+    "license": "MIT",
+    "web": "https://github.com/ire4ever1190/nimsight"
   }
 ]
