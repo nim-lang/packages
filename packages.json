@@ -19079,6 +19079,19 @@
     "web": "https://github.com/nitely/nim-grpc"
   },
   {
+    "name": "hyps",
+    "url": "https://github.com/nitely/nim-hyps",
+    "method": "git",
+    "tags": [
+      "pubsub",
+      "web",
+      "async"
+    ],
+    "description": "An async pub/sub client and server",
+    "license": "MIT",
+    "web": "https://github.com/nitely/nim-hyps"
+  },
+  {
     "name": "delight",
     "url": "https://github.com/liquid600pgm/delight",
     "method": "git",
