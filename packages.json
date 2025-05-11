@@ -35273,5 +35273,18 @@
     "description": "LSP implementation for Nim based on `nim check`",
     "license": "MIT",
     "web": "https://github.com/ire4ever1190/nimsight"
-  }
-]
+  },{
+    "name": "fur",
+    "url": "https://github.com/capocasa/fur",
+    "method": "git",
+    "tags": [
+      "dsp",
+      "filter",
+      "fir",
+      "realtime"
+    ],
+    "description": "Fur is a pure Nim set of finite impulse response filters (FIR) for realtime use.",
+    "license": "MIT",
+    "web": "https://github.com/capocasa/fur"
+  }]
+
