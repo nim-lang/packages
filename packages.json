@@ -7935,6 +7935,19 @@
     "web": "https://github.com/status-im/nim-ssz-serialization"
   },
   {
+    "name": "binary_serialization",
+    "url": "https://github.com/status-im/nim-binary-serialization",
+    "method": "git",
+    "tags": [
+      "library",
+      "binary",
+      "serialization"
+    ],
+    "description": "Binary packed serialization compatible with the status-im/nim-serialization framework",
+    "license": "MIT",
+    "web": "https://github.com/status-im/nim-binary-serialization"
+  },
+  {
     "name": "confutils",
     "url": "https://github.com/status-im/nim-confutils",
     "method": "git",
