@@ -35272,6 +35272,6 @@
     ],
     "description": "Fur is a pure Nim set of finite impulse response filters (FIR) for realtime use.",
     "license": "MIT",
-    "web": "https://github.com/capocasa/pfur"
+    "web": "https://github.com/capocasa/fur"
   }]
 
