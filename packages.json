@@ -35286,5 +35286,19 @@
     "description": "Fur is a pure Nim set of finite impulse response filters (FIR) for realtime use.",
     "license": "MIT",
     "web": "https://github.com/capocasa/fur"
+  },
+  {
+    "name": "jill",
+    "url": "https://github.com/capocasa/jill",
+    "method": "git",
+    "tags": [
+      "jack",
+      "dsp",
+      "audio",
+      "realtime"
+    ],
+    "description": "Jill is a Nimish high-level interface to the Jack Audio Connection Kit.",
+    "license": "MIT",
+    "web": "https://github.com/capocasa/jill"
   }]
 
