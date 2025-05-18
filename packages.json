@@ -35300,5 +35300,18 @@
     "description": "Jill is a Nimish high-level interface to the Jack Audio Connection Kit.",
     "license": "MIT",
     "web": "https://github.com/capocasa/jill"
+  },
+  {
+    "name": "amicus",
+    "url": "https://codeberg.org/onbox/amicus",
+    "method": "git",
+    "tags": [
+      "library",
+      "social",
+      "media"
+    ],
+    "description": "Social networking library powering Onbox.",
+    "license": "AGPL-3.0-or-later",
+    "web": "https://codeberg.org/onbox/amicus"
   }]
 
