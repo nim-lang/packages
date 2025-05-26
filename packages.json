@@ -35328,5 +35328,16 @@
     "description": "A super-fast Nim package manager with automatic dependency graph and parallel installation.",
     "license": "MIT",
     "web": "https://github.com/HapticX/nmr"
+  },
+  {
+    "name": "quic",
+    "url": "https://github.com/vacp2p/nim-quic",
+    "method": "git",
+    "tags": [
+      "quic"
+    ],
+    "description": "QUIC protocol implementation",
+    "license": "MIT",
+    "web": "https://github.com/vacp2p/nim-quic"
   }
 ]
