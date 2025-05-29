@@ -19105,6 +19105,19 @@
     "web": "https://github.com/nitely/nim-hyps"
   },
   {
+    "name": "kxrouter",
+    "url": "https://github.com/nitely/nim-kxrouter",
+    "method": "git",
+    "tags": [
+      "karax",
+      "web",
+      "router"
+    ],
+    "description": "A karax router with life-time events",
+    "license": "MIT",
+    "web": "https://github.com/nitely/nim-kxrouter"
+  },
+  {
     "name": "delight",
     "url": "https://github.com/liquid600pgm/delight",
     "method": "git",
