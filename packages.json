@@ -35352,5 +35352,19 @@
     "description": "QUIC protocol implementation",
     "license": "MIT",
     "web": "https://github.com/vacp2p/nim-quic"
+  },
+  {
+    "name": "tang",
+    "url": "https://github.com/5-6-1/tang-nim",
+    "method": "git",
+    "tags": [
+      "syntax",
+      "dsl",
+      "macros",
+      "sugar",
+    ],
+    "description": "Elegant sugar",
+    "license": "MIT",
+    "web": "https://github.com/5-6-1/tang-nim"
   }
 ]
