@@ -35361,10 +35361,26 @@
       "syntax",
       "dsl",
       "macros",
-      "sugar",
+      "sugar"
     ],
     "description": "Elegant sugar",
     "license": "MIT",
     "web": "https://github.com/5-6-1/tang-nim"
+  },
+  {
+    "name": "thorvg",
+    "url": "https://github.com/elcritch/thorvg-nim",
+    "method": "git",
+    "tags": [
+      "thorvg",
+      "vector-graphics",
+      "graphics",
+      "renderer",
+      "nim",
+      "wrapper"
+    ],
+    "description": "ThorVG Nim Wrapper",
+    "license": "Unlicense",
+    "web": "https://github.com/elcritch/thorvg-nim"
   }
 ]
