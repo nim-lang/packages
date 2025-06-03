@@ -35382,5 +35382,19 @@
     "description": "ThorVG Nim Wrapper",
     "license": "Unlicense",
     "web": "https://github.com/elcritch/thorvg-nim"
+  },
+  {
+    "name": "scope",
+    "url": "https://github.com/thing-king/scope",
+    "method": "git",
+    "tags": [
+      "macro",
+      "untyped",
+      "scope",
+      "tracker"
+    ],
+    "description": "Scope tracking for untyped macros",
+    "license": "MIT",
+    "web": "https://github.com/thing-king/scope"
   }
 ]
