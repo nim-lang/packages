@@ -35368,6 +35368,24 @@
     "web": "https://github.com/5-6-1/tang-nim"
   },
   {
+    "name": "unitx",
+    "url": "https://github.com/5-6-1/unitx-nim",
+    "method": "git",
+    "tags": [
+      "units",
+      "physics",
+      "dimensional",
+      "compile-time",
+      "type-safe",
+      "algebra",
+      "science",
+      "engineering"
+    ],
+    "description": "Zero-overhead compile-time unit system with algebraic expressions",
+    "license": "MIT",
+    "web": "https://github.com/5-6-1/unitx-nim",
+  },
+  {
     "name": "thorvg",
     "url": "https://github.com/elcritch/thorvg-nim",
     "method": "git",
