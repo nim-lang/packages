@@ -18039,6 +18039,22 @@
     "web": "https://github.com/andreas-wilm/nimreadfq"
   },
   {
+    "name": "memonitor",
+    "url": "https://github.com/quadram-institute-bioscience/memonitor",
+    "method": "git",
+    "tags": [
+      "ram",
+      "memory",
+      "monitor",
+      "profiling",
+      "stats",
+      "system"
+    ],
+    "description": "Cross-platform memory profiler",
+    "license": "MIT",
+    "web": "https://github.com/quadram-institute-bioscience/memonitor"
+  },
+  {
     "name": "readfx",
     "url": "https://github.com/quadram-institute-bioscience/readfx",
     "method": "git",
