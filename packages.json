@@ -35399,7 +35399,7 @@
     ],
     "description": "Zero-overhead compile-time unit system with algebraic expressions",
     "license": "MIT",
-    "web": "https://github.com/5-6-1/unitx-nim",
+    "web": "https://github.com/5-6-1/unitx-nim"
   },
   {
     "name": "thorvg",
@@ -35458,4 +35458,3 @@
     "web": "https://github.com/capocasa/rtthread"
   }
 ]
-
