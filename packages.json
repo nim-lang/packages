@@ -35443,7 +35443,8 @@
     "description": "A comprehensive and standards-compliant UUID library",
     "license": "MIT",
     "web": "https://github.com/jamesfrancis2004/uuidgen"
-  },{
+  },
+  {
     "name": "rtthread",
     "url": "https://github.com/capocasa/rtthread",
     "method": "git",
@@ -35456,5 +35457,17 @@
     "description": "Nim threads with realtime scheduling",
     "license": "MIT",
     "web": "https://github.com/capocasa/rtthread"
+  },
+  {
+    "name": "what_the_fork",
+    "url": "https://github.com/Luteva-ssh/what_the_fork",
+    "method": "git",
+    "tags": [
+      "analyse",
+      "forks"
+    ],
+    "description": "What_the_fork is a terminal tool that analyses forks of a given github repo to extract changes like bugfixes, new features etc.",
+    "license": "MIT",
+    "web": "https://github.com/Luteva-ssh/what_the_fork"
   }
 ]
