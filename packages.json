@@ -35443,7 +35443,8 @@
     "description": "A comprehensive and standards-compliant UUID library",
     "license": "MIT",
     "web": "https://github.com/jamesfrancis2004/uuidgen"
-  },{
+  },
+  {
     "name": "rtthread",
     "url": "https://github.com/capocasa/rtthread",
     "method": "git",
@@ -35456,5 +35457,21 @@
     "description": "Nim threads with realtime scheduling",
     "license": "MIT",
     "web": "https://github.com/capocasa/rtthread"
+  },
+  {
+    "name": "obfusel",
+    "url": "https://github.com/Luteva-ssh/obfusel",
+    "method": "git",
+    "tags": [
+      "obfuscator",
+      "obfuscate",
+      "excel",
+      "xlsx",
+      "xl",
+      "ai"
+    ],
+    "description": "An obfuscator for excel sheets. If you are not allowed to transfer data to an AI system, this can be an easy solution :).",
+    "license": "MIT",
+    "web": "https://github.com/Luteva-ssh/obfusel"
   }
 ]
