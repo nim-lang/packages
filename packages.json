@@ -35485,5 +35485,20 @@
     "description": "An obfuscator for excel sheets. If you are not allowed to transfer data to an AI system, this can be an easy solution :).",
     "license": "MIT",
     "web": "https://github.com/Luteva-ssh/obfusel"
+  },
+  {
+    "name": "mash",
+    "url": "https://github.com/capocasa/mash",
+    "method": "git",
+    "tags": [
+      "MIDI",
+      "jack",
+      "keyboard",
+      "virtual",
+      "precision"
+    ],
+    "description": "A very precise musical virtual keyboard for Jack MIDI",
+    "license": "MIT",
+    "web": "https://github.com/capocasa/mash"
   }
 ]
