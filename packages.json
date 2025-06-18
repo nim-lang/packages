@@ -35500,5 +35500,38 @@
     "description": "A very precise musical virtual keyboard for Jack MIDI",
     "license": "MIT",
     "web": "https://github.com/capocasa/mash"
+  },
+  {
+    "name": "imguin",
+    "url": "https://github.com/dinau/imguin",
+    "method": "git",
+    "tags": [
+      "imgui",
+      "nimgl",
+      "imgui",
+      "plot",
+      "imnodes",
+      "imguizmo",
+      "imspinner",
+      "imknobs",
+      "filedialog",
+      "imtoggle",
+      "textedit",
+      "implot",
+      "implot3d",
+      "sdl2",
+      "sdl3",
+      "gui",
+      "graph",
+      "glfw",
+      "stb",
+      "stb_image",
+      "opengl",
+      "futhark",
+      "cimgui"
+    ],
+    "description": "Nim binding for Dear ImGui / CImGui",
+    "license": "MIT License",
+    "web": "https://github.com/dinau/imguin"
   }
 ]
