@@ -35533,5 +35533,23 @@
     "description": "Nim binding for Dear ImGui / CImGui",
     "license": "MIT License",
     "web": "https://github.com/dinau/imguin"
+  },
+  {
+    "name": "clutter",
+    "url": "https://github.com/arashi-software/clutter",
+    "method": "git",
+    "tags": [
+      "images",
+      "photos",
+      "filters",
+      "colors",
+      "cinematic",
+      "fast",
+      "vips",
+      "libvips"
+    ],
+    "description": "Fast as Fuck interpolated LUT generator and applier",
+    "license": "GPL-3.0-only",
+    "web": "https://github.com/arashi-software/clutter"
   }
 ]
