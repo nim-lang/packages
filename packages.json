@@ -35546,5 +35546,24 @@
     "description": "The fast, small and liberally licensed pffft fast-fourier-transform (FFT) library wrapped for Nim",
     "license": "BSD-3-Clause",
     "web": "https://github.com/capocasa/pffft"
+  },
+  {
+    "name": "morsecode",
+    "url": "https://github.com/nemuelw/morsecode",
+    "method": "git",
+    "tags": [
+      "morse",
+      "morsecode",
+      "encode",
+      "decode",
+      "encoding",
+      "decoding",
+      "text",
+      "communication",
+      "utils"
+    ],
+    "description": "Encode and decode text using standard international Morse code",
+    "license": "GPL-3.0-or-later",
+    "web": "https://github.com/nemuelw/morsecode"
   }
 ]
