@@ -35533,5 +35533,18 @@
     "description": "Nim binding for Dear ImGui / CImGui",
     "license": "MIT License",
     "web": "https://github.com/dinau/imguin"
+  },{
+    "name": "pffft",
+    "url": "https://github.com/capocasa/pffft",
+    "method": "git",
+    "tags": [
+      "fft",
+      "math",
+      "dsp",
+      "audio"
+    ],
+    "description": "The fast, small and liberally licensed pffft fast-fourier-transform (FFT) library wrapped for Nim",
+    "license": "BSD-3-Clause",
+    "web": "https://github.com/capocasa/pffft"
   }
 ]
