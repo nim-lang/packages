@@ -35533,5 +35533,88 @@
     "description": "Nim binding for Dear ImGui / CImGui",
     "license": "MIT License",
     "web": "https://github.com/dinau/imguin"
+  },
+  {
+    "name": "imguin",
+    "url": "https://github.com/dinau/imguin",
+    "method": "git",
+    "tags": [
+      "imgui",
+      "nimgl",
+      "imgui",
+      "plot",
+      "imnodes",
+      "imguizmo",
+      "imspinner",
+      "imknobs",
+      "filedialog",
+      "imtoggle",
+      "textedit",
+      "implot",
+      "implot3d",
+      "sdl2",
+      "sdl3",
+      "gui",
+      "graph",
+      "glfw",
+      "stb",
+      "stb_image",
+      "opengl",
+      "futhark",
+      "cimgui"
+    ],
+    "description": "Nim binding for Dear ImGui / CImGui",
+    "license": "MIT License",
+    "web": "https://github.com/dinau/imguin"
+  },{
+    "name": "pffft",
+    "url": "https://github.com/capocasa/pffft",
+    "method": "git",
+    "tags": [
+      "fft",
+      "math",
+      "dsp",
+      "audio"
+    ],
+    "description": "The fast, small and liberally licensed pffft fast-fourier-transform (FFT) library wrapped for Nim",
+    "license": "BSD-3-Clause",
+    "web": "https://github.com/capocasa/pffft"
+  },
+  {
+    "name": "morsecode",
+    "url": "https://github.com/nemuelw/morsecode",
+    "method": "git",
+    "tags": [
+      "morse",
+      "morsecode",
+      "encode",
+      "decode",
+      "encoding",
+      "decoding",
+      "text",
+      "communication",
+      "utils"
+    ],
+    "description": "Encode and decode text using standard international Morse code",
+    "license": "GPL-3.0-or-later",
+    "web": "https://github.com/nemuelw/morsecode"
+  },
+  {
+    "name": "tpdne",
+    "url": "https://github.com/nemuelw/tpdne",
+    "method": "git",
+    "tags": [
+      "thispersondoesnotexist",
+      "thispersondoesnotexist.com",
+      "ai-faces",
+      "face-generation",
+      "image-download",
+      "tpdne",
+      "nim",
+      "client"
+    ],
+    "description": "Fetch and optionally save AI-generated faces from thispersondoesnotexist.com",
+    "license": "MIT",
+    "web": "https://github.com/nemuelw/tpdne"
   }
 ]
