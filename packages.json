@@ -35533,7 +35533,8 @@
     "description": "Nim binding for Dear ImGui / CImGui",
     "license": "MIT License",
     "web": "https://github.com/dinau/imguin"
-  },{
+  },
+  {
     "name": "pffft",
     "url": "https://github.com/capocasa/pffft",
     "method": "git",
@@ -35583,5 +35584,23 @@
     "description": "Fetch and optionally save AI-generated faces from thispersondoesnotexist.com",
     "license": "MIT",
     "web": "https://github.com/nemuelw/tpdne"
+  },
+  {
+    "name": "sdl3_nim",
+    "url": "https://github.com/dinau/sdl3_nim",
+    "method": "git",
+    "tags": [
+      "sdl3",
+      "nimgl",
+      "stb",
+      "stb_image",
+      "opengl",
+      "futhark",
+      "imguin",
+      "imgui"
+    ],
+    "description": "SDL3 warpper for Nim language",
+    "license": "MIT License",
+    "web": "https://github.com/dinau/sdl3_nim"
   }
 ]
