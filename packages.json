@@ -35602,5 +35602,24 @@
     "description": "SDL3 warpper for Nim language",
     "license": "MIT License",
     "web": "https://github.com/dinau/sdl3_nim"
+  },
+  {
+    "name": "ukpolice",
+    "url": "https://github.com/nemuelw/ukpolice",
+    "method": "git",
+    "tags": [
+      "ukpolice",
+      "nim",
+      "wrapper",
+      "api-wrapper",
+      "nim-wrapper",
+      "forces",
+      "crimes",
+      "neighbourhoods",
+      "stop-and-search"
+    ],
+    "description": "Nim wrapper for the UK Police Data API",
+    "license": "MIT",
+    "web": "https://github.com/nemuelw/ukpolice"
   }
 ]
