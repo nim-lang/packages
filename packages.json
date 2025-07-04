@@ -3342,7 +3342,7 @@
   },
   {
     "name": "sndfile",
-    "url": "https://github.com/julienaubert/nim-sndfile",
+    "url": "https://github.com/SpotlightKid/nim-sndfile",
     "method": "git",
     "tags": [
       "audio",
@@ -3352,7 +3352,7 @@
     ],
     "description": "A wrapper of libsndfile",
     "license": "MIT",
-    "web": "https://github.com/julienaubert/nim-sndfile"
+    "web": "https://github.com/SpotlightKid/nim-sndfile"
   },
   {
     "name": "nim-sndfile",
