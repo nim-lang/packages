@@ -35631,10 +35631,24 @@
       "url",
       "parser",
       "whatwg",
-      "arc", "orc"
+      "arc",
+      "orc"
     ],
     "description": "High-level Nim wrapper over ada-url, a high-performance, spec-compliant WHATWG URL parser written in C++.",
     "license": "MIT",
     "web": "https://github.com/ferus-web/nim-ada"
+  },
+  {
+    "name": "nimcp",
+    "url": "https://github.com/gokr/nimcp",
+    "method": "git",
+    "tags": [
+      "mcp",
+      "library",
+      "protocol"
+    ],
+    "description": "Easy-to-use Model Context Protocol (MCP) server library for Nim",
+    "license": "MIT",
+    "web": "https://github.com/gokr/nimcp"
   }
 ]
