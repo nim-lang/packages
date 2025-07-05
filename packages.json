@@ -35631,10 +35631,27 @@
       "url",
       "parser",
       "whatwg",
-      "arc", "orc"
+      "arc",
+      "orc"
     ],
     "description": "High-level Nim wrapper over ada-url, a high-performance, spec-compliant WHATWG URL parser written in C++.",
     "license": "MIT",
     "web": "https://github.com/ferus-web/nim-ada"
+  },
+  {
+    "name": "nullable",
+    "url": "https://github.com/theDataFlowClub/nullable",
+    "method": "git",
+    "tags": [
+      "nullable",
+      "null",
+      "types",
+      "utility",
+      "performance",
+      "value-types"
+    ],
+    "description": "An optimized and highly efficient Nullable / Optional type for Nim. Designed for performance-critical applications, it provides clear, functional-style handling of optional values, especially for value types, without reference overhead.",
+    "license": "MIT",
+    "web": "https://github.com/theDataFlowClub/nullable"
   }
 ]
