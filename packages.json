@@ -35653,5 +35653,18 @@
     "description": "An optimized and highly efficient Nullable / Optional type for Nim. Designed for performance-critical applications, it provides clear, functional-style handling of optional values, especially for value types, without reference overhead.",
     "license": "MIT",
     "web": "https://github.com/theDataFlowClub/nullable"
+  },
+  {
+    "name": "nimcp",
+    "url": "https://github.com/gokr/nimcp",
+    "method": "git",
+    "tags": [
+      "mcp",
+      "library",
+      "protocol"
+    ],
+    "description": "Easy-to-use Model Context Protocol (MCP) server library for Nim",
+    "license": "MIT",
+    "web": "https://github.com/gokr/nimcp"
   }
 ]
