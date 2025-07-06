@@ -35639,6 +35639,22 @@
     "web": "https://github.com/ferus-web/nim-ada"
   },
   {
+    "name": "nullable",
+    "url": "https://github.com/theDataFlowClub/nullable",
+    "method": "git",
+    "tags": [
+      "nullable",
+      "null",
+      "types",
+      "utility",
+      "performance",
+      "value-types"
+    ],
+    "description": "An optimized and highly efficient Nullable / Optional type for Nim. Designed for performance-critical applications, it provides clear, functional-style handling of optional values, especially for value types, without reference overhead.",
+    "license": "MIT",
+    "web": "https://github.com/theDataFlowClub/nullable"
+  },
+  {
     "name": "nimcp",
     "url": "https://github.com/gokr/nimcp",
     "method": "git",
