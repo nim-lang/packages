@@ -1,4 +1,22 @@
 [
+{
+    "name": "nullable",
+    "url": "https://github.com/theDataFlowClub/nullable",
+    "method": "git",
+    "tags": [
+      "null",
+      "nullable",
+      "nullability",
+      "types",
+      "type-value",
+      "type-library",
+      "null-safety"
+    ],
+    "description": "A high-performance nullable type implementation for Nim",
+    "license": "MIT",
+    "web": "https://github.com/theDataFlowClub/nullable",
+    "doc": "https://github.com/theDataFlowClub/nullable/blob/main/readme.md"
+  },
   {
     "name": "vexhost",
     "url": "https://github.com/roger-padrell/vexhost",
