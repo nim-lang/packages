@@ -35666,5 +35666,21 @@
     "description": "Easy-to-use Model Context Protocol (MCP) server library for Nim",
     "license": "MIT",
     "web": "https://github.com/gokr/nimcp"
+  },
+  {
+    "name": "dewitt",
+    "url": "https://github.com/Luteva-ssh/dewitt",
+    "method": "git",
+    "tags": [
+      "audio",
+      "analysis",
+      "discrete",
+      "wavelet",
+      "transform",
+      "DWT"
+    ],
+    "description": "Discrete Wavelet Transform (DWT - here 'dewitt') for Audio Analysis",
+    "license": "MIT",
+    "web": "https://github.com/Luteva-ssh/dewitt"
   }
 ]
