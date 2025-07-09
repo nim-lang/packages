@@ -35682,5 +35682,26 @@
     "description": "Discrete Wavelet Transform (DWT - here 'dewitt') for Audio Analysis",
     "license": "MIT",
     "web": "https://github.com/Luteva-ssh/dewitt"
+  },
+  {
+    "name": "agify",
+    "url": "https://github.com/nemuelw/nim-agify",
+    "method": "git",
+    "tags": [
+      "agify",
+      "agifyio",
+      "agify.io",
+      "agify-api",
+      "nim",
+      "wrapper",
+      "api-wrapper",
+      "nim-wrapper",
+      "client",
+      "api-client",
+      "nim-client"
+    ],
+    "description": "Nim wrapper for the Agify.io API",
+    "license": "GPL-3.0-only",
+    "web": "https://github.com/nemuelw/nim-agify"
   }
 ]
