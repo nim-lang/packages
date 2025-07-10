@@ -35703,5 +35703,26 @@
     "description": "Nim wrapper for the Agify.io API",
     "license": "GPL-3.0-only",
     "web": "https://github.com/nemuelw/nim-agify"
+  },
+  {
+    "name": "genderize",
+    "url": "https://github.com/nemuelw/genderize",
+    "method": "git",
+    "tags": [
+      "genderize",
+      "genderizeio",
+      "genderize.io",
+      "genderize-api",
+      "nim",
+      "wrapper",
+      "api-wrapper",
+      "nim-wrapper",
+      "client",
+      "api-client",
+      "nim-client"
+    ],
+    "description": "Nim wrapper for the Genderize.io API",
+    "license": "GPL-3.0-only",
+    "web": "https://github.com/nemuelw/genderize"
   }
 ]
