@@ -3342,7 +3342,7 @@
   },
   {
     "name": "sndfile",
-    "url": "https://github.com/julienaubert/nim-sndfile",
+    "url": "https://github.com/SpotlightKid/nim-sndfile",
     "method": "git",
     "tags": [
       "audio",
@@ -3352,7 +3352,7 @@
     ],
     "description": "A wrapper of libsndfile",
     "license": "MIT",
-    "web": "https://github.com/julienaubert/nim-sndfile"
+    "web": "https://github.com/SpotlightKid/nim-sndfile"
   },
   {
     "name": "nim-sndfile",
@@ -35551,5 +35551,196 @@
     "description": "Fast as Fuck interpolated LUT generator and applier",
     "license": "GPL-3.0-only",
     "web": "https://github.com/arashi-software/clutter"
+  },
+  {
+    "name": "pffft",
+    "url": "https://github.com/capocasa/pffft",
+    "method": "git",
+    "tags": [
+      "fft",
+      "math",
+      "dsp",
+      "audio"
+    ],
+    "description": "The fast, small and liberally licensed pffft fast-fourier-transform (FFT) library wrapped for Nim",
+    "license": "BSD-3-Clause",
+    "web": "https://github.com/capocasa/pffft"
+  },
+  {
+    "name": "morsecode",
+    "url": "https://github.com/nemuelw/morsecode",
+    "method": "git",
+    "tags": [
+      "morse",
+      "morsecode",
+      "encode",
+      "decode",
+      "encoding",
+      "decoding",
+      "text",
+      "communication",
+      "utils"
+    ],
+    "description": "Encode and decode text using standard international Morse code",
+    "license": "GPL-3.0-or-later",
+    "web": "https://github.com/nemuelw/morsecode"
+  },
+  {
+    "name": "tpdne",
+    "url": "https://github.com/nemuelw/tpdne",
+    "method": "git",
+    "tags": [
+      "thispersondoesnotexist",
+      "thispersondoesnotexist.com",
+      "ai-faces",
+      "face-generation",
+      "image-download",
+      "tpdne",
+      "nim",
+      "client"
+    ],
+    "description": "Fetch and optionally save AI-generated faces from thispersondoesnotexist.com",
+    "license": "MIT",
+    "web": "https://github.com/nemuelw/tpdne"
+  },
+  {
+    "name": "sdl3_nim",
+    "url": "https://github.com/dinau/sdl3_nim",
+    "method": "git",
+    "tags": [
+      "sdl3",
+      "nimgl",
+      "stb",
+      "stb_image",
+      "opengl",
+      "futhark",
+      "imguin",
+      "imgui"
+    ],
+    "description": "SDL3 warpper for Nim language",
+    "license": "MIT License",
+    "web": "https://github.com/dinau/sdl3_nim"
+  },
+  {
+    "name": "ukpolice",
+    "url": "https://github.com/nemuelw/ukpolice",
+    "method": "git",
+    "tags": [
+      "ukpolice",
+      "nim",
+      "wrapper",
+      "api-wrapper",
+      "nim-wrapper",
+      "forces",
+      "crimes",
+      "neighbourhoods",
+      "stop-and-search"
+    ],
+    "description": "Nim wrapper for the UK Police Data API",
+    "license": "MIT",
+    "web": "https://github.com/nemuelw/ukpolice"
+  },
+  {
+    "name": "ada",
+    "url": "https://github.com/ferus-web/nim-ada",
+    "method": "git",
+    "tags": [
+      "wrapper",
+      "url",
+      "parser",
+      "whatwg",
+      "arc",
+      "orc"
+    ],
+    "description": "High-level Nim wrapper over ada-url, a high-performance, spec-compliant WHATWG URL parser written in C++.",
+    "license": "MIT",
+    "web": "https://github.com/ferus-web/nim-ada"
+  },
+  {
+    "name": "nullable",
+    "url": "https://github.com/theDataFlowClub/nullable",
+    "method": "git",
+    "tags": [
+      "nullable",
+      "null",
+      "types",
+      "utility",
+      "performance",
+      "value-types"
+    ],
+    "description": "An optimized and highly efficient Nullable / Optional type for Nim. Designed for performance-critical applications, it provides clear, functional-style handling of optional values, especially for value types, without reference overhead.",
+    "license": "MIT",
+    "web": "https://github.com/theDataFlowClub/nullable"
+  },
+  {
+    "name": "nimcp",
+    "url": "https://github.com/gokr/nimcp",
+    "method": "git",
+    "tags": [
+      "mcp",
+      "library",
+      "protocol"
+    ],
+    "description": "Easy-to-use Model Context Protocol (MCP) server library for Nim",
+    "license": "MIT",
+    "web": "https://github.com/gokr/nimcp"
+  },
+  {
+    "name": "dewitt",
+    "url": "https://github.com/Luteva-ssh/dewitt",
+    "method": "git",
+    "tags": [
+      "audio",
+      "analysis",
+      "discrete",
+      "wavelet",
+      "transform",
+      "DWT"
+    ],
+    "description": "Discrete Wavelet Transform (DWT - here 'dewitt') for Audio Analysis",
+    "license": "MIT",
+    "web": "https://github.com/Luteva-ssh/dewitt"
+  },
+  {
+    "name": "agify",
+    "url": "https://github.com/nemuelw/nim-agify",
+    "method": "git",
+    "tags": [
+      "agify",
+      "agifyio",
+      "agify.io",
+      "agify-api",
+      "nim",
+      "wrapper",
+      "api-wrapper",
+      "nim-wrapper",
+      "client",
+      "api-client",
+      "nim-client"
+    ],
+    "description": "Nim wrapper for the Agify.io API",
+    "license": "GPL-3.0-only",
+    "web": "https://github.com/nemuelw/nim-agify"
+  },
+  {
+    "name": "genderize",
+    "url": "https://github.com/nemuelw/genderize",
+    "method": "git",
+    "tags": [
+      "genderize",
+      "genderizeio",
+      "genderize.io",
+      "genderize-api",
+      "nim",
+      "wrapper",
+      "api-wrapper",
+      "nim-wrapper",
+      "client",
+      "api-client",
+      "nim-client"
+    ],
+    "description": "Nim wrapper for the Genderize.io API",
+    "license": "GPL-3.0-only",
+    "web": "https://github.com/nemuelw/genderize"
   }
 ]
