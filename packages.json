@@ -35724,5 +35724,26 @@
     "description": "Nim wrapper for the Genderize.io API",
     "license": "GPL-3.0-only",
     "web": "https://github.com/nemuelw/genderize"
+  },
+  {
+    "name": "nationalize",
+    "url": "https://github.com/nemuelw/nationalize",
+    "method": "git",
+    "tags": [
+      "nationalize",
+      "nationalizeio",
+      "nationalize.io",
+      "nationalize-api",
+      "nim",
+      "wrapper",
+      "api-wrapper",
+      "nim-wrapper",
+      "client",
+      "api-client",
+      "nim-client"
+    ],
+    "description": "Nim wrapper for the Nationalize.io API",
+    "license": "GPL-3.0-only",
+    "web": "https://github.com/nemuelw/nationalize"
   }
 ]
