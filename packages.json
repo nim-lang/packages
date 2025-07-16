@@ -35773,5 +35773,17 @@
     ],
     "license": "MIT",
     "description": "A CLI tool and library for interacting with various LLMs"
+  },
+  {
+    "name": "Rakta",
+    "url": "https://github.com/DitzDev/Rakta",
+    "method": "git",
+    "tags": [
+      "web-framework",
+      "library"
+    ],
+    "description": "Powerfull, Fast, and Minimalist web Framework for Nim. Focus on your Backend.",
+    "license": "MIT",
+    "web": "https://github.com/DitzDev/Rakta"
   }
 ]
