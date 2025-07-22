@@ -35801,5 +35801,26 @@
     "description": "Library for data analysis and manipulation, equivalent to Pandas.",
     "license": "GPL-3.0-only",
     "web": "https://github.com/navid-m/razor"
+  },
+  {
+    "name": "myip",
+    "url": "https://github.com/nemuelw/myip",
+    "method": "git",
+    "tags": [
+      "myip",
+      "my-ip",
+      "my-ip.io",
+      "myip-api",
+      "nim",
+      "wrapper",
+      "api-wrapper",
+      "nim-wrapper",
+      "client",
+      "api-client",
+      "nim-client"
+    ],
+    "description": "Nim client for the MyIP (https://my-ip.io) API",
+    "license": "GPL-3.0-only",
+    "web": "https://github.com/nemuelw/myip"
   }
 ]
