@@ -35822,5 +35822,21 @@
     "description": "Nim client for the MyIP (https://my-ip.io) API",
     "license": "GPL-3.0-only",
     "web": "https://github.com/nemuelw/myip"
+  },
+  {
+  "name": "nife",
+  "url": "https://github.com/ANSI-D/NiFE",
+  "method": "git",
+  "tags": [
+    "file-manager",
+    "terminal-based",
+    "linux",
+    "files",
+    "unix"
+  ],
+  "description": "A simple terminal file manager for Linux and MacOS inspired by Ranger FM",
+  "license": "GPL-3.0-only",
+  "web": "https://github.com/ANSI-D/NiFE"
   }
+
 ]
