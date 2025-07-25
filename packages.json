@@ -35837,6 +35837,22 @@
   "description": "A simple terminal file manager for Linux and MacOS inspired by Ranger FM",
   "license": "GPL-3.0-only",
   "web": "https://github.com/ANSI-D/NiFE"
+  },
+  {
+    "name": "Espirit",
+    "url": "https://github.com/Toma400/Espirit",
+    "method": "git",
+    "tags": [
+      "elder-scrolls",
+      "morrowind",
+      "parser",
+      "parse",
+      "esm",
+      "esp"
+    ],
+    "description": "Parser for Morrowind's .esp/.esm modding files",
+    "license": "MIT NON-AI License",
+    "web": "https://baedoor.github.io/projects/esp.html"
   }
 
 ]
