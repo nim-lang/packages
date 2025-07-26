@@ -35824,19 +35824,34 @@
     "web": "https://github.com/nemuelw/myip"
   },
   {
-  "name": "nife",
-  "url": "https://github.com/ANSI-D/NiFE",
-  "method": "git",
-  "tags": [
-    "file-manager",
-    "terminal-based",
-    "linux",
-    "files",
-    "unix"
-  ],
-  "description": "A simple terminal file manager for Linux and MacOS inspired by Ranger FM",
-  "license": "GPL-3.0-only",
-  "web": "https://github.com/ANSI-D/NiFE"
+    "name": "nife",
+    "url": "https://github.com/ANSI-D/NiFE",
+    "method": "git",
+    "tags": [
+      "file-manager",
+      "terminal-based",
+      "linux",
+      "files",
+      "unix"
+    ],
+    "description": "A simple terminal file manager for Linux and MacOS inspired by Ranger FM",
+    "license": "GPL-3.0-only",
+    "web": "https://github.com/ANSI-D/NiFE"
+  },
+  {
+    "name": "chronim",
+    "url": "https://github.com/aad1995/chronim",
+    "method": "git",
+    "tags": [
+      "cdp",
+      "chrome",
+      "devtools",
+      "webassembley",
+      "nim",
+      "automation"
+    ],
+    "description": "Chronim is Chrome DevTools Protocol (CDP) for Nim lang",
+    "license": "MIT",
+    "web": "https://github.com/aad1995/chronim"
   }
-
 ]
