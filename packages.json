@@ -35848,7 +35848,8 @@
       "compiler",
       "jit", "x86-64",
       "optimizer", "bytecode",
-      "scripting"
+      "scripting", "lexer",
+      "parser"
     ],
     "description": "Bali is an embeddable JavaScript engine written in Nim from scratch.",
     "license": "LGPL-3.0",
