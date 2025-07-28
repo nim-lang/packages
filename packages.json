@@ -35837,6 +35837,22 @@
   "description": "A simple terminal file manager for Linux and MacOS inspired by Ranger FM",
   "license": "GPL-3.0-only",
   "web": "https://github.com/ANSI-D/NiFE"
+  },
+  {
+    "name": "bali",
+    "url": "https://github.com/ferus-web/bali",
+    "method": "git",
+    "tags": [
+      "javascript",
+      "interpreter",
+      "compiler",
+      "jit", "x86-64",
+      "optimizer", "bytecode",
+      "scripting", "lexer",
+      "parser"
+    ],
+    "description": "Bali is an embeddable JavaScript engine written in Nim from scratch.",
+    "license": "LGPL-3.0",
+    "web": "https://ferus-web.github.io/bali/"
   }
-
 ]
