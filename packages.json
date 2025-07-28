@@ -35839,6 +35839,23 @@
   "web": "https://github.com/ANSI-D/NiFE"
   },
   {
+    "name": "bali",
+    "url": "https://github.com/ferus-web/bali",
+    "method": "git",
+    "tags": [
+      "javascript",
+      "interpreter",
+      "compiler",
+      "jit", "x86-64",
+      "optimizer", "bytecode",
+      "scripting", "lexer",
+      "parser"
+    ],
+    "description": "Bali is an embeddable JavaScript engine written in Nim from scratch.",
+    "license": "LGPL-3.0",
+    "web": "https://ferus-web.github.io/bali/"
+  },
+  {
     "name": "Espirit",
     "url": "https://github.com/Toma400/Espirit",
     "method": "git",
@@ -35854,5 +35871,4 @@
     "license": "MIT NON-AI License",
     "web": "https://baedoor.github.io/projects/esp.html"
   }
-
 ]
