@@ -35870,5 +35870,21 @@
     "description": "Parser for Morrowind's .esp/.esm modding files",
     "license": "MIT NON-AI License",
     "web": "https://baedoor.github.io/projects/esp.html"
-  }
+  },
+    {
+    "name": "chronim",
+    "url": "https://github.com/aad1995/chronim",
+    "method": "git",
+    "tags": [
+      "cdp",
+      "chrome",
+      "devtools",
+      "webassembley",
+      "nim",
+      "automation"
+    ],
+    "description": "Chronim is Chrome DevTools Protocol (CDP) for Nim lang",
+    "license": "MIT",
+    "web": "https://github.com/aad1995/chronim"
+    }
 ]
