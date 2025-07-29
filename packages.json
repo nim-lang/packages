@@ -13,7 +13,7 @@
     "web": "https://codeberg.org/emanresu3/yaclap"
   },
   {
-    "name": "yaclap",
+    "name": "nim-compose",
     "url": "https://codeberg.org/emanresu3/nim-compose",
     "method": "git",
     "tags": [
