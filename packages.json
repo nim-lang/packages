@@ -1,5 +1,31 @@
 [
   {
+    "name": "yaclap",
+    "url": "https://codeberg.org/emanresu3/yaclap",
+    "method": "git",
+    "tags": [
+      "console",
+      "command-line",
+      "cli"
+    ],
+    "description": "Yet another command line argument parser for Nim.",
+    "license": "MIT",
+    "web": "https://codeberg.org/emanresu3/yaclap"
+  },
+  {
+    "name": "nim-compose",
+    "url": "https://codeberg.org/emanresu3/nim-compose",
+    "method": "git",
+    "tags": [
+      "functional",
+      "pipeline",
+      "composition"
+    ],
+    "description": "Composition operators for Nim.",
+    "license": "MIT",
+    "web": "https://codeberg.org/emanresu3/nim-compose"
+  },
+  {
     "name": "vexhost",
     "url": "https://github.com/roger-padrell/vexhost",
     "method": "git",
