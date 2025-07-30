@@ -1,10 +1,10 @@
-# Nim packages [![Build Status](https://travis-ci.org/nim-lang/packages.svg?branch=master)](https://travis-ci.org/nim-lang/packages)
+# Nim packages
 
 This is a central listing of all packages for
 [Nimble](https://github.com/nim-lang/nimble), a package manager for the
 [Nim programming language](http://nim-lang.org).
 
-An overview of all packages is available at https://nimble.directory.
+An overview of all packages is available at https://nimble.directory or https://nimpkgs.dayl.in.
 
 NOTE: The packages listed here are not peer-reviewed or otherwise screened. We try to keep the list up-to-date but we cannot guarantee quality or maturity of the packages.
 
