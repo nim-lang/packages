@@ -35850,19 +35850,19 @@
     "web": "https://github.com/nemuelw/myip"
   },
   {
-  "name": "nife",
-  "url": "https://github.com/ANSI-D/NiFE",
-  "method": "git",
-  "tags": [
-    "file-manager",
-    "terminal-based",
-    "linux",
-    "files",
-    "unix"
-  ],
-  "description": "A simple terminal file manager for Linux and MacOS inspired by Ranger FM",
-  "license": "GPL-3.0-only",
-  "web": "https://github.com/ANSI-D/NiFE"
+    "name": "nife",
+    "url": "https://github.com/ANSI-D/NiFE",
+    "method": "git",
+    "tags": [
+      "file-manager",
+      "terminal-based",
+      "linux",
+      "files",
+      "unix"
+    ],
+    "description": "A simple terminal file manager for Linux and MacOS inspired by Ranger FM",
+    "license": "GPL-3.0-only",
+    "web": "https://github.com/ANSI-D/NiFE"
   },
   {
     "name": "bali",
@@ -35872,9 +35872,12 @@
       "javascript",
       "interpreter",
       "compiler",
-      "jit", "x86-64",
-      "optimizer", "bytecode",
-      "scripting", "lexer",
+      "jit",
+      "x86-64",
+      "optimizer",
+      "bytecode",
+      "scripting",
+      "lexer",
       "parser"
     ],
     "description": "Bali is an embeddable JavaScript engine written in Nim from scratch.",
@@ -35897,7 +35900,7 @@
     "license": "MIT NON-AI License",
     "web": "https://baedoor.github.io/projects/esp.html"
   },
-    {
+  {
     "name": "chronim",
     "url": "https://github.com/aad1995/chronim",
     "method": "git",
@@ -35912,5 +35915,20 @@
     "description": "Chronim is Chrome DevTools Protocol (CDP) for Nim lang",
     "license": "MIT",
     "web": "https://github.com/aad1995/chronim"
-    }
+  },
+  {
+    "name": "nimtools",
+    "url": "https://github.com/alexzzzs/NimTools",
+    "method": "git",
+    "tags": [
+      "a",
+      "utils",
+      "library",
+      "for",
+      "Nim"
+    ],
+    "description": "Lightweight, zero-dependency Nim library with expressive helper APIs for numbers, strings, and collections",
+    "license": "MIT",
+    "web": "https://github.com/alexzzzs/NimTools"
+  }
 ]
