@@ -35931,5 +35931,17 @@
     "description": "Nim SDK for Claude Code - provides seamless integration with Claude Code functionality through a native Nim interface",
     "license": "Apache-2.0",
     "web": "https://github.com/Apothic-AI/claude-code-sdk-nim"
+    },
+  {
+    "name": "pgvector",
+    "url": "https://github.com/pgvector/pgvector-nim",
+    "method": "git",
+    "tags": [
+      "postgres",
+      "vector"
+    ],
+    "description": "pgvector support for Nim",
+    "license": "MIT",
+    "web": "https://github.com/pgvector/pgvector-nim"
   }
 ]
