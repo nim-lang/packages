@@ -35912,6 +35912,25 @@
     "description": "Chronim is Chrome DevTools Protocol (CDP) for Nim lang",
     "license": "MIT",
     "web": "https://github.com/aad1995/chronim"
+  },
+  {
+    "name": "claude_code_sdk",
+    "url": "https://github.com/Apothic-AI/claude-code-sdk-nim",
+    "method": "git",
+    "tags": [
+      "claude",
+      "ai",
+      "sdk",
+      "api",
+      "anthropic",
+      "llm",
+      "chatbot",
+      "assistant",
+      "code-generation"
+    ],
+    "description": "Nim SDK for Claude Code - provides seamless integration with Claude Code functionality through a native Nim interface",
+    "license": "Apache-2.0",
+    "web": "https://github.com/Apothic-AI/claude-code-sdk-nim"
     },
   {
     "name": "pgvector",
