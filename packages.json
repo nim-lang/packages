@@ -35963,6 +35963,18 @@
     "web": "https://github.com/pgvector/pgvector-nim"
   },
   {
+    "name": "lasm",
+    "url": "https://github.com/fox0430/lasm",
+    "method": "git",
+    "tags": [
+      "lsp",
+      "editor"
+    ],
+    "description": "A configurable LSP server for debugging/testing LSP clients",
+    "license": "MIT",
+    "web": "https://github.com/fox0430/lasm"
+  },
+  {
     "name": "mmops",
     "url": "https://github.com/capocasa/mmops",
     "method": "git",
