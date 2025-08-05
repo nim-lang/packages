@@ -35943,7 +35943,8 @@
     "description": "pgvector support for Nim",
     "license": "MIT",
     "web": "https://github.com/pgvector/pgvector-nim"
-  },{
+  },
+  {
     "name": "mmops",
     "url": "https://github.com/capocasa/mmops",
     "method": "git",
