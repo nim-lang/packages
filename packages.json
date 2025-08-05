@@ -35930,5 +35930,36 @@
     "description": "Lightweight, zero-dependency Nim library with expressive helper APIs for numbers, strings, and collections",
     "license": "MIT",
     "web": "https://github.com/alexzzzs/NimTools"
+  },
+  {
+    "name": "claude_code_sdk",
+    "url": "https://github.com/Apothic-AI/claude-code-sdk-nim",
+    "method": "git",
+    "tags": [
+      "claude",
+      "ai",
+      "sdk",
+      "api",
+      "anthropic",
+      "llm",
+      "chatbot",
+      "assistant",
+      "code-generation"
+    ],
+    "description": "Nim SDK for Claude Code - provides seamless integration with Claude Code functionality through a native Nim interface",
+    "license": "Apache-2.0",
+    "web": "https://github.com/Apothic-AI/claude-code-sdk-nim"
+    },
+  {
+    "name": "pgvector",
+    "url": "https://github.com/pgvector/pgvector-nim",
+    "method": "git",
+    "tags": [
+      "postgres",
+      "vector"
+    ],
+    "description": "pgvector support for Nim",
+    "license": "MIT",
+    "web": "https://github.com/pgvector/pgvector-nim"
   }
 ]
