@@ -32575,7 +32575,7 @@
   },
   {
     "name": "iniplus",
-    "url": "https://github.com/systemonia/iniplus",
+    "url": "https://codeberg.org/onbox/iniplus",
     "method": "git",
     "tags": [
       "ini",
@@ -32586,7 +32586,7 @@
     ],
     "description": "An extended INI parser for Nim.",
     "license": "BSD-3-Clause",
-    "web": "https://github.com/systemonia/iniplus"
+    "web": "https://pony.biz/iniplus/"
   },
   {
     "name": "pathutils",
@@ -33288,7 +33288,7 @@
   },
   {
     "name": "expect",
-    "url": "https://github.com/penguinite/expect",
+    "url": "https://codeberg.org/penguinite/expect",
     "method": "git",
     "tags": [
       "rust",
@@ -33297,7 +33297,7 @@
     ],
     "description": "Rust-style expect procedures",
     "license": "BSD-3-Clause",
-    "web": "https://github.com/penguinite/expect"
+    "web": "https://pony.biz/expect/"
   },
   {
     "name": "css3selectors",
@@ -33711,7 +33711,7 @@
   },
   {
     "name": "rng",
-    "url": "https://github.com/penguinite/rng",
+    "url": "https://codeberg.org/onbox/rng",
     "method": "git",
     "tags": [
       "random",
@@ -33722,7 +33722,7 @@
     ],
     "description": "Basic wrapper over std/sysrand",
     "license": "BSD-3-Clause",
-    "web": "https://github.com/penguinite/rng"
+    "web": "https://pony.biz/rng/"
   },
   {
     "name": "businessdays",
@@ -34454,7 +34454,7 @@
   },
   {
     "name": "temple",
-    "url": "https://github.com/penguinite/temple.git",
+    "url": "https://codeberg.org/onbox/temple",
     "method": "git",
     "tags": [
       "library",
@@ -34464,7 +34464,7 @@
     ],
     "description": "A templating library for run-time templating with support for simple conditionals and attributes.",
     "license": "BSD-3-Clause",
-    "web": "https://github.com/penguinite/temple.git"
+    "web": "https://pony.biz/temple/"
   },
   {
     "name": "blend2d",
