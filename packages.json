@@ -35949,7 +35949,7 @@
     "description": "Nim SDK for Claude Code - provides seamless integration with Claude Code functionality through a native Nim interface",
     "license": "Apache-2.0",
     "web": "https://github.com/Apothic-AI/claude-code-sdk-nim"
-    },
+  },
   {
     "name": "pgvector",
     "url": "https://github.com/pgvector/pgvector-nim",
@@ -35987,5 +35987,25 @@
     "description": "Zero-cost typed SIMD operations for Nim using familiar math operators (`+`, `-`, `*`, `/`, etc.) that compile directly to AVX2 instructions.",
     "license": "MIT",
     "web": "https://github.com/capocasa/mmops"
+  },
+  {
+    "name": "xcb_nim",
+    "url": "https://github.com/heysokam/xcb.nim",
+    "method": "git",
+    "tags": [
+      "xcb",
+      "X11",
+      "linux",
+      "libxcb",
+      "nimmified",
+      "ergonomic",
+      "library",
+      "bindings",
+      "wrapper",
+      "futhark"
+    ],
+    "description": "xcb.nim | Nimmified bindings for XCB",
+    "license": "MPL-2.0",
+    "web": "https://github.com/heysokam/xcb.nim"
   }
 ]
