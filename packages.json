@@ -36007,5 +36007,19 @@
     "description": "xcb.nim | Nimmified bindings for XCB",
     "license": "MPL-2.0",
     "web": "https://github.com/heysokam/xcb.nim"
+  },
+  {
+    "name": "celina",
+    "url": "https://github.com/fox0430/celina",
+    "method": "git",
+    "tags": [
+      "cli",
+      "command-line",
+      "terminal",
+      "ui"
+    ],
+    "description": "A CLI library inspired by Ratatui",
+    "license": "MIT",
+    "web": "https://github.com/fox0430/celina"
   }
 ]
