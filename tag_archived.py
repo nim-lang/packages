@@ -3,12 +3,20 @@ import os
 import re
 import subprocess
 import sys
+from urllib.parse import urlparse
 
 def get_repo_from_url(url):
-    """Extracts owner/repo from a GitHub URL."""
-    match = re.search(r"github\.com/([^/]+)/([^/]+)", url)
-    if match:
-        return match.group(1), match.group(2).replace(".git", "")
+    """Extracts owner/repo from a GitHub URL, stripping query parameters."""
+    # Use urlparse to handle URL components correctly
+    parsed_url = urlparse(url)
+    if parsed_url.netloc == "github.com":
+        path_parts = parsed_url.path.strip('/').split('/')
+        if len(path_parts) >= 2:
+            owner = path_parts[0]
+            repo = path_parts[1]
+            if repo.endswith('.git'):
+                repo = repo[:-4]
+            return owner, repo
     return None, None
 
 def build_graphql_query(repos):
@@ -54,51 +62,90 @@ def main():
     batch_size = int(os.environ.get("BATCH_SIZE", 50))
 
     with open("packages.json", "r") as f:
-        packages = json.load(f)
+        all_packages = json.load(f)
 
-    github_repos = []
-    for pkg in packages:
-        if pkg.get("method") == "git" and "github.com" in pkg.get("url", ""):
-            owner, repo = get_repo_from_url(pkg["url"])
-            if owner and repo:
-                github_repos.append((owner, repo, pkg))
+    # Partition packages: those already marked 'deleted' vs. those to be checked.
+    packages_to_check = []
+    deleted_packages = []
+    for pkg in all_packages:
+        if "deleted" in pkg.get("tags", []):
+            deleted_packages.append(pkg)
+        else:
+            packages_to_check.append(pkg)
 
-    repos_to_delete = set()
-    for i in range(0, len(github_repos), batch_size):
-        batch = github_repos[i:i+batch_size]
-        repos_to_query = [(owner, repo) for owner, repo, pkg in batch]
-        query = build_graphql_query(repos_to_query)
+    # Identify GitHub repos to query from the packages to be checked.
+    github_repos_map = {}
+    for pkg in packages_to_check:
+        owner, repo = get_repo_from_url(pkg.get("url", ""))
+        if owner and repo:
+            name_with_owner = f"{owner}/{repo}"
+            # Handle cases where multiple packages point to the same repo.
+            if name_with_owner not in github_repos_map:
+                github_repos_map[name_with_owner] = []
+            github_repos_map[name_with_owner].append(pkg)
+
+    # Batch query the GitHub API.
+    repos_to_query = list(github_repos_map.keys())
+    api_results = {}
+    for i in range(0, len(repos_to_query), batch_size):
+        batch_repos_str = repos_to_query[i:i+batch_size]
+        batch_repos_tuple = [tuple(r.split('/')) for r in batch_repos_str]
+        query = build_graphql_query(batch_repos_tuple)
         result = run_gh_query(query)
-
-        if "data" in result and result["data"] is not None:
-            for j, (owner, repo, pkg) in enumerate(batch):
+        if "data" in result and result.get("data") is not None:
+            for j, repo_str in enumerate(batch_repos_str):
                 key = f"repo{j}"
-                repo_data = result["data"].get(key)
-                name_with_owner = f"{owner}/{repo}"
+                api_results[repo_str] = result["data"].get(key)
 
-                if repo_data is None:  # Repo not found / deleted
-                    repos_to_delete.add(name_with_owner)
-                    print(f"Repository {name_with_owner} not found, marking as deleted.")
-                elif repo_data.get("isArchived"):  # Repo is archived
-                    repos_to_delete.add(name_with_owner)
-                    print(f"Repository {name_with_owner} is archived, marking as deleted.")
+    # Process API results.
+    newly_deleted_names = []
+    newly_archived_names = []
+    active_packages = []
 
-    updated = False
-    for owner, repo, pkg in github_repos:
-        name_with_owner = f"{owner}/{repo}"
-        if name_with_owner in repos_to_delete:
-            pkg_tags = set(pkg.get("tags", []))
-            if "deleted" not in pkg_tags:
-                pkg_tags.add("deleted")
-                pkg["tags"] = sorted(list(pkg_tags))
-                print(f"Tagging {pkg['name']} as deleted.")
-                updated = True
+    # Start with a clean list of packages to check
+    remaining_packages = list(packages_to_check)
 
-    if updated:
+    for repo_str, repo_data in api_results.items():
+        packages_to_update = github_repos_map[repo_str]
+        for pkg in packages_to_update:
+            if repo_data is None:  # Repo not found, move to deleted.
+                if pkg in remaining_packages:
+                    deleted_packages.append(pkg)
+                    remaining_packages.remove(pkg)
+                    newly_deleted_names.append(pkg['name'])
+            elif repo_data.get("isArchived"):  # Repo is archived, tag it.
+                pkg_tags = set(pkg.get("tags", []))
+                if "archived" not in pkg_tags:
+                    pkg_tags.add("archived")
+                    pkg["tags"] = sorted(list(pkg_tags))
+                    newly_archived_names.append(pkg['name'])
+
+    active_packages = remaining_packages
+
+    # Write output files if changes were made.
+    if newly_deleted_names or newly_archived_names:
+        # Write active packages to packages.json
         with open("packages.json", "w") as f:
-            json.dump(packages, f, indent=2, ensure_ascii=False)
-            f.write('\n')  # Add trailing newline
-        print("packages.json updated.")
+            json.dump(active_packages, f, indent=2, ensure_ascii=False)
+            f.write('\n')
+
+        # Write deleted packages to deleted_packages.json
+        if deleted_packages:
+            with open("deleted_packages.json", "w") as f:
+                json.dump(deleted_packages, f, indent=2, ensure_ascii=False)
+                f.write('\n')
+
+        # Print summary for commit message.
+        if newly_deleted_names:
+            print("Moved to deleted_packages.json:")
+            for name in sorted(list(set(newly_deleted_names))):
+                print(f"- {name}")
+        if newly_archived_names:
+            if newly_deleted_names:
+                print() # Add a newline for separation.
+            print("Tagged as archived:")
+            for name in sorted(list(set(newly_archived_names))):
+                print(f"- {name}")
     else:
         print("No new archived or deleted repositories found.")
 

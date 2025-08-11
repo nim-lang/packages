@@ -12,22 +12,30 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v5
-#        with:
-#          python-version: '3.x'
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
 
-      - name: Run script
+      - name: Run script and capture output
+        id: run_script
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           BATCH_SIZE: 50
-        run: python tag_archived.py
+        run: |
+          BODY=$(python tag_archived.py)
+          echo "commit_body<<EOF" >> $GITHUB_OUTPUT
+          echo "$BODY" >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
 
       - name: Commit changes
-        uses: stefanzweifel/git-auto-commit-action@v6
+        uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "chore: tag archived repositories"
+          commit_message: |
+            chore: Update package lists
+
+            ${{ steps.run_script.outputs.commit_body }}
           branch: master
-          file_pattern: packages.json
+          file_pattern: packages.json deleted_packages.json
           commit_user_name: "github-actions[bot]"
           commit_user_email: "github-actions[bot]@users.noreply.github.com"
           commit_author: "github-actions[bot] <github-actions[bot]@users.noreply.github.com>"
