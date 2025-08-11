@@ -3,7 +3,7 @@ name: Tag Archived Repos
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 9 * * 1' # every sunday at midnight
+    - cron: '0 0 * * 0' # every sunday at midnight
 
 jobs:
   tag_archived:
