@@ -36009,6 +36009,21 @@
     "web": "https://github.com/heysokam/xcb.nim"
   },
   {
+    "name": "nimchess",
+    "url": "https://github.com/tsoj/nimchess",
+    "method": "git",
+    "tags": [
+      "chess",
+      "bitboard",
+      "game",
+      "pgn"
+    ],
+    "description": "A chess library for Nim",
+    "license": "LGPL-3.0-linking-exception",
+    "web": "https://github.com/tsoj/nimchess",
+    "doc": "https://tsoj.github.io/nimchess"
+  },
+  {
     "name": "celina",
     "url": "https://github.com/fox0430/celina",
     "method": "git",
