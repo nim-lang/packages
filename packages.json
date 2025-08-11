@@ -36036,5 +36036,21 @@
     "description": "A CLI library inspired by Ratatui",
     "license": "MIT",
     "web": "https://github.com/fox0430/celina"
+  },
+  {
+    "name": "cglm",
+    "url": "https://github.com/Niminem/cglm",
+    "method": "git",
+    "tags": [
+      "cglm",
+      "glm",
+      "math",
+      "3d",
+      "game",
+      "wrapper"
+    ],
+    "description": "Nim wrapper for cglm, an optimized 3D math library written in C99",
+    "license": "MIT",
+    "web": "https://github.com/Niminem/cglm"
   }
 ]
