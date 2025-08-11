@@ -36007,5 +36007,50 @@
     "description": "xcb.nim | Nimmified bindings for XCB",
     "license": "MPL-2.0",
     "web": "https://github.com/heysokam/xcb.nim"
+  },
+  {
+    "name": "nimchess",
+    "url": "https://github.com/tsoj/nimchess",
+    "method": "git",
+    "tags": [
+      "chess",
+      "bitboard",
+      "game",
+      "pgn"
+    ],
+    "description": "A chess library for Nim",
+    "license": "LGPL-3.0-linking-exception",
+    "web": "https://github.com/tsoj/nimchess",
+    "doc": "https://tsoj.github.io/nimchess"
+  },
+  {
+    "name": "celina",
+    "url": "https://github.com/fox0430/celina",
+    "method": "git",
+    "tags": [
+      "cli",
+      "command-line",
+      "terminal",
+      "ui"
+    ],
+    "description": "A CLI library inspired by Ratatui",
+    "license": "MIT",
+    "web": "https://github.com/fox0430/celina"
+  },
+  {
+    "name": "cglm",
+    "url": "https://github.com/Niminem/cglm",
+    "method": "git",
+    "tags": [
+      "cglm",
+      "glm",
+      "math",
+      "3d",
+      "game",
+      "wrapper"
+    ],
+    "description": "Nim wrapper for cglm, an optimized 3D math library written in C99",
+    "license": "MIT",
+    "web": "https://github.com/Niminem/cglm"
   }
 ]
