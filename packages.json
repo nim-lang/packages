@@ -25220,23 +25220,6 @@
     "web": "https://github.com/schneiderfelipe/hyperscript"
   },
   {
-    "name": "pl0t",
-    "url": "https://github.com/al6x/pl0t?subdir=api/nim",
-    "method": "git",
-    "tags": [
-      "plot",
-      "chart",
-      "table",
-      "excel",
-      "spreadsheet",
-      "visualization",
-      "data"
-    ],
-    "description": "Plot and visualize data",
-    "license": "Proprietary",
-    "web": "https://pl0t.com"
-  },
-  {
     "name": "gm_api",
     "url": "https://github.com/thisago/gm_api",
     "method": "git",
