@@ -36022,5 +36022,19 @@
     "license": "LGPL-3.0-linking-exception",
     "web": "https://github.com/tsoj/nimchess",
     "doc": "https://tsoj.github.io/nimchess"
+  },
+  {
+    "name": "celina",
+    "url": "https://github.com/fox0430/celina",
+    "method": "git",
+    "tags": [
+      "cli",
+      "command-line",
+      "terminal",
+      "ui"
+    ],
+    "description": "A CLI library inspired by Ratatui",
+    "license": "MIT",
+    "web": "https://github.com/fox0430/celina"
   }
 ]
