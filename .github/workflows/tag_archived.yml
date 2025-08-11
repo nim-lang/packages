@@ -1,0 +1,33 @@
+name: Tag Archived Repos
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 9 * * 1' # every sunday at midnight
+
+jobs:
+  tag_archived:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+#        with:
+#          python-version: '3.x'
+
+      - name: Run script
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BATCH_SIZE: 50
+        run: python tag_archived.py
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v6
+        with:
+          commit_message: "chore: tag archived repositories"
+          branch: master
+          file_pattern: packages.json
+          commit_user_name: "github-actions[bot]"
+          commit_user_email: "github-actions[bot]@users.noreply.github.com"
+          commit_author: "github-actions[bot] <github-actions[bot]@users.noreply.github.com>"
