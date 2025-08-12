@@ -25220,23 +25220,6 @@
     "web": "https://github.com/schneiderfelipe/hyperscript"
   },
   {
-    "name": "pl0t",
-    "url": "https://github.com/al6x/pl0t?subdir=api/nim",
-    "method": "git",
-    "tags": [
-      "plot",
-      "chart",
-      "table",
-      "excel",
-      "spreadsheet",
-      "visualization",
-      "data"
-    ],
-    "description": "Plot and visualize data",
-    "license": "Proprietary",
-    "web": "https://pl0t.com"
-  },
-  {
     "name": "gm_api",
     "url": "https://github.com/thisago/gm_api",
     "method": "git",
@@ -36052,5 +36035,19 @@
     "description": "Nim wrapper for cglm, an optimized 3D math library written in C99",
     "license": "MIT",
     "web": "https://github.com/Niminem/cglm"
+  },
+  {
+    "name": "prettyterm",
+    "url": "https://github.com/CodeLibraty/prettyterm",
+    "method": "git",
+    "tags": [
+      "terminal",
+      "tui",
+      "utils",
+      "rytonlang"
+    ],
+    "description": "Make your terminal interfaces prettier!",
+    "license": "MIT",
+    "web": "https://github.com/CodeLibraty/prettyterm"
   }
 ]
