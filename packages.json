@@ -36035,5 +36035,19 @@
     "description": "Nim wrapper for cglm, an optimized 3D math library written in C99",
     "license": "MIT",
     "web": "https://github.com/Niminem/cglm"
+  },
+  {
+    "name": "prettyterm",
+    "url": "https://github.com/CodeLibraty/prettyterm",
+    "method": "git",
+    "tags": [
+      "terminal",
+      "tui",
+      "utils",
+      "rytonlang"
+    ],
+    "description": "Make your terminal interfaces prettier!",
+    "license": "MIT",
+    "web": "https://github.com/CodeLibraty/prettyterm"
   }
 ]
