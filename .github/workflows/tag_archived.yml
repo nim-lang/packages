@@ -1,0 +1,41 @@
+name: Tag Archived Repos
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * 0' # every sunday at midnight
+
+jobs:
+  tag_archived:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Run script and capture output
+        id: run_script
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BATCH_SIZE: 50
+        run: |
+          BODY=$(python tag_archived.py)
+          echo "commit_body<<EOF" >> $GITHUB_OUTPUT
+          echo "$BODY" >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v6
+        with:
+          commit_message: |
+            chore: Update package lists
+
+            ${{ steps.run_script.outputs.commit_body }}
+          branch: master
+          file_pattern: packages.json deleted_packages.json
+          commit_user_name: "github-actions[bot]"
+          commit_user_email: "github-actions[bot]@users.noreply.github.com"
+          commit_author: "github-actions[bot] <github-actions[bot]@users.noreply.github.com>"
