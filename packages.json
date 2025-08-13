@@ -36049,5 +36049,21 @@
     "description": "Make your terminal interfaces prettier!",
     "license": "MIT",
     "web": "https://github.com/CodeLibraty/prettyterm"
+  },
+  {
+    "name": "circuit-breaker",
+    "url": "https://github.com/kaio-souza/nim-circuit-breaker",
+    "method": "git",
+    "tags": [
+      "circuit-break",
+      "utils",
+      "api",
+      "errors",
+      "resiliency",
+      "overload"
+    ],
+    "description": "A lightweight and performative library to implement the Circuit Breaker framework in Nim applications. Inspired by the best resiliency practices of distributed systems, this library allows you to control errors in external calls (such as APIs, databases or network services), avoiding error cascades and overload.",
+    "license": "MIT",
+    "web": "https://github.com/kaio-souza/nim-circuit-breaker"
   }
 ]
