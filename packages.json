@@ -36049,5 +36049,21 @@
     "description": "Make your terminal interfaces prettier!",
     "license": "MIT",
     "web": "https://github.com/CodeLibraty/prettyterm"
+  },
+  {
+    "name": "prettyterm",
+    "url": "https://github.com/CodeLibraty/prettyterm",
+    "method": "git",
+    "tags": [
+      "terminal",
+      "tui",
+      "cui",
+      "console",
+      "utils",
+      "rytonlang"
+    ],
+    "description": "Make your terminal interfaces prettier!",
+    "license": "MIT",
+    "web": "https://github.com/CodeLibraty/prettyterm"
   }
 ]
