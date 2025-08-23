@@ -36049,5 +36049,18 @@
     "description": "Make your terminal interfaces prettier!",
     "license": "MIT",
     "web": "https://github.com/CodeLibraty/prettyterm"
+  },
+  {
+    "name": "mmcif",
+    "url": "https://github.com/lucidrains/nim-mmcif",
+    "method": "git",
+    "tags": [
+      "mmcif",
+      "biomolecules",
+      "parsing"
+    ],
+    "description": "Simple parser for mmCIF files (macromolecular structural data)",
+    "license": "MIT",
+    "web": "https://github.com/lucidrains/nim-mmcif"
   }
 ]
