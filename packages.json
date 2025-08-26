@@ -36062,5 +36062,18 @@
     "description": "Simple parser for mmCIF files (macromolecular structural data)",
     "license": "MIT",
     "web": "https://github.com/lucidrains/nim-mmcif"
+  },
+  {
+    "name": "xkcdgeohash",
+    "url": "https://github.com/Naitsabot/xkcdgeohashing.nim",
+    "method": "git",
+    "tags": [
+      "library",
+      "xkcd"
+    ],
+    "description": "Nim implementation for the geohashing algorithm described in xkcd #426",
+    "license": "MIT",
+    "web": "https://github.com/Naitsabot/xkcdgeohashing.nim",
+    "doc": "https://naitsabot.github.io/xkcdgeohash/xkcdgeohash.html"
   }
 ]
