@@ -36075,5 +36075,19 @@
     "license": "MIT",
     "web": "https://github.com/Naitsabot/xkcdgeohashing.nim",
     "doc": "https://naitsabot.github.io/xkcdgeohash/xkcdgeohash.html"
+  },
+  {
+    "name": "pcsc",
+    "url": "https://github.com/mmlado/pcsc-nim/",
+    "method": "git",
+    "tags": [
+      "library",
+      "PC/SC",
+      "pcsc",
+      "PC/SmartCard"
+    ],
+    "description": "PC/SC library for smart card access",
+    "license": "MIT",
+    "web": "https://github.com/mmlado/pcsc-nim/"
   }
 ]
