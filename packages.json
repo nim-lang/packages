@@ -35972,26 +35972,6 @@
     "web": "https://github.com/capocasa/mmops"
   },
   {
-    "name": "xcb_nim",
-    "url": "https://github.com/heysokam/xcb.nim",
-    "method": "git",
-    "tags": [
-      "xcb",
-      "X11",
-      "linux",
-      "libxcb",
-      "nimmified",
-      "ergonomic",
-      "library",
-      "bindings",
-      "wrapper",
-      "futhark"
-    ],
-    "description": "xcb.nim | Nimmified bindings for XCB",
-    "license": "MPL-2.0",
-    "web": "https://github.com/heysokam/xcb.nim"
-  },
-  {
     "name": "nimchess",
     "url": "https://github.com/tsoj/nimchess",
     "method": "git",
