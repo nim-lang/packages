@@ -31948,6 +31948,23 @@
     "doc": "https://nirokay.github.io/nim-docs/websitegenerator/websitegenerator.html"
   },
   {
+    "name": "cattag",
+    "url": "https://github.com/nirokay/CatTag",
+    "method": "git",
+    "tags": [
+      "html",
+      "css",
+      "website",
+      "web-development",
+      "generator",
+      "library"
+    ],
+    "description": "A static HTML/XML and CSS generator from Nim code.",
+    "license": "GPL-3.0-only",
+    "web": "https://github.com/nirokay/CatTag",
+    "doc": "https://nirokay.github.io/nim-docs/cattag/cattag.html"
+  },
+  {
     "name": "reed_solomon",
     "url": "https://github.com/lscrd/Reed-Solomon",
     "method": "git",
