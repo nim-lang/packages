@@ -36104,5 +36104,21 @@
     "description": "PC/SC library for smart card access",
     "license": "MIT",
     "web": "https://github.com/mmlado/pcsc-nim/"
+  },
+  {
+    "name": "fastrpc",
+    "url": "https://github.com/elcritch/fastrpc",
+    "method": "git",
+    "tags": [
+      "rpc",
+      "msgpack",
+      "messagepack",
+      "json-rpc",
+      "embedded",
+      "fast"
+    ],
+    "description": "fast binary rpc designed for embedded",
+    "license": "Apache-2.0",
+    "web": "https://github.com/elcritch/fastrpc"
   }
 ]
