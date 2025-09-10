@@ -36120,5 +36120,18 @@
     "description": "fast binary rpc designed for embedded",
     "license": "Apache-2.0",
     "web": "https://github.com/elcritch/fastrpc"
+  },
+  {
+    "name": "parsesql",
+    "url": "https://github.com/nim-lang/parsesql",
+    "method": "git",
+    "tags": [
+      "SQL",
+      "web",
+      "PostgreSQL"
+    ],
+    "description": "a high performance SQL file parser",
+    "license": "MIT",
+    "web": "https://github.com/nim-lang/parsesql"
   }
 ]
