@@ -24904,18 +24904,6 @@
     "web": "https://github.com/thisago/formulas"
   },
   {
-    "name": "parsesql",
-    "url": "https://github.com/bung87/parsesql",
-    "method": "git",
-    "tags": [
-      "sql",
-      "parser"
-    ],
-    "description": "The parsesql module implements a high performance SQL file parser. It parses PostgreSQL syntax and the SQL ANSI standard.",
-    "license": "MIT",
-    "web": "https://github.com/bung87/parsesql"
-  },
-  {
     "name": "distributions",
     "url": "https://github.com/ayman-albaz/distributions",
     "method": "git",
@@ -36120,5 +36108,18 @@
     "description": "fast binary rpc designed for embedded",
     "license": "Apache-2.0",
     "web": "https://github.com/elcritch/fastrpc"
+  },
+  {
+    "name": "parsesql",
+    "url": "https://github.com/nim-lang/parsesql",
+    "method": "git",
+    "tags": [
+      "SQL",
+      "web",
+      "PostgreSQL"
+    ],
+    "description": "a high performance SQL file parser",
+    "license": "MIT",
+    "web": "https://github.com/nim-lang/parsesql"
   }
 ]
