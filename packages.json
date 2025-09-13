@@ -36151,5 +36151,22 @@
     "description": "Nim bindings for libgccjit",
     "license": "MIT",
     "web": "https://github.com/openpeeps/gccjit.nim"
+  },
+  {
+    "name": "libevent",
+    "url": "https://github.com/openpeeps/libevent-nim",
+    "method": "git",
+    "tags": [
+      "libevent",
+      "http",
+      "event",
+      "event-driven",
+      "network",
+      "web",
+      "wrapper"
+    ],
+    "description": "Bindings for Libevent",
+    "license": "MIT",
+    "web": "https://github.com/openpeeps/libevent-nim"
   }
 ]
