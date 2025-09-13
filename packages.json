@@ -36121,5 +36121,19 @@
     "description": "a high performance SQL file parser",
     "license": "MIT",
     "web": "https://github.com/nim-lang/parsesql"
+  },
+  {
+    "name": "marvdown",
+    "url": "https://github.com/openpeeps/marvdown",
+    "method": "git",
+    "tags": [
+      "markdown",
+      "parser",
+      "text",
+      "md"
+    ],
+    "description": "A stupid simple Markdown library",
+    "license": "MIT",
+    "web": "https://github.com/openpeeps/marvdown"
   }
 ]
