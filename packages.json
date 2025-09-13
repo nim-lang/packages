@@ -36137,6 +36137,22 @@
     "web": "https://github.com/openpeeps/marvdown"
   },
   {
+    "name": "gccjit",
+    "url": "https://github.com/openpeeps/gccjit.nim",
+    "method": "git",
+    "tags": [
+      "wrapper",
+      "gcc",
+      "aot",
+      "jit",
+      "compilation",
+      "programming"
+    ],
+    "description": "Nim bindings for libgccjit",
+    "license": "MIT",
+    "web": "https://github.com/openpeeps/gccjit.nim"
+  },
+  {
     "name": "libevent",
     "url": "https://github.com/openpeeps/libevent-nim",
     "method": "git",
