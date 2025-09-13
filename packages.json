@@ -36135,5 +36135,21 @@
     "description": "A stupid simple Markdown library",
     "license": "MIT",
     "web": "https://github.com/openpeeps/marvdown"
+  },
+  {
+    "name": "gccjit",
+    "url": "https://github.com/openpeeps/gccjit.nim",
+    "method": "git",
+    "tags": [
+      "wrapper",
+      "gcc",
+      "aot",
+      "jit",
+      "compilation",
+      "programming"
+    ],
+    "description": "Nim bindings for libgccjit",
+    "license": "MIT",
+    "web": "https://github.com/openpeeps/gccjit.nim"
   }
 ]
