@@ -36168,5 +36168,21 @@
     "description": "Bindings for Libevent",
     "license": "MIT",
     "web": "https://github.com/openpeeps/libevent-nim"
+  },
+  {
+    "name": "nimvss",
+    "url": "https://github.com/srozb/nimvss",
+    "method": "git",
+    "tags": [
+      "library",
+      "wrapper",
+      "vss",
+      "windows",
+      "shadow",
+      "snapshot"
+    ],
+    "description": "Minimal Nim library that provides simple access to Windows Volume Shadow Copy Service (VSS)",
+    "license": "MIT",
+    "web": "https://github.com/srozb/nimvss"
   }
 ]
