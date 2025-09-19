@@ -36200,5 +36200,21 @@
     "description": "Simple diff and sub-image finder with SIMD based on Pixie",
     "license": "Apache-2.0",
     "web": "https://github.com/elcritch/diffy"
+  },
+  {
+    "name": "cborious",
+    "url": "https://github.com/elcritch/cborious",
+    "method": "git",
+    "tags": [
+      "CBOR",
+      "rfc8949",
+      "binary",
+      "serialization",
+      "embedded",
+      "messagepack"
+    ],
+    "description": "A new awesome nimble package",
+    "license": "Apache-2.0",
+    "web": "https://github.com/elcritch/cborious"
   }
 ]
