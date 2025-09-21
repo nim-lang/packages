@@ -36216,5 +36216,26 @@
     "description": "A new awesome nimble package",
     "license": "Apache-2.0",
     "web": "https://github.com/elcritch/cborious"
+  },
+  {
+    "name": "libvips",
+    "url": "https://github.com/openpeeps/libvips-nim",
+    "method": "git",
+    "tags": [
+      "wrapper",
+      "libvips",
+      "pdf",
+      "png",
+      "jpeg",
+      "tiff",
+      "image-processing",
+      "gif",
+      "webp",
+      "heic",
+      "vips"
+    ],
+    "description": "Libvips - image processing library with low memory needs",
+    "license": "MIT",
+    "web": "https://github.com/openpeeps/libvips-nim"
   }
 ]
