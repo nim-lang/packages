@@ -36237,5 +36237,24 @@
     "description": "Libvips - image processing library with low memory needs",
     "license": "MIT",
     "web": "https://github.com/openpeeps/libvips-nim"
+  },
+  {
+    "name": "nimgnuplot",
+    "url": "https://github.com/nervecenter/nimgnuplot",
+    "method": "git",
+    "tags": [
+      "library",
+      "gnuplot",
+      "plotting",
+      "graphics",
+      "plot",
+      "graphing",
+      "chart",
+      "data",
+      "dataframe"
+    ],
+    "description": "A Nim interface to gnuplot loosely based on pygnuplot.",
+    "license": "MIT",
+    "web": "https://github.com/nervecenter/nimgnuplot"
   }
 ]
