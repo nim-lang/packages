@@ -8118,7 +8118,7 @@
   },
   {
     "name": "libp2p",
-    "url": "https://github.com/status-im/nim-libp2p",
+    "url": "https://github.com/vacp2p/nim-libp2p",
     "method": "git",
     "tags": [
       "library",
