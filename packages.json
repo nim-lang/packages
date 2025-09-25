@@ -36256,5 +36256,24 @@
     "description": "A Nim interface to gnuplot loosely based on pygnuplot.",
     "license": "MIT",
     "web": "https://github.com/nervecenter/nimgnuplot"
-  }
+  },
+    {
+    "name": "cipherlib",
+    "url": "https://github.com/ph4mished/cipherlib",
+    "method": "git",
+    "tags": [
+      "ciphers",
+      "encode",
+      "decode",
+      "caesar",
+      "rot13",
+      "rot47",
+      "vigenere",
+      "morse",
+      "bacon"
+    ],
+    "description": "A collection of classical cipher and encoding algorithms including Caesar, ROT13, ROT47, Vigenere, Morse code and other implementations in one library for educational and practical use",
+    "license": "MIT",
+    "web": "https://github.com/ph4mished/cipherlib"
+  },
 ]
