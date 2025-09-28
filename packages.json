@@ -9777,6 +9777,23 @@
     ],
     "description": "Nim library with python-like functions, syntax sugars and libraries",
     "license": "MIT",
+    "web": "https://nimpylib.org",
+    "doc": "https://docs.nimpylib.org"
+  },
+  {
+    "name": "NPython",
+    "url": "https://github.com/nimpylib/NPython",
+    "method": "git",
+    "tags": [
+      "python",
+      "vm",
+      "interpreter",
+      "language",
+      "javascript",
+      "node.js"
+    ],
+    "description": "Python interpreter implemented in Nim, supporting JS backends",
+    "license": "MIT",
     "web": "https://nimpylib.org"
   },
   {
@@ -36276,4 +36293,18 @@
     "license": "MIT",
     "web": "https://github.com/ph4mished/cipherlib"
   },
+  {
+    "name": "uctl",
+    "url": "https://github.com/litlighilit/uctl",
+    "method": "git",
+    "tags": [
+      "cli",
+      "utility",
+      "tool",
+      "unix",
+      "linux"
+    ],
+    "description": "a small UNIX control & query cli, for battery status, screen brightness, console font, etc.",
+    "license": "MIT"
+  }
 ]
