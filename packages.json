@@ -36274,7 +36274,7 @@
     "license": "MIT",
     "web": "https://github.com/nervecenter/nimgnuplot"
   },
-    {
+  {
     "name": "cipherlib",
     "url": "https://github.com/ph4mished/cipherlib",
     "method": "git",
@@ -36306,5 +36306,20 @@
     ],
     "description": "a small UNIX control & query cli, for battery status, screen brightness, console font, etc.",
     "license": "MIT"
+  },
+  {
+    "name": "url",
+    "url": "https://github.com/xTrayambak/url",
+    "method": "git",
+    "tags": [
+      "whatwg",
+      "url",
+      "parser",
+      "simd",
+      "sse2"
+    ],
+    "description": "A high-performance URL parser based on the WHATWG standard.",
+    "license": "BSD-3",
+    "web": "https://github.com/xTrayambak/url"
   }
 ]
