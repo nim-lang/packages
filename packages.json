@@ -36321,5 +36321,22 @@
     "description": "A high-performance URL parser based on the WHATWG standard.",
     "license": "BSD-3",
     "web": "https://github.com/xTrayambak/url"
+  },
+  {
+    "name": "hashtree_abi",
+    "url": "https://github.com/OffchainLabs/hashtree",
+    "method": "git",
+    "tags": [
+      "library",
+      "ssz",
+      "serialization",
+      "ethereum",
+      "hash",
+      "crypto",
+      "sha256"
+    ],
+    "description": "Low-level ABI package for hashtree, a SHA256 implementation specialized for merkle trees and 64-byte chunks",
+    "license": "MIT",
+    "web": "https://github.com/OffchainLabs/hashtree"
   }
 ]
