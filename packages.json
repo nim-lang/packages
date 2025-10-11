@@ -1,4 +1,17 @@
 [
+
+  {"name": "uleb128",
+   "url": "https://github.com/bk20x/uleb128",
+   "method": "git",
+    "tags": [
+      "encode",
+      "decode",
+      "encoding"
+    ],
+    "description": "uleb128 decoding/encoding for Nim.",
+    "license": "MIT",
+    "web": "https://github.com/bk20x/uleb128"
+  },
   {
     "name": "yaclap",
     "url": "https://codeberg.org/emanresu3/yaclap",
