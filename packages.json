@@ -36338,5 +36338,17 @@
     "description": "Low-level ABI package for hashtree, a SHA256 implementation specialized for merkle trees and 64-byte chunks",
     "license": "MIT",
     "web": "https://github.com/OffchainLabs/hashtree"
+  },
+  {
+    "name": "Nim_for_AviUtl",
+    "url": "github-K-Kentaro-dev:K-Kentaro-dev/Nim_for_AviUtl",
+    "method": "git",
+    "tags": [
+      "library",
+      "wrapper"
+    ],
+    "description": "This is a tool to make AviUtl's dll script.",
+    "license": "MIT",
+    "web": "github-K-Kentaro-dev:K-Kentaro-dev/Nim_for_AviUtl"
   }
 ]
