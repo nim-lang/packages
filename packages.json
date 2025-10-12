@@ -1,5 +1,21 @@
 [
   {
+    "name": "huewheel",
+    "url": "https://github.com/ph4mished/huewheel",
+    "method": "git",
+    "tags": [
+      "cli", 
+      "colorize", 
+      "color", 
+      "palettes",
+      "console",
+      "terminal"
+    ],
+    "description":  "HueWheel is a simple text coloring, styling and formatting library.",
+    "license": "MIT",
+    "web": "https://github.com/ph4mished/huewheel"
+  },
+  {
     "name": "yaclap",
     "url": "https://codeberg.org/emanresu3/yaclap",
     "method": "git",
