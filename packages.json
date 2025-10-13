@@ -1,4 +1,17 @@
 [
+
+  {"name": "uleb128",
+   "url": "https://github.com/bk20x/uleb128",
+   "method": "git",
+    "tags": [
+      "encode",
+      "decode",
+      "encoding"
+    ],
+    "description": "uleb128 decoding/encoding for Nim.",
+    "license": "MIT",
+    "web": "https://github.com/bk20x/uleb128"
+  },
   {
     "name": "huewheel",
     "url": "https://github.com/ph4mished/huewheel",
@@ -9792,6 +9805,23 @@
       "metaprogramming"
     ],
     "description": "Nim library with python-like functions, syntax sugars and libraries",
+    "license": "MIT",
+    "web": "https://nimpylib.org",
+    "doc": "https://docs.nimpylib.org"
+  },
+  {
+    "name": "NPython",
+    "url": "https://github.com/nimpylib/NPython",
+    "method": "git",
+    "tags": [
+      "python",
+      "vm",
+      "interpreter",
+      "language",
+      "javascript",
+      "node.js"
+    ],
+    "description": "Python interpreter implemented in Nim, supporting JS backends",
     "license": "MIT",
     "web": "https://nimpylib.org"
   },
@@ -36273,7 +36303,7 @@
     "license": "MIT",
     "web": "https://github.com/nervecenter/nimgnuplot"
   },
-    {
+  {
     "name": "cipherlib",
     "url": "https://github.com/ph4mished/cipherlib",
     "method": "git",
@@ -36292,4 +36322,63 @@
     "license": "MIT",
     "web": "https://github.com/ph4mished/cipherlib"
   },
+  {
+    "name": "uctl",
+    "url": "https://github.com/litlighilit/uctl",
+    "method": "git",
+    "tags": [
+      "cli",
+      "utility",
+      "tool",
+      "unix",
+      "linux"
+    ],
+    "description": "a small UNIX control & query cli, for battery status, screen brightness, console font, etc.",
+    "license": "MIT"
+  },
+  {
+    "name": "url",
+    "url": "https://github.com/xTrayambak/url",
+    "method": "git",
+    "tags": [
+      "whatwg",
+      "url",
+      "parser",
+      "simd",
+      "sse2"
+    ],
+    "description": "A high-performance URL parser based on the WHATWG standard.",
+    "license": "BSD-3",
+    "web": "https://github.com/xTrayambak/url"
+  },
+  {
+    "name": "hashtree_abi",
+    "url": "https://github.com/OffchainLabs/hashtree",
+    "method": "git",
+    "tags": [
+      "library",
+      "ssz",
+      "serialization",
+      "ethereum",
+      "hash",
+      "crypto",
+      "sha256"
+    ],
+    "description": "Low-level ABI package for hashtree, a SHA256 implementation specialized for merkle trees and 64-byte chunks",
+    "license": "MIT",
+    "web": "https://github.com/OffchainLabs/hashtree"
+  },
+  {
+    "name": "Nim_for_AviUtl",
+    "url": "https://github.com/K-Kentaro-dev/Nim_for_AviUtl",
+    "method": "git",
+    "tags": [
+      "library",
+      "wrapper",
+      "lua"
+    ],
+    "description": "This is a tool to make AviUtl's dll script.",
+    "license": "MIT",
+    "web": "https://github.com/K-Kentaro-dev/Nim_for_AviUtl"
+  }
 ]
