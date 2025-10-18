@@ -22518,6 +22518,18 @@
     "web": "https://github.com/guzba/zippy"
   },
   {
+    "name": "nimlzf",
+    "url": "https://github.com/Anuken/nimlzf",
+    "method": "git",
+    "tags": [
+      "compression",
+      "lzf"
+    ],
+    "description": "Nim wrapper of the liblzf C library.",
+    "license": "MIT",
+    "web": "https://github.com/Anuken/nimlzf"
+  },
+  {
     "name": "edlib",
     "url": "https://github.com/bio-nim/nim-edlib",
     "method": "git",
