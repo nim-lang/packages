@@ -1,5 +1,18 @@
 [
 
+  {"name": "nimyottadb",
+   "url": "https://github.com/ljoeckel/nim-yottadb",
+   "method": "git",
+    "tags": [
+      "database",
+      "nosql",
+      "binding",
+      "dsl",
+    ],
+    "description": "Bindings and a high-level interface with DSL for the YottaDB NoSQL database",
+    "license": "MIT",
+    "web": "https://github.com/ljoeckel/nim-yottadb"
+  },
   {"name": "uleb128",
    "url": "https://github.com/bk20x/uleb128",
    "method": "git",
