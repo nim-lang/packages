@@ -1,5 +1,19 @@
 [
   {
+    "name": "owasp_encoder",
+    "url": "https://github.com/superkelvint/owasp-encoder-nim",
+    "method": "git",
+    "tags": [
+      "owasp_encoder",
+      "encoding",
+      "xss",
+      "security"
+    ],
+    "description": "A Nim port of the OWASP Java Encoder library for context-aware, secure output encoding to prevent XSS attacks",
+    "license": "BSD-3-Clause",
+    "web": "https://github.com/superkelvint/owasp-encoder-nim"
+  },
+  {
     "name": "nimyottadb",
     "url": "https://github.com/ljoeckel/nim-yottadb",
     "method": "git",
