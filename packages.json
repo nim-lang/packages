@@ -1,34 +1,36 @@
 [
   {
-      "name": "owasp_encoder",
-      "url": "https://github.com/superkelvint/owasp-encoder-nim",
-      "method": "git",
-      "tags": [
-        "owasp_encoder",
-        "encoding",
-        "xss",
-        "security"
-      ],
-      "description": "A Nim port of the OWASP Java Encoder library for context-aware, secure output encoding to prevent XSS attacks",
-      "license": "BSD-3-Clause",
-      "web": "https://github.com/superkelvint/owasp-encoder-nim"
+    "name": "owasp_encoder",
+    "url": "https://github.com/superkelvint/owasp-encoder-nim",
+    "method": "git",
+    "tags": [
+      "owasp_encoder",
+      "encoding",
+      "xss",
+      "security"
+    ],
+    "description": "A Nim port of the OWASP Java Encoder library for context-aware, secure output encoding to prevent XSS attacks",
+    "license": "BSD-3-Clause",
+    "web": "https://github.com/superkelvint/owasp-encoder-nim"
   },
-  {"name": "nimyottadb",
-   "url": "https://github.com/ljoeckel/nim-yottadb",
-   "method": "git",
+  {
+    "name": "nimyottadb",
+    "url": "https://github.com/ljoeckel/nim-yottadb",
+    "method": "git",
     "tags": [
       "database",
       "nosql",
       "binding",
-      "dsl",
+      "dsl"
     ],
     "description": "Bindings and a high-level interface with DSL for the YottaDB NoSQL database",
     "license": "MIT",
     "web": "https://github.com/ljoeckel/nim-yottadb"
   },
-  {"name": "uleb128",
-   "url": "https://github.com/bk20x/uleb128",
-   "method": "git",
+  {
+    "name": "uleb128",
+    "url": "https://github.com/bk20x/uleb128",
+    "method": "git",
     "tags": [
       "encode",
       "decode",
@@ -43,14 +45,14 @@
     "url": "https://github.com/ph4mished/huewheel",
     "method": "git",
     "tags": [
-      "cli", 
-      "colorize", 
-      "color", 
+      "cli",
+      "colorize",
+      "color",
       "palettes",
       "console",
       "terminal"
     ],
-    "description":  "HueWheel is a simple text coloring, styling and formatting library.",
+    "description": "HueWheel is a simple text coloring, styling and formatting library.",
     "license": "MIT",
     "web": "https://github.com/ph4mished/huewheel"
   },
@@ -36432,5 +36434,23 @@
     "description": "Generator-based bindings for Qt/QML",
     "license": "MIT",
     "web": "https://github.com/seaqt/nim-seaqt"
+  },
+  {
+    "name": "pkgit",
+    "url": "https://github.com/dacctal/pkgit",
+    "method": "git",
+    "tags": [
+      "package",
+      "manager",
+      "git",
+      "source",
+      "build",
+      "dependency",
+      "cli",
+      "tool"
+    ],
+    "description": "unconventional package manager",
+    "license": "GPL-3.0-or-later",
+    "web": "https://github.com/dacctal/pkgit"
   }
 ]
