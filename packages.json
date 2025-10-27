@@ -40,9 +40,13 @@
     "license": "MIT",
     "web": "https://github.com/bk20x/uleb128"
   },
-  {
+   {
     "name": "huewheel",
-    "url": "https://github.com/ph4mished/huewheel",
+    "alias": "spectra",
+  },
+  {
+    "name": "spectra",
+    "url": "https://github.com/ph4mished/spectra",
     "method": "git",
     "tags": [
       "cli",
@@ -52,9 +56,9 @@
       "console",
       "terminal"
     ],
-    "description": "HueWheel is a simple text coloring, styling and formatting library.",
+    "description": "Spectra is a simple text coloring, styling and formatting library(terminal coloring).",
     "license": "MIT",
-    "web": "https://github.com/ph4mished/huewheel"
+    "web": "https://github.com/ph4mished/spectra"
   },
   {
     "name": "yaclap",
