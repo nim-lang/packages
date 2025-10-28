@@ -8129,11 +8129,11 @@
     ],
     "description": "libp2p implementation in Nim",
     "license": "Apache License 2.0",
-    "web": "https://github.com/status-im/nim-libp2p"
+    "web": "https://github.com/vacp2p/nim-libp2p"
   },
   {
     "name": "libp2pdht",
-    "url": "https://github.com/status-im/nim-libp2p-dht",
+    "url": "https://github.com/codex-storage/nim-codex-dht",
     "method": "git",
     "tags": [
       "library",
@@ -8144,7 +8144,7 @@
     ],
     "description": "DHT based on the libp2p Kademlia spec",
     "license": "Apache License 2.0",
-    "web": "https://github.com/status-im/nim-libp2p"
+    "web": "https://github.com/codex-storage/nim-codex-dht"
   },
   {
     "name": "nitro",
