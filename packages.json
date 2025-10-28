@@ -8004,6 +8004,20 @@
     "web": "https://github.com/status-im/nim-json-serialization"
   },
   {
+    "name": "cbor_serialization",
+    "url": "https://github.com/vacp2p/nim-cbor-serialization",
+    "method": "git",
+    "tags": [
+      "library",
+      "binary",
+      "cbor",
+      "serialization"
+    ],
+    "description": "Flexible CBOR serialization not relying on run-time type information",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/vacp2p/nim-cbor-serialization"
+  },
+  {
     "name": "ssz_serialization",
     "url": "https://github.com/status-im/nim-ssz-serialization",
     "method": "git",
