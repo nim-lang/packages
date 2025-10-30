@@ -40,9 +40,9 @@
     "license": "MIT",
     "web": "https://github.com/bk20x/uleb128"
   },
-   {
+  {
     "name": "huewheel",
-    "alias": "spectra",
+    "alias": "spectra"
   },
   {
     "name": "spectra",
@@ -36486,5 +36486,24 @@
     "description": "Noise protocol framework implementation in Nim",
     "license": "MIT",
     "web": "https://github.com/kaichaosun/nim-noise"
+  },
+  {
+    "name": "nimtest",
+    "url": "https://github.com/codenimja/nimtest",
+    "method": "git",
+    "tags": [
+      "nim-lang",
+      "testing",
+      "ubit-testing",
+      "automation",
+      "benchmarking",
+      "tdd",
+      "nim",
+      "cli-testing",
+      "qua"
+    ],
+    "description": "Comprehensive testing framework for Nim",
+    "license": "MIT",
+    "web": "https://github.com/codenimja/nimtest"
   }
 ]
