@@ -28286,7 +28286,7 @@
   },
   {
     "name": "nimtest",
-    "url": "https://github.com/avahe-kellenberger/nimtest",
+    "url": "https://github.com/boonzy/nimtest",
     "method": "git",
     "tags": [
       "nim",
@@ -28295,7 +28295,7 @@
     ],
     "description": "Simple testing framework for Nim",
     "license": "GPL-2.0-only",
-    "web": "https://github.com/avahe-kellenberger/nimtest"
+    "web": "https://github.com/boonzy/nimtest"
   },
   {
     "name": "jitter",
