@@ -23083,6 +23083,22 @@
     "web": "https://github.com/guzba/nimsimd"
   },
   {
+    "name": "nimsync",
+    "url": "https://github.com/codenimja/nimsync",
+    "method": "git",
+    "tags": [
+      "async",
+      "concurrency",
+      "channels",
+      "lock-free",
+      "performance",
+      "structured-concurrency"
+    ],
+    "description": "Production-ready async runtime with lock-free SPSC channels (615M ops/sec, 31ns P99)",
+    "license": "MIT",
+    "web": "https://github.com/codenimja/nimsync"
+  },
+  {
     "name": "rnim",
     "url": "https://github.com/SciNim/rnim",
     "method": "git",
