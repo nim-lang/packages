@@ -35121,10 +35121,13 @@
     "web": "https://github.com/cycneuramus/nimpsort"
   },
   {
-    "name": "kuzu",
-    "url": "https://github.com/mahlonsmith/nim-kuzu",
+    "name": "ladybug",
+    "url": "https://github.com/mahlonsmith/nim-ladybug",
     "method": "git",
     "tags": [
+      "ladybug",
+      "ladybugdb",
+      "lbug",
       "kuzu",
       "kuzudb",
       "library",
@@ -35132,9 +35135,9 @@
       "database",
       "graph"
     ],
-    "description": "A wrapper for Kuzu: an embedded graph database built for query speed and scalability.",
+    "description": "A wrapper for LadybugDB: an embedded graph database built for query speed and scalability.",
     "license": "BSD-3-Clause",
-    "web": "https://kuzudb.com/"
+    "web": "https://ladybugdb.com/"
   },
   {
     "name": "shark",
