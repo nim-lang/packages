@@ -36502,5 +36502,21 @@
     "description": "Noise protocol framework implementation in Nim",
     "license": "MIT",
     "web": "https://github.com/kaichaosun/nim-noise"
+  },
+  {
+    "name": "textalot",
+    "url": "https://github.com/erayzesen/textalot",
+    "method": "git",
+    "tags": [
+      "tui",
+      "terminal",
+      "input",
+      "curses",
+      "ui",
+      "render"
+    ],
+    "description": "A High-Performance Terminal I/O & TUI Engine written in Nim",
+    "license": "MIT",
+    "web": "https://github.com/erayzesen/textalot"
   }
 ]
