@@ -61,6 +61,20 @@
     "web": "https://github.com/ph4mished/spectra"
   },
   {
+    "name": "sparc",
+    "url": "https://github.com/ph4mished/sparc",
+    "method": "git",
+    "tags": [
+      "console",
+      "command-line",
+      "cli",
+      "parser"  
+    ],
+    "description": "Schema Parser for Arguments and Commands.",
+    "license": "MIT",
+    "web": "https://github.com/ph4mished/sparc"
+  },
+  {
     "name": "yaclap",
     "url": "https://codeberg.org/emanresu3/yaclap",
     "method": "git",
