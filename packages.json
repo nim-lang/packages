@@ -36563,5 +36563,20 @@
     "description": "A high-performance, archetype-based Entity Component System for Nim.",
     "license": "MIT",
     "web": "https://hammer2900.github.io/naecs/"
+  },
+  {
+    "name": "quickselect",
+    "url": "https://github.com/nnsee/nim-quickselect",
+    "method": "git",
+    "tags": [
+      "quickselect",
+      "quicksort",
+      "selection",
+      "select",
+      "floyd-rivest"
+    ],
+    "description": "Nim implementations of the QuickSelect and Floyd-Rivest selection algorithms",
+    "license": "MIT",
+    "web": "https://git.dog/xx/nim-quickselect"
   }
 ]
