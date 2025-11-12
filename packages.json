@@ -40,9 +40,9 @@
     "license": "MIT",
     "web": "https://github.com/bk20x/uleb128"
   },
-   {
+  {
     "name": "huewheel",
-    "alias": "spectra",
+    "alias": "spectra"
   },
   {
     "name": "spectra",
@@ -68,7 +68,7 @@
       "console",
       "command-line",
       "cli",
-      "parser"  
+      "parser"
     ],
     "description": "Schema Parser for Arguments and Commands.",
     "license": "MIT",
@@ -36578,5 +36578,20 @@
     "description": "Nim implementations of the QuickSelect and Floyd-Rivest selection algorithms",
     "license": "MIT",
     "web": "https://git.dog/xx/nim-quickselect"
+  },
+  {
+    "name": "pexels",
+    "url": "https://github.com/openpeeps/nim-pexels",
+    "method": "git",
+    "tags": [
+      "client",
+      "library",
+      "pexels",
+      "photo",
+      "api"
+    ],
+    "description": "Nim library for the Pexels API",
+    "license": "MIT",
+    "web": "https://github.com/openpeeps/nim-pexels"
   }
 ]
