@@ -36593,5 +36593,19 @@
     "description": "Nim library for the Pexels API",
     "license": "MIT",
     "web": "https://github.com/openpeeps/nim-pexels"
+  },
+  {
+    "name": "geecode",
+    "url": "https://github.com/elcritch/geecode",
+    "method": "git",
+    "tags": [
+      "gcode",
+      "parser",
+      "g-code",
+      "RS-274"
+    ],
+    "description": "G-Code parser",
+    "license": "MIT",
+    "web": "https://github.com/elcritch/geecode"
   }
 ]
