@@ -36593,5 +36593,18 @@
     "description": "Nim library for the Pexels API",
     "license": "MIT",
     "web": "https://github.com/openpeeps/nim-pexels"
+  },
+  {
+    "name": "cborious",
+    "url": "https://github.com/elcritch/cborious",
+    "method": "git",
+    "tags": [
+      "cbor",
+      "RFC",
+      "8949"
+    ],
+    "description": "A new awesome nimble package",
+    "license": "Apache-2.0",
+    "web": "https://github.com/elcritch/cborious"
   }
 ]
