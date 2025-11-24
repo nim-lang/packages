@@ -36606,5 +36606,17 @@
     "description": "A new awesome nimble package",
     "license": "Apache-2.0",
     "web": "https://github.com/elcritch/cborious"
+    "name": "geecode",
+    "url": "https://github.com/elcritch/geecode",
+    "method": "git",
+    "tags": [
+      "gcode",
+      "parser",
+      "g-code",
+      "RS-274"
+    ],
+    "description": "G-Code parser",
+    "license": "MIT",
+    "web": "https://github.com/elcritch/geecode"
   }
 ]
