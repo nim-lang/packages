@@ -4,7 +4,7 @@ jobs:
   default:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v6
       - uses: iffy/install-nim@v5.1.1
         with:
           version: stable
