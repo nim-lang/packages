@@ -1,5 +1,17 @@
 [
   {
+    "name": "nimproto3",
+    "url": "https://github.com/YesDrX/nimproto3",
+    "method": "git",
+    "tags": [
+      "protobuf",
+      "grpc"
+    ],
+    "description": "A Nim implementation of Protocol Buffers 3 (proto3) with support for parsing .proto files, generating Nim code, serializing/deserializing data in both binary (protobuf wire format) and JSON formats, and gRPC server/client.",
+    "license": "MIT",
+    "web": "https://github.com/YesDrX/nimproto3"
+  },
+  {
     "name": "owasp_encoder",
     "url": "https://github.com/superkelvint/owasp-encoder-nim",
     "method": "git",
