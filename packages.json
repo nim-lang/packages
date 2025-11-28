@@ -36635,5 +36635,17 @@
     "description": "JSON Web Token Library",
     "license": "MIT",
     "web": "https://github.com/openpeeps/webtokens"
+  },
+  {
+    "name": "qpdf",
+    "url": "https://github.com/fox0430/nim-qpdf",
+    "method": "git",
+    "tags": [
+      "binding",
+      "pdf"
+    ],
+    "description": "Nim bindings for qpdf C++ library",
+    "license": "MIT",
+    "web": "https://github.com/fox0430/nim-qpdf"
   }
 ]
