@@ -1,5 +1,17 @@
 [
   {
+    "name": "nimodbclite",
+    "url": "https://github.com/YesDrX/nimodbclite",
+    "method": "git",
+    "tags": [
+      "sql",
+      "odbc"
+    ],
+    "description": "A lite odbc wrapper for nim.",
+    "license": "MIT",
+    "web": "https://github.com/YesDrX/nimodbclite"
+  },
+  {
     "name": "nimproto3",
     "url": "https://github.com/YesDrX/nimproto3",
     "method": "git",
