@@ -36659,5 +36659,18 @@
     "description": "Nim bindings for qpdf C++ library",
     "license": "MIT",
     "web": "https://github.com/fox0430/nim-qpdf"
+  },
+  {
+    "name": "ghostscript",
+    "url": "https://github.com/fox0430/nim-ghostscript",
+    "method": "git",
+    "tags": [
+      "binding",
+      "pdf",
+      "script"
+    ],
+    "description": "Nim bindings for Ghostscript",
+    "license": "MIT",
+    "web": "https://github.com/fox0430/nim-ghostscript"
   }
 ]
