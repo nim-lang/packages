@@ -11391,6 +11391,22 @@
     "web": "https://github.com/yglukhov/typelists"
   },
   {
+    "name": "typestates",
+    "url": "https://github.com/elijahr/nim-typestates",
+    "method": "git",
+    "tags": [
+      "state-machine",
+      "design-patterns",
+      "nim-lang",
+      "correct-by-construction",
+      "typestate"
+    ],
+    "description": "Compile-time state machine validation for Nim. Invalid transitions don't compile.",
+    "license": "MIT",
+    "web": "https://github.com/elijahr/nim-typestates",
+    "doc": "https://elijahr.github.io/nim-typestates/"
+  },
+  {
     "name": "sol",
     "url": "https://github.com/davidgarland/sol",
     "method": "git",
