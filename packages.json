@@ -36702,5 +36702,18 @@
     "description": "Nim bindings for Ghostscript",
     "license": "MIT",
     "web": "https://github.com/fox0430/nim-ghostscript"
+  },
+  {
+    "name": "mimedb",
+    "url": "https://github.com/openpeeps/mimedb",
+    "method": "git",
+    "tags": [
+      "files",
+      "filetypes",
+      "mime"
+    ],
+    "description": "A large Database of MIME types",
+    "license": "MIT",
+    "web": "https://github.com/openpeeps/mimedb"
   }
 ]
