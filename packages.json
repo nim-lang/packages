@@ -36727,5 +36727,23 @@
     "description": "Nim bindings for PoDoFo libary",
     "license": "MIT",
     "web": "https://github.com/fox0430/nim-podofo"
+  },
+  {
+    "name": "kirpi",
+    "url": "https://github.com/erayzesen/kirpi",
+    "method": "git",
+    "tags": [
+      "game",
+      "2d",
+      "framework",
+      "graphics",
+      "develop",
+      "löve2d",
+      "naylib"
+    ],
+    "description": "A lightweight 2D game framework for Nim",
+    "license": "MIT",
+    "web": "https://github.com/erayzesen/kirpi"
   }
+
 ]
