@@ -1,0 +1,13 @@
+on: push
+
+jobs:
+  default:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - uses: iffy/install-nim@v5.1.1
+        with:
+          version: stable
+      - run: nim c -d:ssl -r -d:release package_scanner.nim packages.json
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

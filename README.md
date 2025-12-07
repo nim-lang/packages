@@ -1,10 +1,10 @@
-# Nim packages [![Build Status](https://travis-ci.org/nim-lang/packages.svg?branch=master)](https://travis-ci.org/nim-lang/packages)
+# Nim packages
 
 This is a central listing of all packages for
 [Nimble](https://github.com/nim-lang/nimble), a package manager for the
 [Nim programming language](http://nim-lang.org).
 
-An overview of all the package is available at https://nimble.directory.
+An overview of all packages is available at https://nimble.directory or https://nimpkgs.dayl.in.
 
 NOTE: The packages listed here are not peer-reviewed or otherwise screened. We try to keep the list up-to-date but we cannot guarantee quality or maturity of the packages.
 
@@ -35,7 +35,7 @@ While we really appreciate your contribution, please follow the requirements: ot
 * The URL should work, a .nimble file should be present and the package should be installable
 * The package should build correctly with the latest Nim release
 * The package should not contain files without a license or in breach of 3rd parties licensing
-* Non-mature packages should be flagged as such, especially if they perform security-critical tasks (e.g. encryption)
+* Non-mature packages should be flagged as such by opening an issue here with a good explanation on how they are non-mature, especially if they perform security-critical tasks (e.g. encryption)
 * If a vulnerability is found, make a patch release against the latest stable release (or more) that fixes the issue without introducing any other change.
 * Tiny libraries should be avoided where possible
 * Avoid having many dependencies. Use "when defined(...)" to enable optional features.
@@ -52,6 +52,15 @@ above required fields correctly, the package that ``url`` points to must also
 contain a .nimble file, or else it will be rejected.
 
 The requirements might change in future.
+
+## Releasing a new package version
+
+The version number in the directory is derived from git tags (not the `version` field in the `.nimble` script). To release a new version of a package, follow the [instructions from the Nimble readme](https://github.com/nim-lang/nimble#releasing-a-new-version):
+
+> * Increment the version in your ``.nimble`` file.
+> * Commit your changes.
+> * Tag your release, by for example running ``git tag v0.2.0``.
+> * Push your tags and commits.
 
 ## Renaming packages
 
@@ -80,3 +89,7 @@ For example:
 ...
 ```
 
+# License
+
+* `package_scanner.nim` - [GPLv3](LICENSE-GPLv3.txt)
+* Everything else - [CC-BY-4.0](LICENSE.txt)
