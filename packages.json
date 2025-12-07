@@ -36717,6 +36717,17 @@
     "web": "https://github.com/openpeeps/mimedb"
   },
   {
+    "name": "stfrunner",
+    "url": "https://github.com/flenniken/stfrunner",
+    "method": "git",
+    "tags": [
+      "test",
+      "stf"
+    ],
+    "description": "A single test file runner.",
+    "license": "MIT",
+    "web": "https://github.com/flenniken/stfrunner"
+  },  {
     "name": "podofo",
     "url": "https://github.com/fox0430/nim-podofo",
     "method": "git",
