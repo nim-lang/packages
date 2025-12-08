@@ -1,5 +1,17 @@
 [
-
+  {"name": "hashbrowns",
+    "url": "https://github.com/bk20x/Hashbrowns",
+    "method": "git",
+    "tags": [
+      "hash",
+      "hashing",
+      "utility",
+      "gui"
+    ],
+    "description": "Small GUI utility for hashing files or mass hashing directories",
+    "license": "MIT",
+    "web": "https://github.com/bk20x/Hashbrowns"
+  },
   {"name": "uleb128",
    "url": "https://github.com/bk20x/uleb128",
    "method": "git",
