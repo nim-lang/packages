@@ -11391,6 +11391,22 @@
     "web": "https://github.com/yglukhov/typelists"
   },
   {
+    "name": "typestates",
+    "url": "https://github.com/elijahr/nim-typestates",
+    "method": "git",
+    "tags": [
+      "state-machine",
+      "design-patterns",
+      "nim-lang",
+      "correct-by-construction",
+      "typestate"
+    ],
+    "description": "Compile-time state machine validation for Nim. Invalid transitions don't compile.",
+    "license": "MIT",
+    "web": "https://github.com/elijahr/nim-typestates",
+    "doc": "https://elijahr.github.io/nim-typestates/"
+  },
+  {
     "name": "sol",
     "url": "https://github.com/davidgarland/sol",
     "method": "git",
@@ -12995,6 +13011,20 @@
     "description": "Fast CSV parser with hooks.",
     "license": "MIT",
     "web": "https://github.com/treeform/tabby"
+  },
+  {
+    "name": "nimby",
+    "url": "https://github.com/treeform/nimby",
+    "method": "git",
+    "tags": [
+      "packages",
+      "lockfile",
+      "install",
+      "ci"
+    ],
+    "description": "Unofficial package manager and installer.",
+    "license": "MIT",
+    "web": "https://github.com/treeform/nimby"
   },
   {
     "name": "xdo",
@@ -36659,5 +36689,61 @@
     "description": "Nim bindings for qpdf C++ library",
     "license": "MIT",
     "web": "https://github.com/fox0430/nim-qpdf"
+  },
+  {
+    "name": "ghostscript",
+    "url": "https://github.com/fox0430/nim-ghostscript",
+    "method": "git",
+    "tags": [
+      "binding",
+      "pdf",
+      "script"
+    ],
+    "description": "Nim bindings for Ghostscript",
+    "license": "MIT",
+    "web": "https://github.com/fox0430/nim-ghostscript"
+  },
+  {
+    "name": "mimedb",
+    "url": "https://github.com/openpeeps/mimedb",
+    "method": "git",
+    "tags": [
+      "files",
+      "filetypes",
+      "mime"
+    ],
+    "description": "A large Database of MIME types",
+    "license": "MIT",
+    "web": "https://github.com/openpeeps/mimedb"
+  },
+  {
+    "name": "podofo",
+    "url": "https://github.com/fox0430/nim-podofo",
+    "method": "git",
+    "tags": [
+      "binding",
+      "pdf"
+    ],
+    "description": "Nim bindings for PoDoFo libary",
+    "license": "MIT",
+    "web": "https://github.com/fox0430/nim-podofo"
+  },
+  {
+    "name": "kirpi",
+    "url": "https://github.com/erayzesen/kirpi",
+    "method": "git",
+    "tags": [
+      "game",
+      "2d",
+      "framework",
+      "graphics",
+      "develop",
+      "löve2d",
+      "naylib"
+    ],
+    "description": "A lightweight 2D game framework for Nim",
+    "license": "MIT",
+    "web": "https://github.com/erayzesen/kirpi"
   }
+
 ]
