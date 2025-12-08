@@ -36741,7 +36741,8 @@
     "description": "A single test file runner.",
     "license": "MIT",
     "web": "https://github.com/flenniken/stfrunner"
-  },  {
+  },
+  {
     "name": "podofo",
     "url": "https://github.com/fox0430/nim-podofo",
     "method": "git",
@@ -36781,5 +36782,18 @@
     "description": "Nim bindings for Apache Xerces-C++",
     "license": "MIT",
     "web": "https://github.com/fox0430/nim-xerces"
+  },
+  {
+    "name": "tide",
+    "url": "https://github.com/arungeorgesaji/tide",
+    "method": "git",
+    "tags": [
+      "editor",
+      "terminal",
+      "tui"
+    ],
+    "description": "Modular terminal editor framework",
+    "license": "MIT",
+    "web": "https://github.com/arungeorgesaji/tide"
   }
 ]
