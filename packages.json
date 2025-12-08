@@ -1,5 +1,19 @@
 [
   {
+    "name": "nim_debugger_mi",
+    "url": "https://github.com/YesDrX/nimdebugger",
+    "method": "git",
+    "tags": [
+      "gdb",
+      "lldb",
+      "debugger",
+      "debug"
+    ],
+    "description": "A gdb/lldb machine interface proxy to deal with nim symbol name mangle/demangle.",
+    "license": "MIT",
+    "web": "https://github.com/YesDrX/nimdebugger"
+  },
+  {
     "name": "nimodbclite",
     "url": "https://github.com/YesDrX/nimodbclite",
     "method": "git",
