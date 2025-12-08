@@ -36769,6 +36769,17 @@
     "description": "A lightweight 2D game framework for Nim",
     "license": "MIT",
     "web": "https://github.com/erayzesen/kirpi"
+  },
+  {
+    "name": "xerces",
+    "url": "https://github.com/fox0430/nim-xerces",
+    "method": "git",
+    "tags": [
+      "binding",
+      "xml"
+    ],
+    "description": "Nim bindings for Apache Xerces-C++",
+    "license": "MIT",
+    "web": "https://github.com/fox0430/nim-xerces"
   }
-
 ]
