@@ -36809,5 +36809,18 @@
     "description": "Modular terminal editor framework",
     "license": "MIT",
     "web": "https://github.com/arungeorgesaji/tide"
+  },
+  {
+    "name": "asyncchannels",
+    "url": "https://github.com/status-im/nim-async-channels",
+    "method": "git",
+    "tags": [
+      "chronos",
+      "threads",
+      "async"
+    ],
+    "description": "Thread-safe channels for chronos",
+    "license": "MIT",
+    "web": "https://github.com/status-im/nim-async-channels"
   }
 ]
