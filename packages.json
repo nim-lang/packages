@@ -11421,6 +11421,20 @@
     "doc": "https://elijahr.github.io/nim-typestates/"
   },
   {
+    "name": "debra",
+    "url": "https://github.com/elijahr/nim-debra",
+    "method": "git",
+    "tags": [
+      "memory-management",
+      "lock-free",
+      "debra"
+    ],
+    "description": "DEBRA+ safe memory reclamation for lock-free data structures.",
+    "license": "MIT",
+    "web": "https://github.com/elijahr/nim-debra",
+    "doc": "https://elijahr.github.io/nim-debra/"
+  },
+  {
     "name": "sol",
     "url": "https://github.com/davidgarland/sol",
     "method": "git",
