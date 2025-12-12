@@ -36822,5 +36822,20 @@
     "description": "Thread-safe channels for chronos",
     "license": "MIT",
     "web": "https://github.com/status-im/nim-async-channels"
+  },
+  {
+    "name": "valkey",
+    "url": "https://github.com/pshankinclarke/valkey-nim",
+    "method": "git",
+    "tags": [
+      "valkey",
+      "redis",
+      "database",
+      "driver",
+      "async"
+    ],
+    "description": "Pure Nim async client for Valkey (Redis-compatible database), forked from nim-lang/redis",
+    "license": "MIT",
+    "web": "https://github.com/pshankinclarke/valkey-nim"
   }
 ]
