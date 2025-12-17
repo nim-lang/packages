@@ -11421,6 +11421,20 @@
     "doc": "https://elijahr.github.io/nim-typestates/"
   },
   {
+    "name": "debra",
+    "url": "https://github.com/elijahr/nim-debra",
+    "method": "git",
+    "tags": [
+      "memory-management",
+      "lock-free",
+      "debra"
+    ],
+    "description": "DEBRA+ safe memory reclamation for lock-free data structures.",
+    "license": "MIT",
+    "web": "https://github.com/elijahr/nim-debra",
+    "doc": "https://elijahr.github.io/nim-debra/"
+  },
+  {
     "name": "sol",
     "url": "https://github.com/davidgarland/sol",
     "method": "git",
@@ -36731,6 +36745,18 @@
     "web": "https://github.com/openpeeps/mimedb"
   },
   {
+    "name": "stfrunner",
+    "url": "https://github.com/flenniken/stfrunner",
+    "method": "git",
+    "tags": [
+      "test",
+      "stf"
+    ],
+    "description": "A single test file runner.",
+    "license": "MIT",
+    "web": "https://github.com/flenniken/stfrunner"
+  },
+  {
     "name": "podofo",
     "url": "https://github.com/fox0430/nim-podofo",
     "method": "git",
@@ -36758,6 +36784,58 @@
     "description": "A lightweight 2D game framework for Nim",
     "license": "MIT",
     "web": "https://github.com/erayzesen/kirpi"
+  },
+  {
+    "name": "xerces",
+    "url": "https://github.com/fox0430/nim-xerces",
+    "method": "git",
+    "tags": [
+      "binding",
+      "xml"
+    ],
+    "description": "Nim bindings for Apache Xerces-C++",
+    "license": "MIT",
+    "web": "https://github.com/fox0430/nim-xerces"
+  },
+  {
+    "name": "tide",
+    "url": "https://github.com/arungeorgesaji/tide",
+    "method": "git",
+    "tags": [
+      "editor",
+      "terminal",
+      "tui"
+    ],
+    "description": "Modular terminal editor framework",
+    "license": "MIT",
+    "web": "https://github.com/arungeorgesaji/tide"
+  },
+  {
+    "name": "asyncchannels",
+    "url": "https://github.com/status-im/nim-async-channels",
+    "method": "git",
+    "tags": [
+      "chronos",
+      "threads",
+      "async"
+    ],
+    "description": "Thread-safe channels for chronos",
+    "license": "MIT",
+    "web": "https://github.com/status-im/nim-async-channels"
+  },
+  {
+    "name": "valkey",
+    "url": "https://github.com/pshankinclarke/valkey-nim",
+    "method": "git",
+    "tags": [
+      "valkey",
+      "redis",
+      "database",
+      "driver",
+      "async"
+    ],
+    "description": "Pure Nim async client for Valkey (Redis-compatible database), forked from nim-lang/redis",
+    "license": "MIT",
+    "web": "https://github.com/pshankinclarke/valkey-nim"
   }
-
 ]
