@@ -9908,6 +9908,7 @@
     "url": "https://github.com/nimpylib/nimpylib",
     "method": "git",
     "tags": [
+      "pylib",
       "python",
       "compatibility",
       "library",
@@ -9925,6 +9926,7 @@
     "url": "https://github.com/nimpylib/NPython",
     "method": "git",
     "tags": [
+      "pylib",
       "python",
       "vm",
       "interpreter",
@@ -9933,6 +9935,21 @@
       "node.js"
     ],
     "description": "Python interpreter implemented in Nim, supporting JS backends",
+    "license": "MIT",
+    "web": "https://nimpylib.org"
+  },
+  {
+    "name": "pyrepr",
+    "url": "https://github.com/nimpylib/pyrepr",
+    "method": "git",
+    "tags": [
+      "library",
+      "pylib",
+      "python",
+      "utils",
+      "repr"
+    ],
+    "description": "Python-like repr, ascii, hex/oct/bin, ...",
     "license": "MIT",
     "web": "https://nimpylib.org"
   },
@@ -36851,7 +36868,7 @@
     "license": "MIT",
     "web": "https://github.com/pshankinclarke/valkey-nim"
   },
-    {
+  {
     "name": "nimpacket",
     "url": "https://github.com/0x57Origin/NimPacket",
     "method": "git",
@@ -36867,4 +36884,3 @@
     "web": "https://nim-packet-website.vercel.app"
   }
 ]
-
