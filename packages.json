@@ -36850,5 +36850,21 @@
     "description": "Pure Nim async client for Valkey (Redis-compatible database), forked from nim-lang/redis",
     "license": "MIT",
     "web": "https://github.com/pshankinclarke/valkey-nim"
+  },
+    {
+    "name": "nimpacket",
+    "url": "https://github.com/0x57Origin/NimPacket",
+    "method": "git",
+    "tags": [
+      "networking",
+      "packets",
+      "security",
+      "raw-sockets",
+      "protocols"
+    ],
+    "description": "Low-level packet crafting and raw socket networking library for Nim",
+    "license": "MIT",
+    "web": "https://nim-packet-website.vercel.app"
   }
 ]
+
