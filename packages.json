@@ -12,18 +12,6 @@
     "license": "MIT",
     "web": "https://github.com/bk20x/Hashbrowns"
   },
-  {"name": "uleb128",
-   "url": "https://github.com/bk20x/uleb128",
-   "method": "git",
-    "tags": [
-      "encode",
-      "decode",
-      "encoding"
-    ],
-    "description": "uleb128 decoding/encoding for Nim.",
-    "license": "MIT",
-    "web": "https://github.com/bk20x/uleb128"
-  },
   {
     "name": "subprocess",
     "url": "https://github.com/YesDrX/nim-subprocess",
