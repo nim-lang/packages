@@ -41,19 +41,6 @@
     "web": "https://github.com/YesDrX/nim-subprocess"
   },
   {
-    "name": "subprocess",
-    "url": "https://github.com/YesDrX/nim-subprocess",
-    "method": "git",
-    "tags": [
-      "subprocess",
-      "process",
-      "child_process"
-    ],
-    "description": "A cross-platform subprocess management library for Nim that makes redirecting stdin/stdout/stderr easy.",
-    "license": "MIT",
-    "web": "https://github.com/YesDrX/nim-subprocess"
-  },
-  {
     "name": "nim_debugger_mi",
     "url": "https://github.com/YesDrX/nimdebugger",
     "method": "git",
