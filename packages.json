@@ -1,4 +1,19 @@
 [
+  {"name": "treestand",
+    "url": "https://github.com/YesDrX/nim-treestand",
+    "method": "git",
+    "tags": [
+      "tree-sitter",
+      "treesitter",
+      "tree-stand",
+      "treestand",
+      "parser",
+      "peg"
+    ],
+    "description": "A full tree-sitter (parser generator) clone/re-implementation for nim with powerful macros.",
+    "license": "MIT",
+    "web": "https://github.com/YesDrX/nim-treestand"
+  },
   {"name": "hashbrowns",
     "url": "https://github.com/bk20x/Hashbrowns",
     "method": "git",
