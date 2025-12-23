@@ -1,5 +1,6 @@
 [
-  {"name": "treestand",
+  {
+    "name": "treestand",
     "url": "https://github.com/YesDrX/nim-treestand",
     "method": "git",
     "tags": [
@@ -14,7 +15,8 @@
     "license": "MIT",
     "web": "https://github.com/YesDrX/nim-treestand"
   },
-  {"name": "hashbrowns",
+  {
+    "name": "hashbrowns",
     "url": "https://github.com/bk20x/Hashbrowns",
     "method": "git",
     "tags": [
@@ -36910,5 +36912,22 @@
     "description": "Low-level packet crafting and raw socket networking library for Nim",
     "license": "MIT",
     "web": "https://nim-packet-website.vercel.app"
+  },
+  {
+    "name": "knot",
+    "url": "https://github.com/greenm01/knot",
+    "method": "git",
+    "tags": [
+      "kdl",
+      "parser",
+      "config",
+      "document",
+      "language",
+      "serialization",
+      "data"
+    ],
+    "description": "Production-ready KDL 2.0 document parser for Nim",
+    "license": "MIT",
+    "web": "https://github.com/greenm01/knot"
   }
 ]
