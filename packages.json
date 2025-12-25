@@ -36910,7 +36910,7 @@
     "description": "Low-level packet crafting and raw socket networking library for Nim",
     "license": "MIT",
     "web": "https://nim-packet-website.vercel.app"
-  }
+  },
   {
     "name": "nimkdl",
     "url": "https://github.com/greenm01/nimkdl",
