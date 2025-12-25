@@ -36920,4 +36920,14 @@
     "license": "MIT",
     "web": "https://github.com/greenm01/nimkdl"
   }
+  },
+  {
+    "name": "xm",
+    "url": "https://github.com/c-blake/xm",
+    "method": "git",
+    "tags": ["X11", "zoom", "magnification", "magnifier", "magnifying", "graphics"],
+    "description": "Nim rewrite of `xzoom` with many new features",
+    "license": "MIT",
+    "web": "https://github.com/c-blake/xm"
+  }
 ]
