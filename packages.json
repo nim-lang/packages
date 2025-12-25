@@ -36910,5 +36910,14 @@
     "description": "Low-level packet crafting and raw socket networking library for Nim",
     "license": "MIT",
     "web": "https://nim-packet-website.vercel.app"
+  },
+  {
+    "name": "nimkdl",
+    "url": "https://github.com/greenm01/nimkdl",
+    "method": "git",
+    "tags": ["kdl", "parser", "config", "serialization", "data", "v2"],
+    "description": "KDL 2.0 document parser with 100% spec compliance (670/670 tests)",
+    "license": "MIT",
+    "web": "https://github.com/greenm01/nimkdl"
   }
 ]
