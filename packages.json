@@ -1,5 +1,6 @@
 [
-  {"name": "treestand",
+  {
+    "name": "treestand",
     "url": "https://github.com/YesDrX/nim-treestand",
     "method": "git",
     "tags": [
@@ -14,7 +15,8 @@
     "license": "MIT",
     "web": "https://github.com/YesDrX/nim-treestand"
   },
-  {"name": "hashbrowns",
+  {
+    "name": "hashbrowns",
     "url": "https://github.com/bk20x/Hashbrowns",
     "method": "git",
     "tags": [
@@ -36915,7 +36917,14 @@
     "name": "nimkdl",
     "url": "https://github.com/greenm01/nimkdl",
     "method": "git",
-    "tags": ["kdl", "parser", "config", "serialization", "data", "v2"],
+    "tags": [
+      "kdl",
+      "parser",
+      "config",
+      "serialization",
+      "data",
+      "v2"
+    ],
     "description": "KDL 2.0 document parser with 100% spec compliance (670/670 tests)",
     "license": "MIT",
     "web": "https://github.com/greenm01/nimkdl"
@@ -36924,9 +36933,27 @@
     "name": "xm",
     "url": "https://github.com/c-blake/xm",
     "method": "git",
-    "tags": ["X11", "zoom", "magnification", "magnifier", "magnifying", "graphics"],
+    "tags": [
+      "X11",
+      "zoom",
+      "magnification",
+      "magnifier",
+      "magnifying",
+      "graphics"
+    ],
     "description": "Nim rewrite of `xzoom` with many new features",
     "license": "MIT",
     "web": "https://github.com/c-blake/xm"
+  },
+  {
+    "name": "cueconfig",
+    "url": "https://github.com/WaywardWizard/cuenim",
+    "method": "git",
+    "tags": [
+      "v1"
+    ],
+    "description": "Cue configuration with JSON fallback for Nim projects",
+    "license": "MIT",
+    "web": "https://github.com/WaywardWizard/cuenim"
   }
 ]
