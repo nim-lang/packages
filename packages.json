@@ -36947,13 +36947,20 @@
   },
   {
     "name": "cueconfig",
-    "url": "https://github.com/WaywardWizard/cuenim",
+    "url": "https://github.com/WaywardWizard/cueconfig",
     "method": "git",
     "tags": [
-      "v1"
+      "configuration",
+      "config",
+      "compiletime",
+      "cue",
+      "cuelang",
+      "json",
+      "reload",
+      "management"
     ],
     "description": "Cue configuration with JSON fallback for Nim projects",
     "license": "MIT",
-    "web": "https://github.com/WaywardWizard/cuenim"
+    "web": "https://github.com/WaywardWizard/cueconfig"
   }
 ]
