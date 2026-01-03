@@ -1,4 +1,18 @@
 [
+  {"name": "m",
+    "url": "https://github.com/bk20x/M",
+    "method": "git",
+    "tags": [
+      "scripting-language",
+      "lisp",
+      "embeddable",
+      "functional-programming",
+      "scripting"
+    ],
+    "description": "Lightweight and easily extendable / embeddable Lisp dialect with no VM and deterministic performance.",
+    "license": "BSD-3-Clause",
+    "web": "https://github.com/bk20x/M"
+  },
   {
     "name": "treestand",
     "url": "https://github.com/YesDrX/nim-treestand",
