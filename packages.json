@@ -1,5 +1,6 @@
 [
-  {"name": "m",
+  {
+    "name": "m",
     "url": "https://github.com/bk20x/M",
     "method": "git",
     "tags": [
@@ -36976,5 +36977,17 @@
     "description": "Cue configuration with JSON fallback for Nim projects",
     "license": "MIT",
     "web": "https://github.com/WaywardWizard/cueconfig"
+  },
+  {
+    "name": "oauth2",
+    "url": "https://github.com/Niminem/oauth2",
+    "method": "git",
+    "tags": [
+      "oauth",
+      "oauth2"
+    ],
+    "description": "A comprehensive OAuth2 library for Nim with support for multiple grant types, PKCE (RFC 7636), and token management utilities.",
+    "license": "MIT",
+    "web": "https://github.com/Niminem/oauth2"
   }
 ]
