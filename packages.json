@@ -36989,5 +36989,18 @@
     "description": "A comprehensive OAuth2 library for Nim with support for multiple grant types, PKCE (RFC 7636), and token management utilities.",
     "license": "MIT",
     "web": "https://github.com/Niminem/oauth2"
+  },
+  {
+    "name": "nasp",
+    "url": "https://github.com/Niminem/Nasp",
+    "method": "git",
+    "tags": [
+      "apps-script",
+      "google",
+      "api"
+    ],
+    "description": "Nasp is a CLI tool for developing Apps Script projects on your local machine using the Nim programming language.",
+    "license": "MIT",
+    "web": "https://github.com/Niminem/Nasp"
   }
 ]
