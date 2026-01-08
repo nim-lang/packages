@@ -37002,5 +37002,17 @@
     "description": "Nasp is a CLI tool for developing Apps Script projects on your local machine using the Nim programming language.",
     "license": "MIT",
     "web": "https://github.com/Niminem/Nasp"
+  },
+  {
+    "name": "ndarray",
+    "url": "https://github.com/jailop/ndarray-nim",
+    "method": "git",
+    "tags": [
+      "array",
+      "numerical"
+    ],
+    "description": "Nim bindings for ndarray-c library",
+    "license": "BSD-3-Clause",
+    "web": "https://github.com/jailop/ndarray-nim"
   }
 ]
