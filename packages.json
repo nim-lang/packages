@@ -37004,6 +37004,19 @@
     "web": "https://github.com/Niminem/Nasp"
   },
   {
+    "name": "nimletter",
+    "url": "https://github.com/ThomasTJdev/nimletter",
+    "method": "git",
+    "tags": [
+      "email",
+      "newsletter",
+      "drip"
+    ],
+    "description": "Self-hosted newsletter, drip, and transactional email system",
+    "license": "AGPL-3.0",
+    "web": "https://github.com/ThomasTJdev/nimletter"
+  },
+  {
     "name": "ndarray",
     "url": "https://github.com/jailop/ndarray-nim",
     "method": "git",
