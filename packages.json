@@ -1,11 +1,11 @@
 [
-    {
+  {
     "name": "tabulator",
     "url": "https://github.com/erykjj/nim-tabulator",
     "method": "git",
     "tags": [
       "terminal",
-      "tables",
+      "tables"
     ],
     "description": "Nim library for generating plain-text tables (with Unicode and ANSI code support)",
     "license": "MIT",
@@ -37045,12 +37045,32 @@
     "url": "https://codeberg.org/penguinite/bcryptrocks",
     "method": "git",
     "tags": [
-      "bcrypt", "blowfish", "crypt_blowfish",
-      "password", "hash", "security", 
-      "library", "wrapper"
+      "bcrypt",
+      "blowfish",
+      "crypt_blowfish",
+      "password",
+      "hash",
+      "security",
+      "library",
+      "wrapper"
     ],
     "description": "bcrypt wrapper using Solar Designer's crypt_blowfish (Windows-compatible)",
     "license": "crypt_blowfish",
     "web": "https://docs.penguinite.dev/bcryptrocks/"
+  },
+  {
+    "name": "sdfy",
+    "url": "https://github.com/elcritch/sdfy",
+    "method": "git",
+    "tags": [
+      "graphics",
+      "ui",
+      "sdf",
+      "signed",
+      "simd"
+    ],
+    "description": "A package implementing signed distance functions",
+    "license": "Apache-2.0",
+    "web": "https://github.com/elcritch/sdfy"
   }
 ]
