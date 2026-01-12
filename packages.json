@@ -37072,5 +37072,22 @@
     "description": "A package implementing signed distance functions",
     "license": "Apache-2.0",
     "web": "https://github.com/elcritch/sdfy"
+  },
+  {
+    "name": "intops",
+    "url": "https://github.com/vacp2p/nim-intops",
+    "method": "git",
+    "tags": [
+      "integers",
+      "bignum",
+      "cryptography",
+      "arithmetics",
+      "cpu-sized",
+      "primitives",
+      "operations"
+    ],
+    "description": "Core arithmetic operations for CPU-sized integers.",
+    "license": "MIT or Apache License 2.0",
+    "web": "https://github.com/vacp2p/nim-intops"
   }
 ]
