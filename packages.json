@@ -37089,5 +37089,22 @@
     "description": "Core arithmetic operations for CPU-sized integers.",
     "license": "MIT or Apache License 2.0",
     "web": "https://github.com/vacp2p/nim-intops"
+  },
+  {
+    "name": "ista",
+    "url": "https://github.com/arashi-software/ista",
+    "method": "git",
+    "tags": [
+      "cli",
+      "reading",
+      "text",
+      "rsvp",
+      "speed",
+      "documents",
+      "books"
+    ],
+    "description": "Ista - A versatile command line speed reader to enhance your reading efficiency",
+    "license": "GPL-2.0",
+    "web": "https://github.com/arashi-software/ista"
   }
 ]
