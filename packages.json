@@ -37106,5 +37106,16 @@
     "description": "Ista - A versatile command line speed reader to enhance your reading efficiency",
     "license": "GPL-2.0",
     "web": "https://github.com/arashi-software/ista"
+  },
+  {
+    "name": "ic",
+    "url": "https://github.com/hmbemba/ic",
+    "method": "git",
+    "tags": [
+      "debug"
+    ],
+    "description": "IceCream-style debug printing for Nim (colored, timestamp, file:line, JS + NimScript support)",
+    "license": "MIT",
+    "web": "https://github.com/hmbemba/ic"
   }
 ]
