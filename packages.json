@@ -37117,5 +37117,14 @@
     "description": "IceCream-style debug printing for Nim (colored, timestamp, file:line, JS + NimScript support)",
     "license": "MIT",
     "web": "https://github.com/hmbemba/ic"
+  },
+  {
+    "name": "nuwa_sdk",
+    "url": "https://github.com/martineastwood/nuwa-sdk",
+    "method": "git",
+    "tags": ["python", "stub-generation", "build-tool"],
+    "description": "SDK for Nuwa Build - provides compile-time metadata for Python stub generation",
+    "license": "MIT",
+    "web": "https://github.com/martineastwood/nuwa-sdk"
   }
 ]
