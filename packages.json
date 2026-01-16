@@ -1,5 +1,60 @@
 [
   {
+    "name": "proven",
+    "url": "https://github.com/hyperpolymath/proven",
+    "method": "git",
+    "tags": [
+      "safety",
+      "security",
+      "verified",
+      "math",
+      "crypto",
+      "validation"
+    ],
+    "description": "Formally verified safety primitives - safe math, crypto, paths, email, network",
+    "license": "PMPL-1.0",
+    "web": "https://github.com/hyperpolymath/proven",
+    "subdir": "bindings/nim"
+  },
+  {
+    "name": "commodore",
+    "url": "https://github.com/ph4mished/commodore",
+    "method": "git",
+    "tags": [
+      "commodore",
+      "cli",
+      "command-line",
+      "argument",
+      "argparse",
+      "optparse"
+    ],
+    "description": "Commodore is a simple CLI parsing library.",
+    "license": "MIT",
+    "web": "https://github.com/ph4mished/commodore"
+  },
+  {
+    "name": "caesar",
+    "url": "https://github.com/ph4mished/caesar",
+    "method": "git",
+    "tags": [
+      "caesar"
+    ],
+    "description": "A simple tool for caesar cipher encoding and decoding",
+    "license": "MIT",
+    "web": "https://github.com/ph4mished/caesar"
+  },
+  {
+    "name": "morse",
+    "url": "https://github.com/ph4mished/morse",
+    "method": "git",
+    "tags": [
+      "morse"
+    ],
+    "description": "A simple tool for morse encoding and decoding",
+    "license": "MIT",
+    "web": "https://github.com/ph4mished/morse"
+  },
+  {
     "name": "tabulator",
     "url": "https://github.com/erykjj/nim-tabulator",
     "method": "git",
@@ -25,6 +80,17 @@
     "description": "Lightweight and easily extendable / embeddable Lisp dialect with no VM and deterministic performance.",
     "license": "BSD-3-Clause",
     "web": "https://github.com/bk20x/M"
+  },
+  {
+    "name": "jobscheduler",
+    "url": "https://github.com/YesDrX/nim-jobscheduler",
+    "method": "git",
+    "tags": [
+      "jobscheduler"
+    ],
+    "description": "A cross platform jobscheduler app made using Nim.",
+    "license": "MIT",
+    "web": "https://github.com/YesDrX/nim-jobscheduler"
   },
   {
     "name": "treestand",
@@ -37122,9 +37188,81 @@
     "name": "nuwa_sdk",
     "url": "https://github.com/martineastwood/nuwa-sdk",
     "method": "git",
-    "tags": ["python", "stub-generation", "build-tool"],
+    "tags": [
+      "python",
+      "stub-generation",
+      "build-tool"
+    ],
     "description": "SDK for Nuwa Build - provides compile-time metadata for Python stub generation",
     "license": "MIT",
     "web": "https://github.com/martineastwood/nuwa-sdk"
+  },
+  {
+    "name": "win11toast",
+    "url": "https://github.com/hmbemba/win11toast",
+    "method": "git",
+    "tags": [
+      "windows",
+      "win11",
+      "toast",
+      "notification"
+    ],
+    "description": "Windows 10/11 Toast Notifications for Nim using WinRT",
+    "license": "MIT",
+    "web": "https://github.com/hmbemba/win11toast"
+  },
+  {
+    "name": "hk",
+    "url": "https://github.com/hmbemba/hk",
+    "method": "git",
+    "tags": [
+      "windows",
+      "hotkey",
+      "hotstring",
+      "keyboard"
+    ],
+    "description": "Windows hotkeys + hotstrings for Nim (winim keyboard hook, optional clipboard paste mode)",
+    "license": "MIT",
+    "web": "https://github.com/hmbemba/hk"
+  },
+  {
+    "name": "rz",
+    "url": "https://github.com/hmbemba/rz",
+    "method": "git",
+    "tags": [
+      "result"
+    ],
+    "description": "rz: small Result/Rz type + safe helpers (native + JS), ergonomic combinators and utilities.",
+    "license": "MIT",
+    "web": "https://github.com/hmbemba/rz"
+  },
+  {
+    "name": "nimsterm",
+    "url": "https://github.com/hmbemba/nimsterm",
+    "method": "git",
+    "tags": [
+      "nimscript",
+      "terminal",
+      "styling",
+      "text"
+    ],
+    "description": "Windows-friendly terminal helpers that work in both Nim and NimScript.",
+    "license": "MIT",
+    "web": "https://github.com/hmbemba/nimsterm"
+  },
+  {
+    "name": "datastar",
+    "url": "https://github.com/YuryKL/datastar.nim",
+    "method": "git",
+    "tags": [
+      "web",
+      "datastar",
+      "hypermedia",
+      "serversentevents",
+      "sdk"
+    ],
+    "description": "A Nim SDK for https://data-star.dev",
+    "license": "MIT",
+    "web": "https://github.com/YuryKL/datastar.nim"
   }
 ]
