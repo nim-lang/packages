@@ -1,5 +1,27 @@
 [
   {
+    "name": "caesar",
+    "url": "https://github.com/ph4mished/caesar",
+    "method": "git",
+    "tags": [
+      "caesar"
+    ],
+    "description": "A simple tool for caesar cipher encoding and decoding",
+    "license": "MIT",
+    "web": "https://github.com/ph4mished/caesar"
+  },
+  {
+    "name": "morse",
+    "url": "https://github.com/ph4mished/morse",
+    "method": "git",
+    "tags": [
+      "morse"
+    ],
+    "description": "A simple tool for morse encoding and decoding",
+    "license": "MIT",
+    "web": "https://github.com/ph4mished/morse"
+  },
+  {
     "name": "tabulator",
     "url": "https://github.com/erykjj/nim-tabulator",
     "method": "git",
