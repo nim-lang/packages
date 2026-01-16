@@ -1,5 +1,22 @@
 [
   {
+    "name": "proven",
+    "url": "https://github.com/hyperpolymath/proven",
+    "method": "git",
+    "tags": [
+      "safety",
+      "security",
+      "verified",
+      "math",
+      "crypto",
+      "validation"
+    ],
+    "description": "Formally verified safety primitives - safe math, crypto, paths, email, network",
+    "license": "PMPL-1.0",
+    "web": "https://github.com/hyperpolymath/proven",
+    "subdir": "bindings/nim"
+  },
+  {
     "name": "tabulator",
     "url": "https://github.com/erykjj/nim-tabulator",
     "method": "git",
@@ -11672,7 +11689,7 @@
       "pqcrypto",
       "signing"
     ],
-    "description": "SPHINCS⁺ stateless hash-based signature scheme",
+    "description": "SPHINCS\u207a stateless hash-based signature scheme",
     "license": "MIT",
     "web": "https://git.sr.ht/~ehmry/nim_sphincs"
   },
@@ -19052,7 +19069,7 @@
       "framework",
       "http"
     ],
-    "description": "A web framework inspired by ExpressJS 🐇⚡",
+    "description": "A web framework inspired by ExpressJS \ud83d\udc07\u26a1",
     "license": "Public Domain",
     "web": "https://github.com/ducdetronquito/phoon"
   },
@@ -20212,7 +20229,7 @@
       "library",
       "binary"
     ],
-    "description": "🍕🍺 emoji support for Nim 👑 and the world 🌍",
+    "description": "\ud83c\udf55\ud83c\udf7a emoji support for Nim \ud83d\udc51 and the world \ud83c\udf0d",
     "license": "MIT",
     "web": "https://github.com/pietroppeter/nimoji"
   },
@@ -24180,7 +24197,7 @@
       "markdown",
       "publish"
     ],
-    "description": "nimib 🐳 - nim 👑 driven ⛵ publishing ✍",
+    "description": "nimib \ud83d\udc33 - nim \ud83d\udc51 driven \u26f5 publishing \u270d",
     "license": "MIT",
     "web": "https://github.com/pietroppeter/nimib"
   },
@@ -27171,7 +27188,7 @@
       "reload",
       "fsnotify"
     ],
-    "description": "⚡️ Just... yellin' for changes! File System Monitor for devs",
+    "description": "\u26a1\ufe0f Just... yellin' for changes! File System Monitor for devs",
     "license": "MIT",
     "web": "https://github.com/openpeeps/watchout"
   },
@@ -27368,7 +27385,7 @@
       "lexbase",
       "macros"
     ],
-    "description": "Generic tokenizer written in Nim language 👑 Powered by Nim's Macros",
+    "description": "Generic tokenizer written in Nim language \ud83d\udc51 Powered by Nim's Macros",
     "license": "MIT",
     "web": "https://github.com/openpeeps/toktok"
   },
@@ -29819,7 +29836,7 @@
       "traffic analysis",
       "pcap"
     ],
-    "description": "🚋 Traffic Analysis in Nim",
+    "description": "\ud83d\ude8b Traffic Analysis in Nim",
     "license": "GPL-3.0",
     "web": "https://github.com/facorazza/tram"
   },
@@ -31006,7 +31023,7 @@
       "hapticx",
       "happyx"
     ],
-    "description": "Macro-oriented full-stack web-framework written with ♥",
+    "description": "Macro-oriented full-stack web-framework written with \u2665",
     "license": "MIT",
     "web": "https://github.com/HapticX/happyx"
   },
@@ -32975,7 +32992,7 @@
       "backend",
       "android"
     ],
-    "description": "Macro-oriented web-framework compiles to native written with ♥",
+    "description": "Macro-oriented web-framework compiles to native written with \u2665",
     "license": "MIT",
     "web": "https://github.com/HapticX/happyx-native"
   },
@@ -33663,7 +33680,7 @@
       "syntax",
       "utility"
     ],
-    "description": "🍬 General syntactic sugar",
+    "description": "\ud83c\udf6c General syntactic sugar",
     "license": "MIT",
     "web": "https://github.com/FyraLabs/sweet"
   },
@@ -34649,7 +34666,7 @@
       "ux",
       "gui"
     ],
-    "description": "buju (布局) is a simple layout engine, based on layout.h",
+    "description": "buju (\u5e03\u5c40) is a simple layout engine, based on layout.h",
     "license": "MIT",
     "web": "https://github.com/haoyu234/buju"
   },
@@ -35418,7 +35435,7 @@
       "network",
       "darwin"
     ],
-    "description": "System metrics library for macOS (Darwin) written in pure Nim — CPU, memory, disk, processes, and more.",
+    "description": "System metrics library for macOS (Darwin) written in pure Nim \u2014 CPU, memory, disk, processes, and more.",
     "license": "MIT",
     "web": "https://github.com/sm-moshi/darwinmetrics"
   },
@@ -36865,7 +36882,7 @@
       "framework",
       "graphics",
       "develop",
-      "löve2d",
+      "l\u00f6ve2d",
       "naylib"
     ],
     "description": "A lightweight 2D game framework for Nim",
@@ -37122,7 +37139,11 @@
     "name": "nuwa_sdk",
     "url": "https://github.com/martineastwood/nuwa-sdk",
     "method": "git",
-    "tags": ["python", "stub-generation", "build-tool"],
+    "tags": [
+      "python",
+      "stub-generation",
+      "build-tool"
+    ],
     "description": "SDK for Nuwa Build - provides compile-time metadata for Python stub generation",
     "license": "MIT",
     "web": "https://github.com/martineastwood/nuwa-sdk"
