@@ -1,4 +1,20 @@
-[
+[ 
+  {
+    "name": "commodore",
+    "url": "https://github.com/ph4mished/commodore",
+    "method": "git",
+    "tags": [
+      "commodore",
+      "cli",
+      "command-line",
+      "argument",
+      "argparse",
+      "optparse"      
+    ],
+    "description": "Commodore is a simple CLI parsing library.",
+    "license": "MIT",
+    "web": "https://github.com/ph4mished/commodore"
+  },
   {
     "name": "caesar",
     "url": "https://github.com/ph4mished/caesar",
