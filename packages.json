@@ -64,9 +64,6 @@
     "license": "BSD-3-Clause",
     "web": "https://github.com/bk20x/M"
   },
-  {
-    "name": "treestand",
-[
   {"name": "jobscheduler",
     "url": "https://github.com/YesDrX/nim-jobscheduler",
     "method": "git",
