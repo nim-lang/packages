@@ -1,4 +1,4 @@
-[ 
+[
   {
     "name": "commodore",
     "url": "https://github.com/ph4mished/commodore",
@@ -9,7 +9,7 @@
       "command-line",
       "argument",
       "argparse",
-      "optparse"      
+      "optparse"
     ],
     "description": "Commodore is a simple CLI parsing library.",
     "license": "MIT",
@@ -64,7 +64,8 @@
     "license": "BSD-3-Clause",
     "web": "https://github.com/bk20x/M"
   },
-  {"name": "jobscheduler",
+  {
+    "name": "jobscheduler",
     "url": "https://github.com/YesDrX/nim-jobscheduler",
     "method": "git",
     "tags": [
@@ -74,7 +75,8 @@
     "license": "MIT",
     "web": "https://github.com/YesDrX/nim-jobscheduler"
   },
-  {"name": "treestand",
+  {
+    "name": "treestand",
     "url": "https://github.com/YesDrX/nim-treestand",
     "method": "git",
     "tags": [
@@ -37169,9 +37171,27 @@
     "name": "nuwa_sdk",
     "url": "https://github.com/martineastwood/nuwa-sdk",
     "method": "git",
-    "tags": ["python", "stub-generation", "build-tool"],
+    "tags": [
+      "python",
+      "stub-generation",
+      "build-tool"
+    ],
     "description": "SDK for Nuwa Build - provides compile-time metadata for Python stub generation",
     "license": "MIT",
     "web": "https://github.com/martineastwood/nuwa-sdk"
+  },
+  {
+    "name": "hk",
+    "url": "https://github.com/hmbemba/hk",
+    "method": "git",
+    "tags": [
+      "windows",
+      "hotkey",
+      "hotstring",
+      "keyboard"
+    ],
+    "description": "Windows hotkeys + hotstrings for Nim (winim keyboard hook, optional clipboard paste mode)",
+    "license": "MIT",
+    "web": "https://github.com/hmbemba/hk"
   }
 ]
