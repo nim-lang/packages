@@ -37193,5 +37193,16 @@
     "description": "Windows hotkeys + hotstrings for Nim (winim keyboard hook, optional clipboard paste mode)",
     "license": "MIT",
     "web": "https://github.com/hmbemba/hk"
+  },
+  {
+    "name": "rz",
+    "url": "https://github.com/hmbemba/rz",
+    "method": "git",
+    "tags": [
+      "result"
+    ],
+    "description": "rz: small Result/Rz type + safe helpers (native + JS), ergonomic combinators and utilities.",
+    "license": "MIT",
+    "web": "https://github.com/hmbemba/rz"
   }
 ]
