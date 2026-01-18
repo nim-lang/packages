@@ -37181,6 +37181,20 @@
     "web": "https://github.com/martineastwood/nuwa-sdk"
   },
   {
+    "name": "win11toast",
+    "url": "https://github.com/hmbemba/win11toast",
+    "method": "git",
+    "tags": [
+      "windows",
+      "win11",
+      "toast",
+      "notification"
+    ],
+    "description": "Windows 10/11 Toast Notifications for Nim using WinRT",
+    "license": "MIT",
+    "web": "https://github.com/hmbemba/win11toast"
+  },
+  {
     "name": "hk",
     "url": "https://github.com/hmbemba/hk",
     "method": "git",
