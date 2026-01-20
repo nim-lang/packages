@@ -37218,5 +37218,19 @@
     "description": "rz: small Result/Rz type + safe helpers (native + JS), ergonomic combinators and utilities.",
     "license": "MIT",
     "web": "https://github.com/hmbemba/rz"
+  },
+  {
+    "name": "nimsterm",
+    "url": "https://github.com/hmbemba/nimsterm",
+    "method": "git",
+    "tags": [
+      "nimscript",
+      "terminal",
+      "styling",
+      "text"
+    ],
+    "description": "Windows-friendly terminal helpers that work in both Nim and NimScript.",
+    "license": "MIT",
+    "web": "https://github.com/hmbemba/nimsterm"
   }
 ]
