@@ -37232,5 +37232,20 @@
     "description": "Windows-friendly terminal helpers that work in both Nim and NimScript.",
     "license": "MIT",
     "web": "https://github.com/hmbemba/nimsterm"
+  },
+  {
+    "name": "datastar",
+    "url": "https://github.com/YuryKL/datastar.nim",
+    "method": "git",
+    "tags": [
+      "hypermedia",
+      "web",
+      "libary",
+      "sdk",
+      "sse"
+    ],
+    "description": "A Nim SDK for https://data-star.dev",
+    "license": "MIT",
+    "web": "https://github.com/YuryKL/datastar.nim"
   }
 ]
