@@ -37247,5 +37247,20 @@
     "description": "A Nim SDK for https://data-star.dev",
     "license": "MIT",
     "web": "https://github.com/YuryKL/datastar.nim"
+  },
+  {
+    "name": "datastar",
+    "url": "https://github.com/YuryKL/datastar.nim",
+    "method": "git",
+    "tags": [
+      "web",
+      "datastar",
+      "hypermedia",
+      "serversentevents",
+      "sdk"
+    ],
+    "description": "A Nim SDK for https://data-star.dev",
+    "license": "MIT",
+    "web": "https://github.com/YuryKL/datastar.nim"
   }
 ]
