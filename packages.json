@@ -1,5 +1,22 @@
 [
   {
+    "name": "proven",
+    "url": "https://github.com/hyperpolymath/proven",
+    "method": "git",
+    "tags": [
+      "safety",
+      "security",
+      "verified",
+      "math",
+      "crypto",
+      "validation"
+    ],
+    "description": "Formally verified safety primitives - safe math, crypto, paths, email, network",
+    "license": "PMPL-1.0",
+    "web": "https://github.com/hyperpolymath/proven",
+    "subdir": "bindings/nim"
+  },
+  {
     "name": "commodore",
     "url": "https://github.com/ph4mished/commodore",
     "method": "git",
