@@ -37264,5 +37264,21 @@
     "description": "A Nim SDK for https://data-star.dev",
     "license": "MIT",
     "web": "https://github.com/YuryKL/datastar.nim"
+  },
+  {
+    "name": "nimdoc",
+    "url": "https://github.com/WaywardWizard/nimdoc",
+    "method": "git",
+    "tags": [
+      "docs",
+      "documentation",
+      "browser",
+      "view",
+      "generate",
+      "intel"
+    ],
+    "description": "Generate and view local documentation of installed nimble packages",
+    "license": "MIT",
+    "web": "https://github.com/WaywardWizard/nimdoc"
   }
 ]
