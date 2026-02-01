@@ -37292,5 +37292,17 @@
     "description": "An opinionated SQL query builder for Nim with compile-time schema validation",
     "license": "MIT",
     "web": "https://github.com/ThomasTJdev/nim_sqlquery"
+  },
+  {
+    "name": "velcro",
+    "url": "https://github.com/Dark-Knight6221/velcro",
+    "method": "git",
+    "tags": [
+      "ecs",
+      "engine"
+    ],
+    "description": "Example Text",
+    "license": "MIT",
+    "web": "https://github.com/Dark-Knight6221/velcro"
   }
 ]
