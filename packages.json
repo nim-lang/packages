@@ -37282,6 +37282,18 @@
     "web": "https://github.com/WaywardWizard/nimdoc"
   },
   {
+    "name": "sqlquery",
+    "url": "https://github.com/ThomasTJdev/nim_sqlquery",
+    "method": "git",
+    "tags": [
+      "sql",
+      "query"
+    ],
+    "description": "An opinionated SQL query builder for Nim with compile-time schema validation",
+    "license": "MIT",
+    "web": "https://github.com/ThomasTJdev/nim_sqlquery"
+  },
+  {
     "name": "velcro",
     "url": "https://github.com/Dark-Knight6221/velcro",
     "method": "git",
