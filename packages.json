@@ -37304,5 +37304,18 @@
     "description": "Example Text",
     "license": "MIT",
     "web": "https://github.com/Dark-Knight6221/velcro"
+  },
+  {
+    "name": "sshterm",
+    "url": "https://github.com/jthampton/sshterm",
+    "method": "git",
+    "tags": [
+      "ssh",
+      "terminal",
+      "sessions"
+    ],
+    "description": "SSH terminal for interactive sessions for Nim",
+    "license": "MIT",
+    "web": "https://github.com/jthampton/sshterm"
   }
 ]
