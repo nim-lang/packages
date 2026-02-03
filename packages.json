@@ -37317,5 +37317,17 @@
     "description": "SSH terminal for interactive sessions for Nim",
     "license": "MIT",
     "web": "https://github.com/jthampton/sshterm"
+  },
+  {
+    "name": "yfnim",
+    "url": "https://github.com/jailop/yfnim",
+    "method": "git",
+    "tags": [
+      "finance,",
+      "yahoo"
+    ],
+    "description": "A Yahoo Finance historical data retriever with support for multiple intervals",
+    "license": "MIT",
+    "web": "https://github.com/jailop/yfnim"
   }
 ]
