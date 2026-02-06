@@ -37331,6 +37331,21 @@
     "web": "https://github.com/jailop/yfnim"
   },
   {
+    "name": "multipart",
+    "url": "https://github.com/openpeeps/multipart",
+    "method": "git",
+    "tags": [
+      "file",
+      "upload",
+      "multipart",
+      "formdata",
+      "parser"
+    ],
+    "description": "A simple multipart parser",
+    "license": "MIT",
+    "web": "https://github.com/openpeeps/multipart"
+  },
+  {
     "name": "voodoo",
     "url": "https://github.com/openpeeps/voodoo",
     "method": "git",
