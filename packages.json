@@ -37357,5 +37357,20 @@
     "description": "Working with Nim's macros is just Voodoo",
     "license": "MIT",
     "web": "https://github.com/openpeeps/voodoo"
+  },
+  {
+    "name": "diskclean",
+    "url": "https://github.com/ynishi/diskclean",
+    "method": "git",
+    "tags": [
+      "cli",
+      "disk",
+      "cleanup",
+      "devtools",
+      "utility"
+    ],
+    "description": "Declarative disk cleanup for development projects",
+    "license": "MIT",
+    "web": "https://github.com/ynishi/diskclean"
   }
 ]
