@@ -37329,5 +37329,20 @@
     "description": "A Yahoo Finance historical data retriever with support for multiple intervals",
     "license": "MIT",
     "web": "https://github.com/jailop/yfnim"
+  },
+  {
+    "name": "multipart",
+    "url": "https://github.com/openpeeps/multipart",
+    "method": "git",
+    "tags": [
+      "file",
+      "upload",
+      "multipart",
+      "formdata",
+      "parser"
+    ],
+    "description": "A simple multipart parser",
+    "license": "MIT",
+    "web": "https://github.com/openpeeps/multipart"
   }
 ]
