@@ -18420,7 +18420,8 @@
     "description": "Cross-platform memory profiler",
     "license": "MIT",
     "web": "https://github.com/quadram-institute-bioscience/memonitor"
-  },  {
+  },
+  {
     "name": "dsrclib",
     "url": "https://github.com/quadram-institute-bioscience/dsrclib",
     "method": "git",
