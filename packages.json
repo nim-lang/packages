@@ -10105,7 +10105,6 @@
     "license": "MIT",
     "web": "https://wasm-minimal-protocol.nimpylib.org"
   },
-  
   {
     "name": "graphemes",
     "url": "https://github.com/nitely/nim-graphemes",
@@ -37430,5 +37429,21 @@
     "description": "A NewsAPI client, to retrieve market news",
     "license": "MIT",
     "web": "https://github.com/jailop/newsapi-client"
+  },
+  {
+    "name": "nserve",
+    "url": "https://github.com/heckarmon/nserve",
+    "method": "git",
+    "tags": [
+      "http",
+      "server",
+      "async",
+      "cli",
+      "file",
+      "upload"
+    ],
+    "description": "A lightweight zero-deps, async HTTP file server with uploads",
+    "license": "MIT",
+    "web": "https://github.com/heckarmon/nserve"
   }
 ]
