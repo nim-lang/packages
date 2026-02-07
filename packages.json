@@ -18452,6 +18452,21 @@
     "web": "https://github.com/quadram-institute-bioscience/memonitor"
   },
   {
+    "name": "dsrclib",
+    "url": "https://github.com/quadram-institute-bioscience/dsrclib",
+    "method": "git",
+    "tags": [
+      "bioinformatics",
+      "fastq",
+      "compression",
+      "dsrc",
+      "dsrc2"
+    ],
+    "description": "Cross-platform memory profiler",
+    "license": "GPL-2.0",
+    "web": "https://github.com/quadram-institute-bioscience/dsrclib"
+  },
+  {
     "name": "readfx",
     "url": "https://github.com/quadram-institute-bioscience/readfx",
     "method": "git",
