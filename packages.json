@@ -10074,8 +10074,38 @@
     ],
     "description": "Python-like repr, ascii, hex/oct/bin, ...",
     "license": "MIT",
-    "web": "https://nimpylib.org"
+    "web": "https://pyrepr.nimpylib.org"
   },
+  {
+    "name": "wasm_backend",
+    "url": "https://github.com/nimpylib/wasm_backend",
+    "method": "git",
+    "tags": [
+      "utils",
+      "wasm",
+      "webassembly",
+      "compile"
+    ],
+    "description": "utils to support compiling Nim to WASM target",
+    "license": "MIT",
+    "web": "https://wasm-backend.nimpylib.org"
+  },
+  {
+    "name": "wasm-minimal-protocol",
+    "url": "https://github.com/nimpylib/wasm-minimal-protocol",
+    "method": "git",
+    "tags": [
+      "library",
+      "utils",
+      "wasm",
+      "webassembly",
+      "typst"
+    ],
+    "description": "macros and helpers to write Typst Plugin in Nim",
+    "license": "MIT",
+    "web": "https://wasm-minimal-protocol.nimpylib.org"
+  },
+  
   {
     "name": "graphemes",
     "url": "https://github.com/nitely/nim-graphemes",
