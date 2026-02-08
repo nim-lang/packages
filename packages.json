@@ -37445,5 +37445,23 @@
     "description": "A lightweight zero-deps, async HTTP file server with uploads",
     "license": "MIT",
     "web": "https://github.com/heckarmon/nserve"
+  },
+  {
+    "name": "steadytensor",
+    "url": "https://github.com/garrettkinman/SteadyTensor",
+    "method": "git",
+    "tags": [
+      "tensor",
+      "vector",
+      "matrix",
+      "linear-algebra",
+      "ndarray",
+      "array",
+      "embedded",
+      "tinyml"
+    ],
+    "description": "An ultra-light, ultra-flexible tensor library written in pure Nim. Intended for microcontrollers.",
+    "license": "MIT",
+    "web": "https://github.com/garrettkinman/SteadyTensor"
   }
 ]
