@@ -37431,6 +37431,22 @@
     "web": "https://github.com/jailop/newsapi-client"
   },
   {
+    "name": "nserve",
+    "url": "https://github.com/heckarmon/nserve",
+    "method": "git",
+    "tags": [
+      "http",
+      "server",
+      "async",
+      "cli",
+      "file",
+      "upload"
+    ],
+    "description": "A lightweight zero-deps, async HTTP file server with uploads",
+    "license": "MIT",
+    "web": "https://github.com/heckarmon/nserve"
+  },
+  {
     "name": "steadytensor",
     "url": "https://github.com/garrettkinman/SteadyTensor",
     "method": "git",
