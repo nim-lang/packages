@@ -9666,7 +9666,7 @@
   },
   {
     "name": "blake2",
-    "url": "https://github.com/narimiran/blake2",
+    "url": "https://github.com/nim-community/blake2",
     "method": "git",
     "tags": [
       "crypto",
@@ -9676,7 +9676,7 @@
     ],
     "description": "blake2 - cryptographic hash function",
     "license": "CC0",
-    "web": "https://github.com/narimiran/blake2"
+    "web": "https://github.com/nim-community/blake2"
   },
   {
     "name": "spinny",
@@ -9764,7 +9764,7 @@
   },
   {
     "name": "sha3",
-    "url": "https://github.com/narimiran/sha3",
+    "url": "https://github.com/nim-community/sha3",
     "method": "git",
     "tags": [
       "crypto",
@@ -9774,7 +9774,7 @@
     ],
     "description": "sha3 - cryptographic hash function",
     "license": "CC0",
-    "web": "https://github.com/narimiran/sha3"
+    "web": "https://github.com/nim-community/sha3"
   },
   {
     "name": "coalesce",
