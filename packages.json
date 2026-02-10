@@ -37463,5 +37463,21 @@
     "description": "An ultra-light, ultra-flexible tensor library written in pure Nim. Intended for microcontrollers.",
     "license": "MIT",
     "web": "https://github.com/garrettkinman/SteadyTensor"
+  },
+  {
+    "name": "greskewel",
+    "url": "https://github.com/openpeeps/greskewel",
+    "method": "git",
+    "tags": [
+      "postgres",
+      "embedded",
+      "psql",
+      "embedded-db",
+      "db",
+      "database"
+    ],
+    "description": "Embedded Postgres in a Box",
+    "license": "MIT",
+    "web": "https://github.com/openpeeps/greskewel"
   }
 ]
