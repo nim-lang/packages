@@ -4895,7 +4895,7 @@
   },
   {
     "name": "hmac",
-    "url": "https://github.com/OpenSystemsLab/hmac.nim",
+    "url": "https://github.com/nim-community/hmac.nim",
     "method": "git",
     "tags": [
       "hmac",
@@ -4906,7 +4906,7 @@
     ],
     "description": "HMAC-SHA1 and HMAC-MD5 hashing in Nim",
     "license": "MIT",
-    "web": "https://github.com/OpenSystemsLab/hmac.nim"
+    "web": "https://github.com/nim-community/hmac.nim"
   },
   {
     "name": "mongrel2",
@@ -5400,7 +5400,7 @@
   },
   {
     "name": "rethinkdb",
-    "url": "https://github.com/OpenSystemsLab/rethinkdb.nim",
+    "url": "https://github.com/nim-community/rethinkdb.nim",
     "method": "git",
     "tags": [
       "rethinkdb",
@@ -5410,7 +5410,7 @@
     ],
     "description": "RethinkDB driver for Nim",
     "license": "MIT",
-    "web": "https://github.com/OpenSystemsLab/rethinkdb.nim"
+    "web": "https://github.com/nim-community/rethinkdb.nim"
   },
   {
     "name": "dbus",
@@ -9650,7 +9650,7 @@
   },
   {
     "name": "scram",
-    "url": "https://github.com/rgv151/scram",
+    "url": "https://github.com/nim-community/scram.nim",
     "method": "git",
     "tags": [
       "scram",
@@ -9662,7 +9662,7 @@
     ],
     "description": "Salted Challenge Response Authentication Mechanism (SCRAM) ",
     "license": "MIT",
-    "web": "https://github.com/rgv151/scram"
+    "web": "https://github.com/nim-community/scram.nim"
   },
   {
     "name": "blake2",
