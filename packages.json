@@ -13237,6 +13237,20 @@
     "web": "https://github.com/treeform/nimby"
   },
   {
+    "name": "fluffy",
+    "url": "https://github.com/treeform/fluffy",
+    "method": "git",
+    "tags": [
+      "profiler",
+      "chrome",
+      "trace",
+      "viewer"
+    ],
+    "description": "A Nim profile viewer for Chrome JSON trace files.",
+    "license": "MIT",
+    "web": "https://github.com/treeform/fluffy"
+  },
+  {
     "name": "xdo",
     "url": "https://github.com/juancarlospaco/nim-xdo",
     "method": "git",
