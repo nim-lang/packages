@@ -37519,5 +37519,17 @@
     "description": "Bilibili video downloader",
     "license": "MIT",
     "web": "https://github.com/bung87/bilidown"
+  },
+  {
+    "name": "iori",
+    "url": "https://github.com/fox0430/iori",
+    "method": "git",
+    "tags": [
+      "async",
+      "file"
+    ],
+    "description": "Async file I/O through io_uring",
+    "license": "MIT",
+    "web": "https://github.com/fox0430/iori"
   }
 ]
