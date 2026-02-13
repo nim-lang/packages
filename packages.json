@@ -37531,5 +37531,22 @@
     "description": "Async file I/O through io_uring",
     "license": "MIT",
     "web": "https://github.com/fox0430/iori"
+  },
+  {
+    "name": "jazzy",
+    "url": "https://github.com/canermastan/jazzy-framework",
+    "method": "git",
+    "tags": [
+      "web",
+      "framework",
+      "server",
+      "http",
+      "api",
+      "rest",
+      "sqlite"
+    ],
+    "description": "Productive, developer-friendly web framework for Nim. Write less code, build more features.",
+    "license": "MIT",
+    "web": "https://github.com/canermastan/jazzy-framework"
   }
 ]
