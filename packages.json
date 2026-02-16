@@ -37548,5 +37548,20 @@
     "description": "Productive, developer-friendly web framework for Nim. Write less code, build more features.",
     "license": "MIT",
     "web": "https://github.com/canermastan/jazzy-framework"
+  },
+  {
+    "name": "nebble",
+    "url": "https://github.com/Brokezawa/nebble",
+    "method": "git",
+    "tags": [
+      "pebble",
+      "smartwatch",
+      "embedded",
+      "library",
+      "wrapper"
+    ],
+    "description": "Nim wrapper for the Pebble smartwatch SDK",
+    "license": "MIT",
+    "web": "https://github.com/Brokezawa/nebble"
   }
 ]
