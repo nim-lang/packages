@@ -23614,6 +23614,22 @@
     "web": "https://github.com/haxscramper/nimtraits"
   },
   {
+    "name": "nimtrace",
+    "url": "https://github.com/copyleftdev/nimtrace",
+    "method": "git",
+    "tags": [
+      "tracing",
+      "observability",
+      "opentelemetry",
+      "logging",
+      "instrumentation",
+      "library"
+    ],
+    "description": "Zero-cost structured tracing framework for Nim, inspired by Rust's tracing crate",
+    "license": "MIT",
+    "web": "https://github.com/copyleftdev/nimtrace"
+  },
+  {
     "name": "deser_json",
     "url": "https://github.com/gabbhack/deser_json",
     "method": "git",
