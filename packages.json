@@ -37579,5 +37579,18 @@
     "description": "Nim wrapper for the Pebble smartwatch SDK",
     "license": "MIT",
     "web": "https://github.com/Brokezawa/nebble"
+  },
+  {
+    "name": "dimslash",
+    "url": "https://github.com/gaato/dimslash",
+    "method": "git",
+    "tags": [
+      "discord",
+      "library",
+      "dimscord"
+    ],
+    "description": "Interactive command handler for Dimscord",
+    "license": "BlueOak-1.0.0",
+    "web": "https://github.com/gaato/dimslash"
   }
 ]
