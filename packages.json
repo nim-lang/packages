@@ -37592,5 +37592,18 @@
     "description": "Interactive command handler for Dimscord",
     "license": "BlueOak-1.0.0",
     "web": "https://github.com/gaato/dimslash"
+  },
+  {
+    "name": "wewbo",
+    "url": "https://github.com/upi-0/wewbo",
+    "method": "git",
+    "tags": [
+      "tui",
+      "console",
+      "terminal"
+    ],
+    "description": "An interactive terminal application for streaming and downloading anime from various streaming sources.",
+    "license": "GPL-3.0",
+    "web": "https://github.com/upi-0/wewbo"
   }
 ]
