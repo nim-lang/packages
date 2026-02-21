@@ -37616,5 +37616,18 @@
     ],
     "description": "A fast, branchless, sorting algorithm",
     "license": "Unlicense"
+  },
+  {
+    "name": "ozark",
+    "url": "https://github.com/openpeeps/ozark",
+    "method": "git",
+    "tags": [
+      "orm",
+      "database",
+      "db"
+    ],
+    "description": "A magical ORM for Nim",
+    "license": "MIT",
+    "web": "https://github.com/openpeeps/ozark"
   }
 ]
