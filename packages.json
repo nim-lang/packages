@@ -37605,5 +37605,16 @@
     "description": "An interactive terminal application for streaming and downloading anime from various streaming sources.",
     "license": "GPL-3.0",
     "web": "https://github.com/upi-0/wewbo"
+  },
+  {
+    "name": "csort",
+    "url": "https://github.com/WyattBlue/csort",
+    "method": "git",
+    "tags": [
+      "sorting",
+      "simd"
+    ],
+    "description": "A fast, branchless, sorting algorithm",
+    "license": "Unlicense"
   }
 ]
