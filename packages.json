@@ -18479,6 +18479,21 @@
     "web": "https://github.com/quadram-institute-bioscience/memonitor"
   },
   {
+    "name": "tableview",
+    "url": "https://github.com/telatin/tabview",
+    "method": "git",
+    "tags": [
+      "tsv",
+      "table",
+      "interactive",
+      "tui",
+      "csv"
+    ],
+    "description": "Interactive table viewer for the terminal",
+    "license": "MIT",
+    "web": "https://github.com/telatin/tabview"
+  },
+  {
     "name": "dsrclib",
     "url": "https://github.com/quadram-institute-bioscience/dsrclib",
     "method": "git",
