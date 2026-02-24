@@ -18463,6 +18463,22 @@
     "web": "https://github.com/andreas-wilm/nimreadfq"
   },
   {
+    "name": "unoisenim",
+    "url": "https://github.com/telatin/unoisenim",
+    "method": "git",
+    "tags": [
+      "unoise3",
+      "uchime",
+      "denoise amplicon",
+      "sintax",
+      "naive bayesian classifier",
+      "metabarcoding"
+    ],
+    "description": "Denoise and taxonomy classification algorithms ported to Nim",
+    "license": "GPL-3.0",
+    "web": "https://telatin.github.io/unoisenim/"
+  },
+  {
     "name": "memonitor",
     "url": "https://github.com/quadram-institute-bioscience/memonitor",
     "method": "git",
