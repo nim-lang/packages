@@ -4895,7 +4895,7 @@
   },
   {
     "name": "hmac",
-    "url": "https://github.com/OpenSystemsLab/hmac.nim",
+    "url": "https://github.com/nim-community/hmac.nim",
     "method": "git",
     "tags": [
       "hmac",
@@ -4906,7 +4906,7 @@
     ],
     "description": "HMAC-SHA1 and HMAC-MD5 hashing in Nim",
     "license": "MIT",
-    "web": "https://github.com/OpenSystemsLab/hmac.nim"
+    "web": "https://github.com/nim-community/hmac.nim"
   },
   {
     "name": "mongrel2",
@@ -5400,7 +5400,7 @@
   },
   {
     "name": "rethinkdb",
-    "url": "https://github.com/OpenSystemsLab/rethinkdb.nim",
+    "url": "https://github.com/nim-community/rethinkdb.nim",
     "method": "git",
     "tags": [
       "rethinkdb",
@@ -5410,7 +5410,7 @@
     ],
     "description": "RethinkDB driver for Nim",
     "license": "MIT",
-    "web": "https://github.com/OpenSystemsLab/rethinkdb.nim"
+    "web": "https://github.com/nim-community/rethinkdb.nim"
   },
   {
     "name": "dbus",
@@ -9650,7 +9650,7 @@
   },
   {
     "name": "scram",
-    "url": "https://github.com/rgv151/scram",
+    "url": "https://github.com/nim-community/scram.nim",
     "method": "git",
     "tags": [
       "scram",
@@ -9662,11 +9662,11 @@
     ],
     "description": "Salted Challenge Response Authentication Mechanism (SCRAM) ",
     "license": "MIT",
-    "web": "https://github.com/rgv151/scram"
+    "web": "https://github.com/nim-community/scram.nim"
   },
   {
     "name": "blake2",
-    "url": "https://github.com/narimiran/blake2",
+    "url": "https://github.com/nim-community/blake2",
     "method": "git",
     "tags": [
       "crypto",
@@ -9676,7 +9676,7 @@
     ],
     "description": "blake2 - cryptographic hash function",
     "license": "CC0",
-    "web": "https://github.com/narimiran/blake2"
+    "web": "https://github.com/nim-community/blake2"
   },
   {
     "name": "spinny",
@@ -9764,7 +9764,7 @@
   },
   {
     "name": "sha3",
-    "url": "https://github.com/narimiran/sha3",
+    "url": "https://github.com/nim-community/sha3",
     "method": "git",
     "tags": [
       "crypto",
@@ -9774,7 +9774,7 @@
     ],
     "description": "sha3 - cryptographic hash function",
     "license": "CC0",
-    "web": "https://github.com/narimiran/sha3"
+    "web": "https://github.com/nim-community/sha3"
   },
   {
     "name": "coalesce",
@@ -10074,7 +10074,36 @@
     ],
     "description": "Python-like repr, ascii, hex/oct/bin, ...",
     "license": "MIT",
-    "web": "https://nimpylib.org"
+    "web": "https://pyrepr.nimpylib.org"
+  },
+  {
+    "name": "wasm_backend",
+    "url": "https://github.com/nimpylib/wasm_backend",
+    "method": "git",
+    "tags": [
+      "utils",
+      "wasm",
+      "webassembly",
+      "compile"
+    ],
+    "description": "utils to support compiling Nim to WASM target",
+    "license": "MIT",
+    "web": "https://wasm-backend.nimpylib.org"
+  },
+  {
+    "name": "wasm-minimal-protocol",
+    "url": "https://github.com/nimpylib/wasm-minimal-protocol",
+    "method": "git",
+    "tags": [
+      "library",
+      "utils",
+      "wasm",
+      "webassembly",
+      "typst"
+    ],
+    "description": "macros and helpers to write Typst Plugin in Nim",
+    "license": "MIT",
+    "web": "https://wasm-minimal-protocol.nimpylib.org"
   },
   {
     "name": "graphemes",
@@ -13206,6 +13235,34 @@
     "description": "Unofficial package manager and installer.",
     "license": "MIT",
     "web": "https://github.com/treeform/nimby"
+  },
+  {
+    "name": "silky",
+    "url": "https://github.com/treeform/silky",
+    "method": "git",
+    "tags": [
+      "ui",
+      "graphics",
+      "immediate-mode",
+      "gui"
+    ],
+    "description": "Silky immediate mode UI graphics.",
+    "license": "MIT",
+    "web": "https://github.com/treeform/silky"
+  },
+  {
+    "name": "fluffy",
+    "url": "https://github.com/treeform/fluffy",
+    "method": "git",
+    "tags": [
+      "profiler",
+      "chrome",
+      "trace",
+      "viewer"
+    ],
+    "description": "A Nim profile viewer for Chrome JSON trace files.",
+    "license": "MIT",
+    "web": "https://github.com/treeform/fluffy"
   },
   {
     "name": "xdo",
@@ -18422,6 +18479,21 @@
     "web": "https://github.com/quadram-institute-bioscience/memonitor"
   },
   {
+    "name": "dsrclib",
+    "url": "https://github.com/quadram-institute-bioscience/dsrclib",
+    "method": "git",
+    "tags": [
+      "bioinformatics",
+      "fastq",
+      "compression",
+      "dsrc",
+      "dsrc2"
+    ],
+    "description": "Cross-platform memory profiler",
+    "license": "GPL-2.0",
+    "web": "https://github.com/quadram-institute-bioscience/dsrclib"
+  },
+  {
     "name": "readfx",
     "url": "https://github.com/quadram-institute-bioscience/readfx",
     "method": "git",
@@ -23540,6 +23612,22 @@
     "description": "Trait system for nim",
     "license": "Apache-2.0",
     "web": "https://github.com/haxscramper/nimtraits"
+  },
+  {
+    "name": "nimtrace",
+    "url": "https://github.com/copyleftdev/nimtrace",
+    "method": "git",
+    "tags": [
+      "tracing",
+      "observability",
+      "opentelemetry",
+      "logging",
+      "instrumentation",
+      "library"
+    ],
+    "description": "Zero-cost structured tracing framework for Nim, inspired by Rust's tracing crate",
+    "license": "MIT",
+    "web": "https://github.com/copyleftdev/nimtrace"
   },
   {
     "name": "deser_json",
@@ -37096,7 +37184,7 @@
   },
   {
     "name": "ndarray",
-    "url": "https://github.com/jailop/ndarray-nim",
+    "url": "https://github.com/jailop/ndarray-c",
     "method": "git",
     "tags": [
       "array",
@@ -37104,7 +37192,7 @@
     ],
     "description": "Nim bindings for ndarray-c library",
     "license": "BSD-3-Clause",
-    "web": "https://github.com/jailop/ndarray-nim"
+    "web": "https://github.com/jailop/ndarray-c"
   },
   {
     "name": "bcryptrocks",
@@ -37385,5 +37473,177 @@
     "description": "A NewsAPI client, to retrieve market news",
     "license": "MIT",
     "web": "https://github.com/jailop/newsapi-client"
+  },
+  {
+    "name": "nserve",
+    "url": "https://github.com/heckarmon/nserve",
+    "method": "git",
+    "tags": [
+      "http",
+      "server",
+      "async",
+      "cli",
+      "file",
+      "upload"
+    ],
+    "description": "A lightweight zero-deps, async HTTP file server with uploads",
+    "license": "MIT",
+    "web": "https://github.com/heckarmon/nserve"
+  },
+  {
+    "name": "steadytensor",
+    "url": "https://github.com/garrettkinman/SteadyTensor",
+    "method": "git",
+    "tags": [
+      "tensor",
+      "vector",
+      "matrix",
+      "linear-algebra",
+      "ndarray",
+      "array",
+      "embedded",
+      "tinyml"
+    ],
+    "description": "An ultra-light, ultra-flexible tensor library written in pure Nim. Intended for microcontrollers.",
+    "license": "MIT",
+    "web": "https://github.com/garrettkinman/SteadyTensor"
+  },
+  {
+    "name": "greskewel",
+    "url": "https://github.com/openpeeps/greskewel",
+    "method": "git",
+    "tags": [
+      "postgres",
+      "embedded",
+      "psql",
+      "embedded-db",
+      "db",
+      "database"
+    ],
+    "description": "Embedded Postgres in a Box",
+    "license": "MIT",
+    "web": "https://github.com/openpeeps/greskewel"
+  },
+  {
+    "name": "bilidown",
+    "url": "https://github.com/bung87/bilidown",
+    "method": "git",
+    "tags": [
+      "video",
+      "downloader"
+    ],
+    "description": "Bilibili video downloader",
+    "license": "MIT",
+    "web": "https://github.com/bung87/bilidown"
+  },
+  {
+    "name": "iori",
+    "url": "https://github.com/fox0430/iori",
+    "method": "git",
+    "tags": [
+      "async",
+      "file"
+    ],
+    "description": "Async file I/O through io_uring",
+    "license": "MIT",
+    "web": "https://github.com/fox0430/iori"
+  },
+  {
+    "name": "jazzy",
+    "url": "https://github.com/canermastan/jazzy-framework",
+    "method": "git",
+    "tags": [
+      "web",
+      "framework",
+      "server",
+      "http",
+      "api",
+      "rest",
+      "sqlite"
+    ],
+    "description": "Productive, developer-friendly web framework for Nim. Write less code, build more features.",
+    "license": "MIT",
+    "web": "https://github.com/canermastan/jazzy-framework"
+  },
+  {
+    "name": "nebble",
+    "url": "https://github.com/Brokezawa/nebble",
+    "method": "git",
+    "tags": [
+      "pebble",
+      "smartwatch",
+      "embedded",
+      "library",
+      "wrapper"
+    ],
+    "description": "Nim wrapper for the Pebble smartwatch SDK",
+    "license": "MIT",
+    "web": "https://github.com/Brokezawa/nebble"
+  },
+  {
+    "name": "dimslash",
+    "url": "https://github.com/gaato/dimslash",
+    "method": "git",
+    "tags": [
+      "discord",
+      "library",
+      "dimscord"
+    ],
+    "description": "Interactive command handler for Dimscord",
+    "license": "BlueOak-1.0.0",
+    "web": "https://github.com/gaato/dimslash"
+  },
+  {
+    "name": "wewbo",
+    "url": "https://github.com/upi-0/wewbo",
+    "method": "git",
+    "tags": [
+      "tui",
+      "console",
+      "terminal"
+    ],
+    "description": "An interactive terminal application for streaming and downloading anime from various streaming sources.",
+    "license": "GPL-3.0",
+    "web": "https://github.com/upi-0/wewbo"
+  },
+  {
+    "name": "csort",
+    "url": "https://github.com/WyattBlue/csort",
+    "method": "git",
+    "tags": [
+      "sorting",
+      "simd"
+    ],
+    "description": "A fast, branchless, sorting algorithm",
+    "license": "Unlicense"
+  },
+  {
+    "name": "ozark",
+    "url": "https://github.com/openpeeps/ozark",
+    "method": "git",
+    "tags": [
+      "orm",
+      "database",
+      "db"
+    ],
+    "description": "A magical ORM for Nim",
+    "license": "MIT",
+    "web": "https://github.com/openpeeps/ozark"
+  },
+  {
+    "name": "lately",
+    "url": "https://github.com/hmbemba/lately",
+    "method": "git",
+    "tags": [
+      "social-media",
+      "facebook",
+      "twitter",
+      "instagram",
+      "x",
+      "tiktok"
+    ],
+    "description": "Nim SDK for the Late.dev API",
+    "license": "MIT",
+    "web": "https://github.com/hmbemba/lately"
   }
 ]
