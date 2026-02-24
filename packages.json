@@ -18480,7 +18480,7 @@
   },
   {
     "name": "tableview",
-    "url": "https://github.com/telatin/tabview",
+    "url": "https://www.github.com//tabview",
     "method": "git",
     "tags": [
       "tsv",
@@ -18491,7 +18491,7 @@
     ],
     "description": "Interactive table viewer for the terminal",
     "license": "MIT",
-    "web": "https://github.com/telatin/tabview"
+    "web": "https://telatin.github.io/tabview"
   },
   {
     "name": "dsrclib",
