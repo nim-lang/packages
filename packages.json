@@ -37689,5 +37689,17 @@
     "description": "TinyVG - A compact binary vector graphics format implementation in Nim",
     "license": "MIT",
     "web": "https://github.com/bung87/tinyvg"
+  },
+  {
+    "name": "usu",
+    "url": "https://github.com/usu-dev/usu-nim",
+    "method": "git",
+    "description": "usu stores usu",
+    "license": "MIT",
+    "tags": [
+      "config",
+      "serialization",
+      "parser"
+    ]
   }
 ]
