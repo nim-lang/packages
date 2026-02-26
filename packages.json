@@ -37701,5 +37701,22 @@
       "serialization",
       "parser"
     ]
+  },
+  {
+    "name": "rtmp",
+    "url": "https://github.com/openpeeps/rtmp",
+    "method": "git",
+    "tags": [
+      "rrtmp",
+      "livestream",
+      "live",
+      "streaming",
+      "client",
+      "server",
+      "libevent"
+    ],
+    "description": "Real-Time Messaging Protocol for Nim",
+    "license": "MIT",
+    "web": "https://github.com/openpeeps/rtmp"
   }
 ]
