@@ -37507,7 +37507,7 @@
   },
   {
     "name": "nserve",
-    "url": "https://github.com/heckarmon/nserve",
+    "url": "https://github.com/v4rm4n/nserve",
     "method": "git",
     "tags": [
       "http",
@@ -37519,7 +37519,7 @@
     ],
     "description": "A lightweight zero-deps, async HTTP file server with uploads",
     "license": "MIT",
-    "web": "https://github.com/heckarmon/nserve"
+    "web": "https://github.com/v4rm4n/nserve"
   },
   {
     "name": "steadytensor",
