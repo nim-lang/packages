@@ -2055,7 +2055,7 @@
   },
   {
     "name": "locale",
-    "url": "https://github.com/Amrykid/nim-locale/",
+    "url": "https://github.com/nim-community/nim-locale",
     "method": "git",
     "tags": [
       "library",
@@ -2067,7 +2067,7 @@
     ],
     "description": "A simple library for localizing Nim applications.",
     "license": "MIT",
-    "web": "https://github.com/Amrykid/nim-locale"
+    "web": "https://github.com/nim-community/nim-locale"
   },
   {
     "name": "fowltek",
