@@ -37763,5 +37763,22 @@
     "description": "A parser for EditorConfig",
     "license": "MIT",
     "web": "https://github.com/fox0430/editorconfig-nim"
+  },
+  {
+    "name": "money",
+    "url": "https://github.com/openpeeps/money",
+    "method": "git",
+    "tags": [
+      "money",
+      "exchange",
+      "currency",
+      "currencies",
+      "cart",
+      "checkout",
+      "transactions"
+    ],
+    "description": "Create, calculate and format money in Nim language",
+    "license": "MIT",
+    "web": "https://github.com/openpeeps/money"
   }
 ]
