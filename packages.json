@@ -37750,5 +37750,18 @@
     "description": "Static blog generator using markdown and symlinks",
     "license": "MIT",
     "web": "https://github.com/capocasa/blg"
+  },
+  {
+    "name": "editorconfig",
+    "url": "https://github.com/fox0430/editorconfig-nim",
+    "method": "git",
+    "tags": [
+      "editor",
+      "editorconfig",
+      "parser"
+    ],
+    "description": "A parser for EditorConfig",
+    "license": "MIT",
+    "web": "https://github.com/fox0430/editorconfig-nim"
   }
 ]
