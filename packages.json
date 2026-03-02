@@ -37796,5 +37796,18 @@
     "description": "GPG-encrypted opaque-blob vault with hidden filenames",
     "license": "MIT",
     "web": "https://github.com/HaoZeke/nimvault"
+  },
+  {
+    "name": "scfg_nim",
+    "url": "https://github.com/heuer/scfg-nim",
+    "method": "git",
+    "tags": [
+      "scfg",
+      "config",
+      "configuration"
+    ],
+    "description": "scfg (simple configuration file format) parser",
+    "license": "MIT",
+    "web": "https://github.com/heuer/scfg-nim"
   }
 ]
