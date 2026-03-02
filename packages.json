@@ -37780,5 +37780,21 @@
     "description": "Create, calculate and format money in Nim language",
     "license": "MIT",
     "web": "https://github.com/openpeeps/money"
+  },
+  {
+    "name": "nimvault",
+    "url": "https://github.com/HaoZeke/nimvault",
+    "method": "git",
+    "tags": [
+      "gpg",
+      "encryption",
+      "vault",
+      "secrets",
+      "cli",
+      "dotfiles"
+    ],
+    "description": "GPG-encrypted opaque-blob vault with hidden filenames",
+    "license": "MIT",
+    "web": "https://github.com/HaoZeke/nimvault"
   }
 ]
