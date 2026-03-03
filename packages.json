@@ -2055,7 +2055,7 @@
   },
   {
     "name": "locale",
-    "url": "https://github.com/Amrykid/nim-locale/",
+    "url": "https://github.com/nim-community/nim-locale",
     "method": "git",
     "tags": [
       "library",
@@ -2067,7 +2067,7 @@
     ],
     "description": "A simple library for localizing Nim applications.",
     "license": "MIT",
-    "web": "https://github.com/Amrykid/nim-locale"
+    "web": "https://github.com/nim-community/nim-locale"
   },
   {
     "name": "fowltek",
@@ -37750,5 +37750,79 @@
     "description": "Static blog generator using markdown and symlinks",
     "license": "MIT",
     "web": "https://github.com/capocasa/blg"
+  },
+  {
+    "name": "editorconfig",
+    "url": "https://github.com/fox0430/editorconfig-nim",
+    "method": "git",
+    "tags": [
+      "editor",
+      "editorconfig",
+      "parser"
+    ],
+    "description": "A parser for EditorConfig",
+    "license": "MIT",
+    "web": "https://github.com/fox0430/editorconfig-nim"
+  },
+  {
+    "name": "money",
+    "url": "https://github.com/openpeeps/money",
+    "method": "git",
+    "tags": [
+      "money",
+      "exchange",
+      "currency",
+      "currencies",
+      "cart",
+      "checkout",
+      "transactions"
+    ],
+    "description": "Create, calculate and format money in Nim language",
+    "license": "MIT",
+    "web": "https://github.com/openpeeps/money"
+  },
+  {
+    "name": "nimvault",
+    "url": "https://github.com/HaoZeke/nimvault",
+    "method": "git",
+    "tags": [
+      "gpg",
+      "encryption",
+      "vault",
+      "secrets",
+      "cli",
+      "dotfiles"
+    ],
+    "description": "GPG-encrypted opaque-blob vault with hidden filenames",
+    "license": "MIT",
+    "web": "https://github.com/HaoZeke/nimvault"
+  },
+  {
+    "name": "scfg_nim",
+    "url": "https://github.com/heuer/scfg-nim",
+    "method": "git",
+    "tags": [
+      "scfg",
+      "config",
+      "configuration"
+    ],
+    "description": "scfg (simple configuration file format) parser",
+    "license": "MIT",
+    "web": "https://github.com/heuer/scfg-nim"
+  },
+  {
+    "name": "blackpaper",
+    "url": "https://github.com/openpeeps/blackpaper",
+    "method": "git",
+    "tags": [
+      "password",
+      "strength",
+      "checker",
+      "simd",
+      "security"
+    ],
+    "description": "A simple Password Strength Estimator",
+    "license": "MIT",
+    "web": "https://github.com/openpeeps/blackpaper"
   }
 ]
