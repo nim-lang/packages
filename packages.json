@@ -37809,5 +37809,20 @@
     "description": "scfg (simple configuration file format) parser",
     "license": "MIT",
     "web": "https://github.com/heuer/scfg-nim"
+  },
+  {
+    "name": "blackpaper",
+    "url": "https://github.com/openpeeps/blackpaper",
+    "method": "git",
+    "tags": [
+      "password",
+      "strength",
+      "checker",
+      "simd",
+      "security"
+    ],
+    "description": "A simple Password Strength Estimator",
+    "license": "MIT",
+    "web": "https://github.com/openpeeps/blackpaper"
   }
 ]
