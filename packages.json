@@ -37854,5 +37854,18 @@
     "description": "Minimal secure URL shortener with CLI",
     "license": "MIT",
     "web": "https://github.com/capocasa/shorten"
+  },
+  {
+    "name": "nimphea",
+    "url": "https://github.com/Brokezawa/Nimphea",
+    "method": "git",
+    "tags": [
+      "embedded",
+      "audio",
+      "wrapper"
+    ],
+    "description": "Nimphea - Elegant Nim bindings for libDaisy Hardware Abstraction Library (Daisy Audio Platform: Seed, Patch, Pod, Field, Petal, Versio)",
+    "license": "MIT",
+    "web": "https://github.com/Brokezawa/Nimphea"
   }
 ]
