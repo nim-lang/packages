@@ -37867,5 +37867,20 @@
     "description": "Nimphea - Elegant Nim bindings for libDaisy Hardware Abstraction Library (Daisy Audio Platform: Seed, Patch, Pod, Field, Petal, Versio)",
     "license": "MIT",
     "web": "https://github.com/Brokezawa/Nimphea"
+  },
+  {
+    "name": "scf",
+    "url": "https://github.com/capocasa/scf",
+    "method": "git",
+    "tags": [
+      "source",
+      "filter",
+      "template",
+      "stdtmpl",
+      "preprocessor"
+    ],
+    "description": "Standalone Nim source code filter (stdtmpl) transformer",
+    "license": "MIT",
+    "web": "https://github.com/capocasa/scf"
   }
 ]
