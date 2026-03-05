@@ -18510,6 +18510,21 @@
     "web": "https://telatin.github.io/tabview"
   },
   {
+    "name": "lesster",
+    "url": "https://www.github.com/telatin/lesster",
+    "method": "git",
+    "tags": [
+      "less",
+      "tui",
+      "interactive",
+      "tui",
+      "markdown"
+    ],
+    "description": "Display interactive scrollable text (less-like)",
+    "license": "MIT",
+    "web": "https://telatin.github.io/lesster"
+  },
+  {
     "name": "dsrclib",
     "url": "https://github.com/quadram-institute-bioscience/dsrclib",
     "method": "git",
@@ -37824,5 +37839,33 @@
     "description": "A simple Password Strength Estimator",
     "license": "MIT",
     "web": "https://github.com/openpeeps/blackpaper"
+  },
+  {
+    "name": "shorten",
+    "url": "https://github.com/capocasa/shorten",
+    "method": "git",
+    "tags": [
+      "url",
+      "shortener",
+      "web",
+      "server",
+      "cli"
+    ],
+    "description": "Minimal secure URL shortener with CLI",
+    "license": "MIT",
+    "web": "https://github.com/capocasa/shorten"
+  },
+  {
+    "name": "nimphea",
+    "url": "https://github.com/Brokezawa/Nimphea",
+    "method": "git",
+    "tags": [
+      "embedded",
+      "audio",
+      "wrapper"
+    ],
+    "description": "Nimphea - Elegant Nim bindings for libDaisy Hardware Abstraction Library (Daisy Audio Platform: Seed, Patch, Pod, Field, Petal, Versio)",
+    "license": "MIT",
+    "web": "https://github.com/Brokezawa/Nimphea"
   }
 ]
