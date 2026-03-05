@@ -37854,5 +37854,18 @@
     "description": "Minimal secure URL shortener with CLI",
     "license": "MIT",
     "web": "https://github.com/capocasa/shorten"
+  },
+  {
+    "name": "nebble",
+    "url": "https://github.com/Brokezawa/nebble",
+    "method": "git",
+    "tags": [
+      "pebble",
+      "smartwatch",
+      "wrapper"
+    ],
+    "description": "Nim wrapper for the Pebble smartwatch SDK",
+    "license": "MIT",
+    "web": "https://github.com/Brokezawa/nebble"
   }
 ]
