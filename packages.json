@@ -17,6 +17,21 @@
     "subdir": "bindings/nim"
   },
   {
+    "name": "gpt4free",
+    "url": "https://github.com/Monsler/gpt4free",
+    "tags": [
+      "ai",
+      "llm",
+      "gpt",
+      "chat",
+      "api-client",
+      "http",
+    ],
+    "description": "implementation of python library called as same as this one which provides free providers for AI",
+    "licence": "MIT",
+    "web": "https://github.com/Monsler/gpt4free",
+  },
+  {
     "name": "commodore",
     "url": "https://github.com/ph4mished/commodore",
     "method": "git",
