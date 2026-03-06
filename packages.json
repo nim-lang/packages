@@ -28,7 +28,8 @@
       "http",
     ],
     "description": "implementation of python library called as same as this one which provides free providers for AI",
-    "licence": "MIT",
+    "license": "MIT",
+    "method": "git",
     "web": "https://github.com/Monsler/gpt4free",
   },
   {
