@@ -37976,5 +37976,18 @@
     "description": "A high-level, minimal, opinionated windowing library written in Nim.",
     "license": "BSD-3-Clause",
     "web": "https://github.com/nim-windowing/surfer"
+  },
+  {
+    "name": "ybus",
+    "url": "https://github.com/nim-windowing/ybus",
+    "tags": [
+      "dbus",
+      "linux",
+      "pure",
+      "ipc"
+    ],
+    "description": "A pure-Nim implementation of the D-Bus protocol with a high-level and simple client.",
+    "license": "BSD-3-Clause",
+    "web": "https://github.com/nim-windowing/ybus"
   }
 ]
