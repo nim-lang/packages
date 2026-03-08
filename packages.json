@@ -37949,6 +37949,7 @@
     ],
     "description": "A CPU-agnostic, high-performance SIMD abstraction library in pure Nim.",
     "license": "BSD-3-Clause",
+    "method": "git",
     "web": "https://github.com/xTrayambak/overdrive"
   },
   {
@@ -37962,6 +37963,7 @@
     ],
     "description": "High-level wrappers for various Wayland protocols (core, fractional scale, etc.)",
     "license": "BSD-3-Clause",
+    "method": "git",
     "web": "https://github.com/nim-windowing/nayland"
   },
   {
@@ -37975,6 +37977,7 @@
     ],
     "description": "A high-level, minimal, opinionated windowing library written in Nim.",
     "license": "BSD-3-Clause",
+    "method": "git",
     "web": "https://github.com/nim-windowing/surfer"
   },
   {
@@ -37988,6 +37991,7 @@
     ],
     "description": "A pure-Nim implementation of the D-Bus protocol with a high-level and simple client.",
     "license": "BSD-3-Clause",
+    "method": "git",
     "web": "https://github.com/nim-windowing/ybus"
   }
 ]
