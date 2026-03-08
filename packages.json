@@ -37929,5 +37929,19 @@
     "description": "Async-first ORM and libSQL client for Nim",
     "license": "MIT",
     "web": "https://github.com/nimmer-jp/nimtra"
+  },
+  {
+    "name": "async_postgres",
+    "url": "https://github.com/fox0430/async-postgres",
+    "method": "git",
+    "tags": [
+      "async",
+      "db",
+      "postgres",
+      "sql"
+    ],
+    "description": "Async PostgreSQL client",
+    "license": "MIT",
+    "web": "https://github.com/fox0430/async-postgres"
   }
 ]
