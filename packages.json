@@ -25,12 +25,12 @@
       "gpt",
       "chat",
       "api-client",
-      "http",
+      "http"
     ],
     "description": "implementation of python library called as same as this one which provides free providers for AI",
     "license": "MIT",
     "method": "git",
-    "web": "https://github.com/Monsler/gpt4free",
+    "web": "https://github.com/Monsler/gpt4free"
   },
   {
     "name": "commodore",
@@ -37957,5 +37957,21 @@
     "description": "Next generation meta-framework for Nim, powered by Basolato and HTMX",
     "license": "MIT",
     "web": "https://github.com/nimmer-jp/crown"
+  },
+  {
+    "name": "sse",
+    "url": "https://github.com/iceberg-work/sse",
+    "method": "git",
+    "tags": [
+      "sse",
+      "server-sent-events",
+      "streaming",
+      "http",
+      "real-time",
+      "web"
+    ],
+    "description": "A dedicated Server-Sent Events (SSE) library for Nim - framework agnostic, production-ready.",
+    "license": "MIT",
+    "web": "https://github.com/iceberg-work/sse"
   }
 ]
