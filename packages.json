@@ -36821,11 +36821,13 @@
       "url",
       "parser",
       "simd",
-      "sse2"
+      "avx2",
+      "sse4.1",
+      "neon"
     ],
-    "description": "A high-performance URL parser based on the WHATWG standard.",
+    "description": "A high-performance, SIMD-accelerated URL parser based on the WHATWG standard.",
     "license": "BSD-3",
-    "web": "https://github.com/xTrayambak/url"
+    "web": "https://xtrayambak.github.io/url/"
   },
   {
     "name": "hashtree_abi",
@@ -37929,6 +37931,68 @@
     "description": "Async-first ORM and libSQL client for Nim",
     "license": "MIT",
     "web": "https://github.com/nimmer-jp/nimtra"
+  },
+  {
+    "name": "overdrive",
+    "url": "https://github.com/xTrayambak/overdrive",
+    "tags": [
+      "arm",
+      "aarch64",
+      "x86-64",
+      "simd",
+      "high-performance",
+      "avx2",
+      "sse4.1",
+      "sse3",
+      "sse2",
+      "abstraction"
+    ],
+    "description": "A CPU-agnostic, high-performance SIMD abstraction library in pure Nim.",
+    "license": "BSD-3-Clause",
+    "method": "git",
+    "web": "https://github.com/xTrayambak/overdrive"
+  },
+  {
+    "name": "nayland",
+    "url": "https://github.com/nim-windowing/nayland",
+    "tags": [
+      "wayland",
+      "ffi",
+      "wrapper",
+      "linux"
+    ],
+    "description": "High-level wrappers for various Wayland protocols (core, fractional scale, etc.)",
+    "license": "BSD-3-Clause",
+    "method": "git",
+    "web": "https://github.com/nim-windowing/nayland"
+  },
+  {
+    "name": "surfer",
+    "url": "https://github.com/nim-windowing/surfer",
+    "tags": [
+      "wayland",
+      "linux",
+      "graphics",
+      "OpenGL"
+    ],
+    "description": "A high-level, minimal, opinionated windowing library written in Nim.",
+    "license": "BSD-3-Clause",
+    "method": "git",
+    "web": "https://github.com/nim-windowing/surfer"
+  },
+  {
+    "name": "ybus",
+    "url": "https://github.com/nim-windowing/ybus",
+    "tags": [
+      "dbus",
+      "linux",
+      "pure",
+      "ipc"
+    ],
+    "description": "A pure-Nim implementation of the D-Bus protocol with a high-level and simple client.",
+    "license": "BSD-3-Clause",
+    "method": "git",
+    "web": "https://github.com/nim-windowing/ybus"
   },
   {
     "name": "async_postgres",
