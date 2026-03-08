@@ -36821,11 +36821,13 @@
       "url",
       "parser",
       "simd",
-      "sse2"
+      "avx2",
+      "sse4.1",
+      "neon"
     ],
-    "description": "A high-performance URL parser based on the WHATWG standard.",
+    "description": "A high-performance, SIMD-accelerated URL parser based on the WHATWG standard.",
     "license": "BSD-3",
-    "web": "https://github.com/xTrayambak/url"
+    "web": "https://xtrayambak.github.io/url/"
   },
   {
     "name": "hashtree_abi",
