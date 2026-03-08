@@ -37929,5 +37929,24 @@
     "description": "Async-first ORM and libSQL client for Nim",
     "license": "MIT",
     "web": "https://github.com/nimmer-jp/nimtra"
+  },
+  {
+    "name": "overdrive",
+    "url": "https://github.com/xTrayambak/overdrive",
+    "tags": [
+      "arm",
+      "aarch64",
+      "x86-64",
+      "simd",
+      "high-performance",
+      "avx2",
+      "sse4.1",
+      "sse3",
+      "sse2",
+      "abstraction"
+    ],
+    "description": "A CPU-agnostic, high-performance SIMD abstraction library in pure Nim.",
+    "license": "BSD-3-Clause",
+    "web": "https://github.com/xTrayambak/overdrive"
   }
 ]
