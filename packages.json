@@ -37963,5 +37963,18 @@
     "description": "High-level wrappers for various Wayland protocols (core, fractional scale, etc.)",
     "license": "BSD-3-Clause",
     "web": "https://github.com/nim-windowing/nayland"
+  },
+  {
+    "name": "surfer",
+    "url": "https://github.com/nim-windowing/surfer",
+    "tags": [
+      "wayland",
+      "linux",
+      "graphics",
+      "OpenGL"
+    ],
+    "description": "A high-level, minimal, opinionated windowing library written in Nim.",
+    "license": "BSD-3-Clause",
+    "web": "https://github.com/nim-windowing/surfer"
   }
 ]
