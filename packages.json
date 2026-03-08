@@ -37956,6 +37956,8 @@
     "description": "simple-fax.de CLI client",
     "license": "MIT",
     "web": "https://github.com/capocasa/sfax"
+  }, 
+  {
     "name": "crown",
     "url": "https://github.com/nimmer-jp/crown",
     "method": "git",
