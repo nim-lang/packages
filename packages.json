@@ -37943,5 +37943,18 @@
     "description": "Async PostgreSQL client",
     "license": "MIT",
     "web": "https://github.com/fox0430/async-postgres"
+  },
+  {
+    "name": "sfax",
+    "url": "https://github.com/capocasa/sfax",
+    "method": "git",
+    "tags": [
+      "fax",
+      "simple-fax",
+      "cli"
+    ],
+    "description": "simple-fax.de CLI client",
+    "license": "MIT",
+    "web": "https://github.com/capocasa/sfax"
   }
 ]
