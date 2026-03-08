@@ -37943,5 +37943,19 @@
     "description": "Async PostgreSQL client",
     "license": "MIT",
     "web": "https://github.com/fox0430/async-postgres"
+  },
+  {
+    "name": "crown",
+    "url": "https://github.com/nimmer-jp/crown",
+    "method": "git",
+    "tags": [
+      "web",
+      "framework",
+      "basolato",
+      "htmx"
+    ],
+    "description": "Next generation meta-framework for Nim, powered by Basolato and HTMX",
+    "license": "MIT",
+    "web": "https://github.com/nimmer-jp/crown"
   }
 ]
