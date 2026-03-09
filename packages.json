@@ -38020,7 +38020,7 @@
     "description": "simple-fax.de CLI client",
     "license": "MIT",
     "web": "https://github.com/capocasa/sfax"
-  }, 
+  },
   {
     "name": "crown",
     "url": "https://github.com/nimmer-jp/crown",
@@ -38034,6 +38034,20 @@
     "description": "Next generation meta-framework for Nim, powered by Basolato and HTMX",
     "license": "MIT",
     "web": "https://github.com/nimmer-jp/crown"
+  },
+  {
+    "name": "njsdb",
+    "url": "https://github.com/bung87/nim-simpledb",
+    "method": "git",
+    "tags": [
+      "sqlite",
+      "nosql",
+      "document",
+      "database"
+    ],
+    "description": "NJSDB - Nim JSON SQLite Database - A simple NoSQL JSON document database",
+    "license": "MIT",
+    "web": "https://github.com/bung87/nim-simpledb"
   },
   {
     "name": "server_sent_events",
