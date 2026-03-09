@@ -38065,5 +38065,23 @@
     "description": "A dedicated Server-Sent Events (SSE) library for Nim - framework agnostic, production-ready.",
     "license": "MIT",
     "web": "https://github.com/iceberg-work/sse"
+  },
+  {
+    "name": "booyaka",
+    "url": "https://github.com/openpeeps/booyaka",
+    "method": "git",
+    "tags": [
+      "docs",
+      "documentation",
+      "build",
+      "builder",
+      "generator",
+      "markdown",
+      "md",
+      "devtool"
+    ],
+    "description": "A fast documentation generator for cool kids!",
+    "license": "AGPL-3.0-or-later",
+    "web": "https://github.com/openpeeps/booyaka"
   }
 ]
