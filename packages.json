@@ -38048,5 +38048,22 @@
     "description": "NJSDB - Nim JSON SQLite Database - A simple NoSQL JSON document database",
     "license": "MIT",
     "web": "https://github.com/bung87/nim-simpledb"
+  },
+  {
+    "name": "server_sent_events",
+    "url": "https://github.com/iceberg-work/sse",
+    "method": "git",
+    "tags": [
+      "server-sent-events",
+      "streaming",
+      "http",
+      "real-time",
+      "web",
+      "notifications",
+      "llm"
+    ],
+    "description": "A dedicated Server-Sent Events (SSE) library for Nim - framework agnostic, production-ready.",
+    "license": "MIT",
+    "web": "https://github.com/iceberg-work/sse"
   }
 ]
