@@ -38065,5 +38065,19 @@
     "description": "A dedicated Server-Sent Events (SSE) library for Nim - framework agnostic, production-ready.",
     "license": "MIT",
     "web": "https://github.com/iceberg-work/sse"
+  },
+  {
+    "name": "papr",
+    "url": "https://github.com/capocasa/papr",
+    "method": "git",
+    "tags": [
+      "paperless",
+      "paperless-ngx",
+      "cli",
+      "documents"
+    ],
+    "description": "Paperless-ngx CLI for listing, inspecting and downloading documents",
+    "license": "MIT",
+    "web": "https://github.com/capocasa/papr"
   }
 ]
