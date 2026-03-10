@@ -38083,5 +38083,19 @@
     "description": "A fast documentation generator for cool kids!",
     "license": "AGPL-3.0-or-later",
     "web": "https://github.com/openpeeps/booyaka"
+  },
+  {
+    "name": "papr",
+    "url": "https://github.com/capocasa/papr",
+    "method": "git",
+    "tags": [
+      "paperless",
+      "paperless-ngx",
+      "cli",
+      "documents"
+    ],
+    "description": "Paperless-ngx CLI for listing, inspecting and downloading documents",
+    "license": "MIT",
+    "web": "https://github.com/capocasa/papr"
   }
 ]
