@@ -31413,6 +31413,22 @@
     "doc": "https://catppuccin.github.io/nim"
   },
   {
+    "name": "cozycliparser",
+    "url": "https://github.com/indiscipline/cozycliparser",
+    "method": "git",
+    "tags": [
+      "cli",
+      "parser",
+      "command-line",
+      "argument",
+      "argparse",
+      "library"
+    ],
+    "description": "CLI argument parser, featureful wrapper over std/parseopt",
+    "doc": "https://indiscipline.github.io/cozycliparser/",
+    "license": "GPL-2.0-or-later"
+  },
+  {
     "name": "cozytaskpool",
     "url": "https://github.com/indiscipline/cozytaskpool",
     "method": "git",
