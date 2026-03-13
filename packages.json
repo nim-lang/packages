@@ -38126,5 +38126,22 @@
     "description": "Paperless-ngx CLI for listing, inspecting and downloading documents",
     "license": "MIT",
     "web": "https://github.com/capocasa/papr"
+  },
+  {
+    "name": "pluginkit",
+    "url": "https://github.com/openpeeps/pluginkit",
+    "method": "git",
+    "tags": [
+      "plugins",
+      "lib",
+      "sharedlib",
+      "dynlib",
+      "plugin",
+      "modular",
+      "pluginsystem"
+    ],
+    "description": "Create and manage plugins in a modular way",
+    "license": "MIT",
+    "web": "https://github.com/openpeeps/pluginkit"
   }
 ]
