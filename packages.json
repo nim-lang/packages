@@ -1,4 +1,35 @@
 [
+    {
+    "name": "nimhuml",
+    "url": "https://github.com/w3Abhishek/nimhuml",
+    "method": "git",
+    "tags": [
+      "huml",
+      "parser",
+      "serializer",
+      "markup",
+      "configuration",
+      "json"
+    ],
+    "description": "A Nim implementation of HUML (Human-Oriented Markup Language) parser and serializer",
+    "license": "MIT",
+    "web": "https://github.com/w3Abhishek/nimhuml"
+  },
+  {
+    "name": "json2schema",
+    "url": "https://github.com/Luteva-ssh/json2schema",
+    "method": "git",
+    "tags": [
+      "json",
+      "schema",
+      "converter",
+      "JSON Schema",
+      "JSON Schema (draft 2020-12)"
+    ],
+    "description": "Infer a JSON Schema (draft 2020-12) from any JSON value. No real data values are ever copied into the output — only structural and type information.",
+    "license": "MIT",
+    "web": "https://github.com/Luteva-ssh/json2schema",
+  },
   {
     "name": "proven",
     "url": "https://github.com/hyperpolymath/proven",
@@ -38140,5 +38171,22 @@
     "description": "Nim Context MCP Server - Provides Nim stdlib and project dependencies context for AI assistants",
     "license": "MIT",
     "web": "https://github.com/nim-community/nimctx"
+  },
+  {
+    "name": "pluginkit",
+    "url": "https://github.com/openpeeps/pluginkit",
+    "method": "git",
+    "tags": [
+      "plugins",
+      "lib",
+      "sharedlib",
+      "dynlib",
+      "plugin",
+      "modular",
+      "pluginsystem"
+    ],
+    "description": "Create and manage plugins in a modular way",
+    "license": "MIT",
+    "web": "https://github.com/openpeeps/pluginkit"
   }
 ]
