@@ -38159,6 +38159,20 @@
     "web": "https://github.com/capocasa/papr"
   },
   {
+    "name": "nimctx",
+    "url": "https://github.com/nim-community/nimctx",
+    "method": "git",
+    "tags": [
+      "Nim",
+      "Context",
+      "MCP",
+      "Server"
+    ],
+    "description": "Nim Context MCP Server - Provides Nim stdlib and project dependencies context for AI assistants",
+    "license": "MIT",
+    "web": "https://github.com/nim-community/nimctx"
+  },
+  {
     "name": "pluginkit",
     "url": "https://github.com/openpeeps/pluginkit",
     "method": "git",
