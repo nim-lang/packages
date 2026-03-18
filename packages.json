@@ -13312,6 +13312,67 @@
     "web": "https://github.com/treeform/fluffy"
   },
   {
+    "name": "metal4",
+    "url": "https://github.com/treeform/metal4",
+    "method": "git",
+    "tags": [
+      "metal",
+      "macos",
+      "graphics",
+      "bindings",
+      "gpu"
+    ],
+    "description": "Metal 4 bindings for Nim.",
+    "license": "MIT",
+    "web": "https://github.com/treeform/metal4"
+  },
+  {
+    "name": "vk14",
+    "url": "https://github.com/treeform/vk14",
+    "method": "git",
+    "tags": [
+      "vulkan",
+      "graphics",
+      "bindings",
+      "gpu",
+      "cross-platform"
+    ],
+    "description": "Vulkan 1.4 wrapper for Nim.",
+    "license": "MIT",
+    "web": "https://github.com/treeform/vk14"
+  },
+  {
+    "name": "ogl46",
+    "url": "https://github.com/treeform/ogl46",
+    "method": "git",
+    "tags": [
+      "opengl",
+      "graphics",
+      "bindings",
+      "gpu",
+      "dsa"
+    ],
+    "description": "OpenGL 4.6 DSA wrapper for Nim.",
+    "license": "MIT",
+    "web": "https://github.com/treeform/ogl46"
+  },
+  {
+    "name": "dx12",
+    "url": "https://github.com/treeform/dx12",
+    "method": "git",
+    "tags": [
+      "directx",
+      "d3d12",
+      "windows",
+      "graphics",
+      "bindings",
+      "gpu"
+    ],
+    "description": "DirectX 12 wrapper for Nim on Windows.",
+    "license": "MIT",
+    "web": "https://github.com/treeform/dx12"
+  },
+  {
     "name": "xdo",
     "url": "https://github.com/juancarlospaco/nim-xdo",
     "method": "git",
