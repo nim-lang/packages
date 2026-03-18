@@ -1,5 +1,5 @@
 [
-    {
+  {
     "name": "nimhuml",
     "url": "https://github.com/w3Abhishek/nimhuml",
     "method": "git",
@@ -28,7 +28,7 @@
     ],
     "description": "Infer a JSON Schema (draft 2020-12) from any JSON value. No real data values are ever copied into the output — only structural and type information.",
     "license": "MIT",
-    "web": "https://github.com/Luteva-ssh/json2schema",
+    "web": "https://github.com/Luteva-ssh/json2schema"
   },
   {
     "name": "proven",
@@ -38254,9 +38254,31 @@
     "name": "rin",
     "url": "https://github.com/capocasa/rin",
     "method": "git",
-    "tags": ["timer", "notification", "cli", "pulseaudio", "dbus"],
+    "tags": [
+      "timer",
+      "notification",
+      "cli",
+      "pulseaudio",
+      "dbus"
+    ],
     "description": "Tiny CLI timer with desktop notification and alarm sound",
     "license": "MIT",
     "web": "https://github.com/capocasa/rin"
+  },
+  {
+    "name": "tiptap",
+    "url": "https://github.com/openpeeps/tiptap-nim",
+    "method": "git",
+    "tags": [
+      "editor",
+      "content",
+      "texteditor",
+      "tiptap",
+      "js",
+      "validator"
+    ],
+    "description": "TipTap content validator for Nim",
+    "license": "MIT",
+    "web": "https://github.com/openpeeps/tiptap-nim"
   }
 ]
