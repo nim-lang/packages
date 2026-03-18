@@ -38249,5 +38249,14 @@
     "description": "Create and manage plugins in a modular way",
     "license": "MIT",
     "web": "https://github.com/openpeeps/pluginkit"
+  },
+  {
+    "name": "rin",
+    "url": "https://github.com/capocasa/rin",
+    "method": "git",
+    "tags": ["timer", "notification", "cli", "pulseaudio", "dbus"],
+    "description": "Tiny CLI timer with desktop notification and alarm sound",
+    "license": "MIT",
+    "web": "https://github.com/capocasa/rin"
   }
 ]
