@@ -38280,5 +38280,19 @@
     "description": "TipTap content validator for Nim",
     "license": "MIT",
     "web": "https://github.com/openpeeps/tiptap-nim"
+  },
+  {
+    "name": "nimbang",
+    "url": "https://github.com/jabbalaci/nimbang",
+    "method": "git",
+    "tags": [
+      "shebang",
+      "utility",
+      "script",
+      "nimcr"
+    ],
+    "description": "A small program to make Nim shebang-able without the overhead of compiling each time. A fork of nimcr.",
+    "license": "MIT",
+    "web": "https://github.com/jabbalaci/nimbang"
   }
 ]
