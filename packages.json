@@ -38309,5 +38309,17 @@
     "description": "High-level Nim wrapper for Wren VM",
     "license": "MIT",
     "web": "https://github.com/viktornv/wrenim"
+  },
+  {
+    "name": "nextract",
+    "url": "https://github.com/nim-community/nextract",
+    "method": "git",
+    "tags": [
+      "html",
+      "extraction"
+    ],
+    "description": "A Mozilla Readability-like content extraction library for Nim",
+    "license": "MIT",
+    "web": "https://github.com/nim-community/nextract"
   }
 ]
