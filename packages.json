@@ -38309,5 +38309,19 @@
     "description": "High-level Nim wrapper for Wren VM",
     "license": "MIT",
     "web": "https://github.com/viktornv/wrenim"
+  },
+  {
+    "name": "hwylterm",
+    "url": "https://github.com/daylinmorgan/hwylterm",
+    "method": "git",
+    "tags": [
+      "ansi",
+      "terminal",
+      "cli"
+    ],
+    "description": "bringing some fun (hwyl) to the terminal",
+    "license": "MIT",
+    "web": "https://hwylterm.dayl.in",
+    "doc": "https://hwylterm.dayl.in"
   }
 ]
