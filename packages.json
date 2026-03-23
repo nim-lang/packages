@@ -23487,21 +23487,26 @@
   },
   {
     "name": "defines",
-    "alias": "assigns"
+    "alias": "holo_match"
   },
   {
     "name": "assigns",
-    "url": "https://github.com/metagn/assigns",
+    "alias": "holo_match"
+  },
+  {
+    "name": "holo_match",
+    "url": "https://github.com/holo-nim/holo-match",
     "method": "git",
     "tags": [
       "sugar",
+      "pattern matching",
       "macros",
       "unpacking",
       "assignment"
     ],
-    "description": "syntax sugar for assignments",
+    "description": "nested/overloadable pattern matching",
     "license": "MIT",
-    "web": "https://metagn.github.io/assigns/assigns.html"
+    "web": "https://holo-nim.github.io/holo-match/docs/holo_match.html"
   },
   {
     "name": "nimics",
