@@ -38311,6 +38311,19 @@
     "web": "https://github.com/viktornv/wrenim"
   },
   {
+    "name": "onnx_rt",
+    "url": "https://github.com/bung87/onnx",
+    "method": "git",
+    "tags": [
+      "ONNX",
+      "Runtime",
+      "wrapper"
+    ],
+    "description": "ONNX Runtime wrapper for Nim - High-level interface for loading and running ONNX models",
+    "license": "MIT",
+    "web": "https://github.com/bung87/onnx"
+  },
+  {
     "name": "nextract",
     "url": "https://github.com/nim-community/nextract",
     "method": "git",
