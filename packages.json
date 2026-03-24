@@ -38339,8 +38339,8 @@
     "description": "A Mozilla Readability-like content extraction library for Nim",
     "license": "MIT",
     "web": "https://github.com/nim-community/nextract"
-    },
-    {
+  },
+  {
     "name": "hwylterm",
     "url": "https://github.com/daylinmorgan/hwylterm",
     "method": "git",
@@ -38367,5 +38367,24 @@
     "license": "MIT",
     "web": "https://github.com/turbomaster95/nim-tcc",
     "doc": "https://github.com/turbomaster95/nim-tcc"
+  },
+  {
+    "name": "starlight",
+    "url": "https://github.com/akvilary/starlight",
+    "method": "git",
+    "tags": [
+      "web",
+      "async",
+      "framework",
+      "ssr",
+      "html",
+      "template",
+      "server",
+      "chronos",
+      "starlight"
+    ],
+    "description": "Super fast async SSR framework — type-safe layouts, zero-copy rendering, compile-time HTML optimization, uses Chronos",
+    "license": "MIT",
+    "web": "https://github.com/akvilary/starlight"
   }
 ]
