@@ -38369,6 +38369,24 @@
     "doc": "https://github.com/turbomaster95/nim-tcc"
   },
   {
+    "name": "fpdf",
+    "url": "https://github.com/akvilary/fpdf",
+    "method": "git",
+    "tags": [
+      "pdf",
+      "document",
+      "generator",
+      "text",
+      "graphics",
+      "images",
+      "report",
+      "doс"
+    ],
+    "description": "Pure Nim PDF generation library — create PDF documents with text, fonts, graphics, and images. Inspired by the PHP FPDF API.",
+    "license": "MIT",
+    "web": "https://github.com/akvilary/fpdf"
+  },
+  {
     "name": "starlight",
     "url": "https://github.com/akvilary/starlight",
     "method": "git",
