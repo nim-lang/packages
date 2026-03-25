@@ -38420,5 +38420,21 @@
     "description": "Super fast async SSR framework — type-safe layouts, zero-copy rendering, compile-time HTML optimization, uses Chronos",
     "license": "MIT",
     "web": "https://github.com/akvilary/starlight"
+  },
+  {
+    "name": "td",
+    "url": "https://github.com/capocasa/td",
+    "method": "git",
+    "tags": [
+      "tasks",
+      "todo",
+      "ics",
+      "caldav",
+      "vdirsyncer",
+      "cli"
+    ],
+    "description": "Task manager for ICS files synced by vdirsyncer",
+    "license": "MIT",
+    "web": "https://github.com/capocasa/td"
   }
 ]
