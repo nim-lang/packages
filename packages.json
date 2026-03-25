@@ -1,5 +1,20 @@
 [
   {
+    "name": "dmarcmaster",
+    "url": "https://github.com/capocasa/dmarcmaster",
+    "method": "git",
+    "tags": [
+      "dmarc",
+      "email",
+      "maildir",
+      "security",
+      "dns"
+    ],
+    "description": "Extract and display DMARC aggregate reports from Maildir",
+    "license": "MIT",
+    "web": "https://github.com/capocasa/dmarcmaster"
+  },
+  {
     "name": "uniq",
     "url": "https://github.com/akvilary/uniq",
     "method": "git",
@@ -11,7 +26,7 @@
       "v7",
       "v4"
     ],
-    "description": "RFC 9562 UUID library — stack-allocated, versions 1, 3, 4, 5, 6, 7, 8",
+    "description": "RFC 9562 UUID library \u2014 stack-allocated, versions 1, 3, 4, 5, 6, 7, 8",
     "license": "MIT",
     "web": "https://github.com/akvilary/uniq"
   },
@@ -42,7 +57,7 @@
       "JSON Schema",
       "JSON Schema (draft 2020-12)"
     ],
-    "description": "Infer a JSON Schema (draft 2020-12) from any JSON value. No real data values are ever copied into the output — only structural and type information.",
+    "description": "Infer a JSON Schema (draft 2020-12) from any JSON value. No real data values are ever copied into the output \u2014 only structural and type information.",
     "license": "MIT",
     "web": "https://github.com/Luteva-ssh/json2schema"
   },
@@ -11830,7 +11845,7 @@
       "pqcrypto",
       "signing"
     ],
-    "description": "SPHINCS⁺ stateless hash-based signature scheme",
+    "description": "SPHINCS\u207a stateless hash-based signature scheme",
     "license": "MIT",
     "web": "https://git.sr.ht/~ehmry/nim_sphincs"
   },
@@ -19360,7 +19375,7 @@
       "framework",
       "http"
     ],
-    "description": "A web framework inspired by ExpressJS 🐇⚡",
+    "description": "A web framework inspired by ExpressJS \ud83d\udc07\u26a1",
     "license": "Public Domain",
     "web": "https://github.com/ducdetronquito/phoon"
   },
@@ -20520,7 +20535,7 @@
       "library",
       "binary"
     ],
-    "description": "🍕🍺 emoji support for Nim 👑 and the world 🌍",
+    "description": "\ud83c\udf55\ud83c\udf7a emoji support for Nim \ud83d\udc51 and the world \ud83c\udf0d",
     "license": "MIT",
     "web": "https://github.com/pietroppeter/nimoji"
   },
@@ -24509,7 +24524,7 @@
       "markdown",
       "publish"
     ],
-    "description": "nimib 🐳 - nim 👑 driven ⛵ publishing ✍",
+    "description": "nimib \ud83d\udc33 - nim \ud83d\udc51 driven \u26f5 publishing \u270d",
     "license": "MIT",
     "web": "https://github.com/pietroppeter/nimib"
   },
@@ -27516,7 +27531,7 @@
       "reload",
       "fsnotify"
     ],
-    "description": "⚡️ Just... yellin' for changes! File System Monitor for devs",
+    "description": "\u26a1\ufe0f Just... yellin' for changes! File System Monitor for devs",
     "license": "MIT",
     "web": "https://github.com/openpeeps/watchout"
   },
@@ -27713,7 +27728,7 @@
       "lexbase",
       "macros"
     ],
-    "description": "Generic tokenizer written in Nim language 👑 Powered by Nim's Macros",
+    "description": "Generic tokenizer written in Nim language \ud83d\udc51 Powered by Nim's Macros",
     "license": "MIT",
     "web": "https://github.com/openpeeps/toktok"
   },
@@ -30164,7 +30179,7 @@
       "traffic analysis",
       "pcap"
     ],
-    "description": "🚋 Traffic Analysis in Nim",
+    "description": "\ud83d\ude8b Traffic Analysis in Nim",
     "license": "GPL-3.0",
     "web": "https://github.com/facorazza/tram"
   },
@@ -31351,7 +31366,7 @@
       "hapticx",
       "happyx"
     ],
-    "description": "Macro-oriented full-stack web-framework written with ♥",
+    "description": "Macro-oriented full-stack web-framework written with \u2665",
     "license": "MIT",
     "web": "https://github.com/HapticX/happyx"
   },
@@ -33336,7 +33351,7 @@
       "backend",
       "android"
     ],
-    "description": "Macro-oriented web-framework compiles to native written with ♥",
+    "description": "Macro-oriented web-framework compiles to native written with \u2665",
     "license": "MIT",
     "web": "https://github.com/HapticX/happyx-native"
   },
@@ -34024,7 +34039,7 @@
       "syntax",
       "utility"
     ],
-    "description": "🍬 General syntactic sugar",
+    "description": "\ud83c\udf6c General syntactic sugar",
     "license": "MIT",
     "web": "https://github.com/FyraLabs/sweet"
   },
@@ -35010,7 +35025,7 @@
       "ux",
       "gui"
     ],
-    "description": "buju (布局) is a simple layout engine, based on layout.h",
+    "description": "buju (\u5e03\u5c40) is a simple layout engine, based on layout.h",
     "license": "MIT",
     "web": "https://github.com/haoyu234/buju"
   },
@@ -35779,7 +35794,7 @@
       "network",
       "darwin"
     ],
-    "description": "System metrics library for macOS (Darwin) written in pure Nim — CPU, memory, disk, processes, and more.",
+    "description": "System metrics library for macOS (Darwin) written in pure Nim \u2014 CPU, memory, disk, processes, and more.",
     "license": "MIT",
     "web": "https://github.com/sm-moshi/darwinmetrics"
   },
@@ -37228,7 +37243,7 @@
       "framework",
       "graphics",
       "develop",
-      "löve2d",
+      "l\u00f6ve2d",
       "naylib"
     ],
     "description": "A lightweight 2D game framework for Nim",
@@ -38412,9 +38427,9 @@
       "graphics",
       "images",
       "report",
-      "doс"
+      "do\u0441"
     ],
-    "description": "Pure Nim PDF generation library — create PDF documents with text, fonts, graphics, and images. Inspired by the PHP FPDF API.",
+    "description": "Pure Nim PDF generation library \u2014 create PDF documents with text, fonts, graphics, and images. Inspired by the PHP FPDF API.",
     "license": "MIT",
     "web": "https://github.com/akvilary/fpdf"
   },
@@ -38433,7 +38448,7 @@
       "chronos",
       "starlight"
     ],
-    "description": "Super fast async SSR framework — type-safe layouts, zero-copy rendering, compile-time HTML optimization, uses Chronos",
+    "description": "Super fast async SSR framework \u2014 type-safe layouts, zero-copy rendering, compile-time HTML optimization, uses Chronos",
     "license": "MIT",
     "web": "https://github.com/akvilary/starlight"
   },
