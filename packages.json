@@ -26282,6 +26282,22 @@
     "web": "https://github.com/abisxir/alasgar"
   },
   {
+    "name": "tiara",
+    "url": "https://github.com/nimmer-jp/tiara",
+    "method": "git",
+    "tags": [
+      "web",
+      "ui",
+      "ssr",
+      "html",
+      "components",
+      "nim"
+    ],
+    "description": "Pure Nim UI component library for SSR-first applications",
+    "license": "MIT",
+    "web": "https://github.com/nimmer-jp/tiara"
+  },
+  {
     "name": "tic80",
     "url": "https://github.com/thisago/tic80",
     "method": "git",
