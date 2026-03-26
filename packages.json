@@ -1,5 +1,31 @@
 [
   {
+    "name": "humanize",
+    "url": "https://github.com/akvilary/humanize",
+    "method": "git",
+    "tags": [
+      "humanize",
+      "formatting",
+      "numbers",
+      "filesize",
+      "time",
+      "duration",
+      "locale",
+      "i18n",
+      "english",
+      "arabic",
+      "german",
+      "spanish",
+      "french",
+      "italian",
+      "russian",
+      "chinese"
+    ],
+    "description": "Human-readable formatting of numbers, file sizes, times, durations, and lists. Locales: en, ar, de, es, fr, it, ru, zh",
+    "license": "MIT",
+    "web": "https://github.com/akvilary/humanize"
+  },
+  {
     "name": "unislug",
     "url": "https://github.com/akvilary/unislug",
     "method": "git",
