@@ -1,5 +1,22 @@
 [
   {
+    "name": "mailclient",
+    "url": "https://github.com/akvilary/mailclient",
+    "method": "git",
+    "tags": [
+      "mail",
+      "email",
+      "imap",
+      "pop3",
+      "client",
+      "network",
+      "async"
+    ],
+    "description": "IMAP and POP3 client library with sync and async API support",
+    "license": "MIT",
+    "web": "https://github.com/akvilary/mailclient"
+  },
+  {
     "name": "humanize",
     "url": "https://github.com/akvilary/humanize",
     "method": "git",
