@@ -1,5 +1,20 @@
 [
   {
+    "name": "unislug",
+    "url": "https://github.com/akvilary/unislug",
+    "method": "git",
+    "tags": [
+      "slug",
+      "slugify",
+      "unicode",
+      "transliteration",
+      "url"
+    ],
+    "description": "URL-safe slug generation from Unicode strings with transliteration support",
+    "license": "MIT",
+    "web": "https://github.com/akvilary/unislug"
+  },
+  {
     "name": "dmarcmaster",
     "url": "https://github.com/capocasa/dmarcmaster",
     "method": "git",
