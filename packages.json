@@ -11,9 +11,17 @@
       "time",
       "duration",
       "locale",
-      "i18n"
+      "i18n",
+      "english",
+      "arabic",
+      "german",
+      "spanish",
+      "french",
+      "italian",
+      "russian",
+      "chinese"
     ],
-    "description": "Human-readable formatting of numbers, file sizes, times, durations, and lists with locale support",
+    "description": "Human-readable formatting of numbers, file sizes, times, durations, and lists. Locales: en, ar, de, es, fr, it, ru, zh",
     "license": "MIT",
     "web": "https://github.com/akvilary/humanize"
   },
