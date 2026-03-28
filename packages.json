@@ -13460,6 +13460,8 @@
     "description": "DirectX 12 wrapper for Nim on Windows.",
     "license": "MIT",
     "web": "https://github.com/treeform/dx12"
+  },
+  {
     "name": "gltf",
     "url": "https://github.com/treeform/gltf",
     "method": "git",
