@@ -13462,6 +13462,22 @@
     "web": "https://github.com/treeform/dx12"
   },
   {
+    "name": "gltf",
+    "url": "https://github.com/treeform/gltf",
+    "method": "git",
+    "tags": [
+      "gltf",
+      "3d",
+      "graphics",
+      "opengl",
+      "pbr",
+      "viewer"
+    ],
+    "description": "glTF 2.0 library and viewer.",
+    "license": "MIT",
+    "web": "https://github.com/treeform/gltf"
+  },
+  {
     "name": "xdo",
     "url": "https://github.com/juancarlospaco/nim-xdo",
     "method": "git",
