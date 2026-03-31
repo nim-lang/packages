@@ -37929,7 +37929,7 @@
     "description": "Async-first ORM and libSQL client for Nim",
     "license": "MIT",
     "web": "https://github.com/nimmer-jp/nimtra"
-  }
+  },
   {
   "name": "nimdot_env",
   "url": "https://github.com/Denis-ctr/nimdot-env",
