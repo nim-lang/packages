@@ -38556,5 +38556,26 @@
     ],
     "description": "Multi-threaded chronos HTTP server with httpx-compatible API",
     "license": "MIT"
+  },
+  {
+    "name": "nimgeos",
+    "url": "https://github.com/JohnMoutafis/nimgeos",
+    "method": "git",
+    "tags": [
+      "library",
+      "wrapper",
+      "ffi",
+      "geos",
+      "geometry",
+      "geospatial",
+      "gis",
+      "spatial",
+      "wkt",
+      "wkb",
+      "geojson"
+  ],
+    "description": "Nim wrapper for the GEOS geometry engine (`libgeos_c`).",
+    "license": "MIT",
+    "web": "https://github.com/JohnMoutafis/nimgeos"
   }
 ]
