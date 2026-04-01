@@ -37879,6 +37879,22 @@
     "web": "https://github.com/Brokezawa/nebble"
   },
   {
+    "name": "toon",
+    "url": "https://github.com/copyleftdev/nim-toon",
+    "method": "git",
+    "tags": [
+      "toon",
+      "json",
+      "serialization",
+      "parser",
+      "llm",
+      "ai"
+    ],
+    "description": "Nim implementation of TOON (Token-Oriented Object Notation): compact, human-readable JSON serialization and parsing for AI and LLM prompt workflows.",
+    "license": "MIT",
+    "web": "https://github.com/copyleftdev/nim-toon"
+  },
+  {
     "name": "dimslash",
     "url": "https://github.com/gaato/dimslash",
     "method": "git",
