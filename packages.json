@@ -38608,6 +38608,24 @@
     "web": "https://github.com/fox0430/chronos-smtp"
   },
   {
+    "name": "e2ee",
+    "url": "https://github.com/openpeeps/e2ee",
+    "method": "git",
+    "tags": [
+      "monocypher",
+      "e2ee",
+      "encryption",
+      "crypto",
+      "chacha",
+      "blake2b",
+      "password",
+      "hashing"
+    ],
+    "description": "Monocypher E2EE, Hashing, Password Hashing, Sealing and Key Exchange",
+    "license": "MIT",
+    "web": "https://github.com/openpeeps/e2ee"
+  },
+  {
     "name": "bunnery",
     "url": "https://github.com/elcritch/bunnery",
     "method": "git",
