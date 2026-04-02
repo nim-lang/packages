@@ -38608,6 +38608,25 @@
     "web": "https://github.com/fox0430/chronos-smtp"
   },
   {
+    "name": "figdraw",
+    "url": "https://github.com/elcritch/figdraw",
+    "method": "git",
+    "tags": [
+      "graphics",
+      "2d",
+      "renderer",
+      "gui",
+      "opengl",
+      "metal",
+      "vulkan",
+      "sdf",
+      "ui"
+    ],
+    "description": "UI Engine for Nim",
+    "license": "MIT",
+    "web": "https://github.com/elcritch/figdraw"
+  },
+  {
     "name": "metalx",
     "url": "https://github.com/elcritch/metalx",
     "method": "git",
