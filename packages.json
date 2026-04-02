@@ -38608,6 +38608,23 @@
     "web": "https://github.com/fox0430/chronos-smtp"
   },
   {
+    "name": "metalx",
+    "url": "https://github.com/elcritch/metalx",
+    "method": "git",
+    "tags": [
+      "metal",
+      "wrappers",
+      "bindings",
+      "metal3",
+      "macos",
+      "gui",
+      "graphics"
+    ],
+    "description": "metal bindings",
+    "license": "MIT",
+    "web": "https://github.com/elcritch/metalx"
+  },
+  {
     "name": "openlayers",
     "url": "https://github.com/elcritch/openlayers-nim",
     "method": "git",
