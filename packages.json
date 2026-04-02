@@ -38623,5 +38623,20 @@
     "description": "metal bindings",
     "license": "MIT",
     "web": "https://github.com/elcritch/metalx"
+  },
+  {
+    "name": "openlayers",
+    "url": "https://github.com/elcritch/openlayers-nim",
+    "method": "git",
+    "tags": [
+      "openlayers",
+      "javascript",
+      "mapping",
+      "maps",
+      "gis"
+    ],
+    "description": "openlayer javascript bindings",
+    "license": "BSD-2-Clause",
+    "web": "https://github.com/elcritch/openlayers-nim"
   }
 ]
