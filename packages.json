@@ -38608,6 +38608,21 @@
     "web": "https://github.com/fox0430/chronos-smtp"
   },
   {
+    "name": "bunnery",
+    "url": "https://github.com/elcritch/bunnery",
+    "method": "git",
+    "tags": [
+      "javascript",
+      "bundling",
+      "bun",
+      "treeshake",
+      "utility"
+    ],
+    "description": "bun helper scripts",
+    "license": "BSD-2-Clause",
+    "web": "https://github.com/elcritch/bunnery"
+  },
+  {
     "name": "figdraw",
     "url": "https://github.com/elcritch/figdraw",
     "method": "git",
