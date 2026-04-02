@@ -38621,5 +38621,56 @@
     "description": "bun helper scripts",
     "license": "BSD-2-Clause",
     "web": "https://github.com/elcritch/bunnery"
+  },
+  {
+    "name": "figdraw",
+    "url": "https://github.com/elcritch/figdraw",
+    "method": "git",
+    "tags": [
+      "graphics",
+      "2d",
+      "renderer",
+      "gui",
+      "opengl",
+      "metal",
+      "vulkan",
+      "sdf",
+      "ui"
+    ],
+    "description": "UI Engine for Nim",
+    "license": "MIT",
+    "web": "https://github.com/elcritch/figdraw"
+  },
+  {
+    "name": "metalx",
+    "url": "https://github.com/elcritch/metalx",
+    "method": "git",
+    "tags": [
+      "metal",
+      "wrappers",
+      "bindings",
+      "metal3",
+      "macos",
+      "gui",
+      "graphics"
+    ],
+    "description": "metal bindings",
+    "license": "MIT",
+    "web": "https://github.com/elcritch/metalx"
+  },
+  {
+    "name": "openlayers",
+    "url": "https://github.com/elcritch/openlayers-nim",
+    "method": "git",
+    "tags": [
+      "openlayers",
+      "javascript",
+      "mapping",
+      "maps",
+      "gis"
+    ],
+    "description": "openlayer javascript bindings",
+    "license": "BSD-2-Clause",
+    "web": "https://github.com/elcritch/openlayers-nim"
   }
 ]
