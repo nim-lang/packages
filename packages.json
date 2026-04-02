@@ -38706,5 +38706,17 @@
     "description": "openlayer javascript bindings",
     "license": "BSD-2-Clause",
     "web": "https://github.com/elcritch/openlayers-nim"
+  },
+  {
+    "name": "atlas",
+    "url": "https://github.com/nim-lang/atlas",
+    "method": "git",
+    "description": "The Atlas Package cloner. It manages an isolated workspace that contains projects and dependencies.",
+    "license": "MIT",
+    "web": "https://github.com/nim-lang/atlas",
+    "tags": [
+      "packages",
+      "workspace"
+    ]
   }
 ]
