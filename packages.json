@@ -38608,6 +38608,22 @@
     "web": "https://github.com/fox0430/chronos-smtp"
   },
   {
+    "name": "twofa",
+    "url": "https://github.com/openpeeps/twofa",
+    "method": "git",
+    "tags": [
+      "otp",
+      "totp",
+      "qrcode",
+      "qr",
+      "twofactor",
+      "auth"
+    ],
+    "description": "Simple 2FA QR CodeGen based on otp & qr packages",
+    "license": "MIT",
+    "web": "https://github.com/openpeeps/twofa"
+  },
+  {
     "name": "e2ee",
     "url": "https://github.com/openpeeps/e2ee",
     "method": "git",
