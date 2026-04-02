@@ -38622,5 +38622,89 @@
     "description": "Simple 2FA QR CodeGen based on otp & qr packages",
     "license": "MIT",
     "web": "https://github.com/openpeeps/twofa"
+  },
+  {
+    "name": "e2ee",
+    "url": "https://github.com/openpeeps/e2ee",
+    "method": "git",
+    "tags": [
+      "monocypher",
+      "e2ee",
+      "encryption",
+      "crypto",
+      "chacha",
+      "blake2b",
+      "password",
+      "hashing"
+    ],
+    "description": "Monocypher E2EE, Hashing, Password Hashing, Sealing and Key Exchange",
+    "license": "MIT",
+    "web": "https://github.com/openpeeps/e2ee"
+  },
+  {
+    "name": "bunnery",
+    "url": "https://github.com/elcritch/bunnery",
+    "method": "git",
+    "tags": [
+      "javascript",
+      "bundling",
+      "bun",
+      "treeshake",
+      "utility"
+    ],
+    "description": "bun helper scripts",
+    "license": "BSD-2-Clause",
+    "web": "https://github.com/elcritch/bunnery"
+  },
+  {
+    "name": "figdraw",
+    "url": "https://github.com/elcritch/figdraw",
+    "method": "git",
+    "tags": [
+      "graphics",
+      "2d",
+      "renderer",
+      "gui",
+      "opengl",
+      "metal",
+      "vulkan",
+      "sdf",
+      "ui"
+    ],
+    "description": "UI Engine for Nim",
+    "license": "MIT",
+    "web": "https://github.com/elcritch/figdraw"
+  },
+  {
+    "name": "metalx",
+    "url": "https://github.com/elcritch/metalx",
+    "method": "git",
+    "tags": [
+      "metal",
+      "wrappers",
+      "bindings",
+      "metal3",
+      "macos",
+      "gui",
+      "graphics"
+    ],
+    "description": "metal bindings",
+    "license": "MIT",
+    "web": "https://github.com/elcritch/metalx"
+  },
+  {
+    "name": "openlayers",
+    "url": "https://github.com/elcritch/openlayers-nim",
+    "method": "git",
+    "tags": [
+      "openlayers",
+      "javascript",
+      "mapping",
+      "maps",
+      "gis"
+    ],
+    "description": "openlayer javascript bindings",
+    "license": "BSD-2-Clause",
+    "web": "https://github.com/elcritch/openlayers-nim"
   }
 ]
