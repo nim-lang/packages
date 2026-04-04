@@ -38718,5 +38718,23 @@
       "packages",
       "workspace"
     ]
+  },
+  {
+    "name": "impeller",
+    "url": "https://github.com/openpeeps/impeller-nim",
+    "method": "git",
+    "tags": [
+      "renderer",
+      "engine",
+      "2d",
+      "graphics",
+      "flutter",
+      "typography",
+      "gui",
+      "ui"
+    ],
+    "description": "Bindings to Flutter's 2D vector graphics renderer",
+    "license": "MIT",
+    "web": "https://github.com/openpeeps/impeller-nim"
   }
 ]
