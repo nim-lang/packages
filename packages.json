@@ -38736,5 +38736,17 @@
     "description": "Bindings to Flutter's 2D vector graphics renderer",
     "license": "MIT",
     "web": "https://github.com/openpeeps/impeller-nim"
+  },
+  {
+    "name": "nexus",
+    "url": "https://github.com/jordan15citizen/nexus",
+    "method": "git",
+    "tags": [
+      "wrapper",
+      "git"
+    ],
+    "description": "Wrapper for Git and other things",
+    "license": "MIT",
+    "web": "https://github.com/jordan15citizen/nexus"
   }
 ]
