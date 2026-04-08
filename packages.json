@@ -38749,5 +38749,19 @@
     "description": "DNS client implementation using chronos",
     "license": "MIT",
     "web": "https://github.com/fox0430/chronos-dnsc"
+  },
+  {
+    "name": "audio2json",
+    "url": "https://codeberg.org/SpotlightKid/audio2json",
+    "method": "git",
+    "tags": [
+      "audio",
+      "waveform",
+      "command-line",
+      "library",
+    ],
+    "description": "Generate sample peak data in JSON format from audio files",
+    "license": "MIT",
+    "web": "https://codeberg.org/SpotlightKid/audio2json"
   }
 ]
