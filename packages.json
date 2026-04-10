@@ -38758,7 +38758,7 @@
       "audio",
       "waveform",
       "command-line",
-      "library",
+      "library"
     ],
     "description": "Generate sample peak data in JSON format from audio files",
     "license": "MIT",
