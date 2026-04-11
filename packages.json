@@ -38763,5 +38763,20 @@
     "description": "Generate sample peak data in JSON format from audio files",
     "license": "MIT",
     "web": "https://codeberg.org/SpotlightKid/audio2json"
+  },
+  {
+    "name": "atem",
+    "url": "https://github.com/capocasa/atem",
+    "method": "git",
+    "tags": [
+      "facebook",
+      "meta",
+      "graph-api",
+      "social-media",
+      "cli"
+    ],
+    "description": "Facebook Page management CLI via Meta Graph API",
+    "license": "MIT",
+    "web": "https://github.com/capocasa/atem"
   }
 ]
