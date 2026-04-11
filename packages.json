@@ -31681,6 +31681,26 @@
     "web": "https://github.com/indiscipline/cozylogwriter"
   },
   {
+    "name": "cliprompts",
+    "url": "https://github.com/indiscipline/cliprompts",
+    "method": "git",
+    "tags": [
+      "cli",
+      "interactive",
+      "command-line",
+      "terminal",
+      "color",
+      "library",
+      "prompts",
+      "prompting",
+      "questions"
+    ],
+    "description": "Interactive CLI prompt library for Nim. Simple, typed, cross-platform, still cozy.",
+    "doc": "https://indiscipline.github.io/cliprompts/",
+    "web": "https://github.com/indiscipline/cliprompts",
+    "license": "GPL-2.0-or-later"
+  },
+  {
     "name": "grammarian",
     "url": "https://github.com/olmeca/grammarian",
     "method": "git",
