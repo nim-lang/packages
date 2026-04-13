@@ -38798,5 +38798,21 @@
     "description": "Facebook Page management CLI via Meta Graph API",
     "license": "MIT",
     "web": "https://github.com/capocasa/atem"
+  },
+  {
+    "name": "argsbarg",
+    "url": "https://github.com/bdombro/nim-argsbarg",
+    "method": "git",
+    "tags": [
+      "cli",
+      "command-line",
+      "argument-parsing",
+      "completion",
+      "zsh",
+      "library"
+    ],
+    "description": "argsbarg: schema based cli framework with zsh completions",
+    "license": "MIT",
+    "web": "https://github.com/bdombro/nim-argsbarg"
   }
 ]
