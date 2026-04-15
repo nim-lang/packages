@@ -36178,6 +36178,17 @@
     "web": "https://github.com/vacp2p/nim-quic"
   },
   {
+    "name": "lsquic",
+    "url": "https://github.com/vacp2p/nim-lsquic",
+    "method": "git",
+    "tags": [
+      "quic"
+    ],
+    "description": "Nim wrapper around lsquic with a Chronos-based async API",
+    "license": "MIT",
+    "web": "https://github.com/vacp2p/nim-lsquic"
+  },
+  {
     "name": "tang",
     "url": "https://github.com/5-6-1/tang-nim",
     "method": "git",
