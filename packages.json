@@ -38827,6 +38827,26 @@
     "web": "https://github.com/bdombro/nim-argsbarg"
   },
   {
+    "name": "openparser",
+    "url": "https://github.com/openpeeps/openparser",
+    "method": "git",
+    "tags": [
+      "json",
+      "parser",
+      "feed",
+      "rss",
+      "xml",
+      "csv",
+      "zero-copy",
+      "memfiles",
+      "datasets",
+      "data"
+    ],
+    "description": "Tiny parsers and serializers for JSON, CSV, RSS, Atom feeds and more",
+    "license": "MIT",
+    "web": "https://github.com/openpeeps/openparser"
+  },
+  {
     "name": "duckdb",
     "url": "https://github.com/openpeeps/duckdb-nim",
     "method": "git",
