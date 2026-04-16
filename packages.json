@@ -36178,6 +36178,17 @@
     "web": "https://github.com/vacp2p/nim-quic"
   },
   {
+    "name": "lsquic",
+    "url": "https://github.com/vacp2p/nim-lsquic",
+    "method": "git",
+    "tags": [
+      "quic"
+    ],
+    "description": "Nim wrapper around lsquic with a Chronos-based async API",
+    "license": "MIT",
+    "web": "https://github.com/vacp2p/nim-lsquic"
+  },
+  {
     "name": "tang",
     "url": "https://github.com/5-6-1/tang-nim",
     "method": "git",
@@ -38834,5 +38845,21 @@
     "description": "Tiny parsers and serializers for JSON, CSV, RSS, Atom feeds and more",
     "license": "MIT",
     "web": "https://github.com/openpeeps/openparser"
+  },
+  {
+    "name": "duckdb",
+    "url": "https://github.com/openpeeps/duckdb-nim",
+    "method": "git",
+    "tags": [
+      "db",
+      "sql",
+      "json",
+      "csv",
+      "analytics",
+      "database"
+    ],
+    "description": "Bindings for DuckDB analytical database",
+    "license": "MIT",
+    "web": "https://github.com/openpeeps/duckdb-nim"
   }
 ]
