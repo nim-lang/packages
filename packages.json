@@ -38878,5 +38878,25 @@
     "description": "Bindings to ZXC compression library",
     "license": "MIT",
     "web": "https://github.com/openpeeps/zxc-nim"
+  },
+  {
+    "name": "vancode",
+    "url": "https://github.com/openpeeps/vancode",
+    "method": "git",
+    "tags": [
+      "vm",
+      "codegen",
+      "interpreter",
+      "stackvm",
+      "tim",
+      "dsl",
+      "scripting",
+      "engine",
+      "programming",
+      "language"
+    ],
+    "description": "A flexible AST, Codegen and Virtual Machine library",
+    "license": "LGPL-3.0-or-later",
+    "web": "https://github.com/openpeeps/vancode"
   }
 ]
