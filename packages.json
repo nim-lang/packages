@@ -9869,17 +9869,20 @@
   },
   {
     "name": "gintro",
-    "url": "https://github.com/stefansalewski/gintro",
+    "url": "https://github.com/KellerKev/gintro",
     "method": "git",
     "tags": [
       "library",
       "gtk",
+      "gtk4",
+      "gtk3",
       "wrapper",
-      "gui"
+      "gui",
+      "gobject-introspection"
     ],
-    "description": "High level GObject-Introspection based GTK3 bindings",
+    "description": "High level GObject-Introspection based GTK4/GTK3 bindings (Nim 2.x compatible)",
     "license": "MIT",
-    "web": "https://github.com/stefansalewski/gintro"
+    "web": "https://github.com/KellerKev/gintro"
   },
   {
     "name": "arraymancer",
