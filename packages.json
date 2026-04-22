@@ -38912,5 +38912,16 @@
     "description": "A flexible AST, Codegen and Virtual Machine library",
     "license": "LGPL-3.0-or-later",
     "web": "https://github.com/openpeeps/vancode"
+  },
+  {
+    "name": "reni",
+    "url": "https://github.com/fox0430/reni",
+    "method": "git",
+    "tags": [
+      "regex"
+    ],
+    "description": "A regular expression engine compatible with Oniguruma",
+    "license": "MIT",
+    "web": "https://github.com/fox0430/reni"
   }
 ]
