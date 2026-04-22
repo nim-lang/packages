@@ -13478,6 +13478,20 @@
     "web": "https://github.com/treeform/gltf"
   },
   {
+    "name": "paddy",
+    "url": "https://github.com/treeform/paddy",
+    "method": "git",
+    "tags": [
+      "gamepad",
+      "controller",
+      "input",
+      "game"
+    ],
+    "description": "Paddy is a gamepad API for Nim.",
+    "license": "MIT",
+    "web": "https://github.com/treeform/paddy"
+  },
+  {
     "name": "xdo",
     "url": "https://github.com/juancarlospaco/nim-xdo",
     "method": "git",
