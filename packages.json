@@ -38940,5 +38940,22 @@
     "description": "LetterXpress client for sending German postal letters from PDF",
     "license": "MIT",
     "web": "https://github.com/capocasa/lxprs"
+  },
+  {
+    "name": "supranim_session",
+    "url": "https://github.com/supranim/session",
+    "method": "git",
+    "tags": [
+      "auth",
+      "session",
+      "login",
+      "register",
+      "csrf",
+      "supranim",
+      "cookie"
+    ],
+    "description": "Auth & Session Management for Supranim apps",
+    "license": "MIT",
+    "web": "https://github.com/supranim/session"
   }
 ]
