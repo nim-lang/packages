@@ -38926,5 +38926,19 @@
     "description": "A regular expression engine compatible with Oniguruma",
     "license": "MIT",
     "web": "https://github.com/fox0430/reni"
+  },
+  {
+    "name": "lxprs",
+    "url": "https://github.com/capocasa/lxprs",
+    "method": "git",
+    "tags": [
+      "letterxpress",
+      "cli",
+      "postal",
+      "germany"
+    ],
+    "description": "LetterXpress client for sending German postal letters from PDF",
+    "license": "MIT",
+    "web": "https://github.com/capocasa/lxprs"
   }
 ]
