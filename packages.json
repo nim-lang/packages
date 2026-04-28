@@ -38957,5 +38957,17 @@
     "description": "Auth & Session Management for Supranim apps",
     "license": "MIT",
     "web": "https://github.com/supranim/session"
+  },
+  {
+    "name": "textmate",
+    "url": "https://github.com/fox0430/nim-textmate",
+    "method": "git",
+    "tags": [
+      "parse",
+      "textmate"
+    ],
+    "description": "A TextMate grammar parser",
+    "license": "MIT",
+    "web": "https://github.com/fox0430/nim-textmate"
   }
 ]
