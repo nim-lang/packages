@@ -39002,6 +39002,23 @@
     "web": "https://github.com/capocasa/streamhttp"
   },
   {
+    "name": "sarcophagus",
+    "url": "https://github.com/elcritch/sarcophagus",
+    "method": "git",
+    "tags": [
+      "nim",
+      "mummy",
+      "web-framework",
+      "api-router",
+      "typed-routes",
+      "openapi",
+      "swagger"
+    ],
+    "description": "mummy higher level api wrapper",
+    "license": "Apache-2.0",
+    "web": "https://github.com/elcritch/sarcophagus"
+  },
+  {
     "name": "chroniclers",
     "url": "https://github.com/elcritch/chroniclers",
     "method": "git",
