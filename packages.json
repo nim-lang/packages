@@ -38984,5 +38984,21 @@
     "description": "Type-safe, thread-local, decoupled messaging patterns for Nim",
     "license": "MIT",
     "web": "https://github.com/NagyZoltanPeter/nim-brokers"
+  },
+  {
+    "name": "streamhttp",
+    "url": "https://github.com/capocasa/streamhttp",
+    "method": "git",
+    "tags": [
+      "http",
+      "client",
+      "streaming",
+      "sse",
+      "chunked",
+      "tls"
+    ],
+    "description": "Tiny synchronous streaming HTTP/1.1 client. Reads chunked bodies as they arrive.",
+    "license": "MIT",
+    "web": "https://github.com/capocasa/streamhttp"
   }
 ]
