@@ -38969,5 +38969,20 @@
     "description": "A TextMate grammar parser",
     "license": "MIT",
     "web": "https://github.com/fox0430/nim-textmate"
+  },
+  {
+    "name": "brokers",
+    "url": "https://github.com/NagyZoltanPeter/nim-brokers",
+    "method": "git",
+    "tags": [
+      "library",
+      "dataexchange",
+      "async",
+      "multithread",
+      "ffi"
+    ],
+    "description": "Type-safe, thread-local, decoupled messaging patterns for Nim",
+    "license": "MIT",
+    "web": "https://github.com/NagyZoltanPeter/nim-brokers"
   }
 ]
