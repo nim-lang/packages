@@ -39000,5 +39000,19 @@
     "description": "Tiny synchronous streaming HTTP/1.1 client. Reads chunked bodies as they arrive.",
     "license": "MIT",
     "web": "https://github.com/capocasa/streamhttp"
+  },
+  {
+    "name": "chroniclers",
+    "url": "https://github.com/elcritch/chroniclers",
+    "method": "git",
+    "tags": [
+      "logging",
+      "structured-logging",
+      "logging-facade",
+      "chronicles"
+    ],
+    "description": "Compile-time selectable structured logging facade for Nim",
+    "license": "BSD-2-Clause",
+    "web": "https://github.com/elcritch/chroniclers"
   }
 ]
