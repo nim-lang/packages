@@ -39031,5 +39031,17 @@
     "description": "Compile-time selectable structured logging facade for Nim",
     "license": "BSD-2-Clause",
     "web": "https://github.com/elcritch/chroniclers"
+  },
+  {
+    "name": "Nimduvo",
+    "url": "https://github.com/sednoids/Nimduvo",
+    "method": "git",
+    "tags": [
+      "api-wrapper",
+      "api"
+    ],
+    "description": "An asynchronous Nim wrapper for the Luduvo API.",
+    "license": "MIT License",
+    "web": "https://github.com/sednoids/Nimduvo"
   }
 ]
