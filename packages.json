@@ -36,7 +36,7 @@
     ],
     "description": "Native WinRM client library for Nim with NTLM, Kerberos, PSRP, and WinRS support",
     "license": "MIT",
-    "web": "https://github.com/blue0x1/nim-winrm"  
+    "web": "https://github.com/blue0x1/nim-winrm"
   },
   {
     "name": "mailclient",
@@ -39097,5 +39097,21 @@
     "description": "Nim binding for libSQL - an open source, open contribution fork of SQLite",
     "license": "MIT",
     "web": "https://github.com/bung87/libsql"
+  },
+  {
+    "name": "spf",
+    "url": "https://github.com/openpeeps/libspf-nim",
+    "method": "git",
+    "tags": [
+      "spf",
+      "email",
+      "smtp",
+      "mail",
+      "security",
+      "dns"
+    ],
+    "description": "Bindings for the SPF library",
+    "license": "MIT",
+    "web": "https://github.com/openpeeps/libspf-nim"
   }
 ]
