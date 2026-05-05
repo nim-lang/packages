@@ -39113,5 +39113,21 @@
     "description": "Bindings for the SPF library",
     "license": "MIT",
     "web": "https://github.com/openpeeps/libspf-nim"
+  },
+  {
+    "name": "opendmarc",
+    "url": "https://github.com/openpeeps/libopendmarc-nim",
+    "method": "git",
+    "tags": [
+      "dkim",
+      "spf",
+      "dmarc",
+      "arc",
+      "mail",
+      "smtp"
+    ],
+    "description": "OpenDMARC bindings",
+    "license": "MIT",
+    "web": "https://github.com/openpeeps/libopendmarc-nim"
   }
 ]
