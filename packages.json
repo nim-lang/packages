@@ -39159,5 +39159,22 @@
     "description": "Paddle API client",
     "license": "MIT",
     "web": "https://github.com/openpeeps/paddle-nim"
+  },
+  {
+    "name": "boogie",
+    "url": "https://github.com/openpeeps/boogie",
+    "method": "git",
+    "tags": [
+      "wal",
+      "db",
+      "database",
+      "store",
+      "vector",
+      "columnar",
+      "cache"
+    ],
+    "description": "A suite of WAL-based data stores",
+    "license": "LGPL-3.0-or-later",
+    "web": "https://github.com/openpeeps/boogie"
   }
 ]
