@@ -39176,5 +39176,24 @@
     "description": "A suite of WAL-based data stores",
     "license": "LGPL-3.0-or-later",
     "web": "https://github.com/openpeeps/boogie"
+  },
+  {
+    "name": "gumroad",
+    "url": "https://github.com/openpeeps/gumroad-nim",
+    "method": "git",
+    "tags": [
+      "api",
+      "client",
+      "rest",
+      "gumroad",
+      "payments",
+      "ecommerce",
+      "marketplace",
+      "shop",
+      "products"
+    ],
+    "description": "API client for Gumroad.com",
+    "license": "MIT",
+    "web": "https://github.com/openpeeps/gumroad-nim"
   }
 ]
