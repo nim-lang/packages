@@ -39,6 +39,24 @@
     "web": "https://github.com/blue0x1/nim-winrm"
   },
   {
+    "name": "xpath",
+    "url": "https://github.com/blue0x1/xpath",
+    "method": "git",
+    "tags": [
+      "xpath",
+      "xpath-injection",
+      "security",
+      "scanner",
+      "pentesting",
+      "web-security",
+      "xml",
+      "cli"
+    ],
+    "description": "Advanced XPath injection scanner for authorized security testing",
+    "license": "MIT",
+    "web": "https://github.com/blue0x1/xpath"
+  },
+  {
     "name": "mailclient",
     "url": "https://github.com/akvilary/mailclient",
     "method": "git",
