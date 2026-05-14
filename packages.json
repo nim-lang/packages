@@ -39273,5 +39273,18 @@
     "description": "Bindings for Intel's Hyperscan library",
     "license": "MIT",
     "web": "https://github.com/openpeeps/hyperscan-nim"
+  },
+  {
+    "name": "bau",
+    "url": "https://github.com/bitstormFA/bau",
+    "method": "git",
+    "tags": [
+      "build",
+      "tool",
+      "cli"
+    ],
+    "description": "A modern build tool for Nim",
+    "license": "MIT",
+    "web": "https://github.com/bitstormFA/bau"
   }
 ]
