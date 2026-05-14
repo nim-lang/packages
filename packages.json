@@ -39243,5 +39243,20 @@
     "description": "CLI tool for managing Supranim projects",
     "license": "MIT",
     "web": "https://github.com/supranim/supra"
+  },
+  {
+    "name": "bau",
+    "url": "https://github.com/bitstormFA/bau",
+    "method": "git",
+    "tags": [
+      "nim",
+      "build",
+      "cli",
+      "dependencies",
+      "packaging"
+    ],
+    "description": "A modern build tool for Nim",
+    "license": "MIT",
+    "web": "https://github.com/bitstormFA/bau"
   }
 ]
