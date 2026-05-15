@@ -39288,5 +39288,20 @@
     "description": "A simple i18n library for Nim",
     "license": "MIT",
     "web": "https://github.com/openpeeps/oris"
+  },
+  {
+    "name": "bau",
+    "url": "https://github.com/bitstormFA/bau",
+    "method": "git",
+    "tags": [
+      "build",
+      "tool",
+      "package",
+      "manager",
+      "cli"
+    ],
+    "description": "A modern build tool for Nim",
+    "license": "MIT",
+    "web": "https://github.com/bitstormFA/bau"
   }
 ]
