@@ -39288,5 +39288,19 @@
     "description": "A simple i18n library for Nim",
     "license": "MIT",
     "web": "https://github.com/openpeeps/oris"
+  },
+  {
+    "name": "hate5d",
+    "url": "https://github.com/MarkArchive/hate5d",
+    "method": "git",
+    "tags": [
+      "engine",
+      "sdl2",
+      "game",
+      "love-like"
+    ],
+    "description": "häte5d: a lightweight moddable 2D game engine for Nim",
+    "license": "LGPL-3.0",
+    "web": "https://github.com/MarkArchive/hate5d"
   }
 ]
