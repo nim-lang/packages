@@ -39316,5 +39316,20 @@
     "license": "LGPL-3.0",
     "web": "https://github.com/AmanoTeam/httpquery",
     "doc": "https://amanoteam.github.io/httpquery/docs/httpquery.html"
+  },
+  {
+    "name": "bau",
+    "url": "https://github.com/bitstormFA/bau",
+    "method": "git",
+    "tags": [
+      "nim",
+      "build",
+      "cli",
+      "dependencies",
+      "packaging"
+    ],
+    "description": "A modern build tool for Nim",
+    "license": "MIT",
+    "web": "https://github.com/bitstormFA/bau"
   }
 ]
