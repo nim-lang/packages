@@ -39302,5 +39302,19 @@
     "description": "häte5d: a lightweight moddable 2D game engine for Nim",
     "license": "LGPL-3.0",
     "web": "https://github.com/MarkArchive/hate5d"
+  },
+  {
+    "name": "httpquery",
+    "url": "https://github.com/AmanoTeam/httpquery",
+    "method": "git",
+    "tags": [
+      "http",
+      "web",
+      "internet"
+    ],
+    "description": "A Nim library for creating and parsing RFC 3986 URL query strings",
+    "license": "LGPL-3.0",
+    "web": "https://github.com/AmanoTeam/httpquery",
+    "doc": "https://amanoteam.github.io/httpquery/docs/httpquery.html"
   }
 ]
