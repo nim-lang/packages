@@ -1,33 +1,18 @@
 import std/algorithm
 import std/json
 import std/os
-import std/osproc
 import std/parseopt
-import std/streams
 import std/strutils
 
 const Usage = """
 Usage:
   combine_packages [pkgs-dir] [packages.json]
-  combine_packages check-split [packages.json] [pkgs-dir]
-  combine_packages prepare-old [packages.json] [packages_old.json]
 
-Commands:
-  combine        Combine sharded package files into packages.json. This is the default.
-  check-split    Validate that packages.json can be sharded into pkgs/<letter>/<name>.json.
-  prepare-old    Fetch the PR merge base version of packages.json and save it as packages_old.json.
+Combine sharded package files back into packages.json.
 
-Combine arguments:
+Arguments:
   pkgs-dir       Input shard directory. Default: pkgs
   packages.json  Output manifest path. Default: packages.json
-
-Check-split arguments:
-  packages.json  Input manifest path. Default: packages.json
-  pkgs-dir       Shard directory name to simulate. Default: pkgs
-
-Prepare-old arguments:
-  packages.json      Current manifest path. Default: packages.json
-  packages_old.json  Merge-base manifest output path. Default: packages_old.json
 """
 
 proc cleanupWhitespace(s: string): string =
@@ -74,27 +59,6 @@ proc replaceFile(sourcePath, destinationPath: string) =
   if fileExists(destinationPath):
     removeFile(destinationPath)
   moveFile(sourcePath, destinationPath)
-
-proc runCommand(exe: string, args: openArray[string]): string =
-  var process = startProcess(
-    exe,
-    args = @args,
-    options = {poUsePath, poStdErrToStdOut}
-  )
-  let output = process.outputStream.readAll()
-  let exitCode = waitForExit(process)
-  close(process)
-
-  if exitCode != 0:
-    let rendered = @[exe] & @args
-    die("command failed: " & rendered.join(" ") & "\n" & output.strip())
-
-  result = output.strip()
-
-proc requireEnv(name: string): string =
-  result = getEnv(name)
-  if result.len == 0:
-    die("missing required environment variable: " & name)
 
 proc firstShardLetter(name: string): char =
   if name.len == 0:
@@ -165,11 +129,6 @@ proc collectPackageFiles(inputRoot: string): seq[string] =
     if path.toLowerAscii().endsWith(".json"):
       result.add(path)
 
-proc splitRelativePath(node: JsonNode, pathForErrors: string): string =
-  let name = packageName(node, pathForErrors)
-  let shard = $firstShardLetter(name)
-  result = shard / (name & ".json")
-
 proc combinePackages(inputRoot, outputPath: string) =
   if not dirExists(inputRoot):
     die("shard directory not found: " & inputRoot)
@@ -210,64 +169,6 @@ proc combinePackages(inputRoot, outputPath: string) =
   replaceFile(tmpPath, outputPath)
   echo "Wrote ", packages.len, " packages into ", outputPath
 
-proc checkSplitPackages(inputManifest, outputRootName: string) =
-  if not fileExists(inputManifest):
-    die("manifest file not found: " & inputManifest)
-
-  let manifest = parseFile(inputManifest)
-  if manifest.kind != JArray:
-    die("manifest must be a JSON array: " & inputManifest)
-
-  let tempRoot = getTempDir() / ("check-split-" & $getCurrentProcessId())
-  let shardRoot = tempRoot / outputRootName
-  defer:
-    if dirExists(tempRoot):
-      removeDir(tempRoot)
-
-  createDir(shardRoot)
-
-  var packageCount = 0
-  for index in 0 ..< manifest.len:
-    let pkg = manifest[index]
-    let pathForErrors = inputManifest & "[" & $index & "]"
-    validatePackageMetadata(pkg, pathForErrors)
-    let relativePath = splitRelativePath(pkg, pathForErrors)
-    let outputPath = shardRoot / relativePath
-    if fileExists(outputPath):
-      die("duplicate shard output path for " & pathForErrors & ": " & relativePath.replace('\\', '/'))
-
-    createDir(parentDir(outputPath))
-    writeFile(outputPath, pkg.pretty.cleanupWhitespace)
-    inc packageCount
-
-  if packageCount == 0:
-    die("manifest contains no packages: " & inputManifest)
-
-  echo "Validated split of ", packageCount, " packages into ", outputRootName
-
-proc prepareOldPackages(currentManifest, oldManifest: string) =
-  if not fileExists(currentManifest):
-    die("manifest file not found: " & currentManifest)
-
-  let repository = requireEnv("GITHUB_REPOSITORY")
-  let baseRef = requireEnv("GITHUB_BASE_REF")
-  let targetRepository = "https://github.com/" & repository
-  let mergeBranch = "merge-branch"
-  let baseBranch = "base"
-  let backupPath = currentManifest & ".bak"
-
-  copyFile(currentManifest, backupPath)
-  try:
-    discard runCommand("git", ["branch", "--force", mergeBranch, "HEAD"])
-    discard runCommand("git", ["fetch", targetRepository, baseRef & ":" & baseBranch])
-    let mergeBase = runCommand("git", ["merge-base", mergeBranch, baseBranch])
-    echo "Comparing against ", currentManifest, " at ", mergeBase
-    discard runCommand("git", ["checkout", mergeBase, "--", currentManifest])
-    replaceFile(currentManifest, oldManifest)
-  finally:
-    if fileExists(backupPath):
-      replaceFile(backupPath, currentManifest)
-
 proc cliMain(): int =
   var parser = initOptParser(commandLineParams())
   var positional: seq[string]
@@ -287,28 +188,6 @@ proc cliMain(): int =
         return 1
     of cmdArgument:
       positional.add(parser.key)
-
-  if positional.len > 0 and positional[0] == "prepare-old":
-    if positional.len > 3:
-      stderr.writeLine("error: too many arguments for prepare-old")
-      stderr.write(Usage)
-      return 1
-
-    let currentManifest = if positional.len >= 2: positional[1] else: "packages.json"
-    let oldManifest = if positional.len >= 3: positional[2] else: "packages_old.json"
-    prepareOldPackages(currentManifest, oldManifest)
-    return 0
-
-  if positional.len > 0 and positional[0] == "check-split":
-    if positional.len > 3:
-      stderr.writeLine("error: too many arguments for check-split")
-      stderr.write(Usage)
-      return 1
-
-    let inputManifest = if positional.len >= 2: positional[1] else: "packages.json"
-    let outputRootName = if positional.len >= 3: positional[2] else: "pkgs"
-    checkSplitPackages(inputManifest, outputRootName)
-    return 0
 
   if positional.len > 2:
     stderr.writeLine("error: too many arguments")
