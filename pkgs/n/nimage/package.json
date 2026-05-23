@@ -1,0 +1,11 @@
+{
+  "name": "nimage",
+  "url": "https://github.com/ethosa/nimage",
+  "method": "git",
+  "tags": [
+    "image"
+  ],
+  "description": "The image management library written in Nim.",
+  "license": "MIT",
+  "web": "https://github.com/ethosa/nimage"
+}

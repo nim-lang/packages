@@ -1,0 +1,16 @@
+{
+  "name": "nimhuml",
+  "url": "https://github.com/w3Abhishek/nimhuml",
+  "method": "git",
+  "tags": [
+    "huml",
+    "parser",
+    "serializer",
+    "markup",
+    "configuration",
+    "json"
+  ],
+  "description": "A Nim implementation of HUML (Human-Oriented Markup Language) parser and serializer",
+  "license": "MIT",
+  "web": "https://github.com/w3Abhishek/nimhuml"
+}

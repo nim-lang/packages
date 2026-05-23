@@ -1,0 +1,17 @@
+{
+  "name": "jestercookiemsgs",
+  "url": "https://github.com/JohnAD/jestercookiemsgs",
+  "method": "git",
+  "tags": [
+    "web",
+    "jester",
+    "cookie",
+    "message",
+    "notify",
+    "notification",
+    "plugin"
+  ],
+  "description": "A Jester web plugin that allows easy message passing between pages using a browser cookie.",
+  "license": "MIT",
+  "web": "https://github.com/JohnAD/jestercookiemsgs"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "run_exe",
+  "url": "https://github.com/V0idMatr1x/run_exe",
+  "method": "git",
+  "tags": [
+    "lib",
+    "osproc",
+    "subprocess",
+    "dsl"
+  ],
+  "description": "A Scripting ToolBox that provides a declarative DSL for ultimate productivity!",
+  "license": "GPL-3.0-or-later",
+  "web": "https://github.com/V0idMatr1x/run_exe"
+}

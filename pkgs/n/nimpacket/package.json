@@ -1,0 +1,15 @@
+{
+  "name": "nimpacket",
+  "url": "https://github.com/0x57Origin/NimPacket",
+  "method": "git",
+  "tags": [
+    "networking",
+    "packets",
+    "security",
+    "raw-sockets",
+    "protocols"
+  ],
+  "description": "Low-level packet crafting and raw socket networking library for Nim",
+  "license": "MIT",
+  "web": "https://nim-packet-website.vercel.app"
+}

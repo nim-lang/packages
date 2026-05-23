@@ -1,0 +1,14 @@
+{
+  "name": "deceptimeed",
+  "url": "https://github.com/cycneuramus/deceptimeed",
+  "method": "git",
+  "tags": [
+    "blocklist",
+    "ip-blocking",
+    "threat-intelligence",
+    "honeypot"
+  ],
+  "description": "Loads IP blocklists into nftables from plain text or JSON feeds",
+  "license": "AGPL-3.0-only",
+  "web": "https://github.com/cycneuramus/deceptimeed"
+}

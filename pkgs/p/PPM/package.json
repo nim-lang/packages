@@ -1,0 +1,12 @@
+{
+  "name": "PPM",
+  "url": "https://github.com/LemonHX/PPM-Nim",
+  "method": "git",
+  "tags": [
+    "graphics",
+    "image"
+  ],
+  "description": "lib for ppm image",
+  "license": "LXXSDT-MIT",
+  "web": "https://github.com/LemonHX/PPM-Nim"
+}

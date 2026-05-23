@@ -1,0 +1,14 @@
+{
+  "name": "nimqml",
+  "url": "https://github.com/filcuc/nimqml",
+  "method": "git",
+  "tags": [
+    "Qt",
+    "Qml",
+    "UI",
+    "GUI"
+  ],
+  "description": "Qt Qml bindings",
+  "license": "GPLv3",
+  "web": "https://github.com/filcuc/nimqml"
+}

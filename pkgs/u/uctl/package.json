@@ -1,0 +1,14 @@
+{
+  "name": "uctl",
+  "url": "https://github.com/litlighilit/uctl",
+  "method": "git",
+  "tags": [
+    "cli",
+    "utility",
+    "tool",
+    "unix",
+    "linux"
+  ],
+  "description": "a small UNIX control & query cli, for battery status, screen brightness, console font, etc.",
+  "license": "MIT"
+}

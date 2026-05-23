@@ -1,0 +1,16 @@
+{
+  "name": "metar",
+  "url": "https://github.com/flenniken/metar",
+  "method": "git",
+  "tags": [
+    "metadata",
+    "image",
+    "python",
+    "cli",
+    "terminal",
+    "library"
+  ],
+  "description": "Read metadata from jpeg and tiff images.",
+  "license": "MIT",
+  "web": "https://github.com/flenniken/metar"
+}

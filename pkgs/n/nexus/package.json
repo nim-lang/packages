@@ -1,0 +1,13 @@
+{
+  "name": "nexus",
+  "url": "https://github.com/jfilby/nexus",
+  "method": "git",
+  "tags": [
+    "web",
+    "framework",
+    "orm"
+  ],
+  "description": "Nexus provides a high-level web framework for Nim, with batteries included.",
+  "license": "Apache-2.0",
+  "web": "https://github.com/jfilby/nexus"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "nimgen",
+  "url": "https://github.com/genotrance/nimgen",
+  "method": "git",
+  "tags": [
+    "c2nim",
+    "library",
+    "wrapper",
+    "c",
+    "c++"
+  ],
+  "description": "C2nim helper to simplify and automate wrapping C libraries",
+  "license": "MIT",
+  "web": "https://github.com/genotrance/nimgen"
+}

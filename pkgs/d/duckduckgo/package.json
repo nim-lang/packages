@@ -1,0 +1,15 @@
+{
+  "name": "duckduckgo",
+  "url": "https://github.com/thisago/duckduckgo",
+  "method": "git",
+  "tags": [
+    "library",
+    "scraper",
+    "search",
+    "web",
+    "duckduckgo"
+  ],
+  "description": "Duckduckgo search",
+  "license": "MIT",
+  "web": "https://github.com/thisago/duckduckgo"
+}

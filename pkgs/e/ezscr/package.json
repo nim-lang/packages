@@ -1,0 +1,14 @@
+{
+  "name": "ezscr",
+  "url": "https://github.com/thisago/ezscr",
+  "method": "git",
+  "tags": [
+    "script",
+    "tool",
+    "portable",
+    "nimscript"
+  ],
+  "description": "Portable and easy Nimscript runner. Nim compiler not needed",
+  "license": "gpl-3.0-only",
+  "web": "https://github.com/thisago/ezscr"
+}

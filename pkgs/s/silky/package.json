@@ -1,0 +1,14 @@
+{
+  "name": "silky",
+  "url": "https://github.com/treeform/silky",
+  "method": "git",
+  "tags": [
+    "ui",
+    "graphics",
+    "immediate-mode",
+    "gui"
+  ],
+  "description": "Silky immediate mode UI graphics.",
+  "license": "MIT",
+  "web": "https://github.com/treeform/silky"
+}

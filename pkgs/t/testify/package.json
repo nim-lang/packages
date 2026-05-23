@@ -1,0 +1,11 @@
+{
+  "name": "testify",
+  "url": "https://github.com/sealmove/testify",
+  "method": "git",
+  "tags": [
+    "testing"
+  ],
+  "description": "File-based unit testing system",
+  "license": "MIT",
+  "web": "https://github.com/sealmove/testify"
+}

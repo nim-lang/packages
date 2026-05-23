@@ -1,0 +1,14 @@
+{
+  "name": "dbg",
+  "url": "https://github.com/enthus1ast/nimDbg",
+  "method": "git",
+  "tags": [
+    "template",
+    "echo",
+    "dbg",
+    "debug"
+  ],
+  "description": "dbg template; in debug echo",
+  "license": "MIT",
+  "web": "https://github.com/enthus1ast/nimDbg"
+}

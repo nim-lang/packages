@@ -1,0 +1,14 @@
+{
+  "name": "loco",
+  "url": "https://github.com/moigagoo/loco",
+  "method": "git",
+  "tags": [
+    "localization",
+    "translation",
+    "internationalization",
+    "i18n"
+  ],
+  "description": "Localization package for Nim.",
+  "license": "MIT",
+  "web": "https://github.com/moigagoo/loco"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "nmqtt",
+  "url": "https://github.com/zevv/nmqtt",
+  "method": "git",
+  "tags": [
+    "MQTT",
+    "IoT",
+    "MQTT3"
+  ],
+  "description": "Native MQTT client library",
+  "license": "MIT",
+  "web": "https://github.com/zevv/nmqtt"
+}

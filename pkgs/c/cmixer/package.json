@@ -1,0 +1,16 @@
+{
+  "name": "cmixer",
+  "url": "https://github.com/rxi/cmixer-nim",
+  "method": "git",
+  "tags": [
+    "library",
+    "audio",
+    "mixer",
+    "sound",
+    "wav",
+    "ogg"
+  ],
+  "description": "Lightweight audio mixer for games",
+  "license": "MIT",
+  "web": "https://github.com/rxi/cmixer-nim"
+}

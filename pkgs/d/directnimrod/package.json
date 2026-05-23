@@ -1,0 +1,14 @@
+{
+  "name": "directnimrod",
+  "url": "https://bitbucket.org/barcharcraz/directnimrod",
+  "method": "git",
+  "tags": [
+    "library",
+    "wrapper",
+    "graphics",
+    "windows"
+  ],
+  "description": "Wrapper for microsoft's DirectX libraries",
+  "license": "MS-PL",
+  "web": "https://bitbucket.org/barcharcraz/directnimrod"
+}

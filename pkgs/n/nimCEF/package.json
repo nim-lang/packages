@@ -1,0 +1,15 @@
+{
+  "name": "nimCEF",
+  "url": "https://github.com/jangko/nimCEF",
+  "method": "git",
+  "tags": [
+    "chromium",
+    "embedded",
+    "framework",
+    "cef",
+    "wrapper"
+  ],
+  "description": "Nim wrapper for the Chromium Embedded Framework",
+  "license": "MIT",
+  "web": "https://github.com/jangko/nimCEF"
+}

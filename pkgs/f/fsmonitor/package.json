@@ -1,0 +1,13 @@
+{
+  "name": "fsmonitor",
+  "url": "https://github.com/nim-lang/graveyard?subdir=fsmonitor",
+  "method": "git",
+  "tags": [
+    "graveyard",
+    "fsmonitor",
+    "asyncio"
+  ],
+  "description": "The ex-stdlib module fsmonitor.",
+  "license": "MIT",
+  "web": "https://github.com/nim-lang/graveyard/tree/master/fsmonitor"
+}

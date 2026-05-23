@@ -1,0 +1,12 @@
+{
+  "name": "mc_events",
+  "url": "https://github.com/MerosCrypto/mc_events",
+  "method": "git",
+  "tags": [
+    "events",
+    "emitter",
+    "deleted"
+  ],
+  "description": "Event Based Programming for Nim.",
+  "license": "MIT"
+}

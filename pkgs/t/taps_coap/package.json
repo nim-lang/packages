@@ -1,0 +1,14 @@
+{
+  "name": "taps_coap",
+  "url": "https://codeberg.org/eris/coap-nim",
+  "method": "git",
+  "tags": [
+    "coap",
+    "library",
+    "protocol",
+    "taps"
+  ],
+  "description": "Pure Nim CoAP implementation",
+  "license": "agplv3",
+  "web": "https://codeberg.org/eris/coap-nim"
+}

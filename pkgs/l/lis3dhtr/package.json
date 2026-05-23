@@ -1,0 +1,15 @@
+{
+  "name": "lis3dhtr",
+  "url": "https://github.com/garrettkinman/ratel-LIS3DHTR",
+  "method": "git",
+  "tags": [
+    "library",
+    "embedded",
+    "accelerometer",
+    "sensor",
+    "ratel"
+  ],
+  "description": "Ratel library for the LIS3DHTR 3-axis accelerometer",
+  "license": "MIT",
+  "web": "https://github.com/garrettkinman/ratel-LIS3DHTR"
+}

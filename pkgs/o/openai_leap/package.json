@@ -1,0 +1,13 @@
+{
+  "name": "openai_leap",
+  "url": "https://github.com/monofuel/openai_leap",
+  "method": "git",
+  "tags": [
+    "openai",
+    "chatgpt",
+    "llm"
+  ],
+  "description": "OpenAI ChatGPT API client library.",
+  "license": "MIT",
+  "web": "https://monofuel.github.io/openai_leap/"
+}

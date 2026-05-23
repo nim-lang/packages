@@ -1,0 +1,14 @@
+{
+  "name": "pipe",
+  "url": "https://github.com/CosmicToast/pipe",
+  "method": "git",
+  "tags": [
+    "pipe",
+    "macro",
+    "operator",
+    "functional"
+  ],
+  "description": "Pipe operator for nim.",
+  "license": "Unlicense",
+  "web": "https://github.com/CosmicToast/pipe"
+}

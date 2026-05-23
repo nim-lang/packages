@@ -1,0 +1,13 @@
+{
+  "name": "netbuff",
+  "url": "https://github.com/jakubDoka/netbuff",
+  "method": "git",
+  "tags": [
+    "net",
+    "buffer",
+    "macros"
+  ],
+  "description": "Fast and unsafe byte buffering for intensive network data transfer.",
+  "license": "MIT",
+  "web": "https://github.com/jakubDoka/netbuff"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "myo",
+  "url": "https://github.com/nimious/myo.git",
+  "method": "git",
+  "tags": [
+    "binding",
+    "myo",
+    "thalmic",
+    "armband",
+    "gesture"
+  ],
+  "description": "Bindings for the Thalmic Labs Myo gesture control armband SDK.",
+  "license": "MIT",
+  "web": "https://github.com/nimious/myo"
+}

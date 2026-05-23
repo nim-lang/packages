@@ -1,0 +1,15 @@
+{
+  "name": "bcs",
+  "url": "https://github.com/C-NERD/nimBcs",
+  "method": "git",
+  "tags": [
+    "bcs",
+    "aptos",
+    "serializer",
+    "deserializer",
+    "types"
+  ],
+  "description": "nim implementation of bcs serialization format",
+  "license": "MIT",
+  "web": "https://github.com/C-NERD/nimBcs"
+}

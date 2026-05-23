@@ -1,0 +1,18 @@
+{
+  "name": "fidget2",
+  "url": "https://github.com/treeform/fidget2",
+  "method": "git",
+  "tags": [
+    "ui",
+    "figma",
+    "gui",
+    "opengl",
+    "emscripten",
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "description": "Cross platform UI, with Figma API and OpenGL backend.",
+  "license": "MIT",
+  "web": "https://github.com/treeform/fidget2"
+}

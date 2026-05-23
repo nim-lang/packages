@@ -1,0 +1,12 @@
+{
+  "name": "syslog",
+  "url": "https://github.com/FedericoCeratto/nim-syslog",
+  "method": "git",
+  "tags": [
+    "library",
+    "pure"
+  ],
+  "description": "Syslog module.",
+  "license": "LGPLv3",
+  "web": "https://github.com/FedericoCeratto/nim-syslog"
+}

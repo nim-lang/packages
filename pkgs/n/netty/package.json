@@ -1,0 +1,12 @@
+{
+  "name": "netty",
+  "url": "https://github.com/treeform/netty/",
+  "method": "git",
+  "tags": [
+    "networking",
+    "udp"
+  ],
+  "description": "Netty is a reliable UDP connection for games.",
+  "license": "MIT",
+  "web": "https://github.com/treeform/netty/"
+}

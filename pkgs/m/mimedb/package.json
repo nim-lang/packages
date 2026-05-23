@@ -1,0 +1,13 @@
+{
+  "name": "mimedb",
+  "url": "https://github.com/openpeeps/mimedb",
+  "method": "git",
+  "tags": [
+    "files",
+    "filetypes",
+    "mime"
+  ],
+  "description": "A large Database of MIME types",
+  "license": "MIT",
+  "web": "https://github.com/openpeeps/mimedb"
+}

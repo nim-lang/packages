@@ -1,0 +1,13 @@
+{
+  "name": "seiryu",
+  "url": "https://github.com/glassesneo/seiryu",
+  "method": "git",
+  "tags": [
+    "assertions",
+    "design-by-contract",
+    "metaprogramming"
+  ],
+  "description": "A nimble package for improving your Nim code",
+  "license": "MIT",
+  "web": "https://github.com/glassesneo/seiryu"
+}

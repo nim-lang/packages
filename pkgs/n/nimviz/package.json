@@ -1,0 +1,13 @@
+{
+  "name": "nimviz",
+  "url": "https://github.com/Rekihyt/nimviz",
+  "method": "git",
+  "tags": [
+    "graphviz",
+    "library",
+    "wrapper"
+  ],
+  "description": "A wrapper for the graphviz c api.",
+  "license": "MIT",
+  "web": "https://github.com/Rekihyt/nimviz"
+}

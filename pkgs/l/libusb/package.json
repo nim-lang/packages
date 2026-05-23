@@ -1,0 +1,13 @@
+{
+  "name": "libusb",
+  "url": "https://github.com/nimious/libusb.git",
+  "method": "git",
+  "tags": [
+    "binding",
+    "usb",
+    "libusb"
+  ],
+  "description": "Bindings for libusb, the cross-platform user library to access USB devices.",
+  "license": "MIT",
+  "web": "https://github.com/nimious/libusb"
+}

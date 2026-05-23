@@ -1,0 +1,13 @@
+{
+  "name": "diffoutput",
+  "url": "https://github.com/JohnAD/diffoutput",
+  "method": "git",
+  "tags": [
+    "diff",
+    "stringification",
+    "reversal"
+  ],
+  "description": "Collection of Diff stringifications (and reversals)",
+  "license": "MIT",
+  "web": "https://github.com/JohnAD/diffoutput"
+}

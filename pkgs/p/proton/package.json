@@ -1,0 +1,13 @@
+{
+  "name": "proton",
+  "url": "https://github.com/jasonrbriggs/proton-nim",
+  "method": "git",
+  "tags": [
+    "xml",
+    "xhtml",
+    "template"
+  ],
+  "description": "Proton template engine for xml and xhtml files",
+  "license": "MIT",
+  "web": "https://github.com/jasonrbriggs/proton-nim"
+}

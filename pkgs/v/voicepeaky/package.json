@@ -1,0 +1,12 @@
+{
+  "name": "voicepeaky",
+  "url": "https://github.com/solaoi/voicepeaky",
+  "method": "git",
+  "tags": [
+    "voicepeak",
+    "wrapper"
+  ],
+  "description": "Voicepeak Server",
+  "license": "MIT",
+  "web": "https://github.com/solaoi/voicepeaky"
+}

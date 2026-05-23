@@ -1,0 +1,12 @@
+{
+  "name": "stacks",
+  "url": "https://github.com/rustomax/nim-stacks",
+  "method": "git",
+  "tags": [
+    "stack",
+    "data-structure"
+  ],
+  "description": "Pure Nim stack implementation based on sequences.",
+  "license": "MIT",
+  "web": "https://github.com/rustomax/nim-stacks"
+}

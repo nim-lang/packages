@@ -1,0 +1,15 @@
+{
+  "name": "huenim",
+  "url": "https://github.com/IoTone/huenim",
+  "method": "git",
+  "tags": [
+    "hue",
+    "iot",
+    "lighting",
+    "philips",
+    "library"
+  ],
+  "description": "Huenim",
+  "license": "MIT",
+  "web": "https://github.com/IoTone/huenim"
+}

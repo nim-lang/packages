@@ -1,0 +1,12 @@
+{
+  "name": "siphash",
+  "url": "https://git.sr.ht/~ehmry/nim_siphash",
+  "method": "git",
+  "tags": [
+    "hash",
+    "siphash"
+  ],
+  "description": "SipHash, a pseudorandom function optimized for short messages.",
+  "license": "GPLv3",
+  "web": "https://git.sr.ht/~ehmry/nim_siphash"
+}

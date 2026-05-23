@@ -1,0 +1,13 @@
+{
+  "name": "chronos_dnsc",
+  "url": "https://github.com/fox0430/chronos-dnsc",
+  "method": "git",
+  "tags": [
+    "async",
+    "dns",
+    "dnsclient"
+  ],
+  "description": "DNS client implementation using chronos",
+  "license": "MIT",
+  "web": "https://github.com/fox0430/chronos-dnsc"
+}

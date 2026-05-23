@@ -1,0 +1,14 @@
+{
+  "name": "qeu",
+  "url": "https://github.com/hyu1996/qeu",
+  "method": "git",
+  "tags": [
+    "comparison",
+    "3-way comparison",
+    "three-way comparison",
+    "deleted"
+  ],
+  "description": "Functionality for compare two values",
+  "license": "MIT",
+  "web": "https://github.com/hyu1996/qeu"
+}

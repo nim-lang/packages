@@ -1,0 +1,12 @@
+{
+  "name": "crosscompile",
+  "url": "https://github.com/juancarlospaco/nim-crosscompile",
+  "method": "git",
+  "tags": [
+    "crosscompile",
+    "compile"
+  ],
+  "description": "Crosscompile Nim source code into multiple targets on Linux with this proc.",
+  "license": "MIT",
+  "web": "https://github.com/juancarlospaco/nim-crosscompile"
+}

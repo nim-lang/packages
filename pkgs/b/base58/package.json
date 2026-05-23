@@ -1,0 +1,16 @@
+{
+  "name": "base58",
+  "url": "https://git.sr.ht/~ehmry/nim_base58",
+  "method": "git",
+  "tags": [
+    "base58",
+    "bitcoin",
+    "cryptonote",
+    "monero",
+    "encoding",
+    "library"
+  ],
+  "description": "Base58 encoders and decoders for Bitcoin and CryptoNote addresses.",
+  "license": "MIT",
+  "web": "https://git.sr.ht/~ehmry/nim_base58"
+}

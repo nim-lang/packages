@@ -1,0 +1,17 @@
+{
+  "name": "gintro",
+  "url": "https://github.com/KellerKev/gintro",
+  "method": "git",
+  "tags": [
+    "library",
+    "gtk",
+    "gtk4",
+    "gtk3",
+    "wrapper",
+    "gui",
+    "gobject-introspection"
+  ],
+  "description": "High level GObject-Introspection based GTK4/GTK3 bindings (Nim 2.x compatible)",
+  "license": "MIT",
+  "web": "https://github.com/KellerKev/gintro"
+}

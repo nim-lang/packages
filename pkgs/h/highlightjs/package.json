@@ -1,0 +1,16 @@
+{
+  "name": "highlightjs",
+  "url": "https://github.com/Ethosa/highlightjs",
+  "method": "git",
+  "tags": [
+    "highlight.js",
+    "highlight",
+    "javascript",
+    "frontend",
+    "web",
+    "bindings"
+  ],
+  "description": "highlight.js bindings for Nim",
+  "license": "MIT",
+  "web": "https://github.com/Ethosa/highlightjs"
+}

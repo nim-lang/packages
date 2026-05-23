@@ -1,0 +1,13 @@
+{
+  "name": "csvdict",
+  "url": "https://github.com/Alogani/csvdict",
+  "method": "git",
+  "tags": [
+    "csv",
+    "library",
+    "data"
+  ],
+  "description": "Another CsvTable API. Goals are efficient, simple and flexible",
+  "license": "MIT",
+  "web": "https://github.com/Alogani/csvdict"
+}

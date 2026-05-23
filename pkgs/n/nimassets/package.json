@@ -1,0 +1,14 @@
+{
+  "name": "nimassets",
+  "url": "https://github.com/xmonader/nimassets",
+  "method": "git",
+  "tags": [
+    "assets",
+    "bundle",
+    "go-bindata",
+    "resources"
+  ],
+  "description": "bundle your assets to a nim",
+  "license": "MIT",
+  "web": "https://github.com/xmonader/nimassets"
+}

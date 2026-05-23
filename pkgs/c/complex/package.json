@@ -1,0 +1,13 @@
+{
+  "name": "complex",
+  "url": "https://github.com/nim-lang/graveyard?subdir=complex",
+  "method": "git",
+  "tags": [
+    "graveyard",
+    "complex",
+    "math"
+  ],
+  "description": "The ex-stdlib module complex.",
+  "license": "MIT",
+  "web": "https://github.com/nim-lang/graveyard/tree/master/complex"
+}

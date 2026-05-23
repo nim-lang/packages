@@ -1,0 +1,12 @@
+{
+  "name": "mt",
+  "url": "https://codeberg.org/eqf0/mt",
+  "method": "git",
+  "tags": [
+    "tldr",
+    "manpages"
+  ],
+  "description": "A simple TLDR pages client",
+  "license": "MIT",
+  "web": "https://codeberg.org/eqf0/mt/"
+}

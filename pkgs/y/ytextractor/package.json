@@ -1,0 +1,13 @@
+{
+  "name": "ytextractor",
+  "url": "https://github.com/thisago/ytextractor",
+  "method": "git",
+  "tags": [
+    "youtube",
+    "extractor",
+    "video"
+  ],
+  "description": "Youtube data extractor",
+  "license": "MIT",
+  "web": "https://github.com/thisago/ytextractor"
+}

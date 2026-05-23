@@ -1,0 +1,17 @@
+{
+  "name": "arraymancer",
+  "url": "https://github.com/mratsim/Arraymancer",
+  "method": "git",
+  "tags": [
+    "vector",
+    "matrix",
+    "array",
+    "ndarray",
+    "multidimensional-array",
+    "linear-algebra",
+    "tensor"
+  ],
+  "description": "A tensor (multidimensional array) library for Nim",
+  "license": "Apache License 2.0",
+  "web": "https://mratsim.github.io/Arraymancer/"
+}

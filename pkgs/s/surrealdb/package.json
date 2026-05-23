@@ -1,0 +1,17 @@
+{
+  "name": "surrealdb",
+  "url": "https://github.com/Xkonti/surrealdb.nim",
+  "method": "git",
+  "tags": [
+    "surrealdb",
+    "database",
+    "surrealql",
+    "driver",
+    "sql",
+    "nosql",
+    "websocket"
+  ],
+  "description": "SurrealDB driver for Nim",
+  "license": "MIT",
+  "web": "https://github.com/Xkonti/surrealdb.nim"
+}

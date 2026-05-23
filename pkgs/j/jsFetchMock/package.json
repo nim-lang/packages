@@ -1,0 +1,15 @@
+{
+  "name": "jsFetchMock",
+  "url": "https://github.com/thisago/jsfetchMock",
+  "method": "git",
+  "tags": [
+    "web",
+    "js",
+    "mock",
+    "fetch",
+    "library"
+  ],
+  "description": "A simple lib to intercept Javascript fetch to capture or edit the data",
+  "license": "MIT",
+  "web": "https://github.com/thisago/jsfetchMock"
+}

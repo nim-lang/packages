@@ -1,0 +1,12 @@
+{
+  "name": "steamworks",
+  "url": "https://github.com/treeform/steamworks",
+  "method": "git",
+  "tags": [
+    "steamworks",
+    "game"
+  ],
+  "description": "Steamworks SDK API for shipping games on Steam.",
+  "license": "MIT",
+  "web": "https://github.com/treeform/steamworks"
+}

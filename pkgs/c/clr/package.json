@@ -1,0 +1,15 @@
+{
+  "name": "clr",
+  "url": "https://github.com/Calinou/clr",
+  "method": "git",
+  "tags": [
+    "command-line",
+    "color",
+    "rgb",
+    "hsl",
+    "hsv"
+  ],
+  "description": "Get information about colors and convert them in the command line",
+  "license": "MIT",
+  "web": "https://github.com/Calinou/clr"
+}

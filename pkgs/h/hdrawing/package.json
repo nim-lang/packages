@@ -1,0 +1,11 @@
+{
+  "name": "hdrawing",
+  "url": "https://github.com/haxscramper/hdrawing",
+  "method": "git",
+  "tags": [
+    "pretty-printing"
+  ],
+  "description": "Simple shape drawing",
+  "license": "Apache-2.0",
+  "web": "https://github.com/haxscramper/hdrawing"
+}

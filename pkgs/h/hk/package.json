@@ -1,0 +1,14 @@
+{
+  "name": "hk",
+  "url": "https://github.com/hmbemba/hk",
+  "method": "git",
+  "tags": [
+    "windows",
+    "hotkey",
+    "hotstring",
+    "keyboard"
+  ],
+  "description": "Windows hotkeys + hotstrings for Nim (winim keyboard hook, optional clipboard paste mode)",
+  "license": "MIT",
+  "web": "https://github.com/hmbemba/hk"
+}

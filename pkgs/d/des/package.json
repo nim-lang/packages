@@ -1,0 +1,13 @@
+{
+  "name": "des",
+  "description": "3DES native library for Nim",
+  "tags": [
+    "library",
+    "encryption",
+    "crypto"
+  ],
+  "license": "MIT",
+  "web": "https://github.com/LucaWolf/des.nim",
+  "url": "https://github.com/LucaWolf/des.nim",
+  "method": "git"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "diffy",
+  "url": "https://github.com/elcritch/diffy",
+  "method": "git",
+  "tags": [
+    "image-search",
+    "images",
+    "differences",
+    "searching",
+    "ui-automation",
+    "automation"
+  ],
+  "description": "Simple diff and sub-image finder with SIMD based on Pixie",
+  "license": "Apache-2.0",
+  "web": "https://github.com/elcritch/diffy"
+}

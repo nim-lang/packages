@@ -1,0 +1,11 @@
+{
+  "name": "nim_searches",
+  "url": "https://github.com/nnahito/nim_searched",
+  "method": "git",
+  "tags": [
+    "search"
+  ],
+  "description": "search algorithms",
+  "license": "MIT",
+  "web": "https://github.com/nnahito/nim_searched"
+}

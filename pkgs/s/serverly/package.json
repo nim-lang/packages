@@ -1,0 +1,14 @@
+{
+  "name": "serverly",
+  "url": "https://github.com/roger-padrell/serverly",
+  "method": "git",
+  "tags": [
+    "serverly",
+    "http",
+    "server",
+    "serving"
+  ],
+  "description": "HTTP serving made eazy",
+  "license": "MIT",
+  "web": "https://roger-padrell.github.io/serverly/"
+}

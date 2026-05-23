@@ -1,0 +1,13 @@
+{
+  "name": "pgxcrown",
+  "url": "https://github.com/luisacosta828/pgxcrown",
+  "method": "git",
+  "tags": [
+    "library",
+    "postgres",
+    "extension"
+  ],
+  "description": "Build Postgres extensions in Nim.",
+  "license": "MIT",
+  "web": "https://github.com/luisacosta828/pgxcrown"
+}

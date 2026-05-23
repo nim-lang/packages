@@ -1,0 +1,15 @@
+{
+  "name": "genieos",
+  "url": "https://github.com/Araq/genieos/",
+  "method": "git",
+  "tags": [
+    "library",
+    "command-line",
+    "sound",
+    "recycle",
+    "os"
+  ],
+  "description": "Too awesome procs to be included in nimrod.os module",
+  "license": "MIT",
+  "web": "https://github.com/Araq/genieos/"
+}

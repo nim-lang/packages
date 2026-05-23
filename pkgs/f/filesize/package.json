@@ -1,0 +1,13 @@
+{
+  "name": "filesize",
+  "url": "https://github.com/sergiotapia/filesize",
+  "method": "git",
+  "tags": [
+    "filesize",
+    "size"
+  ],
+  "description": "A Nim package to convert filesizes into other units, and turns filesizes into human readable strings.",
+  "license": "MIT",
+  "web": "https://github.com/sergiotapia/filesize",
+  "doc": "https://github.com/sergiotapia/filesize"
+}

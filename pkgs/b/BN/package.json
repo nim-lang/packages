@@ -1,0 +1,13 @@
+{
+  "name": "BN",
+  "url": "https://github.com/MerosCrypto/BN",
+  "method": "git",
+  "tags": [
+    "bignumber",
+    "multiprecision",
+    "imath",
+    "deleted"
+  ],
+  "description": "A Nim Wrapper of the imath BigNumber library.",
+  "license": "MIT"
+}

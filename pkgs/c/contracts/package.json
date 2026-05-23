@@ -1,0 +1,22 @@
+{
+  "name": "contracts",
+  "url": "https://github.com/Udiknedormin/NimContracts",
+  "method": "git",
+  "tags": [
+    "library",
+    "pure",
+    "contract",
+    "contracts",
+    "DbC",
+    "utility",
+    "automation",
+    "documentation",
+    "safety",
+    "test",
+    "tests",
+    "unit-testing"
+  ],
+  "description": "Design by Contract (DbC) library with minimal runtime.",
+  "license": "MIT",
+  "web": "https://github.com/Udiknedormin/NimContracts"
+}

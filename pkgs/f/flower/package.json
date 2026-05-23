@@ -1,0 +1,11 @@
+{
+  "name": "flower",
+  "url": "https://github.com/dizzyliam/flower",
+  "method": "git",
+  "tags": [
+    "set"
+  ],
+  "description": "A pure Nim bloom filter.",
+  "license": "MIT",
+  "web": "https://github.com/dizzyliam/flower"
+}

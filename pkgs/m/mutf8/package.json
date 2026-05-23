@@ -1,0 +1,21 @@
+{
+  "name": "mutf8",
+  "url": "https://github.com/The-Ticking-Clockwork/MUTF-8",
+  "method": "git",
+  "tags": [
+    "encoding",
+    "decoding",
+    "encode",
+    "decode",
+    "chartset",
+    "mutf8",
+    "mutf-8",
+    "utf8",
+    "utf-8",
+    "unicode"
+  ],
+  "description": "An implementation of a Modified UTF-8 encoder and decoder in Nim!",
+  "license": "Apache-2.0",
+  "web": "https://github.com/The-Ticking-Clockwork/MUTF-8",
+  "doc": "https://the-ticking-clockwork.github.io/MUTF-8/"
+}

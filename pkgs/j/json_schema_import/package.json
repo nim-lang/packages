@@ -1,0 +1,12 @@
+{
+  "name": "json_schema_import",
+  "url": "https://github.com/Nycto/NimJsonSchemaImporter",
+  "method": "git",
+  "tags": [
+    "json",
+    "schema"
+  ],
+  "description": "Converts JSON schema definitions to nim types",
+  "license": "MIT",
+  "web": "https://github.com/Nycto/NimJsonSchemaImporter"
+}

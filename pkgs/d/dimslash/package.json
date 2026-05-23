@@ -1,0 +1,13 @@
+{
+  "name": "dimslash",
+  "url": "https://github.com/gaato/dimslash",
+  "method": "git",
+  "tags": [
+    "discord",
+    "library",
+    "dimscord"
+  ],
+  "description": "Interactive command handler for Dimscord",
+  "license": "BlueOak-1.0.0",
+  "web": "https://github.com/gaato/dimslash"
+}

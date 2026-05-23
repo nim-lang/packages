@@ -1,0 +1,14 @@
+{
+  "name": "progress",
+  "url": "https://github.com/euantorano/progress.nim",
+  "method": "git",
+  "tags": [
+    "progress",
+    "bar",
+    "terminal",
+    "ui"
+  ],
+  "description": "A simple progress bar for Nim.",
+  "license": "BSD3",
+  "web": "https://github.com/euantorano/progress.nim"
+}

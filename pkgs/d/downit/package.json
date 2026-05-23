@@ -1,0 +1,13 @@
+{
+  "name": "downit",
+  "url": "https://github.com/Patitotective/downit",
+  "method": "git",
+  "tags": [
+    "downloads",
+    "downloads-manager",
+    "async"
+  ],
+  "description": "An asynchronous donwload system.",
+  "license": "MIT",
+  "web": "https://github.com/Patitotective/downit"
+}

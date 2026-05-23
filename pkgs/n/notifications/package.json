@@ -1,0 +1,16 @@
+{
+  "name": "notifications",
+  "url": "https://github.com/dom96/notifications",
+  "method": "git",
+  "tags": [
+    "notifications",
+    "alerts",
+    "gui",
+    "toasts",
+    "macosx",
+    "cocoa"
+  ],
+  "description": "Library for displaying notifications on the desktop",
+  "license": "MIT",
+  "web": "https://github.com/dom96/notifications"
+}

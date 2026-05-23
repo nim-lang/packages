@@ -1,0 +1,12 @@
+{
+  "name": "usha",
+  "url": "https://github.com/subsetpark/untitled-shell-history-application",
+  "method": "git",
+  "tags": [
+    "shell",
+    "utility"
+  ],
+  "description": "untitled shell history application",
+  "license": "MIT",
+  "web": "https://github.com/subsetpark/untitled-shell-history-application"
+}

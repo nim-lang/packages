@@ -1,0 +1,14 @@
+{
+  "name": "mpv",
+  "url": "https://github.com/WeebNetsu/nim-mpv",
+  "method": "git",
+  "tags": [
+    "mpv",
+    "libmpv",
+    "bindings",
+    "nim-mpv"
+  ],
+  "description": "Nim bindings for libmpv",
+  "license": "MIT",
+  "web": "https://github.com/WeebNetsu/nim-mpv"
+}

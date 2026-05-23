@@ -1,0 +1,12 @@
+{
+  "name": "beautifulparser",
+  "url": "https://github.com/TelegramXPlus/beautifulparser",
+  "method": "git",
+  "tags": [
+    "parser",
+    "html"
+  ],
+  "description": "Simple parser for HTML",
+  "license": "MIT",
+  "web": "https://github.com/TelegramXPlus/beautifulparser"
+}

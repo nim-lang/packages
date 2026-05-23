@@ -1,0 +1,16 @@
+{
+  "name": "denim_ui_canvas",
+  "url": "https://github.com/nortero-code/denim-ui-canvas",
+  "method": "git",
+  "tags": [
+    "canvas",
+    "web",
+    "gui",
+    "framework",
+    "library",
+    "denim"
+  ],
+  "description": "HTML Canvas backend for the denim ui engine",
+  "license": "MIT",
+  "web": "https://github.com/nortero-code/denim-ui-canvas"
+}

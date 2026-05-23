@@ -1,0 +1,14 @@
+{
+  "name": "bag",
+  "url": "https://github.com/openpeeps/bag",
+  "method": "git",
+  "tags": [
+    "form",
+    "validation",
+    "input",
+    "input-validation"
+  ],
+  "description": "Validate HTTP input data in a fancy way",
+  "license": "MIT",
+  "web": "https://github.com/openpeeps/bag"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "xl",
+  "url": "https://github.com/khchen/xl",
+  "method": "git",
+  "tags": [
+    "excel",
+    "openxml",
+    "xlsx"
+  ],
+  "description": "Open XML Spreadsheet (Excel) Library for Nim",
+  "license": "MIT",
+  "web": "https://github.com/khchen/xl"
+}

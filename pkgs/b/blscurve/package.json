@@ -1,0 +1,14 @@
+{
+  "name": "blscurve",
+  "url": "https://github.com/status-im/nim-blscurve",
+  "method": "git",
+  "tags": [
+    "library",
+    "cryptography",
+    "bls",
+    "aggregated-signatures"
+  ],
+  "description": "Nim implementation of  Barreto-Lynn-Scott (BLS) curve BLS12-381.",
+  "license": "Apache License 2.0",
+  "web": "https://github.com/status-im/nim-blscurve"
+}

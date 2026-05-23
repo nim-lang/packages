@@ -1,0 +1,16 @@
+{
+  "name": "nanim",
+  "url": "https://github.com/ErikWDev/nanim/",
+  "method": "git",
+  "tags": [
+    "animation",
+    "motion-graphics",
+    "opengl",
+    "nanovg",
+    "framework",
+    "2D"
+  ],
+  "description": "Create smooth GPU-accelerated animations that can be previewed live or rendered to videos.",
+  "license": "MIT",
+  "web": "https://github.com/ErikWDev/nanim/"
+}

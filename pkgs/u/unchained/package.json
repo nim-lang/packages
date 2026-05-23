@@ -1,0 +1,16 @@
+{
+  "name": "unchained",
+  "url": "https://github.com/SciNim/unchained",
+  "method": "git",
+  "tags": [
+    "library",
+    "compile time",
+    "units",
+    "physics",
+    "physical units checking",
+    "macros"
+  ],
+  "description": "Fully type safe, compile time only units library",
+  "license": "MIT",
+  "web": "https://github.com/SciNim/unchained"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "libp2p",
+  "url": "https://github.com/vacp2p/nim-libp2p",
+  "method": "git",
+  "tags": [
+    "library",
+    "networking",
+    "libp2p",
+    "ipfs",
+    "ethereum"
+  ],
+  "description": "libp2p implementation in Nim",
+  "license": "Apache License 2.0",
+  "web": "https://github.com/vacp2p/nim-libp2p"
+}

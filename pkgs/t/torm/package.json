@@ -1,0 +1,13 @@
+{
+  "name": "torm",
+  "url": "https://github.com/enimatek-nl/torm",
+  "method": "git",
+  "tags": [
+    "orm",
+    "db",
+    "database"
+  ],
+  "description": "Tiny object relational mapper (torm) for SQLite in Nim.",
+  "license": "MIT",
+  "web": "https://github.com/enimatek-nl/torm"
+}

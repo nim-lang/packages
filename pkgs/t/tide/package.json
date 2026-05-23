@@ -1,0 +1,13 @@
+{
+  "name": "tide",
+  "url": "https://github.com/arungeorgesaji/tide",
+  "method": "git",
+  "tags": [
+    "editor",
+    "terminal",
+    "tui"
+  ],
+  "description": "Modular terminal editor framework",
+  "license": "MIT",
+  "web": "https://github.com/arungeorgesaji/tide"
+}

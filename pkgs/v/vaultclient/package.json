@@ -1,0 +1,13 @@
+{
+  "name": "vaultclient",
+  "url": "https://github.com/jackhftang/vaultclient.nim",
+  "method": "git",
+  "tags": [
+    "vault",
+    "secret",
+    "secret-management"
+  ],
+  "description": "Hashicorp Vault HTTP Client",
+  "license": "MIT",
+  "web": "https://github.com/jackhftang/vaultclient.nim"
+}

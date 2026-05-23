@@ -1,0 +1,13 @@
+{
+  "name": "array2d",
+  "url": "https://github.com/avahe-kellenberger/array2d",
+  "method": "git",
+  "tags": [
+    "nim",
+    "array2d",
+    "grid"
+  ],
+  "description": "A 2D Array Implementation",
+  "license": "GPL-2.0-only",
+  "web": "https://github.com/avahe-kellenberger/array2d"
+}

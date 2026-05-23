@@ -1,0 +1,14 @@
+{
+  "name": "dotprov",
+  "url": "https://github.com/minefuto/dotprov",
+  "method": "git",
+  "tags": [
+    "tool",
+    "binary",
+    "dotfiles",
+    "deleted"
+  ],
+  "description": "dotfiles provisioning tool",
+  "license": "MIT",
+  "web": "https://github.com/minefuto/dotprov"
+}

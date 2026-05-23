@@ -1,0 +1,14 @@
+{
+  "name": "nim_tcc",
+  "url": "https://github.com/turbomaster95/nim-tcc",
+  "method": "git",
+  "tags": [
+    "jit",
+    "compiler",
+    "tinycc"
+  ],
+  "description": "A high-level, memory-safe Nim wrapper for the TinyCC (TCC) compiler engine.",
+  "license": "MIT",
+  "web": "https://github.com/turbomaster95/nim-tcc",
+  "doc": "https://github.com/turbomaster95/nim-tcc"
+}

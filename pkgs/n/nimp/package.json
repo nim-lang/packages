@@ -1,0 +1,16 @@
+{
+  "name": "nimp",
+  "url": "https://github.com/c-blake/nimp",
+  "method": "git",
+  "tags": [
+    "app",
+    "binary",
+    "package",
+    "manager",
+    "cli",
+    "nimble"
+  ],
+  "description": "A package manager that delegates to package authors",
+  "license": "MIT/ISC",
+  "web": "https://github.com/c-blake/nimp"
+}

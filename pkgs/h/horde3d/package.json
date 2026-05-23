@@ -1,0 +1,14 @@
+{
+  "name": "horde3d",
+  "url": "https://github.com/fowlmouth/horde3d",
+  "method": "git",
+  "tags": [
+    "graphics",
+    "3d",
+    "rendering",
+    "wrapper"
+  ],
+  "description": "Wrapper for Horde3D, a small open source 3D rendering engine.",
+  "license": "WTFPL",
+  "web": "https://github.com/fowlmouth/horde3d"
+}

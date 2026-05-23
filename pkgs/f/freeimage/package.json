@@ -1,0 +1,15 @@
+{
+  "name": "freeimage",
+  "url": "https://github.com/barcharcraz/nim-freeimage",
+  "method": "git",
+  "tags": [
+    "wrapper",
+    "media",
+    "image",
+    "import",
+    "game"
+  ],
+  "description": "Wrapper for the FreeImage library",
+  "license": "MIT",
+  "web": "https://github.com/barcharcraz/nim-freeimage"
+}

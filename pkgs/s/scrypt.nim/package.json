@@ -1,0 +1,18 @@
+{
+  "name": "scrypt.nim",
+  "url": "https://bitbucket.org/BitPuffin/scrypt.nim",
+  "method": "hg",
+  "tags": [
+    "library",
+    "wrapper",
+    "binding",
+    "crypto",
+    "cryptography",
+    "hash",
+    "password",
+    "security",
+    "deleted"
+  ],
+  "description": "Binding and utilities for scrypt",
+  "license": "CC0"
+}

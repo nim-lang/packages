@@ -1,0 +1,16 @@
+{
+  "name": "soundio",
+  "url": "https://github.com/ul/soundio",
+  "method": "git",
+  "tags": [
+    "library",
+    "wrapper",
+    "binding",
+    "audio",
+    "sound",
+    "media",
+    "io"
+  ],
+  "description": "Bindings for libsoundio",
+  "license": "MIT"
+}

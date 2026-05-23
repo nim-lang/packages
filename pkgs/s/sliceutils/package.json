@@ -1,0 +1,13 @@
+{
+  "name": "sliceutils",
+  "url": "https://github.com/metagn/sliceutils",
+  "method": "git",
+  "tags": [
+    "slice",
+    "index",
+    "iterator"
+  ],
+  "description": "Utilities for and extensions to Slice/HSlice",
+  "license": "MIT",
+  "web": "https://metagn.github.io/sliceutils/sliceutils.html"
+}

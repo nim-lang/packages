@@ -1,0 +1,13 @@
+{
+  "name": "nimeverything",
+  "url": "https://github.com/xland/nimeverything/",
+  "method": "git",
+  "tags": [
+    "everything",
+    "voidtools",
+    "Everything Search Engine"
+  ],
+  "description": "everything  search engine wrapper",
+  "license": "MIT",
+  "web": "https://github.com/xland/nimeverything"
+}

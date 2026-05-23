@@ -1,0 +1,12 @@
+{
+  "name": "sections",
+  "url": "https://github.com/c0ffeeartc/nim-sections",
+  "method": "git",
+  "tags": [
+    "BDD",
+    "test"
+  ],
+  "description": "`Section` macro with BDD aliases for testing",
+  "license": "MIT",
+  "web": "https://github.com/c0ffeeartc/nim-sections"
+}

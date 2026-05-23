@@ -1,0 +1,13 @@
+{
+  "name": "httputils",
+  "url": "https://github.com/status-im/nim-http-utils",
+  "method": "git",
+  "tags": [
+    "http",
+    "parsers",
+    "protocols"
+  ],
+  "description": "Common utilities for implementing HTTP servers",
+  "license": "Apache License 2.0",
+  "web": "https://github.com/status-im/nim-http-utils"
+}

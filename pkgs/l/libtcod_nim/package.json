@@ -1,0 +1,17 @@
+{
+  "name": "libtcod_nim",
+  "url": "https://github.com/Vladar4/libtcod_nim/",
+  "method": "git",
+  "tags": [
+    "roguelike",
+    "game",
+    "library",
+    "engine",
+    "sdl",
+    "opengl",
+    "glsl"
+  ],
+  "description": "Wrapper of the libtcod library for the Nim language.",
+  "license": "zlib",
+  "web": "https://github.com/Vladar4/libtcod_nim"
+}

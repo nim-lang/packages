@@ -1,0 +1,13 @@
+{
+  "name": "typography",
+  "url": "https://github.com/treeform/typography",
+  "method": "git",
+  "tags": [
+    "font",
+    "text",
+    "2d"
+  ],
+  "description": "Fonts, Typesetting and Rasterization.",
+  "license": "MIT",
+  "web": "https://github.com/treeform/typography"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "servclip",
+  "url": "https://github.com/thisago/servclip",
+  "method": "git",
+  "tags": [
+    "clipboard",
+    "remote",
+    "server",
+    "utility",
+    "cli",
+    "tool"
+  ],
+  "description": "Manage your clipboard remotely",
+  "license": "MIT",
+  "web": "https://github.com/thisago/servclip"
+}

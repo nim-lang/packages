@@ -1,0 +1,14 @@
+{
+  "name": "xmldomparser",
+  "url": "https://github.com/nim-lang/graveyard?subdir=xmldomparser",
+  "method": "git",
+  "tags": [
+    "graveyard",
+    "xml",
+    "dom",
+    "parser"
+  ],
+  "description": "Parses an XML Document into a XML DOM Document representation.",
+  "license": "MIT",
+  "web": "https://github.com/nim-lang/graveyard/tree/master/xmldomparser"
+}

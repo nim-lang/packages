@@ -1,0 +1,14 @@
+{
+  "name": "at",
+  "url": "https://github.com/capocasa/at",
+  "method": "git",
+  "tags": [
+    "async",
+    "in-proces",
+    "job-scheduler"
+  ],
+  "description": "A powerful, lightweight tool to execute code later",
+  "license": "MIT",
+  "web": "https://github.com/capocasa/at",
+  "doc": "https://capocasa.github.io/at/at.html"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "supra",
+  "url": "https://github.com/supranim/supra",
+  "method": "git",
+  "tags": [
+    "supranim",
+    "framework",
+    "webframework",
+    "web",
+    "starterkit",
+    "starter"
+  ],
+  "description": "CLI tool for managing Supranim projects",
+  "license": "MIT",
+  "web": "https://github.com/supranim/supra"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "nimcrypto",
+  "url": "https://github.com/cheatfate/nimcrypto",
+  "method": "git",
+  "tags": [
+    "crypto",
+    "hashes",
+    "ciphers",
+    "keccak",
+    "sha3",
+    "blowfish",
+    "twofish",
+    "rijndael",
+    "csprng",
+    "hmac",
+    "ripemd"
+  ],
+  "description": "Nim cryptographic library",
+  "license": "MIT",
+  "web": "https://github.com/cheatfate/nimcrypto"
+}

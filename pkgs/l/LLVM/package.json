@@ -1,0 +1,13 @@
+{
+  "name": "LLVM",
+  "url": "https://github.com/FedeOmoto/llvm",
+  "method": "git",
+  "tags": [
+    "LLVM",
+    "bindings",
+    "wrapper"
+  ],
+  "description": "LLVM bindings for the Nim language.",
+  "license": "MIT",
+  "web": "https://github.com/FedeOmoto/llvm"
+}

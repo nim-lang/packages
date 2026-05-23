@@ -1,0 +1,14 @@
+{
+  "name": "modernnet",
+  "url": "https://github.com/Nimberite-Development/ModernNet",
+  "method": "git",
+  "tags": [
+    "minecraft",
+    "protocol",
+    "mc"
+  ],
+  "description": "ModernNet is a barebones library to interact with the Minecraft Java Edition protocol!",
+  "license": "Apache-2.0",
+  "web": "https://github.com/Nimberite-Development/ModernNet",
+  "doc": "https://nimberite-development.github.io/ModernNet/"
+}

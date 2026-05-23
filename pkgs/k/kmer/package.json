@@ -1,0 +1,13 @@
+{
+  "name": "kmer",
+  "url": "https://github.com/brentp/nim-kmer",
+  "method": "git",
+  "tags": [
+    "kmer",
+    "dna",
+    "sequence"
+  ],
+  "description": "encoded kmer library for fast operations on kmers up to 31",
+  "license": "MIT",
+  "web": "https://github.com/brentp/nim-kmer"
+}

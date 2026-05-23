@@ -1,0 +1,14 @@
+{
+  "name": "scraper",
+  "url": "https://github.com/thisago/scraper",
+  "method": "git",
+  "tags": [
+    "web",
+    "scraper",
+    "tools",
+    "library"
+  ],
+  "description": "Scraping tools",
+  "license": "MIT",
+  "web": "https://github.com/thisago/scraper"
+}

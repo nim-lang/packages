@@ -1,0 +1,15 @@
+{
+  "name": "mapm",
+  "url": "https://github.com/PMunch/mapm-nim",
+  "method": "git",
+  "tags": [
+    "library",
+    "decimal",
+    "arithmetic",
+    "precision",
+    "wrapper"
+  ],
+  "description": "Nim wrapper for MAPM, an arbitrary maths library with support for trig functions",
+  "license": "MIT+Freeware",
+  "web": "https://github.com/PMunch/mapm-nim"
+}

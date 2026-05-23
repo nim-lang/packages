@@ -1,0 +1,13 @@
+{
+  "name": "ao",
+  "url": "https://github.com/ephja/nim-ao",
+  "method": "git",
+  "tags": [
+    "library",
+    "audio",
+    "deleted"
+  ],
+  "description": "A high-level libao wrapper",
+  "license": "MIT",
+  "web": "https://github.com/ephja/nim-ao"
+}

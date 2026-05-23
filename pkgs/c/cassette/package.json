@@ -1,0 +1,15 @@
+{
+  "name": "cassette",
+  "url": "https://github.com/LemonBoy/cassette",
+  "method": "git",
+  "tags": [
+    "http",
+    "network",
+    "test",
+    "mock",
+    "requests"
+  ],
+  "description": "Record and replay your HTTP sessions!",
+  "license": "MIT",
+  "web": "https://github.com/LemonBoy/cassette"
+}

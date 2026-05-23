@@ -1,0 +1,12 @@
+{
+  "name": "bitables",
+  "url": "https://github.com/Retkid/bitables",
+  "method": "git",
+  "tags": [
+    "tables",
+    "maps"
+  ],
+  "description": "bidirectional {maps, tables, dictionaries} in nim",
+  "license": "MIT",
+  "web": "https://github.com/Retkid/bitables"
+}

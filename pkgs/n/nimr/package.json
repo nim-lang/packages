@@ -1,0 +1,12 @@
+{
+  "name": "nimr",
+  "url": "https://github.com/Jeff-Ciesielski/nimr",
+  "method": "git",
+  "tags": [
+    "script",
+    "utils"
+  ],
+  "description": "Helper to run nim code like a script",
+  "license": "MIT",
+  "web": "https://github.com/Jeff-Ciesielski/nimr"
+}

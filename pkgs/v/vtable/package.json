@@ -1,0 +1,13 @@
+{
+  "name": "vtable",
+  "url": "https://github.com/codehz/nim-vtable",
+  "method": "git",
+  "tags": [
+    "oop",
+    "method",
+    "vtable",
+    "trait"
+  ],
+  "description": "Implement dynamic dispatch through vtable, should works for dynlib.",
+  "license": "LGPL-3.0"
+}

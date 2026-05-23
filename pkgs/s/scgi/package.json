@@ -1,0 +1,13 @@
+{
+  "name": "scgi",
+  "url": "https://github.com/nim-lang/graveyard?subdir=scgi",
+  "method": "git",
+  "tags": [
+    "graveyard",
+    "scgi",
+    "cgi"
+  ],
+  "description": "Helper procs for SCGI applications",
+  "license": "MIT",
+  "web": "https://github.com/nim-lang/graveyard/tree/master/scgi"
+}

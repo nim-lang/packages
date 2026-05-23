@@ -1,0 +1,13 @@
+{
+  "name": "rect_packer",
+  "url": "https://github.com/yglukhov/rect_packer",
+  "method": "git",
+  "tags": [
+    "library",
+    "geometry",
+    "packing"
+  ],
+  "description": "Pack rects into bigger rect",
+  "license": "MIT",
+  "web": "https://github.com/yglukhov/rect_packer"
+}

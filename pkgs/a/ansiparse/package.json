@@ -1,0 +1,13 @@
+{
+  "name": "ansiparse",
+  "url": "https://github.com/PMunch/ansiparse",
+  "method": "git",
+  "tags": [
+    "ansi",
+    "library",
+    "parsing"
+  ],
+  "description": "Library to parse ANSI escape codes",
+  "license": "MIT",
+  "web": "https://github.com/PMunch/ansiparse"
+}

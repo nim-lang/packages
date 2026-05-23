@@ -1,0 +1,13 @@
+{
+  "name": "locert",
+  "url": "https://github.com/vandot/locert",
+  "method": "git",
+  "tags": [
+    "cert",
+    "ca",
+    "developer-tools"
+  ],
+  "description": "Simple cert generator for local development.",
+  "license": "BSD-3-Clause",
+  "web": "https://github.com/vandot/locert"
+}

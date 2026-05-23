@@ -1,0 +1,13 @@
+{
+  "name": "cucumber",
+  "url": "https://github.com/shaunc/cucumber_nim",
+  "method": "git",
+  "tags": [
+    "unit-testing",
+    "cucumber",
+    "bdd"
+  ],
+  "description": "implements the cucumber BDD framework in the nim language",
+  "license": "MIT",
+  "web": "https://github.com/shaunc/cucumber_nim"
+}

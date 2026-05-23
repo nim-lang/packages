@@ -1,0 +1,12 @@
+{
+  "name": "shioridll",
+  "url": "https://github.com/Narazaka/shioridll-nim",
+  "method": "git",
+  "tags": [
+    "shiori",
+    "ukagaka"
+  ],
+  "description": "The SHIORI DLL interface",
+  "license": "MIT",
+  "web": "https://github.com/Narazaka/shioridll-nim"
+}

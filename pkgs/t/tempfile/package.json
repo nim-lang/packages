@@ -1,0 +1,16 @@
+{
+  "name": "tempfile",
+  "url": "https://github.com/OpenSystemsLab/tempfile.nim",
+  "method": "git",
+  "tags": [
+    "temp",
+    "mktemp",
+    "make",
+    "mk",
+    "mkstemp",
+    "mkdtemp"
+  ],
+  "description": "Temporary files and directories",
+  "license": "MIT",
+  "web": "https://github.com/OpenSystemsLab/tempfile.nim"
+}

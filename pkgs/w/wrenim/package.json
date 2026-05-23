@@ -1,0 +1,15 @@
+{
+  "name": "wrenim",
+  "url": "https://github.com/viktornv/wrenim",
+  "method": "git",
+  "tags": [
+    "wren",
+    "vm",
+    "nim",
+    "dsl",
+    "ffi"
+  ],
+  "description": "High-level Nim wrapper for Wren VM",
+  "license": "MIT",
+  "web": "https://github.com/viktornv/wrenim"
+}

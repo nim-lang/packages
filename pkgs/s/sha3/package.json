@@ -1,0 +1,14 @@
+{
+  "name": "sha3",
+  "url": "https://github.com/nim-community/sha3",
+  "method": "git",
+  "tags": [
+    "crypto",
+    "cryptography",
+    "hash",
+    "security"
+  ],
+  "description": "sha3 - cryptographic hash function",
+  "license": "CC0",
+  "web": "https://github.com/nim-community/sha3"
+}

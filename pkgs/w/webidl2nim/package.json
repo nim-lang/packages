@@ -1,0 +1,15 @@
+{
+  "name": "webidl2nim",
+  "url": "https://github.com/ASVIEST/webidl2nim",
+  "method": "git",
+  "tags": [
+    "web",
+    "webidl",
+    "js",
+    "javascript",
+    "tool"
+  ],
+  "description": "webidl to Nim bindings generator",
+  "license": "MIT",
+  "web": "https://github.com/ASVIEST/webidl2nim"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "gnuplotlib",
+  "url": "https://github.com/planetis-m/gnuplotlib",
+  "method": "git",
+  "tags": [
+    "graphics",
+    "plotting",
+    "graphing",
+    "data"
+  ],
+  "description": "gnuplot interface",
+  "license": "MIT",
+  "web": "https://github.com/planetis-m/gnuplotlib"
+}

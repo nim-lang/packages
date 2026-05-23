@@ -1,0 +1,16 @@
+{
+  "name": "react",
+  "url": "https://github.com/andreaferretti/react.nim",
+  "method": "git",
+  "tags": [
+    "js",
+    "react",
+    "frontend",
+    "ui",
+    "vdom",
+    "single page application"
+  ],
+  "description": "React.js bindings for Nim",
+  "license": "Apache License 2.0",
+  "web": "https://github.com/andreaferretti/react.nim"
+}

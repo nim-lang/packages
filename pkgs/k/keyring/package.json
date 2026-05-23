@@ -1,0 +1,12 @@
+{
+  "name": "keyring",
+  "url": "https://github.com/iffy/nim-keyring",
+  "method": "git",
+  "tags": [
+    "keyring",
+    "security"
+  ],
+  "description": "Cross-platform access to OS keychain",
+  "license": "MIT",
+  "web": "https://github.com/iffy/nim-keyring"
+}

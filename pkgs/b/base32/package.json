@@ -1,0 +1,13 @@
+{
+  "name": "base32",
+  "url": "https://github.com/OpenSystemsLab/base32.nim",
+  "method": "git",
+  "tags": [
+    "base32",
+    "encode",
+    "decode"
+  ],
+  "description": "Base32 library for Nim",
+  "license": "MIT",
+  "web": "https://github.com/OpenSystemsLab/base32.nim"
+}

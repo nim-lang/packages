@@ -1,0 +1,15 @@
+{
+  "name": "metal4",
+  "url": "https://github.com/treeform/metal4",
+  "method": "git",
+  "tags": [
+    "metal",
+    "macos",
+    "graphics",
+    "bindings",
+    "gpu"
+  ],
+  "description": "Metal 4 bindings for Nim.",
+  "license": "MIT",
+  "web": "https://github.com/treeform/metal4"
+}

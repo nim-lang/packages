@@ -1,0 +1,14 @@
+{
+  "name": "nimrtlsdr",
+  "url": "https://github.com/jpoirier/nimrtlsdr",
+  "method": "git",
+  "tags": [
+    "rtl-sdr",
+    "wrapper",
+    "bindings",
+    "rtlsdr"
+  ],
+  "description": "A Nim wrapper for librtlsdr",
+  "license": "BSD",
+  "web": "https://github.com/jpoirier/nimrtlsdr"
+}

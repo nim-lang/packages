@@ -1,0 +1,11 @@
+{
+  "name": "spinners",
+  "url": "https://github.com/thechampagne/libspinners-nim",
+  "method": "git",
+  "tags": [
+    "spinners"
+  ],
+  "description": "Binding for libspinners an elegant terminal spinners",
+  "license": "MIT",
+  "web": "https://github.com/thechampagne/libspinners-nim"
+}

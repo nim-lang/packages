@@ -1,0 +1,15 @@
+{
+  "name": "jestermongopool",
+  "url": "https://github.com/JohnAD/jestermongopool",
+  "method": "git",
+  "tags": [
+    "web",
+    "jester",
+    "mongodb",
+    "pooled",
+    "plugin"
+  ],
+  "description": "A Jester web plugin that gets a pooled MongoDB connection for each web query.",
+  "license": "MIT",
+  "web": "https://github.com/JohnAD/jestermongopool"
+}

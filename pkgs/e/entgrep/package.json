@@ -1,0 +1,14 @@
+{
+  "name": "entgrep",
+  "url": "https://github.com/srozb/entgrep",
+  "method": "git",
+  "tags": [
+    "command-line",
+    "crypto",
+    "cryptography",
+    "security"
+  ],
+  "description": "A grep but for secrets (based on entropy).",
+  "license": "MIT",
+  "web": "https://github.com/srozb/entgrep"
+}

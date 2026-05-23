@@ -1,0 +1,11 @@
+{
+  "name": "nimsuite",
+  "url": "https://github.com/c6h4clch3/NimSuite",
+  "method": "git",
+  "tags": [
+    "unittest"
+  ],
+  "description": "a simple test framework for nim.",
+  "license": "MIT",
+  "web": "https://github.com/c6h4clch3/NimSuite"
+}

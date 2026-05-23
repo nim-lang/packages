@@ -1,0 +1,12 @@
+{
+  "name": "yasync",
+  "url": "https://github.com/yglukhov/yasync",
+  "method": "git",
+  "tags": [
+    "async",
+    "futures"
+  ],
+  "description": "Yet another async/await for Nim",
+  "license": "MIT",
+  "web": "https://github.com/yglukhov/yasync"
+}

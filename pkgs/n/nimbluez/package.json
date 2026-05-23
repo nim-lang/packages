@@ -1,0 +1,14 @@
+{
+  "name": "nimbluez",
+  "url": "https://github.com/Electric-Blue/NimBluez.git",
+  "method": "git",
+  "tags": [
+    "bluetooth",
+    "library",
+    "wrapper",
+    "sockets"
+  ],
+  "description": "Nim modules for access to system Bluetooth resources.",
+  "license": "BSD",
+  "web": "https://github.com/Electric-Blue/NimBluez"
+}

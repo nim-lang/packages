@@ -1,0 +1,17 @@
+{
+  "name": "unpack",
+  "url": "https://github.com/technicallyagd/unpack",
+  "method": "git",
+  "tags": [
+    "unpack",
+    "seq",
+    "array",
+    "object",
+    "destructuring",
+    "destructure",
+    "unpacking"
+  ],
+  "description": "Array/Sequence/Object destructuring/unpacking macro",
+  "license": "MIT",
+  "web": "https://github.com/technicallyagd/unpack"
+}

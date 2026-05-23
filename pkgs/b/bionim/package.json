@@ -1,0 +1,14 @@
+{
+  "name": "bionim",
+  "url": "https://github.com/Unaimend/bionim",
+  "method": "git",
+  "tags": [
+    "bioinformatics",
+    "needleman",
+    "wunsch",
+    "needleman-wunsch",
+    "biology"
+  ],
+  "description": "This package tries to provide a lot of the most useful data structures and alogrithms need in the different subfield of bio informatics",
+  "license": "UNLICENSE"
+}

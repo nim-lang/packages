@@ -1,0 +1,12 @@
+{
+  "name": "mccache",
+  "url": "https://github.com/abbeymart/mccache-nim",
+  "method": "git",
+  "tags": [
+    "web",
+    "library"
+  ],
+  "description": "mccache package: in-memory caching",
+  "license": "MIT",
+  "web": "https://github.com/abbeymart/mccache-nim"
+}

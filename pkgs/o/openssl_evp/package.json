@@ -1,0 +1,13 @@
+{
+  "name": "openssl_evp",
+  "url": "https://github.com/cowboy-coders/nim-openssl-evp",
+  "method": "git",
+  "tags": [
+    "library",
+    "crypto",
+    "openssl"
+  ],
+  "description": "Wrapper for OpenSSL's EVP interface",
+  "license": "OpenSSL and SSLeay",
+  "web": "https://github.com/cowboy-coders/nim-openssl-evp"
+}

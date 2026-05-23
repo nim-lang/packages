@@ -1,0 +1,13 @@
+{
+  "name": "snail",
+  "url": "https://github.com/stisa/snail",
+  "method": "git",
+  "tags": [
+    "js",
+    "matrix",
+    "linear algebra"
+  ],
+  "description": "Simple linear algebra for nim. Js too.",
+  "license": "MIT",
+  "web": "https://stisa.space/snail/"
+}

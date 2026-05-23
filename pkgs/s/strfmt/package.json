@@ -1,0 +1,11 @@
+{
+  "name": "strfmt",
+  "url": "https://github.com/bio-nim/nim-strfmt",
+  "method": "git",
+  "tags": [
+    "library"
+  ],
+  "description": "A string formatting library inspired by Python's `format`.",
+  "license": "MIT",
+  "web": "https://github.com/bio-nim/nim-strfmt"
+}

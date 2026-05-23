@@ -1,0 +1,15 @@
+{
+  "name": "io-myo",
+  "url": "https://github.com/nimious/io-myo.git",
+  "method": "git",
+  "tags": [
+    "binding",
+    "myo",
+    "thalmic",
+    "armband",
+    "gesture"
+  ],
+  "description": "Obsolete - please use myo instead!",
+  "license": "MIT",
+  "web": "https://github.com/nimious/io-myo"
+}

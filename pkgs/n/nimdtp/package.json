@@ -1,0 +1,13 @@
+{
+  "name": "nimdtp",
+  "url": "https://github.com/WKHAllen/nimdtp",
+  "method": "git",
+  "tags": [
+    "socket",
+    "networking",
+    "async"
+  ],
+  "description": "Modern networking interfaces for Nim.",
+  "license": "MIT",
+  "web": "https://github.com/WKHAllen/nimdtp"
+}

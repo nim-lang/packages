@@ -1,0 +1,14 @@
+{
+  "name": "servy",
+  "url": "https://github.com/xmonader/nim-servy",
+  "method": "git",
+  "tags": [
+    "webframework",
+    "microwebframework",
+    "async",
+    "httpserver"
+  ],
+  "description": "a down to earth webframework in nim",
+  "license": "MIT",
+  "web": "https://github.com/xmonader/nim-servy"
+}

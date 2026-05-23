@@ -1,0 +1,14 @@
+{
+  "name": "grp",
+  "url": "https://github.com/achesak/nim-grp",
+  "method": "git",
+  "tags": [
+    "library",
+    "unix",
+    "grp",
+    "group"
+  ],
+  "description": "Nim port of Python's grp module for working with the UNIX group database file",
+  "license": "MIT",
+  "web": "https://github.com/achesak/nim-grp"
+}

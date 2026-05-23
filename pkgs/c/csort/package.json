@@ -1,0 +1,11 @@
+{
+  "name": "csort",
+  "url": "https://github.com/WyattBlue/csort",
+  "method": "git",
+  "tags": [
+    "sorting",
+    "simd"
+  ],
+  "description": "A fast, branchless, sorting algorithm",
+  "license": "Unlicense"
+}

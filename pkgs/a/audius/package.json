@@ -1,0 +1,16 @@
+{
+  "name": "audius",
+  "url": "https://github.com/ceebeel/audius",
+  "method": "git",
+  "tags": [
+    "library",
+    "api",
+    "wrapper",
+    "audius",
+    "music"
+  ],
+  "description": "Audius is a simple client library for interacting with the Audius free API.",
+  "license": "MIT",
+  "doc": "https://ceebeel.github.io/audius",
+  "web": "https://github.com/ceebeel/audius"
+}

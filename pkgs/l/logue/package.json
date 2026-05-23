@@ -1,0 +1,13 @@
+{
+  "name": "logue",
+  "url": "https://github.com/planety/logue",
+  "method": "git",
+  "tags": [
+    "cli",
+    "prologue",
+    "web"
+  ],
+  "description": "Command line tools for Prologue.",
+  "license": "Apache-2.0",
+  "web": "https://github.com/planety/logue"
+}

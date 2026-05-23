@@ -1,0 +1,12 @@
+{
+  "name": "monocypher",
+  "url": "https://github.com/markspanbroek/monocypher.nim",
+  "method": "git",
+  "tags": [
+    "monocypher",
+    "crypto"
+  ],
+  "description": "Monocypher",
+  "license": "MIT",
+  "web": "https://github.com/markspanbroek/monocypher.nim"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "parsetoml",
+  "url": "https://github.com/NimParsers/parsetoml.git",
+  "method": "git",
+  "tags": [
+    "library",
+    "parse"
+  ],
+  "description": "Library for parsing TOML files.",
+  "license": "MIT",
+  "web": "https://github.com/NimParsers/parsetoml"
+}

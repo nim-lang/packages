@@ -1,0 +1,14 @@
+{
+  "name": "keccak_tiny",
+  "url": "https://github.com/status-im/nim-keccak-tiny",
+  "method": "git",
+  "tags": [
+    "library",
+    "sha3",
+    "keccak",
+    "cryptography"
+  ],
+  "description": "A wrapper for the keccak-tiny C library",
+  "license": "Apache License 2.0",
+  "web": "https://github.com/status-im/nim-keccak-tiny"
+}

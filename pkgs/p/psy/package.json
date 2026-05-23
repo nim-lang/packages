@@ -1,0 +1,18 @@
+{
+  "name": "psy",
+  "url": "https://github.com/psypac/psypac",
+  "method": "git",
+  "tags": [
+    "php-development",
+    "php",
+    "psy",
+    "psypac",
+    "cli",
+    "developer-tools",
+    "composer-alternative",
+    "deleted"
+  ],
+  "description": "A fast, multi-threading and disk space efficient package manager for PHP development and production environments",
+  "license": "GPL-3.0-or-later",
+  "web": "https://github.com/psypac/psypac"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "nimline",
+  "url": "https://github.com/sinkingsugar/nimline",
+  "method": "git",
+  "tags": [
+    "c",
+    "c++",
+    "interop",
+    "ffi",
+    "wrappers"
+  ],
+  "description": "Wrapper-less C/C++ interop for Nim",
+  "license": "MIT",
+  "web": "https://github.com/sinkingsugar/nimline"
+}

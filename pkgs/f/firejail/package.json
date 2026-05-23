@@ -1,0 +1,19 @@
+{
+  "name": "firejail",
+  "url": "https://github.com/juancarlospaco/nim-firejail",
+  "method": "git",
+  "tags": [
+    "firejail",
+    "security",
+    "linux",
+    "isolation",
+    "container",
+    "infosec",
+    "hardened",
+    "sandbox",
+    "docker"
+  ],
+  "description": "Firejail wrapper for Nim, Isolate your Production App before its too late!",
+  "license": "MIT",
+  "web": "https://github.com/juancarlospaco/nim-firejail"
+}

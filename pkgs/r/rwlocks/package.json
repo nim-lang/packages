@@ -1,0 +1,15 @@
+{
+  "name": "rwlocks",
+  "url": "https://github.com/tdely/nim-rwlocks",
+  "method": "git",
+  "tags": [
+    "lock",
+    "mrsw",
+    "multi-reader",
+    "single-writer",
+    "readers-writer"
+  ],
+  "description": "Readers-writer (MRSW) lock",
+  "license": "MIT",
+  "web": "https://github.com/tdely/nim-rwlocks"
+}

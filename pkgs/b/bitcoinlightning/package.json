@@ -1,0 +1,11 @@
+{
+  "name": "bitcoinlightning",
+  "url": "https://github.com/juancarlospaco/bitcoin-lightning",
+  "method": "git",
+  "tags": [
+    "crypto"
+  ],
+  "description": "Bitcoin Lightning client",
+  "license": "MIT",
+  "web": "https://github.com/juancarlospaco/bitcoin-lightning"
+}

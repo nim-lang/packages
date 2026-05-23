@@ -1,0 +1,15 @@
+{
+  "name": "emmy",
+  "url": "https://github.com/andreaferretti/emmy.git",
+  "method": "git",
+  "tags": [
+    "algebra",
+    "polynomials",
+    "primes",
+    "ring",
+    "quotients"
+  ],
+  "description": "Algebraic structures and related operations for Nim",
+  "license": "Apache2",
+  "web": "https://github.com/andreaferretti/emmy"
+}

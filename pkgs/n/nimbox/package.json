@@ -1,0 +1,17 @@
+{
+  "name": "nimbox",
+  "url": "https://github.com/dom96/nimbox",
+  "method": "git",
+  "tags": [
+    "library",
+    "wrapper",
+    "termbox",
+    "command-line",
+    "ui",
+    "tui",
+    "gui"
+  ],
+  "description": "A Rustbox-inspired termbox wrapper",
+  "license": "MIT",
+  "web": "https://github.com/dom96/nimbox"
+}

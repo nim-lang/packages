@@ -1,0 +1,13 @@
+{
+  "name": "classy",
+  "url": "https://github.com/nigredo-tori/classy",
+  "method": "git",
+  "tags": [
+    "library",
+    "typeclasses",
+    "macros"
+  ],
+  "description": "typeclasses for Nim",
+  "license": "Unlicense",
+  "web": "https://github.com/nigredo-tori/classy"
+}

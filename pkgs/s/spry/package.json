@@ -1,0 +1,13 @@
+{
+  "name": "spry",
+  "url": "https://github.com/gokr/spry",
+  "method": "git",
+  "tags": [
+    "language",
+    "library",
+    "scripting"
+  ],
+  "description": "A Smalltalk and Rebol inspired language implemented as an AST interpreter",
+  "license": "MIT",
+  "web": "https://github.com/gokr/spry"
+}

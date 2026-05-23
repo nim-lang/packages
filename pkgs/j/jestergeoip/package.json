@@ -1,0 +1,17 @@
+{
+  "name": "jestergeoip",
+  "url": "https://github.com/JohnAD/jestergeoip",
+  "method": "git",
+  "tags": [
+    "web",
+    "jester",
+    "ip",
+    "geo",
+    "geographic",
+    "tracker",
+    "plugin"
+  ],
+  "description": "A Jester web plugin that determines geographic information for each web request via API. Uses sqlite3 for a cache.",
+  "license": "MIT",
+  "web": "https://github.com/JohnAD/jestergeoip"
+}

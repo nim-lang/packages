@@ -1,0 +1,15 @@
+{
+  "name": "ogl46",
+  "url": "https://github.com/treeform/ogl46",
+  "method": "git",
+  "tags": [
+    "opengl",
+    "graphics",
+    "bindings",
+    "gpu",
+    "dsa"
+  ],
+  "description": "OpenGL 4.6 DSA wrapper for Nim.",
+  "license": "MIT",
+  "web": "https://github.com/treeform/ogl46"
+}

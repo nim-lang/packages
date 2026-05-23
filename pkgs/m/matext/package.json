@@ -1,0 +1,12 @@
+{
+  "name": "matext",
+  "url": "https://git.sr.ht/~xigoi/matext",
+  "method": "git",
+  "tags": [
+    "math",
+    "latex"
+  ],
+  "description": "Render LaTeX math as multiline Unicode text",
+  "license": "GPL-3.0-or-later",
+  "web": "https://git.sr.ht/~xigoi/matext"
+}

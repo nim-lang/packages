@@ -1,0 +1,13 @@
+{
+  "name": "grafanim",
+  "url": "https://github.com/jamesalbert/grafanim",
+  "method": "git",
+  "tags": [
+    "library",
+    "grafana",
+    "dashboards"
+  ],
+  "description": "Grafana module for Nim",
+  "license": "GPL",
+  "web": "https://github.com/jamesalbert/grafanim"
+}

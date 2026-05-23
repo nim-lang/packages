@@ -1,0 +1,14 @@
+{
+  "name": "jsonschema",
+  "url": "https://github.com/PMunch/jsonschema",
+  "method": "git",
+  "tags": [
+    "json",
+    "schema",
+    "library",
+    "validation"
+  ],
+  "description": "JSON schema validation and creation.",
+  "license": "MIT",
+  "web": "https://github.com/PMunch/jsonschema"
+}

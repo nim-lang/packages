@@ -1,0 +1,12 @@
+{
+  "name": "dnsprotec",
+  "url": "https://github.com/juancarlospaco/nim-dnsprotec",
+  "method": "git",
+  "tags": [
+    "dns",
+    "hosts"
+  ],
+  "description": "DNS /etc/hosts file manager, Block 1 Million malicious domains with 1 command",
+  "license": "MIT",
+  "web": "https://github.com/juancarlospaco/nim-dnsprotec"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "quickjwt",
+  "url": "https://github.com/treeform/quickjwt",
+  "method": "git",
+  "tags": [
+    "crypto",
+    "hash"
+  ],
+  "description": "JSON Web Tokens for Nim",
+  "license": "MIT",
+  "web": "https://github.com/treeform/quickjwt"
+}

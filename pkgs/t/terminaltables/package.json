@@ -1,0 +1,14 @@
+{
+  "name": "terminaltables",
+  "url": "https://github.com/xmonader/nim-terminaltables",
+  "method": "git",
+  "tags": [
+    "terminal",
+    "tables",
+    "ascii",
+    "unicode"
+  ],
+  "description": "terminal tables",
+  "license": "BSD-3-Clause",
+  "web": "https://github.com/xmonader/nim-terminaltables"
+}

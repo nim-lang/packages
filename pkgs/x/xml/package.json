@@ -1,0 +1,16 @@
+{
+  "name": "xml",
+  "url": "https://github.com/ba0f3/xml.nim",
+  "method": "git",
+  "tags": [
+    "xml",
+    "parser",
+    "compile",
+    "tokenizer",
+    "html",
+    "cdata"
+  ],
+  "description": "Pure Nim XML parser",
+  "license": "MIT",
+  "web": "https://github.com/ba0f3/xml.nim"
+}

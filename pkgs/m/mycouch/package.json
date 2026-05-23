@@ -1,0 +1,14 @@
+{
+  "name": "mycouch",
+  "url": "https://github.com/hamidb80/mycouch",
+  "method": "git",
+  "tags": [
+    "couchdb",
+    "couchdb-driver",
+    "nim",
+    "db-driver"
+  ],
+  "description": "a couchDB client written in Nim",
+  "license": "MIT",
+  "web": "https://github.com/hamidb80/mycouch"
+}

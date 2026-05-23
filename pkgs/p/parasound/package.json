@@ -1,0 +1,11 @@
+{
+  "name": "parasound",
+  "url": "https://github.com/paranim/parasound",
+  "method": "git",
+  "tags": [
+    "audio",
+    "sound"
+  ],
+  "description": "A library for playing audio files",
+  "license": "Public Domain"
+}

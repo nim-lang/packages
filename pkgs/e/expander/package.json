@@ -1,0 +1,13 @@
+{
+  "name": "expander",
+  "url": "https://github.com/soraiemame/expander",
+  "method": "git",
+  "tags": [
+    "competitive-programing",
+    "expand",
+    "online-judge"
+  ],
+  "description": "Code expander for competitive programing in Nim.",
+  "license": "MIT",
+  "web": "https://github.com/soraiemame/expander"
+}

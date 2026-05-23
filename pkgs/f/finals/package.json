@@ -1,0 +1,11 @@
+{
+  "name": "finals",
+  "url": "https://github.com/quelklef/nim-finals",
+  "method": "git",
+  "tags": [
+    "types"
+  ],
+  "description": "Transparently declare single-set attributes on types.",
+  "license": "MIT",
+  "web": "https://github.com/Quelklef/nim-finals"
+}

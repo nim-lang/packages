@@ -1,0 +1,14 @@
+{
+  "name": "holst",
+  "url": "https://github.com/ruivieira/nim-holst",
+  "method": "git",
+  "tags": [
+    "jupyter",
+    "markdown",
+    "parser"
+  ],
+  "description": "A parser for Jupyter notebooks.",
+  "license": "AGPLv3",
+  "web": "https://github.com/ruivieira/nim-holst",
+  "doc": "https://ruivieira.github.io/nim-holst/holst.html"
+}

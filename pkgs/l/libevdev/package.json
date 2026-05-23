@@ -1,0 +1,13 @@
+{
+  "name": "libevdev",
+  "url": "https://github.com/luked99/libevdev.nim",
+  "method": "git",
+  "tags": [
+    "wrapper",
+    "os",
+    "linux"
+  ],
+  "description": "Wrapper for libevdev, Linux input device processing library",
+  "license": "MIT",
+  "web": "https://github.com/luked99/libevdev.nim"
+}

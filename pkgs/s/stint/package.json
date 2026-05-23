@@ -1,0 +1,13 @@
+{
+  "name": "stint",
+  "url": "https://github.com/status-im/nim-stint",
+  "method": "git",
+  "tags": [
+    "library",
+    "math",
+    "numbers"
+  ],
+  "description": "Stack-based arbitrary-precision integers - Fast and portable with natural syntax for resource-restricted devices",
+  "license": "Apache License 2.0",
+  "web": "https://github.com/status-im/nim-stint"
+}

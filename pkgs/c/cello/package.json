@@ -1,0 +1,17 @@
+{
+  "name": "cello",
+  "url": "https://github.com/andreaferretti/cello",
+  "method": "git",
+  "tags": [
+    "string",
+    "succinct-data-structure",
+    "rank",
+    "select",
+    "Burrows-Wheeler",
+    "FM-index",
+    "wavelet-tree"
+  ],
+  "description": "String algorithms with succinct data structures",
+  "license": "Apache2",
+  "web": "https://andreaferretti.github.io/cello/"
+}

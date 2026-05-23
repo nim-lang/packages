@@ -1,0 +1,13 @@
+{
+  "name": "cppstl",
+  "url": "https://github.com/BigEpsilon/nim-cppstl",
+  "method": "git",
+  "tags": [
+    "c++",
+    "stl",
+    "bindings"
+  ],
+  "description": "Bindings for the C++ Standard Template Library (STL)",
+  "license": "MIT",
+  "web": "https://github.com/BigEpsilon/nim-cppstl"
+}

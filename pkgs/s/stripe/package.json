@@ -1,0 +1,12 @@
+{
+  "name": "stripe",
+  "url": "https://github.com/iffy/nim-stripe",
+  "method": "git",
+  "tags": [
+    "payments",
+    "library"
+  ],
+  "description": "Nim client for Stripe.com",
+  "license": "MIT",
+  "web": "https://github.com/iffy/nim-stripe"
+}

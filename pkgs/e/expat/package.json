@@ -1,0 +1,13 @@
+{
+  "name": "expat",
+  "url": "https://github.com/nim-lang/expat",
+  "method": "git",
+  "tags": [
+    "expat",
+    "xml",
+    "parsing"
+  ],
+  "description": "Expat wrapper for Nim",
+  "license": "MIT",
+  "web": "https://github.com/nim-lang/expat"
+}

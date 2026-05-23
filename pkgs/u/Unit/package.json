@@ -1,0 +1,14 @@
+{
+  "name": "Unit",
+  "url": "https://github.com/momeemt/Unit",
+  "method": "git",
+  "tags": [
+    "unit",
+    "type",
+    "systemOfUnit",
+    "library"
+  ],
+  "description": "A library that provides unit types in nim",
+  "license": "MIT",
+  "web": "https://github.com/momeemt/Unit"
+}

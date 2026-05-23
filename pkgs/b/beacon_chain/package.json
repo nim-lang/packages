@@ -1,0 +1,11 @@
+{
+  "name": "beacon_chain",
+  "url": "https://github.com/status-im/nimbus-eth2",
+  "method": "git",
+  "tags": [
+    "ethereum"
+  ],
+  "description": "An efficient Ethereum beacon chain client",
+  "license": "Apache License 2.0",
+  "web": "https://github.com/status-im/nimbus-eth2"
+}

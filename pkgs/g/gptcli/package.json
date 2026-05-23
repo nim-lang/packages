@@ -1,0 +1,14 @@
+{
+  "name": "gptcli",
+  "url": "https://github.com/jaredmontoya/gptcli",
+  "method": "git",
+  "tags": [
+    "client",
+    "cli",
+    "chatgpt",
+    "openai"
+  ],
+  "description": "chatgpt cli client written in nim",
+  "license": "GPL-3.0-or-later",
+  "web": "https://github.com/jaredmontoya/gptcli"
+}

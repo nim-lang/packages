@@ -1,0 +1,15 @@
+{
+  "name": "nimPGP",
+  "url": "https://gitlab.com/IAlbassort/nimPGP/",
+  "method": "git",
+  "tags": [
+    "pgp",
+    "encryption",
+    "rust",
+    "security",
+    "privacy"
+  ],
+  "description": "A high-level and easy to use PGP library. Using Rust & Sequoia-PGP on the backend!",
+  "license": "MIT",
+  "web": "https://gitlab.com/IAlbassort/nimPGP/"
+}

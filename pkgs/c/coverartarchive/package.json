@@ -1,0 +1,15 @@
+{
+  "name": "coverartarchive",
+  "url": "https://github.com/achesak/nim-coverartarchive",
+  "method": "git",
+  "tags": [
+    "library",
+    "wrapper",
+    "cover art",
+    "music",
+    "metadata"
+  ],
+  "description": "Cover Art Archive API wrapper",
+  "license": "MIT",
+  "web": "https://github.com/achesak/nim-coverartarchive"
+}

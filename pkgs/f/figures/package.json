@@ -1,0 +1,13 @@
+{
+  "name": "figures",
+  "url": "https://github.com/lmariscal/figures",
+  "method": "git",
+  "tags": [
+    "unicode",
+    "cli",
+    "figures"
+  ],
+  "description": "unicode symbols",
+  "license": "MIT",
+  "web": "https://github.com/lmariscal/figures"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "adix",
+  "url": "https://github.com/c-blake/adix",
+  "method": "git",
+  "tags": [
+    "library",
+    "dictionary",
+    "hash tables",
+    "data structures",
+    "algorithms",
+    "hash",
+    "hashes",
+    "compact",
+    "Fenwick Tree",
+    "BIST",
+    "binary trees",
+    "sketch",
+    "sketches",
+    "B-Tree"
+  ],
+  "description": "An Adaptive Index Library For Nim",
+  "license": "MIT",
+  "web": "https://github.com/c-blake/adix"
+}

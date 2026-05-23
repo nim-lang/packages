@@ -1,0 +1,15 @@
+{
+  "name": "termui",
+  "url": "https://github.com/jjv360/nim-termui",
+  "method": "git",
+  "tags": [
+    "terminal",
+    "console",
+    "ui",
+    "input",
+    "ask"
+  ],
+  "description": "Simple UI components for the terminal.",
+  "license": "MIT",
+  "web": "https://github.com/jjv360/nim-termui"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "libgit2",
+  "url": "https://github.com/barcharcraz/libgit2-nim",
+  "method": "git",
+  "tags": [
+    "git",
+    "libgit",
+    "libgit2",
+    "vcs",
+    "wrapper"
+  ],
+  "description": "Libgit2 low level wrapper",
+  "license": "MIT",
+  "web": "https://github.com/barcharcraz/libgit2-nim"
+}

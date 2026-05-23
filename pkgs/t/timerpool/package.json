@@ -1,0 +1,14 @@
+{
+  "name": "timerpool",
+  "url": "https://github.com/mikra01/timerpool/",
+  "method": "git",
+  "tags": [
+    "timer",
+    "pool",
+    "events",
+    "thread"
+  ],
+  "description": "threadsafe timerpool implementation for event purpose",
+  "license": "MIT",
+  "web": "https://github.com/mikra01/timerpool"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "monoucha",
+  "url": "https://git.sr.ht/~bptato/monoucha",
+  "method": "git",
+  "tags": [
+    "quickjs",
+    "javascript",
+    "js",
+    "wrapper",
+    "bindings"
+  ],
+  "description": "High-level wrapper for QuickJS",
+  "license": "MIT & Unlicense",
+  "web": "https://git.sr.ht/~bptato/monoucha"
+}

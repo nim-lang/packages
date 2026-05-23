@@ -1,0 +1,15 @@
+{
+  "name": "rangequeries",
+  "url": "https://github.com/vanyle/RangeQueriesNim",
+  "method": "git",
+  "tags": [
+    "range",
+    "query",
+    "segment tree",
+    "tree"
+  ],
+  "description": "An implementation of Range Queries in Nim",
+  "license": "MIT",
+  "web": "https://github.com/vanyle/RangeQueriesNim/",
+  "doc": "https://vanyle.github.io/RangeQueriesNim/rangequeries.html"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "hyperscript",
+  "url": "https://github.com/schneiderfelipe/hyperscript",
+  "method": "git",
+  "tags": [
+    "hyperscript",
+    "templating"
+  ],
+  "description": "Create HyperText with Nim.",
+  "license": "MIT",
+  "web": "https://github.com/schneiderfelipe/hyperscript"
+}

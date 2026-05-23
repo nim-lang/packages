@@ -1,0 +1,13 @@
+{
+  "name": "perlin",
+  "url": "https://github.com/Nycto/PerlinNim",
+  "method": "git",
+  "tags": [
+    "perlin",
+    "simplex",
+    "noise"
+  ],
+  "description": "Perlin noise and Simplex noise generation",
+  "license": "MIT",
+  "web": "https://github.com/Nycto/PerlinNim"
+}

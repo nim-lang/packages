@@ -1,0 +1,15 @@
+{
+  "name": "nodesnim",
+  "url": "https://github.com/Ethosa/nodesnim",
+  "method": "git",
+  "tags": [
+    "GUI",
+    "2D",
+    "framework",
+    "OpenGL",
+    "SDL2"
+  ],
+  "description": "The Nim GUI/2D framework based on OpenGL and SDL2.",
+  "license": "MIT",
+  "web": "https://github.com/Ethosa/nodesnim"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "nimpk",
+  "url": "https://github.com/khchen/nimpk",
+  "method": "git",
+  "tags": [
+    "pocketlang",
+    "script",
+    "scripting",
+    "programming",
+    "language"
+  ],
+  "description": "PocketLang binding for Nim",
+  "license": "MIT",
+  "web": "https://github.com/khchen/nimpk"
+}

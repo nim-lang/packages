@@ -1,0 +1,12 @@
+{
+  "name": "tinyre",
+  "url": "https://github.com/khchen/tinyre",
+  "method": "git",
+  "tags": [
+    "re",
+    "regex"
+  ],
+  "description": "Tiny Regex Engine for Nim",
+  "license": "MIT",
+  "web": "https://github.com/khchen/tinyre"
+}

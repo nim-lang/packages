@@ -1,0 +1,17 @@
+{
+  "name": "fastpnm",
+  "url": "https://github.com/hamidb80/pbm",
+  "method": "git",
+  "tags": [
+    "netpbm",
+    "parser",
+    "pbm",
+    "pgm",
+    "ppm",
+    "pnm",
+    "fast"
+  ],
+  "description": "fast PNM (.pbm .pgm .ppm) parser",
+  "license": "MIT",
+  "web": "https://github.com/hamidb80/fastpnm"
+}

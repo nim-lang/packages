@@ -1,0 +1,15 @@
+{
+  "name": "payf",
+  "url": "https://github.com/capocasa/payf",
+  "method": "git",
+  "tags": [
+    "fints",
+    "sepa",
+    "banking",
+    "transfer",
+    "cli"
+  ],
+  "description": "SEPA instant transfer CLI via FinTS 3.0",
+  "license": "MIT",
+  "web": "https://github.com/capocasa/payf"
+}

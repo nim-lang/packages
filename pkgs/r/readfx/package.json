@@ -1,0 +1,18 @@
+{
+  "name": "readfx",
+  "url": "https://github.com/quadram-institute-bioscience/readfx",
+  "method": "git",
+  "tags": [
+    "fasta",
+    "fastq",
+    "fastx",
+    "seqfu",
+    "bioinformatics",
+    "parser",
+    "kseq",
+    "readfq"
+  ],
+  "description": "FASTX parser for SeqFu (klib)",
+  "license": "MIT",
+  "web": "https://github.com/quadram-institute-bioscience/readfx"
+}

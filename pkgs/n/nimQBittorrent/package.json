@@ -1,0 +1,14 @@
+{
+  "name": "nimQBittorrent",
+  "url": "https://github.com/faulander/nimQBittorrent",
+  "method": "git",
+  "tags": [
+    "torrent",
+    "qbittorrent",
+    "api",
+    "wrapper"
+  ],
+  "description": "a wrapper for the QBittorrent WebAPI for NIM.",
+  "license": "MIT",
+  "web": "https://github.com/faulander/nimQBittorrent"
+}

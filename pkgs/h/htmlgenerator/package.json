@@ -1,0 +1,11 @@
+{
+  "name": "htmlgenerator",
+  "url": "https://github.com/z-kk/htmlgenerator",
+  "method": "git",
+  "tags": [
+    "html"
+  ],
+  "description": "Generate HTML string by nim object",
+  "license": "MIT",
+  "web": "https://github.com/z-kk/htmlgenerator"
+}

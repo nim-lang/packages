@@ -1,0 +1,16 @@
+{
+  "name": "twofa",
+  "url": "https://github.com/openpeeps/twofa",
+  "method": "git",
+  "tags": [
+    "otp",
+    "totp",
+    "qrcode",
+    "qr",
+    "twofactor",
+    "auth"
+  ],
+  "description": "Simple 2FA QR CodeGen based on otp & qr packages",
+  "license": "MIT",
+  "web": "https://github.com/openpeeps/twofa"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "kview",
+  "url": "https://github.com/planety/kview",
+  "method": "git",
+  "tags": [
+    "prologue",
+    "starlight",
+    "karax",
+    "web"
+  ],
+  "description": "For karax html preview.",
+  "license": "BSD-3-Clause",
+  "web": "https://github.com/planety/kview"
+}

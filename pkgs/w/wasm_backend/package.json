@@ -1,0 +1,14 @@
+{
+  "name": "wasm_backend",
+  "url": "https://github.com/nimpylib/wasm_backend",
+  "method": "git",
+  "tags": [
+    "utils",
+    "wasm",
+    "webassembly",
+    "compile"
+  ],
+  "description": "utils to support compiling Nim to WASM target",
+  "license": "MIT",
+  "web": "https://wasm-backend.nimpylib.org"
+}

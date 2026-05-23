@@ -1,0 +1,12 @@
+{
+  "name": "winversion",
+  "url": "https://github.com/rockcavera/winversion",
+  "method": "git",
+  "tags": [
+    "windows",
+    "version"
+  ],
+  "description": "This package allows you to determine the running version of the Windows operating system.",
+  "license": "MIT",
+  "web": "https://github.com/rockcavera/winversion"
+}

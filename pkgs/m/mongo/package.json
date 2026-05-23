@@ -1,0 +1,13 @@
+{
+  "name": "mongo",
+  "url": "https://github.com/nim-lang/mongo",
+  "method": "git",
+  "tags": [
+    "library",
+    "wrapper",
+    "database"
+  ],
+  "description": "Bindings and a high-level interface for MongoDB",
+  "license": "MIT",
+  "web": "https://github.com/nim-lang/mongo"
+}

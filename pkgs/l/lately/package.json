@@ -1,0 +1,16 @@
+{
+  "name": "lately",
+  "url": "https://github.com/hmbemba/lately",
+  "method": "git",
+  "tags": [
+    "social-media",
+    "facebook",
+    "twitter",
+    "instagram",
+    "x",
+    "tiktok"
+  ],
+  "description": "Nim SDK for the Late.dev API",
+  "license": "MIT",
+  "web": "https://github.com/hmbemba/lately"
+}

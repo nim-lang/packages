@@ -1,0 +1,13 @@
+{
+  "name": "geonames",
+  "url": "https://github.com/achesak/nim-geonames",
+  "method": "git",
+  "tags": [
+    "library",
+    "wrapper",
+    "geography"
+  ],
+  "description": "GeoNames API wrapper",
+  "license": "MIT",
+  "web": "https://github.com/achesak/nim-geonames"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "sigils",
+  "url": "https://github.com/elcritch/sigils",
+  "method": "git",
+  "tags": [
+    "slots",
+    "signals",
+    "event",
+    "broadcast",
+    "gui",
+    "ui",
+    "multithreading"
+  ],
+  "description": "A slot and signals implementation for the Nim programming language",
+  "license": "MIT",
+  "web": "https://github.com/elcritch/sigils"
+}

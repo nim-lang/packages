@@ -1,0 +1,13 @@
+{
+  "name": "resultsutils",
+  "url": "https://github.com/nonnil/resultsutils",
+  "method": "git",
+  "tags": [
+    "result",
+    "results",
+    "error"
+  ],
+  "description": "Utility macros for easier handling of Result",
+  "license": "MIT",
+  "web": "https://github.com/nonnil/resultsutils"
+}

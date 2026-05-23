@@ -1,0 +1,15 @@
+{
+  "name": "open_elevation",
+  "url": "https://github.com/juancarlospaco/nim-open-elevation",
+  "method": "git",
+  "tags": [
+    "openstreetmap",
+    "geo",
+    "elevation",
+    "multisync",
+    "async"
+  ],
+  "description": "OpenStreetMap Elevation API MultiSync Client for Nim",
+  "license": "MIT",
+  "web": "https://github.com/juancarlospaco/nim-open-elevation"
+}

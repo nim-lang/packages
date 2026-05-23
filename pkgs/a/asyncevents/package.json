@@ -1,0 +1,14 @@
+{
+  "name": "asyncevents",
+  "url": "https://github.com/tulayang/asyncevents",
+  "method": "git",
+  "tags": [
+    "event",
+    "future",
+    "asyncdispatch",
+    "deleted"
+  ],
+  "description": "Asynchronous event loop for progaming with MVC",
+  "license": "MIT",
+  "web": "https://github.com/tulayang/asyncevents"
+}

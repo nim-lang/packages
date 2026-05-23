@@ -1,0 +1,18 @@
+{
+  "name": "groovebox",
+  "url": "https://github.com/openpeeps/groovebox",
+  "method": "git",
+  "tags": [
+    "rtmp",
+    "music",
+    "streaming",
+    "audio",
+    "radio",
+    "station",
+    "video",
+    "streaming"
+  ],
+  "description": "Live stream pre-recorded media to Twitch, Yotube and Icecast servers",
+  "license": "AGPL-3.0-or-later",
+  "web": "https://github.com/openpeeps/groovebox"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "multipart",
+  "url": "https://github.com/openpeeps/multipart",
+  "method": "git",
+  "tags": [
+    "file",
+    "upload",
+    "multipart",
+    "formdata",
+    "parser"
+  ],
+  "description": "A simple multipart parser",
+  "license": "MIT",
+  "web": "https://github.com/openpeeps/multipart"
+}

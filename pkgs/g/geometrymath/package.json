@@ -1,0 +1,14 @@
+{
+  "name": "geometrymath",
+  "url": "https://github.com/can-lehmann/geometrymath",
+  "method": "git",
+  "tags": [
+    "library",
+    "geometry",
+    "math",
+    "graphics"
+  ],
+  "description": "Linear algebra library for computer graphics applications",
+  "license": "MIT",
+  "web": "https://github.com/can-lehmann/geometrymath"
+}

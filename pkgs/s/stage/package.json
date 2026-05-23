@@ -1,0 +1,12 @@
+{
+  "name": "stage",
+  "url": "https://github.com/bung87/stage",
+  "method": "git",
+  "tags": [
+    "git",
+    "hook"
+  ],
+  "description": "nim tasks apply to git hooks",
+  "license": "MIT",
+  "web": "https://github.com/bung87/stage"
+}

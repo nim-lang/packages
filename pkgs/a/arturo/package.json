@@ -1,0 +1,19 @@
+{
+  "name": "arturo",
+  "url": "https://github.com/arturo-lang/arturo",
+  "method": "git",
+  "tags": [
+    "nim",
+    "vm",
+    "programming",
+    "rebol",
+    "ruby",
+    "haskell",
+    "functional",
+    "homoiconic"
+  ],
+  "description": "Simple, modern and portable interpreted programming language for efficient scripting",
+  "license": "MIT",
+  "web": "https://arturo-lang.io/",
+  "doc": "https://arturo-lang.io/"
+}

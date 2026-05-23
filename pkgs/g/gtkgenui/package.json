@@ -1,0 +1,12 @@
+{
+  "name": "gtkgenui",
+  "url": "https://github.com/PMunch/gtkgenui",
+  "method": "git",
+  "tags": [
+    "gtk2",
+    "utility"
+  ],
+  "description": "This module provides the genui macro for the Gtk2 toolkit. Genui is a way to specify graphical interfaces in a hierarchical way to more clearly show the structure of the interface as well as simplifying the code.",
+  "license": "MIT",
+  "web": "https://github.com/PMunch/gtkgenui"
+}

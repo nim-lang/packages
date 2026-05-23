@@ -1,0 +1,13 @@
+{
+  "name": "mysqlparser",
+  "url": "https://github.com/tulayang/mysqlparser.git",
+  "method": "git",
+  "tags": [
+    "mysql",
+    "protocol",
+    "parser"
+  ],
+  "description": "An efficient packet parser for MySQL Client/Server Protocol. Help you to write Mysql communication in either BLOCKIONG-IO or NON-BLOCKING-IO.",
+  "license": "MIT",
+  "web": "https://github.com/tulayang/mysqlparser"
+}

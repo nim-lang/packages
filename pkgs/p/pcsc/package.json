@@ -1,0 +1,14 @@
+{
+  "name": "pcsc",
+  "url": "https://github.com/mmlado/pcsc-nim/",
+  "method": "git",
+  "tags": [
+    "library",
+    "PC/SC",
+    "pcsc",
+    "PC/SmartCard"
+  ],
+  "description": "PC/SC library for smart card access",
+  "license": "MIT",
+  "web": "https://github.com/mmlado/pcsc-nim/"
+}

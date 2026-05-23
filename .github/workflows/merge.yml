@@ -1,0 +1,32 @@
+on:
+  push:
+    branches:
+      - master
+    tags-ignore:
+      - '**'
+
+jobs:
+  default:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+      - uses: iffy/install-nim@v5.1.1
+        with:
+          version: stable
+      - run: nim r -d:ssl -d:release package_index.nim sync "${{ github.event.before }}" "${{ github.sha }}" packages.json pkgs
+      - run: nim c -d:ssl -r -d:release package_scanner.nim packages.json
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - run: |
+          if git diff --quiet -- packages.json pkgs; then
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add packages.json pkgs
+          git commit -m "Sync packages.json and pkgs [skip ci]"
+          git push

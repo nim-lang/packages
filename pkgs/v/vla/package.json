@@ -1,0 +1,12 @@
+{
+  "name": "vla",
+  "url": "https://github.com/bpr/vla",
+  "method": "git",
+  "tags": [
+    "vla",
+    "alloca"
+  ],
+  "description": "Variable length arrays for Nim",
+  "license": "MIT",
+  "web": "https://github.com/bpr/vla"
+}

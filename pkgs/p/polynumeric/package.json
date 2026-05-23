@@ -1,0 +1,12 @@
+{
+  "name": "polynumeric",
+  "url": "https://github.com/SciNim/polynumeric",
+  "method": "git",
+  "tags": [
+    "polynomial",
+    "numeric"
+  ],
+  "description": "Polynomial operations",
+  "license": "MIT",
+  "web": "https://github.com/SciNim/polynumeric"
+}

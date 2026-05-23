@@ -1,0 +1,15 @@
+{
+  "name": "RC4",
+  "url": "https://github.com/OHermesJunior/nimRC4",
+  "method": "git",
+  "tags": [
+    "RC4",
+    "encryption",
+    "library",
+    "crypto",
+    "simple"
+  ],
+  "description": "RC4 library implementation",
+  "license": "MIT",
+  "web": "https://github.com/OHermesJunior/nimRC4"
+}

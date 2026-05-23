@@ -1,0 +1,13 @@
+{
+  "name": "termnovel",
+  "url": "https://github.com/jiro4989/termnovel",
+  "method": "git",
+  "tags": [
+    "cli",
+    "novel",
+    "tui"
+  ],
+  "description": "A command that to read novel on terminal",
+  "license": "MIT",
+  "web": "https://github.com/jiro4989/termnovel"
+}

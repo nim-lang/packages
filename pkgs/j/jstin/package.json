@@ -1,0 +1,15 @@
+{
+  "name": "jstin",
+  "url": "https://github.com/nim-lang/jstin",
+  "method": "git",
+  "tags": [
+    "json",
+    "serialize",
+    "deserialize",
+    "easy",
+    "simple"
+  ],
+  "description": "JS {de,}serialization as it says on the tin",
+  "license": "MIT",
+  "web": "https://github.com/nim-lang/jstin"
+}

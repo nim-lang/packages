@@ -1,0 +1,12 @@
+{
+  "name": "uuid4",
+  "url": "https://github.com/vtbassmatt/nim-uuid4",
+  "method": "git",
+  "tags": [
+    "uuid",
+    "library"
+  ],
+  "description": "UUIDs in pure Nim",
+  "license": "MIT",
+  "web": "https://github.com/vtbassmatt/nim-uuid4"
+}

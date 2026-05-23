@@ -1,0 +1,15 @@
+{
+  "name": "excelin",
+  "url": "https://github.com/mashingan/excelin",
+  "method": "git",
+  "tags": [
+    "read-excel",
+    "create-excel",
+    "excel",
+    "library",
+    "pure"
+  ],
+  "description": "Create and read Excel purely in Nim",
+  "license": "MIT",
+  "web": "https://github.com/mashingan/excelin"
+}

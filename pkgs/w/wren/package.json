@@ -1,0 +1,13 @@
+{
+  "name": "wren",
+  "url": "https://github.com/geotre/wren",
+  "method": "git",
+  "tags": [
+    "wren",
+    "scripting",
+    "interpreter"
+  ],
+  "description": "A nim wrapper for Wren, an embedded scripting language",
+  "license": "MIT",
+  "web": "https://github.com/geotre/wren"
+}

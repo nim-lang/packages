@@ -1,0 +1,15 @@
+{
+  "name": "tissue",
+  "url": "https://github.com/genotrance/tissue",
+  "method": "git",
+  "tags": [
+    "github",
+    "issue",
+    "debug",
+    "test",
+    "testament"
+  ],
+  "description": "Test failing snippets from Nim's issues",
+  "license": "MIT",
+  "web": "https://github.com/genotrance/tissue"
+}

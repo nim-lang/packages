@@ -1,0 +1,13 @@
+{
+  "name": "manu",
+  "url": "https://github.com/planetis-m/manu",
+  "method": "git",
+  "tags": [
+    "matrix",
+    "linear-algebra",
+    "scientific"
+  ],
+  "description": "Matrix library",
+  "license": "MIT",
+  "web": "https://github.com/planetis-m/manu"
+}

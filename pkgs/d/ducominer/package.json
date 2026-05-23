@@ -1,0 +1,15 @@
+{
+  "name": "ducominer",
+  "url": "https://github.com/its5Q/ducominer",
+  "method": "git",
+  "tags": [
+    "miner",
+    "mining",
+    "duco",
+    "duinocoin",
+    "cryptocurrency"
+  ],
+  "description": "A fast, multithreaded miner for DuinoCoin",
+  "license": "MIT",
+  "web": "https://github.com/its5Q/ducominer"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "urand",
+  "url": "https://github.com/Matceporial/nim-urand",
+  "method": "git",
+  "tags": [
+    "random",
+    "urandom",
+    "crypto"
+  ],
+  "description": "Simple method of obtaining secure random numbers from the OS",
+  "license": "MIT",
+  "web": "https://github.com/Matceporial/nim-urand"
+}

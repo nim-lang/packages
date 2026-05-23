@@ -1,0 +1,12 @@
+{
+  "name": "word2vec",
+  "url": "https://github.com/treeform/word2vec",
+  "method": "git",
+  "tags": [
+    "nlp",
+    "natural-language-processing"
+  ],
+  "description": "Word2vec implemented in nim.",
+  "license": "MIT",
+  "web": "https://github.com/treeform/word2vec"
+}

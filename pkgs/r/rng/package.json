@@ -1,0 +1,15 @@
+{
+  "name": "rng",
+  "url": "https://codeberg.org/onbox/rng",
+  "method": "git",
+  "tags": [
+    "random",
+    "sysrand",
+    "rng",
+    "crypto",
+    "cross"
+  ],
+  "description": "Basic wrapper over std/sysrand",
+  "license": "BSD-3-Clause",
+  "web": "https://docs.penguinite.dev/rng/"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "rnim",
+  "url": "https://github.com/SciNim/rnim",
+  "method": "git",
+  "tags": [
+    "R",
+    "rstats",
+    "bridge",
+    "library",
+    "statistics"
+  ],
+  "description": "A bridge between R and Nim",
+  "license": "MIT",
+  "web": "https://github.com/SciNim/rnim"
+}

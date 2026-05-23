@@ -1,0 +1,12 @@
+{
+  "name": "stringinterpolation",
+  "url": "https://github.com/bluenote10/nim-stringinterpolation",
+  "method": "git",
+  "tags": [
+    "string formatting",
+    "string interpolation"
+  ],
+  "description": "String interpolation with printf syntax",
+  "license": "MIT",
+  "web": "https://github.com/bluenote10/nim-stringinterpolation"
+}

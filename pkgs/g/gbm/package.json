@@ -1,0 +1,16 @@
+{
+  "name": "gbm",
+  "url": "https://github.com/xTrayambak/gbm-nim",
+  "method": "git",
+  "tags": [
+    "gpu",
+    "linux",
+    "wayland",
+    "gbm",
+    "graphics",
+    "vram"
+  ],
+  "description": "Raw low-level bindings and idiomatic high-level bindings for Mesa's GBM API",
+  "license": "MIT",
+  "web": "https://github.com/xTrayambak/gbm-nim"
+}

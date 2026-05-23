@@ -1,0 +1,14 @@
+{
+  "name": "options",
+  "url": "https://github.com/fallingduck/options-nim",
+  "method": "git",
+  "tags": [
+    "library",
+    "option",
+    "optionals",
+    "maybe"
+  ],
+  "description": "Temporary package to fix broken code in 0.11.2 stable.",
+  "license": "MIT",
+  "web": "https://github.com/fallingduck/options-nim"
+}

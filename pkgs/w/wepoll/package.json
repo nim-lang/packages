@@ -1,0 +1,13 @@
+{
+  "name": "wepoll",
+  "url": "https://github.com/ringabout/wepoll",
+  "method": "git",
+  "tags": [
+    "epoll",
+    "windows",
+    "wrapper"
+  ],
+  "description": "Windows epoll wrapper.",
+  "license": "MIT",
+  "web": "https://github.com/ringabout/wepoll"
+}

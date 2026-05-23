@@ -1,0 +1,15 @@
+{
+  "name": "treesitter_java",
+  "url": "https://github.com/genotrance/nimtreesitter?subdir=treesitter_java",
+  "method": "git",
+  "tags": [
+    "tree-sitter",
+    "java",
+    "parser",
+    "language",
+    "code"
+  ],
+  "description": "Nim wrapper for Java language support within tree-sitter",
+  "license": "MIT",
+  "web": "https://github.com/genotrance/nimtreesitter"
+}

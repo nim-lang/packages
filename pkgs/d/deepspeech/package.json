@@ -1,0 +1,14 @@
+{
+  "name": "deepspeech",
+  "url": "https://gitlab.com/eagledot/nim-deepspeech",
+  "method": "git",
+  "tags": [
+    "mozilla",
+    "deepspeech",
+    "speech to text",
+    "bindings"
+  ],
+  "description": "Nim bindings for mozilla's DeepSpeech model.",
+  "license": "MIT",
+  "web": "https://gitlab.com/eagledot/nim-deepspeech"
+}

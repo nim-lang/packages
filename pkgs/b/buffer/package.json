@@ -1,0 +1,12 @@
+{
+  "name": "buffer",
+  "url": "https://github.com/bung87/buffer",
+  "method": "git",
+  "tags": [
+    "stream",
+    "buffer"
+  ],
+  "description": "buffer",
+  "license": "MIT",
+  "web": "https://github.com/bung87/buffer"
+}

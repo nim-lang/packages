@@ -1,0 +1,14 @@
+{
+  "name": "nap",
+  "url": "https://github.com/madprops/nap",
+  "method": "git",
+  "tags": [
+    "arguments",
+    "parser",
+    "opts",
+    "library"
+  ],
+  "description": "Argument parser",
+  "license": "MIT",
+  "web": "https://github.com/madprops/nap"
+}

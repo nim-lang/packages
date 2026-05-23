@@ -1,0 +1,14 @@
+{
+  "name": "seaqt",
+  "url": "https://github.com/seaqt/nim-seaqt",
+  "method": "git",
+  "tags": [
+    "Qt",
+    "Qml",
+    "wrapper",
+    "gui"
+  ],
+  "description": "Generator-based bindings for Qt/QML",
+  "license": "MIT",
+  "web": "https://github.com/seaqt/nim-seaqt"
+}

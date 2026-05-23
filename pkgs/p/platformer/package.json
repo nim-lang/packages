@@ -1,0 +1,13 @@
+{
+  "name": "platformer",
+  "url": "https://github.com/def-/nim-platformer",
+  "method": "git",
+  "tags": [
+    "game",
+    "sdl",
+    "2d"
+  ],
+  "description": "Writing a 2D Platform Game in Nim with SDL2",
+  "license": "MIT",
+  "web": "https://github.com/def-/nim-platformer"
+}

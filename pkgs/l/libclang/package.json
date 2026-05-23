@@ -1,0 +1,13 @@
+{
+  "name": "libclang",
+  "url": "https://github.com/cowboy-coders/nim-libclang.git",
+  "method": "git",
+  "tags": [
+    "wrapper",
+    "bindings",
+    "clang"
+  ],
+  "description": "wrapper for libclang (the C-interface of the clang LLVM frontend)",
+  "license": "MIT",
+  "web": "https://github.com/cowboy-coders/nim-libclang"
+}

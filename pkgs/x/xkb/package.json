@@ -1,0 +1,14 @@
+{
+  "name": "xkb",
+  "url": "https://github.com/j-james/nim-xkbcommon",
+  "method": "git",
+  "tags": [
+    "xkb",
+    "xkbcommon",
+    "wrapper",
+    "library"
+  ],
+  "description": "A light wrapper over xkbcommon",
+  "license": "MIT",
+  "web": "https://github.com/j-james/nim-xkbcommon"
+}

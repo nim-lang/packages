@@ -1,0 +1,16 @@
+{
+  "name": "stdx",
+  "url": "https://github.com/jjv360/nim-stdx",
+  "method": "git",
+  "tags": [
+    "std",
+    "standard",
+    "lib",
+    "library",
+    "extras",
+    "stdx"
+  ],
+  "description": "A collection of extra utilities for Nim.",
+  "license": "MIT",
+  "web": "https://github.com/jjv360/nim-stdx"
+}

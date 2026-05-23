@@ -1,0 +1,14 @@
+{
+  "name": "nimgram",
+  "url": "https://github.com/nimgram/nimgram",
+  "method": "git",
+  "tags": [
+    "mtproto",
+    "telegram",
+    "telegram-api",
+    "async"
+  ],
+  "description": "MTProto client written in Nim",
+  "license": "MIT",
+  "web": "https://github.com/nimgram/nimgram"
+}

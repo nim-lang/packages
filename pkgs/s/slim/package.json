@@ -1,0 +1,12 @@
+{
+  "name": "slim",
+  "url": "https://github.com/bung87/slim",
+  "method": "git",
+  "tags": [
+    "package",
+    "manager"
+  ],
+  "description": "nim package manager",
+  "license": "MIT",
+  "web": "https://github.com/bung87/slim"
+}

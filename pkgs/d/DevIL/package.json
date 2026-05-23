@@ -1,0 +1,14 @@
+{
+  "name": "DevIL",
+  "url": "https://github.com/Varriount/DevIL",
+  "method": "git",
+  "tags": [
+    "image",
+    "library",
+    "graphics",
+    "wrapper"
+  ],
+  "description": "Wrapper for the DevIL image library",
+  "license": "MIT",
+  "web": "https://github.com/Varriount/DevIL"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "chroma",
+  "url": "https://github.com/treeform/chroma",
+  "method": "git",
+  "tags": [
+    "colors",
+    "cmyk",
+    "hsl",
+    "hsv"
+  ],
+  "description": "Everything you want to do with colors.",
+  "license": "MIT",
+  "web": "https://github.com/treeform/chroma"
+}

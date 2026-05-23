@@ -1,0 +1,11 @@
+{
+  "name": "paramidi_soundfonts",
+  "url": "https://github.com/paranim/paramidi_soundfonts",
+  "method": "git",
+  "tags": [
+    "midi",
+    "soundfonts"
+  ],
+  "description": "Soundfonts for paramidi",
+  "license": "Public Domain"
+}

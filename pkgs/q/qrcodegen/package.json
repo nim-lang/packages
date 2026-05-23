@@ -1,0 +1,12 @@
+{
+  "name": "qrcodegen",
+  "url": "https://github.com/bunkford/qrcodegen",
+  "method": "git",
+  "tags": [
+    "qr",
+    "barcode"
+  ],
+  "description": "QR Code Generator",
+  "license": "MIT",
+  "web": "https://github.com/bunkford/qrcodegen"
+}

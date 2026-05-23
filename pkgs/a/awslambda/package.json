@@ -1,0 +1,12 @@
+{
+  "name": "awslambda",
+  "url": "https://github.com/lambci/awslambda.nim",
+  "method": "git",
+  "tags": [
+    "aws",
+    "lambda"
+  ],
+  "description": "A package to compile nim functions for AWS Lambda",
+  "license": "MIT",
+  "web": "https://github.com/lambci/awslambda.nim"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "hashids",
+  "url": "https://github.com/achesak/nim-hashids",
+  "method": "git",
+  "tags": [
+    "library",
+    "hashids"
+  ],
+  "description": "Nim implementation of Hashids",
+  "license": "MIT",
+  "web": "https://github.com/achesak/nim-hashids"
+}

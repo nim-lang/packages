@@ -1,0 +1,16 @@
+{
+  "name": "tiptap",
+  "url": "https://github.com/openpeeps/tiptap-nim",
+  "method": "git",
+  "tags": [
+    "editor",
+    "content",
+    "texteditor",
+    "tiptap",
+    "js",
+    "validator"
+  ],
+  "description": "TipTap content validator for Nim",
+  "license": "MIT",
+  "web": "https://github.com/openpeeps/tiptap-nim"
+}

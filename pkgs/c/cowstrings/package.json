@@ -1,0 +1,15 @@
+{
+  "name": "cowstrings",
+  "url": "https://github.com/planetis-m/cowstrings",
+  "method": "git",
+  "tags": [
+    "copy-on-write",
+    "string",
+    "cow",
+    "optimization",
+    "datatype"
+  ],
+  "description": "Copy-On-Write string implementation",
+  "license": "MIT",
+  "web": "https://github.com/planetis-m/cowstrings"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "sling",
+  "url": "https://github.com/Druage/sling",
+  "method": "git",
+  "tags": [
+    "signal",
+    "slots",
+    "eventloop",
+    "callback"
+  ],
+  "description": "Signal and Slot library for Nim.",
+  "license": "unlicense",
+  "web": "https://github.com/Druage/sling"
+}

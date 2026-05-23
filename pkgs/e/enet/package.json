@@ -1,0 +1,13 @@
+{
+  "name": "enet",
+  "url": "https://github.com/fowlmouth/nimrod-enet/",
+  "method": "git",
+  "tags": [
+    "game",
+    "networking",
+    "udp"
+  ],
+  "description": "Wrapper for ENet UDP networking library",
+  "license": "MIT",
+  "web": "https://github.com/fowlmouth/nimrod-enet"
+}

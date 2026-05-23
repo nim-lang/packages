@@ -1,0 +1,15 @@
+{
+  "name": "struct",
+  "url": "https://github.com/OpenSystemsLab/struct.nim",
+  "method": "git",
+  "tags": [
+    "struct",
+    "library",
+    "python",
+    "pack",
+    "unpack"
+  ],
+  "description": "Python-like 'struct' for Nim",
+  "license": "MIT",
+  "web": "https://github.com/OpenSystemsLab/struct.nim"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "nimfmt",
+  "url": "https://github.com/FedericoCeratto/nimfmt",
+  "method": "git",
+  "tags": [
+    "linting",
+    "linter"
+  ],
+  "description": "Configurable Nim code linter / formatter / style checker with heuristics",
+  "license": "GPLv3",
+  "web": "https://github.com/FedericoCeratto/nimfmt"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "imghdr",
+  "url": "https://github.com/achesak/nim-imghdr",
+  "method": "git",
+  "tags": [
+    "image",
+    "formats",
+    "files"
+  ],
+  "description": "Library for detecting the format of an image",
+  "license": "MIT",
+  "web": "https://github.com/achesak/nim-imghdr"
+}

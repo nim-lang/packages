@@ -1,0 +1,14 @@
+{
+  "name": "eachdo",
+  "url": "https://github.com/jiro4989/eachdo",
+  "method": "git",
+  "tags": [
+    "cli",
+    "shell",
+    "exec",
+    "loop"
+  ],
+  "description": "eachdo executes commands with each multidimensional values",
+  "license": "MIT",
+  "web": "https://github.com/jiro4989/eachdo"
+}

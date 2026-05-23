@@ -1,0 +1,14 @@
+{
+  "name": "gemf",
+  "url": "https://bitbucket.org/abudden/gemf.nim",
+  "method": "hg",
+  "license": "MIT",
+  "description": "Library for reading GEMF map tile stores",
+  "web": "https://www.cgtk.co.uk/gemf",
+  "tags": [
+    "maps",
+    "gemf",
+    "parser",
+    "deleted"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "nimblex",
+  "url": "https://github.com/jjv360/nimblex",
+  "method": "git",
+  "tags": [
+    "run",
+    "cli",
+    "package",
+    "npx",
+    "runner",
+    "command",
+    "line",
+    "installer"
+  ],
+  "description": "Run command line tools directly from the Nimble Directory",
+  "license": "MIT",
+  "web": "https://github.com/jjv360/nimblex"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "scram",
+  "url": "https://github.com/nim-community/scram.nim",
+  "method": "git",
+  "tags": [
+    "scram",
+    "sasl",
+    "authentication",
+    "salted",
+    "challenge",
+    "response"
+  ],
+  "description": "Salted Challenge Response Authentication Mechanism (SCRAM) ",
+  "license": "MIT",
+  "web": "https://github.com/nim-community/scram.nim"
+}

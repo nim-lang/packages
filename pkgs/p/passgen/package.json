@@ -1,0 +1,11 @@
+{
+  "name": "passgen",
+  "url": "https://github.com/rustomax/nim-passgen",
+  "method": "git",
+  "tags": [
+    "password-generator"
+  ],
+  "description": "Password generation library in Nim",
+  "license": "MIT",
+  "web": "https://github.com/rustomax/nim-passgen"
+}

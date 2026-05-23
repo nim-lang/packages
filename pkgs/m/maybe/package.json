@@ -1,0 +1,14 @@
+{
+  "name": "maybe",
+  "url": "https://github.com/superfunc/maybe",
+  "method": "git",
+  "tags": [
+    "library",
+    "functional",
+    "optional",
+    "monad"
+  ],
+  "description": "basic monadic maybe type for Nim",
+  "license": "BSD3",
+  "web": "https://github.com/superfunc/maybe"
+}

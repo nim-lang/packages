@@ -1,0 +1,16 @@
+{
+  "name": "nerve",
+  "url": "https://github.com/nepeckman/nerve-rpc",
+  "method": "git",
+  "tags": [
+    "rpc",
+    "framework",
+    "web",
+    "json",
+    "api",
+    "library"
+  ],
+  "description": "A RPC framework for building web APIs",
+  "license": "MIT",
+  "web": "https://github.com/nepeckman/nerve-rpc"
+}

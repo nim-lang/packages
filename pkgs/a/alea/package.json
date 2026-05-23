@@ -1,0 +1,15 @@
+{
+  "name": "alea",
+  "url": "https://github.com/andreaferretti/alea",
+  "method": "git",
+  "tags": [
+    "random variables",
+    "distributions",
+    "probability",
+    "gaussian",
+    "sampling"
+  ],
+  "description": "Define and compose random variables",
+  "license": "Apache License 2.0",
+  "web": "https://github.com/andreaferretti/alea"
+}

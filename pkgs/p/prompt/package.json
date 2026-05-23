@@ -1,0 +1,13 @@
+{
+  "name": "prompt",
+  "url": "https://github.com/surf1nb1rd/nim-prompt",
+  "method": "git",
+  "tags": [
+    "command-line",
+    "readline",
+    "repl"
+  ],
+  "description": "Feature-rich readline replacement",
+  "license": "BSD2",
+  "web": "https://github.com/surf1nb1rd/nim-prompt"
+}

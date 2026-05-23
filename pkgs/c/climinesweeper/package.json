@@ -1,0 +1,14 @@
+{
+  "name": "climinesweeper",
+  "url": "https://github.com/KerorinNorthFox/MineSweeper_on_CLI",
+  "method": "git",
+  "tags": [
+    "minesweeper",
+    "cli",
+    "game",
+    "application"
+  ],
+  "description": "Play MineSweeper on CLI",
+  "license": "MIT",
+  "web": "https://github.com/KerorinNorthFox/MineSweeper_on_CLI"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "ormin",
+  "url": "https://github.com/Araq/ormin",
+  "method": "git",
+  "tags": [
+    "ORM",
+    "SQL",
+    "db",
+    "database"
+  ],
+  "description": "Prepared SQL statement generator. A lightweight ORM.",
+  "license": "MIT",
+  "web": "https://github.com/Araq/ormin"
+}

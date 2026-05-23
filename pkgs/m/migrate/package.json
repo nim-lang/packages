@@ -1,0 +1,13 @@
+{
+  "name": "migrate",
+  "url": "https://github.com/euantorano/migrate.nim",
+  "method": "git",
+  "tags": [
+    "migrate",
+    "database",
+    "db"
+  ],
+  "description": "A simple database migration utility for Nim.",
+  "license": "BSD3",
+  "web": "https://github.com/euantorano/migrate.nim"
+}

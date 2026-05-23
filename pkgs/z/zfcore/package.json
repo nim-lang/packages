@@ -1,0 +1,15 @@
+{
+  "name": "zfcore",
+  "url": "https://github.com/zendbit/nim_zfcore",
+  "method": "git",
+  "tags": [
+    "web",
+    "http",
+    "framework",
+    "api",
+    "asynchttpserver"
+  ],
+  "description": "zfcore is high performance asynchttpserver and web framework for nim lang",
+  "license": "BSD",
+  "web": "https://github.com/zendbit/nim_zfcore"
+}

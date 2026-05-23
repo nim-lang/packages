@@ -1,0 +1,16 @@
+{
+  "name": "nimtrs",
+  "url": "https://github.com/haxscramper/nimtrs",
+  "method": "git",
+  "tags": [
+    "term-rewriting",
+    "unification",
+    "pattern-matching",
+    "macro",
+    "ast",
+    "template"
+  ],
+  "description": "Nim term rewriting system",
+  "license": "Apache-2.0",
+  "web": "https://github.com/haxscramper/nimtrs"
+}

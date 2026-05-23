@@ -1,0 +1,12 @@
+{
+  "name": "timeit",
+  "url": "https://github.com/ringabout/timeit",
+  "method": "git",
+  "tags": [
+    "timeit",
+    "bench"
+  ],
+  "description": "measuring execution times written in nim.",
+  "license": "MIT",
+  "web": "https://github.com/ringabout/timeit"
+}

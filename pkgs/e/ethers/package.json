@@ -1,0 +1,13 @@
+{
+  "name": "ethers",
+  "url": "https://github.com/status-im/nim-ethers",
+  "method": "git",
+  "tags": [
+    "library",
+    "ethereum",
+    "web3"
+  ],
+  "description": "Port of ethers.js to Nim",
+  "license": "Apache License 2.0",
+  "web": "https://github.com/status-im/nim-ethers"
+}

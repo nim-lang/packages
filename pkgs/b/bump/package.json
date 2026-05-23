@@ -1,0 +1,16 @@
+{
+  "name": "bump",
+  "url": "https://github.com/disruptek/bump",
+  "method": "git",
+  "tags": [
+    "nimble",
+    "bump",
+    "release",
+    "tag",
+    "package",
+    "tool"
+  ],
+  "description": "a tiny tool to bump nimble versions",
+  "license": "MIT",
+  "web": "https://github.com/disruptek/bump"
+}

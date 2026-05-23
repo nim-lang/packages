@@ -1,0 +1,19 @@
+{
+  "name": "hldiff",
+  "url": "https://github.com/c-blake/hldiff",
+  "method": "git",
+  "tags": [
+    "difflib",
+    "diff",
+    "terminal",
+    "text",
+    "color",
+    "colors",
+    "colorize",
+    "highlight",
+    "highlighting"
+  ],
+  "description": "A highlighter for diff -u-like output & port of Python difflib",
+  "license": "MIT/ISC",
+  "web": "https://github.com/c-blake/hldiff"
+}

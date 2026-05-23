@@ -1,0 +1,15 @@
+{
+  "name": "jeknil",
+  "url": "https://github.com/tonogram/jeknil",
+  "method": "git",
+  "tags": [
+    "web",
+    "binary",
+    "blog",
+    "markdown",
+    "html"
+  ],
+  "description": "A blog post generator for people with priorities.",
+  "license": "CC0-1.0",
+  "web": "https://github.com/tonogram/jeknil"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "capnp",
+  "url": "https://github.com/zielmicha/capnp.nim",
+  "method": "git",
+  "tags": [
+    "capnp",
+    "serialization",
+    "protocol",
+    "rpc"
+  ],
+  "description": "Cap'n Proto implementation for Nim",
+  "license": "MIT",
+  "web": "https://github.com/zielmicha/capnp.nim"
+}
