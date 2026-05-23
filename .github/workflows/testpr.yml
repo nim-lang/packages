@@ -15,3 +15,4 @@ jobs:
       - run: nim r -d:ssl -d:release package_scanner.nim packages.json --old=packages_old.json --check-urls
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - run: nim r -d:ssl -d:release combine_packages.nim check-split packages.json pkgs

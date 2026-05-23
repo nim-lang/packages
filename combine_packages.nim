@@ -9,15 +9,21 @@ import std/strutils
 const Usage = """
 Usage:
   combine_packages [pkgs-dir] [packages.json]
+  combine_packages check-split [packages.json] [pkgs-dir]
   combine_packages prepare-old [packages.json] [packages_old.json]
 
 Commands:
   combine        Combine sharded package files into packages.json. This is the default.
+  check-split    Validate that packages.json can be sharded into pkgs/<letter>/<name>.json.
   prepare-old    Fetch the PR merge base version of packages.json and save it as packages_old.json.
 
 Combine arguments:
   pkgs-dir       Input shard directory. Default: pkgs
   packages.json  Output manifest path. Default: packages.json
+
+Check-split arguments:
+  packages.json  Input manifest path. Default: packages.json
+  pkgs-dir       Shard directory name to simulate. Default: pkgs
 
 Prepare-old arguments:
   packages.json      Current manifest path. Default: packages.json
@@ -159,6 +165,11 @@ proc collectPackageFiles(inputRoot: string): seq[string] =
     if path.toLowerAscii().endsWith(".json"):
       result.add(path)
 
+proc splitRelativePath(node: JsonNode, pathForErrors: string): string =
+  let name = packageName(node, pathForErrors)
+  let shard = $firstShardLetter(name)
+  result = shard / (name & ".json")
+
 proc combinePackages(inputRoot, outputPath: string) =
   if not dirExists(inputRoot):
     die("shard directory not found: " & inputRoot)
@@ -198,6 +209,41 @@ proc combinePackages(inputRoot, outputPath: string) =
   writeFile(tmpPath, outputJson.pretty.cleanupWhitespace)
   replaceFile(tmpPath, outputPath)
   echo "Wrote ", packages.len, " packages into ", outputPath
+
+proc checkSplitPackages(inputManifest, outputRootName: string) =
+  if not fileExists(inputManifest):
+    die("manifest file not found: " & inputManifest)
+
+  let manifest = parseFile(inputManifest)
+  if manifest.kind != JArray:
+    die("manifest must be a JSON array: " & inputManifest)
+
+  let tempRoot = getTempDir() / ("check-split-" & $getCurrentProcessId())
+  let shardRoot = tempRoot / outputRootName
+  defer:
+    if dirExists(tempRoot):
+      removeDir(tempRoot)
+
+  createDir(shardRoot)
+
+  var packageCount = 0
+  for index in 0 ..< manifest.len:
+    let pkg = manifest[index]
+    let pathForErrors = inputManifest & "[" & $index & "]"
+    validatePackageMetadata(pkg, pathForErrors)
+    let relativePath = splitRelativePath(pkg, pathForErrors)
+    let outputPath = shardRoot / relativePath
+    if fileExists(outputPath):
+      die("duplicate shard output path for " & pathForErrors & ": " & relativePath.replace('\\', '/'))
+
+    createDir(parentDir(outputPath))
+    writeFile(outputPath, pkg.pretty.cleanupWhitespace)
+    inc packageCount
+
+  if packageCount == 0:
+    die("manifest contains no packages: " & inputManifest)
+
+  echo "Validated split of ", packageCount, " packages into ", outputRootName
 
 proc prepareOldPackages(currentManifest, oldManifest: string) =
   if not fileExists(currentManifest):
@@ -251,6 +297,17 @@ proc cliMain(): int =
     let currentManifest = if positional.len >= 2: positional[1] else: "packages.json"
     let oldManifest = if positional.len >= 3: positional[2] else: "packages_old.json"
     prepareOldPackages(currentManifest, oldManifest)
+    return 0
+
+  if positional.len > 0 and positional[0] == "check-split":
+    if positional.len > 3:
+      stderr.writeLine("error: too many arguments for check-split")
+      stderr.write(Usage)
+      return 1
+
+    let inputManifest = if positional.len >= 2: positional[1] else: "packages.json"
+    let outputRootName = if positional.len >= 3: positional[2] else: "pkgs"
+    checkSplitPackages(inputManifest, outputRootName)
     return 0
 
   if positional.len > 2:

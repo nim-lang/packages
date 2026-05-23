@@ -108,6 +108,13 @@ nim r combine_packages.nim
 The combine step also validates each shard's JSON metadata shape before writing
 the merged manifest.
 
+Validate that a top-level `packages.json` can be split into `pkgs/` shard files
+without writing a merged output file:
+
+```sh
+nim r combine_packages.nim check-split packages.json pkgs
+```
+
 In CI, the same Nim tool also prepares `packages_old.json` from the PR merge base:
 
 ```sh
