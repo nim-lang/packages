@@ -10,7 +10,7 @@
 # * Insecure URLs
 # * PR-specific new-package vs modified-package rules
 #
-# Usage: nim r package_scanner.nim <packages.json> [--old=packages_old.json] [--check-urls] [--check-pr]
+# Usage: nim r package_scanner.nim <packages.json> [--check-urls] [--check-pr]
 #
 # Copyright 2015 Federico Ceratto <federico.ceratto@gmail.com>
 # Copyright 2023 Gabriel Huber <mail@gabrielhuber.at>
@@ -29,12 +29,12 @@ import std/sets
 
 
 const usage = """
-Usage: package_scanner <packages.json> [--old=packages_old.json] [--check-urls] [--check-pr]
+Usage: package_scanner <packages.json> [--check-urls] [--check-pr]
 Scans the nimble package list for mistakes and dead packages.
 Options:
-  --old=        Old package file, will only scan changed packages
   --check-urls  Try to request the package url
   --check-pr    Compare against the git merge base for the PR and enforce PR rules
+                This is the CI mode used for pull requests.
   --help        Print this help text"""
 
 const allowedNameChars = {'a'..'z', 'A'..'Z', '0'..'9', '_', '-', '.'}

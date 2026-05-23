@@ -135,6 +135,12 @@ nim r -d:ssl package_scanner.nim packages.json --check-pr --check-urls
 On push, CI also keeps `packages.json` and `pkgs/` in sync by generating the
 missing counterpart when only one side changed.
 
+The current push-sync rules are:
+
+* if only `packages.json` changed, CI regenerates `pkgs/`
+* if only `pkgs/` changed, CI regenerates `packages.json`
+* if both changed, they must already agree
+
 # License
 
 * `package_scanner.nim` - [GPLv3](LICENSE-GPLv3.txt)

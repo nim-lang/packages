@@ -8,9 +8,9 @@ import std/strutils
 
 const Usage = """
 Usage:
-  combine_packages [pkgs-dir] [packages.json]
-  combine_packages split [packages.json] [pkgs-dir]
-  combine_packages sync <base-rev> <head-rev> [packages.json] [pkgs-dir]
+  package_index [pkgs-dir] [packages.json]
+  package_index split [packages.json] [pkgs-dir]
+  package_index sync <base-rev> <head-rev> [packages.json] [pkgs-dir]
 
 Commands:
   combine  Combine sharded package files back into packages.json. This is the default.
