@@ -14,7 +14,7 @@ Usage:
 
 Commands:
   combine  Combine sharded package files back into packages.json. This is the default.
-  split    Split packages.json into pkgs/<letter>/<name>.json shard files.
+  split    Split packages.json into pkgs/<letter>/<name>/package.json shard files.
   sync     Synchronize packages.json and pkgs/ for a pushed git revision range.
 
 Combine arguments:
@@ -183,6 +183,14 @@ proc collectPackageFiles(inputRoot: string): seq[string] =
     if path.toLowerAscii().endsWith(".json"):
       result.add(path)
 
+proc metadataRelativePath(inputRoot, metadataPath: string): string =
+  let normalizedRoot = normalizedPath(inputRoot).replace('\\', '/').strip(chars = {'/'})
+  let normalizedPathValue = normalizedPath(metadataPath).replace('\\', '/')
+  let prefix = normalizedRoot & "/"
+  if normalizedPathValue.startsWith(prefix):
+    return normalizedPathValue[prefix.len .. ^1]
+  result = relativePath(metadataPath, inputRoot).replace('\\', '/')
+
 proc loadManifestPackages(inputPath: string): seq[JsonNode] =
   if not fileExists(inputPath):
     die("manifest file not found: " & inputPath)
@@ -198,25 +206,26 @@ proc loadShardedPackages(inputRoot: string): seq[JsonNode] =
   if not dirExists(inputRoot):
     die("shard directory not found: " & inputRoot)
   for metadataPath in collectPackageFiles(inputRoot):
-    let relative = relativePath(metadataPath, inputRoot).replace('\\', '/')
+    let relative = metadataRelativePath(inputRoot, metadataPath)
     let parts = relative.split('/')
-    if parts.len != 2:
-      die("unexpected shard path layout: " & metadataPath)
-
-    let shardFromPath = parts[0]
-    let filenameFromPath = parts[1]
-    if not filenameFromPath.toLowerAscii().endsWith(".json"):
-      die("unexpected shard filename: " & metadataPath)
 
     let pkg = parseFile(metadataPath)
     validatePackageMetadata(pkg, metadataPath)
     let name = packageName(pkg, metadataPath)
     let expectedShard = $firstShardLetter(name)
-    let expectedFilename = name & ".json"
-    if filenameFromPath != expectedFilename:
+
+    if parts.len != 3:
+      die("unexpected shard path layout: " & metadataPath)
+    let shardFromPath = parts[0]
+    let packageDirFromPath = parts[1]
+    let filenameFromPath = parts[2]
+    if filenameFromPath != "package.json":
+      die("unexpected shard filename: " & metadataPath)
+    if packageDirFromPath != name:
       die("package path does not match .name for " & metadataPath)
     if shardFromPath != expectedShard:
       die("shard path does not match first letter for " & metadataPath)
+
     result.add(pkg)
 
   if result.len == 0:
@@ -233,7 +242,8 @@ proc writeCombinedPackages(packages: seq[JsonNode], outputPath: string) =
 
 proc packageShardRelativePath(pkg: JsonNode, pathForErrors: string): string =
   let name = packageName(pkg, pathForErrors)
-  result = $firstShardLetter(name) / (name & ".json")
+  let shard = $firstShardLetter(name)
+  result = shard / name / "package.json"
 
 proc writeSplitPackages(packages: seq[JsonNode], outputRoot: string) =
   let tempRoot = getTempDir() / ("split-packages-" & $getCurrentProcessId())

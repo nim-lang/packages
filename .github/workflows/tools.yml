@@ -1,0 +1,25 @@
+on:
+  pull_request:
+    paths:
+      - package_index.nim
+      - package_scanner.nim
+      - config.nims
+      - tests/**
+  push:
+    branches:
+      - master
+    paths:
+      - package_index.nim
+      - package_scanner.nim
+      - config.nims
+      - tests/**
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - uses: iffy/install-nim@v5.1.1
+        with:
+          version: stable
+      - run: nim test

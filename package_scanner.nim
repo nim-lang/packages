@@ -83,7 +83,7 @@ proc shardPathFor(packageName: string): string =
   let shard = packageName[0].toLowerAscii()
   if shard notin {'a'..'z'}:
     raise newException(ValueError, "package name must start with an ASCII letter for alphabetical sharding: " & packageName)
-  result = "pkgs/" & $shard & "/" & packageName & ".json"
+  result = "pkgs/" & $shard & "/" & packageName & "/package.json"
 
 proc loadOldPackagesFromJson(oldPackagesJson: JsonNode): Table[string, JsonNode] =
   if oldPackagesJson.kind != JArray:

@@ -94,14 +94,14 @@ For example:
 This repo now supports per-package metadata files under:
 
 ```text
-pkgs/<first-letter>/<package-name>.json
+pkgs/<first-letter>/<package-name>/package.json
 ```
 
 For example:
 
 ```text
-pkgs/a/AccurateSums.json
-pkgs/n/nimble.json
+pkgs/a/AccurateSums/package.json
+pkgs/n/nimble/package.json
 ```
 
 The long-term direction is for this sharded `pkgs/` layout to become the
@@ -129,7 +129,7 @@ the merged manifest.
 In CI, PR validation is handled by the scanner directly from the git merge base:
 
 ```sh
-nim r -d:ssl package_scanner.nim packages.json --check-pr --check-urls
+nim test
 ```
 
 On push, CI also keeps `packages.json` and `pkgs/` in sync by generating the
@@ -140,6 +140,12 @@ The current push-sync rules are:
 * if only `packages.json` changed, CI regenerates `pkgs/`
 * if only `pkgs/` changed, CI regenerates `packages.json`
 * if both changed, they must already agree
+
+The test suite lives under `tests/` and can be run locally with:
+
+```sh
+nim test
+```
 
 # License
 
