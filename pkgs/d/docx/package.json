@@ -1,0 +1,12 @@
+{
+  "name": "docx",
+  "url": "https://github.com/ringabout/docx",
+  "method": "git",
+  "tags": [
+    "docx",
+    "reader"
+  ],
+  "description": "A simple docx reader.",
+  "license": "MIT",
+  "web": "https://github.com/ringabout/docx"
+}

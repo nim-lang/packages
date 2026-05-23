@@ -1,0 +1,13 @@
+{
+  "name": "darwin",
+  "url": "https://github.com/yglukhov/darwin",
+  "method": "git",
+  "tags": [
+    "macos",
+    "ios",
+    "binding"
+  ],
+  "description": "Bindings to MacOS and iOS frameworks",
+  "license": "MIT",
+  "web": "https://github.com/yglukhov/darwin"
+}

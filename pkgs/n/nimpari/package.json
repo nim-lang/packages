@@ -1,0 +1,16 @@
+{
+  "name": "nimpari",
+  "url": "https://github.com/BarrOff/nim-pari",
+  "method": "git",
+  "tags": [
+    "library",
+    "wrapper",
+    "math",
+    "cas",
+    "scientific",
+    "number-theory"
+  ],
+  "description": "Nim wrapper for the PARI library",
+  "license": "MIT",
+  "web": "https://github.com/BarrOff/nim-pari"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "bale",
+  "url": "https://github.com/hamidb80/bale",
+  "method": "git",
+  "tags": [
+    "bale",
+    "bale.ai",
+    "bot",
+    "api",
+    "client",
+    "messanger"
+  ],
+  "description": "Bale.ai bot API",
+  "license": "MIT",
+  "web": "https://github.com/hamidb80/bale"
+}

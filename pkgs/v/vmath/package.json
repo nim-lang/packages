@@ -1,0 +1,14 @@
+{
+  "name": "vmath",
+  "url": "https://github.com/treeform/vmath",
+  "method": "git",
+  "tags": [
+    "math",
+    "graphics",
+    "2d",
+    "3d"
+  ],
+  "description": "Collection of math routines for 2d and 3d graphics.",
+  "license": "MIT",
+  "web": "https://github.com/treeform/vmath"
+}

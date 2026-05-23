@@ -1,0 +1,11 @@
+{
+  "name": "nimgraphql",
+  "url": "https://github.com/genotrance/nimgraphql",
+  "method": "git",
+  "tags": [
+    "graphql"
+  ],
+  "description": "libgraphqlparser wrapper for Nim",
+  "license": "MIT",
+  "web": "https://github.com/genotrance/nimgraphql"
+}

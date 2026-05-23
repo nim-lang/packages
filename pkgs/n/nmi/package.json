@@ -1,0 +1,13 @@
+{
+  "name": "nmi",
+  "url": "https://github.com/jiro4989/nmi",
+  "method": "git",
+  "tags": [
+    "sl",
+    "joke",
+    "cli"
+  ],
+  "description": "nmi display animations aimed to correct users who accidentally enter nmi instead of nim.",
+  "license": "MIT",
+  "web": "https://github.com/jiro4989/nmi"
+}

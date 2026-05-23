@@ -1,0 +1,14 @@
+{
+  "name": "zfblast",
+  "url": "https://github.com/zendbit/nim_zfblast",
+  "method": "git",
+  "tags": [
+    "web",
+    "http",
+    "server",
+    "asynchttpserver"
+  ],
+  "description": "High performance http server (https://tools.ietf.org/html/rfc2616) with persistent connection for nim language.",
+  "license": "BSD",
+  "web": "https://github.com/zendbit/nim_zfblast"
+}

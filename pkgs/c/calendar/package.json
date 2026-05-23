@@ -1,0 +1,13 @@
+{
+  "name": "calendar",
+  "url": "https://github.com/adam-mcdaniel/calendar",
+  "method": "git",
+  "tags": [
+    "time",
+    "calendar",
+    "library"
+  ],
+  "description": "A tiny calendar program",
+  "license": "MIT",
+  "web": "https://github.com/adam-mcdaniel/calendar"
+}

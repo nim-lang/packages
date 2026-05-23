@@ -1,0 +1,16 @@
+{
+  "name": "pnimrp",
+  "url": "https://github.com/bloomingchad/pnimrp",
+  "method": "git",
+  "tags": [
+    "radio",
+    "terminal",
+    "minimal",
+    "mpv",
+    "libmpv",
+    "nim-lang"
+  ],
+  "description": "simple terminal radio station player in nim making life easier",
+  "license": "GPL-3.0-or-later",
+  "web": "https://github.com/bloomingchad/pnimrp"
+}

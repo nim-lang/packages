@@ -1,0 +1,14 @@
+{
+  "name": "zero_functional",
+  "url": "https://github.com/zero-functional/zero-functional",
+  "method": "git",
+  "tags": [
+    "functional",
+    "dsl",
+    "chaining",
+    "seq"
+  ],
+  "description": "A library providing zero-cost chaining for functional abstractions in Nim",
+  "license": "MIT",
+  "web": "https://github.com/zero-functional/zero-functional"
+}

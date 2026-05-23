@@ -1,0 +1,13 @@
+{
+  "name": "strunicode",
+  "url": "https://github.com/nitely/nim-strunicode",
+  "method": "git",
+  "tags": [
+    "string",
+    "unicode",
+    "grapheme"
+  ],
+  "description": "Swift-like unicode string handling",
+  "license": "MIT",
+  "web": "https://github.com/nitely/nim-strunicode"
+}

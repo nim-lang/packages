@@ -1,0 +1,16 @@
+{
+  "name": "pomTimer",
+  "url": "https://github.com/MnlPhlp/pomTimer",
+  "method": "git",
+  "tags": [
+    "timer",
+    "pomodoro",
+    "pomodoro-technique",
+    "pomodoro-timer",
+    "cli",
+    "pomodoro-cli"
+  ],
+  "description": "A simple pomodoro timer for the comandline with cli-output and notifications.",
+  "license": "MIT",
+  "web": "https://github.com/MnlPhlp/pomTimer"
+}

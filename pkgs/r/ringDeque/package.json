@@ -1,0 +1,14 @@
+{
+  "name": "ringDeque",
+  "url": "https://github.com/technicallyagd/ringDeque",
+  "method": "git",
+  "tags": [
+    "deque",
+    "DoublyLinkedRing",
+    "utility",
+    "python"
+  ],
+  "description": "deque implementatoin using DoublyLinkedRing",
+  "license": "MIT",
+  "web": "https://github.com/technicallyagd/ringDeque"
+}

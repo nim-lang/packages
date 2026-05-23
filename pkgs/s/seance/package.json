@@ -1,0 +1,10 @@
+{
+  "name": "seance",
+  "url": "https://github.com/esafak/seance",
+  "method": "git",
+  "tags": [
+    "llm"
+  ],
+  "license": "MIT",
+  "description": "A CLI tool and library for interacting with various LLMs"
+}

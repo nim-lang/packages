@@ -1,0 +1,14 @@
+{
+  "name": "geoip",
+  "url": "https://github.com/achesak/nim-geoip",
+  "method": "git",
+  "tags": [
+    "IP",
+    "address",
+    "location",
+    "geolocation"
+  ],
+  "description": "Retrieve info about a location from an IP address",
+  "license": "MIT",
+  "web": "https://github.com/achesak/nim-geoip"
+}

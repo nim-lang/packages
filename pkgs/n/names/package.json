@@ -1,0 +1,11 @@
+{
+  "name": "names",
+  "url": "https://github.com/pragmagic/names",
+  "method": "git",
+  "tags": [
+    "strings"
+  ],
+  "description": "String interning library",
+  "license": "MIT",
+  "web": "https://github.com/pragmagic/names"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "asyncpg",
+  "url": "https://github.com/cheatfate/asyncpg",
+  "method": "git",
+  "tags": [
+    "async",
+    "database",
+    "postgres",
+    "postgresql",
+    "asyncdispatch",
+    "asynchronous",
+    "library"
+  ],
+  "description": "Asynchronous PostgreSQL driver for Nim Language.",
+  "license": "MIT",
+  "web": "https://github.com/cheatfate/asyncpg"
+}

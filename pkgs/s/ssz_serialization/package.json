@@ -1,0 +1,14 @@
+{
+  "name": "ssz_serialization",
+  "url": "https://github.com/status-im/nim-ssz-serialization",
+  "method": "git",
+  "tags": [
+    "library",
+    "ssz",
+    "serialization",
+    "ethereum"
+  ],
+  "description": "Nim implementation of the Ethereum SSZ serialization format",
+  "license": "MIT",
+  "web": "https://github.com/status-im/nim-ssz-serialization"
+}

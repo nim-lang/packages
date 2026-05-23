@@ -1,0 +1,13 @@
+{
+  "name": "gtk2",
+  "url": "https://github.com/nim-lang/gtk2",
+  "method": "git",
+  "tags": [
+    "wrapper",
+    "gui",
+    "gtk"
+  ],
+  "description": "Wrapper for gtk2, a feature rich toolkit for creating graphical user interfaces",
+  "license": "MIT",
+  "web": "https://github.com/nim-lang/gtk2"
+}

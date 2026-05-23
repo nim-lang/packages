@@ -1,0 +1,16 @@
+{
+  "name": "libnetfilter_queue",
+  "url": "https://github.com/ba0f3/libnetfilter_queue.nim",
+  "method": "git",
+  "tags": [
+    "wrapper",
+    "libnetfilter",
+    "queue",
+    "netfilter",
+    "firewall",
+    "iptables"
+  ],
+  "description": "libnetfilter_queue wrapper for Nim",
+  "license": "MIT",
+  "web": "https://github.com/ba0f3/libnetfilter_queue.nim"
+}

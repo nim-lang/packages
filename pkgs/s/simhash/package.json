@@ -1,0 +1,12 @@
+{
+  "name": "simhash",
+  "url": "https://github.com/bung87/simhash-nim",
+  "method": "git",
+  "tags": [
+    "simhash",
+    "algoritim"
+  ],
+  "description": "Nim implementation of simhash algoritim",
+  "license": "MIT",
+  "web": "https://github.com/bung87/simhash-nim"
+}

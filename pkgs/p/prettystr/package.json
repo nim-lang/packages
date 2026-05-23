@@ -1,0 +1,14 @@
+{
+  "name": "prettystr",
+  "url": "https://github.com/prettybauble/prettystr",
+  "method": "git",
+  "tags": [
+    "prettystr",
+    "prettybauble",
+    "string",
+    "number"
+  ],
+  "description": "Small library for working with strings",
+  "license": "MIT",
+  "web": "https://github.com/prettybauble/prettystr"
+}

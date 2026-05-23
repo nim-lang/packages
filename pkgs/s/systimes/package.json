@@ -1,0 +1,13 @@
+{
+  "name": "systimes",
+  "url": "https://github.com/GULPF/systimes",
+  "method": "git",
+  "tags": [
+    "time",
+    "timezone",
+    "datetime"
+  ],
+  "description": "An alternative DateTime implementation",
+  "license": "MIT",
+  "web": "https://github.com/GULPF/systimes"
+}

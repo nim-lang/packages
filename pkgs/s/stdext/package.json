@@ -1,0 +1,13 @@
+{
+  "name": "stdext",
+  "url": "https://github.com/zendbit/nim_stdext",
+  "method": "git",
+  "tags": [
+    "stdlib",
+    "tool",
+    "util"
+  ],
+  "description": "Extends stdlib make it easy on some case",
+  "license": "BSD",
+  "web": "https://github.com/zendbit/nim_stdext"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "uri2",
+  "url": "https://github.com/achesak/nim-uri2",
+  "method": "git",
+  "tags": [
+    "uri",
+    "url",
+    "library"
+  ],
+  "description": "Nim module for better URI handling",
+  "license": "MIT",
+  "web": "https://github.com/achesak/nim-uri2"
+}

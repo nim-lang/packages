@@ -1,0 +1,13 @@
+{
+  "name": "libjwt",
+  "url": "https://github.com/nimscale/nim-libjwt",
+  "method": "git",
+  "tags": [
+    "jwt",
+    "libjwt",
+    "deleted"
+  ],
+  "description": "Bindings for libjwt",
+  "license": "LGPLv2.1",
+  "web": "https://github.com/nimscale/nim-libjwt"
+}

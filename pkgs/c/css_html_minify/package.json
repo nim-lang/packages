@@ -1,0 +1,13 @@
+{
+  "name": "css_html_minify",
+  "url": "https://github.com/juancarlospaco/nim-css-html-minify",
+  "method": "git",
+  "tags": [
+    "css",
+    "html",
+    "minify"
+  ],
+  "description": "HTML & CSS Minify Lib & App based on Regexes & parallel MultiReplaces",
+  "license": "MIT",
+  "web": "https://github.com/juancarlospaco/nim-css-html-minify"
+}

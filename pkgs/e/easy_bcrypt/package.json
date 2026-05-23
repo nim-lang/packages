@@ -1,0 +1,13 @@
+{
+  "name": "easy_bcrypt",
+  "url": "https://github.com/Akito13/easy-bcrypt.git",
+  "method": "git",
+  "tags": [
+    "hash",
+    "crypto",
+    "password",
+    "bcrypt"
+  ],
+  "description": "A simple wrapper providing a convenient reentrant interface for the bcrypt password hashing algorithm.",
+  "license": "CC0"
+}

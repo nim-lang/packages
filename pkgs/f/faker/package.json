@@ -1,0 +1,15 @@
+{
+  "name": "faker",
+  "url": "https://github.com/jiro4989/faker",
+  "method": "git",
+  "tags": [
+    "faker",
+    "library",
+    "cli",
+    "generator",
+    "fakedata"
+  ],
+  "description": "faker is a Nim package that generates fake data for you.",
+  "license": "MIT",
+  "web": "https://github.com/jiro4989/faker"
+}

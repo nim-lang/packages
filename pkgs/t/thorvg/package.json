@@ -1,0 +1,16 @@
+{
+  "name": "thorvg",
+  "url": "https://github.com/elcritch/thorvg-nim",
+  "method": "git",
+  "tags": [
+    "thorvg",
+    "vector-graphics",
+    "graphics",
+    "renderer",
+    "nim",
+    "wrapper"
+  ],
+  "description": "ThorVG Nim Wrapper",
+  "license": "Unlicense",
+  "web": "https://github.com/elcritch/thorvg-nim"
+}

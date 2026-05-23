@@ -1,0 +1,13 @@
+{
+  "name": "htmlview",
+  "url": "https://github.com/yuchunzhou/htmlview",
+  "method": "git",
+  "tags": [
+    "html",
+    "browser",
+    "deleted"
+  ],
+  "description": "View the offline or online html page in browser",
+  "license": "MIT",
+  "web": "https://github.com/yuchunzhou/htmlview"
+}

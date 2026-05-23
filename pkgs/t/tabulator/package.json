@@ -1,0 +1,12 @@
+{
+  "name": "tabulator",
+  "url": "https://github.com/erykjj/nim-tabulator",
+  "method": "git",
+  "tags": [
+    "terminal",
+    "tables"
+  ],
+  "description": "Nim library for generating plain-text tables (with Unicode and ANSI code support)",
+  "license": "MIT",
+  "web": "https://github.com/erykjj/nim-tabulator"
+}

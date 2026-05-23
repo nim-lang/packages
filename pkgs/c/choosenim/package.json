@@ -1,0 +1,16 @@
+{
+  "name": "choosenim",
+  "url": "https://github.com/nim-lang/choosenim",
+  "method": "git",
+  "tags": [
+    "install",
+    "multiple",
+    "multiplexer",
+    "pyenv",
+    "rustup",
+    "toolchain"
+  ],
+  "description": "The Nim toolchain installer.",
+  "license": "MIT",
+  "web": "https://github.com/nim-lang/choosenim"
+}

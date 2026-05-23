@@ -1,0 +1,13 @@
+{
+  "name": "random",
+  "url": "https://github.com/oprypin/nim-random",
+  "method": "git",
+  "tags": [
+    "library",
+    "algorithms",
+    "random"
+  ],
+  "description": "Pseudo-random number generation library inspired by Python",
+  "license": "MIT",
+  "web": "https://github.com/oprypin/nim-random"
+}

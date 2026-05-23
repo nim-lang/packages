@@ -1,0 +1,14 @@
+{
+  "name": "docid",
+  "url": "https://github.com/thisago/docid",
+  "method": "git",
+  "tags": [
+    "library",
+    "id",
+    "generator",
+    "verifier"
+  ],
+  "description": "Document IDs generation and validation",
+  "license": "MIT",
+  "web": "https://github.com/thisago/docid"
+}

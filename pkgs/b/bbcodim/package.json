@@ -1,0 +1,14 @@
+{
+  "name": "bbcodim",
+  "url": "https://github.com/filvyb/bbcodim",
+  "method": "git",
+  "tags": [
+    "bbcode",
+    "library",
+    "markdown",
+    "html"
+  ],
+  "description": "BBCode parser and renderer",
+  "license": "MIT",
+  "web": "https://github.com/filvyb/bbcodim"
+}

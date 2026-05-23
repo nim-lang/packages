@@ -1,0 +1,14 @@
+{
+  "name": "sdl2",
+  "url": "https://github.com/nim-lang/sdl2",
+  "method": "git",
+  "tags": [
+    "wrapper",
+    "media",
+    "audio",
+    "video"
+  ],
+  "description": "Wrapper for SDL 2.x",
+  "license": "MIT",
+  "web": "https://github.com/nim-lang/sdl2"
+}

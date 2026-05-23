@@ -1,0 +1,15 @@
+{
+  "name": "dnd",
+  "url": "https://github.com/adokitkat/dnd",
+  "method": "git",
+  "tags": [
+    "drag-and-drop",
+    "binary",
+    "dnd",
+    "terminal",
+    "gtk"
+  ],
+  "description": "Drag and drop source / target",
+  "license": "GPL-3.0-only",
+  "web": "https://github.com/adokitkat/dnd"
+}

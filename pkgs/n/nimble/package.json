@@ -1,0 +1,14 @@
+{
+  "name": "nimble",
+  "url": "https://github.com/nim-lang/nimble",
+  "method": "git",
+  "tags": [
+    "app",
+    "binary",
+    "package",
+    "manager"
+  ],
+  "description": "Nimble package manager",
+  "license": "BSD",
+  "web": "https://github.com/nim-lang/nimble"
+}

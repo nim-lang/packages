@@ -1,0 +1,12 @@
+{
+  "name": "spdx_licenses",
+  "url": "https://github.com/euantorano/spdx_licenses.nim",
+  "method": "git",
+  "tags": [
+    "spdx",
+    "license"
+  ],
+  "description": "A library to retrieve the list of commonly used licenses from the SPDX License List.",
+  "license": "BSD3",
+  "web": "https://github.com/euantorano/spdx_licenses.nim"
+}

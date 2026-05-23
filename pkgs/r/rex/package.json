@@ -1,0 +1,15 @@
+{
+  "name": "rex",
+  "url": "https://github.com/minamorl/rex",
+  "method": "git",
+  "tags": [
+    "observable",
+    "observe",
+    "library",
+    "rx",
+    "reactive"
+  ],
+  "description": "Reactive programming, in nim",
+  "license": "MIT",
+  "web": "https://github.com/minamorl/rex"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "procs",
+  "url": "https://github.com/c-blake/procs",
+  "method": "git",
+  "tags": [
+    "library",
+    "terminal",
+    "cli",
+    "binary",
+    "linux",
+    "unix",
+    "bsd"
+  ],
+  "description": "Unix process&system query&formatting library&multi-command CLI in Nim",
+  "license": "MIT",
+  "web": "https://github.com/c-blake/procs"
+}

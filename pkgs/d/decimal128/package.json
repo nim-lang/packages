@@ -1,0 +1,14 @@
+{
+  "name": "decimal128",
+  "url": "https://github.com/JohnAD/decimal128",
+  "method": "git",
+  "tags": [
+    "decimal",
+    "ieee",
+    "standard",
+    "number"
+  ],
+  "description": "Decimal type support based on the IEEE 754 2008 specification.",
+  "license": "MIT",
+  "web": "https://github.com/JohnAD/decimal128"
+}

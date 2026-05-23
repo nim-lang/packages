@@ -1,0 +1,16 @@
+{
+  "name": "constants",
+  "url": "https://github.com/juancarlospaco/nim-constants",
+  "method": "git",
+  "tags": [
+    "math",
+    "physics",
+    "chemistry",
+    "biology",
+    "engineering",
+    "science"
+  ],
+  "description": "Mathematical numerical named static constants useful for different disciplines",
+  "license": "MIT",
+  "web": "https://github.com/juancarlospaco/nim-constants"
+}

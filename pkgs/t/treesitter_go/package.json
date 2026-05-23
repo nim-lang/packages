@@ -1,0 +1,15 @@
+{
+  "name": "treesitter_go",
+  "url": "https://github.com/genotrance/nimtreesitter?subdir=treesitter_go",
+  "method": "git",
+  "tags": [
+    "tree-sitter",
+    "go",
+    "parser",
+    "language",
+    "code"
+  ],
+  "description": "Nim wrapper for Go language support within tree-sitter",
+  "license": "MIT",
+  "web": "https://github.com/genotrance/nimtreesitter"
+}

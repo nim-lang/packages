@@ -1,0 +1,11 @@
+{
+  "name": "jsony",
+  "url": "https://github.com/treeform/jsony",
+  "method": "git",
+  "tags": [
+    "json"
+  ],
+  "description": "A loose, direct to object json parser with hooks.",
+  "license": "MIT",
+  "web": "https://github.com/treeform/jsony"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "jsmn",
+  "url": "https://github.com/OpenSystemsLab/jsmn.nim",
+  "method": "git",
+  "tags": [
+    "json",
+    "token",
+    "tokenizer",
+    "parser",
+    "jsmn"
+  ],
+  "description": "Jsmn - a world fastest JSON parser - in pure Nim",
+  "license": "MIT",
+  "web": "https://github.com/OpenSystemsLab/jsmn.nim"
+}

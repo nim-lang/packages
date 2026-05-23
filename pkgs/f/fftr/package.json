@@ -1,0 +1,12 @@
+{
+  "name": "fftr",
+  "url": "https://github.com/arnetheduck/nim-fftr",
+  "method": "git",
+  "tags": [
+    "fft",
+    "dft"
+  ],
+  "description": "The fastest Fourier transform in the Rhein (so far)",
+  "license": "MIT",
+  "web": "https://github.com/arnetheduck/nim-fftr"
+}

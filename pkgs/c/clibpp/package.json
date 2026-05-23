@@ -1,0 +1,14 @@
+{
+  "name": "clibpp",
+  "url": "https://github.com/onionhammer/clibpp.git",
+  "method": "git",
+  "tags": [
+    "import",
+    "C++",
+    "library",
+    "wrap"
+  ],
+  "description": "Easy way to 'Mock' C++ interface",
+  "license": "MIT",
+  "web": "https://github.com/onionhammer/clibpp"
+}

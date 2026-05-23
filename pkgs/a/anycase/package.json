@@ -1,0 +1,14 @@
+{
+  "name": "anycase",
+  "url": "https://github.com/lamartire/anycase",
+  "method": "git",
+  "tags": [
+    "camelcase",
+    "kebabcase",
+    "snakecase",
+    "case"
+  ],
+  "description": "Convert strings to any case",
+  "license": "MIT",
+  "web": "https://github.com/lamartire/anycase"
+}

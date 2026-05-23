@@ -1,0 +1,13 @@
+{
+  "name": "harpoon",
+  "url": "https://github.com/juancarlospaco/harpoon",
+  "method": "git",
+  "tags": [
+    "http",
+    "curl",
+    "client"
+  ],
+  "description": "HTTP Client",
+  "license": "MIT",
+  "web": "https://github.com/juancarlospaco/harpoon"
+}

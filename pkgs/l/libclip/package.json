@@ -1,0 +1,16 @@
+{
+  "name": "libclip",
+  "url": "https://github.com/jabbalaci/libclip",
+  "method": "git",
+  "tags": [
+    "clipboard",
+    "library",
+    "cross-platform",
+    "copy",
+    "paste",
+    "wrapper"
+  ],
+  "description": "A cross-platform Nim library for reading/writing text from/to the clipboard",
+  "license": "MIT",
+  "web": "https://github.com/jabbalaci/libclip"
+}

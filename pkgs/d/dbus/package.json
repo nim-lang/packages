@@ -1,0 +1,11 @@
+{
+  "name": "dbus",
+  "url": "https://github.com/zielmicha/nim-dbus",
+  "method": "git",
+  "tags": [
+    "dbus"
+  ],
+  "description": "dbus bindings for Nim",
+  "license": "MIT",
+  "web": "https://github.com/zielmicha/nim-dbus"
+}

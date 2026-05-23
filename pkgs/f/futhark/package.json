@@ -1,0 +1,16 @@
+{
+  "name": "futhark",
+  "url": "https://github.com/PMunch/futhark",
+  "method": "git",
+  "tags": [
+    "library",
+    "c",
+    "c2nim",
+    "interop",
+    "language",
+    "code"
+  ],
+  "description": "Zero-wrapping C imports in Nim",
+  "license": "MIT",
+  "web": "https://github.com/PMunch/futhark"
+}

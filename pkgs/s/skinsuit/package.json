@@ -1,0 +1,17 @@
+{
+  "name": "skinsuit",
+  "url": "https://github.com/metagn/skinsuit",
+  "method": "git",
+  "tags": [
+    "object",
+    "variants",
+    "sum-types",
+    "macro",
+    "pragma",
+    "adt",
+    "union"
+  ],
+  "description": "utility macros mostly for object variants",
+  "license": "MIT",
+  "web": "https://github.com/metagn/skinsuit"
+}

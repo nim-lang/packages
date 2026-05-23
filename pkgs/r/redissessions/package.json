@@ -1,0 +1,13 @@
+{
+  "name": "redissessions",
+  "url": "https://github.com/ithkuil/redissessions/",
+  "method": "git",
+  "tags": [
+    "jester",
+    "sessions",
+    "redis"
+  ],
+  "description": "Redis-backed sessions for jester",
+  "license": "MIT",
+  "web": "https://github.com/ithkuil/redissessions/"
+}

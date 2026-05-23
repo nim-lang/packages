@@ -1,0 +1,15 @@
+{
+  "name": "hypixel",
+  "url": "https://github.com/tonogram/hypixel-nim",
+  "method": "git",
+  "tags": [
+    "api",
+    "minecraft",
+    "hypixel",
+    "library",
+    "wrapper"
+  ],
+  "description": "The Hypixel API, in Nim.",
+  "license": "MIT",
+  "web": "https://github.com/tonogram/hypixel-nim"
+}

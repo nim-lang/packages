@@ -1,0 +1,23 @@
+{
+  "name": "isocodes",
+  "url": "https://github.com/kraptor/isocodes",
+  "method": "git",
+  "tags": [
+    "iso",
+    "countries",
+    "country",
+    "language",
+    "languages",
+    "currency",
+    "currencies",
+    "ISO-3166",
+    "ISO-3166-1",
+    "ISO-3166-2",
+    "ISO-3166-3",
+    "ISO-15924",
+    "ISO-4217"
+  ],
+  "description": "ISO codes for Nim.",
+  "license": "MIT",
+  "web": "https://github.com/kraptor/isocodes"
+}

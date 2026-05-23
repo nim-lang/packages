@@ -1,0 +1,13 @@
+{
+  "name": "drawille",
+  "url": "https://github.com/PMunch/drawille-nim",
+  "method": "git",
+  "tags": [
+    "drawile",
+    "terminal",
+    "graphics"
+  ],
+  "description": "Drawing in terminal with Unicode Braille characters.",
+  "license": "MIT",
+  "web": "https://github.com/PMunch/drawille-nim"
+}

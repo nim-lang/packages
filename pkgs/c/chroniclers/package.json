@@ -1,0 +1,14 @@
+{
+  "name": "chroniclers",
+  "url": "https://github.com/elcritch/chroniclers",
+  "method": "git",
+  "tags": [
+    "logging",
+    "structured-logging",
+    "logging-facade",
+    "chronicles"
+  ],
+  "description": "Compile-time selectable structured logging facade for Nim",
+  "license": "BSD-2-Clause",
+  "web": "https://github.com/elcritch/chroniclers"
+}

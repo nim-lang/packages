@@ -1,0 +1,14 @@
+{
+  "name": "SMBExec",
+  "url": "https://github.com/elddy/SMB-Nim",
+  "method": "git",
+  "tags": [
+    "SMB",
+    "Pass-The-Hash",
+    "NTLM",
+    "Windows"
+  ],
+  "description": "Nim-SMBExec - SMBExec implementation in Nim",
+  "license": "GPL-3.0",
+  "web": "https://github.com/elddy/SMB-Nim"
+}

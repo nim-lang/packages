@@ -1,0 +1,12 @@
+{
+  "name": "StripeKit",
+  "url": "https://github.com/vfehring/StripeKit",
+  "method": "git",
+  "tags": [
+    "payment-processor",
+    "stripe"
+  ],
+  "description": "Stripe API wrapper for Nim",
+  "license": "MIT",
+  "web": "https://github.com/vfehring/StripeKit"
+}

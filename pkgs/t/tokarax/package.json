@@ -1,0 +1,13 @@
+{
+  "name": "tokarax",
+  "url": "https://github.com/thisago/tokarax",
+  "method": "git",
+  "tags": [
+    "html",
+    "converter",
+    "karax"
+  ],
+  "description": "Converts HTML to Karax representation",
+  "license": "MIT",
+  "web": "https://github.com/thisago/tokarax"
+}

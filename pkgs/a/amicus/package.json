@@ -1,0 +1,13 @@
+{
+  "name": "amicus",
+  "url": "https://codeberg.org/onbox/amicus",
+  "method": "git",
+  "tags": [
+    "library",
+    "social",
+    "media"
+  ],
+  "description": "Social networking library powering Onbox.",
+  "license": "AGPL-3.0-or-later",
+  "web": "https://codeberg.org/onbox/amicus"
+}

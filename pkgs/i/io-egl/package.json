@@ -1,0 +1,16 @@
+{
+  "name": "io-egl",
+  "url": "https://github.com/nimious/io-egl.git",
+  "method": "git",
+  "tags": [
+    "binding",
+    "khronos",
+    "egl",
+    "opengl",
+    "opengl es",
+    "openvg"
+  ],
+  "description": "Obsolete - please use egl instead!",
+  "license": "MIT",
+  "web": "https://github.com/nimious/io-egl"
+}

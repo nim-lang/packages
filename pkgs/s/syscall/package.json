@@ -1,0 +1,11 @@
+{
+  "name": "syscall",
+  "url": "https://github.com/def-/nim-syscall",
+  "method": "git",
+  "tags": [
+    "library"
+  ],
+  "description": "Raw system calls for Nim",
+  "license": "MPL",
+  "web": "https://github.com/def-/nim-syscall"
+}

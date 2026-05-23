@@ -1,0 +1,15 @@
+{
+  "name": "wings",
+  "url": "https://github.com/binhonglee/wings",
+  "method": "git",
+  "tags": [
+    "library",
+    "binary",
+    "codegen",
+    "struct",
+    "enum"
+  ],
+  "description": "A simple cross language struct and enum file generator.",
+  "license": "MIT",
+  "web": "https://github.com/binhonglee/wings"
+}

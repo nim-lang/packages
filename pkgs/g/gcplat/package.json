@@ -1,0 +1,17 @@
+{
+  "name": "gcplat",
+  "url": "https://github.com/disruptek/gcplat",
+  "method": "git",
+  "tags": [
+    "google",
+    "cloud",
+    "platform",
+    "api",
+    "rest",
+    "openapi",
+    "web"
+  ],
+  "description": "Google Cloud Platform (GCP) APIs",
+  "license": "MIT",
+  "web": "https://github.com/disruptek/gcplat"
+}

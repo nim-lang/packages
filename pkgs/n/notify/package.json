@@ -1,0 +1,13 @@
+{
+  "name": "notify",
+  "url": "https://github.com/xbello/notify-nim",
+  "method": "git",
+  "tags": [
+    "notify",
+    "libnotify",
+    "library"
+  ],
+  "description": "A wrapper to notification libraries",
+  "license": "MIT",
+  "web": "https://github.com/xbello/notify-nim"
+}

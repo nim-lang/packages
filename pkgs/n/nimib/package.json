@@ -1,0 +1,15 @@
+{
+  "name": "nimib",
+  "url": "https://github.com/pietroppeter/nimib",
+  "method": "git",
+  "tags": [
+    "notebook",
+    "library",
+    "html",
+    "markdown",
+    "publish"
+  ],
+  "description": "nimib 🐳 - nim 👑 driven ⛵ publishing ✍",
+  "license": "MIT",
+  "web": "https://github.com/pietroppeter/nimib"
+}

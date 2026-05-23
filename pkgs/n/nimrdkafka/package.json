@@ -1,0 +1,13 @@
+{
+  "name": "nimrdkafka",
+  "url": "https://github.com/dfdeshom/nimrdkafka.git",
+  "method": "git",
+  "tags": [
+    "library",
+    "wrapper",
+    "kafka"
+  ],
+  "description": "Nim wrapper for librdkafka",
+  "license": "Apache License 2.0",
+  "web": "https://github.com/dfdeshom/nimrdkafka"
+}

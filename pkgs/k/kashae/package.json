@@ -1,0 +1,11 @@
+{
+  "name": "kashae",
+  "url": "https://github.com/beef331/kashae",
+  "method": "git",
+  "tags": [
+    "cache"
+  ],
+  "description": "Calculation caching library",
+  "license": "MIT",
+  "web": "https://github.com/beef331/kashae"
+}

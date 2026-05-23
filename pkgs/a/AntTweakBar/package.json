@@ -1,0 +1,13 @@
+{
+  "name": "AntTweakBar",
+  "tags": [
+    "gui",
+    "opengl",
+    "rendering"
+  ],
+  "method": "git",
+  "license": "MIT",
+  "web": "https://github.com/krux02/nimAntTweakBar",
+  "url": "https://github.com/krux02/nimAntTweakBar",
+  "description": "nim wrapper around the AntTweakBar c library"
+}

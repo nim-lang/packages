@@ -1,0 +1,14 @@
+{
+  "name": "apt_brain",
+  "url": "https://github.com/genkaisoft/apt-brain",
+  "method": "git",
+  "tags": [
+    "apt",
+    "for",
+    "SHARP",
+    "Brain"
+  ],
+  "description": "apt for SHARP Brain",
+  "license": "GPL-3.0-or-later",
+  "web": "https://github.com/genkaisoft/apt-brain"
+}

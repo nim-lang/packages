@@ -1,0 +1,12 @@
+{
+  "name": "update_nimble_version",
+  "url": "https://github.com/philolo1/update_nimble_version",
+  "method": "git",
+  "tags": [
+    "cli",
+    "nimble"
+  ],
+  "description": "Cli tool to update the nimble version of a package.",
+  "license": "MIT",
+  "web": "https://github.com/philolo1/update_nimble_version"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "kwin",
+  "url": "https://github.com/reactormonk/nim-kwin",
+  "method": "git",
+  "tags": [
+    "library",
+    "javascript",
+    "kde"
+  ],
+  "description": "KWin JavaScript API wrapper",
+  "license": "MIT",
+  "web": "https://github.com/reactormonk/nim-kwin"
+}

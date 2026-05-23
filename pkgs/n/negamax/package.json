@@ -1,0 +1,15 @@
+{
+  "name": "negamax",
+  "url": "https://github.com/JohnAD/negamax",
+  "method": "git",
+  "tags": [
+    "negamax",
+    "minimax",
+    "game",
+    "ai",
+    "turn-based"
+  ],
+  "description": "Negamax AI search-tree algorithm for two player games",
+  "license": "MIT",
+  "web": "https://github.com/JohnAD/negamax"
+}

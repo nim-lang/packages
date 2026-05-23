@@ -1,0 +1,13 @@
+{
+  "name": "nimtest",
+  "url": "https://github.com/avahe-kellenberger/nimtest",
+  "method": "git",
+  "tags": [
+    "nim",
+    "test",
+    "framework"
+  ],
+  "description": "Simple testing framework for Nim",
+  "license": "GPL-2.0-only",
+  "web": "https://github.com/avahe-kellenberger/nimtest"
+}

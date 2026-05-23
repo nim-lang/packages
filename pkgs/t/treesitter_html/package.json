@@ -1,0 +1,15 @@
+{
+  "name": "treesitter_html",
+  "url": "https://github.com/genotrance/nimtreesitter?subdir=treesitter_html",
+  "method": "git",
+  "tags": [
+    "tree-sitter",
+    "html",
+    "parser",
+    "language",
+    "code"
+  ],
+  "description": "Nim wrapper for HTML language support within tree-sitter",
+  "license": "MIT",
+  "web": "https://github.com/genotrance/nimtreesitter"
+}

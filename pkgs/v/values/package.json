@@ -1,0 +1,13 @@
+{
+  "name": "values",
+  "url": "https://github.com/nim-appkit/values",
+  "method": "git",
+  "tags": [
+    "library",
+    "values",
+    "datastructures"
+  ],
+  "description": "Library for working with arbitrary values + a map data structure.",
+  "license": "MIT",
+  "web": "https://github.com/nim-appkit/values"
+}

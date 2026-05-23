@@ -1,0 +1,17 @@
+{
+  "name": "allographer",
+  "url": "https://github.com/itsumura-h/nim-allographer",
+  "method": "git",
+  "tags": [
+    "database",
+    "sqlite",
+    "mysql",
+    "postgres",
+    "rdb",
+    "query_builder",
+    "orm"
+  ],
+  "description": "A Nim query builder library inspired by Laravel/PHP and Orator/Python",
+  "license": "MIT",
+  "web": "https://github.com/itsumura-h/nim-allographer"
+}

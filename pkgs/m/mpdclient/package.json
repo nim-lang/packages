@@ -1,0 +1,14 @@
+{
+  "name": "mpdclient",
+  "url": "https://github.com/SolitudeSF/mpdclient",
+  "method": "git",
+  "tags": [
+    "mpd",
+    "music",
+    "player",
+    "client"
+  ],
+  "description": "MPD client library",
+  "license": "MIT",
+  "web": "https://github.com/SolitudeSF/mpdclient"
+}

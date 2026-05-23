@@ -1,0 +1,11 @@
+{
+  "name": "print",
+  "url": "https://github.com/treeform/print",
+  "method": "git",
+  "tags": [
+    "pretty"
+  ],
+  "description": "Print is a set of pretty print macros, useful for print-debugging.",
+  "license": "MIT",
+  "web": "https://github.com/treeform/print"
+}

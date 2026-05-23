@@ -1,0 +1,16 @@
+{
+  "name": "brainfuck",
+  "url": "https://github.com/def-/nim-brainfuck.git",
+  "method": "git",
+  "tags": [
+    "library",
+    "binary",
+    "app",
+    "interpreter",
+    "compiler",
+    "language"
+  ],
+  "description": "A brainfuck interpreter and compiler",
+  "license": "MIT",
+  "web": "https://github.com/def-/nim-brainfuck"
+}

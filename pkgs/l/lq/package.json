@@ -1,0 +1,16 @@
+{
+  "name": "lq",
+  "url": "https://github.com/madprops/lq",
+  "method": "git",
+  "tags": [
+    "directory",
+    "file",
+    "listing",
+    "ls",
+    "tree",
+    "stats"
+  ],
+  "description": "Directory listing tool",
+  "license": "GPL-2.0",
+  "web": "https://github.com/madprops/lq"
+}

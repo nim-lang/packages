@@ -1,0 +1,18 @@
+{
+  "name": "nimly",
+  "url": "https://github.com/loloicci/nimly",
+  "method": "git",
+  "tags": [
+    "lexer",
+    "parser",
+    "lexer-generator",
+    "parser-generator",
+    "lex",
+    "yacc",
+    "BNF",
+    "EBNF"
+  ],
+  "description": "Lexer Generator and Parser Generator as a Macro Library in Nim.",
+  "license": "MIT",
+  "web": "https://github.com/loloicci/nimly"
+}

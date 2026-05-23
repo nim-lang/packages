@@ -1,0 +1,12 @@
+{
+  "name": "genode",
+  "url": "https://git.sr.ht/~ehmry/nim_genode",
+  "method": "git",
+  "tags": [
+    "genode",
+    "system"
+  ],
+  "description": "System libraries for the Genode Operating System Framework",
+  "license": "AGPLv3",
+  "web": "https://git.sr.ht/~ehmry/nim_genode"
+}

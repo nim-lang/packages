@@ -1,0 +1,14 @@
+{
+  "name": "ginger",
+  "url": "https://github.com/Vindaar/ginger",
+  "method": "git",
+  "tags": [
+    "library",
+    "cairo",
+    "graphics",
+    "plotting"
+  ],
+  "description": "A Grid (R) like package in Nim",
+  "license": "MIT",
+  "web": "https://github.com/Vindaar/ginger"
+}

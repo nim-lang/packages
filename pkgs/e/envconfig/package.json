@@ -1,0 +1,13 @@
+{
+  "name": "envconfig",
+  "url": "https://github.com/jiro4989/envconfig",
+  "method": "git",
+  "tags": [
+    "library",
+    "config",
+    "environment-variables"
+  ],
+  "description": "envconfig provides a function to get config objects from environment variables.",
+  "license": "MIT",
+  "web": "https://github.com/jiro4989/envconfig"
+}

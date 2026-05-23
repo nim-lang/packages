@@ -1,0 +1,12 @@
+{
+  "name": "camelize",
+  "url": "https://github.com/kixixixixi/camelize",
+  "method": "git",
+  "tags": [
+    "json",
+    "camelcase"
+  ],
+  "description": "Convert json node to camelcase",
+  "license": "MIT",
+  "web": "https://github.com/kixixixixi/camelize"
+}

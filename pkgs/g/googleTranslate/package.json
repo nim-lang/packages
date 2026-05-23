@@ -1,0 +1,15 @@
+{
+  "name": "googleTranslate",
+  "url": "https://github.com/thisago/googleTranslate",
+  "method": "git",
+  "tags": [
+    "translate",
+    "library",
+    "batchexecute",
+    "googleTranslator",
+    "google"
+  ],
+  "description": "A simple Google Translate implementation",
+  "license": "MIT",
+  "web": "https://github.com/thisago/googleTranslate"
+}

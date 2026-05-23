@@ -1,0 +1,14 @@
+{
+  "name": "jdec",
+  "tags": [
+    "json",
+    "marshal",
+    "helper",
+    "utils"
+  ],
+  "method": "git",
+  "license": "MIT",
+  "web": "https://github.com/diegogub/jdec",
+  "url": "https://github.com/diegogub/jdec",
+  "description": "Flexible JSON manshal/unmarshal library for nim"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "assimp",
+  "url": "https://github.com/barcharcraz/nim-assimp",
+  "method": "git",
+  "tags": [
+    "wrapper",
+    "media",
+    "mesh",
+    "import",
+    "game"
+  ],
+  "description": "Wrapper for the assimp library",
+  "license": "MIT",
+  "web": "https://github.com/barcharcraz/nim-assimp"
+}

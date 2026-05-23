@@ -1,0 +1,11 @@
+{
+  "name": "grammarian",
+  "url": "https://github.com/olmeca/grammarian",
+  "method": "git",
+  "tags": [
+    "peg",
+    "parsing"
+  ],
+  "description": "Wrapper around PEG library, enhancing PEG reusability.",
+  "license": "MIT"
+}

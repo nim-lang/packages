@@ -1,0 +1,13 @@
+{
+  "name": "chronos_smtp",
+  "url": "https://github.com/fox0430/chronos-smtp",
+  "method": "git",
+  "tags": [
+    "async",
+    "smtp",
+    "mail"
+  ],
+  "description": "SMTP client implementation using chronos in Nim",
+  "license": "MIT",
+  "web": "https://github.com/fox0430/chronos-smtp"
+}

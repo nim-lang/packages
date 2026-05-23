@@ -1,0 +1,15 @@
+{
+  "name": "mapster",
+  "url": "https://github.com/PhilippMDoerner/mapster",
+  "method": "git",
+  "tags": [
+    "mapping",
+    "map",
+    "pragma",
+    "convert",
+    "code-generation"
+  ],
+  "description": "A library to quickly generate functions converting instances of type A to B",
+  "license": "MIT",
+  "web": "https://github.com/PhilippMDoerner/mapster"
+}

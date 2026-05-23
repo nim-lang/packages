@@ -1,0 +1,13 @@
+{
+  "name": "gerbil",
+  "url": "https://github.com/jasonprogrammer/gerbil",
+  "method": "git",
+  "tags": [
+    "web",
+    "dynamic",
+    "generator"
+  ],
+  "description": "A dynamic website generator",
+  "license": "MIT",
+  "web": "https://getgerbil.com"
+}

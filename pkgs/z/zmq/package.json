@@ -1,0 +1,15 @@
+{
+  "name": "zmq",
+  "url": "https://github.com/nim-lang/nim-zmq",
+  "method": "git",
+  "tags": [
+    "library",
+    "wrapper",
+    "zeromq",
+    "messaging",
+    "queue"
+  ],
+  "description": "ZeroMQ 4 wrapper",
+  "license": "MIT",
+  "web": "https://github.com/nim-lang/nim-zmq"
+}

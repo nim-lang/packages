@@ -1,0 +1,13 @@
+{
+  "name": "uuids",
+  "url": "https://github.com/pragmagic/uuids/",
+  "method": "git",
+  "tags": [
+    "library",
+    "uuid",
+    "id"
+  ],
+  "description": "UUID library for Nim",
+  "license": "MIT",
+  "web": "https://github.com/pragmagic/uuids/"
+}

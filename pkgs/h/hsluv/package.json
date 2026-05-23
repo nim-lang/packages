@@ -1,0 +1,14 @@
+{
+  "name": "hsluv",
+  "url": "https://github.com/isthisnagee/hsluv-nim",
+  "method": "git",
+  "tags": [
+    "color",
+    "hsl",
+    "hsluv",
+    "hpluv"
+  ],
+  "description": "A port of HSLuv, a human friendly alternative to HSL.",
+  "license": "MIT",
+  "web": "https://github.com/isthisnagee/hsluv-nim"
+}

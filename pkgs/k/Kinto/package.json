@@ -1,0 +1,16 @@
+{
+  "name": "Kinto",
+  "url": "https://github.com/OpenSystemsLab/kinto.nim",
+  "method": "git",
+  "tags": [
+    "mozilla",
+    "kinto",
+    "json",
+    "storage",
+    "server",
+    "client"
+  ],
+  "description": "Kinto Client for Nim",
+  "license": "MIT",
+  "web": "https://github.com/OpenSystemsLab/kinto.nim"
+}

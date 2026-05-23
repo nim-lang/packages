@@ -1,0 +1,12 @@
+{
+  "name": "pcap",
+  "url": "https://github.com/PMunch/nim-pcap",
+  "method": "git",
+  "tags": [
+    "pcap",
+    "fileformats"
+  ],
+  "description": "Tiny pure Nim library to read PCAP files used by TcpDump/WinDump/Wireshark.",
+  "license": "MIT",
+  "web": "https://github.com/PMunch/nim-pcap"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "catnip",
+  "url": "https://github.com/RSDuck/catnip",
+  "method": "git",
+  "tags": [
+    "jit",
+    "assembler"
+  ],
+  "description": "Assembler for runtime code generation",
+  "license": "MIT",
+  "web": "https://github.com/RSDuck/catnip"
+}

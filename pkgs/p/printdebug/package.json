@@ -1,0 +1,14 @@
+{
+  "name": "printdebug",
+  "url": "https://github.com/juancarlospaco/nim-printdebug",
+  "method": "git",
+  "tags": [
+    "debug",
+    "print",
+    "helper",
+    "util"
+  ],
+  "description": "Print Debug for Nim, tiny 3 lines Lib, C Target",
+  "license": "MIT",
+  "web": "https://github.com/juancarlospaco/nim-printdebug"
+}

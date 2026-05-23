@@ -1,0 +1,15 @@
+{
+  "name": "gtrends",
+  "url": "https://github.com/thisago/gtrends",
+  "method": "git",
+  "tags": [
+    "library",
+    "google_trends",
+    "trends",
+    "rss",
+    "google"
+  ],
+  "description": "Google Trends RSS",
+  "license": "MIT",
+  "web": "https://github.com/thisago/gtrends"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "nimAES",
+  "url": "https://github.com/jangko/nimAES",
+  "method": "git",
+  "tags": [
+    "crypto",
+    "library",
+    "aes",
+    "encryption",
+    "rijndael"
+  ],
+  "description": "Advanced Encryption Standard, Rijndael Algorithm",
+  "license": "MIT",
+  "web": "https://github.com/jangko/nimAES"
+}

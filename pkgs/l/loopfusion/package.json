@@ -1,0 +1,15 @@
+{
+  "name": "loopfusion",
+  "url": "https://github.com/numforge/loopfusion",
+  "method": "git",
+  "tags": [
+    "loop",
+    "iterator",
+    "zip",
+    "forEach",
+    "variadic"
+  ],
+  "description": "Loop efficiently over a variadic number of containers",
+  "license": "MIT or Apache 2.0",
+  "web": "https://github.com/numforge/loopfusion"
+}

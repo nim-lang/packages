@@ -1,0 +1,14 @@
+{
+  "name": "note",
+  "url": "https://codeberg.org/pswilde/note",
+  "method": "git",
+  "tags": [
+    "pastebin",
+    "scratchpad",
+    "web",
+    "frontend"
+  ],
+  "description": "A simple pastebin, inspired by w4/bin",
+  "license": "AGPL-3.0-or-later",
+  "web": "https://codeberg.org/pswilde/note"
+}

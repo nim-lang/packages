@@ -1,0 +1,13 @@
+{
+  "name": "holo_json",
+  "url": "https://github.com/holo-nim/holo-json",
+  "method": "git",
+  "tags": [
+    "json",
+    "serialization",
+    "parser"
+  ],
+  "description": "fork of jsony for use in applications",
+  "license": "MIT",
+  "web": "https://github.com/holo-nim/holo-json"
+}

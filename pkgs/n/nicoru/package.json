@@ -1,0 +1,11 @@
+{
+  "name": "nicoru",
+  "url": "https://github.com/fox0430/nicoru",
+  "method": "git",
+  "tags": [
+    "container"
+  ],
+  "description": "A container runtime written in Nim",
+  "license": "MIT",
+  "web": "https://github.com/fox0430/nicoru"
+}

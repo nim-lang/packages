@@ -1,0 +1,12 @@
+{
+  "name": "jhash",
+  "url": "https://github.com/mjfh/nim-jhash.git",
+  "method": "git",
+  "tags": [
+    "hash",
+    "id"
+  ],
+  "description": "Jenkins Hasher producing 32 bit digests",
+  "license": "UNLICENSE",
+  "web": "https://mjfh.github.io/nim-jhash/"
+}

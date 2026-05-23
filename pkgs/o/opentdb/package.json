@@ -1,0 +1,15 @@
+{
+  "name": "opentdb",
+  "url": "https://github.com/ire4ever1190/nim-opentmdb",
+  "method": "git",
+  "tags": [
+    "wrapper",
+    "library",
+    "quiz",
+    "api"
+  ],
+  "description": "Wrapper around the open trivia db api",
+  "license": "MIT",
+  "web": "https://github.com/ire4ever1190/nim-opentmdb",
+  "doc": "https://ire4ever1190.github.io/nim-opentmdb/opentdb.html"
+}

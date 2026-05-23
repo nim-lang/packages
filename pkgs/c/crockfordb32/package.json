@@ -1,0 +1,16 @@
+{
+  "name": "crockfordb32",
+  "url": "https://github.com/The-Ticking-Clockwork/Crockford-Base32-Nim",
+  "method": "git",
+  "tags": [
+    "base",
+    "base32",
+    "crockford",
+    "encode",
+    "decode"
+  ],
+  "description": "A simple implementation of Crockford Base32.",
+  "license": "CC0",
+  "web": "https://github.com/The-Ticking-Clockwork/Crockford-Base32-Nim",
+  "doc": "https://the-ticking-clockwork.github.io/Crockford-Base32-Nim/"
+}

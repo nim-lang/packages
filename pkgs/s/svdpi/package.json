@@ -1,0 +1,14 @@
+{
+  "name": "svdpi",
+  "url": "https://github.com/kaushalmodi/nim-svdpi",
+  "method": "git",
+  "tags": [
+    "dpi-c",
+    "systemverilog",
+    "foreign-function",
+    "interface"
+  ],
+  "description": "Small wrapper for SystemVerilog DPI-C header svdpi.h",
+  "license": "MIT",
+  "web": "https://github.com/kaushalmodi/nim-svdpi"
+}

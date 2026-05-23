@@ -1,0 +1,17 @@
+{
+  "name": "nimSHA2",
+  "url": "https://github.com/jangko/nimSHA2",
+  "method": "git",
+  "tags": [
+    "hash",
+    "crypto",
+    "library",
+    "sha256",
+    "sha224",
+    "sha384",
+    "sha512"
+  ],
+  "description": "Secure Hash Algorithm - 2, [224, 256, 384, and 512 bits]",
+  "license": "MIT",
+  "web": "https://github.com/jangko/nimSHA2"
+}

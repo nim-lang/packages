@@ -1,0 +1,13 @@
+{
+  "name": "arraymancer_vision",
+  "url": "https://github.com/edubart/arraymancer-vision",
+  "method": "git",
+  "tags": [
+    "arraymancer",
+    "image",
+    "vision"
+  ],
+  "description": "Image transformation and visualization utilities for arraymancer",
+  "license": "Apache License 2.0",
+  "web": "https://github.com/edubart/arraymancer-vision"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "nimkerberos",
+  "url": "https://github.com/genotrance/nimkerberos",
+  "method": "git",
+  "tags": [
+    "kerberos",
+    "ntlm",
+    "authentication",
+    "auth",
+    "sspi"
+  ],
+  "description": "WinKerberos wrapper for Nim",
+  "license": "MIT",
+  "web": "https://github.com/genotrance/nimkerberos"
+}

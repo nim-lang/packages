@@ -1,0 +1,13 @@
+{
+  "name": "unicodeplus",
+  "url": "https://github.com/nitely/nim-unicodeplus",
+  "method": "git",
+  "tags": [
+    "unicode",
+    "isdigit",
+    "isalpha"
+  ],
+  "description": "Common unicode operations",
+  "license": "MIT",
+  "web": "https://github.com/nitely/nim-unicodeplus"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "appdirs",
+  "url": "https://github.com/MrJohz/appdirs",
+  "method": "git",
+  "tags": [
+    "utility",
+    "filesystem"
+  ],
+  "description": "A utility library to find the directory you need to app in.",
+  "license": "MIT",
+  "web": "https://github.com/MrJohz/appdirs"
+}

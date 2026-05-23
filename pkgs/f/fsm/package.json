@@ -1,0 +1,14 @@
+{
+  "name": "fsm",
+  "url": "https://github.com/ba0f3/fsm.nim",
+  "method": "git",
+  "tags": [
+    "fsm",
+    "finite",
+    "state",
+    "machine"
+  ],
+  "description": "A simple finite-state machine for @nim-lang",
+  "license": "MIT",
+  "web": "https://github.com/ba0f3/fsm.nim"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "nimjl",
+  "url": "https://github.com/SciNim/nimjl",
+  "method": "git",
+  "tags": [
+    "Julia",
+    "Nim",
+    "Bridge",
+    "SciNim",
+    "Scientific",
+    "Computing"
+  ],
+  "description": "Nim Julia bridge",
+  "license": "MIT",
+  "web": "https://github.com/SciNim/nimjl"
+}

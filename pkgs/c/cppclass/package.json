@@ -1,0 +1,13 @@
+{
+  "name": "cppclass",
+  "url": "https://github.com/sls1005/NimCPPClass",
+  "method": "git",
+  "tags": [
+    "cpp",
+    "class",
+    "sugar"
+  ],
+  "description": "Syntax sugar which helps to define C++ classes from Nim.",
+  "license": "MIT",
+  "web": "https://github.com/sls1005/NimCPPClass"
+}

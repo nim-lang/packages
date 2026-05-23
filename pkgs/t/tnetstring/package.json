@@ -1,0 +1,13 @@
+{
+  "name": "tnetstring",
+  "url": "https://github.com/mahlonsmith/nim-tnetstring",
+  "method": "git",
+  "tags": [
+    "tnetstring",
+    "library",
+    "serialization"
+  ],
+  "description": "Parsing and serializing for the TNetstring format.",
+  "license": "MIT",
+  "web": "https://github.com/mahlonsmith/nim-tnetstring"
+}

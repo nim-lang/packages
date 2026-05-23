@@ -1,0 +1,14 @@
+{
+  "name": "euclidean",
+  "url": "https://github.com/juancarlospaco/nim-euclidean",
+  "method": "git",
+  "tags": [
+    "euclidean",
+    "modulo",
+    "division",
+    "math"
+  ],
+  "description": "Euclidean Division & Euclidean Modulo",
+  "license": "MIT",
+  "web": "https://github.com/juancarlospaco/nim-euclidean"
+}

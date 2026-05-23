@@ -1,0 +1,17 @@
+{
+  "name": "nimterop",
+  "url": "https://github.com/genotrance/nimterop",
+  "method": "git",
+  "tags": [
+    "c",
+    "c++",
+    "c2nim",
+    "interop",
+    "parser",
+    "language",
+    "code"
+  ],
+  "description": "Nimterop makes C/C++ interop within Nim seamless",
+  "license": "MIT",
+  "web": "https://github.com/genotrance/nimterop"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "nimBMP",
+  "url": "https://github.com/jangko/nimBMP",
+  "method": "git",
+  "tags": [
+    "graphics",
+    "library",
+    "BMP"
+  ],
+  "description": "BMP encoder and decoder",
+  "license": "MIT",
+  "web": "https://github.com/jangko/nimBMP"
+}

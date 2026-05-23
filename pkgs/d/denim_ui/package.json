@@ -1,0 +1,17 @@
+{
+  "name": "denim_ui",
+  "url": "https://github.com/nortero-code/denim-ui",
+  "method": "git",
+  "tags": [
+    "gui",
+    "web",
+    "cross-platform",
+    "library",
+    "reactive",
+    "observables",
+    "dsl"
+  ],
+  "description": "The Denim UI library",
+  "license": "MIT",
+  "web": "https://github.com/nortero-code/denim-ui"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "gentabs",
+  "url": "https://github.com/lcrees/gentabs",
+  "method": "git",
+  "tags": [
+    "table",
+    "string",
+    "key",
+    "value",
+    "deleted"
+  ],
+  "description": "Efficient hash table that is a key-value mapping (removed from stdlib)",
+  "license": "MIT",
+  "web": "https://github.com/lcrees/gentabs"
+}

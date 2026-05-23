@@ -1,0 +1,14 @@
+{
+  "name": "pythonfile",
+  "url": "https://github.com/achesak/nim-pythonfile",
+  "method": "git",
+  "tags": [
+    "library",
+    "python",
+    "files",
+    "file"
+  ],
+  "description": "Wrapper of the file procedures to provide an interface as similar as possible to that of Python",
+  "license": "MIT",
+  "web": "https://github.com/achesak/nim-pythonfile"
+}

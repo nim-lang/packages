@@ -1,0 +1,12 @@
+{
+  "name": "steganography",
+  "url": "https://github.com/treeform/steganography",
+  "method": "git",
+  "tags": [
+    "images",
+    "cryptography"
+  ],
+  "description": "Steganography - hide data inside an image.",
+  "license": "MIT",
+  "web": "https://github.com/treeform/steganography"
+}

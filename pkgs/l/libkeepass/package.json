@@ -1,0 +1,13 @@
+{
+  "name": "libkeepass",
+  "url": "https://github.com/PMunch/libkeepass",
+  "method": "git",
+  "tags": [
+    "keepass",
+    "password",
+    "library"
+  ],
+  "description": "Library for reading KeePass files and decrypt the passwords within it",
+  "license": "MIT",
+  "web": "https://github.com/PMunch/libkeepass"
+}

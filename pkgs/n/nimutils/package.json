@@ -1,0 +1,14 @@
+{
+  "name": "nimutils",
+  "url": "https://github.com/GeK2K/nimutils",
+  "method": "git",
+  "tags": [
+    "util",
+    "date",
+    "intersection",
+    "easter"
+  ],
+  "description": " some useful tools for programming with Nim",
+  "license": "MIT",
+  "web": "https://github.com/GeK2K/nimutils"
+}

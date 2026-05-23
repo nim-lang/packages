@@ -1,0 +1,11 @@
+{
+  "name": "niledb",
+  "url": "https://github.com/JeffersonLab/niledb.git",
+  "method": "git",
+  "tags": [
+    "db"
+  ],
+  "description": "Key/Value storage into a fast file-hash",
+  "license": "MIT",
+  "web": "https://github.com/JeffersonLab/niledb.git"
+}

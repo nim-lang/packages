@@ -1,0 +1,13 @@
+{
+  "name": "masterpassword",
+  "url": "https://github.com/SolitudeSF/masterpassword",
+  "method": "git",
+  "tags": [
+    "masterpassword",
+    "password",
+    "stateless"
+  ],
+  "description": "Master Password algorith implementation",
+  "license": "MIT",
+  "web": "https://github.com/SolitudeSF/masterpassword"
+}

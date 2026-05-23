@@ -1,0 +1,14 @@
+{
+  "name": "shady",
+  "url": "https://github.com/treeform/shady",
+  "method": "git",
+  "tags": [
+    "glsl",
+    "gpu",
+    "shader",
+    "opengl"
+  ],
+  "description": "Nim to GPU shader language compiler and supporting utilities.",
+  "license": "MIT",
+  "web": "https://github.com/treeform/shady"
+}

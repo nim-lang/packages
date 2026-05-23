@@ -1,0 +1,13 @@
+{
+  "name": "statsdaemon",
+  "url": "https://github.com/Q-Master/statsdaemon.nim",
+  "method": "git",
+  "tags": [
+    "bin",
+    "statsd",
+    "native"
+  ],
+  "description": "StatsD compatible daemon in pure Nim",
+  "license": "MIT",
+  "web": "https://github.com/Q-Master/statsdaemon.nim"
+}

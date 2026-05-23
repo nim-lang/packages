@@ -1,0 +1,12 @@
+{
+  "name": "jsutils",
+  "url": "https://github.com/kidandcat/jsutils",
+  "method": "git",
+  "tags": [
+    "library",
+    "javascript"
+  ],
+  "description": "Utils to work with javascript",
+  "license": "MIT",
+  "web": "https://github.com/kidandcat/jsutils"
+}

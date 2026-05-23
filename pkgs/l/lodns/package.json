@@ -1,0 +1,14 @@
+{
+  "name": "lodns",
+  "url": "https://github.com/vandot/lodns",
+  "method": "git",
+  "tags": [
+    "dns",
+    "udp",
+    "server",
+    "developer-tools"
+  ],
+  "description": "Simple DNS server for local development.",
+  "license": "BSD-3-Clause",
+  "web": "https://github.com/vandot/lodns"
+}

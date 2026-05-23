@@ -1,0 +1,13 @@
+{
+  "name": "questionable",
+  "url": "https://github.com/codex-storage/questionable",
+  "method": "git",
+  "tags": [
+    "option",
+    "result",
+    "error"
+  ],
+  "description": "Elegant optional types",
+  "license": "MIT",
+  "web": "https://github.com/markspanbroek/questionable"
+}

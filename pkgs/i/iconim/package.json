@@ -1,0 +1,17 @@
+{
+  "name": "iconim",
+  "url": "https://github.com/openpeeps/iconim",
+  "method": "git",
+  "tags": [
+    "svg",
+    "icons",
+    "icon",
+    "svg-icons",
+    "serverside",
+    "rendering",
+    "icons-manager"
+  ],
+  "description": "SVG icon library manager for server-side rendering",
+  "license": "MIT",
+  "web": "https://github.com/openpeeps/iconim"
+}

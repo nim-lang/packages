@@ -1,0 +1,11 @@
+{
+  "name": "vscds",
+  "url": "https://github.com/doongjohn/vscds",
+  "method": "git",
+  "tags": [
+    "vscode"
+  ],
+  "description": "<VS Code Data Swapper> Easily swap between multiple data folders.",
+  "license": "MIT",
+  "web": "https://github.com/doongjohn/vscds"
+}

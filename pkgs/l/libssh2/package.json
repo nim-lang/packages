@@ -1,0 +1,17 @@
+{
+  "name": "libssh2",
+  "url": "https://github.com/ba0f3/libssh2.nim",
+  "method": "git",
+  "tags": [
+    "lib",
+    "ssh",
+    "ssh2",
+    "openssh",
+    "client",
+    "sftp",
+    "scp"
+  ],
+  "description": "Nim wrapper for libssh2",
+  "license": "MIT",
+  "web": "https://github.com/ba0f3/libssh2.nim"
+}

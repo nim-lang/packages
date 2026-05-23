@@ -1,0 +1,15 @@
+{
+  "name": "nimcoon",
+  "url": "https://njoseph.me/gitweb/nimcoon.git",
+  "method": "git",
+  "tags": [
+    "cli",
+    "youtube",
+    "streaming",
+    "downloader",
+    "magnet"
+  ],
+  "description": "A command-line YouTube player and more",
+  "license": "GPL-3.0",
+  "web": "https://gitlab.com/njoseph/nimcoon"
+}

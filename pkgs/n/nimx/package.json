@@ -1,0 +1,13 @@
+{
+  "name": "nimx",
+  "url": "https://github.com/yglukhov/nimx",
+  "method": "git",
+  "tags": [
+    "gui",
+    "ui",
+    "library"
+  ],
+  "description": "Cross-platform GUI framework",
+  "license": "MIT",
+  "web": "https://github.com/yglukhov/nimx"
+}

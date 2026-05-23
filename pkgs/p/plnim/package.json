@@ -1,0 +1,13 @@
+{
+  "name": "plnim",
+  "url": "https://github.com/luisacosta828/plnim",
+  "method": "git",
+  "tags": [
+    "pgxcrown-extension",
+    "postgresql",
+    "language-handler"
+  ],
+  "description": "Language Handler for executing Nim inside postgres as a procedural language",
+  "license": "MIT",
+  "web": "https://github.com/luisacosta828/plnim"
+}

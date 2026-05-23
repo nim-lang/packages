@@ -1,0 +1,14 @@
+{
+  "name": "viper",
+  "url": "https://gitlab.com/navid-m/viper",
+  "method": "git",
+  "tags": [
+    "sql",
+    "builder",
+    "sqlbuilder",
+    "language"
+  ],
+  "description": "SQL builder library with fluent syntax",
+  "license": "GPL-3.0-only",
+  "web": "https://gitlab.com/navid-m/viper"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "rss",
+  "url": "https://github.com/achesak/nim-rss",
+  "method": "git",
+  "tags": [
+    "library",
+    "rss",
+    "xml",
+    "syndication"
+  ],
+  "description": "RSS library",
+  "license": "MIT",
+  "web": "https://github.com/achesak/nim-rss"
+}

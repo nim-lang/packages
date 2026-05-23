@@ -1,0 +1,13 @@
+{
+  "name": "httpx",
+  "url": "https://github.com/ringabout/httpx",
+  "method": "git",
+  "tags": [
+    "web",
+    "server",
+    "prologue"
+  ],
+  "description": "A super-fast epoll-backed and parallel HTTP server.",
+  "license": "MIT",
+  "web": "https://github.com/ringabout/httpx"
+}

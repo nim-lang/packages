@@ -1,0 +1,15 @@
+{
+  "name": "malebolgia",
+  "url": "https://github.com/Araq/malebolgia",
+  "method": "git",
+  "tags": [
+    "thread",
+    "pool",
+    "spawn",
+    "concurrency",
+    "parallelism"
+  ],
+  "description": "Malebolgia creates new spawns. Experiments with thread pools and related APIs.",
+  "license": "MIT",
+  "web": "https://github.com/Araq/malebolgia"
+}

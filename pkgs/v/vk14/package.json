@@ -1,0 +1,15 @@
+{
+  "name": "vk14",
+  "url": "https://github.com/treeform/vk14",
+  "method": "git",
+  "tags": [
+    "vulkan",
+    "graphics",
+    "bindings",
+    "gpu",
+    "cross-platform"
+  ],
+  "description": "Vulkan 1.4 wrapper for Nim.",
+  "license": "MIT",
+  "web": "https://github.com/treeform/vk14"
+}

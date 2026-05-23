@@ -1,0 +1,14 @@
+{
+  "name": "rtthread",
+  "url": "https://github.com/capocasa/rtthread",
+  "method": "git",
+  "tags": [
+    "thread",
+    "dsp",
+    "audio",
+    "realtime"
+  ],
+  "description": "Nim threads with realtime scheduling",
+  "license": "MIT",
+  "web": "https://github.com/capocasa/rtthread"
+}

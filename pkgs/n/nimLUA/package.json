@@ -1,0 +1,15 @@
+{
+  "name": "nimLUA",
+  "url": "https://github.com/jangko/nimLUA",
+  "method": "git",
+  "tags": [
+    "lua",
+    "library",
+    "bind",
+    "glue",
+    "macros"
+  ],
+  "description": "glue code generator to bind Nim and Lua together using Nim's powerful macro",
+  "license": "MIT",
+  "web": "https://github.com/jangko/nimLUA"
+}

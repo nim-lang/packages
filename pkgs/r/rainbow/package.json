@@ -1,0 +1,13 @@
+{
+  "name": "rainbow",
+  "url": "https://github.com/Willyboar/rainbow",
+  "method": "git",
+  "tags": [
+    "library",
+    "256-colors",
+    "cli"
+  ],
+  "description": "256 colors for shell",
+  "license": "MIT",
+  "web": "https://github.com/Willyboar/rainbow"
+}

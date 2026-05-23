@@ -1,0 +1,19 @@
+{
+  "name": "ladybug",
+  "url": "https://github.com/mahlonsmith/nim-ladybug",
+  "method": "git",
+  "tags": [
+    "ladybug",
+    "ladybugdb",
+    "lbug",
+    "kuzu",
+    "kuzudb",
+    "library",
+    "wrapper",
+    "database",
+    "graph"
+  ],
+  "description": "A wrapper for LadybugDB: an embedded graph database built for query speed and scalability.",
+  "license": "BSD-3-Clause",
+  "web": "https://ladybugdb.com/"
+}

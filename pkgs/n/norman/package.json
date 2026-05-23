@@ -1,0 +1,15 @@
+{
+  "name": "norman",
+  "url": "https://github.com/moigagoo/norman",
+  "method": "git",
+  "tags": [
+    "orm",
+    "migration",
+    "norm",
+    "sqlite",
+    "postgres"
+  ],
+  "description": "Migration manager for Norm.",
+  "license": "MIT",
+  "web": "https://github.com/moigagoo/norman"
+}

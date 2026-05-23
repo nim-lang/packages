@@ -1,0 +1,15 @@
+{
+  "name": "nimlink",
+  "url": "https://github.com/thing-king/nimlink",
+  "method": "git",
+  "tags": [
+    "nim",
+    "dev",
+    "development",
+    "packages",
+    "link"
+  ],
+  "description": "Links Nim packages via `srcDir` correctly",
+  "license": "MIT",
+  "web": "https://github.com/thing-king/nimlink"
+}

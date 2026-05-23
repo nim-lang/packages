@@ -1,0 +1,15 @@
+{
+  "name": "nimetry",
+  "url": "https://github.com/refaqtor/nimetry",
+  "method": "git",
+  "tags": [
+    "plot",
+    "graph",
+    "chart",
+    "deleted"
+  ],
+  "description": "Plotting module in pure nim",
+  "license": "CC0",
+  "web": "https://github.com/refaqtor/nimetry",
+  "doc": "https://benjif.github.io/nimetry"
+}

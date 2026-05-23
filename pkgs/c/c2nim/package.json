@@ -1,0 +1,15 @@
+{
+  "name": "c2nim",
+  "url": "https://github.com/nim-lang/c2nim",
+  "method": "git",
+  "tags": [
+    "app",
+    "binary",
+    "tool",
+    "header",
+    "C"
+  ],
+  "description": "c2nim is a tool to translate Ansi C code to Nim.",
+  "license": "MIT",
+  "web": "https://github.com/nim-lang/c2nim"
+}

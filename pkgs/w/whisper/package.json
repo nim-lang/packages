@@ -1,0 +1,12 @@
+{
+  "name": "whisper",
+  "url": "https://github.com/maleyva1/whisper",
+  "method": "git",
+  "tags": [
+    "bindings",
+    "whisper.cpp"
+  ],
+  "description": "Bindings for Whisper.cpp",
+  "license": "MIT",
+  "web": "https://github.com/maleyva1/whisper"
+}

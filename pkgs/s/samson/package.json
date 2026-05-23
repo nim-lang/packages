@@ -1,0 +1,12 @@
+{
+  "name": "samson",
+  "url": "https://github.com/GULPF/samson",
+  "method": "git",
+  "tags": [
+    "json",
+    "json5"
+  ],
+  "description": "Implementation of JSON5.",
+  "license": "MIT",
+  "web": "https://github.com/GULPF/samson"
+}

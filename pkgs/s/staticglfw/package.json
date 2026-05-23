@@ -1,0 +1,14 @@
+{
+  "name": "staticglfw",
+  "url": "https://github.com/treeform/staticglfw",
+  "method": "git",
+  "tags": [
+    "glfw",
+    "opengl",
+    "windowing",
+    "game"
+  ],
+  "description": "Static GLFW for nim",
+  "license": "MIT",
+  "web": "https://github.com/treeform/staticglfw"
+}

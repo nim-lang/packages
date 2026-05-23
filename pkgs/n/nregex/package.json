@@ -1,0 +1,11 @@
+{
+  "name": "nregex",
+  "url": "https://github.com/nitely/nregex",
+  "method": "git",
+  "tags": [
+    "regex"
+  ],
+  "description": "A DFA based regex engine",
+  "license": "MIT",
+  "web": "https://github.com/nitely/nregex"
+}

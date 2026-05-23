@@ -1,0 +1,15 @@
+{
+  "name": "macroplus",
+  "url": "https://github.com/hamidb80/macroplus",
+  "method": "git",
+  "tags": [
+    "macroplus",
+    "macro",
+    "macro",
+    "nim",
+    "compiletime"
+  ],
+  "description": "a collection of useful macro functionalities",
+  "license": "MIT",
+  "web": "https://github.com/hamidb80/macroplus"
+}

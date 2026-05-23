@@ -1,0 +1,12 @@
+{
+  "name": "plugins",
+  "url": "https://github.com/genotrance/plugins",
+  "method": "git",
+  "tags": [
+    "plugin",
+    "shared"
+  ],
+  "description": "Plugin system for Nim",
+  "license": "MIT",
+  "web": "https://github.com/genotrance/plugins"
+}

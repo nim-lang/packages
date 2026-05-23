@@ -1,0 +1,16 @@
+{
+  "name": "ggplotnim",
+  "url": "https://github.com/Vindaar/ggplotnim",
+  "method": "git",
+  "tags": [
+    "library",
+    "grammar of graphics",
+    "gog",
+    "ggplot2",
+    "plotting",
+    "graphics"
+  ],
+  "description": "A port of ggplot2 for Nim",
+  "license": "MIT",
+  "web": "https://github.com/Vindaar/ggplotnim"
+}

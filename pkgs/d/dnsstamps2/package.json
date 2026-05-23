@@ -1,0 +1,17 @@
+{
+  "name": "dnsstamps2",
+  "url": "https://github.com/rockcavera/nim-dnsstamps2",
+  "method": "git",
+  "tags": [
+    "dns",
+    "dns-stamp",
+    "dnsstamp",
+    "dns-stamps",
+    "dnsstamps",
+    "stamp",
+    "stamps"
+  ],
+  "description": "DNS Stamps package",
+  "license": "MIT",
+  "web": "https://github.com/rockcavera/nim-dnsstamps2"
+}

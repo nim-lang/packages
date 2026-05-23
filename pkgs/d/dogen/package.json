@@ -1,0 +1,16 @@
+{
+  "name": "dogen",
+  "url": "https://github.com/roger-padrell/dogen",
+  "method": "git",
+  "tags": [
+    "dogen",
+    "documentation",
+    "dog",
+    "docgen",
+    "doc",
+    "documentation generation"
+  ],
+  "description": "DOGEN is a beautifully simple (to use) DOcumentation GENerator from nim files.",
+  "license": "MIT",
+  "web": "https://roger-padrell.github.io/dogen/"
+}

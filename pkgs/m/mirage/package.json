@@ -1,0 +1,13 @@
+{
+  "name": "mirage",
+  "url": "https://github.com/ferus-web/mirage",
+  "method": "git",
+  "tags": [
+    "interpreter",
+    "bytecode",
+    "code"
+  ],
+  "description": "A bytecode language generator and runtime",
+  "license": "MIT",
+  "web": "https://github.com/ferus-web/mirage"
+}

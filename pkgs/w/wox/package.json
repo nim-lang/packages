@@ -1,0 +1,12 @@
+{
+  "name": "wox",
+  "description": "Helper library for writing Wox plugins in Nim",
+  "tags": [
+    "wox",
+    "plugins"
+  ],
+  "license": "MIT",
+  "web": "https://github.com/roose/nim-wox",
+  "url": "https://github.com/roose/nim-wox",
+  "method": "git"
+}

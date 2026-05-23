@@ -1,0 +1,13 @@
+{
+  "name": "oldwinapi",
+  "url": "https://github.com/nim-lang/oldwinapi",
+  "method": "git",
+  "tags": [
+    "library",
+    "windows",
+    "api"
+  ],
+  "description": "Old Win API library for Nim",
+  "license": "LGPL with static linking exception",
+  "web": "https://github.com/nim-lang/oldwinapi"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "gitapi",
+  "url": "https://github.com/achesak/nim-gitapi",
+  "method": "git",
+  "tags": [
+    "git",
+    "version control",
+    "library"
+  ],
+  "description": "Nim wrapper around the git version control software",
+  "license": "MIT",
+  "web": "https://github.com/achesak/nim-gitapi"
+}

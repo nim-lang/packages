@@ -1,0 +1,13 @@
+{
+  "name": "awesome_rmdir",
+  "url": "https://github.com/Araq/awesome_rmdir/",
+  "method": "git",
+  "tags": [
+    "rmdir",
+    "awesome",
+    "command-line"
+  ],
+  "description": "Command to remove acceptably empty directories.",
+  "license": "MIT",
+  "web": "https://github.com/Araq/awesome_rmdir/"
+}

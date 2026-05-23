@@ -1,0 +1,15 @@
+{
+  "name": "libuv",
+  "url": "https://github.com/lcrees/libuv",
+  "method": "git",
+  "tags": [
+    "libuv",
+    "wrapper",
+    "node",
+    "networking",
+    "deleted"
+  ],
+  "description": "libuv bindings for Nim",
+  "license": "MIT",
+  "web": "https://github.com/lcrees/libuv"
+}

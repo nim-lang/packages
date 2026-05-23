@@ -1,0 +1,15 @@
+{
+  "name": "oris",
+  "url": "https://github.com/openpeeps/oris",
+  "method": "git",
+  "tags": [
+    "pluralization",
+    "i18n",
+    "locale",
+    "translations",
+    "languages"
+  ],
+  "description": "A simple i18n library for Nim",
+  "license": "MIT",
+  "web": "https://github.com/openpeeps/oris"
+}

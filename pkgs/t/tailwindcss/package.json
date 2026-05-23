@@ -1,0 +1,16 @@
+{
+  "name": "tailwindcss",
+  "url": "https://github.com/Ethosa/tailwindcss-nim",
+  "method": "git",
+  "tags": [
+    "web",
+    "frontend",
+    "tailwindcss",
+    "tailwind",
+    "javascript",
+    "bindings"
+  ],
+  "description": "Tailwind CSS bindings for Nim",
+  "license": "MIT",
+  "web": "https://github.com/Ethosa/tailwindcss-nim"
+}

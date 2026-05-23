@@ -1,0 +1,13 @@
+{
+  "name": "smnar",
+  "url": "https://github.com/juancarlospaco/nim-smnar",
+  "method": "git",
+  "tags": [
+    "argentina",
+    "weather",
+    "api"
+  ],
+  "description": "Servicio Meteorologico Nacional Argentina API Client",
+  "license": "MIT",
+  "web": "https://github.com/juancarlospaco/nim-smnar"
+}

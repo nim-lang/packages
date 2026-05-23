@@ -1,0 +1,16 @@
+{
+  "name": "commandeer",
+  "url": "https://github.com/fenekku/commandeer",
+  "method": "git",
+  "tags": [
+    "library",
+    "command-line",
+    "arguments",
+    "switches",
+    "parsing",
+    "options"
+  ],
+  "description": "Provides a small command line parsing DSL (domain specific language)",
+  "license": "MIT",
+  "web": "https://github.com/fenekku/commandeer"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "georefar",
+  "url": "https://github.com/juancarlospaco/nim-georefar",
+  "method": "git",
+  "tags": [
+    "geo",
+    "openstreetmap",
+    "async",
+    "multisync",
+    "opendata",
+    "gov"
+  ],
+  "description": "GeoRef Argentina Government MultiSync API Client for Nim",
+  "license": "MIT",
+  "web": "https://github.com/juancarlospaco/nim-georefar"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "soundex",
+  "url": "https://github.com/Kashiwara0205/soundex",
+  "method": "git",
+  "tags": [
+    "library",
+    "algorithm"
+  ],
+  "description": "soundex algorithm",
+  "license": "MIT",
+  "web": "https://github.com/Kashiwara0205/soundex"
+}

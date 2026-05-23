@@ -1,0 +1,13 @@
+{
+  "name": "srt",
+  "url": "https://github.com/achesak/nim-srt",
+  "method": "git",
+  "tags": [
+    "srt",
+    "subrip",
+    "subtitle"
+  ],
+  "description": "Nim module for parsing SRT (SubRip) subtitle files",
+  "license": "MIT",
+  "web": "https://github.com/achesak/nim-srt"
+}

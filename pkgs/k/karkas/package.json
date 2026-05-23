@@ -1,0 +1,13 @@
+{
+  "name": "karkas",
+  "url": "https://github.com/moigagoo/karkas",
+  "method": "git",
+  "tags": [
+    "Karax",
+    "frontend",
+    "layout"
+  ],
+  "description": "Layout helpers and sugar for Karax",
+  "license": "MIT",
+  "web": "https://github.com/moigagoo/karkas"
+}

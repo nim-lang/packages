@@ -1,0 +1,13 @@
+{
+  "name": "pronimgress",
+  "url": "https://github.com/bichanna/pronimgress",
+  "method": "git",
+  "tags": [
+    "progressbar",
+    "library",
+    "text"
+  ],
+  "license": "MIT",
+  "description": "Simple text progress bars in Nim!",
+  "web": "https://github.com/bichanna/pronimgress#pronimgress"
+}

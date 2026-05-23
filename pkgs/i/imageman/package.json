@@ -1,0 +1,14 @@
+{
+  "name": "imageman",
+  "url": "https://github.com/SolitudeSF/imageman",
+  "method": "git",
+  "tags": [
+    "image",
+    "graphics",
+    "processing",
+    "manipulation"
+  ],
+  "description": "Image manipulation library",
+  "license": "MIT",
+  "web": "https://github.com/SolitudeSF/imageman"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "aur",
+  "url": "https://github.com/hnicke/aur.nim",
+  "method": "git",
+  "tags": [
+    "arch",
+    "library",
+    "client"
+  ],
+  "description": "A client for the Arch Linux User Repository (AUR)",
+  "license": "MIT",
+  "web": "https://github.com/hnicke/aur.nim"
+}

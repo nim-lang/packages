@@ -1,0 +1,14 @@
+{
+  "name": "formatja",
+  "url": "https://github.com/enthus1ast/formatja",
+  "method": "git",
+  "tags": [
+    "string",
+    "interpolation",
+    "runtime",
+    "template"
+  ],
+  "description": "A simple runtime string interpolation library, that leverages nimjas lexer.",
+  "license": "MIT",
+  "web": "https://github.com/enthus1ast/formatja"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "nimvisa",
+  "url": "https://github.com/leeooox/nimvisa",
+  "method": "git",
+  "tags": [
+    "wrapper"
+  ],
+  "description": "nimvisa is C wrapper for NI-VISA instrument control library",
+  "license": "MIT",
+  "web": "https://github.com/leeooox/nimvisa"
+}

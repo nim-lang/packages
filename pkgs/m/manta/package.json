@@ -1,0 +1,17 @@
+{
+  "name": "manta",
+  "url": "https://github.com/metagn/manta",
+  "method": "git",
+  "tags": [
+    "array",
+    "length",
+    "runtime",
+    "seq",
+    "destructor",
+    "arc",
+    "orc"
+  ],
+  "description": "runtime array types with destructors",
+  "license": "MIT",
+  "web": "https://github.com/metagn/manta"
+}

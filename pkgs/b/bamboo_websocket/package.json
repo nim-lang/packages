@@ -1,0 +1,11 @@
+{
+  "name": "bamboo_websocket",
+  "url": "https://github.com/obemaru4012/bamboo_websocket",
+  "method": "git",
+  "tags": [
+    "websocket"
+  ],
+  "description": "This is a simple implementation of a WebSocket server with 100% Nim.",
+  "license": "MIT",
+  "web": "https://github.com/obemaru4012/bamboo_websocket"
+}

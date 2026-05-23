@@ -1,0 +1,13 @@
+{
+  "name": "polyBool",
+  "url": "https://github.com/jangko/polyBool",
+  "method": "git",
+  "tags": [
+    "polygon",
+    "clipper",
+    "library"
+  ],
+  "description": "Polygon Clipper Library (Martinez Algorithm)",
+  "license": "MIT",
+  "web": "https://github.com/jangko/polyBool"
+}

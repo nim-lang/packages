@@ -1,0 +1,14 @@
+{
+  "name": "libravatar",
+  "url": "https://github.com/juancarlospaco/nim-libravatar",
+  "method": "git",
+  "tags": [
+    "libravatar",
+    "gravatar",
+    "avatar",
+    "federated"
+  ],
+  "description": "Libravatar library for Nim, Gravatar alternative. Libravatar is an open source free federated avatar api & service.",
+  "license": "PPL",
+  "web": "https://github.com/juancarlospaco/nim-libravatar"
+}

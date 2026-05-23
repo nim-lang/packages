@@ -1,0 +1,17 @@
+{
+  "name": "opus",
+  "url": "https://github.com/capocasa/nim-opus",
+  "method": "git",
+  "tags": [
+    "opus",
+    "decoder",
+    "xiph",
+    "audio",
+    "codec",
+    "lossy",
+    "compression"
+  ],
+  "description": "A nimterop wrapper for the opus audio decoder",
+  "license": "MIT",
+  "web": "https://github.com/capocasa/nim-opus"
+}

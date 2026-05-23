@@ -1,0 +1,13 @@
+{
+  "name": "tome",
+  "url": "https://github.com/dizzyliam/tome",
+  "method": "git",
+  "tags": [
+    "nlp",
+    "language",
+    "ml"
+  ],
+  "description": "A natural language library.",
+  "license": "MIT",
+  "web": "https://github.com/dizzyliam/tome"
+}

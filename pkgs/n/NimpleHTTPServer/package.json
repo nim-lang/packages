@@ -1,0 +1,13 @@
+{
+  "name": "NimpleHTTPServer",
+  "url": "https://github.com/Hydra820/NimpleHTTPServer",
+  "method": "git",
+  "tags": [
+    "Simple",
+    "HTTP",
+    "Server"
+  ],
+  "description": "SimpleHTTPServer module based on net sockets",
+  "license": "HYDRA",
+  "web": "https://github.com/Hydra820/NimpleHTTPServer"
+}

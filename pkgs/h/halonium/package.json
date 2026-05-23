@@ -1,0 +1,15 @@
+{
+  "name": "halonium",
+  "url": "https://github.com/halonium/halonium",
+  "method": "git",
+  "tags": [
+    "selenium",
+    "automation",
+    "web",
+    "testing",
+    "test"
+  ],
+  "description": "A browser automation library written in Nim",
+  "license": "MIT",
+  "web": "https://github.com/halonium/halonium"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "xgui",
+  "url": "https://github.com/thatrandomperson5/xgui-nim",
+  "method": "git",
+  "tags": [
+    "library",
+    "gui",
+    "xml"
+  ],
+  "description": "XGui is a tool for nigui that imports xml files and turns them into nim at compile-time.",
+  "license": "MIT",
+  "web": "https://github.com/thatrandomperson5/xgui-nim"
+}

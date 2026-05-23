@@ -1,0 +1,11 @@
+{
+  "name": "opengl",
+  "url": "https://github.com/nim-lang/opengl",
+  "method": "git",
+  "tags": [
+    "wrapper"
+  ],
+  "description": "High-level and low-level wrapper for OpenGL",
+  "license": "MIT",
+  "web": "https://github.com/nim-lang/opengl"
+}

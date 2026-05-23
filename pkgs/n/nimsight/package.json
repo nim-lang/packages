@@ -1,0 +1,12 @@
+{
+  "name": "nimsight",
+  "url": "https://github.com/ire4ever1190/nimsight",
+  "method": "git",
+  "tags": [
+    "lsp",
+    "tooling"
+  ],
+  "description": "LSP implementation for Nim based on `nim check`",
+  "license": "MIT",
+  "web": "https://github.com/ire4ever1190/nimsight"
+}

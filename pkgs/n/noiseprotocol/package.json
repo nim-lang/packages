@@ -1,0 +1,16 @@
+{
+  "name": "noiseprotocol",
+  "url": "https://github.com/kaichaosun/nim-noise",
+  "method": "git",
+  "tags": [
+    "noise",
+    "protocol",
+    "framework",
+    "crypto",
+    "encryption",
+    "authentication"
+  ],
+  "description": "Noise protocol framework implementation in Nim",
+  "license": "MIT",
+  "web": "https://github.com/kaichaosun/nim-noise"
+}

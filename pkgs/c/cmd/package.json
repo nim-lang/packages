@@ -1,0 +1,14 @@
+{
+  "name": "cmd",
+  "url": "https://github.com/samdmarshall/cmd.nim",
+  "method": "git",
+  "tags": [
+    "cmd",
+    "command-line",
+    "prompt",
+    "interactive"
+  ],
+  "description": "interactive command prompt",
+  "license": "BSD 3-Clause",
+  "web": "https://github.com/samdmarshall/cmd.nim"
+}

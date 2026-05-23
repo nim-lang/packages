@@ -1,0 +1,13 @@
+{
+  "name": "asyncanything",
+  "url": "https://github.com/hamidb80/asyncanything",
+  "method": "git",
+  "tags": [
+    "async",
+    "threads",
+    "async-threads"
+  ],
+  "description": "make anything async [to be honest, fake async]",
+  "license": "MIT",
+  "web": "https://github.com/hamidb80/asyncanything"
+}

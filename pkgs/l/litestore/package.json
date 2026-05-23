@@ -1,0 +1,13 @@
+{
+  "name": "litestore",
+  "url": "https://github.com/h3rald/litestore",
+  "method": "git",
+  "tags": [
+    "database",
+    "rest",
+    "sqlite"
+  ],
+  "description": "A lightweight, self-contained, RESTful, searchable, multi-format NoSQL document store",
+  "license": "MIT",
+  "web": "https://h3rald.com/litestore"
+}

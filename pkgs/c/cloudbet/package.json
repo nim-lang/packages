@@ -1,0 +1,12 @@
+{
+  "name": "cloudbet",
+  "url": "https://github.com/juancarlospaco/cloudbet",
+  "method": "git",
+  "tags": [
+    "casino",
+    "crypto"
+  ],
+  "description": "Cloudbet Virtual Crypto Casino API Client",
+  "license": "MIT",
+  "web": "https://github.com/juancarlospaco/cloudbet"
+}

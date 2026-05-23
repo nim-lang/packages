@@ -1,0 +1,12 @@
+{
+  "name": "parseini",
+  "url": "https://github.com/lihf8515/parseini",
+  "method": "git",
+  "tags": [
+    "parseini",
+    "nim"
+  ],
+  "description": "A high-performance ini parse library for nim.",
+  "license": "MIT",
+  "web": "https://github.com/lihf8515/parseini"
+}

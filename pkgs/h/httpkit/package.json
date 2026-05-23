@@ -1,0 +1,16 @@
+{
+  "name": "httpkit",
+  "url": "https://github.com/tulayang/httpkit",
+  "method": "git",
+  "tags": [
+    "http",
+    "request",
+    "response",
+    "stream",
+    "bigfile",
+    "async"
+  ],
+  "description": "An efficient HTTP tool suite written in pure nim. Help you to write HTTP services or clients via TCP, UDP, or even Unix Domain socket, etc.",
+  "license": "MIT",
+  "web": "https://github.com/tulayang/httpkit"
+}

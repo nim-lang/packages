@@ -1,0 +1,12 @@
+{
+  "name": "libarchibi",
+  "url": "https://github.com/juancarlospaco/libarchibi",
+  "method": "git",
+  "tags": [
+    "zip",
+    "libarchive"
+  ],
+  "description": "Libarchive at compile-time, Libarchive Chibi Edition",
+  "license": "MIT",
+  "web": "https://github.com/juancarlospaco/libarchibi"
+}

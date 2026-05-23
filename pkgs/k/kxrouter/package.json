@@ -1,0 +1,13 @@
+{
+  "name": "kxrouter",
+  "url": "https://github.com/nitely/nim-kxrouter",
+  "method": "git",
+  "tags": [
+    "karax",
+    "web",
+    "router"
+  ],
+  "description": "A karax router with life-time events",
+  "license": "MIT",
+  "web": "https://github.com/nitely/nim-kxrouter"
+}

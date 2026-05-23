@@ -1,0 +1,11 @@
+{
+  "name": "protocoled",
+  "url": "https://github.com/planetis-m/protocoled",
+  "method": "git",
+  "tags": [
+    "interface"
+  ],
+  "description": "an interface macro",
+  "license": "MIT",
+  "web": "https://github.com/planetis-m/protocoled"
+}

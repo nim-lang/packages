@@ -1,0 +1,11 @@
+{
+  "name": "ready",
+  "url": "https://github.com/guzba/ready",
+  "method": "git",
+  "tags": [
+    "redis"
+  ],
+  "description": "A Redis client for multi-threaded servers",
+  "license": "MIT",
+  "web": "https://github.com/guzba/ready"
+}

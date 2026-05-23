@@ -1,0 +1,14 @@
+{
+  "name": "coalesce",
+  "url": "https://github.com/piedar/coalesce",
+  "method": "git",
+  "tags": [
+    "nil",
+    "null",
+    "options",
+    "operator"
+  ],
+  "description": "A nil coalescing operator ?? for Nim",
+  "license": "MIT",
+  "web": "https://github.com/piedar/coalesce"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "pythonpathlib",
+  "url": "https://github.com/achesak/nim-pythonpathlib.git",
+  "method": "git",
+  "tags": [
+    "path",
+    "directory",
+    "python",
+    "library"
+  ],
+  "description": "Module for working with paths that is as similar as possible to Python's pathlib",
+  "license": "MIT",
+  "web": "https://github.com/achesak/nim-pythonpathlib"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "taps",
+  "url": "https://git.sr.ht/~ehmry/nim_taps",
+  "method": "git",
+  "tags": [
+    "networking",
+    "udp",
+    "tcp",
+    "sctp"
+  ],
+  "description": "Transport Services Interface",
+  "license": "BSD-3-Clause",
+  "web": "https://datatracker.ietf.org/wg/taps/about/"
+}

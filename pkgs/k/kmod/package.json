@@ -1,0 +1,12 @@
+{
+  "name": "kmod",
+  "url": "https://github.com/alaviss/kmod",
+  "method": "git",
+  "tags": [
+    "kmod",
+    "wrapper"
+  ],
+  "description": "High-level wrapper for Linux's kmod library",
+  "license": "ISC",
+  "web": "https://github.com/alaviss/kmod"
+}

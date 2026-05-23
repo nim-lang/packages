@@ -1,0 +1,15 @@
+{
+  "name": "nimtools",
+  "url": "https://github.com/alexzzzs/NimTools",
+  "method": "git",
+  "tags": [
+    "a",
+    "utils",
+    "library",
+    "for",
+    "Nim"
+  ],
+  "description": "Lightweight, zero-dependency Nim library with expressive helper APIs for numbers, strings, and collections",
+  "license": "MIT",
+  "web": "https://github.com/alexzzzs/NimTools"
+}

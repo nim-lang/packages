@@ -1,0 +1,14 @@
+{
+  "name": "eminim",
+  "url": "https://github.com/planetis-m/eminim",
+  "method": "git",
+  "tags": [
+    "json",
+    "marshal",
+    "serialize",
+    "deserialize"
+  ],
+  "description": "JSON serialization framework",
+  "license": "MIT",
+  "web": "https://github.com/planetis-m/eminim"
+}

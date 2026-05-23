@@ -1,0 +1,13 @@
+{
+  "name": "adb",
+  "url": "https://github.com/nimbackup/nim-adb",
+  "method": "git",
+  "tags": [
+    "adb",
+    "protocol",
+    "android"
+  ],
+  "description": "ADB protocol implementation in Nim",
+  "license": "MIT",
+  "web": "https://github.com/nimbackup/nim-adb"
+}

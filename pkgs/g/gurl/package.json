@@ -1,0 +1,15 @@
+{
+  "name": "gurl",
+  "url": "https://github.com/MaxUNof/gurl",
+  "method": "git",
+  "tags": [
+    "tags",
+    "http",
+    "generating",
+    "url",
+    "deleted"
+  ],
+  "description": "A little lib for generating URL with args.",
+  "license": "MIT",
+  "web": "https://github.com/MaxUNof/gurl"
+}

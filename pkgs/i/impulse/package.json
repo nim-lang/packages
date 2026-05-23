@@ -1,0 +1,15 @@
+{
+  "name": "impulse",
+  "url": "https://github.com/SciNim/impulse",
+  "method": "git",
+  "tags": [
+    "signals",
+    "signal processing",
+    "FFT",
+    "PocketFFT",
+    "science"
+  ],
+  "description": "Signal processing primitives (FFT, ...) ",
+  "license": "MIT",
+  "web": "https://github.com/SciNim/impulse"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "drng",
+  "url": "https://github.com/rockcavera/nim-drng",
+  "method": "git",
+  "tags": [
+    "drng",
+    "rng"
+  ],
+  "description": "Provides access to the rdrand and rdseed instructions. Based on Intel's DRNG Library (libdrng)",
+  "license": "MIT",
+  "web": "https://github.com/rockcavera/nim-drng"
+}

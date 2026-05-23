@@ -1,0 +1,13 @@
+{
+  "name": "nuuid",
+  "url": "https://github.com/yglukhov/nim-only-uuid",
+  "method": "git",
+  "tags": [
+    "library",
+    "uuid",
+    "guid"
+  ],
+  "description": "A Nim source only UUID generator",
+  "license": "MIT",
+  "web": "https://github.com/yglukhov/nim-only-uuid"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dropbox_filename_sanitizer",
+  "url": "https://github.com/Araq/dropbox_filename_sanitizer/",
+  "method": "git",
+  "tags": [
+    "dropbox"
+  ],
+  "description": "Tool to clean up filenames shared on Dropbox",
+  "license": "MIT",
+  "web": "https://github.com/Araq/dropbox_filename_sanitizer/"
+}

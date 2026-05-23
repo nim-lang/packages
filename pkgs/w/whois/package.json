@@ -1,0 +1,12 @@
+{
+  "name": "whois",
+  "url": "https://github.com/thisago/whois",
+  "method": "git",
+  "tags": [
+    "whois",
+    "dns"
+  ],
+  "description": "A simple and free whois client",
+  "license": "MIT",
+  "web": "https://github.com/thisago/whois"
+}

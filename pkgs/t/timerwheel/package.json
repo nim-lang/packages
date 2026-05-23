@@ -1,0 +1,13 @@
+{
+  "name": "timerwheel",
+  "url": "https://github.com/ringabout/timerwheel",
+  "method": "git",
+  "tags": [
+    "timer",
+    "timerwheel",
+    "prologue"
+  ],
+  "description": "A high performance timer based on timerwheel for Nim.",
+  "license": "Apache-2.0",
+  "web": "https://github.com/ringabout/timerwheel"
+}

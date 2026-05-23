@@ -1,0 +1,15 @@
+{
+  "name": "sayhissatsuwaza",
+  "url": "https://github.com/jiro4989/sayhissatsuwaza",
+  "method": "git",
+  "tags": [
+    "cli",
+    "generator",
+    "joke",
+    "tool",
+    "text"
+  ],
+  "description": "Say hissatsuwaza (special attack) on your terminal.",
+  "license": "MIT",
+  "web": "https://github.com/jiro4989/sayhissatsuwaza"
+}

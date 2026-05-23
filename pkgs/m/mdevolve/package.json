@@ -1,0 +1,14 @@
+{
+  "name": "mdevolve",
+  "url": "https://github.com/jxy/MDevolve",
+  "method": "git",
+  "tags": [
+    "MD",
+    "integrator",
+    "numerical",
+    "evolution"
+  ],
+  "description": "Integrator framework for Molecular Dynamic evolutions",
+  "license": "MIT",
+  "web": "https://github.com/jxy/MDevolve"
+}

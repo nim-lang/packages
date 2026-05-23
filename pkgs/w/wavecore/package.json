@@ -1,0 +1,11 @@
+{
+  "name": "wavecore",
+  "url": "https://github.com/ansiwave/wavecore",
+  "method": "git",
+  "tags": [
+    "database",
+    "networking"
+  ],
+  "description": "Client and server database and networking utils",
+  "license": "Public Domain"
+}

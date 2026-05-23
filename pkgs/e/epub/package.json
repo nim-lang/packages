@@ -1,0 +1,13 @@
+{
+  "name": "epub",
+  "url": "https://github.com/achesak/nim-epub",
+  "method": "git",
+  "tags": [
+    "library",
+    "epub",
+    "e-book"
+  ],
+  "description": "Module for working with EPUB e-book files",
+  "license": "MIT",
+  "web": "https://github.com/achesak/nim-epub"
+}

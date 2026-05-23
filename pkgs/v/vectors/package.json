@@ -1,0 +1,13 @@
+{
+  "name": "vectors",
+  "url": "https://github.com/blamestross/nimrod-vectors",
+  "method": "git",
+  "tags": [
+    "math",
+    "vectors",
+    "library"
+  ],
+  "description": "Simple multidimensional vector math",
+  "license": "MIT",
+  "web": "https://github.com/blamestross/nimrod-vectors"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "robotparser",
+  "url": "https://github.com/achesak/nim-robotparser",
+  "method": "git",
+  "tags": [
+    "library",
+    "useragent",
+    "robots",
+    "robot.txt"
+  ],
+  "description": "Determine if a useragent can access a URL using robots.txt",
+  "license": "MIT",
+  "web": "https://github.com/achesak/nim-robotparser"
+}

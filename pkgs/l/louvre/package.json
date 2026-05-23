@@ -1,0 +1,15 @@
+{
+  "name": "louvre",
+  "url": "https://github.com/xTrayambak/nim-louvre",
+  "method": "git",
+  "tags": [
+    "wayland",
+    "linux",
+    "louvre",
+    "compositor",
+    "window-manager"
+  ],
+  "description": "Bindings to Louvre, a simple-to-use C++ library that lets you build high-performance compositors with minimal amounts of code.",
+  "license": "LGPL-2.1-or-later",
+  "web": "https://github.com/xTrayambak/gbm-nim"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "cloths",
+  "url": "https://github.com/panno8M/cloths",
+  "method": "git",
+  "tags": [
+    "string",
+    "format"
+  ],
+  "description": "Cloths provides the way to process and structure string easily.",
+  "license": "MIT",
+  "web": "https://github.com/panno8M/cloths"
+}

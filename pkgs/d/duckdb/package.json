@@ -1,0 +1,16 @@
+{
+  "name": "duckdb",
+  "url": "https://github.com/openpeeps/duckdb-nim",
+  "method": "git",
+  "tags": [
+    "db",
+    "sql",
+    "json",
+    "csv",
+    "analytics",
+    "database"
+  ],
+  "description": "Bindings for DuckDB analytical database",
+  "license": "MIT",
+  "web": "https://github.com/openpeeps/duckdb-nim"
+}

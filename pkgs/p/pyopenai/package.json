@@ -1,0 +1,15 @@
+{
+  "name": "pyopenai",
+  "url": "https://github.com/jaredmontoya/pyopenai",
+  "method": "git",
+  "tags": [
+    "python",
+    "openai",
+    "http",
+    "api",
+    "library"
+  ],
+  "description": "An attempt to reimplement python OpenAI API bindings in nim",
+  "license": "GPL-3.0-or-later",
+  "web": "https://github.com/jaredmontoya/pyopenai"
+}

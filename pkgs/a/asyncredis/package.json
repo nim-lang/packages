@@ -1,0 +1,14 @@
+{
+  "name": "asyncredis",
+  "url": "https://github.com/Q-Master/redis.nim",
+  "method": "git",
+  "tags": [
+    "redis",
+    "database",
+    "driver",
+    "async"
+  ],
+  "description": "Pure Nim asyncronous driver for Redis DB",
+  "license": "MIT",
+  "web": "https://github.com/Q-Master/redis.nim"
+}

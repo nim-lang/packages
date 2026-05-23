@@ -1,0 +1,15 @@
+{
+  "name": "gdbmc",
+  "url": "https://github.com/vycb/gdbmc.nim",
+  "method": "git",
+  "tags": [
+    "gdbm",
+    "key-value",
+    "nosql",
+    "library",
+    "wrapper"
+  ],
+  "description": "This library is a wrapper to C GDBM library",
+  "license": "MIT",
+  "web": "https://github.com/vycb/gdbmc.nim"
+}

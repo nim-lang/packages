@@ -1,0 +1,12 @@
+{
+  "name": "getdns",
+  "url": "https://git.sr.ht/~ehmry/getdns-nim",
+  "method": "git",
+  "tags": [
+    "dns",
+    "network"
+  ],
+  "description": "Wrapper over the getdns API",
+  "license": "BSD-3-Clause",
+  "web": "https://getdnsapi.net/"
+}

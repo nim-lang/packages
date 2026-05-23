@@ -1,0 +1,12 @@
+{
+  "name": "til",
+  "url": "https://github.com/danielecook/til-tool",
+  "method": "git",
+  "tags": [
+    "cli",
+    "til"
+  ],
+  "description": "til-tool: Today I Learned tool",
+  "license": "MIT",
+  "web": "https://github.com/danielecook/til-tool"
+}

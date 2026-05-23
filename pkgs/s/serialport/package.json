@@ -1,0 +1,14 @@
+{
+  "name": "serialport",
+  "url": "https://github.com/nimious/serialport.git",
+  "method": "git",
+  "tags": [
+    "binding",
+    "libserialport",
+    "serial",
+    "communication"
+  ],
+  "description": "Bindings for libserialport, the cross-platform serial communication library.",
+  "license": "MIT",
+  "web": "https://github.com/nimious/serialport"
+}

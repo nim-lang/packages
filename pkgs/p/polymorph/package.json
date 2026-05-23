@@ -1,0 +1,15 @@
+{
+  "name": "polymorph",
+  "url": "https://github.com/rlipsc/polymorph",
+  "method": "git",
+  "tags": [
+    "entity-component-system",
+    "ecs",
+    "gamedev",
+    "metaprogramming",
+    "compile-time"
+  ],
+  "description": "An entity-component-system with a focus on compile time optimisation",
+  "license": "Apache-2.0",
+  "web": "https://github.com/rlipsc/polymorph"
+}

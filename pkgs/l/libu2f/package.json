@@ -1,0 +1,15 @@
+{
+  "name": "libu2f",
+  "url": "https://github.com/FedericoCeratto/nim-libu2f",
+  "method": "git",
+  "tags": [
+    "u2f",
+    "library",
+    "security",
+    "authentication",
+    "fido"
+  ],
+  "description": "A wrapper for libu2f, a library for FIDO/U2F",
+  "license": "LGPLv3",
+  "web": "https://github.com/FedericoCeratto/nim-libu2f"
+}

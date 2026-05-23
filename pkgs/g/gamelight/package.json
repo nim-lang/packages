@@ -1,0 +1,15 @@
+{
+  "name": "gamelight",
+  "url": "https://github.com/dom96/gamelight",
+  "method": "git",
+  "tags": [
+    "js",
+    "library",
+    "graphics",
+    "collision",
+    "2d"
+  ],
+  "description": "A set of simple modules for writing a JavaScript 2D game.",
+  "license": "MIT",
+  "web": "https://github.com/dom96/gamelight"
+}

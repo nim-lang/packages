@@ -1,0 +1,15 @@
+{
+  "name": "spinner",
+  "url": "https://github.com/tonogram/spinner",
+  "method": "git",
+  "tags": [
+    "ui",
+    "gui",
+    "toolkit",
+    "companion",
+    "fidget"
+  ],
+  "description": "Prebuilt components for the Fidget GUI library.",
+  "license": "MIT",
+  "web": "https://github.com/tonogram/spinner"
+}

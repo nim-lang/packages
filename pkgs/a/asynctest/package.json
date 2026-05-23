@@ -1,0 +1,13 @@
+{
+  "name": "asynctest",
+  "url": "https://github.com/markspanbroek/asynctest",
+  "method": "git",
+  "tags": [
+    "test",
+    "unittest",
+    "async"
+  ],
+  "description": "Test asynchronous code",
+  "license": "MIT",
+  "web": "https://github.com/markspanbroek/asynctest"
+}

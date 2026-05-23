@@ -1,0 +1,14 @@
+{
+  "name": "newfix",
+  "url": "https://github.com/inv2004/newfix",
+  "method": "git",
+  "tags": [
+    "fix",
+    "protocol",
+    "parser",
+    "financial"
+  ],
+  "description": "FIX Protocol optimized parser (Financial Information eXchange)",
+  "license": "Apache-2.0",
+  "web": "https://github.com/inv2004/newfix"
+}

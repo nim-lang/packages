@@ -1,0 +1,12 @@
+{
+  "name": "saya",
+  "alias": "shizuka",
+  "url": "https://github.com/Ethosa/saya_nim",
+  "method": "git",
+  "tags": [
+    "abandoned"
+  ],
+  "description": "Nim framework for VK",
+  "license": "LGPLv3",
+  "web": "https://github.com/Ethosa/saya_nim"
+}

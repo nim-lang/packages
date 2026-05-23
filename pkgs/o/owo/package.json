@@ -1,0 +1,12 @@
+{
+  "name": "owo",
+  "url": "https://github.com/lmariscal/owo",
+  "method": "git",
+  "tags": [
+    "fun",
+    "utility"
+  ],
+  "description": "OwO text convewtew fow Nim",
+  "license": "MIT",
+  "web": "https://github.com/lmariscal/owo"
+}

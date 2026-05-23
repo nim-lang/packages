@@ -1,0 +1,16 @@
+{
+  "name": "nimclipboard",
+  "url": "https://github.com/genotrance/nimclipboard",
+  "method": "git",
+  "tags": [
+    "clipboard",
+    "wrapper",
+    "clip",
+    "copy",
+    "paste",
+    "nimgen"
+  ],
+  "description": "Nim wrapper for libclipboard",
+  "license": "MIT",
+  "web": "https://github.com/genotrance/nimclipboard"
+}

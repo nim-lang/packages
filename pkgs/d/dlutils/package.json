@@ -1,0 +1,14 @@
+{
+  "name": "dlutils",
+  "url": "https://github.com/amnr/dlutils",
+  "method": "git",
+  "tags": [
+    "shared",
+    "library",
+    "helper",
+    "wrapper"
+  ],
+  "description": "Nim package for easy shared library loading.",
+  "license": "NCSA",
+  "web": "https://github.com/amnr/dlutils"
+}

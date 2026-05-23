@@ -1,0 +1,15 @@
+{
+  "name": "mapbits",
+  "tags": [
+    "map",
+    "bits",
+    "byte",
+    "word",
+    "binary"
+  ],
+  "method": "git",
+  "license": "MIT",
+  "description": "Access bit mapped portions of bytes in binary data as int variables",
+  "web": "https://github.com/jlp765/mapbits",
+  "url": "https://github.com/jlp765/mapbits"
+}

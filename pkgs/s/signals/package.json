@@ -1,0 +1,13 @@
+{
+  "name": "signals",
+  "url": "https://github.com/fowlmouth/signals.nim",
+  "method": "git",
+  "tags": [
+    "event-based",
+    "observer pattern",
+    "library"
+  ],
+  "description": "Signals/slots library.",
+  "license": "MIT",
+  "web": "https://github.com/fowlmouth/signals.nim"
+}

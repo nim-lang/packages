@@ -1,0 +1,12 @@
+{
+  "name": "pretty",
+  "url": "https://github.com/treeform/pretty",
+  "method": "git",
+  "tags": [
+    "pretty",
+    "print"
+  ],
+  "description": "A pretty printer for Nim types",
+  "license": "MIT",
+  "web": "https://github.com/treeform/pretty"
+}

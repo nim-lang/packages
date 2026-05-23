@@ -1,0 +1,12 @@
+{
+  "name": "openal",
+  "url": "https://github.com/treeform/openal",
+  "method": "git",
+  "tags": [
+    "sound",
+    "OpenAL",
+    "wrapper"
+  ],
+  "description": "An OpenAL wrapper.",
+  "license": "MIT"
+}

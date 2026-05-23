@@ -1,0 +1,13 @@
+{
+  "name": "googlesearch",
+  "url": "https://github.com/xyb/googlesearch.nim",
+  "method": "git",
+  "tags": [
+    "google",
+    "search"
+  ],
+  "description": "library for scraping google search results",
+  "license": "MIT",
+  "web": "https://github.com/xyb/googlesearch.nim",
+  "doc": "https://xyb.github.io/googlesearch.nim/"
+}

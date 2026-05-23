@@ -1,0 +1,13 @@
+{
+  "name": "Palette",
+  "url": "https://github.com/momeemt/Palette",
+  "method": "git",
+  "tags": [
+    "color",
+    "library",
+    "nigui"
+  ],
+  "description": "Color Library",
+  "license": "MIT",
+  "web": "https://github.com/momeemt/Palette"
+}

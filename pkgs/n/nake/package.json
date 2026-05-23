@@ -1,0 +1,13 @@
+{
+  "name": "nake",
+  "url": "https://github.com/fowlmouth/nake/",
+  "method": "git",
+  "tags": [
+    "build",
+    "automation",
+    "sortof"
+  ],
+  "description": "make-like for Nim. Describe your builds as tasks!",
+  "license": "MIT",
+  "web": "https://github.com/fowlmouth/nake"
+}

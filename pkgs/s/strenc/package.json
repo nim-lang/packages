@@ -1,0 +1,14 @@
+{
+  "name": "strenc",
+  "url": "https://github.com/nim-meta/strenc",
+  "method": "git",
+  "tags": [
+    "encryption",
+    "macro",
+    "obfuscation",
+    "abandoned"
+  ],
+  "description": "A library to automatically encrypt all string constants in your programs",
+  "license": "MIT",
+  "web": "https://github.com/nim-meta/strenc"
+}

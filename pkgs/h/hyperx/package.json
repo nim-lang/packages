@@ -1,0 +1,18 @@
+{
+  "name": "hyperx",
+  "url": "https://github.com/nitely/nim-hyperx",
+  "method": "git",
+  "tags": [
+    "http",
+    "http2",
+    "web",
+    "web-server",
+    "web-client",
+    "server",
+    "client",
+    "client-server"
+  ],
+  "description": "Pure Nim http2 client and server",
+  "license": "MIT",
+  "web": "https://github.com/nitely/nim-hyperx"
+}

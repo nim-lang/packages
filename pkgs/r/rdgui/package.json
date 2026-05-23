@@ -1,0 +1,14 @@
+{
+  "name": "rdgui",
+  "url": "https://github.com/liquid600pgm/rdgui",
+  "method": "git",
+  "tags": [
+    "modular",
+    "retained",
+    "gui",
+    "toolkit"
+  ],
+  "description": "A modular GUI toolkit for rapid",
+  "license": "MIT",
+  "web": "https://github.com/liquid600pgm/rdgui"
+}

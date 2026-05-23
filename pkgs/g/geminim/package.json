@@ -1,0 +1,13 @@
+{
+  "name": "geminim",
+  "url": "https://github.com/IDF31/geminim",
+  "license": "BSD-2",
+  "method": "git",
+  "tags": [
+    "gemini",
+    "server",
+    "async",
+    "based"
+  ],
+  "description": "Simple async Gemini server"
+}

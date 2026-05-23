@@ -1,0 +1,15 @@
+{
+  "name": "margrave",
+  "url": "https://github.com/metagn/margrave",
+  "method": "git",
+  "tags": [
+    "markdown",
+    "parser",
+    "library",
+    "html"
+  ],
+  "description": "dialect of Markdown in pure Nim with focus on HTML output",
+  "license": "MIT",
+  "web": "https://github.com/metagn/margrave",
+  "doc": "https://metagn.github.io/margrave/docs/margrave.html"
+}

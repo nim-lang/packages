@@ -1,0 +1,14 @@
+{
+  "name": "nimna",
+  "url": "https://github.com/mjendrusch/nimna",
+  "method": "git",
+  "tags": [
+    "library",
+    "nucleic-acid-folding",
+    "scientific",
+    "biology"
+  ],
+  "description": "Nucleic acid folding and design.",
+  "license": "MIT",
+  "web": "https://github.com/mjendrusch/nimna"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "sndhdr",
+  "url": "https://github.com/achesak/nim-sndhdr",
+  "method": "git",
+  "tags": [
+    "library",
+    "formats",
+    "files",
+    "sound",
+    "audio"
+  ],
+  "description": "Library for detecting the format of a sound file",
+  "license": "MIT",
+  "web": "https://github.com/achesak/nim-sndhdr"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "delight",
+  "url": "https://github.com/liquid600pgm/delight",
+  "method": "git",
+  "tags": [
+    "raycasting",
+    "math",
+    "light",
+    "library"
+  ],
+  "description": "Engine-agnostic library for computing 2D raycasted lights",
+  "license": "MIT",
+  "web": "https://github.com/liquid600pgm/delight"
+}

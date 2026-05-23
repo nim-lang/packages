@@ -1,0 +1,14 @@
+{
+  "name": "openurl",
+  "url": "https://github.com/foxoman/openurl",
+  "method": "git",
+  "tags": [
+    "open",
+    "url",
+    "uri"
+  ],
+  "description": "Open Any Url/File in the default App / WebBrowser.",
+  "license": "MIT",
+  "web": "https://github.com/foxoman/openurl",
+  "doc": "https://nimopenurl.surge.sh/openurl.html"
+}

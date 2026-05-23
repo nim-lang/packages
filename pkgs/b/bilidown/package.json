@@ -1,0 +1,12 @@
+{
+  "name": "bilidown",
+  "url": "https://github.com/bung87/bilidown",
+  "method": "git",
+  "tags": [
+    "video",
+    "downloader"
+  ],
+  "description": "Bilibili video downloader",
+  "license": "MIT",
+  "web": "https://github.com/bung87/bilidown"
+}

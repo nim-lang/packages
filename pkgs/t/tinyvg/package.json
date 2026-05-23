@@ -1,0 +1,13 @@
+{
+  "name": "tinyvg",
+  "url": "https://github.com/bung87/tinyvg",
+  "method": "git",
+  "tags": [
+    "tinyvg",
+    "graphics",
+    "images"
+  ],
+  "description": "TinyVG - A compact binary vector graphics format implementation in Nim",
+  "license": "MIT",
+  "web": "https://github.com/bung87/tinyvg"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "nimrat",
+  "url": "https://github.com/apense/nimrat",
+  "method": "git",
+  "tags": [
+    "library",
+    "math",
+    "numbers"
+  ],
+  "description": "Module for working with rational numbers (fractions)",
+  "license": "MIT",
+  "web": "https://github.com/apense/nimrat"
+}

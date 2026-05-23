@@ -1,0 +1,12 @@
+{
+  "name": "ferusgfx",
+  "url": "https://github.com/ferus-web/ferusgfx",
+  "method": "git",
+  "tags": [
+    "graphics",
+    "gpu"
+  ],
+  "description": "A high-performance graphics renderer made for web engines",
+  "license": "MIT",
+  "web": "https://github.com/ferus-web/ferusgfx"
+}

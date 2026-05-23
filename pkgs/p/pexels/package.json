@@ -1,0 +1,15 @@
+{
+  "name": "pexels",
+  "url": "https://github.com/openpeeps/nim-pexels",
+  "method": "git",
+  "tags": [
+    "client",
+    "library",
+    "pexels",
+    "photo",
+    "api"
+  ],
+  "description": "Nim library for the Pexels API",
+  "license": "MIT",
+  "web": "https://github.com/openpeeps/nim-pexels"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "physfs",
+  "url": "https://github.com/fowlmouth/physfs",
+  "method": "git",
+  "tags": [
+    "wrapper",
+    "filesystem",
+    "archives"
+  ],
+  "description": "A library to provide abstract access to various archives.",
+  "license": "WTFPL",
+  "web": "https://github.com/fowlmouth/physfs"
+}

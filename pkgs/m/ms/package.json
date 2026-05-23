@@ -1,0 +1,16 @@
+{
+  "name": "ms",
+  "url": "https://github.com/fox-cat/ms",
+  "method": "git",
+  "tags": [
+    "library",
+    "time",
+    "format",
+    "ms",
+    "deleted"
+  ],
+  "description": "Convert various time formats to milliseconds",
+  "license": "MIT",
+  "web": "https://fox-cat.github.io/ms/",
+  "doc": "https://fox-cat.github.io/ms/"
+}

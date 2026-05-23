@@ -1,0 +1,15 @@
+{
+  "name": "einheit",
+  "url": "https://github.com/jyapayne/einheit",
+  "method": "git",
+  "tags": [
+    "unit",
+    "tests",
+    "unittest",
+    "unit tests",
+    "unit test macro"
+  ],
+  "description": "Pretty looking, full featured, Python-inspired unit test library.",
+  "license": "MIT",
+  "web": "https://github.com/jyapayne/einheit"
+}

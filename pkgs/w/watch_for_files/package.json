@@ -1,0 +1,14 @@
+{
+  "name": "watch_for_files",
+  "url": "https://github.com/hamidb80/watch_for_files",
+  "method": "git",
+  "tags": [
+    "file-watcher",
+    "file",
+    "watcher",
+    "cross-platform"
+  ],
+  "description": "cross-platform file watcher with database",
+  "license": "MIT",
+  "web": "https://github.com/hamidb80/watch_for_files"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "sysrandom",
+  "url": "https://github.com/euantorano/sysrandom.nim",
+  "method": "git",
+  "tags": [
+    "random",
+    "RNG",
+    "PRNG"
+  ],
+  "description": "A simple library to generate random data, using the system's PRNG.",
+  "license": "BSD3",
+  "web": "https://github.com/euantorano/sysrandom.nim"
+}

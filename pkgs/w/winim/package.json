@@ -1,0 +1,14 @@
+{
+  "name": "winim",
+  "url": "https://github.com/khchen/winim",
+  "method": "git",
+  "tags": [
+    "library",
+    "windows",
+    "api",
+    "com"
+  ],
+  "description": "Nim's Windows API and COM Library",
+  "license": "MIT",
+  "web": "https://github.com/khchen/winim"
+}

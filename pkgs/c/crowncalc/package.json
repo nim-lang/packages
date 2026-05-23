@@ -1,0 +1,13 @@
+{
+  "name": "crowncalc",
+  "url": "https://github.com/RainbowAsteroids/crowncalc",
+  "method": "git",
+  "tags": [
+    "calculator",
+    "sdl",
+    "library"
+  ],
+  "description": "Basic calculator in Nim",
+  "license": "MIT",
+  "web": "https://github.com/RainbowAsteroids/crowncalc"
+}

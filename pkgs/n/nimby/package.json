@@ -1,0 +1,14 @@
+{
+  "name": "nimby",
+  "url": "https://github.com/treeform/nimby",
+  "method": "git",
+  "tags": [
+    "packages",
+    "lockfile",
+    "install",
+    "ci"
+  ],
+  "description": "Unofficial package manager and installer.",
+  "license": "MIT",
+  "web": "https://github.com/treeform/nimby"
+}

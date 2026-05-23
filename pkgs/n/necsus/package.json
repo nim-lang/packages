@@ -1,0 +1,15 @@
+{
+  "name": "necsus",
+  "url": "https://github.com/NecsusECS/Necsus",
+  "method": "git",
+  "tags": [
+    "ecs",
+    "entity",
+    "component",
+    "system",
+    "games"
+  ],
+  "description": "Entity Component System",
+  "license": "MIT",
+  "web": "https://github.com/NecsusECS/Necsus"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "daemonize",
+  "url": "https://github.com/OpenSystemsLab/daemonize.nim",
+  "method": "git",
+  "tags": [
+    "daemonize",
+    "background",
+    "fork",
+    "unix",
+    "linux",
+    "process"
+  ],
+  "description": "This library makes your code run as a daemon process on Unix-like systems",
+  "license": "MIT",
+  "web": "https://github.com/OpenSystemsLab/daemonize.nim"
+}

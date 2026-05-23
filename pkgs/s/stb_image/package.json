@@ -1,0 +1,15 @@
+{
+  "name": "stb_image",
+  "url": "https://gitlab.com/define-private-public/stb_image-Nim.git",
+  "method": "git",
+  "tags": [
+    "stb",
+    "image",
+    "graphics",
+    "io",
+    "wrapper"
+  ],
+  "description": "A wrapper for stb_image and stb_image_write.",
+  "license": "Unlicense",
+  "web": "https://gitlab.com/define-private-public/stb_image-Nim"
+}

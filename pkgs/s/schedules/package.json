@@ -1,0 +1,16 @@
+{
+  "name": "schedules",
+  "url": "https://github.com/soasme/nim-schedules",
+  "method": "git",
+  "tags": [
+    "scheduler",
+    "schedules",
+    "job",
+    "task",
+    "cron",
+    "interval"
+  ],
+  "description": "A Nim scheduler library that lets you kick off jobs at regular intervals.",
+  "license": "MIT",
+  "web": "https://github.com/soasme/nim-schedules"
+}

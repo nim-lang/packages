@@ -1,0 +1,12 @@
+{
+  "name": "useragents",
+  "url": "https://github.com/treeform/useragents",
+  "method": "git",
+  "tags": [
+    "library",
+    "useragent"
+  ],
+  "description": "User Agent parser for nim.",
+  "license": "MIT",
+  "web": "https://github.com/treeform/useragents"
+}

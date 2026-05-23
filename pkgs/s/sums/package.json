@@ -1,0 +1,17 @@
+{
+  "name": "sums",
+  "url": "https://github.com/planetis-m/sums",
+  "method": "git",
+  "tags": [
+    "summation",
+    "errors",
+    "floating point",
+    "rounding",
+    "numerical methods",
+    "number",
+    "math"
+  ],
+  "description": "Accurate summation functions",
+  "license": "MIT",
+  "web": "https://github.com/planetis-m/sums"
+}

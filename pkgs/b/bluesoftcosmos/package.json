@@ -1,0 +1,14 @@
+{
+  "name": "bluesoftcosmos",
+  "url": "https://github.com/thisago/bluesoftcosmos",
+  "method": "git",
+  "tags": [
+    "scraper",
+    "extractor",
+    "food",
+    "barcode"
+  ],
+  "description": "Bluesoft Cosmos extractor",
+  "license": "gpl-3.0",
+  "web": "https://github.com/thisago/bluesoftcosmos"
+}

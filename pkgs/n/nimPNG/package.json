@@ -1,0 +1,13 @@
+{
+  "name": "nimPNG",
+  "url": "https://github.com/jangko/nimPNG",
+  "method": "git",
+  "tags": [
+    "graphics",
+    "library",
+    "PNG"
+  ],
+  "description": "PNG(Portable Network Graphics) encoder and decoder",
+  "license": "MIT",
+  "web": "https://github.com/jangko/nimPNG"
+}

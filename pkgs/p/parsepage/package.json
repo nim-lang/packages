@@ -1,0 +1,16 @@
+{
+  "name": "parsepage",
+  "url": "https://github.com/thisago/parsepage",
+  "method": "git",
+  "tags": [
+    "extractor",
+    "cli",
+    "configurable",
+    "tool",
+    "html",
+    "bulk"
+  ],
+  "description": "Automatically extracts the data of sites",
+  "license": "GPL-3.0-only",
+  "web": "https://github.com/thisago/parsepage"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "gts_emoji_importer",
+  "url": "https://codeberg.org/pswilde/gts_emoji_importer",
+  "method": "git",
+  "tags": [
+    "library",
+    "emojis",
+    "fediverse",
+    "gotosocial"
+  ],
+  "description": "A tool for admins to import custom emojis into GoToSocial",
+  "license": "GPLv3",
+  "web": "https://codeberg.org/pswilde/gts_emoji_importer"
+}

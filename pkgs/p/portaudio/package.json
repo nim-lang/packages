@@ -1,0 +1,17 @@
+{
+  "name": "portaudio",
+  "url": "https://bitbucket.org/BitPuffin/nim-portaudio",
+  "method": "hg",
+  "tags": [
+    "library",
+    "wrapper",
+    "binding",
+    "audio",
+    "sound",
+    "media",
+    "io",
+    "deleted"
+  ],
+  "description": "Binding to portaudio",
+  "license": "CC0"
+}

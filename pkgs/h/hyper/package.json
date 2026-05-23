@@ -1,0 +1,11 @@
+{
+  "name": "hyper",
+  "url": "https://github.com/thechampagne/hyper-nim",
+  "method": "git",
+  "tags": [
+    "hyper"
+  ],
+  "description": "Binding for hyper an HTTP library",
+  "license": "Apache-2.0",
+  "web": "https://github.com/thechampagne/hyper-nim"
+}

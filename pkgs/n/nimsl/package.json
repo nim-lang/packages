@@ -1,0 +1,13 @@
+{
+  "name": "nimsl",
+  "url": "https://github.com/yglukhov/nimsl",
+  "method": "git",
+  "tags": [
+    "shader",
+    "opengl",
+    "glsl"
+  ],
+  "description": "Shaders in Nim.",
+  "license": "MIT",
+  "web": "https://github.com/yglukhov/nimsl"
+}

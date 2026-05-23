@@ -1,0 +1,13 @@
+{
+  "name": "shaname",
+  "url": "https://github.com/Torro/nimble-packages?subdir=shaname",
+  "method": "git",
+  "tags": [
+    "sha1",
+    "command-line",
+    "utilities"
+  ],
+  "description": "Rename files to their sha1sums",
+  "license": "BSD",
+  "web": "https://github.com/Torro/nimble-packages/tree/master/shaname"
+}

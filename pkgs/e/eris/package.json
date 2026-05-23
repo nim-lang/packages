@@ -1,0 +1,11 @@
+{
+  "name": "eris",
+  "url": "https://codeberg.org/eris/nim-eris",
+  "method": "git",
+  "tags": [
+    "eris"
+  ],
+  "description": "Encoding for Robust Immutable Storage (ERIS)",
+  "license": "ISC",
+  "web": "https://eris.codeberg.page"
+}

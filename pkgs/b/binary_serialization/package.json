@@ -1,0 +1,13 @@
+{
+  "name": "binary_serialization",
+  "url": "https://github.com/status-im/nim-binary-serialization",
+  "method": "git",
+  "tags": [
+    "library",
+    "binary",
+    "serialization"
+  ],
+  "description": "Binary packed serialization compatible with the status-im/nim-serialization framework",
+  "license": "MIT",
+  "web": "https://github.com/status-im/nim-binary-serialization"
+}

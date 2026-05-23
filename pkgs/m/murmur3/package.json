@@ -1,0 +1,15 @@
+{
+  "name": "murmur3",
+  "url": "https://github.com/boydgreenfield/nimrod-murmur",
+  "method": "git",
+  "tags": [
+    "MurmurHash",
+    "MurmurHash3",
+    "murmur",
+    "hash",
+    "hashing"
+  ],
+  "description": "A simple MurmurHash3 wrapper for Nim",
+  "license": "MIT",
+  "web": "https://github.com/boydgreenfield/nimrod-murmur"
+}
