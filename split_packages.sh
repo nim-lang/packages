@@ -7,7 +7,7 @@ usage() {
 Usage: split_packages.sh [--force] [packages.json] [pkgs-dir]
 
 Split a top-level packages.json array into sharded package folders:
-  pkgs/<first-letter>/<package-name>/package.json
+  pkgs/<first-letter>/<package-name>.json
 
 Arguments:
   packages.json  Input package manifest. Default: packages.json
@@ -92,9 +92,9 @@ while IFS= read -r package_json; do
     exit 1
   fi
 
-  package_dir="$tmp_root/$shard/$package_name"
+  package_dir="$tmp_root/$shard"
   mkdir -p "$package_dir"
-  jq . <<<"$package_json" > "$package_dir/package.json"
+  jq . <<<"$package_json" > "$package_dir/$package_name.json"
   count=$((count + 1))
 done < <(jq -c '.[]' "$input_json")
 

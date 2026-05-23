@@ -1,17 +1,27 @@
 import std/algorithm
 import std/json
 import std/os
+import std/osproc
 import std/parseopt
+import std/streams
 import std/strutils
 
 const Usage = """
-Usage: combine_packages [pkgs-dir] [packages.json]
+Usage:
+  combine_packages [pkgs-dir] [packages.json]
+  combine_packages prepare-old [packages.json] [packages_old.json]
 
-Combine sharded package folders back into a single packages.json array.
+Commands:
+  combine        Combine sharded package files into packages.json. This is the default.
+  prepare-old    Fetch the PR merge base version of packages.json and save it as packages_old.json.
 
-Arguments:
+Combine arguments:
   pkgs-dir       Input shard directory. Default: pkgs
   packages.json  Output manifest path. Default: packages.json
+
+Prepare-old arguments:
+  packages.json      Current manifest path. Default: packages.json
+  packages_old.json  Merge-base manifest output path. Default: packages_old.json
 """
 
 proc cleanupWhitespace(s: string): string =
@@ -54,6 +64,32 @@ proc die(message: string) {.noreturn.} =
   stderr.writeLine("error: " & message)
   quit(1)
 
+proc replaceFile(sourcePath, destinationPath: string) =
+  if fileExists(destinationPath):
+    removeFile(destinationPath)
+  moveFile(sourcePath, destinationPath)
+
+proc runCommand(exe: string, args: openArray[string]): string =
+  var process = startProcess(
+    exe,
+    args = @args,
+    options = {poUsePath, poStdErrToStdOut}
+  )
+  let output = process.outputStream.readAll()
+  let exitCode = waitForExit(process)
+  close(process)
+
+  if exitCode != 0:
+    let rendered = @[exe] & @args
+    die("command failed: " & rendered.join(" ") & "\n" & output.strip())
+
+  result = output.strip()
+
+proc requireEnv(name: string): string =
+  result = getEnv(name)
+  if result.len == 0:
+    die("missing required environment variable: " & name)
+
 proc firstShardLetter(name: string): char =
   if name.len == 0:
     die("package metadata missing name")
@@ -61,12 +97,55 @@ proc firstShardLetter(name: string): char =
   if result notin {'a'..'z'}:
     die("package name must start with an ASCII letter for alphabetical sharding: " & name)
 
+proc requireStringField(node: JsonNode, fieldName, pathForErrors: string): string =
+  if not node.hasKey(fieldName) or node[fieldName].kind != JString or node[fieldName].getStr() == "":
+    die("package metadata field '" & fieldName & "' must be a non-empty string: " & pathForErrors)
+  result = node[fieldName].getStr()
+
+proc optionalStringField(node: JsonNode, fieldName, pathForErrors: string) =
+  if node.hasKey(fieldName) and node[fieldName].kind != JString:
+    die("package metadata field '" & fieldName & "' must be a string: " & pathForErrors)
+
 proc packageName(node: JsonNode, pathForErrors: string): string =
   if node.kind != JObject:
     die("package metadata is not a JSON object: " & pathForErrors)
-  if not node.hasKey("name") or node["name"].kind != JString or node["name"].getStr() == "":
-    die("package metadata missing name: " & pathForErrors)
-  result = node["name"].getStr()
+  result = requireStringField(node, "name", pathForErrors)
+
+proc validateTags(node: JsonNode, pathForErrors: string) =
+  if not node.hasKey("tags") or node["tags"].kind != JArray:
+    die("package metadata field 'tags' must be an array: " & pathForErrors)
+  if node["tags"].len == 0:
+    die("package metadata field 'tags' must not be empty: " & pathForErrors)
+  for tag in node["tags"].items:
+    if tag.kind != JString or tag.getStr() == "":
+      die("package metadata tags must be non-empty strings: " & pathForErrors)
+
+proc validatePackageMetadata(node: JsonNode, pathForErrors: string) =
+  let name = packageName(node, pathForErrors)
+  discard firstShardLetter(name)
+
+  let hasAlias = node.hasKey("alias")
+  if hasAlias:
+    discard requireStringField(node, "alias", pathForErrors)
+    optionalStringField(node, "url", pathForErrors)
+    optionalStringField(node, "method", pathForErrors)
+    optionalStringField(node, "description", pathForErrors)
+    optionalStringField(node, "license", pathForErrors)
+    optionalStringField(node, "web", pathForErrors)
+    optionalStringField(node, "doc", pathForErrors)
+    if node.hasKey("tags") and node["tags"].kind != JArray:
+      die("package metadata field 'tags' must be an array: " & pathForErrors)
+    return
+
+  discard requireStringField(node, "url", pathForErrors)
+  let packageMethod = requireStringField(node, "method", pathForErrors)
+  if packageMethod notin ["git", "hg"]:
+    die("package metadata field 'method' must be 'git' or 'hg': " & pathForErrors)
+  validateTags(node, pathForErrors)
+  discard requireStringField(node, "description", pathForErrors)
+  discard requireStringField(node, "license", pathForErrors)
+  optionalStringField(node, "web", pathForErrors)
+  optionalStringField(node, "doc", pathForErrors)
 
 proc comparePackages(a, b: JsonNode): int =
   let aName = packageName(a, "<in-memory>").toLowerAscii()
@@ -77,7 +156,7 @@ proc comparePackages(a, b: JsonNode): int =
 
 proc collectPackageFiles(inputRoot: string): seq[string] =
   for path in walkDirRec(inputRoot):
-    if path.extractFilename() == "package.json":
+    if path.toLowerAscii().endsWith(".json"):
       result.add(path)
 
 proc combinePackages(inputRoot, outputPath: string) =
@@ -88,19 +167,21 @@ proc combinePackages(inputRoot, outputPath: string) =
   for metadataPath in collectPackageFiles(inputRoot):
     let relative = relativePath(metadataPath, inputRoot).replace('\\', '/')
     let parts = relative.split('/')
-    if parts.len != 3:
+    if parts.len != 2:
       die("unexpected shard path layout: " & metadataPath)
 
     let shardFromPath = parts[0]
-    let packageDirFromPath = parts[1]
-    if parts[2] != "package.json":
+    let filenameFromPath = parts[1]
+    if not filenameFromPath.toLowerAscii().endsWith(".json"):
       die("unexpected shard filename: " & metadataPath)
 
     let pkg = parseFile(metadataPath)
+    validatePackageMetadata(pkg, metadataPath)
     let name = packageName(pkg, metadataPath)
     let expectedShard = $firstShardLetter(name)
+    let expectedFilename = name & ".json"
 
-    if packageDirFromPath != name:
+    if filenameFromPath != expectedFilename:
       die("package path does not match .name for " & metadataPath)
     if shardFromPath != expectedShard:
       die("shard path does not match first letter for " & metadataPath)
@@ -115,8 +196,31 @@ proc combinePackages(inputRoot, outputPath: string) =
   let outputJson = %packages
   let tmpPath = outputPath & ".tmp"
   writeFile(tmpPath, outputJson.pretty.cleanupWhitespace)
-  moveFile(tmpPath, outputPath)
+  replaceFile(tmpPath, outputPath)
   echo "Wrote ", packages.len, " packages into ", outputPath
+
+proc prepareOldPackages(currentManifest, oldManifest: string) =
+  if not fileExists(currentManifest):
+    die("manifest file not found: " & currentManifest)
+
+  let repository = requireEnv("GITHUB_REPOSITORY")
+  let baseRef = requireEnv("GITHUB_BASE_REF")
+  let targetRepository = "https://github.com/" & repository
+  let mergeBranch = "merge-branch"
+  let baseBranch = "base"
+  let backupPath = currentManifest & ".bak"
+
+  copyFile(currentManifest, backupPath)
+  try:
+    discard runCommand("git", ["branch", "--force", mergeBranch, "HEAD"])
+    discard runCommand("git", ["fetch", targetRepository, baseRef & ":" & baseBranch])
+    let mergeBase = runCommand("git", ["merge-base", mergeBranch, baseBranch])
+    echo "Comparing against ", currentManifest, " at ", mergeBase
+    discard runCommand("git", ["checkout", mergeBase, "--", currentManifest])
+    replaceFile(currentManifest, oldManifest)
+  finally:
+    if fileExists(backupPath):
+      replaceFile(backupPath, currentManifest)
 
 proc cliMain(): int =
   var parser = initOptParser(commandLineParams())
@@ -137,6 +241,17 @@ proc cliMain(): int =
         return 1
     of cmdArgument:
       positional.add(parser.key)
+
+  if positional.len > 0 and positional[0] == "prepare-old":
+    if positional.len > 3:
+      stderr.writeLine("error: too many arguments for prepare-old")
+      stderr.write(Usage)
+      return 1
+
+    let currentManifest = if positional.len >= 2: positional[1] else: "packages.json"
+    let oldManifest = if positional.len >= 3: positional[2] else: "packages_old.json"
+    prepareOldPackages(currentManifest, oldManifest)
+    return 0
 
   if positional.len > 2:
     stderr.writeLine("error: too many arguments")

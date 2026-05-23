@@ -11,7 +11,7 @@ jobs:
       - uses: iffy/install-nim@v5.1.1
         with:
           version: stable
-      - run: ./getmergebase.sh
+      - run: nim r -d:ssl -d:release combine_packages.nim prepare-old
       - run: nim r -d:ssl -d:release package_scanner.nim packages.json --old=packages_old.json --check-urls
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

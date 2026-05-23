@@ -91,12 +91,27 @@ For example:
 
 ## Sharded package metadata
 
-This repo now splits package metadata into into per-package files under `pkgs/<first-letter>/<package-name>/package.json`.
+This repo now splits package metadata into per-package files under `pkgs/<first-letter>/<package-name>.json`.
+
+Split `packages.json` into shard files:
+
+```sh
+./split_packages.sh --force
+```
 
 Build `packages.json` from those shard folders:
 
 ```sh
 nim r combine_packages.nim
+```
+
+The combine step also validates each shard's JSON metadata shape before writing
+the merged manifest.
+
+In CI, the same Nim tool also prepares `packages_old.json` from the PR merge base:
+
+```sh
+nim r -d:ssl combine_packages.nim prepare-old
 ```
 
 # License
