@@ -96,13 +96,13 @@ This repo now splits package metadata into per-package files under `pkgs/<first-
 Split `packages.json` into shard files:
 
 ```sh
-./split_packages.sh --force
+nim r package_index.nim split packages.json pkgs
 ```
 
 Build `packages.json` from those shard folders:
 
 ```sh
-nim r combine_packages.nim
+nim r package_index.nim
 ```
 
 The combine step also validates each shard's JSON metadata shape before writing
@@ -113,6 +113,9 @@ In CI, PR validation is handled by the scanner directly from the git merge base:
 ```sh
 nim r -d:ssl package_scanner.nim packages.json --check-pr --check-urls
 ```
+
+On push, CI also keeps `packages.json` and `pkgs/` in sync by generating the
+missing counterpart when only one side changed.
 
 # License
 
