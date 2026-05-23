@@ -12,9 +12,8 @@ suite "package_scanner":
     let temp = tempDir("nim-packages-scanner-pr")
     let originDir = temp / "origin"
     let workDir = temp / "work"
-    let homeDir = temp / "home"
+    let gitConfigPath = temp / "gitconfig"
     createDir(originDir)
-    createDir(homeDir)
 
     git(["init", "-q", "--bare", originDir], temp)
     runOk("git clone -q " & quoteShell(originDir) & " " & quoteShell(workDir), temp)
@@ -36,20 +35,21 @@ suite "package_scanner":
     git(["commit", "-q", "-m", "mix new and modified"], workDir)
 
     let originUrl = "file://" & originDir
-    runOk("git config --global url." & quoteShell(originUrl) &
-      ".insteadOf https://github.com/test/packages", workDir, [
-        ("HOME", homeDir)
-      ])
+    writeFile(
+      gitConfigPath,
+      "[url \"" & originUrl & "\"]\n" &
+      "    insteadOf = https://github.com/test/packages\n"
+    )
 
     let output = runFails(
       "nim r -d:ssl " & quoteShell(root / "package_scanner.nim") &
       " packages.json --check-pr",
       workDir,
       [
-        ("HOME", homeDir),
+        ("GIT_CONFIG_GLOBAL", gitConfigPath),
         ("GITHUB_REPOSITORY", "test/packages"),
         ("GITHUB_BASE_REF", "master")
       ]
     )
 
-    check output.contains("may not also modify or remove existing packages")
+    doAssert output.contains("may not also modify or remove existing packages"), output
