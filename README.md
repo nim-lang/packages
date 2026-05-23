@@ -89,6 +89,16 @@ For example:
 ...
 ```
 
+## Sharded package metadata
+
+This repo now splits package metadata into into per-package files under `pkgs/<first-letter>/<package-name>/package.json`.
+
+Build `packages.json` from those shard folders:
+
+```sh
+nim r combine_packages.nim
+```
+
 # License
 
 * `package_scanner.nim` - [GPLv3](LICENSE-GPLv3.txt)
