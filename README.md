@@ -91,7 +91,25 @@ For example:
 
 ## Sharded package metadata
 
-This repo now splits package metadata into per-package files under `pkgs/<first-letter>/<package-name>.json`.
+This repo now supports per-package metadata files under:
+
+```text
+pkgs/<first-letter>/<package-name>.json
+```
+
+For example:
+
+```text
+pkgs/a/AccurateSums.json
+pkgs/n/nimble.json
+```
+
+The long-term direction is for this sharded `pkgs/` layout to become the
+canonical source of package metadata.
+
+For now, this repository keeps both `packages.json` and `pkgs/` in sync to
+support existing tooling and workflows that still update `packages.json`
+directly, including current `nimble publish` behavior.
 
 Split `packages.json` into shard files:
 
