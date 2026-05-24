@@ -9,7 +9,8 @@ import std/tables
 
 const Usage = """
 Usage:
-  package_index [pkgs-dir] [packages.json]
+  package_index combine [pkgs-dir] [packages.json]
+  package_index rebuild [pkgs-dir] [packages.json]
   package_index split [packages.json] [pkgs-dir]
   package_index sync <base-rev> <head-rev> [packages.json] [pkgs-dir]
   package_index add <package.json> [pkgs-dir] [packages.json]
@@ -17,14 +18,15 @@ Usage:
   package_index remove <package-name> [pkgs-dir] [packages.json]
 
 Commands:
-  combine  Combine sharded package files back into packages.json. This is the default.
+  combine  Combine sharded package files back into packages.json.
+  rebuild  Regenerate packages.json from pkgs/.
   split    Split packages.json into pkgs/<letter>/<name>/package.json shard files.
   sync     Synchronize packages.json and pkgs/ for a pushed git revision range.
   add      Add one package metadata file into pkgs/ and regenerate packages.json.
   create   Prompt for package metadata, write pkgs/, and regenerate packages.json.
   remove   Remove one package from pkgs/ and regenerate packages.json.
 
-Combine arguments:
+Combine/Rebuild arguments:
   pkgs-dir       Input shard directory. Default: pkgs
   packages.json  Output manifest path. Default: packages.json
 
@@ -417,6 +419,21 @@ proc packageTable(packages: seq[JsonNode], pathForErrors: string): Table[string,
       die("duplicate package name: " & name & " in " & pathForErrors)
     result[name] = pkg.pretty.cleanupWhitespace
 
+proc addedPackageNames(sourcePackages, destinationPackages: seq[JsonNode], sourcePath, destinationPath: string): seq[string] =
+  let sourceTable = packageTable(sourcePackages, sourcePath)
+  let destinationTable = packageTable(destinationPackages, destinationPath)
+  for name in sourceTable.keys:
+    if not destinationTable.hasKey(name):
+      result.add(name)
+  result.sort(system.cmp[string])
+
+proc logAddedPackages(sourceLabel, destinationLabel: string, packageNames: seq[string]) =
+  if packageNames.len == 0:
+    echo "Sync: no new packages added from ", sourceLabel, " to ", destinationLabel
+    return
+  for name in packageNames:
+    echo "Sync: add ", name, " from ", sourceLabel, " to ", destinationLabel
+
 proc canSyncDirection(sourcePackages, destinationPackages: seq[JsonNode], sourcePath, destinationPath: string): bool =
   let sourceTable = packageTable(sourcePackages, sourcePath)
   let destinationTable = packageTable(destinationPackages, destinationPath)
@@ -442,13 +459,19 @@ proc syncPackages(baseRevArg, headRev, manifestPath, shardRoot: string) =
 
   if packagesChanged and not pkgsChanged:
     var packages = loadManifestPackages(manifestPath)
+    let shardedPackages = if dirExists(shardRoot): loadShardedPackages(shardRoot) else: @[]
     canonicalizePackages(packages)
+    let addedNames = addedPackageNames(packages, shardedPackages, manifestPath, shardRoot)
     writeSplitPackages(packages, shardRoot)
+    logAddedPackages(manifestPath, shardRoot, addedNames)
     syncMode = smPackagesToPkgs
   elif not packagesChanged and pkgsChanged:
+    let manifestPackages = if fileExists(manifestPath): loadManifestPackages(manifestPath) else: @[]
     var packages = loadShardedPackages(shardRoot)
     canonicalizePackages(packages)
+    let addedNames = addedPackageNames(packages, manifestPackages, shardRoot, manifestPath)
     writeCombinedPackages(packages, manifestPath)
+    logAddedPackages(shardRoot, manifestPath, addedNames)
     syncMode = smPkgsToPackages
   else:
     if not fileExists(manifestPath):
@@ -464,10 +487,14 @@ proc syncPackages(baseRevArg, headRev, manifestPath, shardRoot: string) =
       if packagesChanged and pkgsChanged:
         syncMode = smBothConsistent
     elif canSyncDirection(manifestPackages, shardedPackages, manifestPath, shardRoot):
+      let addedNames = addedPackageNames(manifestPackages, shardedPackages, manifestPath, shardRoot)
       writeSplitPackages(manifestPackages, shardRoot)
+      logAddedPackages(manifestPath, shardRoot, addedNames)
       syncMode = smPackagesToPkgs
     elif canSyncDirection(shardedPackages, manifestPackages, shardRoot, manifestPath):
+      let addedNames = addedPackageNames(shardedPackages, manifestPackages, shardRoot, manifestPath)
       writeCombinedPackages(shardedPackages, manifestPath)
+      logAddedPackages(shardRoot, manifestPath, addedNames)
       syncMode = smPkgsToPackages
     else:
       die(manifestPath & " and " & shardRoot & " disagree; update only one source or make both consistent")
@@ -553,15 +580,30 @@ proc cliMain(): int =
     removePackage(packageNameToRemove, shardRoot, manifestPath)
     return 0
 
-  if positional.len > 2:
-    stderr.writeLine("error: too many arguments")
-    stderr.write(Usage)
-    return 1
+  if positional.len == 0:
+    stdout.write(Usage)
+    return 0
 
-  let inputRoot = if positional.len >= 1: positional[0] else: "pkgs"
-  let outputPath = if positional.len >= 2: positional[1] else: "packages.json"
-  combinePackages(inputRoot, outputPath)
-  return 0
+  if positional[0] in ["rebuild", "combine"]:
+    if positional.len > 3:
+      stderr.writeLine("error: " & positional[0] & " accepts at most 2 arguments")
+      stderr.write(Usage)
+      return 1
+
+    let inputRoot = if positional.len >= 2: positional[1] else: "pkgs"
+    let outputPath = if positional.len >= 3: positional[2] else: "packages.json"
+    combinePackages(inputRoot, outputPath)
+    return 0
+
+  if positional.len <= 2:
+    let inputRoot = positional[0]
+    let outputPath = if positional.len >= 2: positional[1] else: "packages.json"
+    combinePackages(inputRoot, outputPath)
+    return 0
+
+  stderr.writeLine("error: unknown command: " & positional[0])
+  stderr.write(Usage)
+  return 1
 
 when isMainModule:
   quit(cliMain())

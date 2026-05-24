@@ -1,7 +1,8 @@
 --define:ssl
 
-task build, "Build package_index.nim":
+task build, "Build package_index.nim and package_scanner.nim":
   exec "nim c package_index.nim"
+  exec "nim c package_scanner.nim"
 
 task test, "Run test suite":
   exec "nim c -r tests/tpackage_index.nim"

@@ -1,5 +1,6 @@
 import std/json
 import std/os
+import std/strutils
 import std/unittest
 
 import helpers
@@ -33,6 +34,34 @@ suite "package_index":
     check combined[0]["name"].getStr() == "Alpha"
     check combined[1]["name"].getStr() == "Beta"
 
+
+  test "rebuild regenerates packages.json explicitly":
+    let dir = tempDir("nim-packages-index-rebuild")
+    let manifestPath = dir / "packages.json"
+
+    writeJsonFile(manifestPath, %*[
+      packageNode("Beta"),
+      packageNode("Alpha")
+    ])
+    runOk("nim r -d:ssl " & quoteShell(root / "package_index.nim") &
+      " split packages.json pkgs", dir)
+    removeFile(manifestPath)
+
+    runOk("nim r -d:ssl " & quoteShell(root / "package_index.nim") &
+      " rebuild pkgs packages.json", dir)
+
+    let rebuilt = parseFile(manifestPath)
+    check rebuilt.len == 2
+    check rebuilt[0]["name"].getStr() == "Alpha"
+    check rebuilt[1]["name"].getStr() == "Beta"
+
+  test "no args prints usage":
+    let dir = tempDir("nim-packages-index-help")
+    let output = commandOutput("nim r -d:ssl " & quoteShell(root / "package_index.nim"), dir)
+    check output.contains("Usage:")
+    check output.contains("package_index combine [pkgs-dir] [packages.json]")
+    check output.contains("package_index rebuild [pkgs-dir] [packages.json]")
+
   test "sync packages.json to pkgs":
     let dir = tempDir("nim-packages-index-sync")
     let manifestPath = dir / "packages.json"
@@ -54,11 +83,12 @@ suite "package_index":
     git(["commit", "-q", "-m", "add gamma"], dir)
     let headRev = commandOutput("git rev-parse HEAD", dir)
 
-    runOk("nim r -d:ssl " & quoteShell(root / "package_index.nim") &
+    let output = commandOutput("nim r -d:ssl " & quoteShell(root / "package_index.nim") &
       " sync " & baseRev & " " & headRev & " packages.json pkgs", dir)
 
     check fileExists(dir / "pkgs" / "a" / "Alpha" / "package.json")
     check fileExists(dir / "pkgs" / "g" / "Gamma" / "package.json")
+    check output.contains("Sync: add Gamma from packages.json to pkgs")
 
   test "sync repairs inherited packages.json-only drift":
     let dir = tempDir("nim-packages-index-inherited-drift")
@@ -87,10 +117,11 @@ suite "package_index":
     git(["commit", "-q", "-m", "tooling only"], dir)
     let headRev = commandOutput("git rev-parse HEAD", dir)
 
-    runOk("nim r -d:ssl " & quoteShell(root / "package_index.nim") &
+    let output = commandOutput("nim r -d:ssl " & quoteShell(root / "package_index.nim") &
       " sync " & inconsistentRev & " " & headRev & " packages.json pkgs", dir)
 
     check fileExists(dir / "pkgs" / "f" / "Foo" / "package.json")
+    check output.contains("Sync: add Foo from packages.json to pkgs")
 
   test "add writes pkgs first and regenerates packages.json":
     let dir = tempDir("nim-packages-index-add")
