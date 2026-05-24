@@ -55,6 +55,37 @@ suite "package_index":
     check rebuilt[0]["name"].getStr() == "Alpha"
     check rebuilt[1]["name"].getStr() == "Beta"
 
+  test "combine ignores non-package json files under pkgs":
+    let dir = tempDir("nim-packages-index-ignore-non-package-json")
+    let combinedPath = dir / "combined.json"
+
+    writeJsonFile(dir / "pkgs" / "a" / "Alpha" / "package.json", packageNode("Alpha"))
+    writeJsonFile(dir / "pkgs" / "a" / "Alpha" / "extra.json", %*{"ignored": true})
+    writeJsonFile(dir / "pkgs" / "zeta.json", packageNode("Zeta"))
+
+    runOk("nim r -d:ssl " & quoteShell(root / "package_index.nim") &
+      " pkgs combined.json", dir)
+
+    let combined = parseFile(combinedPath)
+    check combined.len == 1
+    check combined[0]["name"].getStr() == "Alpha"
+
+  test "combine only scans sharded package layout":
+    let dir = tempDir("nim-packages-index-sharded-layout-only")
+    let combinedPath = dir / "combined.json"
+
+    writeJsonFile(dir / "pkgs" / "a" / "Alpha" / "package.json", packageNode("Alpha"))
+    writeJsonFile(dir / "pkgs" / "misc" / "Beta" / "package.json", packageNode("Beta"))
+    writeJsonFile(dir / "pkgs" / "b" / "package.json", packageNode("Beta"))
+    writeJsonFile(dir / "pkgs" / "c" / "Gamma" / "nested" / "package.json", packageNode("Gamma"))
+
+    runOk("nim r -d:ssl " & quoteShell(root / "package_index.nim") &
+      " pkgs combined.json", dir)
+
+    let combined = parseFile(combinedPath)
+    check combined.len == 1
+    check combined[0]["name"].getStr() == "Alpha"
+
   test "no args prints usage":
     let dir = tempDir("nim-packages-index-help")
     let output = commandOutput("nim r -d:ssl " & quoteShell(root / "package_index.nim"), dir)

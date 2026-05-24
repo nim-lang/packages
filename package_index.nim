@@ -220,9 +220,16 @@ proc canonicalizePackages(packages: var seq[JsonNode]) =
   packages.sort(comparePackages)
 
 proc collectPackageFiles(inputRoot: string): seq[string] =
-  for path in walkDirRec(inputRoot):
-    if path.toLowerAscii().endsWith(".json"):
-      result.add(path)
+  for shard in 'a'..'z':
+    let shardDir = inputRoot / $shard
+    if not dirExists(shardDir):
+      continue
+    for kind, packageDir in walkDir(shardDir):
+      if kind notin {pcDir, pcLinkToDir}:
+        continue
+      let metadataPath = packageDir / "package.json"
+      if fileExists(metadataPath):
+        result.add(metadataPath)
 
 proc metadataRelativePath(inputRoot, metadataPath: string): string =
   let normalizedRoot = normalizedPath(inputRoot).replace('\\', '/').strip(chars = {'/'})
