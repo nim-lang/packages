@@ -59,3 +59,35 @@ suite "package_index":
 
     check fileExists(dir / "pkgs" / "a" / "Alpha" / "package.json")
     check fileExists(dir / "pkgs" / "g" / "Gamma" / "package.json")
+
+  test "sync repairs inherited packages.json-only drift":
+    let dir = tempDir("nim-packages-index-inherited-drift")
+    let manifestPath = dir / "packages.json"
+
+    git(["init", "-q"], dir)
+    git(["config", "user.name", "test"], dir)
+    git(["config", "user.email", "test@example.com"], dir)
+
+    writeJsonFile(manifestPath, %*[packageNode("Alpha")])
+    runOk("nim r -d:ssl " & quoteShell(root / "package_index.nim") &
+      " split packages.json pkgs", dir)
+    git(["add", "packages.json", "pkgs"], dir)
+    git(["commit", "-q", "-m", "base"], dir)
+
+    writeJsonFile(manifestPath, %*[
+      packageNode("Alpha"),
+      packageNode("Foo")
+    ])
+    git(["add", "packages.json"], dir)
+    git(["commit", "-q", "-m", "manifest only"], dir)
+    let inconsistentRev = commandOutput("git rev-parse HEAD", dir)
+
+    writeFile(dir / "README.md", "trigger push sync\n")
+    git(["add", "README.md"], dir)
+    git(["commit", "-q", "-m", "tooling only"], dir)
+    let headRev = commandOutput("git rev-parse HEAD", dir)
+
+    runOk("nim r -d:ssl " & quoteShell(root / "package_index.nim") &
+      " sync " & inconsistentRev & " " & headRev & " packages.json pkgs", dir)
+
+    check fileExists(dir / "pkgs" / "f" / "Foo" / "package.json")
