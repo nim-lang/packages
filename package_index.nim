@@ -12,7 +12,7 @@ Usage:
   package_index combine [pkgs-dir] [packages.json]
   package_index rebuild [pkgs-dir] [packages.json]
   package_index split [packages.json] [pkgs-dir]
-  package_index sync-git <base-rev> <head-rev> [packages.json] [pkgs-dir]
+  package_index sync-git [<base-rev> <head-rev>] [packages.json] [pkgs-dir]
   package_index add <package.json> [pkgs-dir] [packages.json]
   package_index create [pkgs-dir] [packages.json]
   package_index remove <package-name> [pkgs-dir] [packages.json]
@@ -35,8 +35,8 @@ Split arguments:
   pkgs-dir       Output shard directory. Default: pkgs
 
 Sync-git arguments:
-  base-rev       Previous revision for the push
-  head-rev       New revision for the push
+  base-rev       Previous revision for the comparison. Default: master
+  head-rev       New revision for the comparison. Default: HEAD
   packages.json  Manifest path. Default: packages.json
   pkgs-dir       Shard directory. Default: pkgs
 
@@ -522,15 +522,22 @@ proc cliMain(): int =
       positional.add(parser.key)
 
   if positional.len > 0 and positional[0] == "sync-git":
-    if positional.len < 3 or positional.len > 5:
-      stderr.writeLine("error: sync-git requires 2 to 4 arguments")
+    if positional.len notin 1..5 or positional.len == 2 or positional.len == 4:
+      stderr.writeLine("error: sync-git accepts either 0 or 2 revisions, plus optional packages.json and pkgs arguments")
       stderr.write(Usage)
       return 1
 
-    let baseRev = positional[1]
-    let headRev = positional[2]
-    let manifestPath = if positional.len >= 4: positional[3] else: "packages.json"
-    let shardRoot = if positional.len >= 5: positional[4] else: "pkgs"
+    let useDefaultRevs = positional.len == 1 or positional.len == 3
+    let baseRev = if useDefaultRevs: "master" else: positional[1]
+    let headRev = if useDefaultRevs: "HEAD" else: positional[2]
+    let manifestPath = if useDefaultRevs:
+        (if positional.len >= 2: positional[1] else: "packages.json")
+      else:
+        (if positional.len >= 4: positional[3] else: "packages.json")
+    let shardRoot = if useDefaultRevs:
+        (if positional.len >= 3: positional[2] else: "pkgs")
+      else:
+        (if positional.len >= 5: positional[4] else: "pkgs")
     syncPackages(baseRev, headRev, manifestPath, shardRoot)
     return 0
 

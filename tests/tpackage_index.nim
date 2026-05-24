@@ -62,6 +62,33 @@ suite "package_index":
     check output.contains("package_index combine [pkgs-dir] [packages.json]")
     check output.contains("package_index rebuild [pkgs-dir] [packages.json]")
 
+
+  test "sync-git defaults to master versus HEAD":
+    let dir = tempDir("nim-packages-index-sync-default-revs")
+    let manifestPath = dir / "packages.json"
+
+    git(["init", "-q", "-b", "master"], dir)
+    git(["config", "user.name", "test"], dir)
+    git(["config", "user.email", "test@example.com"], dir)
+
+    writeJsonFile(manifestPath, %*[packageNode("Alpha")])
+    runOk("nim r -d:ssl " & quoteShell(root / "package_index.nim") &
+      " split packages.json pkgs", dir)
+    git(["add", "packages.json", "pkgs"], dir)
+    git(["commit", "-q", "-m", "base"], dir)
+
+    git(["checkout", "-q", "-b", "feature"], dir)
+    writeJsonFile(manifestPath, %*[
+      packageNode("Alpha"),
+      packageNode("Gamma")
+    ])
+
+    let output = commandOutput("nim r -d:ssl " & quoteShell(root / "package_index.nim") &
+      " sync-git packages.json pkgs", dir)
+
+    check fileExists(dir / "pkgs" / "g" / "Gamma" / "package.json")
+    check output.contains("Sync: add Gamma from packages.json to pkgs")
+
   test "sync packages.json to pkgs":
     let dir = tempDir("nim-packages-index-sync")
     let manifestPath = dir / "packages.json"
