@@ -12,11 +12,17 @@ Usage:
   package_index [pkgs-dir] [packages.json]
   package_index split [packages.json] [pkgs-dir]
   package_index sync <base-rev> <head-rev> [packages.json] [pkgs-dir]
+  package_index add <package.json> [pkgs-dir] [packages.json]
+  package_index create [pkgs-dir] [packages.json]
+  package_index remove <package-name> [pkgs-dir] [packages.json]
 
 Commands:
   combine  Combine sharded package files back into packages.json. This is the default.
   split    Split packages.json into pkgs/<letter>/<name>/package.json shard files.
   sync     Synchronize packages.json and pkgs/ for a pushed git revision range.
+  add      Add one package metadata file into pkgs/ and regenerate packages.json.
+  create   Prompt for package metadata, write pkgs/, and regenerate packages.json.
+  remove   Remove one package from pkgs/ and regenerate packages.json.
 
 Combine arguments:
   pkgs-dir       Input shard directory. Default: pkgs
@@ -31,6 +37,20 @@ Sync arguments:
   head-rev       New revision for the push
   packages.json  Manifest path. Default: packages.json
   pkgs-dir       Shard directory. Default: pkgs
+
+Add arguments:
+  package.json   Input package metadata JSON file
+  pkgs-dir       Shard directory to update. Default: pkgs
+  packages.json  Manifest path to regenerate. Default: packages.json
+
+Create arguments:
+  pkgs-dir       Shard directory to update. Default: pkgs
+  packages.json  Manifest path to regenerate. Default: packages.json
+
+Remove arguments:
+  package-name   Package name to remove
+  pkgs-dir       Shard directory to update. Default: pkgs
+  packages.json  Manifest path to regenerate. Default: packages.json
 """
 
 type
@@ -263,6 +283,108 @@ proc writeSplitPackages(packages: seq[JsonNode], outputRoot: string) =
 
   replaceDir(tempRoot, outputRoot)
 
+proc packageShardPath(pkg: JsonNode, pathForErrors, outputRoot: string): string =
+  outputRoot / packageShardRelativePath(pkg, pathForErrors)
+
+proc removeDirIfEmpty(path: string) =
+  if not dirExists(path):
+    return
+  for kind, _ in walkDir(path):
+    if kind != pcDir and kind != pcFile and kind != pcLinkToDir and kind != pcLinkToFile:
+      continue
+    return
+  removeDir(path)
+
+proc rebuildManifestFromShards(shardRoot, manifestPath: string) =
+  var packages = loadShardedPackages(shardRoot)
+  canonicalizePackages(packages)
+  writeCombinedPackages(packages, manifestPath)
+
+proc addPackageNode(pkg: JsonNode, pathForErrors, shardRoot, manifestPath: string) =
+  validatePackageMetadata(pkg, pathForErrors)
+  let outputPath = packageShardPath(pkg, pathForErrors, shardRoot)
+  if fileExists(outputPath):
+    die("package already exists: " & packageName(pkg, pathForErrors))
+  createDir(parentDir(outputPath))
+  writeFile(outputPath, pkg.pretty.cleanupWhitespace)
+  rebuildManifestFromShards(shardRoot, manifestPath)
+  echo "Added ", packageName(pkg, pathForErrors), " to ", shardRoot, " and regenerated ", manifestPath
+
+proc addPackage(metadataPath, shardRoot, manifestPath: string) =
+  if not fileExists(metadataPath):
+    die("package metadata file not found: " & metadataPath)
+  let pkg = parseFile(metadataPath)
+  addPackageNode(pkg, metadataPath, shardRoot, manifestPath)
+
+proc prompt(message: string): string =
+  stdout.write(message)
+  stdout.flushFile()
+  if stdin.endOfFile:
+    die("unexpected end of input")
+  result = stdin.readLine().strip()
+
+proc promptRequired(message, fieldName: string): string =
+  result = prompt(message)
+  if result.len == 0:
+    die(fieldName & " must not be empty")
+
+proc promptYesNo(message: string): bool =
+  let answer = prompt(message).toLowerAscii()
+  if answer.len == 0 or answer in ["n", "no"]:
+    return false
+  if answer in ["y", "yes"]:
+    return true
+  die("please answer y or n")
+
+proc parseTagsInput(value: string): JsonNode =
+  result = newJArray()
+  for part in value.split(','):
+    let tag = part.strip()
+    if tag.len > 0:
+      result.add(%tag)
+
+proc createPackageMetadata(): JsonNode =
+  let isAlias = promptYesNo("Alias package? [y/N]: ")
+  let name = promptRequired("Package name: ", "package name")
+  result = newJObject()
+  result["name"] = %name
+
+  if isAlias:
+    result["alias"] = %promptRequired("Alias target name: ", "alias")
+    return
+
+  result["url"] = %promptRequired("Repository URL: ", "url")
+  result["method"] = %promptRequired("Method (git/hg): ", "method")
+  result["tags"] = parseTagsInput(promptRequired("Tags (comma-separated): ", "tags"))
+  result["description"] = %promptRequired("Description: ", "description")
+  result["license"] = %promptRequired("License: ", "license")
+
+  let web = prompt("Website URL (optional): ")
+  if web.len > 0:
+    result["web"] = %web
+
+  let doc = prompt("Documentation URL (optional): ")
+  if doc.len > 0:
+    result["doc"] = %doc
+
+proc createPackage(shardRoot, manifestPath: string) =
+  let pkg = createPackageMetadata()
+  addPackageNode(pkg, "<interactive>", shardRoot, manifestPath)
+
+proc removePackage(packageNameToRemove, shardRoot, manifestPath: string) =
+  if packageNameToRemove.len == 0:
+    die("package name must not be empty")
+  let shard = $firstShardLetter(packageNameToRemove)
+  let packageDir = shardRoot / shard / packageNameToRemove
+  let metadataPath = packageDir / "package.json"
+  if not fileExists(metadataPath):
+    die("package not found: " & packageNameToRemove)
+  removeFile(metadataPath)
+  removeDirIfEmpty(packageDir)
+  removeDirIfEmpty(parentDir(packageDir))
+  rebuildManifestFromShards(shardRoot, manifestPath)
+  echo "Removed ", packageNameToRemove, " from ", shardRoot, " and regenerated ", manifestPath
+
 proc combinePackages(inputRoot, outputPath: string) =
   var packages = loadShardedPackages(inputRoot)
   canonicalizePackages(packages)
@@ -394,6 +516,41 @@ proc cliMain(): int =
     let inputPath = if positional.len >= 2: positional[1] else: "packages.json"
     let outputRoot = if positional.len >= 3: positional[2] else: "pkgs"
     splitPackages(inputPath, outputRoot)
+    return 0
+
+  if positional.len > 0 and positional[0] == "add":
+    if positional.len < 2 or positional.len > 4:
+      stderr.writeLine("error: add requires 1 to 3 arguments")
+      stderr.write(Usage)
+      return 1
+
+    let metadataPath = positional[1]
+    let shardRoot = if positional.len >= 3: positional[2] else: "pkgs"
+    let manifestPath = if positional.len >= 4: positional[3] else: "packages.json"
+    addPackage(metadataPath, shardRoot, manifestPath)
+    return 0
+
+  if positional.len > 0 and positional[0] == "create":
+    if positional.len > 3:
+      stderr.writeLine("error: create accepts at most 2 arguments")
+      stderr.write(Usage)
+      return 1
+
+    let shardRoot = if positional.len >= 2: positional[1] else: "pkgs"
+    let manifestPath = if positional.len >= 3: positional[2] else: "packages.json"
+    createPackage(shardRoot, manifestPath)
+    return 0
+
+  if positional.len > 0 and positional[0] == "remove":
+    if positional.len < 2 or positional.len > 4:
+      stderr.writeLine("error: remove requires 1 to 3 arguments")
+      stderr.write(Usage)
+      return 1
+
+    let packageNameToRemove = positional[1]
+    let shardRoot = if positional.len >= 3: positional[2] else: "pkgs"
+    let manifestPath = if positional.len >= 4: positional[3] else: "packages.json"
+    removePackage(packageNameToRemove, shardRoot, manifestPath)
     return 0
 
   if positional.len > 2:

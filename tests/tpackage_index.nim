@@ -91,3 +91,79 @@ suite "package_index":
       " sync " & inconsistentRev & " " & headRev & " packages.json pkgs", dir)
 
     check fileExists(dir / "pkgs" / "f" / "Foo" / "package.json")
+
+  test "add writes pkgs first and regenerates packages.json":
+    let dir = tempDir("nim-packages-index-add")
+    let manifestPath = dir / "packages.json"
+    let shardRoot = dir / "pkgs"
+    let metadataPath = dir / "new-package.json"
+
+    writeJsonFile(manifestPath, %*[packageNode("Alpha")])
+    runOk("nim r -d:ssl " & quoteShell(root / "package_index.nim") &
+      " split packages.json pkgs", dir)
+
+    writeJsonFile(metadataPath, packageNode("Beta"))
+
+    runOk("nim r -d:ssl " & quoteShell(root / "package_index.nim") &
+      " add new-package.json pkgs packages.json", dir)
+
+    check fileExists(shardRoot / "b" / "Beta" / "package.json")
+    let manifest = parseFile(manifestPath)
+    check manifest.len == 2
+    check manifest[0]["name"].getStr() == "Alpha"
+    check manifest[1]["name"].getStr() == "Beta"
+
+  test "remove deletes from pkgs and regenerates packages.json":
+    let dir = tempDir("nim-packages-index-remove")
+    let manifestPath = dir / "packages.json"
+    let shardRoot = dir / "pkgs"
+
+    writeJsonFile(manifestPath, %*[
+      packageNode("Alpha"),
+      packageNode("Beta")
+    ])
+    runOk("nim r -d:ssl " & quoteShell(root / "package_index.nim") &
+      " split packages.json pkgs", dir)
+
+    runOk("nim r -d:ssl " & quoteShell(root / "package_index.nim") &
+      " remove Beta pkgs packages.json", dir)
+
+    check not fileExists(shardRoot / "b" / "Beta" / "package.json")
+    let manifest = parseFile(manifestPath)
+    check manifest.len == 1
+    check manifest[0]["name"].getStr() == "Alpha"
+
+  test "create prompts for metadata and regenerates packages.json":
+    let dir = tempDir("nim-packages-index-create")
+    let manifestPath = dir / "packages.json"
+    let shardRoot = dir / "pkgs"
+
+    writeJsonFile(manifestPath, %*[packageNode("Alpha")])
+    runOk("nim r -d:ssl " & quoteShell(root / "package_index.nim") &
+      " split packages.json pkgs", dir)
+
+    runOk("""
+cat <<'EOF' | nim r -d:ssl """ & quoteShell(root / "package_index.nim") & """ create pkgs packages.json
+n
+Beta
+https://example.com/beta
+git
+demo, cli
+Beta package
+MIT
+https://example.com/beta/site
+
+EOF
+""", dir)
+
+    check fileExists(shardRoot / "b" / "Beta" / "package.json")
+    let created = parseFile(shardRoot / "b" / "Beta" / "package.json")
+    check created["name"].getStr() == "Beta"
+    check created["tags"].len == 2
+    check created["web"].getStr() == "https://example.com/beta/site"
+    check not created.hasKey("doc")
+
+    let manifest = parseFile(manifestPath)
+    check manifest.len == 2
+    check manifest[0]["name"].getStr() == "Alpha"
+    check manifest[1]["name"].getStr() == "Beta"

@@ -117,6 +117,27 @@ Split `packages.json` into shard files:
 nim r package_index.nim split packages.json pkgs
 ```
 
+Add one package from an existing metadata JSON file:
+
+```sh
+nim r package_index.nim add path/to/package.json pkgs packages.json
+```
+
+Create one package interactively:
+
+```sh
+nim r package_index.nim create pkgs packages.json
+```
+
+This prompts for the package metadata fields, writes the new package into
+`pkgs/` first, and then regenerates `packages.json` from the sharded metadata.
+
+Remove one package:
+
+```sh
+nim r package_index.nim remove PackageName pkgs packages.json
+```
+
 Build `packages.json` from those shard folders:
 
 ```sh
