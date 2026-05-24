@@ -5,6 +5,7 @@ import std/osproc
 import std/parseopt
 import std/streams
 import std/strutils
+import std/tables
 
 const Usage = """
 Usage:
@@ -287,12 +288,26 @@ proc revisionsDiffer(baseRev, headRev, path: string): bool =
     return false
   result = not commandSucceeded("git", ["diff", "--quiet", baseRev, headRev, "--", path])
 
-proc packagesEqual(manifestPath, shardRoot: string): bool =
-  var manifestPackages = loadManifestPackages(manifestPath)
-  var shardedPackages = loadShardedPackages(shardRoot)
-  canonicalizePackages(manifestPackages)
-  canonicalizePackages(shardedPackages)
-  result = renderPackagesJson(manifestPackages) == renderPackagesJson(shardedPackages)
+proc packageTable(packages: seq[JsonNode], pathForErrors: string): Table[string, string] =
+  for index, pkg in packages:
+    let name = packageName(pkg, pathForErrors & "[" & $index & "]")
+    if result.hasKey(name):
+      die("duplicate package name: " & name & " in " & pathForErrors)
+    result[name] = pkg.pretty.cleanupWhitespace
+
+proc canSyncDirection(sourcePackages, destinationPackages: seq[JsonNode], sourcePath, destinationPath: string): bool =
+  let sourceTable = packageTable(sourcePackages, sourcePath)
+  let destinationTable = packageTable(destinationPackages, destinationPath)
+  if sourceTable.len < destinationTable.len:
+    return false
+
+  for name, destinationJson in destinationTable.pairs:
+    if not sourceTable.hasKey(name):
+      return false
+    if sourceTable[name] != destinationJson:
+      return false
+
+  result = true
 
 proc syncPackages(baseRevArg, headRev, manifestPath, shardRoot: string) =
   if not fileExists(manifestPath) and not dirExists(shardRoot):
@@ -318,10 +333,22 @@ proc syncPackages(baseRevArg, headRev, manifestPath, shardRoot: string) =
       die("manifest file not found: " & manifestPath)
     if not dirExists(shardRoot):
       die("shard directory not found: " & shardRoot)
-    if not packagesEqual(manifestPath, shardRoot):
+    var manifestPackages = loadManifestPackages(manifestPath)
+    var shardedPackages = loadShardedPackages(shardRoot)
+    canonicalizePackages(manifestPackages)
+    canonicalizePackages(shardedPackages)
+
+    if renderPackagesJson(manifestPackages) == renderPackagesJson(shardedPackages):
+      if packagesChanged and pkgsChanged:
+        syncMode = smBothConsistent
+    elif canSyncDirection(manifestPackages, shardedPackages, manifestPath, shardRoot):
+      writeSplitPackages(manifestPackages, shardRoot)
+      syncMode = smPackagesToPkgs
+    elif canSyncDirection(shardedPackages, manifestPackages, shardRoot, manifestPath):
+      writeCombinedPackages(shardedPackages, manifestPath)
+      syncMode = smPkgsToPackages
+    else:
       die(manifestPath & " and " & shardRoot & " disagree; update only one source or make both consistent")
-    if packagesChanged and pkgsChanged:
-      syncMode = smBothConsistent
 
   echo "Sync mode: ", $syncMode
 

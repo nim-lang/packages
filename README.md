@@ -133,13 +133,18 @@ nim test
 ```
 
 On push, CI also keeps `packages.json` and `pkgs/` in sync by generating the
-missing counterpart when only one side changed.
+missing counterpart when it can determine a single authoritative side.
 
 The current push-sync rules are:
 
 * if only `packages.json` changed, CI regenerates `pkgs/`
 * if only `pkgs/` changed, CI regenerates `packages.json`
-* if both changed, they must already agree
+* if both changed and already agree, CI accepts them as-is
+* if the checked-out tree inherited one-sided drift from an earlier commit,
+  CI repairs the missing side when the changed side is a strict superset of the
+  unchanged side and all overlapping package metadata matches
+* if both sides contain conflicting metadata, CI fails and requires a manual
+  fix
 
 The test suite lives under `tests/` and can be run locally with:
 
@@ -151,3 +156,4 @@ nim test
 
 * `package_scanner.nim` - [GPLv3](LICENSE-GPLv3.txt)
 * Everything else - [CC-BY-4.0](LICENSE.txt)
+
