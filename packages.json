@@ -9462,18 +9462,6 @@
     "web": "https://github.com/Parashurama/fontconfig"
   },
   {
-    "name": "foozy",
-    "url": "https://github.com/nimscale/forestdb",
-    "method": "git",
-    "tags": [
-      "testing",
-      "one",
-      "two"
-    ],
-    "description": "testing...",
-    "license": "MIT"
-  },
-  {
     "name": "foreach",
     "url": "https://github.com/disruptek/foreach",
     "method": "git",
