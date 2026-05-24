@@ -1,0 +1,16 @@
+{
+  "name": "nulid",
+  "url": "https://github.com/The-Ticking-Clockwork/NULID",
+  "method": "git",
+  "tags": [
+    "library",
+    "id",
+    "ulid",
+    "uuid",
+    "guid"
+  ],
+  "description": "A ULID implementation in Nim!",
+  "license": "CC0",
+  "web": "https://github.com/The-Ticking-Clockwork/NULID",
+  "doc": "https://the-ticking-clockwork.github.io/NULID/"
+}

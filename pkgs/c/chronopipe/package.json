@@ -1,0 +1,13 @@
+{
+  "name": "chronopipe",
+  "url": "https://github.com/williamd1k0/chrono",
+  "method": "git",
+  "tags": [
+    "cli",
+    "timer",
+    "pipe"
+  ],
+  "description": "Show start/end datetime and duration of a command-line process using pipe.",
+  "license": "MIT",
+  "web": "https://github.com/williamd1k0/chrono"
+}

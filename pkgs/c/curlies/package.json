@@ -1,0 +1,15 @@
+{
+  "name": "curlies",
+  "url": "https://github.com/svenrdz/curlies",
+  "method": "git",
+  "tags": [
+    "object construction",
+    "field init shorthand",
+    "update syntax",
+    "rust update syntax",
+    "fungus"
+  ],
+  "description": "A macro for object construction using {} (curlies).",
+  "license": "MIT",
+  "web": "https://github.com/svenrdz/curlies"
+}

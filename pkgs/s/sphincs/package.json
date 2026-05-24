@@ -1,0 +1,13 @@
+{
+  "name": "sphincs",
+  "url": "https://git.sr.ht/~ehmry/nim_sphincs",
+  "method": "git",
+  "tags": [
+    "crypto",
+    "pqcrypto",
+    "signing"
+  ],
+  "description": "SPHINCS⁺ stateless hash-based signature scheme",
+  "license": "MIT",
+  "web": "https://git.sr.ht/~ehmry/nim_sphincs"
+}

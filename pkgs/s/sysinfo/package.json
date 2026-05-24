@@ -1,0 +1,14 @@
+{
+  "name": "sysinfo",
+  "url": "https://github.com/treeform/sysinfo",
+  "method": "git",
+  "tags": [
+    "system",
+    "cpu",
+    "gpu",
+    "net"
+  ],
+  "description": "Cross platform system information.",
+  "license": "MIT",
+  "web": "https://github.com/treeform/sysinfo"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "jester",
+  "url": "https://github.com/dom96/jester/",
+  "method": "git",
+  "tags": [
+    "web",
+    "http",
+    "framework",
+    "dsl"
+  ],
+  "description": "A sinatra-like web framework for Nim.",
+  "license": "MIT",
+  "web": "https://github.com/dom96/jester"
+}

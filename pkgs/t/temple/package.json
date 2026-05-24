@@ -1,0 +1,14 @@
+{
+  "name": "temple",
+  "url": "https://codeberg.org/onbox/temple",
+  "method": "git",
+  "tags": [
+    "library",
+    "template",
+    "templating",
+    "web"
+  ],
+  "description": "A templating library for run-time templating with support for simple conditionals and attributes.",
+  "license": "BSD-3-Clause",
+  "web": "https://docs.penguinite.dev/temple/"
+}

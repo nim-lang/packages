@@ -1,0 +1,15 @@
+{
+  "name": "numericalnim",
+  "url": "https://github.com/SciNim/numericalnim/",
+  "method": "git",
+  "tags": [
+    "numerical",
+    "ode",
+    "integration",
+    "scientific",
+    "interpolation"
+  ],
+  "description": "A collection of numerical methods written in Nim",
+  "license": "MIT",
+  "web": "https://github.com/SciNim/numericalnim/"
+}

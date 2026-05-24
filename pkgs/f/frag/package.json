@@ -1,0 +1,14 @@
+{
+  "name": "frag",
+  "url": "https://github.com/fragworks/frag",
+  "method": "git",
+  "tags": [
+    "game",
+    "game-dev",
+    "2d",
+    "3d"
+  ],
+  "description": "A 2D|3D game engine",
+  "license": "MIT",
+  "web": "https://github.com/fragworks/frag"
+}

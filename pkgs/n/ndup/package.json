@@ -1,0 +1,19 @@
+{
+  "name": "ndup",
+  "url": "https://github.com/c-blake/ndup",
+  "method": "git",
+  "tags": [
+    "rolling hash",
+    "content-sensitive framing",
+    "content-defined chunking",
+    "CDC",
+    "near duplicate",
+    "duplicate",
+    "detection",
+    "binary files",
+    "set file manipulation"
+  ],
+  "description": "Near-Duplicate File Detection",
+  "license": "MIT/ISC",
+  "web": "https://github.com/c-blake/ndup"
+}

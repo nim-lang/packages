@@ -1,0 +1,13 @@
+{
+  "name": "nhsl",
+  "url": "https://github.com/twist-vector/nhsl.git",
+  "method": "git",
+  "tags": [
+    "library",
+    "serialization",
+    "pure"
+  ],
+  "description": "Nim Hessian Serialization Library encodes/decodes data into the Hessian binary protocol",
+  "license": "LGPL",
+  "web": "https://github.com/twist-vector/nhsl"
+}

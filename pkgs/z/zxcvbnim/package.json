@@ -1,0 +1,12 @@
+{
+  "name": "zxcvbnim",
+  "url": "https://github.com/jiiihpeeh/zxcvbnim",
+  "method": "git",
+  "tags": [
+    "zxcvbn",
+    "clone"
+  ],
+  "description": "A zxcvbn clone for Nim. Written in Nim",
+  "license": "MIT",
+  "web": "https://github.com/jiiihpeeh/zxcvbnim"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "p5nim",
+  "url": "https://github.com/pietroppeter/p5nim",
+  "method": "git",
+  "tags": [
+    "p5",
+    "javascript",
+    "creative",
+    "coding",
+    "processing",
+    "library"
+  ],
+  "description": "Nim bindings for p5.js.",
+  "license": "MIT",
+  "web": "https://github.com/pietroppeter/p5nim"
+}

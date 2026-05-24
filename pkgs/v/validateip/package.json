@@ -1,0 +1,16 @@
+{
+  "name": "validateip",
+  "url": "https://github.com/theAkito/nim-validateip",
+  "method": "git",
+  "tags": [
+    "akito",
+    "ip",
+    "ipaddress",
+    "ipv4",
+    "ip4",
+    "checker",
+    "check"
+  ],
+  "description": "Checks if a provided string is actually a correct IP address. Supports detection of Class A to D of IPv4 addresses.",
+  "license": "GPL-3.0-or-later"
+}

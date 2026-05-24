@@ -1,0 +1,26 @@
+{
+  "name": "pixie",
+  "url": "https://github.com/treeform/pixie",
+  "method": "git",
+  "tags": [
+    "images",
+    "paths",
+    "stroke",
+    "fill",
+    "vector",
+    "raster",
+    "png",
+    "bmp",
+    "jpg",
+    "graphics",
+    "2D",
+    "svg",
+    "font",
+    "opentype",
+    "truetype",
+    "text"
+  ],
+  "description": "Full-featured 2d graphics library for Nim.",
+  "license": "MIT",
+  "web": "https://github.com/treeform/pixie"
+}

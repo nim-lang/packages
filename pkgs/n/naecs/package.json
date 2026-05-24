@@ -1,0 +1,15 @@
+{
+  "name": "naecs",
+  "url": "https://github.com/Hammer2900/naecs.git",
+  "method": "git",
+  "tags": [
+    "ecs",
+    "gamedev",
+    "entity component system",
+    "archetype",
+    "performance"
+  ],
+  "description": "A high-performance, archetype-based Entity Component System for Nim.",
+  "license": "MIT",
+  "web": "https://hammer2900.github.io/naecs/"
+}

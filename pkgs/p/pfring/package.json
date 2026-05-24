@@ -1,0 +1,18 @@
+{
+  "name": "pfring",
+  "url": "https://github.com/ba0f3/pfring.nim",
+  "method": "git",
+  "tags": [
+    "pf_ring",
+    "packet",
+    "sniff",
+    "pcap",
+    "pfring",
+    "network",
+    "capture",
+    "socket"
+  ],
+  "description": "PF_RING wrapper for Nim",
+  "license": "MIT",
+  "web": "https://github.com/ba0f3/pfring.nim"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "nimwave",
+  "url": "https://github.com/ansiwave/nimwave",
+  "method": "git",
+  "tags": [
+    "tui",
+    "terminal"
+  ],
+  "description": "A TUI -> GUI library",
+  "license": "Public Domain"
+}

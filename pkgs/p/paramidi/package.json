@@ -1,0 +1,11 @@
+{
+  "name": "paramidi",
+  "url": "https://github.com/paranim/paramidi",
+  "method": "git",
+  "tags": [
+    "midi",
+    "synthesizer"
+  ],
+  "description": "A library for making MIDI music",
+  "license": "Public Domain"
+}

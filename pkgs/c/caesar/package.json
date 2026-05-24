@@ -1,0 +1,11 @@
+{
+  "name": "caesar",
+  "url": "https://github.com/ph4mished/caesar",
+  "method": "git",
+  "tags": [
+    "caesar"
+  ],
+  "description": "A simple tool for caesar cipher encoding and decoding",
+  "license": "MIT",
+  "web": "https://github.com/ph4mished/caesar"
+}

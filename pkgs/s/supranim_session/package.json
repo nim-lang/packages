@@ -1,0 +1,17 @@
+{
+  "name": "supranim_session",
+  "url": "https://github.com/supranim/session",
+  "method": "git",
+  "tags": [
+    "auth",
+    "session",
+    "login",
+    "register",
+    "csrf",
+    "supranim",
+    "cookie"
+  ],
+  "description": "Auth & Session Management for Supranim apps",
+  "license": "MIT",
+  "web": "https://github.com/supranim/session"
+}

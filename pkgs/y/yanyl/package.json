@@ -1,0 +1,12 @@
+{
+  "name": "yanyl",
+  "url": "https://github.com/tanelso2/yanyl",
+  "method": "git",
+  "tags": [
+    "serialization",
+    "serialization-format",
+    "yaml"
+  ],
+  "description": "A library for using YAML with Nim",
+  "license": "Unlicense"
+}

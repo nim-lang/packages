@@ -1,0 +1,12 @@
+{
+  "name": "with",
+  "url": "https://github.com/zevv/with",
+  "method": "git",
+  "tags": [
+    "with",
+    "macro"
+  ],
+  "description": "Simple 'with' macro for Nim",
+  "license": "MIT",
+  "web": "https://github.com/zevv/with"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "bz",
+  "url": "https://github.com/pcarrier/bz",
+  "method": "git",
+  "tags": [
+    "unix",
+    "cli",
+    "utils"
+  ],
+  "description": "A few CLI utilities",
+  "license": "0BSD",
+  "web": "https://github.com/pcarrier/bz"
+}

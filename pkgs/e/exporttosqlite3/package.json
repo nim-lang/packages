@@ -1,0 +1,15 @@
+{
+  "name": "exporttosqlite3",
+  "url": "https://github.com/niklaskorz/nim-exporttosqlite3",
+  "method": "git",
+  "tags": [
+    "sqlite3",
+    "export",
+    "database",
+    "db_sqlite",
+    "sql"
+  ],
+  "description": "Export Nim functions to sqlite3",
+  "license": "MIT",
+  "web": "https://github.com/niklaskorz/nim-exporttosqlite3"
+}

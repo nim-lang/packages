@@ -1,0 +1,15 @@
+{
+  "name": "libpcap",
+  "url": "https://github.com/praetoriannero/nim_libpcap",
+  "method": "git",
+  "tags": [
+    "libpcap",
+    "packet",
+    "pcap",
+    "sniff",
+    "sniffer"
+  ],
+  "description": "A wrapper for the libpcap library",
+  "license": "MIT",
+  "web": "https://github.com/praetoriannero/nim_libpcap"
+}

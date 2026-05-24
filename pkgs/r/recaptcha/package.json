@@ -1,0 +1,12 @@
+{
+  "name": "recaptcha",
+  "url": "https://github.com/euantorano/recaptcha.nim",
+  "method": "git",
+  "tags": [
+    "recaptcha",
+    "captcha"
+  ],
+  "description": "reCAPTCHA support for Nim, supporting rendering a capctcha and verifying a user's response.",
+  "license": "BSD3",
+  "web": "https://github.com/euantorano/recaptcha.nim"
+}

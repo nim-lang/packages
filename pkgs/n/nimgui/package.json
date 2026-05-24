@@ -1,0 +1,13 @@
+{
+  "name": "nimgui",
+  "url": "https://github.com/zacharycarter/nimgui",
+  "method": "git",
+  "tags": [
+    "imgui",
+    "gui",
+    "game"
+  ],
+  "description": "bindings to cimgui - https://github.com/cimgui/cimgui",
+  "license": "MIT",
+  "web": "https://github.com/zacharycarter/nimgui"
+}

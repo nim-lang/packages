@@ -1,0 +1,14 @@
+{
+  "name": "ccal",
+  "url": "https://github.com/inv2004/ccal",
+  "method": "git",
+  "tags": [
+    "cli",
+    "calendar",
+    "tools",
+    "productivity"
+  ],
+  "description": "calendar with local holidays via ip location",
+  "license": "MIT",
+  "web": "https://github.com/inv2004/ccal"
+}

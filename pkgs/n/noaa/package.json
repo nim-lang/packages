@@ -1,0 +1,13 @@
+{
+  "name": "noaa",
+  "url": "https://github.com/achesak/nim-noaa",
+  "method": "git",
+  "tags": [
+    "library",
+    "wrapper",
+    "weather"
+  ],
+  "description": "NOAA weather API wrapper",
+  "license": "MIT",
+  "web": "https://github.com/achesak/nim-noaa"
+}

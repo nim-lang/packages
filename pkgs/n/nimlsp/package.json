@@ -1,0 +1,13 @@
+{
+  "name": "nimlsp",
+  "url": "https://github.com/PMunch/nimlsp",
+  "method": "git",
+  "tags": [
+    "lsp",
+    "nimsuggest",
+    "editor"
+  ],
+  "description": "Language Server Protocol implementation for Nim",
+  "license": "MIT",
+  "web": "https://github.com/PMunch/nimlsp"
+}

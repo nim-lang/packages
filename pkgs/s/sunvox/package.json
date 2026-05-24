@@ -1,0 +1,14 @@
+{
+  "name": "sunvox",
+  "url": "https://github.com/exelotl/nim-sunvox",
+  "method": "git",
+  "tags": [
+    "music",
+    "audio",
+    "sound",
+    "synthesizer"
+  ],
+  "description": "Bindings for SunVox modular synthesizer",
+  "license": "0BSD",
+  "web": "https://github.com/exelotl/nim-sunvox"
+}

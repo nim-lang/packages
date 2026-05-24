@@ -1,0 +1,15 @@
+{
+  "name": "webgui",
+  "url": "https://github.com/juancarlospaco/webgui",
+  "method": "git",
+  "tags": [
+    "web",
+    "webview",
+    "css",
+    "js",
+    "gui"
+  ],
+  "description": "Web Technologies based Crossplatform GUI, modified wrapper for modified webview.h",
+  "license": "MIT",
+  "web": "https://github.com/juancarlospaco/webgui"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "blosc",
+  "url": "https://github.com/Vindaar/nblosc",
+  "method": "git",
+  "tags": [
+    "blosc",
+    "wrapper",
+    "compression"
+  ],
+  "description": "Bit Shuffling Block Compressor (C-Blosc)",
+  "license": "BSD",
+  "web": "https://github.com/Vindaar/nblosc"
+}

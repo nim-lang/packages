@@ -1,0 +1,14 @@
+{
+  "name": "libsodium",
+  "url": "https://github.com/FedericoCeratto/nim-libsodium",
+  "method": "git",
+  "tags": [
+    "wrapper",
+    "library",
+    "security",
+    "crypto"
+  ],
+  "description": "libsodium wrapper",
+  "license": "LGPLv3",
+  "web": "https://github.com/FedericoCeratto/nim-libsodium"
+}

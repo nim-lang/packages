@@ -1,0 +1,13 @@
+{
+  "name": "json_serialization",
+  "url": "https://github.com/status-im/nim-json-serialization",
+  "method": "git",
+  "tags": [
+    "library",
+    "json",
+    "serialization"
+  ],
+  "description": "Flexible JSON serialization not relying on run-time type information",
+  "license": "Apache License 2.0",
+  "web": "https://github.com/status-im/nim-json-serialization"
+}

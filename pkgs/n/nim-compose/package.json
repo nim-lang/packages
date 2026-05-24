@@ -1,0 +1,13 @@
+{
+  "name": "nim-compose",
+  "url": "https://codeberg.org/emanresu3/nim-compose",
+  "method": "git",
+  "tags": [
+    "functional",
+    "pipeline",
+    "composition"
+  ],
+  "description": "Composition operators for Nim.",
+  "license": "MIT",
+  "web": "https://codeberg.org/emanresu3/nim-compose"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "persvector",
+  "url": "https://github.com/PMunch/nim-persistent-vector",
+  "method": "git",
+  "tags": [
+    "datastructures",
+    "immutable",
+    "persistent"
+  ],
+  "description": "This is an implementation of Clojures persistent vectors in Nim.",
+  "license": "MIT",
+  "web": "https://github.com/PMunch/nim-persistent-vector"
+}

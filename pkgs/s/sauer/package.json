@@ -1,0 +1,17 @@
+{
+  "name": "sauer",
+  "url": "https://github.com/moigagoo/sauer",
+  "method": "git",
+  "tags": [
+    "web",
+    "SPA",
+    "Karax",
+    "Kraut",
+    "CLI",
+    "frontend",
+    "router"
+  ],
+  "description": "Scaffolder for Karax.",
+  "license": "MIT",
+  "web": "https://github.com/moigagoo/sauer"
+}

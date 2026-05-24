@@ -1,0 +1,12 @@
+{
+  "name": "suru",
+  "url": "https://github.com/de-odex/suru",
+  "method": "git",
+  "tags": [
+    "progress",
+    "bar",
+    "terminal"
+  ],
+  "description": "A tqdm-style progress bar in Nim",
+  "license": "MIT"
+}

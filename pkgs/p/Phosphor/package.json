@@ -1,0 +1,13 @@
+{
+  "name": "Phosphor",
+  "url": "https://github.com/barcharcraz/Phosphor",
+  "method": "git",
+  "tags": [
+    "library",
+    "opengl",
+    "graphics"
+  ],
+  "description": "eaiser use of OpenGL and GLSL shaders",
+  "license": "MIT",
+  "web": "https://github.com/barcharcraz/Phosphor"
+}

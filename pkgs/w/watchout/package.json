@@ -1,0 +1,18 @@
+{
+  "name": "watchout",
+  "url": "https://github.com/openpeeps/watchout",
+  "method": "git",
+  "tags": [
+    "filesystem",
+    "monitor",
+    "filesystem-monitor",
+    "watcher",
+    "fswatch",
+    "watchout",
+    "reload",
+    "fsnotify"
+  ],
+  "description": "⚡️ Just... yellin' for changes! File System Monitor for devs",
+  "license": "MIT",
+  "web": "https://github.com/openpeeps/watchout"
+}

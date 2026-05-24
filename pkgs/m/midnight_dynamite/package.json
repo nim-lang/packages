@@ -1,0 +1,15 @@
+{
+  "name": "midnight_dynamite",
+  "url": "https://github.com/Araq/midnight_dynamite",
+  "method": "git",
+  "tags": [
+    "wrapper",
+    "library",
+    "html",
+    "markdown",
+    "md"
+  ],
+  "description": "Wrapper for the markdown rendering hoedown library",
+  "license": "MIT",
+  "web": "https://github.com/Araq/midnight_dynamite"
+}

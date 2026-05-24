@@ -1,0 +1,15 @@
+{
+  "name": "nimfcuk",
+  "url": "https://github.com/2KAbhishek/nimfcuk",
+  "method": "git",
+  "tags": [
+    "cli",
+    "library",
+    "brainfuck",
+    "compiler",
+    "interpreter"
+  ],
+  "description": "A brainfuck interpreter & compiler implemented in nim",
+  "license": "GPL-3.0",
+  "web": "https://github.com/2KAbhishek/nimfcuk"
+}

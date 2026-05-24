@@ -1,0 +1,13 @@
+{
+  "name": "nimhq",
+  "url": "https://github.com/sillibird/nimhq",
+  "method": "git",
+  "tags": [
+    "library",
+    "api",
+    "client"
+  ],
+  "description": "HQ Trivia API wrapper for Nim",
+  "license": "MIT",
+  "web": "https://github.com/sillibird/nimhq"
+}

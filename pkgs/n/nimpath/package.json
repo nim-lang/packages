@@ -1,0 +1,12 @@
+{
+  "name": "nimpath",
+  "url": "https://github.com/weskerfoot/NimPath",
+  "method": "git",
+  "tags": [
+    "web",
+    "parser"
+  ],
+  "description": "Interface to libxml2's XPath parser",
+  "license": "MIT",
+  "web": "https://github.com/weskerfoot/NimPath"
+}

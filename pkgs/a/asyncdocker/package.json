@@ -1,0 +1,12 @@
+{
+  "name": "asyncdocker",
+  "url": "https://github.com/tulayang/asyncdocker",
+  "method": "git",
+  "tags": [
+    "async",
+    "docker"
+  ],
+  "description": "Asynchronous docker client written by Nim-lang",
+  "license": "MIT",
+  "web": "https://tulayang.github.io/asyncdocker.html"
+}

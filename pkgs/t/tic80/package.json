@@ -1,0 +1,14 @@
+{
+  "name": "tic80",
+  "url": "https://github.com/thisago/tic80",
+  "method": "git",
+  "tags": [
+    "tic80",
+    "games",
+    "js",
+    "bindings"
+  ],
+  "description": "TIC-80 bindings",
+  "license": "MIT",
+  "web": "https://github.com/thisago/tic80"
+}

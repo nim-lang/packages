@@ -1,0 +1,16 @@
+{
+  "name": "syndicate",
+  "url": "https://git.syndicate-lang.org/ehmry/syndicate-nim",
+  "method": "git",
+  "tags": [
+    "actors",
+    "concurrency",
+    "dsl",
+    "library",
+    "rpc",
+    "syndicate"
+  ],
+  "description": "Syndicated actors for conversational concurrency",
+  "license": "ISC",
+  "web": "https://syndicate-lang.org/"
+}

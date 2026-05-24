@@ -1,0 +1,12 @@
+{
+  "name": "containertools",
+  "url": "https://github.com/ilmanzo/containertools",
+  "license": "GPL-3.0",
+  "method": "git",
+  "tags": [
+    "dsl",
+    "container"
+  ],
+  "description": "a library and a DSL to handle container spec files",
+  "web": "https://github.com/ilmanzo/containertools"
+}

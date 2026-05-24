@@ -1,0 +1,15 @@
+{
+  "name": "webpage_extractors",
+  "url": "https://github.com/bung87/webpage_extractors",
+  "method": "git",
+  "tags": [
+    "web",
+    "page",
+    "html",
+    "content",
+    "extractors"
+  ],
+  "description": "webpage information extractor",
+  "license": "MIT",
+  "web": "https://github.com/bung87/webpage_extractors"
+}

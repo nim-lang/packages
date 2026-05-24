@@ -1,0 +1,14 @@
+{
+  "name": "gm_api",
+  "url": "https://github.com/thisago/gm_api",
+  "method": "git",
+  "tags": [
+    "greasemonkey",
+    "javascript",
+    "userscript",
+    "js"
+  ],
+  "description": "Bindings for Greasemonkey API and an userscript header generator",
+  "license": "MIT",
+  "web": "https://github.com/thisago/gm_api"
+}

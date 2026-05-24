@@ -1,0 +1,15 @@
+{
+  "name": "macroutils",
+  "url": "https://github.com/PMunch/macroutils",
+  "method": "git",
+  "tags": [
+    "macros",
+    "ast",
+    "metaprogramming",
+    "library",
+    "utility"
+  ],
+  "description": "A package that makes creating macros easier",
+  "license": "MIT",
+  "web": "https://github.com/PMunch/macroutils"
+}

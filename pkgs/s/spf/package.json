@@ -1,0 +1,16 @@
+{
+  "name": "spf",
+  "url": "https://github.com/openpeeps/libspf-nim",
+  "method": "git",
+  "tags": [
+    "spf",
+    "email",
+    "smtp",
+    "mail",
+    "security",
+    "dns"
+  ],
+  "description": "Bindings for the SPF library",
+  "license": "MIT",
+  "web": "https://github.com/openpeeps/libspf-nim"
+}

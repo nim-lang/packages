@@ -1,0 +1,15 @@
+{
+  "name": "LimDB",
+  "url": "https://github.com/capocasa/limdb",
+  "method": "git",
+  "tags": [
+    "lmdb",
+    "key-value",
+    "persistent",
+    "database"
+  ],
+  "description": "A wrapper for LMDB the Lightning Memory-Mapped Database",
+  "license": "MIT",
+  "web": "https://github.com/capocasa/limdb",
+  "doc": "https://capocasa.github.io/limdb/limdb.html"
+}

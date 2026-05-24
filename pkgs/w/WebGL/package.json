@@ -1,0 +1,17 @@
+{
+  "name": "WebGL",
+  "url": "https://github.com/stisa/webgl",
+  "method": "git",
+  "tags": [
+    "webgl",
+    "graphic",
+    "js",
+    "javascript",
+    "wrapper",
+    "3D",
+    "2D"
+  ],
+  "description": "Experimental wrapper to webgl for Nim",
+  "license": "MIT",
+  "web": "https://stisa.space/webgl/"
+}

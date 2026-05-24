@@ -1,0 +1,17 @@
+{
+  "name": "bitseqs",
+  "url": "https://github.com/adokitkat/bitfields",
+  "method": "git",
+  "tags": [
+    "bit",
+    "bitfield",
+    "seq",
+    "bitseq",
+    "manipulation",
+    "utility",
+    "library"
+  ],
+  "description": "Utility for a bit manipulation",
+  "license": "MIT",
+  "web": "https://github.com/adokitkat/bitfields"
+}

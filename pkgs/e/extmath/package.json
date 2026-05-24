@@ -1,0 +1,13 @@
+{
+  "name": "extmath",
+  "url": "https://github.com/achesak/extmath.nim",
+  "method": "git",
+  "tags": [
+    "library",
+    "math",
+    "trigonometry"
+  ],
+  "description": "Nim math library",
+  "license": "MIT",
+  "web": "https://github.com/achesak/extmath.nim"
+}

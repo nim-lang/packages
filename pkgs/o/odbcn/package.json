@@ -1,0 +1,14 @@
+{
+  "name": "odbcn",
+  "url": "https://git.sr.ht/~mjaa/odbcn-nim",
+  "method": "git",
+  "tags": [
+    "odbc",
+    "sql",
+    "orm"
+  ],
+  "description": "ODBC abstraction for Nim",
+  "license": "MIT",
+  "web": "https://sr.ht/~mjaa/odbcn-nim/",
+  "doc": "https://mjaa.srht.site/odbcn-nim/odbcn.html"
+}

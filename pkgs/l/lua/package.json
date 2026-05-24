@@ -1,0 +1,11 @@
+{
+  "name": "lua",
+  "url": "https://github.com/nim-lang/lua",
+  "method": "git",
+  "tags": [
+    "wrapper"
+  ],
+  "description": "Wrapper to interface with the Lua interpreter",
+  "license": "MIT",
+  "web": "https://github.com/nim-lang/lua"
+}

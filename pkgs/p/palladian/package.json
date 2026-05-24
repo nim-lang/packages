@@ -1,0 +1,12 @@
+{
+  "name": "palladian",
+  "url": "https://github.com/itsumura-h/nim-palladian",
+  "method": "git",
+  "tags": [
+    "web",
+    "frontend"
+  ],
+  "description": "A Frontend Web Framework for Nim based on Preact",
+  "license": "MIT",
+  "web": "https://github.com/itsumura-h/nim-palladian"
+}

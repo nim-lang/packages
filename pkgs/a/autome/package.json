@@ -1,0 +1,13 @@
+{
+  "name": "autome",
+  "description": "Write GUI automation scripts with Nim",
+  "tags": [
+    "gui",
+    "automation",
+    "windows"
+  ],
+  "license": "MIT",
+  "web": "https://github.com/miere43/autome",
+  "url": "https://github.com/miere43/autome",
+  "method": "git"
+}

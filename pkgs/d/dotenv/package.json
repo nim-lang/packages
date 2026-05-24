@@ -1,0 +1,14 @@
+{
+  "name": "dotenv",
+  "url": "https://github.com/euantorano/dotenv.nim",
+  "method": "git",
+  "tags": [
+    "env",
+    "dotenv",
+    "configuration",
+    "environment"
+  ],
+  "description": "Loads environment variables from `.env`.",
+  "license": "BSD3",
+  "web": "https://github.com/euantorano/dotenv.nim"
+}

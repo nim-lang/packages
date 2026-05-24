@@ -1,0 +1,14 @@
+{
+  "name": "blake2",
+  "url": "https://github.com/nim-community/blake2",
+  "method": "git",
+  "tags": [
+    "crypto",
+    "cryptography",
+    "hash",
+    "security"
+  ],
+  "description": "blake2 - cryptographic hash function",
+  "license": "CC0",
+  "web": "https://github.com/nim-community/blake2"
+}

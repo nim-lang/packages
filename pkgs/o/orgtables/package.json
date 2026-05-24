@@ -1,0 +1,14 @@
+{
+  "name": "orgtables",
+  "url": "https://github.com/Vindaar/orgtables",
+  "method": "git",
+  "tags": [
+    "org",
+    "org mode",
+    "tables",
+    "emacs"
+  ],
+  "description": "A library to turn Nim data into Org tables",
+  "license": "MIT",
+  "web": "https://github.com/Vindaar/orgtables"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "xam",
+  "url": "https://github.com/j-a-s-d/xam",
+  "method": "git",
+  "tags": [
+    "multipurpose",
+    "productivity",
+    "library"
+  ],
+  "description": "xam",
+  "license": "MIT",
+  "web": "https://github.com/j-a-s-d/xam"
+}

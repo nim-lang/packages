@@ -1,0 +1,17 @@
+{
+  "name": "benchy",
+  "url": "https://github.com/treeform/benchy",
+  "method": "git",
+  "tags": [
+    "bench",
+    "benchmark",
+    "profile",
+    "runtime",
+    "profiling",
+    "performance",
+    "speed"
+  ],
+  "description": "Simple benchmarking to time your code.",
+  "license": "MIT",
+  "web": "https://github.com/treeform/benchy"
+}

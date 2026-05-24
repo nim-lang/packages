@@ -1,0 +1,13 @@
+{
+  "name": "db_connector",
+  "url": "https://github.com/nim-lang/db_connector",
+  "method": "git",
+  "tags": [
+    "stdlib",
+    "official",
+    "database"
+  ],
+  "description": "Unified database connector.",
+  "license": "MIT",
+  "web": "https://github.com/nim-lang/db_connector"
+}

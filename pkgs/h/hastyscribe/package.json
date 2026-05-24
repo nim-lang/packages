@@ -1,0 +1,13 @@
+{
+  "name": "hastyscribe",
+  "url": "https://github.com/h3rald/hastyscribe",
+  "method": "git",
+  "tags": [
+    "markdown",
+    "html",
+    "publishing"
+  ],
+  "description": "Self-contained markdown compiler generating self-contained HTML documents",
+  "license": "MIT",
+  "web": "https://h3rald.com/hastyscribe"
+}

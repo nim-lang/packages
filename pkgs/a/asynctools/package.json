@@ -1,0 +1,17 @@
+{
+  "name": "asynctools",
+  "url": "https://github.com/cheatfate/asynctools",
+  "method": "git",
+  "tags": [
+    "async",
+    "pipes",
+    "processes",
+    "ipc",
+    "synchronization",
+    "dns",
+    "pty"
+  ],
+  "description": "Various asynchronous tools for Nim",
+  "license": "MIT",
+  "web": "https://github.com/cheatfate/asynctools"
+}

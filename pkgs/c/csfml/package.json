@@ -1,0 +1,16 @@
+{
+  "name": "csfml",
+  "url": "https://github.com/oprypin/nim-csfml",
+  "method": "git",
+  "tags": [
+    "sfml",
+    "binding",
+    "game",
+    "media",
+    "library",
+    "opengl"
+  ],
+  "description": "Bindings for Simple and Fast Multimedia Library (through CSFML)",
+  "license": "zlib",
+  "web": "https://github.com/oprypin/nim-csfml"
+}

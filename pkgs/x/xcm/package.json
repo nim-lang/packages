@@ -1,0 +1,12 @@
+{
+  "name": "xcm",
+  "url": "https://github.com/SolitudeSF/xcm",
+  "method": "git",
+  "tags": [
+    "color",
+    "x11"
+  ],
+  "description": "Color management utility for X",
+  "license": "MIT",
+  "web": "https://github.com/SolitudeSF/xcm"
+}

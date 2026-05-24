@@ -1,0 +1,12 @@
+{
+  "name": "pledge",
+  "url": "https://github.com/euantorano/pledge.nim",
+  "method": "git",
+  "tags": [
+    "pledge",
+    "openbsd"
+  ],
+  "description": "OpenBSDs pledge(2) for Nim.",
+  "license": "BSD3",
+  "web": "https://github.com/euantorano/pledge.nim"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "nim_2048",
+  "url": "https://github.com/enkaito/nim_2048",
+  "method": "git",
+  "tags": [
+    "game",
+    "puzzle",
+    "2048"
+  ],
+  "description": "2048 game clone runs in your terminal, written in Nim",
+  "license": "MIT",
+  "web": "https://github.com/enkaito/nim_2048"
+}

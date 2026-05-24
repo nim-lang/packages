@@ -1,0 +1,11 @@
+{
+  "name": "tiger",
+  "url": "https://git.sr.ht/~ehmry/nim_tiger",
+  "method": "git",
+  "tags": [
+    "hash"
+  ],
+  "description": "Tiger hash function",
+  "license": "MIT",
+  "web": "https://git.sr.ht/~ehmry/nim_tiger"
+}

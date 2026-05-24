@@ -1,0 +1,11 @@
+{
+  "name": "redux",
+  "url": "https://github.com/pragmagic/redux.nim",
+  "method": "git",
+  "tags": [
+    "redux"
+  ],
+  "description": "Predictable state container.",
+  "license": "MIT",
+  "web": "https://github.com/pragmagic/redux.nim"
+}

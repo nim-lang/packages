@@ -1,0 +1,13 @@
+{
+  "name": "timestamp",
+  "url": "https://github.com/jackhftang/timestamp.nim",
+  "method": "git",
+  "tags": [
+    "time",
+    "timestamp"
+  ],
+  "description": "An alternative time library",
+  "license": "MIT",
+  "web": "https://github.com/jackhftang/timestamp.nim",
+  "doc": "https://jackhftang.github.io/timestamp.nim/"
+}

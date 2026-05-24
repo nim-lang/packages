@@ -1,0 +1,15 @@
+{
+  "name": "openweathermap",
+  "url": "https://github.com/juancarlospaco/nim-openweathermap",
+  "method": "git",
+  "tags": [
+    "OpenWeatherMap",
+    "weather",
+    "CreativeCommons",
+    "OpenData",
+    "multisync"
+  ],
+  "description": "OpenWeatherMap API Lib for Nim, Free world wide Creative Commons & Open Data Licensed Weather data",
+  "license": "MIT",
+  "web": "https://github.com/juancarlospaco/nim-openweathermap"
+}

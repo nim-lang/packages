@@ -1,0 +1,14 @@
+{
+  "name": "the_nim_alliance",
+  "url": "https://github.com/tervay/the-nim-alliance",
+  "method": "git",
+  "tags": [
+    "FRC",
+    "FIRST",
+    "the-blue-alliance",
+    "TBA"
+  ],
+  "description": "A Nim wrapper for TheBlueAlliance",
+  "license": "MIT",
+  "web": "https://github.com/tervay/the-nim-alliance"
+}

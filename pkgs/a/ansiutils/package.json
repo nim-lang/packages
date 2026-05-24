@@ -1,0 +1,11 @@
+{
+  "name": "ansiutils",
+  "url": "https://github.com/ansiwave/ansiutils",
+  "method": "git",
+  "tags": [
+    "ansi",
+    "cp437"
+  ],
+  "description": "Utilities for parsing CP437 and ANSI escape codes",
+  "license": "Public Domain"
+}

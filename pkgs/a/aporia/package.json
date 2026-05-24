@@ -1,0 +1,14 @@
+{
+  "name": "aporia",
+  "url": "https://github.com/nim-lang/Aporia",
+  "method": "git",
+  "tags": [
+    "app",
+    "binary",
+    "ide",
+    "gtk"
+  ],
+  "description": "A Nim IDE.",
+  "license": "GPLv2",
+  "web": "https://github.com/nim-lang/Aporia"
+}

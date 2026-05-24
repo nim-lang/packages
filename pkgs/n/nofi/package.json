@@ -1,0 +1,15 @@
+{
+  "name": "nofi",
+  "url": "https://github.com/ct-clmsn/nofi/",
+  "method": "git",
+  "tags": [
+    "hpc",
+    "supercomputing",
+    "libfabric",
+    "rdma",
+    "distributed-computing"
+  ],
+  "description": "Nim wrapper for rofi, open fabrics interface; provides distributed computing interface for high performance computing (HPC) environments",
+  "license": "boost",
+  "web": "https://github.com/ct-clmsn/nofi/"
+}

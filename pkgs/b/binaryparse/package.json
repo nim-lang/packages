@@ -1,0 +1,12 @@
+{
+  "name": "binaryparse",
+  "url": "https://github.com/PMunch/binaryparse",
+  "method": "git",
+  "tags": [
+    "parsing",
+    "binary"
+  ],
+  "description": "Binary parser (and writer) in pure Nim. Generates efficient parsing procedures that handle many commonly seen patterns seen in binary files and does sub-byte field reading.",
+  "license": "MIT",
+  "web": "https://github.com/PMunch/binaryparse"
+}

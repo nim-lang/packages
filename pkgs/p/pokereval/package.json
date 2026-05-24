@@ -1,0 +1,11 @@
+{
+  "name": "pokereval",
+  "url": "https://github.com/jasonlu7/pokereval",
+  "method": "git",
+  "tags": [
+    "poker"
+  ],
+  "description": "A poker hand evaluator",
+  "license": "MIT",
+  "web": "https://github.com/jasonlu7/pokereval"
+}

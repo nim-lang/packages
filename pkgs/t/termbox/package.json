@@ -1,0 +1,13 @@
+{
+  "name": "termbox",
+  "url": "https://github.com/fowlmouth/nim-termbox",
+  "method": "git",
+  "tags": [
+    "library",
+    "terminal",
+    "io"
+  ],
+  "description": "Termbox wrapper.",
+  "license": "MIT",
+  "web": "https://github.com/fowlmouth/nim-termbox"
+}

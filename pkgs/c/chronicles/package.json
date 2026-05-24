@@ -1,0 +1,12 @@
+{
+  "name": "chronicles",
+  "url": "https://github.com/status-im/nim-chronicles",
+  "method": "git",
+  "tags": [
+    "logging",
+    "json"
+  ],
+  "description": "A crafty implementation of structured logging for Nim",
+  "license": "Apache License 2.0",
+  "web": "https://github.com/status-im/nim-chronicles"
+}

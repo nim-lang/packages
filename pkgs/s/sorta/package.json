@@ -1,0 +1,17 @@
+{
+  "name": "sorta",
+  "url": "https://github.com/narimiran/sorta",
+  "method": "git",
+  "tags": [
+    "sort",
+    "sorted",
+    "table",
+    "sorted-table",
+    "b-tree",
+    "btree",
+    "ordered"
+  ],
+  "description": "Sorted Tables for Nim, based on B-Trees",
+  "license": "MIT",
+  "web": "https://narimiran.github.io/sorta/"
+}

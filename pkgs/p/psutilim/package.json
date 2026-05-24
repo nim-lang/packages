@@ -1,0 +1,15 @@
+{
+  "name": "psutilim",
+  "url": "https://github.com/Techno-Fox/psutil-nim",
+  "method": "git",
+  "tags": [
+    "psutilim",
+    "nim",
+    "psutils",
+    "psutil"
+  ],
+  "description": "Updated psutil module from https://github.com/johnscillieri/psutil-nim",
+  "license": "MIT",
+  "web": "https://github.com/Techno-Fox/psutil-nim",
+  "doc": "https://github.com/Techno-Fox/psutil-nim"
+}

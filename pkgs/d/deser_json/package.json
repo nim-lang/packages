@@ -1,0 +1,15 @@
+{
+  "name": "deser_json",
+  "url": "https://github.com/gabbhack/deser_json",
+  "method": "git",
+  "tags": [
+    "JSON",
+    "library",
+    "serialization",
+    "deserialization",
+    "deser"
+  ],
+  "description": "JSON-Binding for deser",
+  "license": "MIT",
+  "web": "https://github.com/gabbhack/deser_json"
+}

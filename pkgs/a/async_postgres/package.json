@@ -1,0 +1,14 @@
+{
+  "name": "async_postgres",
+  "url": "https://github.com/fox0430/async-postgres",
+  "method": "git",
+  "tags": [
+    "async",
+    "db",
+    "postgres",
+    "sql"
+  ],
+  "description": "Async PostgreSQL client",
+  "license": "MIT",
+  "web": "https://github.com/fox0430/async-postgres"
+}

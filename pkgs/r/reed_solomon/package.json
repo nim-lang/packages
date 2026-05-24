@@ -1,0 +1,12 @@
+{
+  "name": "reed_solomon",
+  "url": "https://github.com/lscrd/Reed-Solomon",
+  "method": "git",
+  "tags": [
+    "library",
+    "Reed-Solomon"
+  ],
+  "description": "Library to encode and decode data using Reed-Solomon correction codes.",
+  "license": "MIT",
+  "web": "https://github.com/lscrd/Reed-Solomon"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "bard",
+  "url": "https://github.com/thisago/bard",
+  "method": "git",
+  "tags": [
+    "library",
+    "batchexecute",
+    "bard",
+    "ai",
+    "google"
+  ],
+  "description": "Nim interface of Google Bard free API",
+  "license": "MIT",
+  "web": "https://github.com/thisago/bard"
+}

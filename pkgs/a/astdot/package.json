@@ -1,0 +1,14 @@
+{
+  "name": "astdot",
+  "url": "https://github.com/Rekihyt/astdot",
+  "method": "git",
+  "tags": [
+    "ast",
+    "dot",
+    "jpg",
+    "tree"
+  ],
+  "description": "Prints a dot graph of a nim ast dumped using the `dumpTree` macro.",
+  "license": "MIT",
+  "web": "https://github.com/Rekihyt/astdot"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "ffmpeg_cli",
+  "url": "https://git.termer.net/termer/nim-ffmpeg-cli",
+  "method": "git",
+  "tags": [
+    "ffmpeg",
+    "media",
+    "encoder",
+    "audio",
+    "video",
+    "nim",
+    "cli"
+  ],
+  "description": "Nim library for interfacing with the FFmpeg CLI to start, observe and terminate encode jobs with an intuitive API",
+  "license": "MIT",
+  "web": "https://git.termer.net/termer/nim-ffmpeg-cli"
+}

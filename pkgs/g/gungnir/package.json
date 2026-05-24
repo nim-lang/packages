@@ -1,0 +1,15 @@
+{
+  "name": "gungnir",
+  "url": "https://github.com/planety/gungnir",
+  "method": "git",
+  "tags": [
+    "web",
+    "starlight",
+    "prologue",
+    "signing",
+    "Cryptographic"
+  ],
+  "description": "Cryptographic signing for Nim.",
+  "license": "BSD-3-Clause",
+  "web": "https://github.com/planety/gungnir"
+}

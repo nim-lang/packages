@@ -1,0 +1,13 @@
+{
+  "name": "nuwa_sdk",
+  "url": "https://github.com/martineastwood/nuwa-sdk",
+  "method": "git",
+  "tags": [
+    "python",
+    "stub-generation",
+    "build-tool"
+  ],
+  "description": "SDK for Nuwa Build - provides compile-time metadata for Python stub generation",
+  "license": "MIT",
+  "web": "https://github.com/martineastwood/nuwa-sdk"
+}

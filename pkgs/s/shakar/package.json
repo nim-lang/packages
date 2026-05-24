@@ -1,0 +1,12 @@
+{
+  "name": "shakar",
+  "url": "https://github.com/ferus-web/shakar",
+  "method": "git",
+  "tags": [
+    "sugar",
+    "options"
+  ],
+  "description": "Syntactical sugar that's too sweet for the Nim standard library.",
+  "license": "MIT",
+  "web": "https://github.com/ferus-web/shakar"
+}

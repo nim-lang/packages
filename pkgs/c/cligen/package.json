@@ -1,0 +1,32 @@
+{
+  "name": "cligen",
+  "url": "https://github.com/c-blake/cligen.git",
+  "method": "git",
+  "tags": [
+    "library",
+    "cli",
+    "command-line",
+    "command line",
+    "commandline",
+    "arguments",
+    "switches",
+    "options",
+    "argparse",
+    "optparse",
+    "parser",
+    "parsing",
+    "formatter",
+    "formatting",
+    "template engines",
+    "highlighting",
+    "terminal",
+    "color",
+    "completion",
+    "help generation",
+    "abbreviation",
+    "multiprocessing"
+  ],
+  "description": "Infer & generate command-line interface/option/argument parsers",
+  "license": "MIT",
+  "web": "https://github.com/c-blake/cligen"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "nesm",
+  "url": "https://gitlab.com/xomachine/NESM.git",
+  "method": "git",
+  "tags": [
+    "metaprogramming",
+    "parser",
+    "pure",
+    "serialization"
+  ],
+  "description": "A macro for generating [de]serializers for given objects",
+  "license": "MIT",
+  "web": "https://xomachine.gitlab.io/NESM/"
+}

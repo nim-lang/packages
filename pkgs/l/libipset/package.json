@@ -1,0 +1,19 @@
+{
+  "name": "libipset",
+  "url": "https://github.com/ba0f3/libipset.nim",
+  "method": "git",
+  "tags": [
+    "ipset",
+    "firewall",
+    "netfilter",
+    "mac",
+    "ip",
+    "network",
+    "collection",
+    "rule",
+    "set"
+  ],
+  "description": "libipset wrapper for Nim",
+  "license": "MIT",
+  "web": "https://github.com/ba0f3/libipset.nim"
+}

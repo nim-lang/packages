@@ -1,0 +1,16 @@
+{
+  "name": "niscv",
+  "url": "https://gitlab.com/OFThomas/niscv",
+  "method": "git",
+  "tags": [
+    "virtual-machine",
+    "emulator",
+    "riscv",
+    "isa",
+    "virtual",
+    "machine"
+  ],
+  "description": "Nim powered RISC-V virtual machine and emulator.",
+  "license": "GPL3",
+  "web": "https://gitlab.com/OFThomas/niscv"
+}

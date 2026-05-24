@@ -1,0 +1,13 @@
+{
+  "name": "kombinator",
+  "url": "https://gitlab.com/EchoPouet/kombinator.git",
+  "method": "git",
+  "tags": [
+    "utility",
+    "binary",
+    "combination"
+  ],
+  "description": "Kombinator is a tool to generate commands line from parameters combination from a config file.",
+  "license": "MIT",
+  "web": "https://gitlab.com/EchoPouet/kombinator.git"
+}

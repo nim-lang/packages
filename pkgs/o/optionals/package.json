@@ -1,0 +1,14 @@
+{
+  "name": "optionals",
+  "url": "https://github.com/MasonMcGill/optionals.git",
+  "method": "git",
+  "tags": [
+    "library",
+    "option",
+    "optional",
+    "maybe"
+  ],
+  "description": "Option types",
+  "license": "MIT",
+  "web": "https://github.com/MasonMcGill/optionals"
+}

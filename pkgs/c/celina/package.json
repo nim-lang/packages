@@ -1,0 +1,14 @@
+{
+  "name": "celina",
+  "url": "https://github.com/fox0430/celina",
+  "method": "git",
+  "tags": [
+    "cli",
+    "command-line",
+    "terminal",
+    "ui"
+  ],
+  "description": "A CLI library inspired by Ratatui",
+  "license": "MIT",
+  "web": "https://github.com/fox0430/celina"
+}

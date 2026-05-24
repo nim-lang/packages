@@ -1,0 +1,16 @@
+{
+  "name": "witai",
+  "url": "https://github.com/xmonader/witai-nim",
+  "method": "git",
+  "tags": [
+    "witai",
+    "wit.ai",
+    "client",
+    "speech",
+    "freetext",
+    "voice"
+  ],
+  "description": "wit.ai client",
+  "license": "MIT",
+  "web": "https://github.com/xmonader/witai-nim"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "nimssh2",
+  "url": "https://github.com/genotrance/nimssh2",
+  "method": "git",
+  "tags": [
+    "ssh",
+    "library",
+    "wrapper"
+  ],
+  "description": "libssh2 wrapper for Nim",
+  "license": "MIT",
+  "web": "https://github.com/genotrance/nimssh2"
+}

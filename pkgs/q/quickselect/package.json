@@ -1,0 +1,15 @@
+{
+  "name": "quickselect",
+  "url": "https://github.com/nnsee/nim-quickselect",
+  "method": "git",
+  "tags": [
+    "quickselect",
+    "quicksort",
+    "selection",
+    "select",
+    "floyd-rivest"
+  ],
+  "description": "Nim implementations of the QuickSelect and Floyd-Rivest selection algorithms",
+  "license": "MIT",
+  "web": "https://git.dog/xx/nim-quickselect"
+}

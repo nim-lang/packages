@@ -1,0 +1,16 @@
+{
+  "name": "brotli",
+  "url": "https://github.com/neroist/brotli",
+  "method": "git",
+  "tags": [
+    "brotli",
+    "compression",
+    "decompression",
+    "bindings",
+    "wrapper"
+  ],
+  "description": "Brotli compression & decompression for Nim",
+  "license": "MIT",
+  "web": "https://github.com/neroist/brotli",
+  "doc": "https://neroist.github.io/brotli"
+}

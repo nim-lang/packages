@@ -1,0 +1,13 @@
+{
+  "name": "jester2swagger",
+  "url": "https://github.com/ThomasTJdev/jester2swagger",
+  "method": "git",
+  "tags": [
+    "jester",
+    "swagger",
+    "postman"
+  ],
+  "description": "Converts a file with Jester routes to Swagger JSON which can be imported in Postman.",
+  "license": "MIT",
+  "web": "https://github.com/ThomasTJdev/jester2swagger"
+}

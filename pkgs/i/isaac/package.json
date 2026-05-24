@@ -1,0 +1,14 @@
+{
+  "name": "isaac",
+  "url": "https://github.com/pragmagic/isaac/",
+  "method": "git",
+  "tags": [
+    "library",
+    "algorithms",
+    "random",
+    "crypto"
+  ],
+  "description": "ISAAC PRNG implementation on Nim",
+  "license": "MIT",
+  "web": "https://github.com/pragmagic/isaac/"
+}

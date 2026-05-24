@@ -1,0 +1,15 @@
+{
+  "name": "subscribestar",
+  "url": "https://github.com/thisago/subscribestar",
+  "method": "git",
+  "tags": [
+    "web",
+    "library",
+    "scraper",
+    "data",
+    "extracting"
+  ],
+  "description": "Subscribestar extractor",
+  "license": "MIT",
+  "web": "https://github.com/thisago/subscribestar"
+}

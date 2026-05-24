@@ -1,0 +1,15 @@
+{
+  "name": "kslog",
+  "url": "https://github.com/c-blake/kslog.git",
+  "method": "git",
+  "tags": [
+    "command-line",
+    "logging",
+    "syslog",
+    "syslogd",
+    "klogd"
+  ],
+  "description": "Minimalistic Kernel-Syslogd For Linux in Nim",
+  "license": "MIT",
+  "web": "https://github.com/c-blake/kslog"
+}

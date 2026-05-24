@@ -1,0 +1,14 @@
+{
+  "name": "BitVector",
+  "url": "https://github.com/MarcAzar/BitVector",
+  "method": "git",
+  "tags": [
+    "Bit",
+    "Array",
+    "Vector",
+    "Bloom"
+  ],
+  "description": "A high performance Nim implementation of BitVector with base SomeUnsignedInt(i.e: uint8-64) with support for slices, and seq supported operations",
+  "license": "MIT",
+  "web": "https://marcazar.github.io/BitVector"
+}

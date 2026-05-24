@@ -1,0 +1,17 @@
+{
+  "name": "shellcmd",
+  "url": "https://github.com/Alogani/shellcmd",
+  "method": "git",
+  "tags": [
+    "library",
+    "childprocess",
+    "async",
+    "script",
+    "bash",
+    "terminal",
+    "system administration"
+  ],
+  "description": "Collection of Terminal commands to be used inside nim",
+  "license": "MIT",
+  "web": "https://github.com/Alogani/shellcmd"
+}

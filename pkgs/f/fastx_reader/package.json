@@ -1,0 +1,13 @@
+{
+  "name": "fastx_reader",
+  "url": "https://github.com/ahcm/fastx_reader",
+  "method": "git",
+  "tags": [
+    "bioinformatics,",
+    "fasta,",
+    "fastq"
+  ],
+  "description": "FastQ and Fasta readers for NIM",
+  "license": "LGPL-3.0",
+  "web": "https://github.com/ahcm/fastx_reader"
+}

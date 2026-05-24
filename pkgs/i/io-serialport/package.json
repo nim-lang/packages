@@ -1,0 +1,14 @@
+{
+  "name": "io-serialport",
+  "url": "https://github.com/nimious/io-serialport.git",
+  "method": "git",
+  "tags": [
+    "binding",
+    "libserialport",
+    "serial",
+    "communication"
+  ],
+  "description": "Obsolete - please use serialport instead!",
+  "license": "MIT",
+  "web": "https://github.com/nimious/io-serialport"
+}

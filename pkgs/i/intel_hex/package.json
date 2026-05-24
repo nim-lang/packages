@@ -1,0 +1,13 @@
+{
+  "name": "intel_hex",
+  "url": "https://github.com/keyme/nim_intel_hex",
+  "method": "git",
+  "tags": [
+    "utils",
+    "parsing",
+    "hex"
+  ],
+  "description": "Intel hex file utility library",
+  "license": "MIT",
+  "web": "https://github.com/keyme/nim_intel_hex"
+}

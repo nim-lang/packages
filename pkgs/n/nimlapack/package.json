@@ -1,0 +1,12 @@
+{
+  "name": "nimlapack",
+  "url": "https://github.com/andreaferretti/nimlapack",
+  "method": "git",
+  "tags": [
+    "LAPACK",
+    "linear-algebra"
+  ],
+  "description": "LAPACK bindings",
+  "license": "Apache2",
+  "web": "https://github.com/andreaferretti/nimlapack"
+}

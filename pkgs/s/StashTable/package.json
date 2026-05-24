@@ -1,0 +1,21 @@
+{
+  "name": "StashTable",
+  "url": "https://github.com/olliNiinivaara/StashTable",
+  "method": "git",
+  "tags": [
+    "hash table",
+    "associative array",
+    "map",
+    "dictionary",
+    "key-value store",
+    "concurrent",
+    "multi-threading",
+    "parallel",
+    "data structure",
+    "benchmark"
+  ],
+  "description": "Concurrent hash table",
+  "license": "MIT",
+  "web": "https://github.com/olliNiinivaara/StashTable",
+  "doc": "https://htmlpreview.github.io/?https://github.com/olliNiinivaara/StashTable/blob/master/src/stashtable.html"
+}

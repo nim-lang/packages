@@ -1,0 +1,13 @@
+{
+  "name": "mailcow",
+  "url": "https://github.com/Vaipex/Mailcow-API",
+  "method": "git",
+  "tags": [
+    "mail",
+    "api",
+    "mailcow"
+  ],
+  "description": "Simple API wrapper for Mailcow",
+  "license": "GPL-3.0-only",
+  "web": "https://github.com/Vaipex/Mailcow-API"
+}

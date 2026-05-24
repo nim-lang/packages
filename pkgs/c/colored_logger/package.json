@@ -1,0 +1,12 @@
+{
+  "name": "colored_logger",
+  "url": "https://github.com/4zv4l/colored_logger",
+  "method": "git",
+  "tags": [
+    "logging",
+    "colours"
+  ],
+  "description": "A simple colored logger from std/logging",
+  "license": "MIT",
+  "web": "https://github.com/4zv4l/colored_logger"
+}

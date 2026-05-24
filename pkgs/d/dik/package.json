@@ -1,0 +1,11 @@
+{
+  "name": "dik",
+  "url": "https://github.com/juancarlospaco/dik",
+  "method": "git",
+  "tags": [
+    "dictionary"
+  ],
+  "description": "Table implemented as optimized sorted hashed dictionary of {array[char]: Option[T]}, same size as OrderedTable",
+  "license": "MIT",
+  "web": "https://github.com/juancarlospaco/dik"
+}

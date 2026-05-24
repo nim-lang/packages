@@ -1,0 +1,15 @@
+{
+  "name": "allegro5",
+  "url": "https://github.com/fowlmouth/allegro5",
+  "method": "git",
+  "tags": [
+    "wrapper",
+    "graphics",
+    "games",
+    "opengl",
+    "audio"
+  ],
+  "description": "Wrapper for Allegro version 5.X",
+  "license": "MIT",
+  "web": "https://github.com/fowlmouth/allegro5"
+}

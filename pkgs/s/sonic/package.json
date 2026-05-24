@@ -1,0 +1,15 @@
+{
+  "name": "sonic",
+  "url": "https://github.com/xmonader/nim-sonic-client",
+  "method": "git",
+  "tags": [
+    "sonic",
+    "search",
+    "backend",
+    "index",
+    "client"
+  ],
+  "description": "client for sonic search backend",
+  "license": "MIT",
+  "web": "https://github.com/xmonader/nim-sonic-client"
+}

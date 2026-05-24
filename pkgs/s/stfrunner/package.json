@@ -1,0 +1,12 @@
+{
+  "name": "stfrunner",
+  "url": "https://github.com/flenniken/stfrunner",
+  "method": "git",
+  "tags": [
+    "test",
+    "stf"
+  ],
+  "description": "A single test file runner.",
+  "license": "MIT",
+  "web": "https://github.com/flenniken/stfrunner"
+}

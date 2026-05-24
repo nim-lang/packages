@@ -1,0 +1,11 @@
+{
+  "name": "ansiwave",
+  "url": "https://github.com/ansiwave/ansiwave",
+  "method": "git",
+  "tags": [
+    "ansi",
+    "midi"
+  ],
+  "description": "ANSI art + MIDI music editor",
+  "license": "Public Domain"
+}

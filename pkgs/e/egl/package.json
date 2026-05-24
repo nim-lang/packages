@@ -1,0 +1,16 @@
+{
+  "name": "egl",
+  "url": "https://github.com/nimious/egl.git",
+  "method": "git",
+  "tags": [
+    "binding",
+    "khronos",
+    "egl",
+    "opengl",
+    "opengl es",
+    "openvg"
+  ],
+  "description": "Bindings for EGL, the native platform interface for rendering APIs.",
+  "license": "MIT",
+  "web": "https://github.com/nimious/egl"
+}

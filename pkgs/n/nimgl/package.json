@@ -1,0 +1,16 @@
+{
+  "name": "nimgl",
+  "url": "https://github.com/nimgl/nimgl",
+  "method": "git",
+  "tags": [
+    "glfw",
+    "imgui",
+    "opengl",
+    "bindings",
+    "gl",
+    "graphics"
+  ],
+  "description": "Nim Game Library",
+  "license": "MIT",
+  "web": "https://github.com/lmariscal/nimgl"
+}

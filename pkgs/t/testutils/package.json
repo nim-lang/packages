@@ -1,0 +1,17 @@
+{
+  "name": "testutils",
+  "url": "https://github.com/status-im/nim-testutils",
+  "method": "git",
+  "tags": [
+    "library",
+    "tests",
+    "unit-testing",
+    "integration-testing",
+    "compilation-tests",
+    "fuzzing",
+    "doctest"
+  ],
+  "description": "A comprehensive toolkit for all your testing needs",
+  "license": "Apache License 2.0",
+  "web": "https://github.com/status-im/nim-testutils"
+}

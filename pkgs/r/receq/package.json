@@ -1,0 +1,12 @@
+{
+  "name": "receq",
+  "url": "https://github.com/choltreppe/nim_receq",
+  "method": "git",
+  "tags": [
+    "compare",
+    "eq"
+  ],
+  "description": "Operator for comparing any recursive ref object",
+  "license": "MIT",
+  "web": "https://github.com/choltreppe/nim_receq"
+}

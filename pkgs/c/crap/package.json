@@ -1,0 +1,14 @@
+{
+  "name": "crap",
+  "url": "https://github.com/icyphox/crap",
+  "method": "git",
+  "tags": [
+    "rm",
+    "delete",
+    "trash",
+    "files"
+  ],
+  "description": "`rm` files without fear",
+  "license": "MIT",
+  "web": "https://github.com/icyphox/crap"
+}

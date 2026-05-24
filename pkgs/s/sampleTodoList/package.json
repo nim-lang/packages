@@ -1,0 +1,13 @@
+{
+  "name": "sampleTodoList",
+  "url": "https://github.com/momeemt/SampleTodoList",
+  "method": "git",
+  "tags": [
+    "todo",
+    "app",
+    "cui"
+  ],
+  "description": "Sample Todo List Application",
+  "license": "MIT",
+  "web": "https://github.com/momeemt/SampleTodoList"
+}

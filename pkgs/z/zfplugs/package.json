@@ -1,0 +1,16 @@
+{
+  "name": "zfplugs",
+  "url": "https://github.com/zendbit/nim_zfplugs",
+  "method": "git",
+  "tags": [
+    "web",
+    "http",
+    "framework",
+    "api",
+    "asynchttpserver",
+    "plugins"
+  ],
+  "description": "This is the plugins for the zfcore framework https://github.com/zendbit/nim_zfcore",
+  "license": "BSD",
+  "web": "https://github.com/zendbit/nim_zfplugs"
+}

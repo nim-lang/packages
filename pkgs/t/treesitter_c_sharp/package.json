@@ -1,0 +1,15 @@
+{
+  "name": "treesitter_c_sharp",
+  "url": "https://github.com/genotrance/nimtreesitter?subdir=treesitter_c_sharp",
+  "method": "git",
+  "tags": [
+    "tree-sitter",
+    "C#",
+    "parser",
+    "language",
+    "code"
+  ],
+  "description": "Nim wrapper for C# language support within tree-sitter",
+  "license": "MIT",
+  "web": "https://github.com/genotrance/nimtreesitter"
+}

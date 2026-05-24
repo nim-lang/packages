@@ -1,0 +1,13 @@
+{
+  "name": "notification",
+  "url": "https://github.com/SolitudeSF/notification",
+  "method": "git",
+  "tags": [
+    "notifications",
+    "desktop",
+    "dbus"
+  ],
+  "description": "Desktop notifications",
+  "license": "MIT",
+  "web": "https://github.com/SolitudeSF/notification"
+}

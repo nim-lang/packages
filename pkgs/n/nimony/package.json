@@ -1,0 +1,11 @@
+{
+  "name": "nimony",
+  "url": "https://github.com/nim-lang/nimony.git",
+  "method": "git",
+  "tags": [
+    "Nim compiler"
+  ],
+  "description": "Nimony is a new Nim implementation that is in heavy development.",
+  "license": "MIT",
+  "web": "https://github.com/nim-lang/nimony"
+}

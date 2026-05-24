@@ -1,0 +1,16 @@
+{
+  "name": "kdialog",
+  "url": "https://github.com/juancarlospaco/nim-kdialog",
+  "method": "git",
+  "tags": [
+    "kdialog",
+    "qt5",
+    "kde",
+    "gui",
+    "easy",
+    "qt"
+  ],
+  "description": "KDialog Qt5 Wrapper, easy API, KISS design",
+  "license": "LGPLv3",
+  "web": "https://github.com/juancarlospaco/nim-kdialog"
+}

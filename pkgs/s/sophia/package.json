@@ -1,0 +1,13 @@
+{
+  "name": "sophia",
+  "url": "https://github.com/gokr/nim-sophia",
+  "method": "git",
+  "tags": [
+    "library",
+    "wrapper",
+    "database"
+  ],
+  "description": "Nim wrapper of the Sophia key/value store",
+  "license": "MIT",
+  "web": "https://github.com/gokr/nim-sophia"
+}

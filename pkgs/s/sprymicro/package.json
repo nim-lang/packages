@@ -1,0 +1,12 @@
+{
+  "name": "sprymicro",
+  "url": "https://github.com/gokr/sprymicro",
+  "method": "git",
+  "tags": [
+    "spry",
+    "demo"
+  ],
+  "description": "Small demo Spry interpreters",
+  "license": "MIT",
+  "web": "https://github.com/gokr/sprymicro"
+}

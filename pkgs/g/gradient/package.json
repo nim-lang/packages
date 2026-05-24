@@ -1,0 +1,15 @@
+{
+  "name": "gradient",
+  "url": "https://github.com/luminosoda/gradient",
+  "method": "git",
+  "tags": [
+    "gradient",
+    "gradients",
+    "color",
+    "colors",
+    "deleted"
+  ],
+  "description": "Color gradients generation",
+  "license": "MIT",
+  "web": "https://github.com/luminosoda/gradient"
+}

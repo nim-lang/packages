@@ -1,0 +1,15 @@
+{
+  "name": "amysql",
+  "url": "https://github.com/bung87/amysql",
+  "method": "git",
+  "tags": [
+    "async",
+    "mysql",
+    "client",
+    "connector",
+    "driver"
+  ],
+  "description": "Async MySQL Connector write in pure Nim.",
+  "license": "MIT",
+  "web": "https://github.com/bung87/amysql"
+}

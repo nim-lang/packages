@@ -1,0 +1,13 @@
+{
+  "name": "xidoc",
+  "url": "https://github.com/xigoi/xidoc/",
+  "method": "git",
+  "tags": [
+    "markup",
+    "html",
+    "latex"
+  ],
+  "description": "A consistent markup language",
+  "license": "GPL-3.0",
+  "web": "https://xidoc.nim.town/"
+}

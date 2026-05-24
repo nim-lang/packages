@@ -1,0 +1,12 @@
+{
+  "name": "haraka",
+  "url": "https://git.sr.ht/~ehmry/nim_haraka",
+  "method": "git",
+  "tags": [
+    "hash",
+    "haraka"
+  ],
+  "description": "Haraka v2 short-input hash function",
+  "license": "MIT",
+  "web": "https://git.sr.ht/~ehmry/nim_haraka"
+}

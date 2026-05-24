@@ -1,0 +1,12 @@
+{
+  "name": "nimlevenshtein",
+  "url": "https://github.com/oswjk/nimlevenshtein",
+  "method": "git",
+  "tags": [
+    "levenshtein",
+    "similarity",
+    "string"
+  ],
+  "description": "The Levenshtein Nim module contains functions for fast computation of Levenshtein distance and string similarity.",
+  "license": "GPLv2"
+}

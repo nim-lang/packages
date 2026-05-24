@@ -1,0 +1,15 @@
+{
+  "name": "alignment",
+  "url": "https://github.com/jiro4989/alignment",
+  "method": "git",
+  "tags": [
+    "library",
+    "text",
+    "align",
+    "string",
+    "strutils"
+  ],
+  "description": "alignment is a library to align strings.",
+  "license": "MIT",
+  "web": "https://github.com/jiro4989/alignment"
+}

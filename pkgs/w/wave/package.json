@@ -1,0 +1,15 @@
+{
+  "name": "wave",
+  "url": "https://github.com/jiro4989/wave",
+  "method": "git",
+  "tags": [
+    "library",
+    "sound",
+    "media",
+    "parser",
+    "wave"
+  ],
+  "description": "wave is a tiny WAV sound module",
+  "license": "MIT",
+  "web": "https://github.com/jiro4989/wave"
+}

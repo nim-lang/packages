@@ -1,0 +1,14 @@
+{
+  "name": "nancy",
+  "url": "https://github.com/PMunch/nancy",
+  "method": "git",
+  "tags": [
+    "ansi",
+    "library",
+    "terminal",
+    "table"
+  ],
+  "description": "Nancy - Nim fancy ANSI tables",
+  "license": "MIT",
+  "web": "https://github.com/PMunch/nancy"
+}

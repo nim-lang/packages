@@ -1,0 +1,15 @@
+{
+  "name": "treesitter_scala",
+  "url": "https://github.com/genotrance/nimtreesitter?subdir=treesitter_scala",
+  "method": "git",
+  "tags": [
+    "tree-sitter",
+    "scala",
+    "parser",
+    "language",
+    "code"
+  ],
+  "description": "Nim wrapper for Scala language support within tree-sitter",
+  "license": "MIT",
+  "web": "https://github.com/genotrance/nimtreesitter"
+}

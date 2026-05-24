@@ -1,0 +1,16 @@
+{
+  "name": "kapsis",
+  "url": "https://github.com/openpeeps/kapsis",
+  "method": "git",
+  "tags": [
+    "cli",
+    "cli-toolkit",
+    "toolkit",
+    "command-line",
+    "cli-framework",
+    "interactive"
+  ],
+  "description": "Build delightful command line interfaces in seconds.",
+  "license": "MIT",
+  "web": "https://github.com/openpeeps/kapsis"
+}

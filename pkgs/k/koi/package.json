@@ -1,0 +1,17 @@
+{
+  "name": "koi",
+  "url": "https://github.com/johnnovak/koi",
+  "method": "git",
+  "tags": [
+    "ui",
+    "library",
+    "gui",
+    "imgui",
+    "opengl",
+    "windowing",
+    "glfw"
+  ],
+  "description": "Immediate mode UI for Nim",
+  "license": "WTFPL",
+  "web": "https://github.com/johnnovak/koi"
+}

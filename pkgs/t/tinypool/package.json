@@ -1,0 +1,13 @@
+{
+  "name": "tinypool",
+  "url": "https://github.com/PhilippMDoerner/TinyPool",
+  "method": "git",
+  "tags": [
+    "database",
+    "sqlite3",
+    "connection-pool"
+  ],
+  "description": "A minimalistic connection pooling package",
+  "license": "MIT",
+  "web": "https://github.com/PhilippMDoerner/TinyPool"
+}

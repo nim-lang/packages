@@ -1,0 +1,14 @@
+{
+  "name": "promexplorer",
+  "url": "https://github.com/marcusramberg/promexplorer",
+  "method": "git",
+  "tags": [
+    "prometheus",
+    "tui",
+    "illwill",
+    "monitoring"
+  ],
+  "description": "A simple tool to explore Prometheus exporter metrics",
+  "license": "mit",
+  "web": "https://github.com/marcusramberg/promexplorer"
+}

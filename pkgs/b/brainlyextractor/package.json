@@ -1,0 +1,13 @@
+{
+  "name": "brainlyextractor",
+  "url": "https://github.com/thisago/brainlyextractor",
+  "method": "git",
+  "tags": [
+    "library",
+    "scraper",
+    "extractor"
+  ],
+  "description": "Brainly data extractor",
+  "license": "MIT",
+  "web": "https://github.com/thisago/brainlyextractor"
+}

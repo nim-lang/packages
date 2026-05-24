@@ -1,0 +1,14 @@
+{
+  "name": "naylib",
+  "url": "https://github.com/planetis-m/naylib",
+  "method": "git",
+  "tags": [
+    "library",
+    "wrapper",
+    "raylib",
+    "gamedev"
+  ],
+  "description": "Yet another raylib Nim wrapper",
+  "license": "MIT",
+  "web": "https://github.com/planetis-m/naylib"
+}

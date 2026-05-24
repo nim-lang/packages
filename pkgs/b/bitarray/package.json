@@ -1,0 +1,14 @@
+{
+  "name": "bitarray",
+  "url": "https://github.com/onecodex/nim-bitarray",
+  "method": "git",
+  "tags": [
+    "Bit arrays",
+    "Bit sets",
+    "Bit vectors",
+    "Data structures"
+  ],
+  "description": "mmap-backed bitarray implementation in Nim.",
+  "license": "MIT",
+  "web": "https://www.github.com/onecodex/nim-bitarray"
+}

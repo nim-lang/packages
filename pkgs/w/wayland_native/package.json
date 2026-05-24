@@ -1,0 +1,14 @@
+{
+  "name": "wayland_native",
+  "url": "https://git.sr.ht/~ehmry/wayland-nim",
+  "method": "git",
+  "tags": [
+    "client",
+    "cps",
+    "library",
+    "wayland"
+  ],
+  "description": "Native Wayland client library",
+  "license": "Unlicense",
+  "web": "https://git.sr.ht/~ehmry/wayland-nim"
+}

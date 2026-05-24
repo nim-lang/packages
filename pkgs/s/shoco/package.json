@@ -1,0 +1,12 @@
+{
+  "name": "shoco",
+  "url": "https://github.com/onionhammer/shoconim.git",
+  "method": "git",
+  "tags": [
+    "compression",
+    "shoco"
+  ],
+  "description": "A fast compressor for short strings",
+  "license": "MIT",
+  "web": "https://github.com/onionhammer/shoconim"
+}

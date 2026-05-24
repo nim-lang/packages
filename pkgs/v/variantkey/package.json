@@ -1,0 +1,12 @@
+{
+  "name": "variantkey",
+  "url": "https://github.com/brentp/variantkey-nim",
+  "method": "git",
+  "tags": [
+    "vcf",
+    "variant",
+    "genomics"
+  ],
+  "description": "encode/decode variants to/from uint64",
+  "license": "MIT"
+}

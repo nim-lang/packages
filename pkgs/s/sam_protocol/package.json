@@ -1,0 +1,12 @@
+{
+  "name": "sam_protocol",
+  "url": "https://github.com/gabbhack/sam_protocol",
+  "method": "git",
+  "tags": [
+    "i2p"
+  ],
+  "description": "I2P SAM Protocol without any IO",
+  "license": "MIT",
+  "web": "https://github.com/gabbhack/sam_protocol",
+  "doc": "https://gabb.eu.org/sam_protocol"
+}

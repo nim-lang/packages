@@ -1,0 +1,14 @@
+{
+  "name": "hasts",
+  "url": "https://github.com/haxscramper/hasts",
+  "method": "git",
+  "tags": [
+    "wrapper",
+    "graphviz",
+    "html",
+    "latex"
+  ],
+  "description": "AST for various languages",
+  "license": "Apache-2.0",
+  "web": "https://github.com/haxscramper/hasts"
+}

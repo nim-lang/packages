@@ -1,0 +1,13 @@
+{
+  "name": "fasttext",
+  "url": "https://github.com/bung87/fastText",
+  "method": "git",
+  "tags": [
+    "nlp,text",
+    "process,text",
+    "classification"
+  ],
+  "description": "fastText porting in Nim",
+  "license": "MIT",
+  "web": "https://github.com/bung87/fastText"
+}

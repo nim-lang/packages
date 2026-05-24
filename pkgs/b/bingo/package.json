@@ -1,0 +1,14 @@
+{
+  "name": "bingo",
+  "url": "https://github.com/planetis-m/bingo",
+  "method": "git",
+  "tags": [
+    "binary",
+    "marshal",
+    "serialize",
+    "deserialize"
+  ],
+  "description": "Binary serialization framework",
+  "license": "MIT",
+  "web": "https://github.com/planetis-m/bingo"
+}

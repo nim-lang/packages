@@ -1,0 +1,19 @@
+{
+  "name": "starlight",
+  "url": "https://github.com/akvilary/starlight",
+  "method": "git",
+  "tags": [
+    "web",
+    "async",
+    "framework",
+    "ssr",
+    "html",
+    "template",
+    "server",
+    "chronos",
+    "starlight"
+  ],
+  "description": "Super fast async SSR framework — type-safe layouts, zero-copy rendering, compile-time HTML optimization, uses Chronos",
+  "license": "MIT",
+  "web": "https://github.com/akvilary/starlight"
+}

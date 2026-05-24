@@ -1,0 +1,15 @@
+{
+  "name": "hmac",
+  "url": "https://github.com/nim-community/hmac.nim",
+  "method": "git",
+  "tags": [
+    "hmac",
+    "authentication",
+    "hash",
+    "sha1",
+    "md5"
+  ],
+  "description": "HMAC-SHA1 and HMAC-MD5 hashing in Nim",
+  "license": "MIT",
+  "web": "https://github.com/nim-community/hmac.nim"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "worldtree",
+  "url": "https://github.com/keithaustin/worldtree",
+  "method": "git",
+  "tags": [
+    "entity-component-system",
+    "ecs",
+    "dod"
+  ],
+  "description": "A small, lightweight ECS framework for Nim.",
+  "license": "MIT"
+}

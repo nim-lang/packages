@@ -1,0 +1,13 @@
+{
+  "name": "vikunja",
+  "url": "https://github.com/ruivieira/nim-vikunja",
+  "method": "git",
+  "tags": [
+    "client",
+    "rest",
+    "project-management"
+  ],
+  "description": "Nim REST client to Vikunja",
+  "license": "apache 2.0",
+  "web": "https://github.com/ruivieira/nim-vikunja"
+}

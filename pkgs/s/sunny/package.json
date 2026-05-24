@@ -1,0 +1,11 @@
+{
+  "name": "sunny",
+  "url": "https://github.com/guzba/sunny",
+  "method": "git",
+  "tags": [
+    "json"
+  ],
+  "description": "JSON in Nim with Go-like field tags",
+  "license": "MIT",
+  "web": "https://github.com/guzba/sunny"
+}

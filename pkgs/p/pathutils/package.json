@@ -1,0 +1,13 @@
+{
+  "name": "pathutils",
+  "url": "https://github.com/hmbemba/pathutils",
+  "method": "git",
+  "tags": [
+    "utils",
+    "paths",
+    "helper"
+  ],
+  "description": "Utilities for handling paths",
+  "license": "MIT",
+  "web": "https://github.com/hmbemba/pathutils"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "ad",
+  "tags": [
+    "calculator",
+    "rpn"
+  ],
+  "method": "git",
+  "license": "MIT",
+  "web": "https://github.com/subsetpark/ad",
+  "url": "https://github.com/subsetpark/ad",
+  "description": "A simple RPN calculator"
+}

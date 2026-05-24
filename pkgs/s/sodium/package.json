@@ -1,0 +1,13 @@
+{
+  "name": "sodium",
+  "url": "https://github.com/zielmicha/libsodium.nim",
+  "method": "git",
+  "tags": [
+    "crypto",
+    "security",
+    "sodium"
+  ],
+  "description": "High-level libsodium bindings",
+  "license": "MIT",
+  "web": "https://github.com/zielmicha/libsodium.nim"
+}

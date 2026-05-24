@@ -1,0 +1,14 @@
+{
+  "name": "ferrite",
+  "url": "https://github.com/ferus-web/ferrite",
+  "method": "git",
+  "tags": [
+    "unicode",
+    "UTF-16",
+    "UTF-8",
+    "encodings"
+  ],
+  "description": "A collection of utilities useful for implementing web standards",
+  "license": "MIT",
+  "web": "https://github.com/ferus-web/ferrite"
+}

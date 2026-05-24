@@ -1,0 +1,13 @@
+{
+  "name": "currying",
+  "url": "https://github.com/t8m8/currying",
+  "method": "git",
+  "tags": [
+    "library",
+    "functional",
+    "currying"
+  ],
+  "description": "Currying library for Nim",
+  "license": "MIT",
+  "web": "https://github.com/t8m8/currying"
+}

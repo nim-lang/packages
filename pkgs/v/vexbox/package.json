@@ -1,0 +1,13 @@
+{
+  "name": "vexbox",
+  "url": "https://github.com/roger-padrell/vexbox",
+  "method": "git",
+  "tags": [
+    "vexbox",
+    "vex",
+    "snap"
+  ],
+  "description": "VexBox is a code snapping software.",
+  "license": "MIT",
+  "web": "https://github.com/roger-padrell/vexbox"
+}

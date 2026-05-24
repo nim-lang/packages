@@ -1,0 +1,13 @@
+{
+  "name": "norm",
+  "url": "https://github.com/moigagoo/norm",
+  "method": "git",
+  "tags": [
+    "orm",
+    "db",
+    "database"
+  ],
+  "description": "Nim ORM.",
+  "license": "MIT",
+  "web": "https://github.com/moigagoo/norm"
+}

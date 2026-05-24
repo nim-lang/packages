@@ -1,0 +1,15 @@
+{
+  "name": "emailparser",
+  "url": "https://github.com/mildred/emailparser.nim",
+  "method": "git",
+  "tags": [
+    "email",
+    "rfc822",
+    "rfc2822",
+    "parser",
+    "jmap"
+  ],
+  "description": "Email parser to JsonNode based on Cyrus JMAP parser",
+  "license": "BSD",
+  "web": "https://github.com/mildred/emailparser.nim"
+}

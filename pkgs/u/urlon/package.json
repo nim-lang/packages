@@ -1,0 +1,14 @@
+{
+  "name": "urlon",
+  "url": "https://github.com/Double-oxygeN/urlon-nim",
+  "method": "git",
+  "tags": [
+    "json",
+    "urlon",
+    "parser",
+    "library"
+  ],
+  "description": "URL Object Notation implemented in Nim",
+  "license": "MIT",
+  "web": "https://github.com/Double-oxygeN/urlon-nim"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "glossolalia",
+  "url": "https://github.com/fowlmouth/glossolalia",
+  "method": "git",
+  "tags": [
+    "parser",
+    "peg"
+  ],
+  "description": "A DSL for quickly writing parsers",
+  "license": "CC0",
+  "web": "https://github.com/fowlmouth/glossolalia"
+}

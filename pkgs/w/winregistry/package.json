@@ -1,0 +1,13 @@
+{
+  "name": "winregistry",
+  "description": "Deal with Windows Registry from Nim.",
+  "tags": [
+    "registry",
+    "windows",
+    "library"
+  ],
+  "url": "https://github.com/miere43/nim-registry",
+  "web": "https://github.com/miere43/nim-registry",
+  "license": "MIT",
+  "method": "git"
+}

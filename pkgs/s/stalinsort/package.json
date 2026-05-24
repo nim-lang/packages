@@ -1,0 +1,12 @@
+{
+  "name": "stalinsort",
+  "url": "https://github.com/tonogram/stalinsort",
+  "method": "git",
+  "tags": [
+    "algorithm",
+    "sort"
+  ],
+  "description": "A Nim implementation of the Stalin Sort algorithm.",
+  "license": "CC0-1.0",
+  "web": "https://github.com/tonogram/stalinsort"
+}

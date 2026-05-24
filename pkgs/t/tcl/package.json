@@ -1,0 +1,11 @@
+{
+  "name": "tcl",
+  "url": "https://github.com/nim-lang/tcl",
+  "method": "git",
+  "tags": [
+    "wrapper"
+  ],
+  "description": "Wrapper for the TCL programming language",
+  "license": "MIT",
+  "web": "https://github.com/nim-lang/tcl"
+}

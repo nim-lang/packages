@@ -1,0 +1,11 @@
+{
+  "name": "rangex",
+  "url": "https://github.com/PegasusPlusUS/rangex-nim",
+  "method": "git",
+  "tags": [
+    "Snippet"
+  ],
+  "description": "Clear range maker",
+  "license": "MIT",
+  "web": "https://github.com/PegasusPlusUS/rangex-nim"
+}

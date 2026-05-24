@@ -1,0 +1,12 @@
+{
+  "name": "getch",
+  "url": "https://github.com/6A/getch",
+  "method": "git",
+  "tags": [
+    "getch",
+    "char"
+  ],
+  "description": "getch() for Windows and Unix",
+  "license": "MIT",
+  "web": "https://github.com/6A/getch"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "neo",
+  "url": "https://github.com/andreaferretti/neo",
+  "method": "git",
+  "tags": [
+    "vector",
+    "matrix",
+    "linear-algebra",
+    "BLAS",
+    "LAPACK",
+    "CUDA"
+  ],
+  "description": "Linear algebra for Nim",
+  "license": "Apache License 2.0",
+  "web": "https://andreaferretti.github.io/neo/"
+}

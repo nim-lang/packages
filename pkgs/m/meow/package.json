@@ -1,0 +1,12 @@
+{
+  "name": "meow",
+  "url": "https://github.com/disruptek/meow",
+  "method": "git",
+  "tags": [
+    "meow",
+    "hash"
+  ],
+  "description": "meowhash wrapper for Nim",
+  "license": "MIT",
+  "web": "https://github.com/disruptek/meow"
+}

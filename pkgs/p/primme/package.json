@@ -1,0 +1,14 @@
+{
+  "name": "primme",
+  "url": "https://github.com/jxy/primme",
+  "method": "git",
+  "tags": [
+    "library",
+    "eigenvalues",
+    "high-performance",
+    "singular-value-decomposition"
+  ],
+  "description": "Nim interface for PRIMME: PReconditioned Iterative MultiMethod Eigensolver",
+  "license": "MIT",
+  "web": "https://github.com/jxy/primme"
+}

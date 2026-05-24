@@ -1,0 +1,11 @@
+{
+  "name": "cairo",
+  "url": "https://github.com/nim-lang/cairo",
+  "method": "git",
+  "tags": [
+    "wrapper"
+  ],
+  "description": "Wrapper for cairo, a vector graphics library with display and print output",
+  "license": "MIT",
+  "web": "https://github.com/nim-lang/cairo"
+}

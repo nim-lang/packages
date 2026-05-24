@@ -1,0 +1,16 @@
+{
+  "name": "wChart",
+  "url": "https://github.com/bunkford/wChart",
+  "method": "git",
+  "tags": [
+    "library",
+    "windows",
+    "gui",
+    "ui",
+    "wnim"
+  ],
+  "description": "Chart plugin for wNim.",
+  "license": "MIT",
+  "web": "https://github.com/bunkford/wChart",
+  "doc": "https://bunkford.github.io/wChart/wChart.html"
+}

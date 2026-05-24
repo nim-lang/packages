@@ -1,0 +1,17 @@
+{
+  "name": "nimpress",
+  "url": "https://github.com/mpinese/nimpress",
+  "method": "git",
+  "tags": [
+    "dna",
+    "genetics",
+    "genomics",
+    "gwas",
+    "polygenic",
+    "risk",
+    "vcf"
+  ],
+  "description": "Fast and simple calculation of polygenic scores",
+  "license": "MIT",
+  "web": "https://github.com/mpinese/nimpress/"
+}

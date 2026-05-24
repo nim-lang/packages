@@ -1,0 +1,15 @@
+{
+  "name": "wasm-minimal-protocol",
+  "url": "https://github.com/nimpylib/wasm-minimal-protocol",
+  "method": "git",
+  "tags": [
+    "library",
+    "utils",
+    "wasm",
+    "webassembly",
+    "typst"
+  ],
+  "description": "macros and helpers to write Typst Plugin in Nim",
+  "license": "MIT",
+  "web": "https://wasm-minimal-protocol.nimpylib.org"
+}

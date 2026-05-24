@@ -1,0 +1,16 @@
+{
+  "name": "ada",
+  "url": "https://github.com/ferus-web/nim-ada",
+  "method": "git",
+  "tags": [
+    "wrapper",
+    "url",
+    "parser",
+    "whatwg",
+    "arc",
+    "orc"
+  ],
+  "description": "High-level Nim wrapper over ada-url, a high-performance, spec-compliant WHATWG URL parser written in C++.",
+  "license": "MIT",
+  "web": "https://github.com/ferus-web/nim-ada"
+}

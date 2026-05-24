@@ -1,0 +1,14 @@
+{
+  "name": "notificatcher",
+  "url": "https://github.com/PMunch/notificatcher",
+  "method": "git",
+  "tags": [
+    "binary",
+    "freedesktop",
+    "notifications",
+    "dbus"
+  ],
+  "description": "Small program to grab notifications from freedesktop and output them according to a format",
+  "license": "MIT",
+  "web": "https://github.com/PMunch/notificatcher"
+}

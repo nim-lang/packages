@@ -1,0 +1,12 @@
+{
+  "name": "checkpack",
+  "url": "https://gitlab.com/EchoPouet/checkpack",
+  "method": "git",
+  "tags": [
+    "package",
+    "library"
+  ],
+  "description": "Tiny library to check if a system package is already installed.",
+  "license": "MIT",
+  "web": "https://gitlab.com/EchoPouet/checkpack"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "RollingHash",
+  "url": "https://github.com/MarcAzar/RollingHash",
+  "method": "git",
+  "tags": [
+    "Cyclic",
+    "Hash",
+    "BuzHash",
+    "Rolling",
+    "Rabin",
+    "Karp",
+    "CRC",
+    "Fingerprint",
+    "n-gram"
+  ],
+  "description": "A high performance Nim implementation of a Cyclic Polynomial Hash, aka BuzHash, and the Rabin-Karp algorithm",
+  "license": "MIT",
+  "web": "https://marcazar.github.io/RollingHash"
+}

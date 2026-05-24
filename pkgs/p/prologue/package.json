@@ -1,0 +1,15 @@
+{
+  "name": "prologue",
+  "url": "https://github.com/planety/Prologue",
+  "method": "git",
+  "tags": [
+    "web",
+    "prologue",
+    "starlight",
+    "jester"
+  ],
+  "description": "Another micro web framework.",
+  "license": "MIT",
+  "web": "https://github.com/planety/Prologue",
+  "doc": "https://planety.github.io/prologue"
+}

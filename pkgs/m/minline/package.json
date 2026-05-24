@@ -1,0 +1,15 @@
+{
+  "name": "minline",
+  "url": "https://github.com/h3rald/minline",
+  "method": "git",
+  "tags": [
+    "command-line",
+    "repl",
+    "prompt",
+    "readline",
+    "linenoise"
+  ],
+  "description": "A line editing library in pure Nim",
+  "license": "MIT",
+  "web": "https://github.com/h3rald/minline"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "jobscheduler",
+  "url": "https://github.com/YesDrX/nim-jobscheduler",
+  "method": "git",
+  "tags": [
+    "jobscheduler"
+  ],
+  "description": "A cross platform jobscheduler app made using Nim.",
+  "license": "MIT",
+  "web": "https://github.com/YesDrX/nim-jobscheduler"
+}

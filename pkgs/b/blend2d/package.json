@@ -1,0 +1,16 @@
+{
+  "name": "blend2d",
+  "url": "https://github.com/openpeeps/blend2d-nim",
+  "method": "git",
+  "tags": [
+    "graphics",
+    "2d",
+    "blend2d",
+    "2d-graphics",
+    "rasterization",
+    "vector"
+  ],
+  "description": "Blend2D for Nim language",
+  "license": "MIT",
+  "web": "https://github.com/openpeeps/blend2d-nim"
+}

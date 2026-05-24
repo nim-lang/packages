@@ -1,0 +1,13 @@
+{
+  "name": "parsesql",
+  "url": "https://github.com/nim-lang/parsesql",
+  "method": "git",
+  "tags": [
+    "SQL",
+    "web",
+    "PostgreSQL"
+  ],
+  "description": "a high performance SQL file parser",
+  "license": "MIT",
+  "web": "https://github.com/nim-lang/parsesql"
+}

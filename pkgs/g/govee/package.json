@@ -1,0 +1,14 @@
+{
+  "name": "govee",
+  "url": "https://github.com/neroist/nim-govee",
+  "method": "git",
+  "tags": [
+    "govee",
+    "wrapper",
+    "api"
+  ],
+  "description": "A Nim wrapper for the Govee API.",
+  "license": "MIT",
+  "web": "https://github.com/neroist/nim-govee",
+  "doc": "https://neroist.github.io/nim-govee/"
+}

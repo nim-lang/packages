@@ -1,0 +1,13 @@
+{
+  "name": "chipmunk7_demos",
+  "url": "https://github.com/matkuki/chipmunk7_demos/",
+  "method": "git",
+  "tags": [
+    "demos",
+    "physics",
+    "game"
+  ],
+  "description": "Chipmunk7 demos for Nim",
+  "license": "MIT",
+  "web": "https://github.com/matkuki/chipmunk7_demos"
+}

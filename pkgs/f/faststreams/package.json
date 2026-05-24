@@ -1,0 +1,14 @@
+{
+  "name": "faststreams",
+  "url": "https://github.com/status-im/nim-faststreams",
+  "method": "git",
+  "tags": [
+    "library",
+    "I/O",
+    "memory-mapping",
+    "streams"
+  ],
+  "description": "Nearly zero-overhead input/output streams for Nim",
+  "license": "Apache License 2.0",
+  "web": "https://github.com/status-im/nim-faststreams"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "looper",
+  "url": "https://github.com/planetis-m/looper",
+  "method": "git",
+  "tags": [
+    "loop",
+    "iterator",
+    "zip",
+    "collect"
+  ],
+  "description": "for loop macros",
+  "license": "MIT",
+  "web": "https://github.com/planetis-m/looper"
+}

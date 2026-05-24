@@ -1,0 +1,12 @@
+{
+  "name": "fontconfig",
+  "url": "https://github.com/Parashurama/fontconfig",
+  "method": "git",
+  "tags": [
+    "fontconfig",
+    "font"
+  ],
+  "description": "Low level wrapper for the fontconfig library.",
+  "license": "Fontconfig",
+  "web": "https://github.com/Parashurama/fontconfig"
+}

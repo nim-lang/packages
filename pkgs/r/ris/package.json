@@ -1,0 +1,13 @@
+{
+  "name": "ris",
+  "url": "https://github.com/achesak/nim-ris",
+  "method": "git",
+  "tags": [
+    "RIS",
+    "citation",
+    "library"
+  ],
+  "description": "Module for working with RIS citation files",
+  "license": "MIT",
+  "web": "https://github.com/achesak/nim-ris"
+}

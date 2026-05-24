@@ -1,0 +1,14 @@
+{
+  "name": "nimgame",
+  "url": "https://github.com/Vladar4/nimgame/",
+  "method": "git",
+  "tags": [
+    "deprecated",
+    "game",
+    "engine",
+    "sdl"
+  ],
+  "description": "A simple 2D game engine for Nim language. Deprecated, use nimgame2 instead.",
+  "license": "MIT",
+  "web": "https://github.com/Vladar4/nimgame"
+}

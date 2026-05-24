@@ -1,0 +1,11 @@
+{
+  "name": "paranim",
+  "url": "https://github.com/paranim/paranim",
+  "method": "git",
+  "tags": [
+    "games",
+    "opengl"
+  ],
+  "description": "A game library",
+  "license": "Public Domain"
+}

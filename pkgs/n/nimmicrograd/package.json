@@ -1,0 +1,14 @@
+{
+  "name": "nimmicrograd",
+  "url": "https://github.com/soheil555/nimmicrograd",
+  "method": "git",
+  "tags": [
+    "micrograd",
+    "neural-network",
+    "deep-learning",
+    "autograd-engine"
+  ],
+  "description": "Nim implementation of micrograd autograd engine.",
+  "license": "MIT",
+  "web": "https://github.com/soheil555/nimmicrograd"
+}

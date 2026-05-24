@@ -1,0 +1,15 @@
+{
+  "name": "html",
+  "url": "https://github.com/thing-king/html",
+  "method": "git",
+  "tags": [
+    "html",
+    "codegen",
+    "builder",
+    "web",
+    "official"
+  ],
+  "description": "Typed HTML5 element data and builder for structured HTML",
+  "license": "MIT",
+  "web": "https://github.com/thing-king/html"
+}

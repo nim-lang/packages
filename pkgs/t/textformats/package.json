@@ -1,0 +1,14 @@
+{
+  "name": "textformats",
+  "url": "https://github.com/ggonnella/textformats",
+  "method": "git",
+  "tags": [
+    "parsing",
+    "formats",
+    "textfiles",
+    "library"
+  ],
+  "description": "Easy specification of text formats for structured data",
+  "license": "ISC",
+  "web": "https://github.com/ggonnella/textformats"
+}

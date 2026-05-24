@@ -1,0 +1,14 @@
+{
+  "name": "glbits",
+  "url": "https://github.com/rlipsc/glbits",
+  "method": "git",
+  "tags": [
+    "opengl",
+    "shaders",
+    "graphics",
+    "sdl2"
+  ],
+  "description": "A light interface and selection of utilities for working with OpenGL and SDL2",
+  "license": "Apache-2.0",
+  "web": "https://github.com/rlipsc/glbits"
+}

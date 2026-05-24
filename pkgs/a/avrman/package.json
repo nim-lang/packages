@@ -1,0 +1,20 @@
+{
+  "name": "avrman",
+  "url": "https://github.com/Abathargh/avrman",
+  "method": "git",
+  "tags": [
+    "avr",
+    "atmega",
+    "microcontroller",
+    "embedded",
+    "firmware",
+    "nim",
+    "nimble",
+    "cmake",
+    "make",
+    "makefile"
+  ],
+  "description": "A tool for managing nim and c projects targetting AVR microcontrollers.",
+  "license": "BSD-3",
+  "web": "https://github.com/Abathargh/avrman"
+}

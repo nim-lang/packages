@@ -1,0 +1,16 @@
+{
+  "name": "cmixer_sdl2",
+  "url": "https://github.com/rxi/cmixer_sdl2-nim",
+  "method": "git",
+  "tags": [
+    "library",
+    "audio",
+    "mixer",
+    "sound",
+    "wav",
+    "ogg"
+  ],
+  "description": "Lightweight audio mixer for SDL2",
+  "license": "MIT",
+  "web": "https://github.com/rxi/cmixer_sdl2-nim"
+}

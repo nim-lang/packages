@@ -1,0 +1,13 @@
+{
+  "name": "ansitohtml",
+  "url": "https://github.com/PMunch/ansitohtml",
+  "method": "git",
+  "tags": [
+    "ansi",
+    "library",
+    "html"
+  ],
+  "description": "Converts ANSI colour codes to HTML span tags with style tags",
+  "license": "MIT",
+  "web": "https://github.com/PMunch/ansitohtml"
+}

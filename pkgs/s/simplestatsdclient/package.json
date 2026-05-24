@@ -1,0 +1,15 @@
+{
+  "name": "simplestatsdclient",
+  "url": "https://github.com/Q-Master/statsdclient.nim",
+  "method": "git",
+  "tags": [
+    "statsd",
+    "client",
+    "library",
+    "sync",
+    "async"
+  ],
+  "description": "Pure nim interface library to send data to any StatsD compatible daemon",
+  "license": "MIT",
+  "web": "https://github.com/Q-Master/statsdclient.nim"
+}

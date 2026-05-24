@@ -1,0 +1,14 @@
+{
+  "name": "oldgtk3",
+  "url": "https://github.com/stefansalewski/oldgtk3",
+  "method": "git",
+  "tags": [
+    "library",
+    "gtk",
+    "wrapper",
+    "gui"
+  ],
+  "description": "Low level bindings for GTK3 related libraries",
+  "license": "MIT",
+  "web": "https://github.com/stefansalewski/oldgtk3"
+}

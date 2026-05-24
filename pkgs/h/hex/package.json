@@ -1,0 +1,12 @@
+{
+  "name": "hex",
+  "url": "https://github.com/esbullington/nimrod-hex",
+  "method": "git",
+  "tags": [
+    "hex",
+    "encoding"
+  ],
+  "description": "A simple hex package for Nim",
+  "license": "MIT",
+  "web": "https://github.com/esbullington/nimrod-hex"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "kairos",
+  "url": "https://github.com/jmgomez/kairos",
+  "method": "git",
+  "tags": [
+    "http",
+    "server",
+    "chronos",
+    "async",
+    "web",
+    "prologue"
+  ],
+  "description": "Multi-threaded chronos HTTP server with httpx-compatible API",
+  "license": "MIT"
+}

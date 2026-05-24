@@ -1,0 +1,11 @@
+{
+  "name": "globby",
+  "url": "https://github.com/treeform/globby",
+  "method": "git",
+  "tags": [
+    "glob"
+  ],
+  "description": "Glob pattern matching for Nim.",
+  "license": "MIT",
+  "web": "https://github.com/treeform/globby"
+}

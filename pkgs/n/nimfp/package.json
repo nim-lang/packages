@@ -1,0 +1,12 @@
+{
+  "name": "nimfp",
+  "url": "https://github.com/vegansk/nimfp",
+  "method": "git",
+  "tags": [
+    "functional",
+    "library"
+  ],
+  "description": "Nim functional programming library",
+  "license": "MIT",
+  "web": "https://github.com/vegansk/nimfp"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "python3",
+  "url": "https://github.com/matkuki/python3",
+  "method": "git",
+  "tags": [
+    "python",
+    "wrapper"
+  ],
+  "description": "Wrapper to interface with the Python 3 interpreter",
+  "license": "MIT",
+  "web": "https://github.com/matkuki/python3"
+}

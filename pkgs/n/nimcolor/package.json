@@ -1,0 +1,12 @@
+{
+  "name": "nimcolor",
+  "url": "https://github.com/JessaTehCrow/NimColor",
+  "method": "git",
+  "tags": [
+    "color",
+    "terminal"
+  ],
+  "description": "Color printing interface for nim",
+  "license": "MIT",
+  "web": "https://github.com/JessaTehCrow/NimColor"
+}

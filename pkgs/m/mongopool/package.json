@@ -1,0 +1,16 @@
+{
+  "name": "mongopool",
+  "url": "https://github.com/JohnAD/mongopool",
+  "method": "git",
+  "tags": [
+    "mongodb",
+    "mongo",
+    "database",
+    "driver",
+    "client",
+    "nosql"
+  ],
+  "description": "MongoDb pooled driver",
+  "license": "MIT",
+  "web": "https://github.com/JohnAD/mongopool"
+}

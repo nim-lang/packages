@@ -1,0 +1,13 @@
+{
+  "name": "libpe",
+  "url": "https://github.com/srozb/nim-libpe",
+  "method": "git",
+  "tags": [
+    "pe",
+    "wrapper",
+    "library"
+  ],
+  "description": "Nim wrapper for libpe library",
+  "license": "GPL-3.0",
+  "web": "https://github.com/srozb/nim-libpe"
+}

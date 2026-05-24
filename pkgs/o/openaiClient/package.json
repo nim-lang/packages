@@ -1,0 +1,15 @@
+{
+  "name": "openaiClient",
+  "url": "https://github.com/Uzo2005/openai",
+  "method": "git",
+  "tags": [
+    "openai",
+    "webclient",
+    "api",
+    "library",
+    "http"
+  ],
+  "description": "Openai API client For Nim",
+  "license": "MIT",
+  "web": "https://github.com/Uzo2005/openai"
+}

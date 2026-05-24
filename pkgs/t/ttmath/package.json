@@ -1,0 +1,13 @@
+{
+  "name": "ttmath",
+  "url": "https://github.com/status-im/nim-ttmath",
+  "method": "git",
+  "tags": [
+    "library",
+    "math",
+    "numbers"
+  ],
+  "description": "A Nim wrapper for ttmath: big numbers with fixed size",
+  "license": "Apache License 2.0",
+  "web": "https://github.com/status-im/nim-ttmath"
+}

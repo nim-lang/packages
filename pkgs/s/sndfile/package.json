@@ -1,0 +1,14 @@
+{
+  "name": "sndfile",
+  "url": "https://github.com/SpotlightKid/nim-sndfile",
+  "method": "git",
+  "tags": [
+    "audio",
+    "wav",
+    "wrapper",
+    "libsndfile"
+  ],
+  "description": "A wrapper of libsndfile",
+  "license": "MIT",
+  "web": "https://github.com/SpotlightKid/nim-sndfile"
+}

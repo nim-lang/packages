@@ -1,0 +1,14 @@
+{
+  "name": "ttop",
+  "url": "https://github.com/inv2004/ttop",
+  "method": "git",
+  "tags": [
+    "top",
+    "monitoring",
+    "cli",
+    "tui"
+  ],
+  "description": "Monitoring tool with historical snapshots",
+  "license": "MIT",
+  "web": "https://github.com/inv2004/ttop"
+}

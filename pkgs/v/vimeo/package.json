@@ -1,0 +1,13 @@
+{
+  "name": "vimeo",
+  "url": "https://github.com/thisago/vimeo",
+  "method": "git",
+  "tags": [
+    "vimeo",
+    "extractor",
+    "video"
+  ],
+  "description": "Vimeo extractor",
+  "license": "MIT",
+  "web": "https://github.com/thisago/vimeo"
+}

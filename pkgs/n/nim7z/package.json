@@ -1,0 +1,14 @@
+{
+  "name": "nim7z",
+  "url": "https://github.com/genotrance/nim7z",
+  "method": "git",
+  "tags": [
+    "7zip",
+    "7z",
+    "extract",
+    "archive"
+  ],
+  "description": "7z extraction for Nim",
+  "license": "MIT",
+  "web": "https://github.com/genotrance/nim7z"
+}

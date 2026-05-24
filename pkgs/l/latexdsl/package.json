@@ -1,0 +1,13 @@
+{
+  "name": "latexdsl",
+  "url": "https://github.com/Vindaar/LatexDSL",
+  "method": "git",
+  "tags": [
+    "library",
+    "dsl",
+    "latex"
+  ],
+  "description": "A DSL to generate LaTeX from Nim",
+  "license": "MIT",
+  "web": "https://github.com/Vindaar/LatexDSL"
+}

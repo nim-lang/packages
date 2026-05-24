@@ -1,0 +1,15 @@
+{
+  "name": "spotlightr",
+  "url": "https://github.com/thisago/spotlightr",
+  "method": "git",
+  "tags": [
+    "library",
+    "extractor",
+    "scraper",
+    "video",
+    "stream"
+  ],
+  "description": "Spotlightr basic extractor to get the video",
+  "license": "MIT",
+  "web": "https://github.com/thisago/spotlightr"
+}

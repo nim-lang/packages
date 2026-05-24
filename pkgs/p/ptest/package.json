@@ -1,0 +1,13 @@
+{
+  "name": "ptest",
+  "url": "https://github.com/treeform/ptest",
+  "method": "git",
+  "tags": [
+    "tests",
+    "unit-testing",
+    "integration-testing"
+  ],
+  "description": "Print-testing for nim.",
+  "license": "MIT",
+  "web": "https://github.com/treeform/ptest"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "shio",
+  "url": "https://github.com/arashi-software/shio",
+  "method": "git",
+  "tags": [
+    "web",
+    "server",
+    "file",
+    "http",
+    "jester"
+  ],
+  "description": "A quick media server in nim",
+  "license": "GPL-3.0-only",
+  "web": "https://github.com/arashi-software/shio"
+}

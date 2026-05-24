@@ -1,0 +1,14 @@
+{
+  "name": "tencil",
+  "url": "https://github.com/enimatek-nl/tencil",
+  "method": "git",
+  "tags": [
+    "web",
+    "html",
+    "template",
+    "mustache"
+  ],
+  "description": "Tencil is a mustache-compatible JSON based template engine for Nim.",
+  "license": "MIT",
+  "web": "https://github.com/enimatek-nl/tencil"
+}

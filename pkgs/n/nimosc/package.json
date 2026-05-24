@@ -1,0 +1,15 @@
+{
+  "name": "nimosc",
+  "url": "https://github.com/Psirus/NimOSC",
+  "method": "git",
+  "tags": [
+    "OSC",
+    "sound",
+    "control",
+    "library",
+    "wrapper"
+  ],
+  "description": "A wrapper around liblo for the Open Sound Control (OSC) protocol",
+  "license": "MIT",
+  "web": "https://github.com/Psirus/NimOSC"
+}

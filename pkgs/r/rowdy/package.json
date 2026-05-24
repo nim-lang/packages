@@ -1,0 +1,11 @@
+{
+  "name": "rowdy",
+  "url": "https://github.com/ajusa/rowdy",
+  "method": "git",
+  "tags": [
+    "web",
+    "routing"
+  ],
+  "description": "Automatically bind procs to the mummy web server",
+  "license": "MIT"
+}

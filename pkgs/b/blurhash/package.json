@@ -1,0 +1,14 @@
+{
+  "name": "blurhash",
+  "url": "https://github.com/SolitudeSF/blurhash",
+  "method": "git",
+  "tags": [
+    "image",
+    "blur",
+    "hash",
+    "blurhash"
+  ],
+  "description": "Encoder/decoder for blurhash algorithm",
+  "license": "MIT",
+  "web": "https://github.com/SolitudeSF/blurhash"
+}

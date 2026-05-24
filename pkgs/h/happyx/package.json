@@ -1,0 +1,17 @@
+{
+  "name": "happyx",
+  "url": "https://github.com/HapticX/happyx",
+  "method": "git",
+  "tags": [
+    "web",
+    "async",
+    "framework",
+    "frontend",
+    "backend",
+    "hapticx",
+    "happyx"
+  ],
+  "description": "Macro-oriented full-stack web-framework written with ♥",
+  "license": "MIT",
+  "web": "https://github.com/HapticX/happyx"
+}

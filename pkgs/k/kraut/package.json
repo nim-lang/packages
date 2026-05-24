@@ -1,0 +1,15 @@
+{
+  "name": "kraut",
+  "url": "https://github.com/moigagoo/kraut",
+  "method": "git",
+  "tags": [
+    "frontend",
+    "router",
+    "karax",
+    "spa",
+    "js"
+  ],
+  "description": "Router for Karax frontend framework.",
+  "license": "MIT",
+  "web": "https://github.com/moigagoo/kraut"
+}

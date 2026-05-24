@@ -1,0 +1,14 @@
+{
+  "name": "libnx",
+  "url": "https://github.com/jyapayne/nim-libnx",
+  "method": "git",
+  "tags": [
+    "switch",
+    "nintendo",
+    "libnx",
+    "nx"
+  ],
+  "description": "A port of libnx to Nim",
+  "license": "Unlicense",
+  "web": "https://github.com/jyapayne/nim-libnx"
+}

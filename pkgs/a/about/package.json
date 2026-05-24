@@ -1,0 +1,12 @@
+{
+  "name": "about",
+  "url": "https://github.com/aleandros/about",
+  "method": "git",
+  "tags": [
+    "cli",
+    "tool"
+  ],
+  "description": "Executable for finding information about programs in PATH",
+  "license": "MIT",
+  "web": "https://github.com/aleandros/about"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "libmpdclient",
+  "url": "https://github.com/lompik/libmpdclient.nim",
+  "method": "git",
+  "tags": [
+    "MPD",
+    "Music Player Daemon"
+  ],
+  "description": "Bindings for the Music Player Daemon C client library",
+  "license": "BSD",
+  "web": "https://github.com/lompik/libmpdclient.nim"
+}

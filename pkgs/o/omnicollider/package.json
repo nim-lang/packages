@@ -1,0 +1,15 @@
+{
+  "name": "omnicollider",
+  "url": "https://github.com/vitreo12/omnicollider",
+  "method": "git",
+  "tags": [
+    "dsl",
+    "dsp",
+    "audio",
+    "sound",
+    "supercollider"
+  ],
+  "description": "SuperCollider wrapper for omni.",
+  "license": "MIT",
+  "web": "https://github.com/vitreo12/omnicollider"
+}

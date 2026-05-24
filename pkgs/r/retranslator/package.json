@@ -1,0 +1,13 @@
+{
+  "name": "retranslator",
+  "url": "https://github.com/linksplatform/RegularExpressions.Transformer",
+  "method": "git",
+  "tags": [
+    "regular",
+    "expressions",
+    "transformer"
+  ],
+  "description": "Transformer",
+  "license": "LGPLv3",
+  "web": "https://github.com/linksplatform/RegularExpressions.Transformer"
+}

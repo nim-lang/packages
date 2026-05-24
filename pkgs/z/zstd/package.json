@@ -1,0 +1,12 @@
+{
+  "name": "zstd",
+  "url": "https://github.com/wltsmrz/nim_zstd",
+  "method": "git",
+  "tags": [
+    "zstd",
+    "compression"
+  ],
+  "description": "Bindings for zstd",
+  "license": "MIT",
+  "web": "https://github.com/wltsmrz/nim_zstd"
+}

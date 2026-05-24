@@ -1,0 +1,13 @@
+{
+  "name": "libharu",
+  "url": "https://github.com/z-kk/libharu",
+  "method": "git",
+  "tags": [
+    "pdf",
+    "hpdf",
+    "libharu"
+  ],
+  "description": "library for libharu",
+  "license": "MIT",
+  "web": "https://github.com/z-kk/libharu"
+}

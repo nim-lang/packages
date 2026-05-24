@@ -1,0 +1,14 @@
+{
+  "name": "oaitools",
+  "url": "https://github.com/markpbaggett/oaitools.nim",
+  "method": "git",
+  "tags": [
+    "metadata",
+    "harvester",
+    "oai-pmh"
+  ],
+  "description": "A high-level OAI-PMH library.",
+  "license": "GPL-3.0",
+  "doc": "https://markpbaggett.github.io/oaitools.nim/",
+  "web": "https://github.com/markpbaggett/oaitools.nim"
+}

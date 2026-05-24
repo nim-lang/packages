@@ -1,0 +1,16 @@
+{
+  "name": "unifetch",
+  "url": "https://github.com/thisago/unifetch",
+  "method": "git",
+  "tags": [
+    "library",
+    "web",
+    "multi-backend",
+    "seamless",
+    "fetch",
+    "httpclient"
+  ],
+  "description": "Multi backend HTTP fetching",
+  "license": "MIT",
+  "web": "https://github.com/thisago/unifetch"
+}

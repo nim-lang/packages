@@ -1,0 +1,12 @@
+{
+  "name": "sugerror",
+  "url": "https://github.com/quelklef/nim-sugerror",
+  "method": "git",
+  "tags": [
+    "errors",
+    "expr"
+  ],
+  "description": "Terse and composable error handling.",
+  "license": "MIT",
+  "web": "https://github.com/quelklef/nim-sugerror"
+}

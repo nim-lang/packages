@@ -1,0 +1,15 @@
+{
+  "name": "networkutils",
+  "url": "https://github.com/Q-Master/networkutils.nim",
+  "method": "git",
+  "tags": [
+    "networking",
+    "sockets",
+    "async",
+    "sync",
+    "library"
+  ],
+  "description": "Various networking utils",
+  "license": "MIT",
+  "web": "https://github.com/Q-Master/networkutils.nim"
+}

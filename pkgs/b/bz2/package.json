@@ -1,0 +1,13 @@
+{
+  "name": "bz2",
+  "url": "https://codeberg.org/Yepoleb/nim-bz2.git",
+  "method": "git",
+  "tags": [
+    "compression",
+    "bzip2",
+    "bz2"
+  ],
+  "description": "Nim module for the bzip2 compression format.",
+  "license": "MIT",
+  "web": "https://codeberg.org/Yepoleb/nim-bz2"
+}

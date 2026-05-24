@@ -1,0 +1,14 @@
+{
+  "name": "aglet",
+  "url": "https://github.com/liquid600pgm/aglet",
+  "method": "git",
+  "tags": [
+    "graphics",
+    "opengl",
+    "wrapper",
+    "safe"
+  ],
+  "description": "A safe, high-level, optimized OpenGL wrapper",
+  "license": "MIT",
+  "web": "https://github.com/liquid600pgm/aglet"
+}

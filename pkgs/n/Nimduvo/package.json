@@ -1,0 +1,12 @@
+{
+  "name": "Nimduvo",
+  "url": "https://github.com/sednoids/Nimduvo",
+  "method": "git",
+  "tags": [
+    "api-wrapper",
+    "api"
+  ],
+  "description": "An asynchronous Nim wrapper for the Luduvo API.",
+  "license": "MIT License",
+  "web": "https://github.com/sednoids/Nimduvo"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "nimppt",
+  "url": "https://github.com/HUSKI3/Nimppt",
+  "method": "git",
+  "tags": [
+    "presentation",
+    "cli",
+    "markdown"
+  ],
+  "description": "A simple and elegant presentation generator",
+  "license": "MIT",
+  "web": "https://github.com/HUSKI3/Nimppt"
+}

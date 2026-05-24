@@ -1,0 +1,15 @@
+{
+  "name": "ssostrings",
+  "url": "https://github.com/planetis-m/ssostrings",
+  "method": "git",
+  "tags": [
+    "small-string-optimized",
+    "string",
+    "sso",
+    "optimization",
+    "datatype"
+  ],
+  "description": "Small String Optimized (SSO) string implementation",
+  "license": "MIT",
+  "web": "https://github.com/planetis-m/ssostrings"
+}

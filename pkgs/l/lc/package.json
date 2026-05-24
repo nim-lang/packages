@@ -1,0 +1,16 @@
+{
+  "name": "lc",
+  "url": "https://github.com/c-blake/lc",
+  "method": "git",
+  "tags": [
+    "terminal",
+    "cli",
+    "binary",
+    "linux",
+    "unix",
+    "bsd"
+  ],
+  "description": "A post-modern, \"multi-dimensional\" configurable ls/file lister",
+  "license": "MIT",
+  "web": "https://github.com/c-blake/lc"
+}

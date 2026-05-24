@@ -1,0 +1,13 @@
+{
+  "name": "nimquery",
+  "url": "https://github.com/GULPF/nimquery",
+  "method": "git",
+  "tags": [
+    "html",
+    "scraping",
+    "web"
+  ],
+  "description": "Library for querying HTML using CSS-selectors, like JavaScripts document.querySelector",
+  "license": "MIT",
+  "web": "https://github.com/GULPF/nimquery"
+}

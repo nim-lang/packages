@@ -1,0 +1,13 @@
+{
+  "name": "number_files",
+  "url": "https://github.com/Araq/number_files/",
+  "method": "git",
+  "tags": [
+    "rename",
+    "filename",
+    "finder"
+  ],
+  "description": "Command to add counter suffix/prefix to a list of files.",
+  "license": "MIT",
+  "web": "https://github.com/Araq/number_files/"
+}

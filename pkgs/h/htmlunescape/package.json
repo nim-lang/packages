@@ -1,0 +1,12 @@
+{
+  "name": "htmlunescape",
+  "url": "https://github.com/AmanoTeam/htmlunescape",
+  "method": "git",
+  "tags": [
+    "html",
+    "text"
+  ],
+  "description": "Port of Python's html.escape and html.unescape to Nim",
+  "license": "LGPL-3.0",
+  "web": "https://github.com/AmanoTeam/htmlunescape"
+}

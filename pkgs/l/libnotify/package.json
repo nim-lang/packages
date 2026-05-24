@@ -1,0 +1,13 @@
+{
+  "name": "libnotify",
+  "url": "https://github.com/FedericoCeratto/nim-libnotify.git",
+  "method": "git",
+  "tags": [
+    "library",
+    "wrapper",
+    "desktop"
+  ],
+  "description": "Minimalistic libnotify wrapper for desktop notifications",
+  "license": "LGPLv3",
+  "web": "https://github.com/FedericoCeratto/nim-libnotify"
+}

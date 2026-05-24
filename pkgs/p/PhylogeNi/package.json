@@ -1,0 +1,16 @@
+{
+  "name": "PhylogeNi",
+  "url": "https://github.com/kerrycobb/PhylogeNi",
+  "method": "git",
+  "tags": [
+    "phylogenetics",
+    "phylogeny",
+    "tree",
+    "bioinformatics",
+    "evolution"
+  ],
+  "description": "A library with some basic functions for working with phylogenetic trees.",
+  "license": "MIT",
+  "web": "https://github.com/kerrycobb/PhylogeNi/",
+  "doc": "https://kerrycobb.github.io/PhylogeNi/"
+}

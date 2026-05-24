@@ -1,0 +1,15 @@
+{
+  "name": "spwd",
+  "url": "https://github.com/achesak/nim-spwd",
+  "method": "git",
+  "tags": [
+    "library",
+    "unix",
+    "spwd",
+    "password",
+    "shadow"
+  ],
+  "description": "Nim port of Python's spwd module for working with the UNIX shadow password file",
+  "license": "MIT",
+  "web": "https://github.com/achesak/nim-spwd"
+}

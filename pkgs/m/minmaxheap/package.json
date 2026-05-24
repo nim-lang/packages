@@ -1,0 +1,13 @@
+{
+  "name": "minmaxheap",
+  "url": "https://github.com/stefansalewski/minmaxheap",
+  "method": "git",
+  "tags": [
+    "minmaxheap",
+    "heap",
+    "priorityqueue"
+  ],
+  "description": "MinMaxHeap",
+  "license": "MIT",
+  "web": "https://github.com/stefansalewski/minmaxheap"
+}

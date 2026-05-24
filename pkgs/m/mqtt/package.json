@@ -1,0 +1,11 @@
+{
+  "name": "mqtt",
+  "url": "https://github.com/barnybug/nim-mqtt",
+  "method": "git",
+  "tags": [
+    "MQTT"
+  ],
+  "description": "MQTT wrapper for nim",
+  "license": "MIT",
+  "web": "https://github.com/barnybug/nim-mqtt"
+}

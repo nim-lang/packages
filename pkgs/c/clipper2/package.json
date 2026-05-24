@@ -1,0 +1,14 @@
+{
+  "name": "clipper2",
+  "url": "https://github.com/scemino/clipper2",
+  "method": "git",
+  "tags": [
+    "clipper",
+    "polygon",
+    "clipping",
+    "offsetting"
+  ],
+  "description": "Bindings for Clipper2Lib: Polygon Clipping and Offsetting Library from Angus Johnson",
+  "license": "boost",
+  "web": "https://github.com/scemino/clipper2"
+}

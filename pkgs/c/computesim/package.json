@@ -1,0 +1,16 @@
+{
+  "name": "computesim",
+  "url": "https://github.com/planetis-m/compute-sim",
+  "method": "git",
+  "tags": [
+    "gpu-simulation",
+    "compute-shaders",
+    "gpgpu-computing",
+    "multithreading",
+    "parallelism",
+    "threads"
+  ],
+  "description": "Learn and understand compute shader operations and control flow.",
+  "license": "MIT",
+  "web": "https://github.com/planetis-m/compute-sim"
+}

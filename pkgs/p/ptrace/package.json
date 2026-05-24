@@ -1,0 +1,16 @@
+{
+  "name": "ptrace",
+  "url": "https://github.com/ba0f3/ptrace.nim",
+  "method": "git",
+  "tags": [
+    "ptrace",
+    "trace",
+    "process",
+    "syscal",
+    "system",
+    "call"
+  ],
+  "description": "ptrace wrapper for Nim",
+  "license": "MIT",
+  "web": "https://github.com/ba0f3/ptrace.nim"
+}

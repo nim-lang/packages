@@ -1,0 +1,15 @@
+{
+  "name": "vkapi",
+  "url": "https://github.com/nimbackup/nimvkapi",
+  "method": "git",
+  "tags": [
+    "wrapper",
+    "vkontakte",
+    "vk",
+    "library",
+    "api"
+  ],
+  "description": "A wrapper for the vk.com API (russian social network)",
+  "license": "MIT",
+  "web": "https://github.com/nimbackup/nimvkapi"
+}

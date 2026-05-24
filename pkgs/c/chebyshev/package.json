@@ -1,0 +1,13 @@
+{
+  "name": "chebyshev",
+  "url": "https://github.com/jxy/chebyshev",
+  "method": "git",
+  "tags": [
+    "math",
+    "approximation",
+    "numerical"
+  ],
+  "description": "Chebyshev approximation.",
+  "license": "MIT",
+  "web": "https://github.com/jxy/chebyshev"
+}

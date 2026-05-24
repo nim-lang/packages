@@ -1,0 +1,13 @@
+{
+  "name": "remarker_light",
+  "url": "https://github.com/muxueqz/remarker_light",
+  "method": "git",
+  "tags": [
+    "remark",
+    "slideshow",
+    "markdown"
+  ],
+  "description": "remarker_light is a command line tool for building a remark-based slideshow page very easily.",
+  "license": "GPL-2.0",
+  "web": "https://github.com/muxueqz/remarker_light"
+}

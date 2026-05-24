@@ -1,0 +1,14 @@
+{
+  "name": "webdriver",
+  "url": "https://github.com/dom96/webdriver",
+  "method": "git",
+  "tags": [
+    "webdriver",
+    "selenium",
+    "library",
+    "firefox"
+  ],
+  "description": "Implementation of the WebDriver w3c spec.",
+  "license": "MIT",
+  "web": "https://github.com/dom96/webdriver"
+}

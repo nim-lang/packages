@@ -1,0 +1,15 @@
+{
+  "name": "dav1d",
+  "url": "https://github.com/capocasa/nim-dav1d",
+  "method": "git",
+  "tags": [
+    "dav1d",
+    "decoder",
+    "av1",
+    "video",
+    "codec"
+  ],
+  "description": "A nimterop wrapper for the dav1d portable-and-fast AV1 video decoder",
+  "license": "MIT",
+  "web": "https://github.com/capocasa/nim-dav1d"
+}

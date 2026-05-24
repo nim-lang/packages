@@ -1,0 +1,14 @@
+{
+  "name": "kdl",
+  "url": "https://github.com/Patitotective/kdl-nim",
+  "method": "git",
+  "tags": [
+    "kdl",
+    "parser",
+    "config",
+    "serialization"
+  ],
+  "description": "KDL document language Nim implementation",
+  "license": "MIT",
+  "web": "https://github.com/Patitotective/kdl-nim"
+}

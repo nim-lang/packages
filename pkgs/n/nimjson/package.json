@@ -1,0 +1,15 @@
+{
+  "name": "nimjson",
+  "url": "https://github.com/jiro4989/nimjson",
+  "method": "git",
+  "tags": [
+    "lib",
+    "cli",
+    "command",
+    "json",
+    "library"
+  ],
+  "description": "nimjson generates nim object definitions from json documents.",
+  "license": "MIT",
+  "web": "https://github.com/jiro4989/nimjson"
+}

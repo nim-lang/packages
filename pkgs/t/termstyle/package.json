@@ -1,0 +1,13 @@
+{
+  "name": "termstyle",
+  "url": "https://github.com/PMunch/termstyle",
+  "method": "git",
+  "tags": [
+    "terminal",
+    "colour",
+    "style"
+  ],
+  "description": "Easy to use styles for terminal output",
+  "license": "MIT",
+  "web": "https://github.com/PMunch/termstyle"
+}

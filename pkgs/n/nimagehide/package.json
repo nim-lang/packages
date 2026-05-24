@@ -1,0 +1,16 @@
+{
+  "name": "nimagehide",
+  "url": "https://github.com/MnlPhlp/nimagehide",
+  "method": "git",
+  "tags": [
+    "library",
+    "cli",
+    "staganography",
+    "image",
+    "hide",
+    "secret"
+  ],
+  "description": "A library to hide data in images. Usable as library or cli tool.",
+  "license": "MIT",
+  "web": "https://github.com/MnlPhlp/nimagehide"
+}

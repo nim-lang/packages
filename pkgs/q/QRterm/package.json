@@ -1,0 +1,19 @@
+{
+  "name": "QRterm",
+  "url": "https://github.com/aruZeta/QRterm",
+  "method": "git",
+  "tags": [
+    "qrcode",
+    "qr code",
+    "qr generator",
+    "qr",
+    "qr codes",
+    "qrcode generator",
+    "qr code generator",
+    "binary",
+    "terminal"
+  ],
+  "description": "A simple QR generator in your terminal.",
+  "license": "MIT",
+  "web": "https://github.com/aruZeta/QRterm"
+}

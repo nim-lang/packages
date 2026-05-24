@@ -1,0 +1,13 @@
+{
+  "name": "impulse_engine",
+  "url": "https://github.com/matkuki/Nim-Impulse-Engine",
+  "method": "git",
+  "tags": [
+    "physics",
+    "engine",
+    "2D"
+  ],
+  "description": "Nim port of a simple 2D physics engine",
+  "license": "zlib",
+  "web": "https://github.com/matkuki/Nim-Impulse-Engine"
+}

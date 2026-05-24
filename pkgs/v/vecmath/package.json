@@ -1,0 +1,13 @@
+{
+  "name": "vecmath",
+  "url": "https://github.com/barcharcraz/vecmath",
+  "method": "git",
+  "tags": [
+    "library",
+    "math",
+    "vector"
+  ],
+  "description": "various vector maths utils for nimrod",
+  "license": "MIT",
+  "web": "https://github.com/barcharcraz/vecmath"
+}

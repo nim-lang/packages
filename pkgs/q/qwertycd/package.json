@@ -1,0 +1,13 @@
+{
+  "name": "qwertycd",
+  "url": "https://github.com/minefuto/qwertycd",
+  "method": "git",
+  "tags": [
+    "terminal",
+    "console",
+    "command-line"
+  ],
+  "description": "Terminal UI based cd command",
+  "license": "MIT",
+  "web": "https://github.com/minefuto/qwertycd"
+}

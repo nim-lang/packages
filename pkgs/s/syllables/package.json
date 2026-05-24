@@ -1,0 +1,14 @@
+{
+  "name": "syllables",
+  "url": "https://github.com/tonogram/nim-syllables",
+  "method": "git",
+  "tags": [
+    "library",
+    "language",
+    "syllable",
+    "syllables"
+  ],
+  "description": "Syllable estimation for Nim.",
+  "license": "MIT",
+  "web": "https://github.com/tonogram/nim-syllables"
+}

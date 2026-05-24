@@ -1,0 +1,15 @@
+{
+  "name": "libsql",
+  "url": "https://github.com/bung87/libsql",
+  "method": "git",
+  "tags": [
+    "database",
+    "sql",
+    "libsql",
+    "sqlite",
+    "turso"
+  ],
+  "description": "Nim binding for libSQL - an open source, open contribution fork of SQLite",
+  "license": "MIT",
+  "web": "https://github.com/bung87/libsql"
+}

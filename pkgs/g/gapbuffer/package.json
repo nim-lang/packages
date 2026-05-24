@@ -1,0 +1,15 @@
+{
+  "name": "gapbuffer",
+  "url": "https://notabug.org/vktec/nim-gapbuffer.git",
+  "method": "git",
+  "tags": [
+    "buffer",
+    "seq",
+    "sequence",
+    "string",
+    "gapbuffer"
+  ],
+  "description": "A simple gap buffer implementation",
+  "license": "MIT",
+  "web": "https://notabug.org/vktec/nim-gapbuffer"
+}

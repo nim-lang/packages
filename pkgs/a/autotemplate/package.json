@@ -1,0 +1,12 @@
+{
+  "name": "autotemplate",
+  "url": "https://github.com/PMunch/autotemplate",
+  "method": "git",
+  "tags": [
+    "library",
+    "templates"
+  ],
+  "description": "Small library to automatically generate type-bound templates from files",
+  "license": "MIT",
+  "web": "https://github.com/PMunch/autotemplate"
+}

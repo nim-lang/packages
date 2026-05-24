@@ -1,0 +1,15 @@
+{
+  "name": "RingBuffer",
+  "url": "https://github.com/megawac/RingBuffer.nim.git",
+  "method": "git",
+  "tags": [
+    "sequence",
+    "seq",
+    "circular",
+    "ring",
+    "buffer"
+  ],
+  "description": "Circular buffer implementation",
+  "license": "MIT",
+  "web": "https://github.com/megawac/RingBuffer.nim"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "curly",
+  "url": "https://github.com/guzba/curly",
+  "method": "git",
+  "tags": [
+    "curl",
+    "libcurl"
+  ],
+  "description": "Makes using libcurl efficiently easy",
+  "license": "MIT",
+  "web": "https://github.com/guzba/curly"
+}

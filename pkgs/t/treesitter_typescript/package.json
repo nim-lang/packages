@@ -1,0 +1,15 @@
+{
+  "name": "treesitter_typescript",
+  "url": "https://github.com/genotrance/nimtreesitter?subdir=treesitter_typescript",
+  "method": "git",
+  "tags": [
+    "tree-sitter",
+    "typescript",
+    "parser",
+    "language",
+    "code"
+  ],
+  "description": "Nim wrapper for Typescript language support within tree-sitter",
+  "license": "MIT",
+  "web": "https://github.com/genotrance/nimtreesitter"
+}

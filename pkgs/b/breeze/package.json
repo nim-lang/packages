@@ -1,0 +1,13 @@
+{
+  "name": "breeze",
+  "url": "https://github.com/alehander42/breeze",
+  "method": "git",
+  "tags": [
+    "dsl",
+    "macro",
+    "metaprogramming"
+  ],
+  "description": "A dsl for writing macros in Nim",
+  "license": "MIT",
+  "web": "https://github.com/alehander42/breeze"
+}

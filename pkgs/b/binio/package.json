@@ -1,0 +1,13 @@
+{
+  "name": "binio",
+  "url": "https://github.com/Riderfighter/binio",
+  "method": "git",
+  "tags": [
+    "structured",
+    "byte",
+    "data"
+  ],
+  "description": "Package for packing and unpacking byte data",
+  "license": "MIT",
+  "web": "https://github.com/Riderfighter/binio"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "newsapi_client",
+  "url": "https://github.com/jailop/newsapi-client",
+  "method": "git",
+  "tags": [
+    "news,",
+    "newsapi,",
+    "client"
+  ],
+  "description": "A NewsAPI client, to retrieve market news",
+  "license": "MIT",
+  "web": "https://github.com/jailop/newsapi-client"
+}

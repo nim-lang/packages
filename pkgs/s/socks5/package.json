@@ -1,0 +1,14 @@
+{
+  "name": "socks5",
+  "url": "https://github.com/FedericoCeratto/nim-socks5",
+  "method": "git",
+  "tags": [
+    "socks",
+    "library",
+    "networking",
+    "socks5"
+  ],
+  "description": "Socks5 client and server library",
+  "license": "MPLv2",
+  "web": "https://github.com/FedericoCeratto/nim-socks5"
+}

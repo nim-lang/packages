@@ -1,0 +1,16 @@
+{
+  "name": "locale",
+  "url": "https://github.com/nim-community/nim-locale",
+  "method": "git",
+  "tags": [
+    "library",
+    "locale",
+    "i18n",
+    "localization",
+    "localisation",
+    "globalization"
+  ],
+  "description": "A simple library for localizing Nim applications.",
+  "license": "MIT",
+  "web": "https://github.com/nim-community/nim-locale"
+}

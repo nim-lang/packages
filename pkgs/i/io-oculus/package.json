@@ -1,0 +1,19 @@
+{
+  "name": "io-oculus",
+  "url": "https://github.com/nimious/io-oculus.git",
+  "method": "git",
+  "tags": [
+    "binding",
+    "oculus",
+    "rift",
+    "vr",
+    "libovr",
+    "ovr",
+    "dk1",
+    "dk2",
+    "gearvr"
+  ],
+  "description": "Obsolete - please use oculus instead!",
+  "license": "MIT",
+  "web": "https://github.com/nimious/io-oculus"
+}

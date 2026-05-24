@@ -1,0 +1,16 @@
+{
+  "name": "nimja",
+  "url": "https://github.com/enthus1ast/nimja",
+  "method": "git",
+  "tags": [
+    "template",
+    "web",
+    "compiled",
+    "typed",
+    "jinja2",
+    "twig"
+  ],
+  "description": "typed and compiled template engine inspired by jinja2, twig and onionhammer/nim-templates for Nim",
+  "license": "MIT",
+  "web": "https://github.com/enthus1ast/nimja"
+}

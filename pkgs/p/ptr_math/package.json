@@ -1,0 +1,13 @@
+{
+  "name": "ptr_math",
+  "url": "https://github.com/kaushalmodi/ptr_math",
+  "method": "git",
+  "tags": [
+    "pointer",
+    "arithmetic",
+    "math"
+  ],
+  "description": "Pointer arithmetic library",
+  "license": "MIT",
+  "web": "https://github.com/kaushalmodi/ptr_math"
+}

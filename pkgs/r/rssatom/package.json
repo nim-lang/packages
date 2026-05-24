@@ -1,0 +1,15 @@
+{
+  "name": "rssatom",
+  "url": "https://codeberg.org/samsamros/rssatom",
+  "method": "git",
+  "tags": [
+    "rss",
+    "atom",
+    "rss parser",
+    "rss creator",
+    "RFC 4287"
+  ],
+  "description": "rssatom is a package designed to read and create RSS and Atom feeds",
+  "license": "MIT",
+  "web": "https://codeberg.org/samsamros/rssatom"
+}

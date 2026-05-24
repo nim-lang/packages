@@ -1,0 +1,16 @@
+{
+  "name": "qwatcher",
+  "url": "https://github.com/pouriyajamshidi/qwatcher",
+  "method": "git",
+  "tags": [
+    "buffer-monitoring",
+    "queue",
+    "linux",
+    "tcp",
+    "udp",
+    "network"
+  ],
+  "description": "Monitor TCP connections and diagnose buffer and connectivity issues on Linux machines related to input and output queues",
+  "license": "MIT",
+  "web": "https://github.com/pouriyajamshidi/qwatcher"
+}

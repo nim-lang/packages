@@ -1,0 +1,13 @@
+{
+  "name": "stor",
+  "url": "https://github.com/nimscale/stor",
+  "method": "git",
+  "tags": [
+    "storage",
+    "io",
+    "deleted"
+  ],
+  "description": "Efficient object storage system",
+  "license": "MIT",
+  "web": "https://github.com/nimscale/stor"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "eth",
+  "url": "https://github.com/status-im/nim-eth",
+  "method": "git",
+  "tags": [
+    "library",
+    "ethereum",
+    "p2p",
+    "devp2p",
+    "rplx",
+    "networking",
+    "whisper",
+    "swarm",
+    "rlp",
+    "cryptography",
+    "trie",
+    "patricia-trie",
+    "keyfile",
+    "wallet",
+    "bloom",
+    "bloom-filter"
+  ],
+  "description": "A collection of Ethereum related libraries",
+  "license": "Apache License 2.0",
+  "web": "https://github.com/status-im/nim-eth"
+}

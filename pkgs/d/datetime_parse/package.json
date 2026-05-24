@@ -1,0 +1,12 @@
+{
+  "name": "datetime_parse",
+  "url": "https://github.com/bung87/datetime_parse",
+  "method": "git",
+  "tags": [
+    "datetime",
+    "parser"
+  ],
+  "description": "parse datetime from various resources",
+  "license": "MIT",
+  "web": "https://github.com/bung87/datetime_parse"
+}

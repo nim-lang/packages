@@ -1,0 +1,16 @@
+{
+  "name": "argon2",
+  "url": "https://github.com/Ahrotahn/argon2",
+  "method": "git",
+  "tags": [
+    "argon2",
+    "crypto",
+    "hash",
+    "library",
+    "password",
+    "wrapper"
+  ],
+  "description": "A nim wrapper for the Argon2 hashing library",
+  "license": "MIT",
+  "web": "https://github.com/Ahrotahn/argon2"
+}

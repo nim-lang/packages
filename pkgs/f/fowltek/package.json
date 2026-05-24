@@ -1,0 +1,15 @@
+{
+  "name": "fowltek",
+  "url": "https://github.com/fowlmouth/nimlibs/",
+  "method": "git",
+  "tags": [
+    "game",
+    "opengl",
+    "wrappers",
+    "library",
+    "assorted"
+  ],
+  "description": "A collection of reusable modules and wrappers.",
+  "license": "MIT",
+  "web": "https://github.com/fowlmouth/nimlibs"
+}

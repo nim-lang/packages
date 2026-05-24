@@ -1,0 +1,11 @@
+{
+  "name": "asciitype",
+  "url": "https://github.com/chocobo333/asciitype",
+  "method": "git",
+  "tags": [
+    "library"
+  ],
+  "description": "This module performs character tests.",
+  "license": "MIT",
+  "web": "https://github.com/chocobo333/asciitype"
+}

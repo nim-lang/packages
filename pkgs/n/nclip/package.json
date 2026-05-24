@@ -1,0 +1,13 @@
+{
+  "name": "nclip",
+  "url": "https://github.com/4zv4l/nclip",
+  "method": "git",
+  "tags": [
+    "winapi",
+    "clipboard",
+    "wrapper"
+  ],
+  "description": "A simple wrapper around the winapi to control the clipboard",
+  "license": "MIT",
+  "web": "https://github.com/4zv4l/nclip"
+}

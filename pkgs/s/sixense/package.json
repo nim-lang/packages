@@ -1,0 +1,15 @@
+{
+  "name": "sixense",
+  "url": "https://github.com/nimious/sixense.git",
+  "method": "git",
+  "tags": [
+    "binding",
+    "sixense",
+    "razer hydra",
+    "stem system",
+    "vr"
+  ],
+  "description": "Bindings for the Sixense Core API.",
+  "license": "MIT",
+  "web": "https://github.com/nimious/sixense"
+}

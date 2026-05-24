@@ -1,0 +1,11 @@
+{
+  "name": "hpprint",
+  "url": "https://github.com/haxscramper/hpprint",
+  "method": "git",
+  "tags": [
+    "pretty-printing"
+  ],
+  "description": "Pretty-printer",
+  "license": "Apache-2.0",
+  "web": "https://github.com/haxscramper/hpprint"
+}

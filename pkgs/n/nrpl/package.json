@@ -1,0 +1,12 @@
+{
+  "name": "nrpl",
+  "url": "https://github.com/vegansk/nrpl",
+  "method": "git",
+  "tags": [
+    "REPL",
+    "application"
+  ],
+  "description": "A rudimentary Nim REPL",
+  "license": "MIT",
+  "web": "https://github.com/vegansk/nrpl"
+}

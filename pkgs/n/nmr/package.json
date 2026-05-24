@@ -1,0 +1,14 @@
+{
+  "name": "nmr",
+  "url": "https://github.com/HapticX/nmr",
+  "method": "git",
+  "tags": [
+    "package-manager",
+    "package",
+    "nimble-alternative",
+    "nimble"
+  ],
+  "description": "A super-fast Nim package manager with automatic dependency graph and parallel installation.",
+  "license": "MIT",
+  "web": "https://github.com/HapticX/nmr"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "nimodpi",
+  "url": "https://github.com/mikra01/nimodpi",
+  "method": "git",
+  "tags": [
+    "oracle",
+    "odpi-c",
+    "wrapper"
+  ],
+  "description": "oracle odpi-c wrapper for Nim",
+  "license": "MIT",
+  "web": "https://github.com/mikra01/nimodpi"
+}

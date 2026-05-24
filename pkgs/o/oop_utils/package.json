@@ -1,0 +1,16 @@
+{
+  "name": "oop_utils",
+  "url": "https://github.com/bluenote10/oop_utils",
+  "method": "git",
+  "tags": [
+    "macro",
+    "class",
+    "inheritance",
+    "oop",
+    "closure",
+    "methods"
+  ],
+  "description": "Macro for building OOP class hierarchies based on closure methods.",
+  "license": "MIT",
+  "web": "https://github.com/bluenote10/closure_methods"
+}

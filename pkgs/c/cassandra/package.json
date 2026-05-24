@@ -1,0 +1,15 @@
+{
+  "name": "cassandra",
+  "url": "https://github.com/yglukhov/cassandra",
+  "method": "git",
+  "tags": [
+    "cassandra",
+    "database",
+    "wrapper",
+    "bindings",
+    "driver"
+  ],
+  "description": "Bindings to Cassandra DB driver",
+  "license": "MIT",
+  "web": "https://github.com/yglukhov/cassandra"
+}

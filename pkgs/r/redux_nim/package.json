@@ -1,0 +1,11 @@
+{
+  "name": "redux_nim",
+  "url": "https://github.com/M4RC3L05/redux-nim",
+  "method": "git",
+  "tags": [
+    "redux"
+  ],
+  "description": "Redux Implementation in nim",
+  "license": "MIT",
+  "web": "https://github.com/M4RC3L05/redux-nim"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "nimalpm",
+  "url": "https://github.com/barcharcraz/nimalpm/",
+  "method": "git",
+  "tags": [
+    "alpm",
+    "wrapper",
+    "binding",
+    "library"
+  ],
+  "description": "A nimrod wrapper for libalpm",
+  "license": "GPLv2",
+  "web": "https://www.github.com/barcharcraz/nimalpm/"
+}

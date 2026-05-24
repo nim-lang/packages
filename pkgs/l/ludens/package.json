@@ -1,0 +1,14 @@
+{
+  "name": "ludens",
+  "url": "https://github.com/rnentjes/nim-ludens",
+  "method": "git",
+  "tags": [
+    "library",
+    "game",
+    "opengl",
+    "sfml"
+  ],
+  "description": "Little game library using opengl and sfml",
+  "license": "MIT",
+  "web": "https://github.com/rnentjes/nim-ludens"
+}

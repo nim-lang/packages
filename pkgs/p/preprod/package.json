@@ -1,0 +1,11 @@
+{
+  "name": "preprod",
+  "url": "https://github.com/j-a-s-d/preprod",
+  "method": "git",
+  "tags": [
+    "preprocessor"
+  ],
+  "description": "preprod",
+  "license": "MIT",
+  "web": "https://github.com/j-a-s-d/preprod"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "unicodedb",
+  "url": "https://github.com/nitely/nim-unicodedb",
+  "method": "git",
+  "tags": [
+    "unicode",
+    "UCD",
+    "unicodedata"
+  ],
+  "description": "Unicode Character Database (UCD) access for Nim",
+  "license": "MIT",
+  "web": "https://github.com/nitely/nim-unicodedb"
+}

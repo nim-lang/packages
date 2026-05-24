@@ -1,0 +1,15 @@
+{
+  "name": "taskpools",
+  "url": "https://github.com/status-im/nim-taskpools",
+  "method": "git",
+  "tags": [
+    "library",
+    "multithreading",
+    "parallelism",
+    "data-parallelism",
+    "threadpool"
+  ],
+  "description": "lightweight, energy-efficient, easily auditable threadpool",
+  "license": "Apache License 2.0",
+  "web": "https://github.com/status-im/nim-taskpools"
+}

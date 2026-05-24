@@ -1,0 +1,11 @@
+{
+  "name": "interfaced",
+  "url": "https://github.com/andreaferretti/interfaced",
+  "method": "git",
+  "tags": [
+    "interface"
+  ],
+  "description": "Go-like interfaces",
+  "license": "Apache License 2.0",
+  "web": "https://github.com/andreaferretti/interfaced"
+}

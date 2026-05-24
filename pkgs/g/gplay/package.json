@@ -1,0 +1,15 @@
+{
+  "name": "gplay",
+  "url": "https://github.com/yglukhov/gplay",
+  "method": "git",
+  "tags": [
+    "google",
+    "play",
+    "apk",
+    "publish",
+    "upload"
+  ],
+  "description": "Google Play APK Uploader",
+  "license": "MIT",
+  "web": "https://github.com/yglukhov/gplay"
+}

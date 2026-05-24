@@ -1,0 +1,13 @@
+{
+  "name": "rocksdb",
+  "url": "https://github.com/status-im/nim-rocksdb",
+  "method": "git",
+  "tags": [
+    "library",
+    "wrapper",
+    "database"
+  ],
+  "description": "A wrapper for Facebook's RocksDB, an embeddable, persistent key-value store for fast storage",
+  "license": "Apache 2.0 or GPLv2",
+  "web": "https://github.com/status-im/nim-rocksdb"
+}

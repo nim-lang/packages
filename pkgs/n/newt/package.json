@@ -1,0 +1,19 @@
+{
+  "name": "newt",
+  "url": "https://github.com/navid-m/newt",
+  "method": "git",
+  "tags": [
+    "youtube",
+    "media",
+    "downloader",
+    "download",
+    "scraper",
+    "api",
+    "library",
+    "pytube",
+    "youtube-dl"
+  ],
+  "description": "Youtube downloader library and CLI.",
+  "license": "GPLv3",
+  "web": "https://github.com/navid-m/newt"
+}

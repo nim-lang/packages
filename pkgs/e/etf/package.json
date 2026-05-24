@@ -1,0 +1,16 @@
+{
+  "name": "etf",
+  "url": "https://github.com/metagn/etf",
+  "method": "git",
+  "tags": [
+    "etf",
+    "erlang",
+    "library",
+    "parser",
+    "binary",
+    "discord"
+  ],
+  "description": "ETF (Erlang Term Format) library for nim",
+  "license": "MIT",
+  "web": "https://github.com/metagn/etf"
+}

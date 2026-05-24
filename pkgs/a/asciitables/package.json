@@ -1,0 +1,14 @@
+{
+  "name": "asciitables",
+  "url": "https://github.com/xmonader/nim-asciitables",
+  "method": "git",
+  "tags": [
+    "ascii",
+    "terminal",
+    "tables",
+    "cli"
+  ],
+  "description": "terminal ascii tables for nim",
+  "license": "BSD-3-Clause",
+  "web": "https://github.com/xmonader/nim-asciitables"
+}

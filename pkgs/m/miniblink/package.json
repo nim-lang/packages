@@ -1,0 +1,12 @@
+{
+  "name": "miniblink",
+  "url": "https://github.com/lihf8515/miniblink",
+  "method": "git",
+  "tags": [
+    "miniblink",
+    "nim"
+  ],
+  "description": "A miniblink library for nim.",
+  "license": "MIT",
+  "web": "https://github.com/lihf8515/miniblink"
+}

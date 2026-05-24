@@ -1,0 +1,13 @@
+{
+  "name": "ctrulib",
+  "url": "https://github.com/skyforce77/ctrulib-nim.git",
+  "method": "git",
+  "tags": [
+    "library",
+    "nintendo",
+    "3ds"
+  ],
+  "description": "ctrulib wrapper",
+  "license": "GPLv2",
+  "web": "https://github.com/skyforce77/ctrulib-nim"
+}

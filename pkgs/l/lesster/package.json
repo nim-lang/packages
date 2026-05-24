@@ -1,0 +1,15 @@
+{
+  "name": "lesster",
+  "url": "https://www.github.com/telatin/lesster",
+  "method": "git",
+  "tags": [
+    "less",
+    "tui",
+    "interactive",
+    "tui",
+    "markdown"
+  ],
+  "description": "Display interactive scrollable text (less-like)",
+  "license": "MIT",
+  "web": "https://telatin.github.io/lesster"
+}

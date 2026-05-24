@@ -1,0 +1,13 @@
+{
+  "name": "testdiff",
+  "url": "https://github.com/geotre/testdiff",
+  "method": "git",
+  "tags": [
+    "tests",
+    "testing",
+    "diff",
+    "difference"
+  ],
+  "description": "Simple utility for diffing values in tests.",
+  "license": "MIT"
+}

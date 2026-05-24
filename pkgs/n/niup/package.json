@@ -1,0 +1,13 @@
+{
+  "name": "niup",
+  "url": "https://github.com/dariolah/niup",
+  "method": "git",
+  "tags": [
+    "iup",
+    "gui",
+    "nim"
+  ],
+  "description": "IUP FFI bindings",
+  "license": "MIT",
+  "web": "https://github.com/dariolah/niup"
+}

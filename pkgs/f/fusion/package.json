@@ -1,0 +1,11 @@
+{
+  "name": "fusion",
+  "url": "https://github.com/nim-lang/fusion",
+  "method": "git",
+  "tags": [
+    "distribution"
+  ],
+  "description": "Nim's official stdlib extension",
+  "license": "MIT",
+  "web": "https://github.com/nim-lang/fusion"
+}

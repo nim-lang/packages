@@ -1,0 +1,14 @@
+{
+  "name": "gamepad",
+  "url": "https://github.com/konsumer/nim-gamepad",
+  "method": "git",
+  "tags": [
+    "gamepad",
+    "native",
+    "game",
+    "joystick"
+  ],
+  "description": "Cross-platform gamepad driver",
+  "license": "MIT",
+  "web": "https://github.com/konsumer/nim-gamepad"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "url",
+  "url": "https://github.com/xTrayambak/url",
+  "method": "git",
+  "tags": [
+    "whatwg",
+    "url",
+    "parser",
+    "simd",
+    "avx2",
+    "sse4.1",
+    "neon"
+  ],
+  "description": "A high-performance, SIMD-accelerated URL parser based on the WHATWG standard.",
+  "license": "BSD-3",
+  "web": "https://xtrayambak.github.io/url/"
+}

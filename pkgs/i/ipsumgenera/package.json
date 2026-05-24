@@ -1,0 +1,15 @@
+{
+  "name": "ipsumgenera",
+  "url": "https://github.com/dom96/ipsumgenera",
+  "method": "git",
+  "tags": [
+    "app",
+    "binary",
+    "blog",
+    "static",
+    "generator"
+  ],
+  "description": "Static blog generator ala Jekyll.",
+  "license": "MIT",
+  "web": "https://github.com/dom96/ipsumgenera"
+}
