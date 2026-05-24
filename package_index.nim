@@ -12,7 +12,7 @@ Usage:
   package_index combine [pkgs-dir] [packages.json]
   package_index rebuild [pkgs-dir] [packages.json]
   package_index split [packages.json] [pkgs-dir]
-  package_index sync <base-rev> <head-rev> [packages.json] [pkgs-dir]
+  package_index sync-git <base-rev> <head-rev> [packages.json] [pkgs-dir]
   package_index add <package.json> [pkgs-dir] [packages.json]
   package_index create [pkgs-dir] [packages.json]
   package_index remove <package-name> [pkgs-dir] [packages.json]
@@ -21,7 +21,7 @@ Commands:
   combine  Combine sharded package files back into packages.json.
   rebuild  Regenerate packages.json from pkgs/.
   split    Split packages.json into pkgs/<letter>/<name>/package.json shard files.
-  sync     Synchronize packages.json and pkgs/ for a pushed git revision range.
+  sync-git Synchronize packages.json and pkgs/ for a pushed git revision range.
   add      Add one package metadata file into pkgs/ and regenerate packages.json.
   create   Prompt for package metadata, write pkgs/, and regenerate packages.json.
   remove   Remove one package from pkgs/ and regenerate packages.json.
@@ -34,7 +34,7 @@ Split arguments:
   packages.json  Input manifest path. Default: packages.json
   pkgs-dir       Output shard directory. Default: pkgs
 
-Sync arguments:
+Sync-git arguments:
   base-rev       Previous revision for the push
   head-rev       New revision for the push
   packages.json  Manifest path. Default: packages.json
@@ -521,9 +521,9 @@ proc cliMain(): int =
     of cmdArgument:
       positional.add(parser.key)
 
-  if positional.len > 0 and positional[0] == "sync":
+  if positional.len > 0 and positional[0] == "sync-git":
     if positional.len < 3 or positional.len > 5:
-      stderr.writeLine("error: sync requires 2 to 4 arguments")
+      stderr.writeLine("error: sync-git requires 2 to 4 arguments")
       stderr.write(Usage)
       return 1
 

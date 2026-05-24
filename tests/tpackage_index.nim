@@ -84,7 +84,7 @@ suite "package_index":
     let headRev = commandOutput("git rev-parse HEAD", dir)
 
     let output = commandOutput("nim r -d:ssl " & quoteShell(root / "package_index.nim") &
-      " sync " & baseRev & " " & headRev & " packages.json pkgs", dir)
+      " sync-git " & baseRev & " " & headRev & " packages.json pkgs", dir)
 
     check fileExists(dir / "pkgs" / "a" / "Alpha" / "package.json")
     check fileExists(dir / "pkgs" / "g" / "Gamma" / "package.json")
@@ -118,7 +118,7 @@ suite "package_index":
     let headRev = commandOutput("git rev-parse HEAD", dir)
 
     let output = commandOutput("nim r -d:ssl " & quoteShell(root / "package_index.nim") &
-      " sync " & inconsistentRev & " " & headRev & " packages.json pkgs", dir)
+      " sync-git " & inconsistentRev & " " & headRev & " packages.json pkgs", dir)
 
     check fileExists(dir / "pkgs" / "f" / "Foo" / "package.json")
     check output.contains("Sync: add Foo from packages.json to pkgs")
