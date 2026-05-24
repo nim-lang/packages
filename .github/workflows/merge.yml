@@ -22,7 +22,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - run: |
-          if git diff --quiet -- packages.json pkgs; then
+          if [ -z "$(git status --porcelain -- packages.json pkgs)" ]; then
             exit 0
           fi
           git config user.name "github-actions[bot]"
