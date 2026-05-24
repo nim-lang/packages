@@ -107,7 +107,7 @@ pkgs/n/nimble/package.json
 The long-term direction is for this sharded `pkgs/` layout to become the
 canonical source of package metadata.
 
-For now, this repository keeps both `packages.json` and `pkgs/` in sync to
+For now, this repository keeps both `packages.json` and `pkgs/` in sync-git to
 support existing tooling and workflows that still update `packages.json`
 directly, including current `nimble publish` behavior.
 
@@ -115,6 +115,27 @@ Split `packages.json` into shard files:
 
 ```sh
 nim r package_index.nim split packages.json pkgs
+```
+
+Add one package from an existing metadata JSON file:
+
+```sh
+nim r package_index.nim add path/to/package.json pkgs packages.json
+```
+
+Create one package interactively:
+
+```sh
+nim r package_index.nim create pkgs packages.json
+```
+
+This prompts for the package metadata fields, writes the new package into
+`pkgs/` first, and then regenerates `packages.json` from the sharded metadata.
+
+Remove one package:
+
+```sh
+nim r package_index.nim remove PackageName pkgs packages.json
 ```
 
 Build `packages.json` from those shard folders:
@@ -132,7 +153,7 @@ In CI, PR validation is handled by the scanner directly from the git merge base:
 nim test
 ```
 
-On push, CI also keeps `packages.json` and `pkgs/` in sync by generating the
+On push, CI also keeps `packages.json` and `pkgs/` in sync-git by generating the
 missing counterpart when it can determine a single authoritative side.
 
 The current push-sync rules are:

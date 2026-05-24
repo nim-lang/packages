@@ -17,7 +17,7 @@ jobs:
       - uses: iffy/install-nim@v5.1.1
         with:
           version: stable
-      - run: nim r -d:ssl -d:release package_index.nim sync "${{ github.event.before }}" "${{ github.sha }}" packages.json pkgs
+      - run: nim r -d:ssl -d:release package_index.nim sync-git "${{ github.event.before }}" "${{ github.sha }}" packages.json pkgs
       - run: nim c -d:ssl -r -d:release package_scanner.nim packages.json
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
