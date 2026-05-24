@@ -150,7 +150,7 @@ suite "package_index":
     check fileExists(dir / "pkgs" / "f" / "Foo" / "package.json")
     check output.contains("Sync: add Foo from packages.json to pkgs")
 
-  test "add writes pkgs first and regenerates packages.json":
+  test "add writes pkgs without regenerating packages.json":
     let dir = tempDir("nim-packages-index-add")
     let manifestPath = dir / "packages.json"
     let shardRoot = dir / "pkgs"
@@ -167,11 +167,10 @@ suite "package_index":
 
     check fileExists(shardRoot / "b" / "Beta" / "package.json")
     let manifest = parseFile(manifestPath)
-    check manifest.len == 2
+    check manifest.len == 1
     check manifest[0]["name"].getStr() == "Alpha"
-    check manifest[1]["name"].getStr() == "Beta"
 
-  test "remove deletes from pkgs and regenerates packages.json":
+  test "remove deletes from pkgs without regenerating packages.json":
     let dir = tempDir("nim-packages-index-remove")
     let manifestPath = dir / "packages.json"
     let shardRoot = dir / "pkgs"
@@ -188,10 +187,11 @@ suite "package_index":
 
     check not fileExists(shardRoot / "b" / "Beta" / "package.json")
     let manifest = parseFile(manifestPath)
-    check manifest.len == 1
+    check manifest.len == 2
     check manifest[0]["name"].getStr() == "Alpha"
+    check manifest[1]["name"].getStr() == "Beta"
 
-  test "create prompts for metadata and regenerates packages.json":
+  test "create prompts for metadata without regenerating packages.json":
     let dir = tempDir("nim-packages-index-create")
     let manifestPath = dir / "packages.json"
     let shardRoot = dir / "pkgs"
@@ -222,6 +222,5 @@ EOF
     check not created.hasKey("doc")
 
     let manifest = parseFile(manifestPath)
-    check manifest.len == 2
+    check manifest.len == 1
     check manifest[0]["name"].getStr() == "Alpha"
-    check manifest[1]["name"].getStr() == "Beta"

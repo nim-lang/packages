@@ -314,21 +314,20 @@ proc rebuildManifestFromShards(shardRoot, manifestPath: string) =
   canonicalizePackages(packages)
   writeCombinedPackages(packages, manifestPath)
 
-proc addPackageNode(pkg: JsonNode, pathForErrors, shardRoot, manifestPath: string) =
+proc addPackageNode(pkg: JsonNode, pathForErrors, shardRoot: string) =
   validatePackageMetadata(pkg, pathForErrors)
   let outputPath = packageShardPath(pkg, pathForErrors, shardRoot)
   if fileExists(outputPath):
     die("package already exists: " & packageName(pkg, pathForErrors))
   createDir(parentDir(outputPath))
   writeFile(outputPath, pkg.pretty.cleanupWhitespace)
-  rebuildManifestFromShards(shardRoot, manifestPath)
-  echo "Added ", packageName(pkg, pathForErrors), " to ", shardRoot, " and regenerated ", manifestPath
+  echo "Added ", packageName(pkg, pathForErrors), " to ", shardRoot
 
 proc addPackage(metadataPath, shardRoot, manifestPath: string) =
   if not fileExists(metadataPath):
     die("package metadata file not found: " & metadataPath)
   let pkg = parseFile(metadataPath)
-  addPackageNode(pkg, metadataPath, shardRoot, manifestPath)
+  addPackageNode(pkg, metadataPath, shardRoot)
 
 proc prompt(message: string): string =
   stdout.write(message)
@@ -383,7 +382,7 @@ proc createPackageMetadata(): JsonNode =
 
 proc createPackage(shardRoot, manifestPath: string) =
   let pkg = createPackageMetadata()
-  addPackageNode(pkg, "<interactive>", shardRoot, manifestPath)
+  addPackageNode(pkg, "<interactive>", shardRoot)
 
 proc removePackage(packageNameToRemove, shardRoot, manifestPath: string) =
   if packageNameToRemove.len == 0:
@@ -396,8 +395,7 @@ proc removePackage(packageNameToRemove, shardRoot, manifestPath: string) =
   removeFile(metadataPath)
   removeDirIfEmpty(packageDir)
   removeDirIfEmpty(parentDir(packageDir))
-  rebuildManifestFromShards(shardRoot, manifestPath)
-  echo "Removed ", packageNameToRemove, " from ", shardRoot, " and regenerated ", manifestPath
+  echo "Removed ", packageNameToRemove, " from ", shardRoot
 
 proc combinePackages(inputRoot, outputPath: string) =
   var packages = loadShardedPackages(inputRoot)
