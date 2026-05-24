@@ -9,26 +9,38 @@ import std/tables
 
 const Usage = """
 Usage:
+  package_index
   package_index combine [pkgs-dir] [packages.json]
   package_index rebuild [pkgs-dir] [packages.json]
   package_index split [packages.json] [pkgs-dir]
-  package_index sync-git [<base-rev> <head-rev>] [packages.json] [pkgs-dir]
+  package_index sync-git [packages.json] [pkgs-dir]
+  package_index sync-git <base-rev> <head-rev> [packages.json] [pkgs-dir]
   package_index add <package.json> [pkgs-dir] [packages.json]
   package_index create [pkgs-dir] [packages.json]
   package_index remove <package-name> [pkgs-dir] [packages.json]
+  package_index [pkgs-dir] [packages.json]
 
 Commands:
-  combine  Combine sharded package files back into packages.json.
-  rebuild  Regenerate packages.json from pkgs/.
-  split    Split packages.json into pkgs/<letter>/<name>/package.json shard files.
-  sync-git Synchronize packages.json and pkgs/ for a pushed git revision range.
-  add      Add one package metadata file into pkgs/ and regenerate packages.json.
-  create   Prompt for package metadata, write pkgs/, and regenerate packages.json.
-  remove   Remove one package from pkgs/ and regenerate packages.json.
+  combine   Combine sharded package files back into packages.json.
+  rebuild   Regenerate packages.json from pkgs/.
+  split     Split packages.json into pkgs/<letter>/<name>/package.json shard files.
+  sync-git  Synchronize packages.json and pkgs/ using git revisions.
+            Defaults to comparing master..HEAD when revisions are omitted.
+  add       Add one package metadata file into pkgs/ and regenerate packages.json.
+  create    Prompt for package metadata, write pkgs/, and regenerate packages.json.
+  remove    Remove one package from pkgs/ and regenerate packages.json.
+
+Help:
+  Running `package_index` with no arguments prints this help text.
 
 Combine/Rebuild arguments:
   pkgs-dir       Input shard directory. Default: pkgs
   packages.json  Output manifest path. Default: packages.json
+
+Legacy positional combine arguments:
+  pkgs-dir       Input shard directory. Default: pkgs
+  packages.json  Output manifest path. Default: packages.json
+  Note: `package_index [pkgs-dir] [packages.json]` is kept for compatibility.
 
 Split arguments:
   packages.json  Input manifest path. Default: packages.json
