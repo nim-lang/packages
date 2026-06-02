@@ -39329,5 +39329,20 @@
     "description": "Compile-time reactive web framework for Nim with SSR & Islands",
     "license": "AGPL-3.0",
     "web": "https://github.com/nim-community/nexum"
+  },
+  {
+    "name": "rice",
+    "url": "https://github.com/levovix0/rice",
+    "method": "git",
+    "tags": [
+      "opengl",
+      "rendering",
+      "graphics",
+      "2D",
+      "3D"
+    ],
+    "description": "GPU-accelerated 2D/3D rendering library, built on OpenGL",
+    "license": "MIT",
+    "web": "https://github.com/levovix0/rice"
   }
 ]
