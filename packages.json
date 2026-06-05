@@ -39344,5 +39344,20 @@
     "description": "GPU-accelerated 2D/3D rendering library, built on OpenGL",
     "license": "MIT",
     "web": "https://github.com/levovix0/rice"
+  },
+  {
+    "name": "openh264",
+    "url": "https://github.com/openpeeps/openh264-nim",
+    "method": "git",
+    "tags": [
+      "h264",
+      "encoder",
+      "decoder",
+      "video",
+      "streaming"
+    ],
+    "description": "Bindings for Cisco's H.264 codec library",
+    "license": "MIT",
+    "web": "https://github.com/openpeeps/openh264-nim"
   }
 ]
