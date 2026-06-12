@@ -39359,5 +39359,23 @@
     "description": "Bindings for Cisco's H.264 codec library",
     "license": "MIT",
     "web": "https://github.com/openpeeps/openh264-nim"
+  },
+  {
+    "name": "nim2d",
+    "url": "https://github.com/nim2d/nim2d",
+    "method": "git",
+    "tags": [
+      "game",
+      "engine",
+      "2d",
+      "gamedev",
+      "sdl",
+      "sdl3",
+      "graphics",
+      "love2d"
+    ],
+    "description": "2d game engine for Nim, inspired by Love2d (SDL3 / SDL_GPU)",
+    "license": "zlib",
+    "web": "https://github.com/nim2d/nim2d"
   }
 ]
