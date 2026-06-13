@@ -1,0 +1,12 @@
+{
+  "name": "ratel",
+  "url": "https://github.com/PMunch/ratel",
+  "method": "git",
+  "tags": [
+    "library",
+    "embedded"
+  ],
+  "description": "Zero-cost abstractions for microcontrollers",
+  "license": "MIT",
+  "web": "https://github.com/PMunch/ratel"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "nimTiingo",
+  "url": "https://github.com/rolandgg/nimTiingo",
+  "method": "git",
+  "tags": [
+    "Tiingo",
+    "StockAPI"
+  ],
+  "description": "Tiingo",
+  "license": "MIT",
+  "web": "https://github.com/rolandgg/nimTiingo"
+}

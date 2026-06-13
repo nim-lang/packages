@@ -1,0 +1,15 @@
+{
+  "name": "treesitter_bash",
+  "url": "https://github.com/genotrance/nimtreesitter?subdir=treesitter_bash",
+  "method": "git",
+  "tags": [
+    "tree-sitter",
+    "bash",
+    "parser",
+    "language",
+    "code"
+  ],
+  "description": "Nim wrapper for Bash language support within tree-sitter",
+  "license": "MIT",
+  "web": "https://github.com/genotrance/nimtreesitter"
+}

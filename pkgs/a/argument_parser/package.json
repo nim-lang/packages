@@ -1,0 +1,15 @@
+{
+  "name": "argument_parser",
+  "url": "https://github.com/Xe/argument_parser/",
+  "method": "git",
+  "tags": [
+    "library",
+    "command-line",
+    "arguments",
+    "switches",
+    "parsing"
+  ],
+  "description": "Provides a complex command-line parser",
+  "license": "MIT",
+  "web": "https://github.com/Xe/argument_parser"
+}

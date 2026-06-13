@@ -1,0 +1,13 @@
+{
+  "name": "foreach",
+  "url": "https://github.com/disruptek/foreach",
+  "method": "git",
+  "tags": [
+    "macro",
+    "syntax",
+    "sugar"
+  ],
+  "description": "A sugary for loop with syntax for typechecking loop variables",
+  "license": "MIT",
+  "web": "https://github.com/disruptek/foreach"
+}

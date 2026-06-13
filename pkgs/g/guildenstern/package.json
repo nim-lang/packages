@@ -1,0 +1,12 @@
+{
+  "name": "guildenstern",
+  "url": "https://github.com/olliNiinivaara/GuildenStern",
+  "method": "git",
+  "tags": [
+    "http",
+    "server"
+  ],
+  "description": "Modular multithreading Linux HTTP server",
+  "license": "MIT",
+  "web": "https://github.com/olliNiinivaara/GuildenStern"
+}

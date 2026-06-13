@@ -1,0 +1,12 @@
+{
+  "name": "winres",
+  "url": "https://github.com/codehz/nim-winres",
+  "method": "git",
+  "tags": [
+    "windows",
+    "resource"
+  ],
+  "description": "Windows resource file generator",
+  "license": "MIT",
+  "web": "https://github.com/codehz/nim-winres"
+}

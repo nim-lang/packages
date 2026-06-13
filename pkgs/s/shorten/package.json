@@ -1,0 +1,15 @@
+{
+  "name": "shorten",
+  "url": "https://github.com/capocasa/shorten",
+  "method": "git",
+  "tags": [
+    "url",
+    "shortener",
+    "web",
+    "server",
+    "cli"
+  ],
+  "description": "Minimal secure URL shortener with CLI",
+  "license": "MIT",
+  "web": "https://github.com/capocasa/shorten"
+}

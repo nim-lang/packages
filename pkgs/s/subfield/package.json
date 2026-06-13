@@ -1,0 +1,12 @@
+{
+  "name": "subfield",
+  "url": "https://github.com/jyapayne/subfield",
+  "method": "git",
+  "tags": [
+    "subfield",
+    "macros"
+  ],
+  "description": "Override the dot operator to access nested subfields of a Nim object.",
+  "license": "MIT",
+  "web": "https://github.com/jyapayne/subfield"
+}

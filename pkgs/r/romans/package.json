@@ -1,0 +1,13 @@
+{
+  "name": "romans",
+  "url": "https://github.com/lcrees/romans",
+  "method": "git",
+  "tags": [
+    "roman",
+    "numerals",
+    "deleted"
+  ],
+  "description": "Conversion between integers and Roman numerals",
+  "license": "MIT",
+  "web": "https://github.com/lcrees/romans"
+}

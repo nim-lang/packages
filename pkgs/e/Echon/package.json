@@ -1,0 +1,14 @@
+{
+  "name": "Echon",
+  "url": "https://github.com/eXodiquas/Echon",
+  "method": "git",
+  "tags": [
+    "generative",
+    "l-system",
+    "fractal",
+    "art"
+  ],
+  "description": "A small package to create lindenmayer-systems or l-systems.",
+  "license": "MIT",
+  "web": "https://github.com/eXodiquas/Echon"
+}

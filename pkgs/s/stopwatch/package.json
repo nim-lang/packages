@@ -1,0 +1,15 @@
+{
+  "name": "stopwatch",
+  "url": "https://gitlab.com/define-private-public/stopwatch",
+  "method": "git",
+  "tags": [
+    "timer",
+    "timing",
+    "benchmarking",
+    "watch",
+    "clock"
+  ],
+  "description": "A simple timing library for benchmarking code and other things.",
+  "license": "MIT",
+  "web": "https://gitlab.com/define-private-public/stopwatch"
+}

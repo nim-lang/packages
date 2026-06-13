@@ -1,0 +1,13 @@
+{
+  "name": "dogapi_cli",
+  "url": "https://github.com/thechampagne/dogapi-cli",
+  "method": "git",
+  "tags": [
+    "images",
+    "cli",
+    "dogapi"
+  ],
+  "description": "Tool to download dogs images",
+  "license": "Apache-2.0",
+  "web": "https://github.com/thechampagne/dogapi-cli"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "crowngui",
+  "url": "https://github.com/bung87/crowngui",
+  "method": "git",
+  "tags": [
+    "web-based",
+    "gui",
+    "framework"
+  ],
+  "description": "Web Technologies based Crossplatform GUI Framework",
+  "license": "MIT",
+  "web": "https://github.com/bung87/crowngui"
+}

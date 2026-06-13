@@ -1,0 +1,14 @@
+{
+  "name": "stomp",
+  "url": "https://github.com/mahlonsmith/nim-stomp",
+  "method": "git",
+  "tags": [
+    "stomp",
+    "library",
+    "messaging",
+    "events"
+  ],
+  "description": "A pure-nim implementation of the STOMP protocol for machine messaging.",
+  "license": "MIT",
+  "web": "https://github.com/mahlonsmith/nim-stomp"
+}

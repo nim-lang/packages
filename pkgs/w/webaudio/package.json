@@ -1,0 +1,16 @@
+{
+  "name": "webaudio",
+  "url": "https://github.com/ftsf/nim-webaudio",
+  "method": "git",
+  "tags": [
+    "javascript",
+    "js",
+    "web",
+    "audio",
+    "sound",
+    "music"
+  ],
+  "description": "API for Web Audio (JS)",
+  "license": "MIT",
+  "web": "https://github.com/ftsf/nim-webaudio"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "json2schema",
+  "url": "https://github.com/Luteva-ssh/json2schema",
+  "method": "git",
+  "tags": [
+    "json",
+    "schema",
+    "converter",
+    "JSON Schema",
+    "JSON Schema (draft 2020-12)"
+  ],
+  "description": "Infer a JSON Schema (draft 2020-12) from any JSON value. No real data values are ever copied into the output — only structural and type information.",
+  "license": "MIT",
+  "web": "https://github.com/Luteva-ssh/json2schema"
+}

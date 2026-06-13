@@ -1,0 +1,14 @@
+{
+  "name": "ybus",
+  "url": "https://github.com/nim-windowing/ybus",
+  "tags": [
+    "dbus",
+    "linux",
+    "pure",
+    "ipc"
+  ],
+  "description": "A pure-Nim implementation of the D-Bus protocol with a high-level and simple client.",
+  "license": "BSD-3-Clause",
+  "method": "git",
+  "web": "https://github.com/nim-windowing/ybus"
+}

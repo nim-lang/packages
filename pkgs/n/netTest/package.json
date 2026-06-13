@@ -1,0 +1,13 @@
+{
+  "name": "netTest",
+  "url": "https://github.com/blmvxer/netTest",
+  "method": "git",
+  "tags": [
+    "library",
+    "web",
+    "network"
+  ],
+  "description": "Connection Test for Nim Web Applications",
+  "license": "MIT",
+  "web": "https://github.com/blmvxer/netTest"
+}

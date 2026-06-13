@@ -1,0 +1,15 @@
+{
+  "name": "nimrod-glfw",
+  "url": "https://github.com/rafaelvasco/nimrod-glfw/",
+  "method": "git",
+  "tags": [
+    "library",
+    "glfw",
+    "opengl",
+    "windowing",
+    "game"
+  ],
+  "description": "Nim bindings for GLFW library.",
+  "license": "MIT",
+  "web": "https://github.com/rafaelvasco/nimrod-glfw"
+}

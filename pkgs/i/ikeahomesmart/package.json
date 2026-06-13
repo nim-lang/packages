@@ -1,0 +1,14 @@
+{
+  "name": "ikeahomesmart",
+  "url": "https://github.com/PMunch/ikeahomesmart",
+  "method": "git",
+  "tags": [
+    "library",
+    "ikea",
+    "homesmart",
+    "coap"
+  ],
+  "description": "IKEA Home Smart library to monitor and control lights through the IKEA Gateway",
+  "license": "MIT",
+  "web": "https://github.com/PMunch/ikeahomesmart"
+}

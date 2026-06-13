@@ -1,0 +1,17 @@
+{
+  "name": "inumon",
+  "url": "https://github.com/dizzyliam/inumon",
+  "method": "git",
+  "tags": [
+    "abandoned",
+    "image",
+    "images",
+    "png",
+    "image manipulation",
+    "jpeg",
+    "jpg"
+  ],
+  "description": "A high-level image I/O and manipulation library for Nim.",
+  "license": "MPL 2.0",
+  "web": "https://github.com/dizzyliam/inumon"
+}

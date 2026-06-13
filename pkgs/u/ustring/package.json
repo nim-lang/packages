@@ -1,0 +1,15 @@
+{
+  "name": "ustring",
+  "url": "https://github.com/rokups/nim-ustring",
+  "method": "git",
+  "tags": [
+    "string",
+    "text",
+    "unicode",
+    "uft8",
+    "utf-8"
+  ],
+  "description": "utf-8 string",
+  "license": "MIT",
+  "web": "https://github.com/rokups/nim-ustring"
+}

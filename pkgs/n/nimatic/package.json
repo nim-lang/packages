@@ -1,0 +1,14 @@
+{
+  "name": "nimatic",
+  "url": "https://github.com/DangerOnTheRanger/nimatic",
+  "method": "git",
+  "tags": [
+    "static",
+    "generator",
+    "web",
+    "markdown"
+  ],
+  "description": "A static site generator written in Nim",
+  "license": "2-clause BSD",
+  "web": "https://github.com/DangerOnTheRanger/nimatic"
+}

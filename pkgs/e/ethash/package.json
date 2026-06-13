@@ -1,0 +1,15 @@
+{
+  "name": "ethash",
+  "url": "https://github.com/status-im/nim-ethash",
+  "method": "git",
+  "tags": [
+    "library",
+    "ethereum",
+    "ethash",
+    "cryptography",
+    "proof-of-work"
+  ],
+  "description": "A Nim implementation of Ethash, the ethereum proof-of-work hashing function",
+  "license": "Apache License 2.0",
+  "web": "https://github.com/status-im/nim-ethash"
+}

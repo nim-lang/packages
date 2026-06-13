@@ -1,0 +1,13 @@
+{
+  "name": "nimish",
+  "url": "https://github.com/ringabout/nimish",
+  "method": "git",
+  "tags": [
+    "macro",
+    "library",
+    "c"
+  ],
+  "description": "C macro for Nim.",
+  "license": "Apache-2.0",
+  "web": "https://github.com/ringabout/nimish"
+}

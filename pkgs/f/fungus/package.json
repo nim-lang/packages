@@ -1,0 +1,15 @@
+{
+  "name": "fungus",
+  "url": "https://github.com/beef331/fungus",
+  "method": "git",
+  "tags": [
+    "adt",
+    "enum",
+    "rust",
+    "match",
+    "tagged union"
+  ],
+  "description": "Rust-like tuple enums",
+  "license": "MIT",
+  "web": "https://github.com/beef331/fungus"
+}

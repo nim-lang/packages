@@ -1,0 +1,14 @@
+{
+  "name": "presto",
+  "url": "https://github.com/status-im/nim-presto",
+  "method": "git",
+  "tags": [
+    "http",
+    "rest",
+    "server",
+    "client"
+  ],
+  "description": "REST API framework for Nim language",
+  "license": "Apache License 2.0",
+  "web": "https://github.com/status-im/nim-presto"
+}

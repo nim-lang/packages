@@ -1,0 +1,17 @@
+{
+  "name": "zxc",
+  "url": "https://github.com/openpeeps/zxc-nim",
+  "method": "git",
+  "tags": [
+    "lz77",
+    "compression",
+    "lossless",
+    "compressor",
+    "assets",
+    "game",
+    "data"
+  ],
+  "description": "Bindings to ZXC compression library",
+  "license": "MIT",
+  "web": "https://github.com/openpeeps/zxc-nim"
+}

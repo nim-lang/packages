@@ -1,0 +1,12 @@
+{
+  "name": "pinggraph",
+  "url": "https://github.com/SolitudeSF/pinggraph",
+  "method": "git",
+  "tags": [
+    "ping",
+    "terminal"
+  ],
+  "description": "Simple terminal ping graph",
+  "license": "MIT",
+  "web": "https://github.com/SolitudeSF/pinggraph"
+}

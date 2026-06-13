@@ -1,0 +1,14 @@
+{
+  "name": "pwd",
+  "url": "https://github.com/achesak/nim-pwd",
+  "method": "git",
+  "tags": [
+    "library",
+    "unix",
+    "pwd",
+    "password"
+  ],
+  "description": "Nim port of Python's pwd module for working with the UNIX password file",
+  "license": "MIT",
+  "web": "https://github.com/achesak/nim-pwd"
+}

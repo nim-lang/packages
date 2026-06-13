@@ -1,0 +1,15 @@
+{
+  "name": "libgraph",
+  "url": "https://github.com/Mnenmenth/libgraphnim",
+  "method": "git",
+  "tags": [
+    "graph",
+    "math",
+    "conversion",
+    "pixels",
+    "coordinates"
+  ],
+  "description": "Converts 2D linear graph coordinates to pixels on screen",
+  "license": "MIT",
+  "web": "https://github.com/Mnenmenth/libgraphnim"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "box2d",
+  "url": "https://github.com/jon-edward/box2d.nim",
+  "method": "git",
+  "tags": [
+    "game",
+    "physics",
+    "wrapper"
+  ],
+  "description": "Nim bindings for Erin Catto's Box2D physics engine. ",
+  "license": "MIT",
+  "web": "https://github.com/jon-edward/box2d.nim"
+}

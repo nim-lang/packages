@@ -1,0 +1,12 @@
+{
+  "name": "nimsrvstat",
+  "url": "https://github.com/Minejerik/nimsrvstat",
+  "method": "git",
+  "tags": [
+    "minecraft",
+    "api"
+  ],
+  "description": "A nim wrapper around mcsrvstat",
+  "license": "MIT",
+  "web": "https://github.com/Minejerik/nimsrvstat"
+}

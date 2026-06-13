@@ -1,0 +1,13 @@
+{
+  "name": "numToWord",
+  "url": "https://github.com/thisago/numToWord",
+  "method": "git",
+  "tags": [
+    "numbers",
+    "conversion",
+    "words"
+  ],
+  "description": "Convert numbers to words",
+  "license": "MIT",
+  "web": "https://github.com/thisago/numToWord"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "ecslib",
+  "url": "https://github.com/glassesneo/ecslib",
+  "method": "git",
+  "tags": [
+    "game-development",
+    "entity-component-system"
+  ],
+  "description": "A nimble package for Entity Component System",
+  "license": "MIT",
+  "web": "https://github.com/glassesneo/ecslib"
+}

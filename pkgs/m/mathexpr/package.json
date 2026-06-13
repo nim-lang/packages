@@ -1,0 +1,13 @@
+{
+  "name": "mathexpr",
+  "url": "https://github.com/nimbackup/nim-mathexpr",
+  "method": "git",
+  "tags": [
+    "math",
+    "mathparser",
+    "tinyexpr"
+  ],
+  "description": "MathExpr - pure-Nim mathematical expression evaluator library",
+  "license": "MIT",
+  "web": "https://github.com/nimbackup/nim-mathexpr"
+}

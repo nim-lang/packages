@@ -1,0 +1,13 @@
+{
+  "name": "pythonmath",
+  "url": "https://github.com/achesak/nim-pythonmath",
+  "method": "git",
+  "tags": [
+    "library",
+    "python",
+    "math"
+  ],
+  "description": "Module to provide an interface as similar as possible to Python's math libary",
+  "license": "MIT",
+  "web": "https://github.com/achesak/nim-pythonmath"
+}

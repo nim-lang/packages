@@ -1,0 +1,13 @@
+{
+  "name": "gnuplot",
+  "url": "https://github.com/dvolk/gnuplot.nim",
+  "method": "git",
+  "tags": [
+    "plot",
+    "graphing",
+    "data"
+  ],
+  "description": "Nim interface to gnuplot",
+  "license": "MIT",
+  "web": "https://github.com/dvolk/gnuplot.nim"
+}

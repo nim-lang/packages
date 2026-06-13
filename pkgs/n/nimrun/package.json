@@ -1,0 +1,22 @@
+{
+  "name": "nimrun",
+  "url": "https://github.com/lee-b/nimrun",
+  "method": "git",
+  "tags": [
+    "shebang",
+    "unix",
+    "linux",
+    "bsd",
+    "mac",
+    "shell",
+    "script",
+    "nimble",
+    "nimcr",
+    "compile",
+    "run",
+    "standalone"
+  ],
+  "description": "Shebang frontend for running nim code as scripts. Does not require .nim extensions.",
+  "license": "MIT",
+  "web": "https://github.com/lee-b/nimrun"
+}

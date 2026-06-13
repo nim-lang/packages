@@ -1,0 +1,18 @@
+{
+  "name": "telenim",
+  "url": "https://github.com/nimbackup/telenim",
+  "method": "git",
+  "tags": [
+    "telegram",
+    "tdlib",
+    "bot",
+    "api",
+    "async",
+    "client",
+    "userbot",
+    "telenim"
+  ],
+  "description": "A high-level async TDLib wrapper for Nim",
+  "license": "MIT",
+  "web": "https://github.com/nimbackup/telenim"
+}

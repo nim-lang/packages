@@ -1,0 +1,13 @@
+{
+  "name": "nimbass",
+  "url": "https://github.com/genotrance/nimbass",
+  "method": "git",
+  "tags": [
+    "bass",
+    "audio",
+    "wrapper"
+  ],
+  "description": "Bass wrapper for Nim",
+  "license": "MIT",
+  "web": "https://github.com/genotrance/nimbass"
+}

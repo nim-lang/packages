@@ -1,0 +1,16 @@
+{
+  "name": "gnu",
+  "url": "https://github.com/tonogram/gnu",
+  "method": "git",
+  "tags": [
+    "gamedev",
+    "godot",
+    "game",
+    "engine",
+    "utility",
+    "tool"
+  ],
+  "description": "Godot-Nim Utility - Godot gamedev with Nim",
+  "license": "MIT",
+  "web": "https://github.com/tonogram/gnu"
+}

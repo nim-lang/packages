@@ -1,0 +1,18 @@
+{
+  "name": "xrayAttenuation",
+  "url": "https://github.com/SciNim/xrayAttenuation",
+  "method": "git",
+  "tags": [
+    "xrays",
+    "xray interactions",
+    "reflection",
+    "transmission",
+    "attenuation",
+    "xray optics",
+    "multilayers",
+    "science"
+  ],
+  "description": "Library for X-ray reflectivity and transmission / absorption through matter",
+  "license": "MIT",
+  "web": "https://github.com/SciNim/xrayAttenuation"
+}

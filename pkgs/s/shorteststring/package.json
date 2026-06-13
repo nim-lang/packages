@@ -1,0 +1,15 @@
+{
+  "name": "shorteststring",
+  "url": "https://github.com/metagn/shorteststring",
+  "method": "git",
+  "tags": [
+    "short-string",
+    "string",
+    "sso",
+    "optimization",
+    "datatype"
+  ],
+  "description": "word size strings stored in an integer",
+  "license": "MIT",
+  "web": "https://github.com/metagn/shorteststring"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "bigints",
+  "url": "https://github.com/nim-lang/bigints",
+  "method": "git",
+  "tags": [
+    "math",
+    "library",
+    "numbers"
+  ],
+  "description": "Arbitrary-precision integers",
+  "license": "MIT",
+  "web": "https://github.com/nim-lang/bigints"
+}

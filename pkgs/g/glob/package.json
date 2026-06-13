@@ -1,0 +1,16 @@
+{
+  "name": "glob",
+  "url": "https://github.com/haltcase/glob",
+  "method": "git",
+  "tags": [
+    "glob",
+    "pattern",
+    "match",
+    "walk",
+    "filesystem",
+    "pure"
+  ],
+  "description": "Pure library for matching file paths against Unix style glob patterns.",
+  "license": "MIT",
+  "web": "https://github.com/haltcase/glob"
+}

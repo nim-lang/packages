@@ -1,0 +1,14 @@
+{
+  "name": "ajax",
+  "url": "https://github.com/stisa/ajax",
+  "method": "git",
+  "tags": [
+    "js",
+    "javascripts",
+    "ajax",
+    "xmlhttprequest"
+  ],
+  "description": "AJAX wrapper for nim js backend.",
+  "license": "MIT",
+  "web": "https://stisa.space/ajax/"
+}

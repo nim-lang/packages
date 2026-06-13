@@ -1,0 +1,13 @@
+{
+  "name": "skEasing",
+  "url": "https://github.com/Skrylar/skEasing",
+  "method": "git",
+  "tags": [
+    "math",
+    "curves",
+    "animation"
+  ],
+  "description": "A collection of easing curves for animation purposes.",
+  "license": "BSD",
+  "web": "https://github.com/Skrylar/skEasing"
+}

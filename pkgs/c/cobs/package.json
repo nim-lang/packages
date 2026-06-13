@@ -1,0 +1,15 @@
+{
+  "name": "cobs",
+  "url": "https://github.com/keyme/nim_cobs",
+  "method": "git",
+  "tags": [
+    "serialization",
+    "encoding",
+    "wireline",
+    "framing",
+    "cobs"
+  ],
+  "description": "Consistent Overhead Byte Stuffing for Nim",
+  "license": "MIT",
+  "web": "https://github.com/keyme/nim_cobs"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "bossy",
+  "url": "https://github.com/guzba/bossy",
+  "method": "git",
+  "tags": [
+    "command-line",
+    "cli"
+  ],
+  "description": "Makes supporting command line arguments easier",
+  "license": "MIT",
+  "web": "https://github.com/guzba/bossy"
+}

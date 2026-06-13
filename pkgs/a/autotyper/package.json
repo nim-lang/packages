@@ -1,0 +1,13 @@
+{
+  "name": "autotyper",
+  "url": "https://github.com/kijowski/autotyper",
+  "method": "git",
+  "tags": [
+    "terminal",
+    "cli",
+    "typing-emulator"
+  ],
+  "description": "Keyboard typing emulator",
+  "license": "MIT",
+  "web": "https://github.com/kijowski/autotyper"
+}

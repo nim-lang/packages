@@ -1,0 +1,14 @@
+{
+  "name": "ttty",
+  "url": "https://github.com/capocasa/ttty",
+  "method": "git",
+  "description": "Headless ANSI VT grid renderer",
+  "license": "MIT",
+  "web": "https://github.com/capocasa/ttty",
+  "tags": [
+    "terminal",
+    "ansi",
+    "vt100",
+    "grid"
+  ]
+}

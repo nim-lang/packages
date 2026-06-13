@@ -1,0 +1,15 @@
+{
+  "name": "millie",
+  "url": "https://github.com/bichanna/millie.nim",
+  "method": "git",
+  "tags": [
+    "millify",
+    "number",
+    "converter",
+    "parsing",
+    "library"
+  ],
+  "license": "MIT",
+  "description": "Convert big numbers to what's pleasant to see (an adorable, little girl, perhaps?) ... in Nim!",
+  "web": "https://github.com/bichanna/millie.nim"
+}

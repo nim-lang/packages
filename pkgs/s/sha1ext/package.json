@@ -1,0 +1,12 @@
+{
+  "name": "sha1ext",
+  "url": "https://github.com/CORDEA/sha1ext",
+  "method": "git",
+  "tags": [
+    "sha1",
+    "extension"
+  ],
+  "description": "std / sha1 extension",
+  "license": "Apache License 2.0",
+  "web": "https://github.com/CORDEA/sha1ext"
+}

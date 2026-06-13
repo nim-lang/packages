@@ -1,0 +1,13 @@
+{
+  "name": "libsvm_legacy",
+  "url": "https://github.com/nim-lang/libsvm_legacy",
+  "method": "git",
+  "tags": [
+    "wrapper",
+    "library",
+    "scientific"
+  ],
+  "description": "Wrapper for libsvm.",
+  "license": "MIT",
+  "web": "https://github.com/nim-lang/libsvm_legacy"
+}

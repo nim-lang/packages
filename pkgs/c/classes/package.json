@@ -1,0 +1,15 @@
+{
+  "name": "classes",
+  "url": "https://github.com/jjv360/nim-classes",
+  "method": "git",
+  "tags": [
+    "class",
+    "classes",
+    "macro",
+    "oop",
+    "super"
+  ],
+  "description": "Adds class support to Nim.",
+  "license": "MIT",
+  "web": "https://github.com/jjv360/nim-classes"
+}

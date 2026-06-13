@@ -1,0 +1,13 @@
+{
+  "name": "algebraicdatas",
+  "url": "https://github.com/chocobo333/AlgebraicDataTypes",
+  "method": "git",
+  "tags": [
+    "algebraicdatatypes",
+    "adt",
+    "pattern-mathcing"
+  ],
+  "description": "This module provides the feature of algebraic data type and its associated method",
+  "license": "MIT",
+  "web": "https://github.com/chocobo333/AlgebraicDataTypes"
+}

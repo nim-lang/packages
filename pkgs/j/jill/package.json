@@ -1,0 +1,14 @@
+{
+  "name": "jill",
+  "url": "https://github.com/capocasa/jill",
+  "method": "git",
+  "tags": [
+    "jack",
+    "dsp",
+    "audio",
+    "realtime"
+  ],
+  "description": "Jill is a Nimish high-level interface to the Jack Audio Connection Kit.",
+  "license": "MIT",
+  "web": "https://github.com/capocasa/jill"
+}

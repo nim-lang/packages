@@ -1,0 +1,13 @@
+{
+  "name": "nimx2",
+  "url": "https://github.com/777shuang/nimx2",
+  "method": "git",
+  "tags": [
+    "gui",
+    "library",
+    "cross-platform"
+  ],
+  "description": "GUI framework",
+  "license": "MIT",
+  "web": "https://github.com/777shuang/nimx2"
+}

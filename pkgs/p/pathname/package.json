@@ -1,0 +1,14 @@
+{
+  "name": "pathname",
+  "url": "https://github.com/RaimundHuebel/nimpathname",
+  "method": "git",
+  "tags": [
+    "library",
+    "pathname",
+    "file_utils",
+    "filesystem"
+  ],
+  "description": "Library to support work with pathnames in Windows and Posix-based systems. Inspired by Rubies pathname.",
+  "license": "MIT",
+  "web": "https://github.com/RaimundHuebel/nimpathname"
+}

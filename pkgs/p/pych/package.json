@@ -1,0 +1,12 @@
+{
+  "name": "pych",
+  "url": "https://github.com/rburmorrison/pych",
+  "method": "git",
+  "tags": [
+    "python",
+    "monitor"
+  ],
+  "description": "A tool that watches Python files and re-runs them on change.",
+  "license": "MIT",
+  "web": "https://github.com/rburmorrison/pych"
+}

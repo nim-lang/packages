@@ -1,0 +1,15 @@
+{
+  "name": "cli_menu",
+  "url": "https://github.com/MnlPhlp/cli_menu",
+  "method": "git",
+  "tags": [
+    "menu",
+    "library",
+    "cli",
+    "interactive",
+    "userinput"
+  ],
+  "description": "A library to create interactive commandline menus without writing boilerplate code.",
+  "license": "MIT",
+  "web": "https://github.com/MnlPhlp/cli_menu"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "paratext",
+  "url": "https://github.com/paranim/paratext",
+  "method": "git",
+  "tags": [
+    "text",
+    "opengl"
+  ],
+  "description": "A library for rendering text with paranim",
+  "license": "Public Domain"
+}

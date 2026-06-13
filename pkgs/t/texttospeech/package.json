@@ -1,0 +1,15 @@
+{
+  "name": "texttospeech",
+  "url": "https://github.com/dom96/texttospeech",
+  "method": "git",
+  "tags": [
+    "tts",
+    "text-to-speech",
+    "google-cloud",
+    "gcloud",
+    "api"
+  ],
+  "description": "A client for the Google Cloud Text to Speech API.",
+  "license": "MIT",
+  "web": "https://github.com/dom96/texttospeech"
+}

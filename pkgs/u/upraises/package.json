@@ -1,0 +1,13 @@
+{
+  "name": "upraises",
+  "url": "https://github.com/markspanbroek/upraises",
+  "method": "git",
+  "tags": [
+    "raise",
+    "error",
+    "defect"
+  ],
+  "description": "exception tracking for older versions of nim",
+  "license": "MIT",
+  "web": "https://github.com/markspanbroek/upraises"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "valido",
+  "url": "https://github.com/openpeeps/valido",
+  "method": "git",
+  "tags": [
+    "validation",
+    "strings",
+    "validator",
+    "input",
+    "sanitizer"
+  ],
+  "description": "A library of string validators and sanitizers.",
+  "license": "MIT",
+  "web": "https://github.com/openpeeps/valido"
+}

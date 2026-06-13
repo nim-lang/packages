@@ -1,0 +1,13 @@
+{
+  "name": "getpodia",
+  "url": "https://github.com/thisago/getpodia",
+  "method": "git",
+  "tags": [
+    "scraper",
+    "podia",
+    "library"
+  ],
+  "description": "Extract Podia sites courses data",
+  "license": "GPL-3",
+  "web": "https://github.com/thisago/getpodia"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "nestegg",
+  "url": "https://github.com/capocasa/nim-nestegg",
+  "method": "git",
+  "tags": [
+    "nestegg",
+    "demuxer",
+    "webm",
+    "video",
+    "container"
+  ],
+  "description": "A nimterop wrapper for the nestegg portable webm video demuxer",
+  "license": "MIT",
+  "web": "https://github.com/capocasa/nim-nestegg"
+}

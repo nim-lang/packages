@@ -1,0 +1,12 @@
+{
+  "name": "easings",
+  "url": "https://github.com/juancarlospaco/nim-easings",
+  "method": "git",
+  "tags": [
+    "easings",
+    "math"
+  ],
+  "description": "Robert Penner Easing Functions for Nim",
+  "license": "MIT",
+  "web": "https://github.com/juancarlospaco/nim-easings"
+}

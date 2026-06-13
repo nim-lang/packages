@@ -1,0 +1,16 @@
+{
+  "name": "Espirit",
+  "url": "https://github.com/Toma400/Espirit",
+  "method": "git",
+  "tags": [
+    "elder-scrolls",
+    "morrowind",
+    "parser",
+    "parse",
+    "esm",
+    "esp"
+  ],
+  "description": "Parser for Morrowind's .esp/.esm modding files",
+  "license": "MIT NON-AI License",
+  "web": "https://baedoor.github.io/projects/esp.html"
+}

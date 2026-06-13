@@ -1,0 +1,11 @@
+{
+  "name": "db_nimternalsql",
+  "url": "https://github.com/rehartmann/nimternalsql",
+  "method": "git",
+  "tags": [
+    "n"
+  ],
+  "description": "An in-memory SQL database library",
+  "license": "MIT",
+  "web": "https://github.com/rehartmann/nimternalsql"
+}

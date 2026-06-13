@@ -1,0 +1,13 @@
+{
+  "name": "jsonob",
+  "tags": [
+    "json",
+    "object",
+    "marshal"
+  ],
+  "method": "git",
+  "license": "MIT",
+  "web": "https://github.com/cjxgm/jsonob",
+  "url": "https://github.com/cjxgm/jsonob",
+  "description": "JSON / Object mapper"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "cookiejar",
+  "url": "https://github.com/planety/cookiejar",
+  "method": "git",
+  "tags": [
+    "web",
+    "cookie",
+    "prologue"
+  ],
+  "description": "HTTP Cookies for Nim.",
+  "license": "Apache-2.0",
+  "web": "https://github.com/planety/cookiejar"
+}

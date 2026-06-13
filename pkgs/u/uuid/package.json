@@ -1,0 +1,13 @@
+{
+  "name": "uuid",
+  "url": "https://github.com/idlewan/nim-uuid",
+  "method": "git",
+  "tags": [
+    "library",
+    "wrapper",
+    "uuid"
+  ],
+  "description": "UUID wrapper",
+  "license": "MIT",
+  "web": "https://github.com/idlewan/nim-uuid"
+}

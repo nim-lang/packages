@@ -1,0 +1,13 @@
+{
+  "name": "unicody",
+  "url": "https://github.com/guzba/unicody",
+  "method": "git",
+  "tags": [
+    "utf8",
+    "utf-8",
+    "unicode"
+  ],
+  "description": "An alternative / companion to std/unicode",
+  "license": "MIT",
+  "web": "https://github.com/guzba/unicody"
+}

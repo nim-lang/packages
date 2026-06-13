@@ -1,0 +1,13 @@
+{
+  "name": "NiMPC",
+  "url": "https://github.com/markspanbroek/nimpc",
+  "method": "git",
+  "tags": [
+    "multiparty",
+    "computation",
+    "mpc"
+  ],
+  "description": "Secure multi-party computation",
+  "license": "MIT",
+  "web": "https://github.com/markspanbroek/nimpc"
+}

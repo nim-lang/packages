@@ -1,0 +1,13 @@
+{
+  "name": "resolv",
+  "url": "https://github.com/mildred/resolv.nim",
+  "method": "git",
+  "tags": [
+    "dns",
+    "dnsclient",
+    "client"
+  ],
+  "description": "DNS resolution nimble making use of the native glibc resolv library",
+  "license": "MIT",
+  "web": "https://github.com/mildred/resolv.nim"
+}

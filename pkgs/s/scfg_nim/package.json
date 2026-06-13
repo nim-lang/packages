@@ -1,0 +1,13 @@
+{
+  "name": "scfg_nim",
+  "url": "https://github.com/heuer/scfg-nim",
+  "method": "git",
+  "tags": [
+    "scfg",
+    "config",
+    "configuration"
+  ],
+  "description": "scfg (simple configuration file format) parser",
+  "license": "MIT",
+  "web": "https://github.com/heuer/scfg-nim"
+}

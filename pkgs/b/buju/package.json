@@ -1,0 +1,14 @@
+{
+  "name": "buju",
+  "url": "https://github.com/haoyu234/buju",
+  "method": "git",
+  "tags": [
+    "layout",
+    "ui",
+    "ux",
+    "gui"
+  ],
+  "description": "buju (布局) is a simple layout engine, based on layout.h",
+  "license": "MIT",
+  "web": "https://github.com/haoyu234/buju"
+}

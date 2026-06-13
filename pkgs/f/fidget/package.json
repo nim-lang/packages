@@ -1,0 +1,16 @@
+{
+  "name": "fidget",
+  "url": "https://github.com/treeform/fidget",
+  "method": "git",
+  "tags": [
+    "ui",
+    "glfw",
+    "opengl",
+    "js",
+    "android",
+    "ios"
+  ],
+  "description": "Figma based UI library for nim, with HTML and OpenGL backends.",
+  "license": "MIT",
+  "web": "https://github.com/treeform/fidget"
+}

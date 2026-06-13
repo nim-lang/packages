@@ -1,0 +1,12 @@
+{
+  "name": "daemon",
+  "url": "https://github.com/status-im/nim-daemon",
+  "method": "git",
+  "tags": [
+    "servers",
+    "daemonization"
+  ],
+  "description": "Cross-platform process daemonization library",
+  "license": "Apache License 2.0",
+  "web": "https://github.com/status-im/nim-daemon"
+}

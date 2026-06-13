@@ -1,0 +1,15 @@
+{
+  "name": "measuremancer",
+  "url": "https://github.com/SciNim/Measuremancer",
+  "method": "git",
+  "tags": [
+    "measurements",
+    "error propagation",
+    "errors",
+    "uncertainties",
+    "science"
+  ],
+  "description": "A library to handle measurement uncertainties",
+  "license": "MIT",
+  "web": "https://github.com/SciNim/Measuremancer"
+}

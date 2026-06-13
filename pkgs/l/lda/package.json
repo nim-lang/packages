@@ -1,0 +1,14 @@
+{
+  "name": "lda",
+  "url": "https://github.com/andreaferretti/lda",
+  "method": "git",
+  "tags": [
+    "LDA",
+    "topic-modeling",
+    "text-clustering",
+    "NLP"
+  ],
+  "description": "Latent Dirichlet Allocation",
+  "license": "Apache License 2.0",
+  "web": "https://github.com/andreaferretti/lda"
+}

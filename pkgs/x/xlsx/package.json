@@ -1,0 +1,13 @@
+{
+  "name": "xlsx",
+  "url": "https://github.com/ringabout/xlsx",
+  "method": "git",
+  "tags": [
+    "xlsx",
+    "excel",
+    "reader"
+  ],
+  "description": "Read and parse Excel files",
+  "license": "MIT",
+  "web": "https://github.com/ringabout/xlsx"
+}

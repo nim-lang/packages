@@ -1,0 +1,15 @@
+{
+  "name": "htmlparser",
+  "url": "https://github.com/nim-lang/htmlparser",
+  "method": "git",
+  "tags": [
+    "parser",
+    "HTML",
+    "official",
+    "web",
+    "library"
+  ],
+  "description": "Parse a HTML document in Nim.",
+  "license": "MIT",
+  "web": "https://github.com/nim-lang/htmlparser"
+}

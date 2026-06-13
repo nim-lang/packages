@@ -1,0 +1,14 @@
+{
+  "name": "nimdeps",
+  "url": "https://github.com/genotrance/nimdeps",
+  "method": "git",
+  "tags": [
+    "dependency",
+    "bundle",
+    "installer",
+    "package"
+  ],
+  "description": "Nim library to bundle dependency files into executable",
+  "license": "MIT",
+  "web": "https://github.com/genotrance/nimdeps"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "nimpb_protoc",
+  "url": "https://github.com/oswjk/nimpb_protoc",
+  "method": "git",
+  "tags": [
+    "serialization",
+    "protocol-buffers",
+    "protobuf"
+  ],
+  "description": "Protocol Buffers compiler support package for nimpb",
+  "license": "MIT",
+  "web": "https://github.com/oswjk/nimpb_protoc"
+}

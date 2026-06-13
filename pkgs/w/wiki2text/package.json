@@ -1,0 +1,14 @@
+{
+  "name": "wiki2text",
+  "url": "https://github.com/rspeer/wiki2text.git",
+  "method": "git",
+  "tags": [
+    "nlp",
+    "wiki",
+    "xml",
+    "text"
+  ],
+  "description": "Quickly extracts natural-language text from a MediaWiki XML file.",
+  "license": "MIT",
+  "web": "https://github.com/rspeer/wiki2text"
+}

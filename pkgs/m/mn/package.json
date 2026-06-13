@@ -1,0 +1,13 @@
+{
+  "name": "mn",
+  "url": "https://github.com/h3rald/mn",
+  "method": "git",
+  "tags": [
+    "concatenative",
+    "language",
+    "shell"
+  ],
+  "description": "A truly minimal concatenative programming language.",
+  "license": "MIT",
+  "web": "https://h3rald.com/mn"
+}

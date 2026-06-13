@@ -1,0 +1,11 @@
+{
+  "name": "feednim",
+  "url": "https://github.com/johnconway/feed-nim",
+  "method": "git",
+  "tags": [
+    "yes"
+  ],
+  "description": "An Atom, RSS, and JSONfeed parser",
+  "license": "MIT",
+  "web": "https://github.com/johnconway/feed-nim"
+}

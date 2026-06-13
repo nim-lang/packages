@@ -1,0 +1,11 @@
+{
+  "name": "spotify",
+  "url": "https://github.com/CORDEA/spotify",
+  "method": "git",
+  "tags": [
+    "spotify"
+  ],
+  "description": "A Nim wrapper for the Spotify Web API",
+  "license": "Apache License 2.0",
+  "web": "https://github.com/CORDEA/spotify"
+}

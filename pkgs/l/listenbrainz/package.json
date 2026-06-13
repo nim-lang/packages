@@ -1,0 +1,13 @@
+{
+  "name": "listenbrainz",
+  "url": "https://gitlab.com/tandy1000/listenbrainz-nim",
+  "method": "git",
+  "tags": [
+    "listenbrainz",
+    "api"
+  ],
+  "description": "Low-level multisync bindings to the ListenBrainz web API.",
+  "license": "MIT",
+  "web": "https://gitlab.com/tandy1000/listenbrainz-nim",
+  "doc": "https://tandy1000.gitlab.io/listenbrainz-nim/"
+}

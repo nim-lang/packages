@@ -1,0 +1,14 @@
+{
+  "name": "basic3d",
+  "url": "https://github.com/nim-lang/basic3d",
+  "method": "git",
+  "tags": [
+    "deprecated",
+    "vector",
+    "stdlib",
+    "library"
+  ],
+  "description": "Deprecated module for vector/matrices operations.",
+  "license": "MIT",
+  "web": "https://github.com/nim-lang/basic3d"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "digitalocean",
+  "url": "https://github.com/treeform/digitalocean",
+  "method": "git",
+  "tags": [
+    "digitalocean",
+    "servers",
+    "api"
+  ],
+  "description": "Wrapper for DigitalOcean HTTP API.",
+  "license": "MIT",
+  "web": "https://github.com/treeform/digitalocean"
+}

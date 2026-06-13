@@ -1,0 +1,15 @@
+{
+  "name": "letUtils",
+  "url": "https://github.com/SirNickolas/let-utils-nim",
+  "method": "git",
+  "tags": [
+    "functional",
+    "macros",
+    "sugar",
+    "syntax",
+    "utility"
+  ],
+  "description": "A few handy macros for those who prefer `let` over `var`",
+  "license": "MIT",
+  "doc": "https://sirnickolas.github.io/let-utils-nim/letUtils"
+}

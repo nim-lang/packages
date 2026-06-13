@@ -1,0 +1,12 @@
+{
+  "name": "nimpcre",
+  "url": "https://github.com/genotrance/nimpcre",
+  "method": "git",
+  "tags": [
+    "pcre",
+    "regex"
+  ],
+  "description": "PCRE wrapper for Nim",
+  "license": "MIT",
+  "web": "https://github.com/genotrance/nimpcre"
+}

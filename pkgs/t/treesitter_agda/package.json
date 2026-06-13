@@ -1,0 +1,15 @@
+{
+  "name": "treesitter_agda",
+  "url": "https://github.com/genotrance/nimtreesitter?subdir=treesitter_agda",
+  "method": "git",
+  "tags": [
+    "tree-sitter",
+    "agda",
+    "parser",
+    "language",
+    "code"
+  ],
+  "description": "Nim wrapper for Agda language support within tree-sitter",
+  "license": "MIT",
+  "web": "https://github.com/genotrance/nimtreesitter"
+}

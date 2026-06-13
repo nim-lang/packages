@@ -1,0 +1,14 @@
+{
+  "name": "bisect",
+  "url": "https://github.com/berquist/bisect",
+  "method": "git",
+  "tags": [
+    "bisect",
+    "search",
+    "sequences",
+    "arrays"
+  ],
+  "description": "Bisection algorithms ported from Python",
+  "license": "MIT",
+  "web": "https://github.com/berquist/bisect"
+}

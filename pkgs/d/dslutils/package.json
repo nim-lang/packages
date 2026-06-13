@@ -1,0 +1,13 @@
+{
+  "name": "dslutils",
+  "url": "https://github.com/codehz/dslutils",
+  "method": "git",
+  "tags": [
+    "dsl",
+    "macro",
+    "pattern"
+  ],
+  "description": "A macro collection for creating DSL in nim",
+  "license": "MIT",
+  "web": "https://github.com/codehz/dslutils"
+}

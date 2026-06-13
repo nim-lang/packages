@@ -1,0 +1,12 @@
+{
+  "name": "ranges",
+  "url": "https://github.com/status-im/nim-ranges",
+  "method": "git",
+  "tags": [
+    "library",
+    "ranges"
+  ],
+  "description": "Exploration of various implementations of memory range types",
+  "license": "Apache License 2.0",
+  "web": "https://github.com/status-im/nim-ranges"
+}

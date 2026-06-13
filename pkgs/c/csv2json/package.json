@@ -1,0 +1,13 @@
+{
+  "name": "csv2json",
+  "url": "https://github.com/achesak/nim-csv2json",
+  "method": "git",
+  "tags": [
+    "csv",
+    "json",
+    "deleted"
+  ],
+  "description": "Convert CSV files to JSON",
+  "license": "MIT",
+  "web": "https://github.com/achesak/nim-csv2json"
+}

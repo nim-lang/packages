@@ -1,0 +1,13 @@
+{
+  "name": "expect",
+  "url": "https://codeberg.org/penguinite/expect",
+  "method": "git",
+  "tags": [
+    "rust",
+    "expect",
+    "basic"
+  ],
+  "description": "Rust-style expect procedures",
+  "license": "BSD-3-Clause",
+  "web": "https://docs.penguinite.dev/expect/"
+}

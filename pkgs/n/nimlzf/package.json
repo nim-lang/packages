@@ -1,0 +1,12 @@
+{
+  "name": "nimlzf",
+  "url": "https://github.com/Anuken/nimlzf",
+  "method": "git",
+  "tags": [
+    "compression",
+    "lzf"
+  ],
+  "description": "Nim wrapper of the liblzf C library.",
+  "license": "MIT",
+  "web": "https://github.com/Anuken/nimlzf"
+}

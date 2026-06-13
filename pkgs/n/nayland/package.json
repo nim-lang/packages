@@ -1,0 +1,14 @@
+{
+  "name": "nayland",
+  "url": "https://github.com/nim-windowing/nayland",
+  "tags": [
+    "wayland",
+    "ffi",
+    "wrapper",
+    "linux"
+  ],
+  "description": "High-level wrappers for various Wayland protocols (core, fractional scale, etc.)",
+  "license": "BSD-3-Clause",
+  "method": "git",
+  "web": "https://github.com/nim-windowing/nayland"
+}

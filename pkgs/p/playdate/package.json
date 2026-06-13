@@ -1,0 +1,16 @@
+{
+  "name": "playdate",
+  "url": "https://github.com/samdze/playdate-nim",
+  "method": "git",
+  "tags": [
+    "playdate",
+    "bindings",
+    "wrapper",
+    "game",
+    "sdk",
+    "gamedev"
+  ],
+  "description": "Playdate Nim bindings with extra features.",
+  "license": "MIT",
+  "web": "https://github.com/samdze/playdate-nim"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "jscanvas",
+  "url": "https://github.com/planetis-m/jscanvas",
+  "method": "git",
+  "tags": [
+    "html5",
+    "canvas",
+    "drawing",
+    "graphics",
+    "rendering",
+    "browser",
+    "javascript"
+  ],
+  "description": "a wrapper for the Canvas API",
+  "license": "MIT",
+  "web": "https://github.com/planetis-m/jscanvas"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "hastysite",
+  "url": "https://github.com/h3rald/hastysite",
+  "method": "git",
+  "tags": [
+    "markdown",
+    "html",
+    "static-site-generator"
+  ],
+  "description": "A small but powerful static site generator powered by HastyScribe and min",
+  "license": "MIT",
+  "web": "https://hastysite.h3rald.com"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "froth",
+  "url": "https://github.com/metagn/froth",
+  "method": "git",
+  "tags": [
+    "pointer",
+    "taggedpointer",
+    "pointertag",
+    "library",
+    "memory",
+    "optimization"
+  ],
+  "description": "tagged pointer types with destructors",
+  "license": "MIT",
+  "web": "https://github.com/metagn/froth"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "combparser",
+  "url": "https://github.com/PMunch/combparser",
+  "method": "git",
+  "tags": [
+    "parser",
+    "combinator"
+  ],
+  "description": "A parser combinator library for easy generation of complex parsers",
+  "license": "MIT",
+  "web": "https://github.com/PMunch/combparser"
+}

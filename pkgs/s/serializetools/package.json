@@ -1,0 +1,12 @@
+{
+  "name": "serializetools",
+  "url": "https://github.com/JeffersonLab/serializetools",
+  "method": "git",
+  "tags": [
+    "serialization",
+    "xml"
+  ],
+  "description": "Support for serialization of objects",
+  "license": "MIT",
+  "web": "https://github.com/JeffersonLab/serializetools"
+}

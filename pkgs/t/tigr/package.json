@@ -1,0 +1,18 @@
+{
+  "name": "tigr",
+  "url": "https://github.com/angluca/tigr-nim",
+  "method": "git",
+  "tags": [
+    "opengl",
+    "2d",
+    "game",
+    "ui",
+    "image",
+    "png",
+    "graphics",
+    "cross-platform"
+  ],
+  "description": "TIGR is a tiny cross-platform graphics library",
+  "license": "MIT",
+  "web": "https://github.com/angluca/tigr-nim"
+}

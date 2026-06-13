@@ -1,0 +1,11 @@
+{
+  "name": "pixels",
+  "url": "https://github.com/Araq/pixels",
+  "method": "git",
+  "tags": [
+    "graphics"
+  ],
+  "description": "Toy support library for primitive graphics programming.",
+  "license": "MIT",
+  "web": "https://github.com/Araq/pixels"
+}

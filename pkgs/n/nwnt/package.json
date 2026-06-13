@@ -1,0 +1,15 @@
+{
+  "name": "nwnt",
+  "url": "https://github.com/WilliamDraco/NWNT",
+  "method": "git",
+  "tags": [
+    "nwn",
+    "neverwinternights",
+    "neverwinter",
+    "game",
+    "bioware"
+  ],
+  "description": "GFF <-> NWNT Converter (NeverWinter Nights Text)",
+  "license": "MIT",
+  "web": "https://github.com/WilliamDraco/NWNT"
+}

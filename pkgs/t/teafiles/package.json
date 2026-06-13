@@ -1,0 +1,13 @@
+{
+  "name": "teafiles",
+  "url": "https://github.com/andreaferretti/nim-teafiles.git",
+  "method": "git",
+  "tags": [
+    "teafiles",
+    "mmap",
+    "timeseries"
+  ],
+  "description": "TeaFiles provide fast read/write access to time series data",
+  "license": "Apache2",
+  "web": "https://github.com/andreaferretti/nim-teafiles"
+}

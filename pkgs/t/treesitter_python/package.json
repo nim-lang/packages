@@ -1,0 +1,15 @@
+{
+  "name": "treesitter_python",
+  "url": "https://github.com/genotrance/nimtreesitter?subdir=treesitter_python",
+  "method": "git",
+  "tags": [
+    "tree-sitter",
+    "python",
+    "parser",
+    "language",
+    "code"
+  ],
+  "description": "Nim wrapper for Python language support within tree-sitter",
+  "license": "MIT",
+  "web": "https://github.com/genotrance/nimtreesitter"
+}

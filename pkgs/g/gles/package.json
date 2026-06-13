@@ -1,0 +1,14 @@
+{
+  "name": "gles",
+  "url": "https://github.com/nimious/gles.git",
+  "method": "git",
+  "tags": [
+    "binding",
+    "khronos",
+    "gles",
+    "opengl es"
+  ],
+  "description": "Bindings for OpenGL ES, the embedded 3D graphics library.",
+  "license": "MIT",
+  "web": "https://github.com/nimious/gles"
+}

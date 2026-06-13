@@ -1,0 +1,18 @@
+{
+  "name": "io-spacenav",
+  "url": "https://github.com/nimious/io-spacenav.git",
+  "method": "git",
+  "tags": [
+    "binding",
+    "3dx",
+    "3dconnexion",
+    "libspnav",
+    "spacenav",
+    "spacemouse",
+    "spacepilot",
+    "spacenavigator"
+  ],
+  "description": "Obsolete - please use spacenav instead!",
+  "license": "MIT",
+  "web": "https://github.com/nimious/io-spacenav"
+}

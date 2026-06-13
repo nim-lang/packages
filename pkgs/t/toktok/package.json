@@ -1,0 +1,17 @@
+{
+  "name": "toktok",
+  "url": "https://github.com/openpeeps/toktok",
+  "method": "git",
+  "tags": [
+    "lexer",
+    "token",
+    "tokenizer",
+    "lex",
+    "toktok",
+    "lexbase",
+    "macros"
+  ],
+  "description": "Generic tokenizer written in Nim language 👑 Powered by Nim's Macros",
+  "license": "MIT",
+  "web": "https://github.com/openpeeps/toktok"
+}

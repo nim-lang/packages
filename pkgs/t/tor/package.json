@@ -1,0 +1,15 @@
+{
+  "name": "tor",
+  "url": "https://github.com/FedericoCeratto/nim-tor",
+  "method": "git",
+  "tags": [
+    "library",
+    "security",
+    "crypto",
+    "tor",
+    "onion"
+  ],
+  "description": "Tor helper library",
+  "license": "LGPLv3",
+  "web": "https://github.com/FedericoCeratto/nim-tor"
+}

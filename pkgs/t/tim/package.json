@@ -1,0 +1,15 @@
+{
+  "name": "tim",
+  "url": "https://github.com/openpeeps/tim",
+  "method": "git",
+  "tags": [
+    "template-engine",
+    "emmet",
+    "template",
+    "engine",
+    "tim"
+  ],
+  "description": "Really lightweight template engine",
+  "license": "MIT",
+  "web": "https://github.com/openpeeps/tim"
+}

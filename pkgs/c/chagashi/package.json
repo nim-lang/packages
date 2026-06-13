@@ -1,0 +1,14 @@
+{
+  "name": "chagashi",
+  "url": "https://git.sr.ht/~bptato/chagashi",
+  "method": "git",
+  "tags": [
+    "encoding",
+    "charset",
+    "encode",
+    "decode"
+  ],
+  "description": "Implementation of the WHATWG-specified text encoders and decoders",
+  "license": "Unlicense",
+  "web": "https://git.sr.ht/~bptato/chagashi"
+}

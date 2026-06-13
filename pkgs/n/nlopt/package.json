@@ -1,0 +1,14 @@
+{
+  "name": "nlopt",
+  "url": "https://github.com/Vindaar/nimnlopt",
+  "method": "git",
+  "tags": [
+    "library",
+    "wrapper",
+    "binding",
+    "nonlinear-optimization"
+  ],
+  "description": "A wrapper for the non-linear optimization C library Nlopt",
+  "license": "MIT",
+  "web": "https://github.com/Vindaar/nimnlopt"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "blimp",
+  "url": "https://gitlab.3dicc.com/gokr/blimp.git",
+  "method": "git",
+  "tags": [
+    "app",
+    "binary",
+    "utility",
+    "git",
+    "git-fat"
+  ],
+  "description": "Utility that helps with big files in git, very similar to git-fat, s3annnex etc.",
+  "license": "MIT",
+  "web": "https://gitlab.3dicc.com/gokr/blimp"
+}

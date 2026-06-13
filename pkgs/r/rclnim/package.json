@@ -1,0 +1,13 @@
+{
+  "name": "rclnim",
+  "url": "https://github.com/Pylgos/rclnim",
+  "method": "git",
+  "tags": [
+    "library",
+    "embedded",
+    "ros2"
+  ],
+  "description": "Nim bindings for ROS2",
+  "license": "MIT",
+  "web": "https://github.com/Pylgos/rclnim"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "holo_match",
+  "url": "https://github.com/holo-nim/holo-match",
+  "method": "git",
+  "tags": [
+    "sugar",
+    "pattern matching",
+    "macros",
+    "unpacking",
+    "assignment"
+  ],
+  "description": "nested/overloadable pattern matching",
+  "license": "MIT",
+  "web": "https://holo-nim.github.io/holo-match/docs/holo_match.html"
+}

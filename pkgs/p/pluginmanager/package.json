@@ -1,0 +1,13 @@
+{
+  "name": "pluginmanager",
+  "url": "https://github.com/samdmarshall/plugin-manager",
+  "method": "git",
+  "tags": [
+    "plugin",
+    "dylib",
+    "manager"
+  ],
+  "description": "Simple plugin implementation",
+  "license": "BSD 3-Clause",
+  "web": "https://github.com/samdmarshall/plugin-manager"
+}

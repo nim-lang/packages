@@ -1,0 +1,14 @@
+{
+  "name": "natu",
+  "url": "https://github.com/exelotl/natu",
+  "method": "git",
+  "tags": [
+    "gba",
+    "nintendo",
+    "homebrew",
+    "game"
+  ],
+  "description": "Game Boy Advance development library",
+  "license": "zlib",
+  "web": "https://github.com/exelotl/natu"
+}

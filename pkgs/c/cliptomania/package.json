@@ -1,0 +1,12 @@
+{
+  "name": "cliptomania",
+  "url": "https://github.com/Guevara-chan/Cliptomania",
+  "method": "git",
+  "tags": [
+    "clip",
+    "clipboard"
+  ],
+  "description": ".NET-inspired lightweight clipboard library",
+  "license": "MIT",
+  "web": "https://github.com/Guevara-chan/Cliptomania"
+}

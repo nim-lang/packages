@@ -1,0 +1,15 @@
+{
+  "name": "couchdbapi",
+  "url": "https://github.com/zendbit/nim_couchdbapi",
+  "method": "git",
+  "tags": [
+    "couchdb",
+    "database",
+    "apache",
+    "nosql",
+    "json"
+  ],
+  "description": "Apache CouchDb driver (REST API) for nim lang.",
+  "license": "BSD",
+  "web": "https://github.com/zendbit/nim_couchdbapi"
+}

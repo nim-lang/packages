@@ -1,0 +1,14 @@
+{
+  "name": "easymail",
+  "url": "https://github.com/coocheenin/easymail",
+  "method": "git",
+  "tags": [
+    "email",
+    "sendmail",
+    "net",
+    "mail"
+  ],
+  "description": "wrapper for the sendmail command",
+  "license": "MIT",
+  "web": "https://github.com/coocheenin/easymail"
+}

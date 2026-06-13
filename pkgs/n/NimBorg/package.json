@@ -1,0 +1,11 @@
+{
+  "name": "NimBorg",
+  "url": "https://github.com/micklat/NimBorg",
+  "method": "git",
+  "tags": [
+    "wrapper"
+  ],
+  "description": "High-level and low-level interfaces to python and lua",
+  "license": "MIT",
+  "web": "https://github.com/micklat/NimBorg"
+}

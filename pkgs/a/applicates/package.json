@@ -1,0 +1,14 @@
+{
+  "name": "applicates",
+  "url": "https://github.com/metagn/applicates",
+  "method": "git",
+  "tags": [
+    "sugar",
+    "macros",
+    "template",
+    "functional"
+  ],
+  "description": "\"pointers\" to cached AST that instantiate routines when called",
+  "license": "MIT",
+  "web": "https://metagn.github.io/applicates/applicates.html"
+}

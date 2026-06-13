@@ -1,0 +1,13 @@
+{
+  "name": "hangover",
+  "url": "https://github.com/bob16795/hangover",
+  "method": "git",
+  "tags": [
+    "game",
+    "engine",
+    "2D"
+  ],
+  "description": "A game engine in Nim with an opengl backend",
+  "license": "MIT",
+  "web": "https://github.com/bob16795/hangover"
+}

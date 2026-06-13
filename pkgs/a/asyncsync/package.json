@@ -1,0 +1,13 @@
+{
+  "name": "asyncsync",
+  "url": "https://github.com/Alogani/asyncsync",
+  "method": "git",
+  "tags": [
+    "library",
+    "async",
+    "primitives"
+  ],
+  "description": "Async primitives working on std/asyncdispatch",
+  "license": "MIT",
+  "web": "https://github.com/Alogani/asyncsync"
+}

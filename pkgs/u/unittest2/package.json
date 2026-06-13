@@ -1,0 +1,12 @@
+{
+  "name": "unittest2",
+  "url": "https://github.com/status-im/nim-unittest2",
+  "method": "git",
+  "tags": [
+    "tests",
+    "unit-testing"
+  ],
+  "description": "Unit test framework evolved from std/unittest",
+  "license": "MIT",
+  "web": "https://github.com/status-im/nim-unittest2"
+}

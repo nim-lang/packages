@@ -1,0 +1,13 @@
+{
+  "name": "nimics",
+  "url": "https://github.com/ThomasTJdev/nimics",
+  "method": "git",
+  "tags": [
+    "ics",
+    "email",
+    "meeting"
+  ],
+  "description": "Create ICS files for email invites, eg. invite.ics",
+  "license": "MIT",
+  "web": "https://github.com/ThomasTJdev/nimics"
+}

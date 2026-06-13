@@ -1,0 +1,14 @@
+{
+  "name": "skyhash",
+  "url": "https://github.com/Skrylar/skyhash",
+  "method": "git",
+  "tags": [
+    "blake2b",
+    "blake2s",
+    "spookyhash",
+    "deleted"
+  ],
+  "description": "Collection of hash algorithms ported to Nim",
+  "license": "CC0",
+  "web": "https://github.com/Skrylar/skyhash"
+}

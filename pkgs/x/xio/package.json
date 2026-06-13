@@ -1,0 +1,13 @@
+{
+  "name": "xio",
+  "url": "https://github.com/ringabout/xio",
+  "method": "git",
+  "tags": [
+    "net",
+    "os",
+    "prologue"
+  ],
+  "description": "Cross platform system API for os and net.",
+  "license": "Apache-2.0",
+  "web": "https://github.com/ringabout/xio"
+}

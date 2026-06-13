@@ -1,0 +1,15 @@
+{
+  "name": "fab",
+  "url": "https://github.com/icyphox/fab",
+  "method": "git",
+  "tags": [
+    "colors",
+    "terminal",
+    "formatting",
+    "text",
+    "fun"
+  ],
+  "description": "Print fabulously in your terminal",
+  "license": "MIT",
+  "web": "https://github.com/icyphox/fab"
+}

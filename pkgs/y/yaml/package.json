@@ -1,0 +1,14 @@
+{
+  "name": "yaml",
+  "url": "https://github.com/flyx/NimYAML",
+  "method": "git",
+  "tags": [
+    "serialization",
+    "parsing",
+    "library",
+    "yaml"
+  ],
+  "description": "YAML 1.2 implementation for Nim",
+  "license": "MIT",
+  "web": "https://flyx.github.io/NimYAML/"
+}

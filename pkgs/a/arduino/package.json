@@ -1,0 +1,13 @@
+{
+  "name": "arduino",
+  "url": "https://github.com/markspanbroek/nim-arduino",
+  "method": "git",
+  "tags": [
+    "arduino",
+    "platformio",
+    "embedded"
+  ],
+  "description": "Arduino bindings for Nim",
+  "license": "MIT",
+  "web": "https://github.com/markspanbroek/nim-arduino"
+}

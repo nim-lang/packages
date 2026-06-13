@@ -1,0 +1,23 @@
+{
+  "name": "lockfreequeues",
+  "url": "https://github.com/elijahr/lockfreequeues",
+  "method": "git",
+  "tags": [
+    "spsc",
+    "mpsc",
+    "mpmc",
+    "queue",
+    "lockfree",
+    "lock-free",
+    "waitfree",
+    "wait-free",
+    "circularbuffer",
+    "circular-buffer",
+    "ring-buffer",
+    "ringbuffer"
+  ],
+  "description": "Lock-free queue implementations for Nim.",
+  "license": "MIT",
+  "web": "https://github.com/elijahr/lockfreequeues",
+  "doc": "https://elijahr.github.io/lockfreequeues/"
+}

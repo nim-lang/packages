@@ -1,0 +1,13 @@
+{
+  "name": "nordnet",
+  "url": "https://github.com/ThomasTJdev/nim_nordnet_api",
+  "method": "git",
+  "tags": [
+    "nordnet",
+    "stocks",
+    "scrape"
+  ],
+  "description": "Scraping API for www.nordnet.dk ready to integrate with Home Assistant (Hassio)",
+  "license": "MIT",
+  "web": "https://github.com/ThomasTJdev/nim_nordnet_api"
+}

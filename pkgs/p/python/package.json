@@ -1,0 +1,11 @@
+{
+  "name": "python",
+  "url": "https://github.com/nim-lang/python",
+  "method": "git",
+  "tags": [
+    "wrapper"
+  ],
+  "description": "Wrapper to interface with Python interpreter",
+  "license": "MIT",
+  "web": "https://github.com/nim-lang/python"
+}

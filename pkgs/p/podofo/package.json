@@ -1,0 +1,12 @@
+{
+  "name": "podofo",
+  "url": "https://github.com/fox0430/nim-podofo",
+  "method": "git",
+  "tags": [
+    "binding",
+    "pdf"
+  ],
+  "description": "Nim bindings for PoDoFo libary",
+  "license": "MIT",
+  "web": "https://github.com/fox0430/nim-podofo"
+}

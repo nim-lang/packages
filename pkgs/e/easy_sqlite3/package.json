@@ -1,0 +1,14 @@
+{
+  "name": "easy_sqlite3",
+  "url": "https://github.com/codehz/easy_sqlite3",
+  "method": "git",
+  "tags": [
+    "sqlite",
+    "sqlite3",
+    "database",
+    "arc"
+  ],
+  "description": "Yet another SQLite wrapper for Nim.",
+  "license": "MIT",
+  "web": "https://github.com/codehz/easy_sqlite3"
+}

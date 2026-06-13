@@ -1,0 +1,11 @@
+{
+  "name": "embedfs",
+  "url": "https://github.com/iffy/nim-embedfs",
+  "method": "git",
+  "tags": [
+    "bundling",
+    "static"
+  ],
+  "description": "Embed directories in executables, easily",
+  "license": "MIT"
+}

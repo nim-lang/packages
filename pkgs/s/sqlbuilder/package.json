@@ -1,0 +1,12 @@
+{
+  "name": "sqlbuilder",
+  "url": "https://github.com/ThomasTJdev/nim_sqlbuilder",
+  "method": "git",
+  "tags": [
+    "sql",
+    "sqlbuilder"
+  ],
+  "description": "A SQLbuilder with support for NULL values",
+  "license": "MIT",
+  "web": "https://github.com/ThomasTJdev/nim_sqlbuilder"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "mash",
+  "url": "https://github.com/capocasa/mash",
+  "method": "git",
+  "tags": [
+    "MIDI",
+    "jack",
+    "keyboard",
+    "virtual",
+    "precision"
+  ],
+  "description": "A very precise musical virtual keyboard for Jack MIDI",
+  "license": "MIT",
+  "web": "https://github.com/capocasa/mash"
+}

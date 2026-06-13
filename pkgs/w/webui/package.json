@@ -1,0 +1,24 @@
+{
+  "name": "webui",
+  "url": "https://github.com/webui-dev/nim-webui",
+  "method": "git",
+  "tags": [
+    "webui",
+    "web",
+    "gui",
+    "ui",
+    "wrapper",
+    "bindings",
+    "cross-platform",
+    "browser",
+    "chrome",
+    "firefox",
+    "safari",
+    "webapp",
+    "library"
+  ],
+  "description": "Nim wrapper for WebUI",
+  "license": "MIT",
+  "web": "https://webui.me/",
+  "docs": "https://webui.me/docs"
+}

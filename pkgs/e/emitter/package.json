@@ -1,0 +1,17 @@
+{
+  "name": "emitter",
+  "url": "https://github.com/supranim/emitter",
+  "method": "git",
+  "tags": [
+    "events",
+    "event-emitter",
+    "emitter",
+    "listener",
+    "subscriber",
+    "subscribe",
+    "actions"
+  ],
+  "description": "Supranim's Event Emitter - Subscribe & listen for various events within your application",
+  "license": "MIT",
+  "web": "https://github.com/supranim/emitter"
+}

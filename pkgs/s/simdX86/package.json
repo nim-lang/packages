@@ -1,0 +1,11 @@
+{
+  "name": "simdX86",
+  "url": "https://github.com/nimlibs/simdX86",
+  "method": "git",
+  "tags": [
+    "simd"
+  ],
+  "description": "Wrappers for X86 SIMD intrinsics",
+  "license": "MIT",
+  "web": "https://github.com/nimlibs/simdX86"
+}

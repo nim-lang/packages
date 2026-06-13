@@ -1,0 +1,13 @@
+{
+  "name": "packets",
+  "url": "https://github.com/Q-Master/packets.nim",
+  "method": "git",
+  "tags": [
+    "serializtion",
+    "deserialization",
+    "marshal"
+  ],
+  "description": "Declarative packets system for serializing/deserializing and marshalling",
+  "license": "MIT",
+  "web": "https://github.com/Q-Master/packets.nim"
+}

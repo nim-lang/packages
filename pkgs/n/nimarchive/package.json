@@ -1,0 +1,19 @@
+{
+  "name": "nimarchive",
+  "url": "https://github.com/genotrance/nimarchive",
+  "method": "git",
+  "tags": [
+    "7z",
+    "zip",
+    "tar",
+    "rar",
+    "gz",
+    "libarchive",
+    "compress",
+    "extract",
+    "archive"
+  ],
+  "description": "libarchive wrapper for Nim",
+  "license": "MIT",
+  "web": "https://github.com/genotrance/nimarchive"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "irc",
+  "url": "https://github.com/nim-lang/irc",
+  "method": "git",
+  "tags": [
+    "library",
+    "irc",
+    "network"
+  ],
+  "description": "Implements a simple IRC client.",
+  "license": "MIT",
+  "web": "https://github.com/nim-lang/irc"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "treesitter_php",
+  "url": "https://github.com/genotrance/nimtreesitter?subdir=treesitter_php",
+  "method": "git",
+  "tags": [
+    "tree-sitter",
+    "php",
+    "parser",
+    "language",
+    "code"
+  ],
+  "description": "Nim wrapper for PHP language support within tree-sitter",
+  "license": "MIT",
+  "web": "https://github.com/genotrance/nimtreesitter"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "happyx-ui",
+  "url": "https://github.com/HapticX/happyx-ui",
+  "method": "git",
+  "tags": [
+    "web",
+    "gui",
+    "ui",
+    "library",
+    "happyx",
+    "happyx-native"
+  ],
+  "description": "UI library for HappyX web framework",
+  "license": "MIT",
+  "web": "https://github.com/HapticX/happyx-ui"
+}

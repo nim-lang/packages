@@ -1,0 +1,15 @@
+{
+  "name": "umriss",
+  "url": "https://github.com/tdely/umriss",
+  "method": "git",
+  "tags": [
+    "cli",
+    "syscalls",
+    "tool",
+    "seccomp",
+    "strace"
+  ],
+  "description": "Extract syscall stats from strace output files",
+  "license": "MIT",
+  "web": "https://github.com/tdely/umriss"
+}

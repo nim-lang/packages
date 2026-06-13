@@ -1,0 +1,11 @@
+{
+  "name": "nimdotenv",
+  "url": "https://github.com/wioenena-q/nim-dotenv",
+  "method": "git",
+  "tags": [
+    "dotenv"
+  ],
+  "description": "Load local environment variables from .env files",
+  "license": "MIT",
+  "web": "https://wioenena-q.github.io/nim-dotenv"
+}

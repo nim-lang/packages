@@ -1,0 +1,12 @@
+{
+  "name": "timespec_get",
+  "url": "https://github.com/Matceporial/nim-timespec_get",
+  "method": "git",
+  "tags": [
+    "time",
+    "timespec_get"
+  ],
+  "description": "Nanosecond-percision time using timespec_get",
+  "license": "0BSD",
+  "web": "https://github.com/Matceporial/nim-timespec_get"
+}

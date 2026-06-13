@@ -1,0 +1,15 @@
+{
+  "name": "cligpt",
+  "url": "https://github.com/thisago/cligpt",
+  "method": "git",
+  "tags": [
+    "cli",
+    "chatgpt",
+    "ai",
+    "chat",
+    "app"
+  ],
+  "description": "Command line interface for ChatGPT",
+  "license": "GPL-3.0",
+  "web": "https://github.com/thisago/cligpt"
+}

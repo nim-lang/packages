@@ -1,0 +1,31 @@
+{
+  "name": "bu",
+  "url": "https://github.com/c-blake/bu",
+  "method": "git",
+  "tags": [
+    "bu",
+    "unix",
+    "posix",
+    "linux",
+    "sysadmin",
+    "sys admin",
+    "system administration",
+    "shell utilities",
+    "pipeline",
+    "benchmarking",
+    "colorization",
+    "measurement",
+    "benchmarking",
+    "extreme value statistics",
+    "file types",
+    "file times",
+    "terminal",
+    "random",
+    "sampling",
+    "space management",
+    "miscellany"
+  ],
+  "description": "B)asic|But-For U)tility Code/Programs (Usually Nim & With Unix/POSIX/Linux Context)",
+  "license": "MIT/ISC",
+  "web": "https://github.com/c-blake/bu"
+}

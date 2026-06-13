@@ -1,0 +1,18 @@
+{
+  "name": "dtoa",
+  "url": "https://github.com/LemonBoy/dtoa.nim",
+  "method": "git",
+  "tags": [
+    "algorithms",
+    "serialization",
+    "fast",
+    "grisu",
+    "dtoa",
+    "double",
+    "float",
+    "string"
+  ],
+  "description": "Port of Milo Yip's fast dtoa() implementation",
+  "license": "MIT",
+  "web": "https://github.com/LemonBoy/dtoa.nim"
+}

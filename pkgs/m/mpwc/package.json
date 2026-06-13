@@ -1,0 +1,14 @@
+{
+  "name": "mpwc",
+  "url": "https://github.com/SolitudeSF/mpwc",
+  "method": "git",
+  "tags": [
+    "masterpassword",
+    "password",
+    "manager",
+    "stateless"
+  ],
+  "description": "Master Password command line utility",
+  "license": "MIT",
+  "web": "https://github.com/SolitudeSF/mpwc"
+}

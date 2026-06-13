@@ -1,0 +1,13 @@
+{
+  "name": "lilt",
+  "url": "https://github.com/quelklef/lilt",
+  "method": "git",
+  "tags": [
+    "language",
+    "parser",
+    "parsing"
+  ],
+  "description": "Parsing language",
+  "license": "MIT",
+  "web": "https://github.com/quelklef/lilt"
+}

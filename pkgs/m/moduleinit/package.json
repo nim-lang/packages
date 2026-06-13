@@ -1,0 +1,13 @@
+{
+  "name": "moduleinit",
+  "url": "https://github.com/skunkiferous/moduleinit",
+  "method": "git",
+  "tags": [
+    "library",
+    "parallelism",
+    "threads"
+  ],
+  "description": "Nim module/thread initialisation ordering library",
+  "license": "MIT",
+  "web": "https://github.com/skunkiferous/moduleinit"
+}

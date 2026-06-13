@@ -1,0 +1,11 @@
+{
+  "name": "x11",
+  "url": "https://github.com/nim-lang/x11",
+  "method": "git",
+  "tags": [
+    "wrapper"
+  ],
+  "description": "Wrapper for X11",
+  "license": "MIT",
+  "web": "https://github.com/nim-lang/x11"
+}

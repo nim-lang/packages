@@ -1,0 +1,12 @@
+{
+  "name": "protobuf",
+  "url": "https://github.com/PMunch/protobuf-nim",
+  "method": "git",
+  "tags": [
+    "protobuf",
+    "serialization"
+  ],
+  "description": "Protobuf implementation in pure Nim that leverages the power of the macro system to not depend on any external tools",
+  "license": "MIT",
+  "web": "https://github.com/PMunch/protobuf-nim"
+}

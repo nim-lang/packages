@@ -1,0 +1,13 @@
+{
+  "name": "omnilog",
+  "url": "https://github.com/nim-appkit/omnilog",
+  "method": "git",
+  "tags": [
+    "library",
+    "logging",
+    "logs"
+  ],
+  "description": "Advanced logging library for Nim with structured logging, formatters, filters and writers.",
+  "license": "LGPLv3",
+  "web": "https://github.com/nim-appkit/omnilog"
+}

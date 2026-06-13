@@ -1,0 +1,13 @@
+{
+  "name": "keycard-sdk",
+  "url": "https://github.com/mmlado/keycard-nim",
+  "method": "git",
+  "tags": [
+    "library",
+    "Keycard",
+    "SDK"
+  ],
+  "description": "Nim SDK to interact with the Status Keycard",
+  "license": "MIT",
+  "web": "https://github.com/mmlado/keycard-nim"
+}

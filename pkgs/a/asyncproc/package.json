@@ -1,0 +1,13 @@
+{
+  "name": "asyncproc",
+  "url": "https://github.com/Alogani/asyncproc",
+  "method": "git",
+  "tags": [
+    "library",
+    "childprocess",
+    "async"
+  ],
+  "description": "Flexible child process spawner with strong async features",
+  "license": "MIT",
+  "web": "https://github.com/Alogani/asyncproc"
+}

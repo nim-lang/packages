@@ -1,0 +1,15 @@
+{
+  "name": "niminst",
+  "url": "https://github.com/nim-lang/niminst",
+  "method": "git",
+  "tags": [
+    "app",
+    "binary",
+    "tool",
+    "installation",
+    "generator"
+  ],
+  "description": "tool to generate installers for Nim programs",
+  "license": "MIT",
+  "web": "https://github.com/nim-lang/niminst"
+}

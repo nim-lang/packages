@@ -1,0 +1,16 @@
+{
+  "name": "nimpass",
+  "url": "https://github.com/xioren/NimPass",
+  "method": "git",
+  "tags": [
+    "password",
+    "passphrase",
+    "passgen",
+    "pass",
+    "pw",
+    "security"
+  ],
+  "description": "quickly generate cryptographically secure passwords and phrases",
+  "license": "MIT",
+  "web": "https://github.com/xioren/NimPass"
+}

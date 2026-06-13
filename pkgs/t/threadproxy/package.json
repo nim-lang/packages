@@ -1,0 +1,16 @@
+{
+  "name": "threadproxy",
+  "url": "https://github.com/jackhftang/threadproxy.nim",
+  "method": "git",
+  "tags": [
+    "thread",
+    "ITC",
+    "communication",
+    "multithreading",
+    "threading"
+  ],
+  "description": "Simplify Nim Inter-Thread Communication",
+  "license": "MIT",
+  "web": "https://github.com/jackhftang/threadproxy.nim",
+  "doc": "https://jackhftang.github.io/threadproxy.nim/"
+}

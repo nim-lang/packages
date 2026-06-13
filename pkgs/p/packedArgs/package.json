@@ -1,0 +1,15 @@
+{
+  "name": "packedArgs",
+  "url": "https://github.com/hamidb80/packedArgs",
+  "method": "git",
+  "tags": [
+    "thread",
+    "convention",
+    "createThread",
+    "DSL",
+    "threading"
+  ],
+  "description": "a convention mainly created for `createThread` proc",
+  "license": "MIT",
+  "web": "https://github.com/hamidb80/packedArgs"
+}

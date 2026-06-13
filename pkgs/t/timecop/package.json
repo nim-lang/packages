@@ -1,0 +1,13 @@
+{
+  "name": "timecop",
+  "url": "https://github.com/ba0f3/timecop.nim",
+  "method": "git",
+  "tags": [
+    "time",
+    "travel",
+    "timecop"
+  ],
+  "description": "Time travelling for Nim",
+  "license": "MIT",
+  "web": "https://github.com/ba0f3/timecop.nim"
+}

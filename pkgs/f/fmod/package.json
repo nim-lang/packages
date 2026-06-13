@@ -1,0 +1,15 @@
+{
+  "name": "fmod",
+  "url": "https://github.com/johnnovak/nim-fmod",
+  "method": "git",
+  "tags": [
+    "library",
+    "fmod",
+    "audio",
+    "game",
+    "sound"
+  ],
+  "description": "Nim wrapper for the FMOD Low Level C API",
+  "license": "MIT",
+  "web": "https://github.com/johnnovak/nim-fmod"
+}

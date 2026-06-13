@@ -1,0 +1,18 @@
+{
+  "name": "tpdne",
+  "url": "https://github.com/nemuelw/tpdne",
+  "method": "git",
+  "tags": [
+    "thispersondoesnotexist",
+    "thispersondoesnotexist.com",
+    "ai-faces",
+    "face-generation",
+    "image-download",
+    "tpdne",
+    "nim",
+    "client"
+  ],
+  "description": "Fetch and optionally save AI-generated faces from thispersondoesnotexist.com",
+  "license": "MIT",
+  "web": "https://github.com/nemuelw/tpdne"
+}

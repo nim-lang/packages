@@ -1,0 +1,14 @@
+{
+  "name": "iecook",
+  "url": "https://github.com/thisago/iecook",
+  "method": "git",
+  "tags": [
+    "library",
+    "httpOnly",
+    "cookie",
+    "session"
+  ],
+  "description": "Cook all cookies of your browser",
+  "license": "MIT",
+  "web": "https://github.com/thisago/iecook"
+}

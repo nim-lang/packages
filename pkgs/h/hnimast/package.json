@@ -1,0 +1,12 @@
+{
+  "name": "hnimast",
+  "url": "https://github.com/haxscramper/hnimast",
+  "method": "git",
+  "tags": [
+    "ast",
+    "macro"
+  ],
+  "description": "User-friendly wrapper for nim ast",
+  "license": "Apache-2.0",
+  "web": "https://github.com/haxscramper/hnimast"
+}

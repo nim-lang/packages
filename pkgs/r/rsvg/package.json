@@ -1,0 +1,13 @@
+{
+  "name": "rsvg",
+  "url": "https://github.com/def-/rsvg",
+  "method": "git",
+  "tags": [
+    "wrapper",
+    "library",
+    "graphics"
+  ],
+  "description": "Wrapper for librsvg, a Scalable Vector Graphics (SVG) rendering library",
+  "license": "MIT",
+  "web": "https://github.com/def-/rsvg"
+}

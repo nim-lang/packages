@@ -1,0 +1,12 @@
+{
+  "name": "nimcat",
+  "url": "https://github.com/shakna-israel/nimcat",
+  "method": "git",
+  "tags": [
+    "cat",
+    "cli"
+  ],
+  "description": "An implementation of cat in Nim",
+  "license": "MIT",
+  "web": "https://github.com/shakna-israel/nimcat"
+}

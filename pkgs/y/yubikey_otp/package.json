@@ -1,0 +1,12 @@
+{
+  "name": "yubikey_otp",
+  "url": "https://github.com/ThomasTJdev/nim_yubikey_otp",
+  "method": "git",
+  "tags": [
+    "yubikey",
+    "otp"
+  ],
+  "description": "Simple validator and utils for Yubikey OTP",
+  "license": "MIT",
+  "web": "https://github.com/ThomasTJdev/nim_yubikey_otp"
+}

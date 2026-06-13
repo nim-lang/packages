@@ -1,0 +1,11 @@
+{
+  "name": "autoderef",
+  "url": "https://github.com/sls1005/autoderef",
+  "method": "git",
+  "tags": [
+    "sugar"
+  ],
+  "description": "Syntax sugar which supports auto-dereferencing",
+  "license": "MIT",
+  "web": "https://github.com/sls1005/autoderef"
+}

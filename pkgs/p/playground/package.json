@@ -1,0 +1,14 @@
+{
+  "name": "playground",
+  "url": "https://github.com/theduke/nim-playground",
+  "method": "git",
+  "tags": [
+    "webapp",
+    "execution",
+    "code",
+    "sandbox"
+  ],
+  "description": "Web-based playground for testing Nim code.",
+  "license": "MIT",
+  "web": "https://github.com/theduke/nim-playground"
+}

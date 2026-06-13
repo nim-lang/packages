@@ -1,0 +1,14 @@
+{
+  "name": "opusenc",
+  "url": "https://git.sr.ht/~ehmry/nim_opusenc",
+  "method": "git",
+  "tags": [
+    "opus",
+    "audio",
+    "encoder",
+    "bindings"
+  ],
+  "description": "Bindings to libopusenc",
+  "license": "BSD-3-Clause",
+  "web": "https://git.sr.ht/~ehmry/nim_opusenc"
+}

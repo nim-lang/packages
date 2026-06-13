@@ -1,0 +1,14 @@
+{
+  "name": "snip",
+  "url": "https://github.com/genotrance/snip",
+  "method": "git",
+  "tags": [
+    "console",
+    "editor",
+    "text",
+    "cli"
+  ],
+  "description": "Text editor to speed up testing code snippets",
+  "license": "MIT",
+  "web": "https://github.com/genotrance/snip"
+}

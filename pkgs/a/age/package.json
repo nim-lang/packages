@@ -1,0 +1,12 @@
+{
+  "name": "age",
+  "url": "https://github.com/attakei/age",
+  "method": "git",
+  "tags": [
+    "cli",
+    "semver"
+  ],
+  "description": "Version bumping tool.",
+  "license": "Apache-2.0-only",
+  "web": "https://age.attakei.dev"
+}

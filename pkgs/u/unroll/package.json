@@ -1,0 +1,12 @@
+{
+  "name": "unroll",
+  "url": "https://github.com/choltreppe/unroll",
+  "method": "git",
+  "tags": [
+    "unroll",
+    "compiletime",
+    "map"
+  ],
+  "description": "unroll for-loops (and map into seq/array) at compile-time in nim",
+  "license": "MIT"
+}

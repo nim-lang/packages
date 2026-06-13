@@ -1,0 +1,13 @@
+{
+  "name": "csvtools",
+  "url": "https://github.com/andreaferretti/csvtools",
+  "method": "git",
+  "tags": [
+    "CSV",
+    "comma separated values",
+    "TSV"
+  ],
+  "description": "Manage CSV files",
+  "license": "Apache License 2.0",
+  "web": "https://github.com/andreaferretti/csvtools"
+}

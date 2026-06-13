@@ -1,0 +1,15 @@
+{
+  "name": "mike",
+  "url": "https://github.com/ire4ever1190/mike",
+  "method": "git",
+  "tags": [
+    "web",
+    "library",
+    "rest",
+    "framework",
+    "simple"
+  ],
+  "description": "A very simple micro web framework",
+  "license": "MIT",
+  "web": "https://github.com/ire4ever1190/mike"
+}

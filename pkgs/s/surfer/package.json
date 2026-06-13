@@ -1,0 +1,14 @@
+{
+  "name": "surfer",
+  "url": "https://github.com/nim-windowing/surfer",
+  "tags": [
+    "wayland",
+    "linux",
+    "graphics",
+    "OpenGL"
+  ],
+  "description": "A high-level, minimal, opinionated windowing library written in Nim.",
+  "license": "BSD-3-Clause",
+  "method": "git",
+  "web": "https://github.com/nim-windowing/surfer"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "opencl",
+  "url": "https://github.com/nim-lang/opencl",
+  "method": "git",
+  "tags": [
+    "library"
+  ],
+  "description": "Low-level wrapper for OpenCL",
+  "license": "MIT",
+  "web": "https://github.com/nim-lang/opencl"
+}

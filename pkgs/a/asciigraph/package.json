@@ -1,0 +1,14 @@
+{
+  "name": "asciigraph",
+  "url": "https://github.com/nimbackup/asciigraph",
+  "method": "git",
+  "tags": [
+    "graph",
+    "plot",
+    "terminal",
+    "io"
+  ],
+  "description": "Console ascii line charts in pure nim",
+  "license": "MIT",
+  "web": "https://github.com/nimbackup/asciigraph"
+}

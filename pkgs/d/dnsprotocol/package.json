@@ -1,0 +1,12 @@
+{
+  "name": "dnsprotocol",
+  "url": "https://github.com/rockcavera/nim-dnsprotocol",
+  "method": "git",
+  "tags": [
+    "dns",
+    "protocol"
+  ],
+  "description": "Domain Name System (DNS) protocol for Nim programming language",
+  "license": "MIT",
+  "web": "https://github.com/rockcavera/nim-dnsprotocol"
+}

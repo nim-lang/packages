@@ -1,0 +1,12 @@
+{
+  "name": "bumpy",
+  "url": "https://github.com/treeform/bumpy",
+  "method": "git",
+  "tags": [
+    "2d",
+    "collision"
+  ],
+  "description": "2d collision library for Nim.",
+  "license": "MIT",
+  "web": "https://github.com/treeform/bumpy"
+}

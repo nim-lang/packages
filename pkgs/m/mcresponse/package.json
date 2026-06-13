@@ -1,0 +1,15 @@
+{
+  "name": "mcresponse",
+  "url": "https://github.com/abbeymart/mcresponse-nim",
+  "method": "git",
+  "tags": [
+    "web",
+    "crud",
+    "rest",
+    "api",
+    "response"
+  ],
+  "description": "mConnect Standardised Response Package",
+  "license": "MIT",
+  "web": "https://github.com/abbeymart/mcresponse-nim"
+}

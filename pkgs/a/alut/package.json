@@ -1,0 +1,14 @@
+{
+  "name": "alut",
+  "url": "https://github.com/rmt/alut",
+  "method": "git",
+  "tags": [
+    "alut",
+    "openal",
+    "audio",
+    "sound"
+  ],
+  "description": "OpenAL Utility Toolkit (ALUT)",
+  "license": "LGPL-2.1",
+  "web": "https://github.com/rmt/alut"
+}

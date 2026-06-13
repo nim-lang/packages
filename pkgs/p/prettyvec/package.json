@@ -1,0 +1,13 @@
+{
+  "name": "prettyvec",
+  "url": "https://github.com/prettybauble/prettyvec",
+  "method": "git",
+  "tags": [
+    "prettybauble",
+    "vector",
+    "library"
+  ],
+  "description": "Small library for working with vectors",
+  "license": "MIT",
+  "web": "https://github.com/prettybauble/prettyvec"
+}

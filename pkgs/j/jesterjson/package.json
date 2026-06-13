@@ -1,0 +1,14 @@
+{
+  "name": "jesterjson",
+  "url": "https://github.com/JohnAD/jesterjson",
+  "method": "git",
+  "tags": [
+    "web",
+    "jester",
+    "json",
+    "plugin"
+  ],
+  "description": "A Jester web plugin that embeds key information into a JSON object.",
+  "license": "MIT",
+  "web": "https://github.com/JohnAD/jesterjson"
+}

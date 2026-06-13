@@ -1,0 +1,14 @@
+{
+  "name": "nimiSlides",
+  "url": "https://github.com/HugoGranstrom/nimib-reveal/",
+  "method": "git",
+  "tags": [
+    "presentation",
+    "slideshow",
+    "nimib",
+    "reveal"
+  ],
+  "description": "Create Reveal.js slideshows in Nim",
+  "license": "MIT",
+  "web": "https://github.com/HugoGranstrom/nimib-reveal/"
+}

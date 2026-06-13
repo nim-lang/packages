@@ -1,0 +1,13 @@
+{
+  "name": "importc_helpers",
+  "url": "https://github.com/fredrikhr/nim-importc-helpers.git",
+  "method": "git",
+  "tags": [
+    "import",
+    "c",
+    "helper"
+  ],
+  "description": "Helpers for supporting and simplifying import of symbols from C into Nim",
+  "license": "MIT",
+  "web": "https://github.com/fredrikhr/nim-importc-helpers"
+}

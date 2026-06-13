@@ -1,0 +1,13 @@
+{
+  "name": "nimobserver",
+  "url": "https://github.com/Tangdongle/nimobserver",
+  "method": "git",
+  "tags": [
+    "observer",
+    "patterns",
+    "library"
+  ],
+  "description": "An implementation of the observer pattern",
+  "license": "MIT",
+  "web": "https://github.com/Tangdongle/nimobserver"
+}

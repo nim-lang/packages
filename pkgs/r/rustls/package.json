@@ -1,0 +1,11 @@
+{
+  "name": "rustls",
+  "url": "https://github.com/thechampagne/rustls-nim",
+  "method": "git",
+  "tags": [
+    "rustls"
+  ],
+  "description": "Binding for rustls a TLS library",
+  "license": "Apache-2.0",
+  "web": "https://github.com/thechampagne/rustls-nim"
+}

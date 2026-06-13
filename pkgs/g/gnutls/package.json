@@ -1,0 +1,14 @@
+{
+  "name": "gnutls",
+  "url": "https://github.com/FedericoCeratto/nim-gnutls",
+  "method": "git",
+  "tags": [
+    "wrapper",
+    "library",
+    "security",
+    "crypto"
+  ],
+  "description": "GnuTLS wrapper",
+  "license": "LGPLv2.1",
+  "web": "https://github.com/FedericoCeratto/nim-gnutls"
+}

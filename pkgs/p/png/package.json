@@ -1,0 +1,15 @@
+{
+  "name": "png",
+  "url": "https://github.com/barcharcraz/nimlibpng",
+  "method": "git",
+  "tags": [
+    "png",
+    "wrapper",
+    "library",
+    "libpng",
+    "image"
+  ],
+  "description": "Nim wrapper for the libpng library",
+  "license": "libpng",
+  "web": "https://github.com/barcharcraz/nimlibpng"
+}

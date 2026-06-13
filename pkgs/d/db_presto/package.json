@@ -1,0 +1,13 @@
+{
+  "name": "db_presto",
+  "url": "https://github.com/Bennyelg/nimPresto",
+  "method": "git",
+  "tags": [
+    "prestodb",
+    "connector",
+    "database"
+  ],
+  "description": "prestodb simple connector",
+  "license": "MIT",
+  "web": "https://github.com/Bennyelg/nimPresto"
+}

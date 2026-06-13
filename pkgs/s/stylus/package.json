@@ -1,0 +1,12 @@
+{
+  "name": "stylus",
+  "url": "https://github.com/ferus-web/stylus",
+  "method": "git",
+  "tags": [
+    "css",
+    "parsing"
+  ],
+  "description": "A standards compliant CSS level 3 tokenizer and parser written in pure Nim",
+  "license": "MIT",
+  "web": "https://github.com/ferus-web/stylus"
+}

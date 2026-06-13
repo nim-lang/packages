@@ -1,0 +1,14 @@
+{
+  "name": "nimhttpd",
+  "url": "https://github.com/h3rald/nimhttpd",
+  "method": "git",
+  "tags": [
+    "web-server",
+    "static-file-server",
+    "server",
+    "http"
+  ],
+  "description": "A tiny static file web server.",
+  "license": "MIT",
+  "web": "https://github.com/h3rald/nimhttpd"
+}

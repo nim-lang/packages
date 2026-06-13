@@ -1,0 +1,16 @@
+{
+  "name": "itertools",
+  "url": "https://github.com/narimiran/itertools",
+  "method": "git",
+  "tags": [
+    "itertools",
+    "iterutils",
+    "python",
+    "iter",
+    "iterator",
+    "iterators"
+  ],
+  "description": "Itertools for Nim",
+  "license": "MIT",
+  "web": "https://narimiran.github.io/itertools/"
+}

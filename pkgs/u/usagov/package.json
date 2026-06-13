@@ -1,0 +1,12 @@
+{
+  "name": "usagov",
+  "url": "https://github.com/juancarlospaco/nim-usagov",
+  "method": "git",
+  "tags": [
+    "gov",
+    "opendata"
+  ],
+  "description": "USA Code.Gov MultiSync API Client for Nim",
+  "license": "MIT",
+  "web": "https://github.com/juancarlospaco/nim-usagov"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "shopifyextractor",
+  "url": "https://github.com/thisago/shopifyextractor",
+  "method": "git",
+  "tags": [
+    "shopify",
+    "extractor",
+    "library",
+    "scraper"
+  ],
+  "description": "Shopify ecommerces data in a instant",
+  "license": "GPL-3.0-only",
+  "web": "https://github.com/thisago/shopifyextractor"
+}

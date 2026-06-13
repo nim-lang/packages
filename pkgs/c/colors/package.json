@@ -1,0 +1,13 @@
+{
+  "name": "colors",
+  "url": "https://github.com/thing-king/colors",
+  "method": "git",
+  "tags": [
+    "colors",
+    "coloring",
+    "terminal"
+  ],
+  "description": "A simple, powerful terminal coloring and styling library akin to NPM `colors`",
+  "license": "MIT",
+  "web": "https://github.com/thing-king/colors"
+}

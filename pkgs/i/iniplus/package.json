@@ -1,0 +1,15 @@
+{
+  "name": "iniplus",
+  "url": "https://codeberg.org/onbox/iniplus",
+  "method": "git",
+  "tags": [
+    "ini",
+    "config",
+    "parser",
+    "extended",
+    "library"
+  ],
+  "description": "An extended INI parser for Nim.",
+  "license": "BSD-3-Clause",
+  "web": "https://docs.penguinite.dev/iniplus/"
+}

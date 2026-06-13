@@ -1,0 +1,13 @@
+{
+  "name": "sqlite3_abi",
+  "url": "https://github.com/arnetheduck/nim-sqlite3-abi",
+  "method": "git",
+  "tags": [
+    "sqlite",
+    "sqlite3",
+    "database"
+  ],
+  "description": "A wrapper for SQLite",
+  "license": "Apache License 2.0 or MIT",
+  "web": "https://github.com/arnetheduck/nim-sqlite3-abi"
+}

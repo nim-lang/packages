@@ -1,0 +1,16 @@
+{
+  "name": "bgfxdotnim",
+  "url": "https://github.com/zacharycarter/bgfx.nim",
+  "method": "git",
+  "tags": [
+    "bgfx",
+    "3d",
+    "vulkan",
+    "opengl",
+    "metal",
+    "directx"
+  ],
+  "description": "bindings to bgfx c99 api",
+  "license": "MIT",
+  "web": "https://github.com/zacharycarter/bgfx.nim"
+}

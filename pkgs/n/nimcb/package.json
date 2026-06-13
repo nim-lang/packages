@@ -1,0 +1,12 @@
+{
+  "name": "nimcb",
+  "url": "https://github.com/AdrianV/nimcb",
+  "method": "git",
+  "tags": [
+    "c++-builder",
+    "msbuild"
+  ],
+  "description": "Integrate nim projects in the C++Builder build process",
+  "license": "MIT",
+  "web": "https://github.com/AdrianV/nimcb"
+}

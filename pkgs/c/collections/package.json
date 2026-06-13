@@ -1,0 +1,12 @@
+{
+  "name": "collections",
+  "url": "https://github.com/zielmicha/collections.nim",
+  "method": "git",
+  "tags": [
+    "iterator",
+    "functional"
+  ],
+  "description": "Various collections and utilities",
+  "license": "MIT",
+  "web": "https://github.com/zielmicha/collections.nim"
+}

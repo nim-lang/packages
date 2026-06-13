@@ -1,0 +1,16 @@
+{
+  "name": "nimtra",
+  "url": "https://github.com/nimmer-jp/nimtra",
+  "method": "git",
+  "tags": [
+    "nim",
+    "library",
+    "orm",
+    "nim-orm",
+    "orm-cli",
+    "cli"
+  ],
+  "description": "Async-first ORM and libSQL client for Nim",
+  "license": "MIT",
+  "web": "https://github.com/nimmer-jp/nimtra"
+}

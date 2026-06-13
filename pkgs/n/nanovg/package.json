@@ -1,0 +1,14 @@
+{
+  "name": "nanovg",
+  "url": "https://github.com/johnnovak/nim-nanovg",
+  "method": "git",
+  "tags": [
+    "wrapper",
+    "GUI",
+    "vector graphics",
+    "opengl"
+  ],
+  "description": "Nim wrapper for the C NanoVG antialiased vector graphics rendering library for OpenGL",
+  "license": "MIT",
+  "web": "https://github.com/johnnovak/nim-nanovg"
+}

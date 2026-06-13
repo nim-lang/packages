@@ -1,0 +1,13 @@
+{
+  "name": "nimlibxlsxwriter",
+  "url": "https://github.com/ThomasTJdev/nimlibxlsxwriter",
+  "method": "git",
+  "tags": [
+    "Excel",
+    "wrapper",
+    "xlsx"
+  ],
+  "description": "libxslxwriter wrapper for Nim",
+  "license": "MIT",
+  "web": "https://github.com/ThomasTJdev/nimlibxlsxwriter"
+}

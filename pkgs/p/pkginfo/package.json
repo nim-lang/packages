@@ -1,0 +1,16 @@
+{
+  "name": "pkginfo",
+  "url": "https://github.com/openpeeps/pkginfo",
+  "method": "git",
+  "tags": [
+    "macros",
+    "pkginfo",
+    "nimble",
+    "meta",
+    "semver",
+    "dependencies"
+  ],
+  "description": "A tiny utility package to extract Nimble information from any project",
+  "license": "MIT",
+  "web": "https://github.com/openpeeps/pkginfo"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "webgeolocation",
+  "url": "https://github.com/maleyva1/webgeoloaction",
+  "method": "git",
+  "tags": [
+    "bindings",
+    "geolocation"
+  ],
+  "description": "Bindings to the Webgeolocation Web API",
+  "license": "MIT",
+  "web": "https://github.com/maleyva1/webgeoloaction"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "datamancer",
+  "url": "https://github.com/SciNim/datamancer",
+  "method": "git",
+  "tags": [
+    "library",
+    "dataframe",
+    "macros",
+    "dplyr"
+  ],
+  "description": "A dataframe library with a dplyr like API",
+  "license": "MIT",
+  "web": "https://github.com/SciNim/datamancer"
+}

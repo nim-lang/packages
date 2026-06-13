@@ -1,0 +1,13 @@
+{
+  "name": "genoiser",
+  "url": "https://github.com/brentp/genoiser",
+  "method": "git",
+  "tags": [
+    "bam",
+    "cram",
+    "vcf",
+    "genomics"
+  ],
+  "description": "functions to tracks for genomics data files",
+  "license": "MIT"
+}

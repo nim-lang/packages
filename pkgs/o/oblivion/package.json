@@ -1,0 +1,13 @@
+{
+  "name": "oblivion",
+  "url": "https://github.com/sealmove/oblivion",
+  "method": "git",
+  "tags": [
+    "cli",
+    "alias",
+    "binary"
+  ],
+  "description": "Shell command manager",
+  "license": "MIT",
+  "web": "https://github.com/sealmove/oblivion"
+}

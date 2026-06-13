@@ -1,0 +1,15 @@
+{
+  "name": "linenoise",
+  "url": "https://github.com/fallingduck/linenoise-nim",
+  "method": "git",
+  "tags": [
+    "linenoise",
+    "readline",
+    "library",
+    "wrapper",
+    "command-line"
+  ],
+  "description": "Wrapper for linenoise, a free, self-contained alternative to GNU readline.",
+  "license": "BSD",
+  "web": "https://github.com/fallingduck/linenoise-nim"
+}

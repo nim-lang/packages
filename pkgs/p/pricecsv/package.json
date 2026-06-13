@@ -1,0 +1,16 @@
+{
+  "name": "pricecsv",
+  "url": "https://github.com/thisago/pricecsv",
+  "method": "git",
+  "tags": [
+    "cli",
+    "calculator",
+    "csv",
+    "bulk",
+    "price",
+    "tool"
+  ],
+  "description": "Easily calculate the total of all products in csv",
+  "license": "gpl-3.0",
+  "web": "https://github.com/thisago/pricecsv"
+}

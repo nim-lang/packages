@@ -1,0 +1,16 @@
+{
+  "name": "telebot",
+  "url": "https://github.com/ba0f3/telebot.nim",
+  "method": "git",
+  "tags": [
+    "telebot",
+    "telegram",
+    "bot",
+    "api",
+    "client",
+    "async"
+  ],
+  "description": "Async Telegram Bot API Client",
+  "license": "MIT",
+  "web": "https://github.com/ba0f3/telebot.nim"
+}

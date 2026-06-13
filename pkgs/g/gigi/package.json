@@ -1,0 +1,13 @@
+{
+  "name": "gigi",
+  "url": "https://github.com/attakei/gigi",
+  "method": "git",
+  "tags": [
+    "git",
+    "gitignore",
+    "cli"
+  ],
+  "description": "GitIgnore Generation Interface",
+  "license": "Apache-2.0",
+  "web": "https://github.com/attakei/gigi"
+}

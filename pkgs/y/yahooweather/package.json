@@ -1,0 +1,13 @@
+{
+  "name": "yahooweather",
+  "url": "https://github.com/achesak/nim-yahooweather",
+  "method": "git",
+  "tags": [
+    "library",
+    "wrapper",
+    "weather"
+  ],
+  "description": "Yahoo! Weather API wrapper",
+  "license": "MIT",
+  "web": "https://github.com/achesak/nim-yahooweather"
+}

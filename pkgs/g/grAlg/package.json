@@ -1,0 +1,20 @@
+{
+  "name": "grAlg",
+  "url": "https://github.com/c-blake/gralg",
+  "method": "git",
+  "tags": [
+    "graph",
+    "digraph",
+    "dag",
+    "algorithm",
+    "dfs",
+    "bfs",
+    "dijkstra",
+    "topological sort",
+    "shortest paths",
+    "transitive closure"
+  ],
+  "description": "Classical Graph Algos in Nim",
+  "license": "MIT/ISC",
+  "web": "https://github.com/c-blake/gralg"
+}

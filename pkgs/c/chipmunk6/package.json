@@ -1,0 +1,13 @@
+{
+  "name": "chipmunk6",
+  "url": "https://github.com/fowlmouth/nimrod-chipmunk/",
+  "method": "git",
+  "tags": [
+    "library",
+    "physics",
+    "game"
+  ],
+  "description": "Bindings for Chipmunk2D 6.x physics library",
+  "license": "MIT",
+  "web": "https://github.com/fowlmouth/nimrod-chipmunk"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "fugitive",
+  "url": "https://github.com/haltcase/fugitive",
+  "method": "git",
+  "tags": [
+    "git",
+    "github",
+    "cli",
+    "extras",
+    "utility",
+    "tool"
+  ],
+  "description": "Simple command line tool to make git more intuitive, along with useful GitHub addons.",
+  "license": "MIT",
+  "web": "https://github.com/haltcase/fugitive"
+}

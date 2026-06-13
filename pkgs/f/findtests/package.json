@@ -1,0 +1,13 @@
+{
+  "name": "findtests",
+  "url": "https://github.com/jackvandrunen/findtests",
+  "method": "git",
+  "tags": [
+    "test",
+    "tests",
+    "unit-testing"
+  ],
+  "description": "A helper module for writing unit tests in Nim with nake or similar build system.",
+  "license": "ISC",
+  "web": "https://github.com/jackvandrunen/findtests"
+}

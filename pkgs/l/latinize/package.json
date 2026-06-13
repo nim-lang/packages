@@ -1,0 +1,13 @@
+{
+  "name": "latinize",
+  "url": "https://github.com/AmanoTeam/Latinize",
+  "method": "git",
+  "tags": [
+    "strings",
+    "unicode",
+    "ascii"
+  ],
+  "description": "Convert accents (diacritics) from strings to latin characters.",
+  "license": "LGPL-3.0",
+  "web": "https://github.com/AmanoTeam/Latinize"
+}

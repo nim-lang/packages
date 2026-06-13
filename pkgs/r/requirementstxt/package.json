@@ -1,0 +1,13 @@
+{
+  "name": "requirementstxt",
+  "url": "https://github.com/juancarlospaco/nim-requirementstxt",
+  "method": "git",
+  "tags": [
+    "python",
+    "pip",
+    "requirements"
+  ],
+  "description": "Python requirements.txt generic parser for Nim",
+  "license": "MIT",
+  "web": "https://github.com/juancarlospaco/nim-requirementstxt"
+}

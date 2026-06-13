@@ -1,0 +1,15 @@
+{
+  "name": "conventional_semver",
+  "url": "https://gitlab.com/SimplyZ/conventional_semver",
+  "method": "git",
+  "tags": [
+    "semver",
+    "conventional",
+    "commits",
+    "git",
+    "version"
+  ],
+  "description": "Calculate the next semver version given the git log and previous version",
+  "license": "MIT",
+  "web": "https://gitlab.com/SimplyZ/conventional_semver"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "redis",
+  "url": "https://github.com/nim-lang/redis",
+  "method": "git",
+  "tags": [
+    "redis",
+    "client",
+    "library"
+  ],
+  "description": "official redis client for Nim",
+  "license": "MIT",
+  "web": "https://github.com/nim-lang/redis"
+}

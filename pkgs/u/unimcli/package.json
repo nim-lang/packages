@@ -1,0 +1,14 @@
+{
+  "name": "unimcli",
+  "url": "https://github.com/unimorg/unimcli",
+  "method": "git",
+  "tags": [
+    "nimble",
+    "nim-lang-cn",
+    "tools",
+    "cli"
+  ],
+  "description": "User-friendly nimcli.",
+  "license": "MIT",
+  "web": "https://github.com/unimorg/unimcli"
+}

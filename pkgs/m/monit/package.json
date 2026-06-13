@@ -1,0 +1,14 @@
+{
+  "name": "monit",
+  "url": "https://github.com/jiro4989/monit",
+  "method": "git",
+  "tags": [
+    "cli",
+    "task-runner",
+    "developer-tools",
+    "automation"
+  ],
+  "description": "A simple task runner. Run tasks and watch file changes with custom paths.",
+  "license": "MIT",
+  "web": "https://github.com/jiro4989/monit"
+}

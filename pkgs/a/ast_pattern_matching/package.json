@@ -1,0 +1,13 @@
+{
+  "name": "ast_pattern_matching",
+  "url": "https://github.com/nim-lang/ast-pattern-matching",
+  "method": "git",
+  "tags": [
+    "macros",
+    "pattern-matching",
+    "ast"
+  ],
+  "description": "a general ast pattern matching library with a focus on correctness and good error messages",
+  "license": "MIT",
+  "web": "https://github.com/nim-lang/ast-pattern-matching"
+}

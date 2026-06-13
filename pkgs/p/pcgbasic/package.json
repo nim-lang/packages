@@ -1,0 +1,14 @@
+{
+  "name": "pcgbasic",
+  "url": "https://github.com/rockcavera/pcgbasic",
+  "method": "git",
+  "tags": [
+    "pcg",
+    "rng",
+    "prng",
+    "random"
+  ],
+  "description": "Permuted Congruential Generator (PCG) Random Number Generation (RNG) for Nim.",
+  "license": "MIT",
+  "web": "https://github.com/rockcavera/pcgbasic"
+}

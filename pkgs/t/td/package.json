@@ -1,0 +1,16 @@
+{
+  "name": "td",
+  "url": "https://github.com/capocasa/td",
+  "method": "git",
+  "tags": [
+    "tasks",
+    "todo",
+    "ics",
+    "caldav",
+    "vdirsyncer",
+    "cli"
+  ],
+  "description": "Task manager for ICS files synced by vdirsyncer",
+  "license": "MIT",
+  "web": "https://github.com/capocasa/td"
+}

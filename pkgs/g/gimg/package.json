@@ -1,0 +1,15 @@
+{
+  "name": "gimg",
+  "url": "https://github.com/thisago/gimg",
+  "method": "git",
+  "tags": [
+    "scraper",
+    "images",
+    "google",
+    "search",
+    "lib"
+  ],
+  "description": "Google Images scraper lib and CLI",
+  "license": "MIT",
+  "web": "https://github.com/thisago/gimg"
+}

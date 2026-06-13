@@ -1,0 +1,15 @@
+{
+  "name": "madam",
+  "url": "https://github.com/openpeeps/madam",
+  "method": "git",
+  "tags": [
+    "frontend",
+    "webserver",
+    "httpbeast",
+    "prototyping",
+    "frontend-development"
+  ],
+  "description": "Local webserver for Design Prototyping and Front-end Development",
+  "license": "MIT",
+  "web": "https://github.com/openpeeps/madam"
+}

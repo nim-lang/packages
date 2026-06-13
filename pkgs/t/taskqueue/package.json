@@ -1,0 +1,14 @@
+{
+  "name": "taskqueue",
+  "url": "https://github.com/jackhftang/taskqueue.nim",
+  "method": "git",
+  "tags": [
+    "task",
+    "scheduler",
+    "timer"
+  ],
+  "description": "High precision and high performance task scheduler ",
+  "license": "MIT",
+  "web": "https://github.com/jackhftang/taskqueue.nim",
+  "doc": "https://jackhftang.github.io/taskqueue.nim/"
+}

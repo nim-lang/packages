@@ -1,0 +1,15 @@
+{
+  "name": "dmarcmaster",
+  "url": "https://github.com/capocasa/dmarcmaster",
+  "method": "git",
+  "tags": [
+    "dmarc",
+    "email",
+    "maildir",
+    "security",
+    "dns"
+  ],
+  "description": "Extract and display DMARC aggregate reports from Maildir",
+  "license": "MIT",
+  "web": "https://github.com/capocasa/dmarcmaster"
+}

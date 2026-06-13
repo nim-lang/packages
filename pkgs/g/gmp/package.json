@@ -1,0 +1,14 @@
+{
+  "name": "gmp",
+  "url": "https://github.com/subsetpark/nim-gmp",
+  "method": "git",
+  "tags": [
+    "library",
+    "bignum",
+    "numbers",
+    "math"
+  ],
+  "description": "wrapper for the GNU multiple precision arithmetic library (GMP)",
+  "license": "LGPLv3 or GPLv2",
+  "web": "https://github.com/subsetpark/nim-gmp"
+}

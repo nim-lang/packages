@@ -1,0 +1,13 @@
+{
+  "name": "jwtea",
+  "url": "https://github.com/guzba/jwtea",
+  "method": "git",
+  "tags": [
+    "jwt",
+    "hmac",
+    "rsa"
+  ],
+  "description": "Brew JSON Web Tokens in pure Nim",
+  "license": "MIT",
+  "web": "https://github.com/guzba/jwtea"
+}

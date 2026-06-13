@@ -1,0 +1,16 @@
+{
+  "name": "fedi_auth",
+  "url": "https://codeberg.org/pswilde/fedi_auth",
+  "method": "git",
+  "tags": [
+    "library",
+    "fediverse",
+    "mastodon",
+    "gotosocial",
+    "pleroma",
+    "mastoapi"
+  ],
+  "description": "A basic library to authenticate to fediverse instances",
+  "license": "GPLv3",
+  "web": "https://codeberg.org/pswilde/fedi_auth"
+}

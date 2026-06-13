@@ -1,0 +1,13 @@
+{
+  "name": "eastasianwidth",
+  "url": "https://github.com/jiro4989/eastasianwidth",
+  "method": "git",
+  "tags": [
+    "library",
+    "text",
+    "east_asian_width"
+  ],
+  "description": "eastasianwidth is library for EastAsianWidth.",
+  "license": "MIT",
+  "web": "https://github.com/jiro4989/eastasianwidth"
+}

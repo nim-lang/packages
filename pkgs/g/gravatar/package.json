@@ -1,0 +1,13 @@
+{
+  "name": "gravatar",
+  "url": "https://github.com/achesak/nim-gravatar",
+  "method": "git",
+  "tags": [
+    "library",
+    "wrapper",
+    "gravatar"
+  ],
+  "description": "Gravatar API wrapper",
+  "license": "MIT",
+  "web": "https://github.com/achesak/nim-gravatar"
+}

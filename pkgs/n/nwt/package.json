@@ -1,0 +1,14 @@
+{
+  "name": "nwt",
+  "url": "https://github.com/enthus1ast/nimWebTemplates",
+  "method": "git",
+  "tags": [
+    "template",
+    "html",
+    "pure",
+    "jinja"
+  ],
+  "description": "experiment to build a jinja like template parser",
+  "license": "MIT",
+  "web": "https://github.com/enthus1ast/nimWebTemplates"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "httpbeast",
+  "url": "https://github.com/dom96/httpbeast",
+  "method": "git",
+  "tags": [
+    "http",
+    "server",
+    "parallel",
+    "linux",
+    "unix"
+  ],
+  "description": "A performant and scalable HTTP server.",
+  "license": "MIT",
+  "web": "https://github.com/dom96/httpbeast"
+}

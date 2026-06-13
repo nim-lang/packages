@@ -1,0 +1,19 @@
+{
+  "name": "morsecode",
+  "url": "https://github.com/nemuelw/morsecode",
+  "method": "git",
+  "tags": [
+    "morse",
+    "morsecode",
+    "encode",
+    "decode",
+    "encoding",
+    "decoding",
+    "text",
+    "communication",
+    "utils"
+  ],
+  "description": "Encode and decode text using standard international Morse code",
+  "license": "GPL-3.0-or-later",
+  "web": "https://github.com/nemuelw/morsecode"
+}

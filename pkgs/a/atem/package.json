@@ -1,0 +1,15 @@
+{
+  "name": "atem",
+  "url": "https://github.com/capocasa/atem",
+  "method": "git",
+  "tags": [
+    "facebook",
+    "meta",
+    "graph-api",
+    "social-media",
+    "cli"
+  ],
+  "description": "Facebook Page management CLI via Meta Graph API",
+  "license": "MIT",
+  "web": "https://github.com/capocasa/atem"
+}

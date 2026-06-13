@@ -1,0 +1,13 @@
+{
+  "name": "canonicaljson",
+  "url": "https://github.com/jackhftang/canonicaljson.nim",
+  "method": "git",
+  "tags": [
+    "json",
+    "serialization",
+    "canonicalization"
+  ],
+  "description": "Canonical JSON according to RFC8785",
+  "license": "MIT",
+  "web": "https://github.com/jackhftang/canonicaljson.nim"
+}

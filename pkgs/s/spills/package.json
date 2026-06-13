@@ -1,0 +1,13 @@
+{
+  "name": "spills",
+  "url": "https://github.com/andreaferretti/spills",
+  "method": "git",
+  "tags": [
+    "disk-based",
+    "sequence",
+    "memory-mapping"
+  ],
+  "description": "Disk-based sequences",
+  "license": "Apache License 2.0",
+  "web": "https://github.com/andreaferretti/spills"
+}

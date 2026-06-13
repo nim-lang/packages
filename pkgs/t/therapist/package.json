@@ -1,0 +1,12 @@
+{
+  "name": "therapist",
+  "url": "https://bitbucket.org/maxgrenderjones/therapist",
+  "method": "git",
+  "tags": [
+    "argparse",
+    "library"
+  ],
+  "description": "Type-safe commandline parsing with minimal magic",
+  "license": "MIT",
+  "web": "https://bitbucket.org/maxgrenderjones/therapist"
+}

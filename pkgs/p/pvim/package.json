@@ -1,0 +1,11 @@
+{
+  "name": "pvim",
+  "url": "https://github.com/paranim/pvim",
+  "method": "git",
+  "tags": [
+    "editor",
+    "vim"
+  ],
+  "description": "A vim-based editor",
+  "license": "Public Domain"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "nimbigwig",
+  "url": "https://github.com/genotrance/nimbigwig",
+  "method": "git",
+  "tags": [
+    "bigwig",
+    "bigbend",
+    "genome"
+  ],
+  "description": "libBigWig wrapper for Nim",
+  "license": "MIT",
+  "web": "https://github.com/genotrance/nimbigwig"
+}

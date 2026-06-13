@@ -1,0 +1,12 @@
+{
+  "name": "luhny",
+  "url": "https://github.com/sigmapie8/luhny",
+  "method": "git",
+  "tags": [
+    "library",
+    "algorithm"
+  ],
+  "description": "Luhn's Algorithm implementation in Nim",
+  "license": "MIT",
+  "web": "https://github.com/sigmapie8/luhny"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "syphus",
+  "url": "https://github.com/makingspace/syphus",
+  "method": "git",
+  "tags": [
+    "optimization",
+    "tabu",
+    "deleted"
+  ],
+  "description": "An implementation of the tabu search heuristic in Nim.",
+  "license": "BSD-3",
+  "web": "https://github.com/makingspace/syphus-nim"
+}

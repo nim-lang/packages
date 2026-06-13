@@ -1,0 +1,13 @@
+{
+  "name": "dira",
+  "url": "https://github.com/tdely/dira",
+  "method": "git",
+  "tags": [
+    "git",
+    "profile",
+    "manager"
+  ],
+  "description": "git profile manager",
+  "license": "MIT",
+  "web": "https://github.com/tdely/dira"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "nauthy",
+  "url": "https://github.com/lzoz/nauthy",
+  "method": "git",
+  "tags": [
+    "otp",
+    "totp",
+    "hotp",
+    "2factor"
+  ],
+  "description": "Nim library for One Time Password verification and generation.",
+  "license": "MIT",
+  "web": "https://github.com/lzoz/nauthy"
+}

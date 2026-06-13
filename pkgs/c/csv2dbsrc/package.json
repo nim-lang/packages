@@ -1,0 +1,13 @@
+{
+  "name": "csv2dbsrc",
+  "url": "https://github.com/z-kk/csv2dbsrc",
+  "method": "git",
+  "tags": [
+    "csv",
+    "db",
+    "sqlite"
+  ],
+  "description": "create db util sources from csv",
+  "license": "MIT",
+  "web": "https://github.com/z-kk/csv2dbsrc"
+}

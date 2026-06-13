@@ -1,0 +1,13 @@
+{
+  "name": "fftw3",
+  "url": "https://github.com/SciNim/nimfftw3",
+  "method": "git",
+  "tags": [
+    "library",
+    "math",
+    "fft"
+  ],
+  "description": "Bindings to the FFTW library",
+  "license": "LGPL",
+  "web": "https://github.com/SciNim/nimfftw3"
+}

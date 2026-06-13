@@ -1,0 +1,12 @@
+{
+  "name": "libbacktrace",
+  "url": "https://github.com/status-im/nim-libbacktrace",
+  "method": "git",
+  "tags": [
+    "library",
+    "wrapper"
+  ],
+  "description": "Nim wrapper for libbacktrace",
+  "license": "Apache License 2.0 or MIT",
+  "web": "https://github.com/status-im/nim-libbacktrace"
+}

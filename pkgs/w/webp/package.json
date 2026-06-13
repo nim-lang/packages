@@ -1,0 +1,11 @@
+{
+  "name": "webp",
+  "url": "https://github.com/juancarlospaco/nim-webp",
+  "method": "git",
+  "tags": [
+    "webp"
+  ],
+  "description": "WebP Tools wrapper for Nim",
+  "license": "MIT",
+  "web": "https://github.com/juancarlospaco/nim-webp"
+}

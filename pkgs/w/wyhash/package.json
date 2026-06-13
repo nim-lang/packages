@@ -1,0 +1,10 @@
+{
+  "name": "wyhash",
+  "url": "https://github.com/jackhftang/wyhash.nim",
+  "method": "git",
+  "tags": [
+    "hash"
+  ],
+  "description": "Nim wrapper for wyhash",
+  "license": "MIT"
+}

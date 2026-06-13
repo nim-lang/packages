@@ -1,0 +1,14 @@
+{
+  "name": "native_dialogs",
+  "url": "https://github.com/SSPkrolik/nim-native-dialogs.git",
+  "method": "git",
+  "tags": [
+    "ui",
+    "gui",
+    "cross-platform",
+    "library"
+  ],
+  "description": "Implements framework-agnostic native operating system dialogs calls",
+  "license": "MIT",
+  "web": "https://github.com/SSPkrolik/nim-native-dialogs"
+}

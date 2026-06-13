@@ -1,0 +1,13 @@
+{
+  "name": "nimldap",
+  "url": "https://github.com/inv2004/nimldap",
+  "method": "git",
+  "tags": [
+    "ldap",
+    "bindings",
+    "openldap"
+  ],
+  "description": "LDAP client bindings",
+  "license": "MIT",
+  "web": "https://github.com/inv2004/nimldap"
+}

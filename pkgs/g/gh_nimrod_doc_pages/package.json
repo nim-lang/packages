@@ -1,0 +1,14 @@
+{
+  "name": "gh_nimrod_doc_pages",
+  "url": "https://github.com/Araq/gh_nimrod_doc_pages",
+  "method": "git",
+  "tags": [
+    "command-line",
+    "web",
+    "automation",
+    "documentation"
+  ],
+  "description": "Generates a GitHub documentation website for Nim projects.",
+  "license": "MIT",
+  "web": "https://github.com/Araq/gh_nimrod_doc_pages"
+}

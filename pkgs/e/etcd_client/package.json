@@ -1,0 +1,12 @@
+{
+  "name": "etcd_client",
+  "url": "https://github.com/FedericoCeratto/nim-etcd-client",
+  "method": "git",
+  "tags": [
+    "library",
+    "etcd"
+  ],
+  "description": "etcd client library",
+  "license": "LGPLv3",
+  "web": "https://github.com/FedericoCeratto/nim-etcd-client"
+}

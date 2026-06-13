@@ -1,0 +1,12 @@
+{
+  "name": "xmlio",
+  "url": "https://github.com/codehz/xmlio",
+  "method": "git",
+  "tags": [
+    "xml",
+    "deserialize",
+    "vtable"
+  ],
+  "description": "Mapping nim type to xml node, and parse from it.",
+  "license": "LGPL-3.0"
+}

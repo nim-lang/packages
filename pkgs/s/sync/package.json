@@ -1,0 +1,14 @@
+{
+  "name": "sync",
+  "url": "https://github.com/planetis-m/sync",
+  "method": "git",
+  "tags": [
+    "synchronization",
+    "multithreading",
+    "parallelism",
+    "threads"
+  ],
+  "description": "Useful synchronization primitives",
+  "license": "MIT",
+  "web": "https://github.com/planetis-m/sync"
+}

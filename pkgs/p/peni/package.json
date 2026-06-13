@@ -1,0 +1,15 @@
+{
+  "name": "peni",
+  "url": "https://github.com/srozb/peni",
+  "method": "git",
+  "tags": [
+    "pe",
+    "tool",
+    "static",
+    "analysis",
+    "malware"
+  ],
+  "description": "PE tool based on libpe (with no S)",
+  "license": "MIT",
+  "web": "https://github.com/srozb/peni"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pine",
+  "url": "https://github.com/Willyboar/pine",
+  "method": "git",
+  "tags": [
+    "static",
+    "site",
+    "generator"
+  ],
+  "description": "Nim Static Blog & Site Generator",
+  "license": "MIT",
+  "web": "https://github.com/Willyboar/pine"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "libssh",
+  "url": "https://github.com/dariolah/libssh-nim",
+  "method": "git",
+  "tags": [
+    "ssh",
+    "libssh"
+  ],
+  "description": "libssh FFI bindings",
+  "license": "MIT",
+  "web": "https://github.com/dariolah/libssh-nim"
+}

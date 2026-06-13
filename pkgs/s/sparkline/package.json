@@ -1,0 +1,13 @@
+{
+  "name": "sparkline",
+  "url": "https://github.com/aquilax/sparkline-nim",
+  "method": "git",
+  "tags": [
+    "library",
+    "sparkline",
+    "console"
+  ],
+  "description": "Sparkline library",
+  "license": "MIT",
+  "web": "https://github.com/aquilax/sparkline-nim"
+}

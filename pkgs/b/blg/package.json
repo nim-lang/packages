@@ -1,0 +1,14 @@
+{
+  "name": "blg",
+  "url": "https://github.com/capocasa/blg",
+  "method": "git",
+  "tags": [
+    "blog",
+    "static",
+    "markdown",
+    "generator"
+  ],
+  "description": "Static blog generator using markdown and symlinks",
+  "license": "MIT",
+  "web": "https://github.com/capocasa/blg"
+}

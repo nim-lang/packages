@@ -1,0 +1,13 @@
+{
+  "name": "semver",
+  "url": "https://github.com/euantorano/semver.nim",
+  "method": "git",
+  "tags": [
+    "semver",
+    "version",
+    "parser"
+  ],
+  "description": "Semantic versioning parser for Nim. Allows the parsing of version strings into objects and the comparing of version objects.",
+  "license": "BSD3",
+  "web": "https://github.com/euantorano/semver.nim"
+}

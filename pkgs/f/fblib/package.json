@@ -1,0 +1,16 @@
+{
+  "name": "fblib",
+  "url": "https://github.com/survivorm/fblib",
+  "method": "git",
+  "tags": [
+    "fb2",
+    "fictionbook",
+    "book",
+    "ebook",
+    "library",
+    "tools"
+  ],
+  "description": "FictionBook2 library and tools.",
+  "license": "MIT",
+  "web": "https://github.com/survivorm/fblib"
+}

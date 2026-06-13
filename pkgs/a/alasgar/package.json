@@ -1,0 +1,16 @@
+{
+  "name": "alasgar",
+  "url": "https://github.com/abisxir/alasgar",
+  "method": "git",
+  "tags": [
+    "game",
+    "engine",
+    "3d",
+    "graphics",
+    "gles",
+    "opengl"
+  ],
+  "description": "Game Engine",
+  "license": "MIT",
+  "web": "https://github.com/abisxir/alasgar"
+}

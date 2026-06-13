@@ -1,0 +1,13 @@
+{
+  "name": "xmldom",
+  "url": "https://github.com/nim-lang/graveyard?subdir=xmldom",
+  "method": "git",
+  "tags": [
+    "graveyard",
+    "xml",
+    "dom"
+  ],
+  "description": "Implementation of XML DOM Level 2 Core specification (https://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/core.html)",
+  "license": "MIT",
+  "web": "https://github.com/nim-lang/graveyard/tree/master/xmldom"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "resolver",
+  "url": "https://github.com/ryukoposting/resolver",
+  "method": "git",
+  "tags": [
+    "resolver",
+    "dependency",
+    "dependencies",
+    "semver",
+    "version",
+    "version control"
+  ],
+  "description": "Semver parser and dependency management tools",
+  "license": "BSD 3-Clause",
+  "web": "https://github.com/ryukoposting/resolver"
+}

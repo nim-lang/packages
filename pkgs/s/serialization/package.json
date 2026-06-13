@@ -1,0 +1,12 @@
+{
+  "name": "serialization",
+  "url": "https://github.com/status-im/nim-serialization",
+  "method": "git",
+  "tags": [
+    "library",
+    "serialization"
+  ],
+  "description": "A modern and extensible serialization framework for Nim",
+  "license": "Apache License 2.0",
+  "web": "https://github.com/status-im/nim-serialization"
+}

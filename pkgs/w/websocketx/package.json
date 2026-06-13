@@ -1,0 +1,13 @@
+{
+  "name": "websocketx",
+  "url": "https://github.com/ringabout/websocketx",
+  "method": "git",
+  "tags": [
+    "httpx",
+    "prologue",
+    "web"
+  ],
+  "description": "Websocket for httpx.",
+  "license": "MIT",
+  "web": "https://github.com/ringabout/websocketx"
+}

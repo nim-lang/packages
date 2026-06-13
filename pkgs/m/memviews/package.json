@@ -1,0 +1,16 @@
+{
+  "name": "memviews",
+  "url": "https://github.com/ReneSac/memviews",
+  "method": "git",
+  "tags": [
+    "library",
+    "slice",
+    "slicing",
+    "shallow",
+    "array",
+    "vector"
+  ],
+  "description": "Unsafe in-place slicing",
+  "license": "MIT",
+  "web": "https://github.com/ReneSac/memviews"
+}

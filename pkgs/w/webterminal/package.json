@@ -1,0 +1,13 @@
+{
+  "name": "webterminal",
+  "url": "https://github.com/JohnAD/webterminal",
+  "method": "git",
+  "tags": [
+    "javascript",
+    "terminal",
+    "tty"
+  ],
+  "description": "Very simple browser Javascript TTY web terminal",
+  "license": "MIT",
+  "web": "https://github.com/JohnAD/webterminal"
+}

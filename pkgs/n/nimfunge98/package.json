@@ -1,0 +1,14 @@
+{
+  "name": "nimfunge98",
+  "url": "https://git.adyxax.org/adyxax/nimfunge98",
+  "method": "git",
+  "tags": [
+    "befunge",
+    "esolang",
+    "funge",
+    "interpreter"
+  ],
+  "description": "A Funge-98 interpreter written in nim",
+  "license": "EUPL-1.2",
+  "web": "https://git.adyxax.org/adyxax/nimfunge98"
+}

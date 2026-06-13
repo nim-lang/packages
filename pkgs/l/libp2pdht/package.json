@@ -1,0 +1,15 @@
+{
+  "name": "libp2pdht",
+  "url": "https://github.com/codex-storage/nim-codex-dht",
+  "method": "git",
+  "tags": [
+    "library",
+    "networking",
+    "libp2p",
+    "dhs",
+    "kademlia"
+  ],
+  "description": "DHT based on the libp2p Kademlia spec",
+  "license": "Apache License 2.0",
+  "web": "https://github.com/codex-storage/nim-codex-dht"
+}

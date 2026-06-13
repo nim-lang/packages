@@ -1,0 +1,13 @@
+{
+  "name": "snappy",
+  "url": "https://github.com/status-im/nim-snappy",
+  "method": "git",
+  "tags": [
+    "compression",
+    "snappy",
+    "lzw"
+  ],
+  "description": "Nim implementation of Snappy compression algorithm",
+  "license": "MIT",
+  "web": "https://github.com/status-im/nim-snappy"
+}

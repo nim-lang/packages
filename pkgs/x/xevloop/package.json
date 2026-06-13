@@ -1,0 +1,13 @@
+{
+  "name": "xevloop",
+  "url": "https://github.com/PMunch/xevloop",
+  "method": "git",
+  "tags": [
+    "x11",
+    "library",
+    "events"
+  ],
+  "description": "Library to more easily create X11 event loops",
+  "license": "MIT",
+  "web": "https://github.com/PMunch/xevloop"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ballena_itcher",
+  "url": "https://github.com/juancarlospaco/ballena-itcher",
+  "method": "git",
+  "tags": [
+    "iso"
+  ],
+  "description": "Flash ISO images to SD cards & USB drives, safely and easily.",
+  "license": "MIT",
+  "web": "https://github.com/juancarlospaco/ballena-itcher"
+}

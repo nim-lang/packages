@@ -1,0 +1,11 @@
+{
+  "name": "nimFinLib",
+  "url": "https://github.com/qqtop/NimFinLib",
+  "method": "git",
+  "tags": [
+    "financial"
+  ],
+  "description": "Financial Library for Nim",
+  "license": "MIT",
+  "web": "https://github.com/qqtop/NimFinLib"
+}

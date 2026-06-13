@@ -1,0 +1,16 @@
+{
+  "name": "webtokens",
+  "url": "https://github.com/openpeeps/webtokens",
+  "method": "git",
+  "tags": [
+    "jwt",
+    "json",
+    "token",
+    "webtoken",
+    "jwk",
+    "jwe"
+  ],
+  "description": "JSON Web Token Library",
+  "license": "MIT",
+  "web": "https://github.com/openpeeps/webtokens"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "toxcore",
+  "url": "https://git.sr.ht/~ehmry/nim-toxcore",
+  "method": "git",
+  "tags": [
+    "tox",
+    "chat",
+    "wrapper"
+  ],
+  "description": "C Tox core wrapper",
+  "license": "GPL-3.0",
+  "web": "https://git.sr.ht/~ehmry/nim-toxcore"
+}

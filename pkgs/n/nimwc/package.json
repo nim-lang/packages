@@ -1,0 +1,14 @@
+{
+  "name": "nimwc",
+  "url": "https://github.com/ThomasTJdev/nim_websitecreator",
+  "method": "git",
+  "tags": [
+    "website",
+    "webpage",
+    "blog",
+    "binary"
+  ],
+  "description": "A website management tool. Run the file and access your webpage.",
+  "license": "PPL",
+  "web": "https://nimwc.org/"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "xlsxio",
+  "url": "https://github.com/jiiihpeeh/xlsxio-nim",
+  "method": "git",
+  "tags": [
+    "xlsxio",
+    "wrapper"
+  ],
+  "description": "This is a xlsxio wrapper done Nim in mind.",
+  "license": "MIT",
+  "web": "https://github.com/jiiihpeeh/xlsxio-nim"
+}

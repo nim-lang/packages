@@ -1,0 +1,13 @@
+{
+  "name": "entoody",
+  "url": "https://bitbucket.org/fowlmouth/entoody",
+  "method": "git",
+  "tags": [
+    "component",
+    "entity",
+    "composition"
+  ],
+  "description": "A component/entity system",
+  "license": "CC0",
+  "web": "https://bitbucket.org/fowlmouth/entoody"
+}

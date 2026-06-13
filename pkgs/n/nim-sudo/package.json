@@ -1,0 +1,13 @@
+{
+  "name": "nim-sudo",
+  "url": "https://github.com/vandot/nim-sudo",
+  "method": "git",
+  "tags": [
+    "sudo",
+    "linux",
+    "unix"
+  ],
+  "description": "Simple wrapper to execute osproc.exec* commands with sudo.",
+  "license": "BSD-3-Clause",
+  "web": "https://github.com/vandot/nim-sudo"
+}

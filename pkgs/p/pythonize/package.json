@@ -1,0 +1,12 @@
+{
+  "name": "pythonize",
+  "url": "https://github.com/marcoapintoo/nim-pythonize.git",
+  "method": "git",
+  "tags": [
+    "python",
+    "wrapper"
+  ],
+  "description": "A higher-level wrapper for the Python Programing Language",
+  "license": "MIT",
+  "web": "https://github.com/marcoapintoo/nim-pythonize"
+}

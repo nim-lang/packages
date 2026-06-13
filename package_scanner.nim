@@ -8,8 +8,9 @@
 # * Missing description or license
 # * Unavailable URLs
 # * Insecure URLs
+# * PR-specific new-package vs modified-package rules
 #
-# Usage: nim r package_scanner.nim <packages.json> [--old=packages_old.json] [--check-urls]
+# Usage: nim r package_scanner.nim <packages.json> [--check-urls] [--check-pr]
 #
 # Copyright 2015 Federico Ceratto <federico.ceratto@gmail.com>
 # Copyright 2023 Gabriel Huber <mail@gabrielhuber.at>
@@ -23,18 +24,124 @@ import std/strutils
 import std/httpclient
 import std/streams
 import std/net
+import std/osproc
+import std/sets
 
 
 const usage = """
-Usage: package_scanner <packages.json> [--old=packages_old.json] [--check-urls]
+Usage: package_scanner <packages.json> [--check-urls] [--check-pr]
 Scans the nimble package list for mistakes and dead packages.
 Options:
-  --old=        Old package file, will only scan changed packages
   --check-urls  Try to request the package url
+  --check-pr    Compare against the git merge base for the PR and enforce PR rules
+                This is the CI mode used for pull requests.
   --help        Print this help text"""
 
 const allowedNameChars = {'a'..'z', 'A'..'Z', '0'..'9', '_', '-', '.'}
 
+type
+  PackageDiff = object
+    oldPackagesTable: Table[string, JsonNode]
+    mergeBase: string
+    newPackageNames: seq[string]
+    modifiedExistingNames: seq[string]
+    removedPackageNames: seq[string]
+
+
+proc runCommand(exe: string, args: openArray[string]): string =
+  var process = startProcess(
+    exe,
+    args = @args,
+    options = {poUsePath, poStdErrToStdOut}
+  )
+  let output = process.outputStream.readAll()
+  let exitCode = waitForExit(process)
+  close(process)
+  if exitCode != 0:
+    let rendered = @[exe] & @args
+    raise newException(IOError, "command failed: " & rendered.join(" ") & "\n" & output.strip())
+  result = output
+
+proc requireEnv(name: string): string =
+  result = getEnv(name)
+  if result.len == 0:
+    raise newException(IOError, "missing required environment variable: " & name)
+
+proc getStrIfExists(n: JsonNode, name: string, default: string = ""): string =
+  result = default
+  if n.hasKey(name) and n[name].kind == JString:
+    result = n[name].str
+
+proc getElemsIfExists(n: JsonNode, name: string, default: seq[JsonNode] = @[]): seq[JsonNode] =
+  result = default
+  if n.hasKey(name) and n[name].kind == JArray:
+    result = n[name].elems
+
+proc shardPathFor(packageName: string): string =
+  if packageName.len == 0:
+    raise newException(ValueError, "package metadata missing name")
+  let shard = packageName[0].toLowerAscii()
+  if shard notin {'a'..'z'}:
+    raise newException(ValueError, "package name must start with an ASCII letter for alphabetical sharding: " & packageName)
+  result = "pkgs/" & $shard & "/" & packageName & "/package.json"
+
+proc loadOldPackagesFromJson(oldPackagesJson: JsonNode): Table[string, JsonNode] =
+  if oldPackagesJson.kind != JArray:
+    raise newException(ValueError, "old package file must contain a JSON array")
+  for oldPkg in oldPackagesJson:
+    let oldNameNorm = oldPkg.getStrIfExists("name").normalize()
+    if oldNameNorm != "":
+      result[oldNameNorm] = oldPkg
+
+proc loadOldPackagesTable(oldPackagesPath: string): Table[string, JsonNode] =
+  if oldPackagesPath == "":
+    return initTable[string, JsonNode]()
+  result = loadOldPackagesFromJson(parseJson(readFile(oldPackagesPath)))
+
+proc loadPrDiff(newPackagesPath: string): PackageDiff =
+  let repository = requireEnv("GITHUB_REPOSITORY")
+  let baseRef = requireEnv("GITHUB_BASE_REF")
+  let targetRepository = "https://github.com/" & repository
+
+  discard runCommand("git", ["fetch", targetRepository, baseRef])
+  let mergeBase = runCommand("git", ["merge-base", "HEAD", "FETCH_HEAD"]).strip()
+  if mergeBase.len == 0:
+    raise newException(IOError, "git merge-base returned an empty commit id")
+
+  let oldPackagesRaw = runCommand("git", ["show", mergeBase & ":" & newPackagesPath])
+  let oldPackagesJson = parseJson(oldPackagesRaw)
+  result.oldPackagesTable = loadOldPackagesFromJson(oldPackagesJson)
+  result.mergeBase = mergeBase
+
+  let newPackagesJson = parseJson(readFile(newPackagesPath))
+  if newPackagesJson.kind != JArray:
+    raise newException(ValueError, "new package file must contain a JSON array")
+
+  var seenCurrentNames = initHashSet[string]()
+  for pkg in newPackagesJson:
+    let pkgName = pkg.getStrIfExists("name")
+    let pkgNameNorm = pkgName.normalize()
+    if pkgNameNorm == "":
+      continue
+
+    seenCurrentNames.incl(pkgNameNorm)
+    if not result.oldPackagesTable.hasKey(pkgNameNorm):
+      result.newPackageNames.add(pkgName)
+    elif result.oldPackagesTable[pkgNameNorm] != pkg:
+      result.modifiedExistingNames.add(pkgName)
+
+  for oldNameNorm, oldPkg in result.oldPackagesTable.pairs:
+    if oldNameNorm notin seenCurrentNames:
+      result.removedPackageNames.add(oldPkg.getStrIfExists("name", oldNameNorm))
+
+proc checkPrSharding(newPackageNames: seq[string], mergeBase: string): seq[string] =
+  for packageName in newPackageNames:
+    let shardPath = shardPathFor(packageName)
+    let existsCode = execCmdEx("git cat-file -e " & quoteShell(mergeBase & ":" & shardPath)).exitCode
+    if existsCode == 0:
+      result.add("New package " & packageName & " would clash with existing shard path " & shardPath)
+    elif existsCode != 128:
+      result.add("Unable to verify shard path for " & packageName & ": git cat-file exited with code " & $existsCode)
 
 proc checkUrlReachable(client: HttpClient, url: string): string =
   var headers: HttpHeaders = nil
@@ -75,26 +182,25 @@ template checkUrl(urlType: string, url: string) =
       logPackageError(displayName & " has an unreachable " & urlType & " URL: " & url)
       logPackageError(urlError)
 
-proc getStrIfExists(n: JsonNode, name: string, default: string = ""): string =
-  result = default
-  if n.hasKey(name) and n[name].kind == JString:
-    result = n[name].str
-
-proc getElemsIfExists(n: JsonNode, name: string, default: seq[JsonNode] = @[]): seq[JsonNode] =
-  result = default
-  if n.hasKey(name) and n[name].kind == JArray:
-    result = n[name].elems
-
-proc checkPackages(newPackagesPath: string, oldPackagesPath: string, checkUrls: bool = false): int =
+proc checkPackages(newPackagesPath: string, oldPackagesPath: string, checkUrls: bool = false,
+                   checkPr: bool = false): int =
   var oldPackagesTable = initTable[string, JsonNode]()
-  if oldPackagesPath != "":
-    let oldPackagesJson = parseJson(readFile(oldPackagesPath))
-    for oldPkg in oldPackagesJson:
-      let oldNameNorm = oldPkg.getStrIfExists("name").normalize()
-      if oldNameNorm != "":
-        oldPackagesTable[oldNameNorm] = oldPkg
+  var mergeBase = ""
+  var newPackageNames: seq[string]
+  var modifiedExistingNames: seq[string]
+  var removedPackageNames: seq[string]
+  if checkPr:
+    let prDiff = loadPrDiff(newPackagesPath)
+    oldPackagesTable = prDiff.oldPackagesTable
+    mergeBase = prDiff.mergeBase
+    newPackageNames = prDiff.newPackageNames
+    modifiedExistingNames = prDiff.modifiedExistingNames
+    removedPackageNames = prDiff.removedPackageNames
+  else:
+    oldPackagesTable = loadOldPackagesTable(oldPackagesPath)
 
   let newPackagesJson = parseJson(readFile(newPackagesPath))
+  doAssert newPackagesJson.kind == JArray
   # Do a first pass through the list to count duplicate names
   var packageNameCounter = initCountTable[string]()
   for pkg in newPackagesJson:
@@ -109,6 +215,19 @@ proc checkPackages(newPackagesPath: string, oldPackagesPath: string, checkUrls: 
 
   var modifiedPackagesCount = 0
   var failedPackagesCount = 0
+  if checkPr and newPackageNames.len > 0 and (modifiedExistingNames.len > 0 or removedPackageNames.len > 0):
+    echo "E: PRs that add new packages may not also modify or remove existing packages"
+    if modifiedExistingNames.len > 0:
+      echo "E: Modified existing packages: ", modifiedExistingNames.join(", ")
+    if removedPackageNames.len > 0:
+      echo "E: Removed existing packages: ", removedPackageNames.join(", ")
+    inc failedPackagesCount
+
+  if checkPr:
+    for errorMsg in checkPrSharding(newPackageNames, mergeBase):
+      echo "E: ", errorMsg
+      inc failedPackagesCount
+
   for pkg in newPackagesJson:
     var success = true  # Set to false by logPackageError
     let pkgName = pkg.getStrIfExists("name")
@@ -197,7 +316,12 @@ proc checkPackages(newPackagesPath: string, oldPackagesPath: string, checkUrls: 
     client.close()
 
   echo ""
-  if oldPackagesPath != "":
+  if checkPr:
+    echo "Compared against merge base ", mergeBase
+    echo "Found ", newPackageNames.len, " new package(s), ",
+      modifiedExistingNames.len, " modified existing package(s), and ",
+      removedPackageNames.len, " removed package(s)"
+  elif oldPackagesPath != "":
     echo "Found ", modifiedPackagesCount, " modified package(s)"
   echo "Problematic packages count: ", failedPackagesCount
   if failedPackagesCount > 0:
@@ -209,6 +333,7 @@ proc cliMain(): int =
   var newPackagesPath = ""
   var oldPackagesPath = ""
   var checkUrls = false
+  var checkPr = false
   while true:
     parser.next()
     case parser.kind:
@@ -218,6 +343,8 @@ proc cliMain(): int =
         oldPackagesPath = parser.val
       elif parser.key == "check-urls":
         checkUrls = true
+      elif parser.key == "check-pr":
+        checkPr = true
       elif parser.key == "help":
         echo usage
         return 0
@@ -232,7 +359,11 @@ proc cliMain(): int =
     echo usage
     return 1
 
-  result = checkPackages(newPackagesPath, oldPackagesPath, checkUrls)
+  if checkPr and oldPackagesPath != "":
+    echo "Cannot use --old and --check-pr together"
+    return 1
+
+  result = checkPackages(newPackagesPath, oldPackagesPath, checkUrls, checkPr)
 
 when isMainModule:
   quit(cliMain())

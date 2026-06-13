@@ -1,0 +1,13 @@
+{
+  "name": "torim",
+  "url": "https://github.com/Techno-Fox/torim",
+  "method": "git",
+  "tags": [
+    "tor",
+    "hiddenservice"
+  ],
+  "description": "Updated version of tor.nim from https://github.com/FedericoCeratto/nim-tor",
+  "license": "GPL-3.0",
+  "web": "https://github.com/Techno-Fox/torim",
+  "doc": "https://github.com/Techno-Fox/torim"
+}

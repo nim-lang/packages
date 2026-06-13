@@ -1,0 +1,13 @@
+{
+  "name": "sat",
+  "url": "https://github.com/nim-lang/sat",
+  "method": "git",
+  "tags": [
+    "sat",
+    "official",
+    "solver"
+  ],
+  "description": "A SAT solver written in Nim.",
+  "license": "MIT",
+  "web": "https://github.com/nim-lang/sat"
+}

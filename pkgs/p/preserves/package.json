@@ -1,0 +1,14 @@
+{
+  "name": "preserves",
+  "url": "https://git.syndicate-lang.org/ehmry/preserves-nim",
+  "method": "git",
+  "tags": [
+    "binary",
+    "library",
+    "serialization",
+    "syndicate"
+  ],
+  "description": "Preserves data model and serialization format",
+  "license": "ISC",
+  "web": "https://preserves.gitlab.io/preserves/"
+}

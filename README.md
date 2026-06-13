@@ -89,7 +89,92 @@ For example:
 ...
 ```
 
+## Sharded package metadata
+
+This repo now supports per-package metadata files under:
+
+```text
+pkgs/<first-letter>/<package-name>/package.json
+```
+
+For example:
+
+```text
+pkgs/a/AccurateSums/package.json
+pkgs/n/nimble/package.json
+```
+
+The long-term direction is for this sharded `pkgs/` layout to become the
+canonical source of package metadata.
+
+For now, this repository keeps both `packages.json` and `pkgs/` in sync-git to
+support existing tooling and workflows that still update `packages.json`
+directly, including current `nimble publish` behavior.
+
+Split `packages.json` into shard files:
+
+```sh
+nim r package_index.nim split packages.json pkgs
+```
+
+Add one package from an existing metadata JSON file:
+
+```sh
+nim r package_index.nim add path/to/package.json pkgs packages.json
+```
+
+Create one package interactively:
+
+```sh
+nim r package_index.nim create pkgs packages.json
+```
+
+This prompts for the package metadata fields, writes the new package into
+`pkgs/` first, and then regenerates `packages.json` from the sharded metadata.
+
+Remove one package:
+
+```sh
+nim r package_index.nim remove PackageName pkgs packages.json
+```
+
+Build `packages.json` from those shard folders:
+
+```sh
+nim r package_index.nim
+```
+
+The combine step also validates each shard's JSON metadata shape before writing
+the merged manifest.
+
+In CI, PR validation is handled by the scanner directly from the git merge base:
+
+```sh
+nim test
+```
+
+On push, CI also keeps `packages.json` and `pkgs/` in sync-git by generating the
+missing counterpart when it can determine a single authoritative side.
+
+The current push-sync rules are:
+
+* if only `packages.json` changed, CI regenerates `pkgs/`
+* if only `pkgs/` changed, CI regenerates `packages.json`
+* if both changed and already agree, CI accepts them as-is
+* if the checked-out tree inherited one-sided drift from an earlier commit,
+  CI repairs the missing side when the changed side is a strict superset of the
+  unchanged side and all overlapping package metadata matches
+* if both sides contain conflicting metadata, CI fails and requires a manual
+  fix
+
+The test suite lives under `tests/` and can be run locally with:
+
+```sh
+nim test
+```
+
 # License
 
 * `package_scanner.nim` - [GPLv3](LICENSE-GPLv3.txt)
 * Everything else - [CC-BY-4.0](LICENSE.txt)
+

@@ -1,0 +1,15 @@
+{
+  "name": "treesitter_ruby",
+  "url": "https://github.com/genotrance/nimtreesitter?subdir=treesitter_ruby",
+  "method": "git",
+  "tags": [
+    "tree-sitter",
+    "ruby",
+    "parser",
+    "language",
+    "code"
+  ],
+  "description": "Nim wrapper for Ruby language support within tree-sitter",
+  "license": "MIT",
+  "web": "https://github.com/genotrance/nimtreesitter"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "wlroots",
+  "url": "https://github.com/j-james/nim-wlroots",
+  "method": "git",
+  "tags": [
+    "wayland",
+    "wlroots",
+    "wrapper",
+    "library"
+  ],
+  "description": "Nim bindings for wlroots",
+  "license": "MIT",
+  "web": "https://github.com/j-james/nim-wlroots"
+}

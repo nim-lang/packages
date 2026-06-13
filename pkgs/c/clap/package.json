@@ -1,0 +1,17 @@
+{
+  "name": "clap",
+  "url": "https://github.com/NimAudio/nim-clap",
+  "method": "git",
+  "tags": [
+    "audio",
+    "plugin",
+    "audio-plugin",
+    "clap",
+    "clap-plugin",
+    "wrapper",
+    "sound"
+  ],
+  "description": "Clap audio plugin bindings",
+  "license": "MIT",
+  "web": "https://github.com/NimAudio/nim-clap"
+}

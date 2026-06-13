@@ -1,0 +1,11 @@
+{
+  "name": "variant",
+  "url": "https://github.com/yglukhov/variant.git",
+  "method": "git",
+  "tags": [
+    "variant"
+  ],
+  "description": "Variant type and type matching",
+  "license": "MIT",
+  "web": "https://github.com/yglukhov/variant"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "colorizeEcho",
+  "url": "https://github.com/s3pt3mb3r/colorizeEcho",
+  "method": "git",
+  "tags": [
+    "windows",
+    "commandprompt",
+    "color",
+    "output",
+    "debug"
+  ],
+  "description": "colorizeEcho is a package which colorize echo message on Windows command prompt.",
+  "license": "MIT",
+  "web": "https://github.com/s3pt3mb3r/colorizeEcho"
+}

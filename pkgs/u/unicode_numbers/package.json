@@ -1,0 +1,14 @@
+{
+  "name": "unicode_numbers",
+  "url": "https://github.com/Aearnus/unicode_numbers",
+  "method": "git",
+  "tags": [
+    "library",
+    "string",
+    "format",
+    "unicode"
+  ],
+  "description": "Converts a number into a specially formatted Unicode string",
+  "license": "MIT",
+  "web": "https://github.com/Aearnus/unicode_numbers"
+}

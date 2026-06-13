@@ -1,0 +1,12 @@
+{
+  "name": "nfind",
+  "url": "https://github.com/Graveflo/nfind.git",
+  "method": "git",
+  "tags": [
+    "glob",
+    "find"
+  ],
+  "description": "glob library and find tool",
+  "license": "MIT",
+  "web": "https://github.com/Graveflo/nfind"
+}

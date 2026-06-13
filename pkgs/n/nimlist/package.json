@@ -1,0 +1,13 @@
+{
+  "name": "nimlist",
+  "url": "https://github.com/flenniken/nimlist",
+  "method": "git",
+  "tags": [
+    "cli",
+    "terminal",
+    "html"
+  ],
+  "description": "View nim packages in your browser.",
+  "license": "MIT",
+  "web": "https://github.com/flenniken/nimlist"
+}

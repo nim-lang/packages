@@ -1,0 +1,15 @@
+{
+  "name": "waterpark",
+  "url": "https://github.com/guzba/waterpark",
+  "method": "git",
+  "tags": [
+    "threads",
+    "postgres",
+    "sqlite",
+    "mysql",
+    "database"
+  ],
+  "description": "Thread-safe database connection pools",
+  "license": "MIT",
+  "web": "https://github.com/guzba/waterpark"
+}

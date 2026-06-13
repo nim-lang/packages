@@ -1,0 +1,13 @@
+{
+  "name": "nimates",
+  "url": "https://github.com/jamesalbert/nimates",
+  "method": "git",
+  "tags": [
+    "library",
+    "postmates",
+    "delivery"
+  ],
+  "description": "Client library for the Postmates API",
+  "license": "Apache",
+  "web": "https://github.com/jamesalbert/nimates"
+}

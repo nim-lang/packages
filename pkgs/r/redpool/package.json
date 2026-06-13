@@ -1,0 +1,12 @@
+{
+  "name": "redpool",
+  "url": "https://github.com/zedeus/redpool",
+  "method": "git",
+  "tags": [
+    "redis",
+    "pool"
+  ],
+  "description": "Redis connection pool",
+  "license": "MIT",
+  "web": "https://github.com/zedeus/redpool"
+}

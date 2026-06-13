@@ -1,0 +1,15 @@
+{
+  "name": "stack_strings",
+  "url": "https://github.com/termermc/nim-stack-strings/",
+  "method": "git",
+  "tags": [
+    "stack",
+    "zero-allocation",
+    "string",
+    "openArray"
+  ],
+  "description": "Library for guaranteed zero heap allocation strings ",
+  "license": "MIT",
+  "web": "https://github.com/termermc/nim-stack-strings/",
+  "doc": "https://docs.termer.net/nim/stack_strings/"
+}

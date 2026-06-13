@@ -1,0 +1,16 @@
+{
+  "name": "razor",
+  "url": "https://github.com/navid-m/razor",
+  "method": "git",
+  "tags": [
+    "pandas",
+    "polars",
+    "data-science",
+    "dataframe",
+    "dataframes",
+    "library"
+  ],
+  "description": "Library for data analysis and manipulation, equivalent to Pandas.",
+  "license": "GPL-3.0-only",
+  "web": "https://github.com/navid-m/razor"
+}

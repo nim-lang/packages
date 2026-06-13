@@ -1,0 +1,14 @@
+{
+  "name": "triplets",
+  "url": "https://github.com/linksplatform/Data.Triplets",
+  "method": "git",
+  "tags": [
+    "triplets",
+    "database",
+    "C",
+    "bindings"
+  ],
+  "description": "The Nim bindings for linksplatform/Data.Triplets.Kernel.",
+  "license": "AGPLv3",
+  "web": "https://github.com/linksplatform/Data.Triplets"
+}

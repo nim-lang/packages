@@ -1,0 +1,17 @@
+{
+  "name": "ndbex",
+  "url": "https://github.com/Senketsu/nim-db-ex",
+  "method": "git",
+  "tags": [
+    "extension",
+    "database",
+    "convenience",
+    "db",
+    "mysql",
+    "postgres",
+    "sqlite"
+  ],
+  "description": "extension modules for Nim's 'db_*' modules",
+  "license": "MIT",
+  "web": "https://github.com/Senketsu/nim-db-ex"
+}

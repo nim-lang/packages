@@ -1,0 +1,13 @@
+{
+  "name": "asyncmysql",
+  "url": "https://github.com/tulayang/asyncmysql",
+  "method": "git",
+  "tags": [
+    "mysql",
+    "async",
+    "asynchronous"
+  ],
+  "description": "Asynchronous MySQL connector written in pure Nim",
+  "license": "MIT",
+  "web": "https://github.com/tulayang/asyncmysql"
+}

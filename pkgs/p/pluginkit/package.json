@@ -1,0 +1,17 @@
+{
+  "name": "pluginkit",
+  "url": "https://github.com/openpeeps/pluginkit",
+  "method": "git",
+  "tags": [
+    "plugins",
+    "lib",
+    "sharedlib",
+    "dynlib",
+    "plugin",
+    "modular",
+    "pluginsystem"
+  ],
+  "description": "Create and manage plugins in a modular way",
+  "license": "MIT",
+  "web": "https://github.com/openpeeps/pluginkit"
+}

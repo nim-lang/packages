@@ -1,0 +1,14 @@
+{
+  "name": "serial",
+  "url": "https://github.com/euantorano/serial.nim",
+  "method": "git",
+  "tags": [
+    "serial",
+    "rs232",
+    "io",
+    "serialport"
+  ],
+  "description": "A library to operate serial ports using pure Nim.",
+  "license": "BSD3",
+  "web": "https://github.com/euantorano/serial.nim"
+}

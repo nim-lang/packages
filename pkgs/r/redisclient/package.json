@@ -1,0 +1,14 @@
+{
+  "name": "redisclient",
+  "url": "https://github.com/xmonader/nim-redisclient",
+  "method": "git",
+  "tags": [
+    "redis",
+    "client",
+    "protocol",
+    "resp"
+  ],
+  "description": "Redis client for Nim",
+  "license": "Apache2",
+  "web": "https://github.com/xmonader/nim-redisclient"
+}

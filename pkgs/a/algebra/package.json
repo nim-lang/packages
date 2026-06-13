@@ -1,0 +1,15 @@
+{
+  "name": "algebra",
+  "url": "https://github.com/refaqtor/nim-algebra",
+  "method": "git",
+  "tags": [
+    "algebra",
+    "parse",
+    "evaluate",
+    "mathematics",
+    "deleted"
+  ],
+  "description": "Algebraic expression parser and evaluator",
+  "license": "CC0",
+  "web": "https://github.com/refaqtor/nim-algebra"
+}

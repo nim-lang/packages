@@ -1,0 +1,12 @@
+{
+  "name": "statictea",
+  "url": "https://github.com/flenniken/statictea",
+  "method": "git",
+  "tags": [
+    "template system",
+    "language"
+  ],
+  "description": "A template processor and language.",
+  "license": "MIT",
+  "web": "https://github.com/flenniken/statictea"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "nico",
+  "url": "https://github.com/ftsf/nico",
+  "method": "git",
+  "tags": [
+    "pico-8",
+    "game",
+    "library",
+    "ludum",
+    "dare"
+  ],
+  "description": "Nico game engine",
+  "license": "MIT",
+  "web": "https://github.com/ftsf/nico"
+}

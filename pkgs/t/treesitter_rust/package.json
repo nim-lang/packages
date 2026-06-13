@@ -1,0 +1,15 @@
+{
+  "name": "treesitter_rust",
+  "url": "https://github.com/genotrance/nimtreesitter?subdir=treesitter_rust",
+  "method": "git",
+  "tags": [
+    "tree-sitter",
+    "rust",
+    "parser",
+    "language",
+    "code"
+  ],
+  "description": "Nim wrapper for Rust language support within tree-sitter",
+  "license": "MIT",
+  "web": "https://github.com/genotrance/nimtreesitter"
+}

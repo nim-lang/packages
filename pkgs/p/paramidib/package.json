@@ -1,0 +1,15 @@
+{
+  "name": "paramidib",
+  "url": "https://github.com/pietroppeter/paramidib",
+  "method": "git",
+  "tags": [
+    "midi",
+    "music",
+    "wav",
+    "nimib",
+    "paramidi"
+  ],
+  "description": "paramidi with nimib",
+  "license": "MIT",
+  "web": "https://github.com/pietroppeter/paramidib"
+}

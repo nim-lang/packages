@@ -1,0 +1,13 @@
+{
+  "name": "mongrel2",
+  "url": "https://github.com/mahlonsmith/nim-mongrel2",
+  "method": "git",
+  "tags": [
+    "mongrel2",
+    "library",
+    "www"
+  ],
+  "description": "Handler framework for the Mongrel2 web server.",
+  "license": "MIT",
+  "web": "https://github.com/mahlonsmith/nim-mongrel2"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "testrunner",
+  "url": "https://github.com/FedericoCeratto/nim-testrunner",
+  "method": "git",
+  "tags": [
+    "test",
+    "tests",
+    "unittest",
+    "utility",
+    "tdd"
+  ],
+  "description": "Test runner with file monitoring and desktop notification capabilities",
+  "license": "GPLv3",
+  "web": "https://github.com/FedericoCeratto/nim-testrunner"
+}

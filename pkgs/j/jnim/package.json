@@ -1,0 +1,15 @@
+{
+  "name": "jnim",
+  "url": "https://github.com/yglukhov/jnim",
+  "method": "git",
+  "tags": [
+    "library",
+    "java",
+    "jvm",
+    "bridge",
+    "bindings"
+  ],
+  "description": "Nim - Java bridge",
+  "license": "MIT",
+  "web": "https://github.com/yglukhov/jnim"
+}

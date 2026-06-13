@@ -1,0 +1,15 @@
+{
+  "name": "jesterwithplugins",
+  "url": "https://github.com/JohnAD/jesterwithplugins/",
+  "method": "git",
+  "tags": [
+    "web",
+    "http",
+    "framework",
+    "dsl",
+    "plugins"
+  ],
+  "description": "A sinatra-like web framework for Nim with plugins.",
+  "license": "MIT",
+  "web": "https://github.com/JohnAD/jesterwithplugins/"
+}
