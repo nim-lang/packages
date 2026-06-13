@@ -15354,7 +15354,7 @@
   },
   {
     "name": "nim_miniz",
-    "url": "git@git.sr.ht:~h3rald/nim-miniz",
+    "url": "https://git.sr.ht/~h3rald/nim-miniz",
     "method": "git",
     "tags": [
       "zip",
@@ -15364,7 +15364,7 @@
     ],
     "description": "Nim wrapper for miniz",
     "license": "MIT",
-    "web": "git@git.sr.ht:~h3rald/nim-miniz"
+    "web": "https://git.sr.ht/~h3rald/nim-miniz"
   },
   {
     "name": "unsplash",
