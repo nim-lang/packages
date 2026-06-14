@@ -3853,7 +3853,7 @@
   },
   {
     "name": "hastyscribe",
-    "url": "https://github.com/h3rald/hastyscribe",
+    "url": "https://git.sr.ht/~h3rald/hastyscribe",
     "method": "git",
     "tags": [
       "markdown",
@@ -3866,7 +3866,7 @@
   },
   {
     "name": "hastysite",
-    "url": "https://github.com/h3rald/hastysite",
+    "url": "https://git.sr.ht/~h3rald/hastysite",
     "method": "git",
     "tags": [
       "markdown",
@@ -6055,7 +6055,7 @@
   },
   {
     "name": "litestore",
-    "url": "https://github.com/h3rald/litestore",
+    "url": "https://git.sr.ht/~h3rald/litestore",
     "method": "git",
     "tags": [
       "database",
@@ -8053,7 +8053,7 @@
   },
   {
     "name": "pls",
-    "url": "https://github.com/h3rald/pls",
+    "url": "https://git.sr.ht/~h3rald/pls",
     "method": "git",
     "tags": [
       "task-runner",
@@ -8065,7 +8065,7 @@
   },
   {
     "name": "mn",
-    "url": "https://github.com/h3rald/mn",
+    "url": "https://git.sr.ht/~h3rald/mn",
     "method": "git",
     "tags": [
       "concatenative",
@@ -8078,7 +8078,7 @@
   },
   {
     "name": "min",
-    "url": "https://github.com/h3rald/min",
+    "url": "https://git.sr.ht/~h3rald/min",
     "method": "git",
     "tags": [
       "concatenative",
@@ -12107,7 +12107,7 @@
   },
   {
     "name": "nimhttpd",
-    "url": "https://github.com/h3rald/nimhttpd",
+    "url": "https://git.sr.ht/~h3rald/nimhttpd",
     "method": "git",
     "tags": [
       "web-server",
@@ -12117,7 +12117,7 @@
     ],
     "description": "A tiny static file web server.",
     "license": "MIT",
-    "web": "https://github.com/h3rald/nimhttpd"
+    "web": "https://h3rald.com/nimhttpd"
   },
   {
     "name": "crc32",
@@ -14401,7 +14401,7 @@
   },
   {
     "name": "nifty",
-    "url": "https://github.com/h3rald/nifty",
+    "url": "https://git.sr.ht/~h3rald/nifty",
     "method": "git",
     "tags": [
       "package-manager",
@@ -14409,7 +14409,7 @@
     ],
     "description": "A decentralized (pseudo) package manager and script runner.",
     "license": "MIT",
-    "web": "https://github.com/h3rald/nifty"
+    "web": "https://h3rald.com/nifty"
   },
   {
     "name": "urlshortener",
@@ -15354,7 +15354,7 @@
   },
   {
     "name": "nim_miniz",
-    "url": "https://github.com/h3rald/nim-miniz",
+    "url": "https://git.sr.ht/~h3rald/nim-miniz",
     "method": "git",
     "tags": [
       "zip",
@@ -15364,7 +15364,7 @@
     ],
     "description": "Nim wrapper for miniz",
     "license": "MIT",
-    "web": "https://github.com/h3rald/nim-miniz"
+    "web": "https://git.sr.ht/~h3rald/nim-miniz"
   },
   {
     "name": "unsplash",
@@ -23532,7 +23532,7 @@
   },
   {
     "name": "fae",
-    "url": "https://github.com/h3rald/fae",
+    "url": "https://git.sr.ht/~h3rald/fae",
     "method": "git",
     "tags": [
       "cli",
@@ -23544,7 +23544,7 @@
     ],
     "description": "Find and Edit Utility",
     "license": "MIT",
-    "web": "https://github.com/h3rald/fae"
+    "web": "https://h3rald.com/fae"
   },
   {
     "name": "discord_rpc",
@@ -32588,7 +32588,7 @@
   },
   {
     "name": "minline",
-    "url": "https://github.com/h3rald/minline",
+    "url": "https://git.sr.ht/~h3rald/minline",
     "method": "git",
     "tags": [
       "command-line",
@@ -32599,7 +32599,7 @@
     ],
     "description": "A line editing library in pure Nim",
     "license": "MIT",
-    "web": "https://github.com/h3rald/minline"
+    "web": "https://h3rald.com/minline"
   },
   {
     "name": "battinfo",
