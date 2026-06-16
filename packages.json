@@ -39377,5 +39377,18 @@
     "description": "2d game engine for Nim, inspired by Love2d (SDL3 / SDL_GPU)",
     "license": "zlib",
     "web": "https://github.com/nim2d/nim2d"
+  },
+  {
+    "name": "chronos_file",
+    "url": "https://github.com/fox0430/chronos-file",
+    "method": "git",
+    "tags": [
+      "async",
+      "chronos",
+      "file"
+    ],
+    "description": "Asynchronous file I/O for chronos",
+    "license": "MIT",
+    "web": "https://github.com/fox0430/chronos-file"
   }
 ]
