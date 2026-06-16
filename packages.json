@@ -39390,5 +39390,26 @@
     "description": "Asynchronous file I/O for chronos",
     "license": "MIT",
     "web": "https://github.com/fox0430/chronos-file"
+  },
+  {
+    "name": "powpow",
+    "url": "https://github.com/openpeeps/powpow",
+    "method": "git",
+    "tags": [
+      "http",
+      "server",
+      "udp",
+      "unix",
+      "zero-copy",
+      "tcp",
+      "posix",
+      "websocket",
+      "event-driven",
+      "epoll",
+      "kqueue"
+    ],
+    "description": "High-performance event notification library for Nim",
+    "license": "LGPL-3.0-or-later",
+    "web": "https://github.com/openpeeps/powpow"
   }
 ]
