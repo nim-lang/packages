@@ -39411,5 +39411,19 @@
     "description": "High-performance event notification library for Nim",
     "license": "LGPL-3.0-or-later",
     "web": "https://github.com/openpeeps/powpow"
+  },
+  {
+    "name": "hate5d",
+    "url": "https://github.com/MarkArchive/hate5d",
+    "method": "git",
+    "tags": [
+      "love-like",
+      "sdl2",
+      "game-engine",
+      "engine"
+    ],
+    "description": "häte5d: a lightweight moddable 2D game engine for Nim",
+    "license": "LGPL-3.0",
+    "web": "https://github.com/MarkArchive/hate5d"
   }
 ]
