@@ -39426,5 +39426,18 @@
     "description": "Cross-platform desktop notifications for Nim via native APIs (D-Bus, NSUserNotificationCenter, Shell_NotifyIcon)",
     "license": "MIT",
     "web": "https://github.com/capocasa/tinotify"
+  },
+  {
+    "name": "narrow",
+    "url": "https://github.com/BontaVlad/narrow",
+    "method": "git",
+    "tags": [
+      "arrow",
+      "data",
+      "analytics"
+    ],
+    "description": "A Nim wrapper around the Apache Arrow C API.",
+    "license": "MIT",
+    "web": "https://github.com/BontaVlad/narrow"
   }
 ]
