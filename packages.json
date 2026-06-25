@@ -39439,5 +39439,17 @@
     "description": "A Nim wrapper around the Apache Arrow C API.",
     "license": "MIT",
     "web": "https://github.com/BontaVlad/narrow"
+  },
+  {
+    "name": "bigint",
+    "url": "https://github.com/DavidBalishyan/nim-bigint",
+    "method": "git",
+    "tags": [
+      "library",
+      "utility"
+    ],
+    "description": "Arbitrary-precision integer library for Nim",
+    "license": "MIT",
+    "web": "https://github.com/DavidBalishyan/nim-bigint"
   }
 ]
