@@ -39439,5 +39439,19 @@
     "description": "A Nim wrapper around the Apache Arrow C API.",
     "license": "MIT",
     "web": "https://github.com/BontaVlad/narrow"
+  },
+  {
+    "name": "nimbox",
+    "url": "https://github.com/capocasa/nimbox",
+    "method": "git",
+    "tags": [
+      "landlock",
+      "sandbox",
+      "security",
+      "linux"
+    ],
+    "description": "A filesystem sandbox backed by Linux Landlock",
+    "license": "MIT",
+    "web": "https://github.com/capocasa/nimbox"
   }
 ]
