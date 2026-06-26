@@ -39439,5 +39439,20 @@
     "description": "A Nim wrapper around the Apache Arrow C API.",
     "license": "MIT",
     "web": "https://github.com/BontaVlad/narrow"
+  },
+  {
+    "name": "nimsodium",
+    "url": "https://github.com/puffball1567/nimsodium",
+    "method": "git",
+    "tags": [
+      "crypto",
+      "cryptography",
+      "security",
+      "libsodium",
+      "encryption"
+    ],
+    "description": "Safe high-level libsodium wrapper for Nim applications",
+    "license": "MIT",
+    "web": "https://github.com/puffball1567/nimsodium"
   }
 ]
