@@ -39454,5 +39454,27 @@
     "description": "Safe high-level libsodium wrapper for Nim applications",
     "license": "MIT",
     "web": "https://github.com/puffball1567/nimsodium"
+  },
+  {
+    "name": "sonaliwan",
+    "url": "https://github.com/lipunila-sonaliwan-fr/nim.sonaliwan",
+    "method": "git",
+    "tags": [
+      "LPCS",
+      "Lab'Oratoire",
+      "sonaliwan",
+      "parser",
+      "grammar",
+      "linguistic",
+      "french",
+      "english",
+      "toki pona",
+      "security",
+      "pentesting",
+      "cli"
+    ],
+    "description": "Parser is a syntactic analyzer based on a formal grammar. It verifies that a string adheres to defined rules and generates its syntax tree. It is lightweight, extensible, and suitable for analyzing text, code, or structured data.",
+    "license": "CC BY-NC-SA 4.0",
+    "web": "https://github.com/lipunila-sonaliwan-fr/nim.sonaliwan"
   }
 ]
