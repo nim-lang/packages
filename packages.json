@@ -39476,5 +39476,20 @@
     "description": "Parser is a syntaxtic analyzer based on a formal grammar. It verifies that a string adheres to defined rules and generates its syntax tree. It is lightweight, extensible, and suitable for analyzing text, code, or structured data.",
     "license": "CC BY-NC-SA 4.0",
     "web": "https://github.com/lipunila-sonaliwan-fr/nim.sonaliwan"
+  },
+  {
+    "name": "yyjson",
+    "url": "https://github.com/zystem/nim-yyjson",
+    "method": "git",
+    "tags": [
+      "json",
+      "parser",
+      "yyjson",
+      "wrapper",
+      "bindings"
+    ],
+    "description": "Thin Nim bindings for yyjson with a small idiomatic high-level API",
+    "license": "MIT",
+    "web": "https://github.com/zystem/nim-yyjson"
   }
 ]
