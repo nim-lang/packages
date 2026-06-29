@@ -39456,6 +39456,84 @@
     "web": "https://github.com/puffball1567/nimsodium"
   },
   {
+    "name": "flowbrigade",
+    "url": "https://github.com/puffball1567/flowbrigade",
+    "method": "git",
+    "tags": [
+      "flow-control",
+      "retry",
+      "rate-limit",
+      "backoff",
+      "resilience",
+      "timeout"
+    ],
+    "description": "Flow control utilities for Nim.",
+    "license": "Apache-2.0",
+    "web": "https://github.com/puffball1567/flowbrigade"
+  },
+  {
+    "name": "flowbrigade_redis",
+    "url": "https://github.com/puffball1567/flowbrigade",
+    "method": "git",
+    "tags": [
+      "redis",
+      "rate-limit",
+      "flow-control",
+      "adapter"
+    ],
+    "description": "Redis storage adapter for FlowBrigade rate limiting.",
+    "license": "Apache-2.0",
+    "web": "https://github.com/puffball1567/flowbrigade/tree/main/packages/flowbrigade_redis",
+    "subdir": "packages/flowbrigade_redis"
+  },
+  {
+    "name": "flowbrigade_ready",
+    "url": "https://github.com/puffball1567/flowbrigade",
+    "method": "git",
+    "tags": [
+      "redis",
+      "ready",
+      "rate-limit",
+      "flow-control",
+      "adapter"
+    ],
+    "description": "ready Redis client bridge for FlowBrigade rate limiting.",
+    "license": "Apache-2.0",
+    "web": "https://github.com/puffball1567/flowbrigade/tree/main/packages/flowbrigade_ready",
+    "subdir": "packages/flowbrigade_ready"
+  },
+  {
+    "name": "flowbrigade_memcached",
+    "url": "https://github.com/puffball1567/flowbrigade",
+    "method": "git",
+    "tags": [
+      "memcached",
+      "rate-limit",
+      "flow-control",
+      "adapter"
+    ],
+    "description": "Memcached storage adapter for FlowBrigade rate limiting.",
+    "license": "Apache-2.0",
+    "web": "https://github.com/puffball1567/flowbrigade/tree/main/packages/flowbrigade_memcached",
+    "subdir": "packages/flowbrigade_memcached"
+  },
+  {
+    "name": "flowbrigade_prologue",
+    "url": "https://github.com/puffball1567/flowbrigade",
+    "method": "git",
+    "tags": [
+      "prologue",
+      "middleware",
+      "rate-limit",
+      "flow-control",
+      "web"
+    ],
+    "description": "Prologue middleware bridge for FlowBrigade.",
+    "license": "Apache-2.0",
+    "web": "https://github.com/puffball1567/flowbrigade/tree/main/packages/flowbrigade_prologue",
+    "subdir": "packages/flowbrigade_prologue"
+  },
+  {
     "name": "sonaliwan",
     "url": "https://github.com/lipunila-sonaliwan-fr/nim.sonaliwan",
     "method": "git",
