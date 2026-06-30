@@ -39593,5 +39593,19 @@
     "description": "A cool toolkit for Nim developers",
     "license": "MIT",
     "web": "https://github.com/openpeeps/clue"
+  },
+  {
+    "name": "promlite",
+    "url": "https://github.com/zystem/nim-promlite",
+    "method": "git",
+    "tags": [
+      "metrics",
+      "prometheus",
+      "http",
+      "server"
+    ],
+    "description": "Snapshot-oriented library for small long-running Prometheus exporters",
+    "license": "MIT",
+    "web": "https://github.com/zystem/nim-promlite"
   }
 ]
