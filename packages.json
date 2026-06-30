@@ -39580,11 +39580,15 @@
       "library",
       "js",
       "ruby",
-      "native",
+      "lua",
       "plugin",
-      "module",
+      "python",
       "wrapper",
-      "node"
+      "node",
+      "bindings",
+      "toolkit",
+      "openapi",
+      "codegen"
     ],
     "description": "A cool toolkit for Nim developers",
     "license": "MIT",
