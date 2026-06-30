@@ -39593,5 +39593,20 @@
     "description": "A cool toolkit for Nim developers",
     "license": "MIT",
     "web": "https://github.com/openpeeps/clue"
+  },
+  {
+    "name": "fastcomments",
+    "url": "https://github.com/FastComments/fastcomments-nim",
+    "method": "git",
+    "tags": [
+      "commenting-system",
+      "comments",
+      "api",
+      "moderation",
+      "fastcomments"
+    ],
+    "description": "FastComments Nim SDK - A SDK for interacting with the FastComments API",
+    "license": "MIT",
+    "web": "https://github.com/FastComments/fastcomments-nim"
   }
 ]
