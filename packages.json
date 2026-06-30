@@ -39569,5 +39569,25 @@
     "description": "Thin Nim bindings for yyjson with a small idiomatic high-level API",
     "license": "MIT",
     "web": "https://github.com/zystem/nim-yyjson"
+  },
+  {
+    "name": "clue",
+    "url": "https://github.com/openpeeps/clue",
+    "method": "git",
+    "tags": [
+      "extension",
+      "php",
+      "library",
+      "js",
+      "ruby",
+      "native",
+      "plugin",
+      "module",
+      "wrapper",
+      "node"
+    ],
+    "description": "A cool toolkit for Nim developers",
+    "license": "MIT",
+    "web": "https://github.com/openpeeps/clue"
   }
 ]
