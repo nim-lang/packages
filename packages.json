@@ -39636,5 +39636,23 @@
     "description": "TUI code line statistics tool",
     "license": "MIT",
     "web": "https://github.com/pynickle/codestats"
+  },
+  {
+    "name": "nim_opentui",
+    "url": "https://github.com/hmbemba/nim-opentui",
+    "method": "git",
+    "tags": [
+      "tui",
+      "terminal",
+      "ui",
+      "ffi",
+      "wrapper",
+      "bindings",
+      "zig",
+      "opentui"
+    ],
+    "description": "Nim bindings for OpenTUI native Zig core",
+    "license": "MIT",
+    "web": "https://github.com/hmbemba/nim-opentui"
   }
 ]
