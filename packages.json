@@ -39595,6 +39595,20 @@
     "web": "https://github.com/openpeeps/clue"
   },
   {
+    "name": "promlite",
+    "url": "https://github.com/zystem/nim-promlite",
+    "method": "git",
+    "tags": [
+      "metrics",
+      "prometheus",
+      "http",
+      "server"
+    ],
+    "description": "Snapshot-oriented library for small long-running Prometheus exporters",
+    "license": "MIT",
+    "web": "https://github.com/zystem/nim-promlite"
+  },
+  {
     "name": "codestats",
     "url": "https://github.com/pynickle/codestats",
     "method": "git",
