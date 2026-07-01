@@ -39593,5 +39593,19 @@
     "description": "A cool toolkit for Nim developers",
     "license": "MIT",
     "web": "https://github.com/openpeeps/clue"
+  },
+  {
+    "name": "codestats",
+    "url": "https://github.com/pynickle/codestats",
+    "method": "git",
+    "tags": [
+      "cli",
+      "tui",
+      "code-stats",
+      "line-count"
+    ],
+    "description": "TUI code line statistics tool",
+    "license": "MIT",
+    "web": "https://github.com/pynickle/codestats"
   }
 ]
