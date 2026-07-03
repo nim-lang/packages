@@ -39654,5 +39654,19 @@
     "description": "Nim bindings for OpenTUI native Zig core",
     "license": "MIT",
     "web": "https://github.com/hmbemba/nim-opentui"
+  },
+  {
+    "name": "posixglob",
+    "url": "https://github.com/zystem/nim-posixglob",
+    "method": "git",
+    "tags": [
+      "glob",
+      "fnmatch",
+      "posix",
+      "library"
+    ],
+    "description": "Small POSIX glob pattern matcher for Nim, backed by libc fnmatch().",
+    "license": "MIT",
+    "web": "https://github.com/zystem/nim-posixglob"
   }
 ]
