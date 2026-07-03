@@ -39668,5 +39668,17 @@
     "description": "Small POSIX glob pattern matcher for Nim, backed by libc fnmatch().",
     "license": "MIT",
     "web": "https://github.com/zystem/nim-posixglob"
+  },
+  {
+    "name": "h3",
+    "url": "https://github.com/ayman-albaz/nim-h3",
+    "method": "git",
+    "tags": [
+      "geospatial",
+      "wrapper"
+    ],
+    "description": "Nim wrapper for H3 (v4) hierarchical hexagonal geospatial indexing."
+    "license": "Apache-2.0",
+    "web": "https://github.com/ayman-albaz/nim-h3",
   }
 ]
