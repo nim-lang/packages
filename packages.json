@@ -37983,6 +37983,21 @@
     "web": "https://github.com/canermastan/jazzy-framework"
   },
   {
+    "name": "jazzy_desktop",
+    "url": "https://github.com/canermastan/jazzy-desktop",
+    "method": "git",
+    "tags": [
+      "desktop",
+      "gui",
+      "webview",
+      "framework",
+      "frontend"
+    ],
+    "description": "Build lightning-fast, cross-platform desktop applications using Nim and modern web technologies.",
+    "license": "MIT",
+    "web": "https://github.com/canermastan/jazzy-desktop"
+  },
+  {
     "name": "nebble",
     "url": "https://github.com/Brokezawa/nebble",
     "method": "git",
