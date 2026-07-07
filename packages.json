@@ -39695,5 +39695,19 @@
     "description": "Nim wrapper for H3 (v4) hierarchical hexagonal geospatial indexing.",
     "license": "Apache-2.0",
     "web": "https://github.com/ayman-albaz/nim-h3"
+  },
+  {
+    "name": "niobium",
+    "url": "https://github.com/invector-tecnologia/niobium.git",
+    "method": "git",
+    "tags": [
+      "tui", 
+      "terminal", 
+      "ui",
+      "ratatui"    
+    ],
+    "description": "Ergonomic, immediate-mode Terminal User Interface library for Nim.",
+    "license": "AGPL-3.0",
+    "web": "https://github.com/invector-tecnologia/niobium"
   }
 ]
