@@ -39709,5 +39709,22 @@
     "description": "Ergonomic, immediate-mode Terminal User Interface library for Nim.",
     "license": "AGPL-3.0",
     "web": "https://github.com/invector-tecnologia/niobium"
+  },
+  {
+    "name": "rochedb",
+    "url": "https://github.com/puffball1567/rochedb",
+    "method": "git",
+    "tags": [
+      "database",
+      "nosql",
+      "document-store",
+      "vector",
+      "cli",
+      "storage"
+    ],
+    "description": "Ring-oriented NoSQL document/vector store for smaller working sets.",
+    "license": "Apache-2.0",
+    "web": "https://github.com/puffball1567/rochedb",
+    "doc": "https://puffball1567.github.io/rochedb/"
   }
 ]
