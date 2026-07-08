@@ -39701,10 +39701,10 @@
     "url": "https://github.com/invector-tecnologia/niobium.git",
     "method": "git",
     "tags": [
-      "tui", 
-      "terminal", 
+      "tui",
+      "terminal",
       "ui",
-      "ratatui"    
+      "ratatui"
     ],
     "description": "Ergonomic, immediate-mode Terminal User Interface library for Nim.",
     "license": "AGPL-3.0",
@@ -39726,5 +39726,20 @@
     "license": "Apache-2.0",
     "web": "https://github.com/puffball1567/rochedb",
     "doc": "https://puffball1567.github.io/rochedb/"
+  },
+  {
+    "name": "lumber",
+    "url": "https://github.com/cryo2010/nim-lumber",
+    "method": "git",
+    "tags": [
+      "json",
+      "logger",
+      "logging",
+      "log",
+      "lumber"
+    ],
+    "description": "A JSON logger and prettifier CLI",
+    "license": "MIT",
+    "web": "https://github.com/cryo2010/nim-lumber"
   }
 ]
