@@ -39697,7 +39697,7 @@
     "web": "https://github.com/ayman-albaz/nim-h3"
   },
   {
-    "name": "tatuí",
+    "name": "tatui",
     "url": "https://github.com/invector-tecnologia/tatui.git",
     "method": "git",
     "tags": [
@@ -39706,7 +39706,7 @@
       "ui",
       "ratatui"
     ],
-    "description": "Ergonomic, immediate-mode Terminal User Interface library for Nim.",
+    "description": "TATUÍ is a ergonomic, immediate-mode Terminal User Interface library for Nim.",
     "license": "AGPL-3.0",
     "web": "https://github.com/invector-tecnologia/tatui"
   },
