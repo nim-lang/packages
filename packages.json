@@ -39741,5 +39741,20 @@
     "description": "A JSON logger and prettifier CLI",
     "license": "MIT",
     "web": "https://github.com/cryo2010/nim-lumber"
+  },
+  {
+    "name": "hunim",
+    "url": "https://github.com/basswood-io/hunim",
+    "method": "git",
+    "tags": [
+      "static-site-generator",
+      "website",
+      "markdown",
+      "html",
+      "cli"
+    ],
+    "description": "Awesome static site generator for humans",
+    "license": "Unlicense",
+    "web": "https://hunim.org"
   }
 ]
