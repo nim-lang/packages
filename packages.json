@@ -39743,6 +39743,21 @@
     "web": "https://github.com/cryo2010/nim-lumber"
   },
   {
+    "name": "tinyfetch",
+    "url": "https://github.com/hello-btw/tinyfetch",
+    "method": "git",
+    "tags": [
+      "cli",
+      "fetch",
+      "system-info",
+      "tool",
+      "utility"
+    ],
+    "description": "A minimal system fetch tool",
+    "license": "GPL-3.0-or-later",
+    "web": "https://github.com/hello-btw/tinyfetch"
+  },
+  {
     "name": "hunim",
     "url": "https://github.com/basswood-io/hunim",
     "method": "git",
