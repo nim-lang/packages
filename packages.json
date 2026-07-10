@@ -39771,5 +39771,21 @@
     "description": "Awesome static site generator for humans",
     "license": "Unlicense",
     "web": "https://hunim.org"
+  },
+  {
+    "name": "sweetsyntax",
+    "url": "https://github.com/openpeeps/sweetsyntax",
+    "method": "git",
+    "tags": [
+      "parser",
+      "syntax",
+      "ast",
+      "generic",
+      "pratt",
+      "toolkit"
+    ],
+    "description": "A generic syntax highlighter, tokenizer, parser and AST explorer",
+    "license": "MIT",
+    "web": "https://github.com/openpeeps/sweetsyntax"
   }
 ]
