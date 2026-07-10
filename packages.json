@@ -38658,8 +38658,8 @@
     "web": "https://github.com/akvilary/fpdf"
   },
   {
-    "name": "starlight",
-    "url": "https://github.com/akvilary/starlight",
+    "name": "moonlight",
+    "url": "https://github.com/akvilary/moonlight",
     "method": "git",
     "tags": [
       "web",
@@ -38670,11 +38670,11 @@
       "template",
       "server",
       "chronos",
-      "starlight"
+      "moonlight"
     ],
     "description": "Super fast async SSR framework — type-safe layouts, zero-copy rendering, compile-time HTML optimization, uses Chronos",
     "license": "MIT",
-    "web": "https://github.com/akvilary/starlight"
+    "web": "https://github.com/akvilary/moonlight"
   },
   {
     "name": "td",
