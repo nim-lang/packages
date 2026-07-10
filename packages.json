@@ -39806,6 +39806,18 @@
     "web": "https://github.com/openpeeps/sweetsyntax"
   },
   {
+    "name": "sse",
+    "url": "https://github.com/Niminem/sse",
+    "method": "git",
+    "tags": [
+      "sse",
+      "server-sent-events"
+    ],
+    "description": "spec-compliant SSE library in nim, stdlib only",
+    "license": "MIT",
+    "web": "https://github.com/Niminem/sse"
+  },
+  {
     "name": "jschema",
     "url": "https://github.com/Niminem/jschema",
     "method": "git",
