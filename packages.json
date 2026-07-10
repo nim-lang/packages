@@ -39771,5 +39771,22 @@
     "description": "Awesome static site generator for humans",
     "license": "Unlicense",
     "web": "https://hunim.org"
+  },
+  {
+    "name": "squeezy",
+    "url": "https://github.com/openpeeps/squeezy",
+    "method": "git",
+    "tags": [
+      "minify",
+      "bundler",
+      "js",
+      "css",
+      "validator",
+      "web",
+      "mangler"
+    ],
+    "description": "JS & CSS validator, bundler and minifier",
+    "license": "MIT",
+    "web": "https://github.com/openpeeps/squeezy"
   }
 ]
