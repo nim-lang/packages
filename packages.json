@@ -39788,5 +39788,21 @@
     "description": "JS & CSS validator, bundler and minifier",
     "license": "MIT",
     "web": "https://github.com/openpeeps/squeezy"
+  },
+  {
+    "name": "sweetsyntax",
+    "url": "https://github.com/openpeeps/sweetsyntax",
+    "method": "git",
+    "tags": [
+      "parser",
+      "syntax",
+      "ast",
+      "generic",
+      "pratt",
+      "toolkit"
+    ],
+    "description": "A generic syntax highlighter, tokenizer, parser and AST explorer",
+    "license": "MIT",
+    "web": "https://github.com/openpeeps/sweetsyntax"
   }
 ]
