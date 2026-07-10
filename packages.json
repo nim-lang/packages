@@ -210,44 +210,6 @@
     "web": "https://github.com/Monsler/gpt4free"
   },
   {
-    "name": "commodore",
-    "url": "https://github.com/ph4mished/commodore",
-    "method": "git",
-    "tags": [
-      "commodore",
-      "cli",
-      "command-line",
-      "argument",
-      "argparse",
-      "optparse"
-    ],
-    "description": "Commodore is a simple CLI parsing library.",
-    "license": "MIT",
-    "web": "https://github.com/ph4mished/commodore"
-  },
-  {
-    "name": "caesar",
-    "url": "https://github.com/ph4mished/caesar",
-    "method": "git",
-    "tags": [
-      "caesar"
-    ],
-    "description": "A simple tool for caesar cipher encoding and decoding",
-    "license": "MIT",
-    "web": "https://github.com/ph4mished/caesar"
-  },
-  {
-    "name": "morse",
-    "url": "https://github.com/ph4mished/morse",
-    "method": "git",
-    "tags": [
-      "morse"
-    ],
-    "description": "A simple tool for morse encoding and decoding",
-    "license": "MIT",
-    "web": "https://github.com/ph4mished/morse"
-  },
-  {
     "name": "tabulator",
     "url": "https://github.com/erykjj/nim-tabulator",
     "method": "git",
@@ -406,26 +368,6 @@
     "description": "uleb128 decoding/encoding for Nim.",
     "license": "MIT",
     "web": "https://github.com/bk20x/uleb128"
-  },
-  {
-    "name": "huewheel",
-    "alias": "spectra"
-  },
-  {
-    "name": "spectra",
-    "url": "https://github.com/ph4mished/spectra",
-    "method": "git",
-    "tags": [
-      "cli",
-      "colorize",
-      "color",
-      "palettes",
-      "console",
-      "terminal"
-    ],
-    "description": "Spectra is a simple text coloring, styling and formatting library(terminal coloring).",
-    "license": "MIT",
-    "web": "https://github.com/ph4mished/spectra"
   },
   {
     "name": "sparc",
