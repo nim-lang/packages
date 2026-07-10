@@ -39816,5 +39816,19 @@
     "description": "spec-compliant SSE library in nim, stdlib only",
     "license": "MIT",
     "web": "https://github.com/Niminem/sse"
+  },
+  {
+    "name": "jschema",
+    "url": "https://github.com/Niminem/jschema",
+    "method": "git",
+    "tags": [
+      "json",
+      "schema",
+      "validator",
+      "builder"
+    ],
+    "description": "spec-compliant JSON Schema (draft 2020-12) validator and builder for Nim",
+    "license": "MIT",
+    "web": "https://github.com/Niminem/jschema"
   }
 ]
