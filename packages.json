@@ -39846,5 +39846,18 @@
     "description": "A Nim wrapper around the Rust foundry-compilers crate",
     "license": "MIT",
     "web": "https://github.com/RyanLaidlaw/foundry_compilers_nim"
+  },
+  {
+    "name": "combinatronics",
+    "url": "https://github.com/WaywardWizard/nim-combinatronics",
+    "method": "git",
+    "tags": [
+      "combinatronics",
+      "permutations",
+      "combinations"
+    ],
+    "description": "Efficiently generate permutations and combinations",
+    "license": "MIT",
+    "web": "https://github.com/WaywardWizard/nim-combinatronics"
   }
 ]
