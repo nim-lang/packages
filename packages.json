@@ -39830,5 +39830,19 @@
     "description": "spec-compliant JSON Schema (draft 2020-12) validator and builder for Nim",
     "license": "MIT",
     "web": "https://github.com/Niminem/jschema"
+  },
+  {
+    "name": "foundry_compilers_nim",
+    "url": "https://github.com/RyanLaidlaw/foundry_compilers_nim",
+    "method": "git",
+    "tags": [
+      "git",
+      "config",
+      "pull.rebase",
+      "false"
+    ],
+    "description": "A Nim wrapper around the Rust foundry-compilers crate",
+    "license": "MIT",
+    "web": "https://github.com/RyanLaidlaw/foundry_compilers_nim"
   }
 ]
