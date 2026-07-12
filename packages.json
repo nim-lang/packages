@@ -39859,5 +39859,20 @@
     "description": "Efficiently generate permutations and combinations",
     "license": "MIT",
     "web": "https://github.com/WaywardWizard/nim-combinatronics"
+  },
+  {
+    "name": "activitypub",
+    "url": "https://github.com/openpeeps/activitypub-nim",
+    "method": "git",
+    "tags": [
+      "federated",
+      "activitypub",
+      "web",
+      "social",
+      "protocol"
+    ],
+    "description": "ActivityPub library in Nim",
+    "license": "MIT",
+    "web": "https://github.com/openpeeps/activitypub-nim"
   }
 ]
