@@ -5377,6 +5377,24 @@
     "web": "https://github.com/andreaferretti/memo"
   },
   {
+    "name": "metronome",
+    "url": "https://github.com/titanomachy/Metronome",
+    "method": "git",
+    "tags": [
+      "scheduler",
+      "cron",
+      "jobs",
+      "time",
+      "interval",
+      "one-shot",
+      "async"
+    ],
+    "description": "A Nim library for interval, cron, and one-shot jobs.",
+    "license": "MIT",
+    "web": "https://github.com/titanomachy/Metronome",
+    "doc": "https://titanomachy.github.io/Metronome/metronome.html"
+  },
+  {
     "name": "base62",
     "url": "https://github.com/singularperturbation/base62-encode",
     "method": "git",
