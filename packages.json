@@ -1,5 +1,101 @@
 [
   {
+    "name": "flowcaptain",
+    "url": "https://github.com/puffball1567/flowcaptain",
+    "method": "git",
+    "tags": [
+      "flowbrigade-toolkit",
+      "workflow",
+      "orchestration",
+      "reporting",
+      "flow-analysis",
+      "metrics"
+    ],
+    "description": "Top-level orchestration and reporting layer for FlowBrigade Toolkit flows.",
+    "license": "Apache-2.0",
+    "web": "https://github.com/puffball1567/flowcaptain"
+  },
+  {
+    "name": "flowdependency",
+    "url": "https://github.com/puffball1567/flowdependency",
+    "method": "git",
+    "tags": [
+      "flowbrigade-toolkit",
+      "dependency-graph",
+      "workflow",
+      "dag",
+      "graph",
+      "planning"
+    ],
+    "description": "Dependency graph primitives for FlowBrigade Toolkit flows.",
+    "license": "Apache-2.0",
+    "web": "https://github.com/puffball1567/flowdependency"
+  },
+  {
+    "name": "flowworkrunner",
+    "url": "https://github.com/puffball1567/flowworkrunner",
+    "method": "git",
+    "tags": [
+      "flowbrigade-toolkit",
+      "workflow",
+      "runner",
+      "execution",
+      "tasks",
+      "parallel"
+    ],
+    "description": "In-process work runner primitives for FlowBrigade Toolkit graphs.",
+    "license": "Apache-2.0",
+    "web": "https://github.com/puffball1567/flowworkrunner"
+  },
+  {
+    "name": "flowlogbook",
+    "url": "https://github.com/puffball1567/flowlogbook",
+    "method": "git",
+    "tags": [
+      "flowbrigade-toolkit",
+      "ledger",
+      "workflow",
+      "resume",
+      "events",
+      "audit"
+    ],
+    "description": "Execution ledger and resume-decision primitives for repeatable tasks.",
+    "license": "Apache-2.0",
+    "web": "https://github.com/puffball1567/flowlogbook"
+  },
+  {
+    "name": "flowsurveyor",
+    "url": "https://github.com/puffball1567/flowsurveyor",
+    "method": "git",
+    "tags": [
+      "flowbrigade-toolkit",
+      "workflow",
+      "analysis",
+      "metrics",
+      "critical-path",
+      "bottleneck"
+    ],
+    "description": "Flow analysis primitives for FlowBrigade Toolkit graphs and events.",
+    "license": "Apache-2.0",
+    "web": "https://github.com/puffball1567/flowsurveyor"
+  },
+  {
+    "name": "flowgarage",
+    "url": "https://github.com/puffball1567/flowgarage",
+    "method": "git",
+    "tags": [
+      "flowbrigade-toolkit",
+      "workflow",
+      "reports",
+      "artifacts",
+      "markdown",
+      "json"
+    ],
+    "description": "Artifact and report assembly primitives for FlowBrigade Toolkit workflows.",
+    "license": "Apache-2.0",
+    "web": "https://github.com/puffball1567/flowgarage"
+  },
+  {
     "name": "nimrm",
     "url": "https://github.com/blue0x1/nimrm",
     "method": "git",
