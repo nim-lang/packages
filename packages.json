@@ -40038,5 +40038,16 @@
     "description": "A message queue library implementing ZMTP 3.0 in Nim",
     "license": "MIT",
     "web": "https://github.com/openpeeps/whiz"
+  },
+  {
+    "name": "gitignore",
+    "url": "https://github.com/Niminem/gitignore",
+    "method": "git",
+    "tags": [
+      "gitignore"
+    ],
+    "description": "dependency-free, spec-compliant gitignore parser and pattern matcher",
+    "license": "MIT",
+    "web": "https://github.com/Niminem/gitignore"
   }
 ]
