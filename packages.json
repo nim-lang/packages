@@ -40020,5 +40020,20 @@
     "description": "ActivityPub library in Nim",
     "license": "MIT",
     "web": "https://github.com/openpeeps/activitypub-nim"
+  },
+  {
+    "name": "whiz",
+    "url": "https://github.com/openpeeps/whiz",
+    "method": "git",
+    "tags": [
+      "zmq",
+      "protocol",
+      "message,",
+      "queue,",
+      "ipc"
+    ],
+    "description": "A message queue library implementing ZMTP 3.0 in Nim",
+    "license": "MIT",
+    "web": "https://github.com/openpeeps/whiz"
   }
 ]
