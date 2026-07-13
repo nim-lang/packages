@@ -40028,9 +40028,12 @@
     "tags": [
       "zmq",
       "protocol",
-      "message,",
-      "queue,",
-      "ipc"
+      "message",
+      "queue",
+      "ipc",
+      "messaging",
+      "zero-copy",
+      "socket"
     ],
     "description": "A message queue library implementing ZMTP 3.0 in Nim",
     "license": "MIT",
