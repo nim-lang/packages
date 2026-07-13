@@ -1,5 +1,37 @@
 [
   {
+    "name": "nifkit",
+    "url": "https://github.com/puffball1567/nifkit",
+    "method": "git",
+    "tags": [
+      "nif",
+      "bif",
+      "codec",
+      "serialization",
+      "c-abi",
+      "interop"
+    ],
+    "description": "Spec-based NIF/BIF toolkit for multiple languages.",
+    "license": "MIT",
+    "web": "https://github.com/puffball1567/nifkit"
+  },
+  {
+    "name": "rochedb_nif",
+    "url": "https://github.com/puffball1567/rochedb-nif",
+    "method": "git",
+    "tags": [
+      "rochedb",
+      "nif",
+      "bif",
+      "adapter",
+      "document-store",
+      "interop"
+    ],
+    "description": "Official NIF/BIF payload adapter for RocheDB.",
+    "license": "MIT",
+    "web": "https://github.com/puffball1567/rochedb-nif"
+  },
+  {
     "name": "flowcaptain",
     "url": "https://github.com/puffball1567/flowcaptain",
     "method": "git",
