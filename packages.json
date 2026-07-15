@@ -40072,5 +40072,20 @@
     "license": "AGPL-3.0-only",
     "web": "https://nimux.wiki",
     "doc": "https://docs.nimux.wiki"
+  },
+  {
+    "name": "krantz",
+    "url": "https://github.com/georgelemon/krantz",
+    "method": "git",
+    "tags": [
+      "shell",
+      "cli",
+      "zsh",
+      "unix",
+      "repl"
+    ],
+    "description": "A fast ZSH alternative",
+    "license": "MIT",
+    "web": "https://github.com/georgelemon/krantz"
   }
 ]
