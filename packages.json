@@ -40049,5 +40049,28 @@
     "description": "dependency-free, spec-compliant gitignore parser and pattern matcher",
     "license": "MIT",
     "web": "https://github.com/Niminem/gitignore"
+  },
+  {
+    "name": "nimux",
+    "url": "https://github.com/blue0x1/nimux",
+    "method": "git",
+    "tags": [
+      "network",
+      "enumeration",
+      "remote-execution",
+      "active-directory",
+      "kerberos",
+      "smb",
+      "winrm",
+      "mssql",
+      "security",
+      "pentesting",
+      "red-team",
+      "cli"
+    ],
+    "description": "Pure-Nim network enumeration and remote execution toolkit for authorized security assessments.",
+    "license": "AGPL-3.0-only",
+    "web": "https://nimux.wiki",
+    "doc": "https://docs.nimux.wiki"
   }
 ]
