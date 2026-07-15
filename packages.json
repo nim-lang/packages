@@ -40049,5 +40049,20 @@
     "description": "dependency-free, spec-compliant gitignore parser and pattern matcher",
     "license": "MIT",
     "web": "https://github.com/Niminem/gitignore"
+  },
+  {
+    "name": "krantz",
+    "url": "https://github.com/georgelemon/krantz",
+    "method": "git",
+    "tags": [
+      "shell",
+      "cli",
+      "zsh",
+      "unix",
+      "repl"
+    ],
+    "description": "A fast ZSH alternative",
+    "license": "MIT",
+    "web": "https://github.com/georgelemon/krantz"
   }
 ]
