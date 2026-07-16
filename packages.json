@@ -40087,5 +40087,19 @@
     "description": "A fast ZSH alternative",
     "license": "MIT",
     "web": "https://github.com/georgelemon/krantz"
+  },
+  {
+    "name": "datastructures",
+    "url": "https://github.com/WaywardWizard/nim-datastructures",
+    "method": "git",
+    "tags": [
+      "bidirectional",
+      "map,",
+      "indexed",
+      "list"
+    ],
+    "description": "Useful datastructures for algorithms. BiMap, BiMapSeq, IndexedList",
+    "license": "MIT",
+    "web": "https://github.com/WaywardWizard/nim-datastructures"
   }
 ]
