@@ -40138,5 +40138,21 @@
     "description": "Dead-simple, easy-to-use HTML generation macros.",
     "license": "BSD-3-Clause",
     "web": "https://docs.penguinite.dev/htmly/"
+  },
+  {
+    "name": "dfkup",
+    "url": "https://github.com/dfkup/dfkup",
+    "method": "git",
+    "tags": [
+      "language",
+      "jit",
+      "compiler",
+      "lang",
+      "parser",
+      "lexer"
+    ],
+    "description": "A scripting language with VM + JIT compiler",
+    "license": "LGPL-3.0-or-later",
+    "web": "https://github.com/dfkup/dfkup"
   }
 ]
