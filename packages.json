@@ -5510,14 +5510,21 @@
     "method": "git",
     "tags": [
       "scheduler",
+      "schedule",
       "cron",
+      "job",
       "jobs",
+      "task",
+      "tasks",
       "time",
+      "timer",
+      "systemd",
+      "calendar",
       "interval",
       "one-shot",
       "async"
     ],
-    "description": "A Nim library for interval, cron, and one-shot jobs.",
+    "description": "Metronome is a Nim library for time-based job scheduling supporting cron jobs, systemd-style timers, interval-based timers, and one-shot tasks.",
     "license": "MIT",
     "web": "https://github.com/titanomachy/Metronome",
     "doc": "https://titanomachy.github.io/Metronome/metronome.html"
