@@ -40101,5 +40101,20 @@
     "description": "Useful datastructures for algorithms. BiMap, BiMapSeq, IndexedList",
     "license": "MIT",
     "web": "https://github.com/WaywardWizard/nim-datastructures"
+  },
+  {
+    "name": "schematic",
+    "url": "https://github.com/cryo2010/nim-schematic",
+    "method": "git",
+    "tags": [
+      "object",
+      "validation",
+      "validator",
+      "schematic",
+      "schema"
+    ],
+    "description": "Object validation with type inference",
+    "license": "MIT",
+    "web": "https://github.com/cryo2010/nim-schematic"
   }
 ]
