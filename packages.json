@@ -40138,5 +40138,17 @@
     "description": "Dead-simple, easy-to-use HTML generation macros.",
     "license": "BSD-3-Clause",
     "web": "https://docs.penguinite.dev/htmly/"
+  },
+  {
+    "name": "narduino",
+    "url": "https://github.com/Niminem/narduino",
+    "method": "git",
+    "tags": [
+      "arduino",
+      "esp32"
+    ],
+    "description": "Write and flash Arduino firmware with Nim using your favorite IDE - easily!",
+    "license": "MIT",
+    "web": "https://github.com/Niminem/narduino"
   }
 ]
