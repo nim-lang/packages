@@ -40123,5 +40123,20 @@
     "description": "Object validation with type inference",
     "license": "MIT",
     "web": "https://github.com/cryo2010/nim-schematic"
+  },
+  {
+    "name": "htmly",
+    "url": "https://codeberg.org/brulee/htmly",
+    "method": "git",
+    "tags": [
+      "library",
+      "html",
+      "htmlgen",
+      "macros",
+      "magic"
+    ],
+    "description": "Dead-simple, easy-to-use HTML generation macros.",
+    "license": "BSD-3-Clause",
+    "web": "https://docs.penguinite.dev/htmly/"
   }
 ]
