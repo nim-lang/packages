@@ -40140,6 +40140,18 @@
     "web": "https://docs.penguinite.dev/htmly/"
   },
   {
+    "name": "narduino",
+    "url": "https://github.com/Niminem/narduino",
+    "method": "git",
+    "tags": [
+      "arduino",
+      "esp32"
+    ],
+    "description": "Write and flash Arduino firmware with Nim using your favorite IDE - easily!",
+    "license": "MIT",
+    "web": "https://github.com/Niminem/narduino"
+  },
+  {
     "name": "dfkup",
     "url": "https://github.com/dfkup/dfkup",
     "method": "git",
