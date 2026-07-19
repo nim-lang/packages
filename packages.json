@@ -40166,5 +40166,25 @@
     "description": "A scripting language with VM + JIT compiler",
     "license": "LGPL-3.0-or-later",
     "web": "https://github.com/dfkup/dfkup"
+  },
+  {
+    "name": "chopchop",
+    "url": "https://github.com/georgelemon/chopchop",
+    "method": "git",
+    "tags": [
+      "browser",
+      "javascript",
+      "web",
+      "automation",
+      "scraper",
+      "bot",
+      "chrome",
+      "devtools",
+      "dev",
+      "dom"
+    ],
+    "description": "High-level browser automation library around Chrome DevTools Protocol",
+    "license": "MIT",
+    "web": "https://github.com/georgelemon/chopchop"
   }
 ]
