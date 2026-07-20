@@ -17,19 +17,23 @@
   },
   {
     "name": "rochedb_nif",
-    "url": "https://github.com/puffball1567/rochedb-nif",
+    "alias": "koutendb_nif"
+  },
+  {
+    "name": "koutendb_nif",
+    "url": "https://github.com/puffball1567/koutendb-nif",
     "method": "git",
     "tags": [
-      "rochedb",
+      "koutendb",
       "nif",
       "bif",
       "adapter",
       "document-store",
       "interop"
     ],
-    "description": "Official NIF/BIF payload adapter for RocheDB.",
+    "description": "Official NIF/BIF payload adapter for KoutenDB.",
     "license": "MIT",
-    "web": "https://github.com/puffball1567/rochedb-nif"
+    "web": "https://github.com/puffball1567/koutendb-nif"
   },
   {
     "name": "flowcaptain",
@@ -39865,7 +39869,11 @@
   },
   {
     "name": "rochedb",
-    "url": "https://github.com/puffball1567/rochedb",
+    "alias": "koutendb"
+  },
+  {
+    "name": "koutendb",
+    "url": "https://github.com/puffball1567/koutendb",
     "method": "git",
     "tags": [
       "database",
@@ -39875,10 +39883,10 @@
       "cli",
       "storage"
     ],
-    "description": "Ring-oriented NoSQL document/vector store for smaller working sets.",
+    "description": "Locality-aware NoSQL document/vector database built around rings and orbit-inspired retrieval.",
     "license": "Apache-2.0",
-    "web": "https://github.com/puffball1567/rochedb",
-    "doc": "https://puffball1567.github.io/rochedb/"
+    "web": "https://github.com/puffball1567/koutendb",
+    "doc": "https://puffball1567.github.io/koutendb/"
   },
   {
     "name": "lumber",
