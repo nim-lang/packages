@@ -35654,7 +35654,7 @@
   },
   {
     "name": "sdl3",
-    "url": "https://github.com/transmutrix/nim-sdl3",
+    "url": "https://github.com/nim-lang/sdl3",
     "method": "git",
     "tags": [
       "sdl",
@@ -35668,7 +35668,7 @@
     ],
     "description": "SDl3 bindings for Nim",
     "license": "MIT",
-    "web": "https://github.com/transmutrix/nim-sdl3"
+    "web": "https://github.com/nim-lang/sdl3"
   },
   {
     "name": "steamworksgen",
