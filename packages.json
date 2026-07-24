@@ -40186,5 +40186,21 @@
     "description": "High-level browser automation library around Chrome DevTools Protocol",
     "license": "MIT",
     "web": "https://github.com/georgelemon/chopchop"
+  },
+  {
+    "name": "mancia",
+    "url": "https://github.com/heuer/mancia",
+    "method": "git",
+    "tags": [
+      "scdoc",
+      "roff",
+      "rst",
+      "man page",
+      "manpage",
+      "restructuredtext",
+    ],
+    "description": "scdoc to man page and reStructuredText converter",
+    "license": "MIT",
+    "web": "https://mancia.readthedocs.io/"
   }
 ]
