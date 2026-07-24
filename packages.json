@@ -40197,10 +40197,25 @@
       "rst",
       "man page",
       "manpage",
-      "restructuredtext",
+      "restructuredtext"
     ],
     "description": "scdoc to man page and reStructuredText converter",
     "license": "MIT",
     "web": "https://mancia.readthedocs.io/"
+  },
+  {
+    "name": "nimact",
+    "url": "https://github.com/LunaYoineko/nimact",
+    "method": "git",
+    "tags": [
+      "tui",
+      "framework",
+      "library",
+      "modern",
+      "react"
+    ],
+    "description": "A modern, async, component-based TUI framework for Nim",
+    "license": "MIT",
+    "web": "https://github.com/LunaYoineko/nimact"
   }
 ]
