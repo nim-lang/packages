@@ -40202,5 +40202,22 @@
     "description": "scdoc to man page and reStructuredText converter",
     "license": "MIT",
     "web": "https://mancia.readthedocs.io/"
+  },
+  {
+    "name": "Bigsister",
+    "url": "https://codeberg.org/olliNiinivaara/Bigsister",
+    "method": "git",
+    "tags": [
+      "observability",
+      "monitoring",
+      "logging",
+      "metrics",
+      "incident reporting",
+      "alerting",
+    ],
+    "description": "Multithreading-safe single-file in-process observability solution; logging, metrics and incident reporting",
+    "license": "MIT",
+    "web": "https://codeberg.org/olliNiinivaara/Bigsister"
   }
+  
 ]
