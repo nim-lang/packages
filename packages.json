@@ -40197,10 +40197,33 @@
       "rst",
       "man page",
       "manpage",
-      "restructuredtext",
+      "restructuredtext"
     ],
     "description": "scdoc to man page and reStructuredText converter",
     "license": "MIT",
     "web": "https://mancia.readthedocs.io/"
+  },
+  {
+    "name": "argumint",
+    "url": "https://github.com/squattingmonk/argumint",
+    "method": "git",
+    "tags": [
+      "cli",
+      "command-line",
+      "commandline",
+      "arg",
+      "args",
+      "argument",
+      "arguments",
+      "option",
+      "options",
+      "parse",
+      "parsing",
+      "argparse",
+      "parseopt"
+    ],
+    "description": "A fresh command-line argument parsing library",
+    "license": "MIT",
+    "web": "https://github.com/squattingmonk/argumint"
   }
 ]
