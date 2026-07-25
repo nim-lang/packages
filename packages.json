@@ -40197,10 +40197,25 @@
       "rst",
       "man page",
       "manpage",
-      "restructuredtext",
+      "restructuredtext"
     ],
     "description": "scdoc to man page and reStructuredText converter",
     "license": "MIT",
     "web": "https://mancia.readthedocs.io/"
+  },
+  {
+    "name": "nimoji",
+    "url": "https://github.com/framefrok/nimoji",
+    "method": "git",
+    "tags": [
+      "emoji",
+      "unicode",
+      "text",
+      "string",
+      "parser"
+    ],
+    "description": "Awesome emoji library for Nim, inspired by Python's emoji",
+    "license": "MIT",
+    "web": "https://github.com/framefrok/nimoji"
   }
 ]
