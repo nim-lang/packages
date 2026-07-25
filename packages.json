@@ -10319,6 +10319,15 @@
     "web": "https://github.com/barcharcraz/libgit2-nim"
   },
   {
+    "name": "libGTK4",
+    "url": "https://github.com/Balans097/libGTK4",
+    "method": "git",
+    "tags": ["gtk", "gtk4", "gui", "wrapper", "ffi"],
+    "description": "A full-featured wrapper for the GTK4 library in the Nim programming language",
+    "license": "MIT",
+    "web": "https://github.com/Balans097/libGTK4"
+  },
+  {
     "name": "multicast",
     "url": "https://github.com/enthus1ast/nimMulticast",
     "method": "git",
