@@ -10326,7 +10326,13 @@
     "name": "libGTK4",
     "url": "https://github.com/Balans097/libGTK4",
     "method": "git",
-    "tags": ["gtk", "gtk4", "gui", "wrapper", "ffi"],
+    "tags": [
+      "gtk",
+      "gtk4",
+      "gui",
+      "wrapper",
+      "ffi"
+    ],
     "description": "A full-featured wrapper for the GTK4 library in the Nim programming language",
     "license": "MIT",
     "web": "https://github.com/Balans097/libGTK4"
@@ -40214,10 +40220,31 @@
       "rst",
       "man page",
       "manpage",
-      "restructuredtext",
+      "restructuredtext"
     ],
     "description": "scdoc to man page and reStructuredText converter",
     "license": "MIT",
     "web": "https://mancia.readthedocs.io/"
+  },
+  {
+    "name": "navi",
+    "url": "https://github.com/cryo2010/nim-navi",
+    "method": "git",
+    "tags": [
+      "http",
+      "client",
+      "https",
+      "http1",
+      "http2",
+      "websocket",
+      "websockets",
+      "ws",
+      "wss",
+      "tls",
+      "navi"
+    ],
+    "description": "An HTTP client with HTTP/1.1, HTTP/2, TLS and WebSocket support",
+    "license": "MIT",
+    "web": "https://github.com/cryo2010/nim-navi"
   }
 ]
