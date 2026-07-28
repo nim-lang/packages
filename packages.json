@@ -40227,6 +40227,22 @@
     "web": "https://mancia.readthedocs.io/"
   },
   {
+    "name": "Bigsister",
+    "url": "https://codeberg.org/olliNiinivaara/Bigsister",
+    "method": "git",
+    "tags": [
+      "observability",
+      "monitoring",
+      "logging",
+      "metrics",
+      "incident reporting",
+      "alerting",
+    ],
+    "description": "Multithreading-safe single-file in-process observability solution; logging, metrics and incident reporting",
+    "license": "MIT",
+    "web": "https://codeberg.org/olliNiinivaara/Bigsister"
+  },
+  {
     "name": "navi",
     "url": "https://github.com/cryo2010/nim-navi",
     "method": "git",
@@ -40270,4 +40286,5 @@
     "license": "MIT",
     "web": "https://github.com/squattingmonk/argumint"
   }
+  
 ]
