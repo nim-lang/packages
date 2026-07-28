@@ -40246,5 +40246,28 @@
     "description": "An HTTP client with HTTP/1.1, HTTP/2, TLS and WebSocket support",
     "license": "MIT",
     "web": "https://github.com/cryo2010/nim-navi"
+  },
+  {
+    "name": "argumint",
+    "url": "https://github.com/squattingmonk/argumint",
+    "method": "git",
+    "tags": [
+      "cli",
+      "command-line",
+      "commandline",
+      "arg",
+      "args",
+      "argument",
+      "arguments",
+      "option",
+      "options",
+      "parse",
+      "parsing",
+      "argparse",
+      "parseopt"
+    ],
+    "description": "A fresh command-line argument parsing library",
+    "license": "MIT",
+    "web": "https://github.com/squattingmonk/argumint"
   }
 ]
