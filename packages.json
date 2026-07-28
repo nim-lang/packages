@@ -40294,13 +40294,13 @@
       "cli",
       "code-editor",
       "cross-platform",
+      "editor",
       "file-explorer",
       "nano",
       "nim",
       "terminal",
       "text-editor",
-      "tui",
-      "vscode"
+      "tui"
     ],
     "description": "nano-inspired terminal text editor written in pure Nim.",
     "license": "MIT",
