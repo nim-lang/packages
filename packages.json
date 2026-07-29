@@ -17,19 +17,23 @@
   },
   {
     "name": "rochedb_nif",
-    "url": "https://github.com/puffball1567/rochedb-nif",
+    "alias": "koutendb_nif"
+  },
+  {
+    "name": "koutendb_nif",
+    "url": "https://github.com/puffball1567/koutendb-nif",
     "method": "git",
     "tags": [
-      "rochedb",
+      "koutendb",
       "nif",
       "bif",
       "adapter",
       "document-store",
       "interop"
     ],
-    "description": "Official NIF/BIF payload adapter for RocheDB.",
+    "description": "Official NIF/BIF payload adapter for KoutenDB.",
     "license": "MIT",
-    "web": "https://github.com/puffball1567/rochedb-nif"
+    "web": "https://github.com/puffball1567/koutendb-nif"
   },
   {
     "name": "flowcaptain",
@@ -10317,6 +10321,21 @@
     "description": "Libgit2 low level wrapper",
     "license": "MIT",
     "web": "https://github.com/barcharcraz/libgit2-nim"
+  },
+  {
+    "name": "libGTK4",
+    "url": "https://github.com/Balans097/libGTK4",
+    "method": "git",
+    "tags": [
+      "gtk",
+      "gtk4",
+      "gui",
+      "wrapper",
+      "ffi"
+    ],
+    "description": "A full-featured wrapper for the GTK4 library in the Nim programming language",
+    "license": "MIT",
+    "web": "https://github.com/Balans097/libGTK4"
   },
   {
     "name": "multicast",
@@ -39865,7 +39884,11 @@
   },
   {
     "name": "rochedb",
-    "url": "https://github.com/puffball1567/rochedb",
+    "alias": "koutendb"
+  },
+  {
+    "name": "koutendb",
+    "url": "https://github.com/puffball1567/koutendb",
     "method": "git",
     "tags": [
       "database",
@@ -39875,10 +39898,10 @@
       "cli",
       "storage"
     ],
-    "description": "Ring-oriented NoSQL document/vector store for smaller working sets.",
+    "description": "Locality-aware NoSQL document/vector database built around rings and orbit-inspired retrieval.",
     "license": "Apache-2.0",
-    "web": "https://github.com/puffball1567/rochedb",
-    "doc": "https://puffball1567.github.io/rochedb/"
+    "web": "https://github.com/puffball1567/koutendb",
+    "doc": "https://puffball1567.github.io/koutendb/"
   },
   {
     "name": "lumber",
@@ -40217,5 +40240,64 @@
     "description": "A modern, async, component-based TUI framework for Nim",
     "license": "MIT",
     "web": "https://github.com/LunaYoineko/nimact"
+    "name": "Bigsister",
+    "url": "https://codeberg.org/olliNiinivaara/Bigsister",
+    "method": "git",
+    "tags": [
+      "observability",
+      "monitoring",
+      "logging",
+      "metrics",
+      "incident reporting",
+      "alerting",
+    ],
+    "description": "Multithreading-safe single-file in-process observability solution; logging, metrics and incident reporting",
+    "license": "MIT",
+    "web": "https://codeberg.org/olliNiinivaara/Bigsister"
+  },
+  {
+    "name": "navi",
+    "url": "https://github.com/cryo2010/nim-navi",
+    "method": "git",
+    "tags": [
+      "http",
+      "client",
+      "https",
+      "http1",
+      "http2",
+      "websocket",
+      "websockets",
+      "ws",
+      "wss",
+      "tls",
+      "navi"
+    ],
+    "description": "An HTTP client with HTTP/1.1, HTTP/2, TLS and WebSocket support",
+    "license": "MIT",
+    "web": "https://github.com/cryo2010/nim-navi"
+  },
+  {
+    "name": "argumint",
+    "url": "https://github.com/squattingmonk/argumint",
+    "method": "git",
+    "tags": [
+      "cli",
+      "command-line",
+      "commandline",
+      "arg",
+      "args",
+      "argument",
+      "arguments",
+      "option",
+      "options",
+      "parse",
+      "parsing",
+      "argparse",
+      "parseopt"
+    ],
+    "description": "A fresh command-line argument parsing library",
+    "license": "MIT",
+    "web": "https://github.com/squattingmonk/argumint"
   }
+  
 ]
