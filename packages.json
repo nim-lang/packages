@@ -40227,6 +40227,21 @@
     "web": "https://mancia.readthedocs.io/"
   },
   {
+    "name": "nimact",
+    "url": "https://github.com/LunaYoineko/nimact",
+    "method": "git",
+    "tags": [
+      "tui",
+      "framework",
+      "library",
+      "modern",
+      "react"
+    ],
+    "description": "A modern, async, component-based TUI framework for Nim",
+    "license": "MIT",
+    "web": "https://github.com/LunaYoineko/nimact"
+  },
+  {
     "name": "Bigsister",
     "url": "https://codeberg.org/olliNiinivaara/Bigsister",
     "method": "git",
