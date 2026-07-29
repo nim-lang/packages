@@ -40240,6 +40240,8 @@
     "description": "A modern, async, component-based TUI framework for Nim",
     "license": "MIT",
     "web": "https://github.com/LunaYoineko/nimact"
+  },
+  {
     "name": "Bigsister",
     "url": "https://codeberg.org/olliNiinivaara/Bigsister",
     "method": "git",
