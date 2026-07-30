@@ -40251,7 +40251,7 @@
       "logging",
       "metrics",
       "incident reporting",
-      "alerting",
+      "alerting"
     ],
     "description": "Multithreading-safe single-file in-process observability solution; logging, metrics and incident reporting",
     "license": "MIT",
@@ -40320,6 +40320,26 @@
     "description": "nano-inspired terminal text editor written in pure Nim.",
     "license": "MIT",
     "web": "https://github.com/didvc/nimo"
+  },
+  {
+    "name": "steady",
+    "url": "https://github.com/garrettkinman/Steady",
+    "method": "git",
+    "tags": [
+      "neural",
+      "tensor",
+      "matrix",
+      "embedded",
+      "ml",
+      "ai",
+      "steady",
+      "static",
+      "mcu",
+      "microcontroller",
+      "tinyml"
+    ],
+    "description": "An ahead-of-time TinyML inference compiler and runtime in pure Nim, for microcontrollers.",
+    "license": "MIT",
+    "web": "https://github.com/garrettkinman/Steady"
   }
-  
 ]
