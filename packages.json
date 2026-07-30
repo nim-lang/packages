@@ -40251,7 +40251,7 @@
       "logging",
       "metrics",
       "incident reporting",
-      "alerting",
+      "alerting"
     ],
     "description": "Multithreading-safe single-file in-process observability solution; logging, metrics and incident reporting",
     "license": "MIT",
@@ -40320,6 +40320,17 @@
     "description": "nano-inspired terminal text editor written in pure Nim.",
     "license": "MIT",
     "web": "https://github.com/didvc/nimo"
+  },
+  {
+    "name": "nimanim",
+    "url": "https://github.com/himanshm/nimanim",
+    "method": "git",
+    "tags": [
+      "video",
+      "manim"
+    ],
+    "description": "A port of ManimCE in Nim",
+    "license": "MIT",
+    "web": "https://github.com/himanshm/nimanim"
   }
-  
 ]
