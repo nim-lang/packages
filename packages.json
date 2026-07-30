@@ -40353,5 +40353,19 @@
     "description": "A port of ManimCE in Nim",
     "license": "MIT",
     "web": "https://github.com/himanshm/nimanim"
+  },
+  {
+    "name": "nimblp",
+    "url": "https://github.com/makoponi/nimblp",
+    "method": "git",
+    "tags": [
+      "library",
+      "finance",
+      "dataprovider",
+      "Bloomberg"
+    ],
+    "description": "Bloomberg Data API client for Nim inspired by xbbg",
+    "license": "MIT",
+    "web": "https://github.com/makoponi/nimblp"
   }
 ]
