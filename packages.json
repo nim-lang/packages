@@ -40341,5 +40341,17 @@
     "description": "An ahead-of-time TinyML inference compiler and runtime in pure Nim, for microcontrollers.",
     "license": "MIT",
     "web": "https://github.com/garrettkinman/Steady"
+  },
+  {
+    "name": "nimanim",
+    "url": "https://github.com/himanshm/nimanim",
+    "method": "git",
+    "tags": [
+      "manim",
+      "video"
+    ],
+    "description": "A port of ManimCE in Nim",
+    "license": "MIT",
+    "web": "https://github.com/himanshm/nimanim"
   }
 ]
