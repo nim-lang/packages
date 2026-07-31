@@ -39904,6 +39904,22 @@
     "doc": "https://puffball1567.github.io/koutendb/"
   },
   {
+    "name": "clay_board_style_system",
+    "url": "https://github.com/puffball1567/clay-board-style-system",
+    "method": "git",
+    "tags": [
+      "gui",
+      "native-ui",
+      "css-like",
+      "style-system",
+      "sdl3",
+      "c-abi"
+    ],
+    "description": "A CSS-inspired primitive engine for native GUI toolkits.",
+    "license": "Apache-2.0",
+    "web": "https://github.com/puffball1567/clay-board-style-system"
+  },
+  {
     "name": "lumber",
     "url": "https://github.com/cryo2010/nim-lumber",
     "method": "git",
