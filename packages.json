@@ -40367,5 +40367,20 @@
     "description": "Bloomberg Data API client for Nim inspired by xbbg",
     "license": "MIT",
     "web": "https://github.com/makoponi/nimblp"
+  },
+  {
+    "name": "mathcrypto",
+    "url": "https://github.com/n40y/mathcrypto",
+    "method": "git",
+    "tags": [
+      "cryptography",
+      "math",
+      "aes",
+      "primality",
+      "number-theory"
+    ],
+    "description": "Lightweight, efficient, and dependency-free cryptographic and mathematical utilities in pure Nim.",
+    "license": "MIT",
+    "web": "https://n40y.github.io/mathcrypto/mathcrypto.html"
   }
 ]
