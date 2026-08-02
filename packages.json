@@ -278,6 +278,23 @@
     "web": "https://github.com/akvilary/uniq"
   },
   {
+    "name": "nim-sqlite",
+    "url": "https://github.com/titanomachy/nim-sqlite",
+    "method": "git",
+    "tags": [
+      "database",
+      "sql",
+      "sqlite",
+      "wrapper",
+      "type-safe"
+    ],
+    "description": "A thin, type-safe SQLite wrapper for Nim",
+    "license": "MIT",
+    "web": "https://github.com/titanomachy/nim-sqlite",
+    "doc": "https://titanomachy.github.io/nim-sqlite/",
+    "alias": "nim_sqlite"
+  },
+  {
     "name": "nimhuml",
     "url": "https://github.com/w3Abhishek/nimhuml",
     "method": "git",
