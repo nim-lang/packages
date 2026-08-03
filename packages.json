@@ -40400,5 +40400,70 @@
     "description": "Async HTTP, WebSocket, and IPC client for Nim with native await, typed errors, retries, streaming, and TLS.",
     "license": "MIT",
     "web": "https://github.com/puffball1567/joubako"
+  },
+  {
+    "name": "nimino_native",
+    "url": "https://github.com/asopitech-labs/nimino?subdir=packages/native",
+    "method": "git",
+    "tags": [
+      "webview",
+      "gui",
+      "desktop",
+      "webview2",
+      "webkitgtk",
+      "wkwebview"
+    ],
+    "description": "Thin native Window/WebView layer for Nimino: Win32 + WebView2, GTK 4 + WebKitGTK 6.0, and AppKit + WKWebView",
+    "license": "MIT",
+    "web": "https://github.com/asopitech-labs/nimino"
+  },
+  {
+    "name": "nimino_wsl",
+    "url": "https://github.com/asopitech-labs/nimino?subdir=packages/wsl",
+    "method": "git",
+    "tags": [
+      "wsl",
+      "webview",
+      "gui",
+      "windows",
+      "ipc"
+    ],
+    "description": "Authenticated WSL client / Windows host transport for Nimino: Nim application logic in WSL, GUI ownership in a WebView2 host process",
+    "license": "MIT",
+    "web": "https://github.com/asopitech-labs/nimino"
+  },
+  {
+    "name": "nimino_core",
+    "url": "https://github.com/asopitech-labs/nimino?subdir=packages/core",
+    "method": "git",
+    "tags": [
+      "desktop",
+      "webview",
+      "gui",
+      "framework",
+      "rpc"
+    ],
+    "description": "Nimino application framework: app lifecycle, typed RPC, profiles, downloads, navigation and permission policy over native WebViews",
+    "license": "MIT",
+    "web": "https://github.com/asopitech-labs/nimino"
+  },
+  {
+    "name": "nimino_pack",
+    "url": "https://github.com/asopitech-labs/nimino?subdir=packages/pack",
+    "method": "git",
+    "tags": [
+      "packaging",
+      "installer",
+      "desktop",
+      "deb",
+      "rpm",
+      "nsis",
+      "msi",
+      "appimage",
+      "flatpak"
+    ],
+    "description": "Nimino packaging toolkit: URL/manifest wrapping, bundle metadata, and Debian/RPM/AppImage/Flatpak/NSIS/MSI generation",
+    "license": "MIT",
+    "web": "https://github.com/asopitech-labs/nimino"
   }
 ]
