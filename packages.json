@@ -40367,5 +40367,18 @@
     "description": "Bloomberg Data API client for Nim inspired by xbbg",
     "license": "MIT",
     "web": "https://github.com/makoponi/nimblp"
+  },
+  {
+    "name": "nimanim",
+    "url": "https://github.com/himanshm/nimanim",
+    "method": "git",
+    "tags": [
+      "manim",
+      "video",
+      "generation"
+    ],
+    "description": "A port of ManimCE in Nim (with optional voiceover support)",
+    "license": "MIT",
+    "web": "https://github.com/himanshm/nimanim"
   }
 ]
