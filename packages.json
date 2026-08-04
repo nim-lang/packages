@@ -40398,7 +40398,7 @@
       "transport"
     ],
     "description": "Async HTTP, WebSocket, and IPC client for Nim with native await, typed errors, retries, streaming, and TLS.",
-    "license": "MIT",
+    "license": "Apache-2.0",
     "web": "https://github.com/puffball1567/joubako"
   },
   {
