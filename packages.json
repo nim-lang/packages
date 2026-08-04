@@ -278,7 +278,7 @@
     "web": "https://github.com/akvilary/uniq"
   },
   {
-    "name": "nim-sqlite",
+    "name": "nim_sqlite",
     "url": "https://github.com/titanomachy/nim-sqlite",
     "method": "git",
     "tags": [
