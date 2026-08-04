@@ -292,8 +292,7 @@
     "description": "A thin, type-safe SQLite wrapper for Nim",
     "license": "MIT",
     "web": "https://github.com/titanomachy/nim-sqlite",
-    "doc": "https://titanomachy.github.io/nim-sqlite/",
-    "alias": "nim_sqlite"
+    "doc": "https://titanomachy.github.io/nim-sqlite/"
   },
   {
     "name": "nimhuml",
