@@ -40489,5 +40489,18 @@
     "description": "Pure Nim BLAKE3 cryptographic hash function",
     "license": "MIT",
     "web": "https://github.com/nim-foundry/blake3"
+  },
+  {
+    "name": "quicksort",
+    "url": "https://github.com/Q-Master/quicksort.nim",
+    "method": "git",
+    "tags": [
+      "library",
+      "quicksort",
+      "pure"
+    ],
+    "description": "Pure nim quicksort implementation",
+    "license": "MIT",
+    "web": "https://github.com/Q-Master/quicksort.nim"
   }
 ]
