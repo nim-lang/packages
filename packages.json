@@ -40465,5 +40465,16 @@
     "description": "Nimino packaging toolkit: URL/manifest wrapping, bundle metadata, and Debian/RPM/AppImage/Flatpak/NSIS/MSI generation",
     "license": "MIT",
     "web": "https://github.com/asopitech-labs/nimino"
+  },
+  {
+    "name": "memkit",
+    "url": "https://github.com/nimamasl114514/memkit",
+    "method": "git",
+    "tags": [
+      "memory"
+    ],
+    "description": "A simple and easy-to-use memory manipulation library for Nim",
+    "license": "MIT",
+    "web": "https://github.com/nimamasl114514/memkit"
   }
 ]
