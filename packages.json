@@ -40476,5 +40476,18 @@
     "description": "A simple and easy-to-use memory manipulation library for Nim",
     "license": "MIT",
     "web": "https://github.com/nimamasl114514/memkit"
+  },
+  {
+    "name": "blake3",
+    "url": "https://github.com/nim-foundry/blake3",
+    "method": "git",
+    "tags": [
+      "hash",
+      "blake3",
+      "cryptography"
+    ],
+    "description": "Pure Nim BLAKE3 cryptographic hash function",
+    "license": "MIT",
+    "web": "https://github.com/nim-foundry/blake3"
   }
 ]
