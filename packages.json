@@ -33894,32 +33894,6 @@
     "web": "https://github.com/ThomasTJdev/mummy_utils"
   },
   {
-    "name": "httpbeastfork",
-    "url": "https://github.com/ThomasTJdev/httpbeast_fork",
-    "method": "git",
-    "tags": [
-      "http",
-      "server",
-      "parallel"
-    ],
-    "description": "Fork of httpbeast with Nim v2.x support",
-    "license": "MIT",
-    "web": "https://github.com/ThomasTJdev/httpbeast_fork"
-  },
-  {
-    "name": "jesterfork",
-    "url": "https://github.com/ThomasTJdev/jester_fork",
-    "method": "git",
-    "tags": [
-      "web",
-      "http",
-      "jester"
-    ],
-    "description": "Fork of jester with Nim v2.x support",
-    "license": "MIT",
-    "web": "https://github.com/ThomasTJdev/jester_fork"
-  },
-  {
     "name": "templater",
     "url": "https://github.com/Wraith29/templater",
     "method": "git",
@@ -39904,6 +39878,22 @@
     "doc": "https://puffball1567.github.io/koutendb/"
   },
   {
+    "name": "clay_board_style_system",
+    "url": "https://github.com/puffball1567/clay-board-style-system",
+    "method": "git",
+    "tags": [
+      "gui",
+      "native-ui",
+      "css-like",
+      "style-system",
+      "sdl3",
+      "c-abi"
+    ],
+    "description": "A CSS-inspired primitive engine for native GUI toolkits.",
+    "license": "Apache-2.0",
+    "web": "https://github.com/puffball1567/clay-board-style-system"
+  },
+  {
     "name": "lumber",
     "url": "https://github.com/cryo2010/nim-lumber",
     "method": "git",
@@ -40382,5 +40372,124 @@
     "description": "Lightweight, efficient, and dependency-free cryptographic and mathematical utilities in pure Nim.",
     "license": "MIT",
     "web": "https://n40y.github.io/mathcrypto/mathcrypto.html"
+  },
+  {
+    "name": "joubako",
+    "url": "https://github.com/puffball1567/joubako",
+    "method": "git",
+    "tags": [
+      "http",
+      "async",
+      "networking",
+      "websocket",
+      "ipc",
+      "client",
+      "transport"
+    ],
+    "description": "Async HTTP, WebSocket, and IPC client for Nim with native await, typed errors, retries, streaming, and TLS.",
+    "license": "Apache-2.0",
+    "web": "https://github.com/puffball1567/joubako"
+  },
+  {
+    "name": "nimino_native",
+    "url": "https://github.com/asopitech-labs/nimino?subdir=packages/native",
+    "method": "git",
+    "tags": [
+      "webview",
+      "gui",
+      "desktop",
+      "webview2",
+      "webkitgtk",
+      "wkwebview"
+    ],
+    "description": "Thin native Window/WebView layer for Nimino: Win32 + WebView2, GTK 4 + WebKitGTK 6.0, and AppKit + WKWebView",
+    "license": "MIT",
+    "web": "https://github.com/asopitech-labs/nimino"
+  },
+  {
+    "name": "nimino_wsl",
+    "url": "https://github.com/asopitech-labs/nimino?subdir=packages/wsl",
+    "method": "git",
+    "tags": [
+      "wsl",
+      "webview",
+      "gui",
+      "windows",
+      "ipc"
+    ],
+    "description": "Authenticated WSL client / Windows host transport for Nimino: Nim application logic in WSL, GUI ownership in a WebView2 host process",
+    "license": "MIT",
+    "web": "https://github.com/asopitech-labs/nimino"
+  },
+  {
+    "name": "nimino_core",
+    "url": "https://github.com/asopitech-labs/nimino?subdir=packages/core",
+    "method": "git",
+    "tags": [
+      "desktop",
+      "webview",
+      "gui",
+      "framework",
+      "rpc"
+    ],
+    "description": "Nimino application framework: app lifecycle, typed RPC, profiles, downloads, navigation and permission policy over native WebViews",
+    "license": "MIT",
+    "web": "https://github.com/asopitech-labs/nimino"
+  },
+  {
+    "name": "nimino_pack",
+    "url": "https://github.com/asopitech-labs/nimino?subdir=packages/pack",
+    "method": "git",
+    "tags": [
+      "packaging",
+      "installer",
+      "desktop",
+      "deb",
+      "rpm",
+      "nsis",
+      "msi",
+      "appimage",
+      "flatpak"
+    ],
+    "description": "Nimino packaging toolkit: URL/manifest wrapping, bundle metadata, and Debian/RPM/AppImage/Flatpak/NSIS/MSI generation",
+    "license": "MIT",
+    "web": "https://github.com/asopitech-labs/nimino"
+  },
+  {
+    "name": "memkit",
+    "url": "https://github.com/nimamasl114514/memkit",
+    "method": "git",
+    "tags": [
+      "memory"
+    ],
+    "description": "A simple and easy-to-use memory manipulation library for Nim",
+    "license": "MIT",
+    "web": "https://github.com/nimamasl114514/memkit"
+  },
+  {
+    "name": "blake3",
+    "url": "https://github.com/nim-foundry/blake3",
+    "method": "git",
+    "tags": [
+      "hash",
+      "blake3",
+      "cryptography"
+    ],
+    "description": "Pure Nim BLAKE3 cryptographic hash function",
+    "license": "MIT",
+    "web": "https://github.com/nim-foundry/blake3"
+  },
+  {
+    "name": "quicksort",
+    "url": "https://github.com/Q-Master/quicksort.nim",
+    "method": "git",
+    "tags": [
+      "library",
+      "quicksort",
+      "pure"
+    ],
+    "description": "Pure nim quicksort implementation",
+    "license": "MIT",
+    "web": "https://github.com/Q-Master/quicksort.nim"
   }
 ]
