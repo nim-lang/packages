@@ -283,8 +283,9 @@
     "method": "git",
     "tags": [
       "database",
-      "sql",
       "sqlite",
+      "sql",
+      "library",
       "wrapper",
       "type-safe"
     ],
