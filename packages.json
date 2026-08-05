@@ -40491,5 +40491,20 @@
     "description": "Pure nim quicksort implementation",
     "license": "MIT",
     "web": "https://github.com/Q-Master/quicksort.nim"
+  },
+  {
+    "name": "exa",
+    "url": "https://codeberg.org/brulee/exa",
+    "method": "git",
+    "tags": [
+      "sqlite",
+      "sql",
+      "db",
+      "database",
+      "library"
+    ],
+    "description": "Ergonomic database connectors for Nim.",
+    "license": "BSD-3-Clause",
+    "web": "https://docs.penguinite.dev/exa/"
   }
 ]
