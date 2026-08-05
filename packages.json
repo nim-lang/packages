@@ -40523,5 +40523,22 @@
     "description": "Ergonomic database connectors for Nim.",
     "license": "BSD-3-Clause",
     "web": "https://docs.penguinite.dev/exa/"
+  },
+  {
+    "name": "nimai",
+    "url": "https://github.com/Noginse/nimai",
+    "method": "git",
+    "tags": [
+      "llm",
+      "ai",
+      "http",
+      "client",
+      "openai",
+      "anthropic",
+      "gemini"
+    ],
+    "description": "Unified Nim LLM client library for multiple AI providers (Anthropic, OpenAI, Gemini, Grok, Qwen, Kimi, Ollama)",
+    "license": "MIT",
+    "web": "https://github.com/Noginse/nimai"
   }
 ]
