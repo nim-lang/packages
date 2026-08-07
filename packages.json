@@ -40554,5 +40554,24 @@
     "description": "Embeddable LLM chat with RAG capabilities",
     "license": "MIT",
     "web": "https://github.com/openpeeps/chachachat"
+  },
+  {
+    "name": "smuggler",
+    "url": "https://github.com/openpeeps/smuggler",
+    "method": "git",
+    "tags": [
+      "smuggling",
+      "http",
+      "request",
+      "hrs",
+      "exploit",
+      "treqs",
+      "fuzzer",
+      "http-headers",
+      "headers"
+    ],
+    "description": "T-Reqs Grammar-based HTTP/1.x fuzzer for request-smuggling detection",
+    "license": "MIT",
+    "web": "https://github.com/openpeeps/smuggler"
   }
 ]
