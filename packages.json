@@ -40537,5 +40537,22 @@
     "description": "A process-level filesystem sandbox backed by OS-native primitives (Landlock, Seatbelt, Windows ACLs)",
     "license": "MIT",
     "web": "https://github.com/capocasa/sandwall"
+  },
+  {
+    "name": "chachachat",
+    "url": "https://github.com/openpeeps/chachachat",
+    "method": "git",
+    "tags": [
+      "chat",
+      "chatbot",
+      "rag",
+      "llm",
+      "embeddable",
+      "ai",
+      "openai"
+    ],
+    "description": "Embeddable LLM chat with RAG capabilities",
+    "license": "MIT",
+    "web": "https://github.com/openpeeps/chachachat"
   }
 ]
