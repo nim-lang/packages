@@ -40523,5 +40523,19 @@
     "description": "Ergonomic database connectors for Nim.",
     "license": "BSD-3-Clause",
     "web": "https://docs.penguinite.dev/exa/"
+  },
+  {
+    "name": "sandwall",
+    "url": "https://github.com/capocasa/sandwall",
+    "method": "git",
+    "tags": [
+      "landlock",
+      "seatbelt",
+      "sandbox",
+      "security"
+    ],
+    "description": "A process-level filesystem sandbox backed by OS-native primitives (Landlock, Seatbelt, Windows ACLs)",
+    "license": "MIT",
+    "web": "https://github.com/capocasa/sandwall"
   }
 ]
