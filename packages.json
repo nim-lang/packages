@@ -40588,5 +40588,23 @@
     "description": "T-Reqs Grammar-based HTTP/1.x fuzzer for request-smuggling detection",
     "license": "MIT",
     "web": "https://github.com/openpeeps/smuggler"
+  },
+  {
+    "name": "ffi",
+    "url": "https://github.com/logos-messaging/nim-ffi",
+    "method": "git",
+    "tags": [
+      "ffi",
+      "bindings",
+      "codegen",
+      "c",
+      "cpp",
+      "rust",
+      "cbor",
+      "interop"
+    ],
+    "description": "FFI framework with custom header generation",
+    "license": "MIT or Apache License 2.0",
+    "web": "https://github.com/logos-messaging/nim-ffi"
   }
 ]
