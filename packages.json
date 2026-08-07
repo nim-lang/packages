@@ -19034,6 +19034,21 @@
     "web": "https://github.com/quadram-institute-bioscience/readfx"
   },
   {
+    "name": "gzfast",
+    "url": "https://github.com/telatin/gzfast",
+    "method": "git",
+    "tags": [
+      "gzip",
+      "decompression",
+      "zlib",
+      "multithreaded",
+      "compression"
+    ],
+    "description": "Fast, verified, multithreaded gzip decompression with a bundled zlib (no system libraries required)",
+    "license": "MIT",
+    "web": "https://telatin.github.io/gzfast/"
+  },
+  {
     "name": "abif",
     "url": "https://github.com/quadram-institute-bioscience/nim-abif",
     "method": "git",
