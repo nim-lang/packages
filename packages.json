@@ -40606,5 +40606,37 @@
     "description": "FFI framework with custom header generation",
     "license": "MIT or Apache License 2.0",
     "web": "https://github.com/logos-messaging/nim-ffi"
+  },
+  {
+    "name": "kiwiberry",
+    "url": "https://github.com/elcritch/kiwiberry",
+    "method": "git",
+    "tags": [
+      "gui",
+      "layout",
+      "constraint-solver",
+      "cassowary",
+    ],
+    "description": "Nim port of Kiwi/C++",
+    "license": "BSD-3-Clause",
+    "web": "https://github.com/elcritch/kiwiberry"
+  },
+  {
+    "name": "merenda",
+    "url": "https://github.com/elcritch/merenda",
+    "method": "git",
+    "tags": [
+      "gui",
+      "ui",
+      "desktop",
+      "cocoa",
+      "gnustep",
+      "openstep",
+      "graphical-user-interface",
+      "themes"
+    ],
+    "description": "full-featured pure Nim UI toolkit based on Cocoa",
+    "license": "BSD-3-Clause",
+    "web": "https://github.com/elcritch/merenda"
   }
 ]
