@@ -40615,7 +40615,7 @@
       "gui",
       "layout",
       "constraint-solver",
-      "cassowary",
+      "cassowary"
     ],
     "description": "Nim port of Kiwi/C++",
     "license": "BSD-3-Clause",
@@ -40638,5 +40638,23 @@
     "description": "full-featured pure Nim UI toolkit based on Cocoa",
     "license": "BSD-3-Clause",
     "web": "https://github.com/elcritch/merenda"
+  },
+  {
+    "name": "opencode",
+    "url": "https://github.com/nimbase/opencode-api",
+    "method": "git",
+    "tags": [
+      "opencode",
+      "ai",
+      "api",
+      "agent",
+      "client",
+      "sdk",
+      "llm",
+      "nimbase"
+    ],
+    "description": "opencode api",
+    "license": "MIT",
+    "web": "https://github.com/nimbase/opencode-api"
   }
 ]
