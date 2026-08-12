@@ -1,7 +1,11 @@
 [
   {
     "name": "nimantic_versioning",
-    "url": "https://github.com/vinpogo/nimantic-versioning",
+    "alias": "nimver"
+  },
+  {
+    "name": "nimver",
+    "url": "https://github.com/vinpogo/nimver",
     "method": "git",
     "tags": [
       "git",
@@ -13,7 +17,7 @@
     ],
     "description": "A package to manage semantic versioning from commit messages",
     "license": "MIT",
-    "web": "https://github.com/vinpogo/nimantic-versioning"
+    "web": "https://github.com/vinpogo/nimver"
   },
   {
     "name": "nifkit",
