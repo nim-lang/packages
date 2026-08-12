@@ -1,6 +1,6 @@
 [
   {
-    "name": "nimantic_versioning",
+    "name": "nimver",
     "url": "https://github.com/vinpogo/nimantic-versioning",
     "method": "git",
     "tags": [
