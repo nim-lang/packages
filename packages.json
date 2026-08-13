@@ -40676,5 +40676,21 @@
     "description": "opencode api",
     "license": "MIT",
     "web": "https://github.com/nimbase/opencode-api"
+  },
+  {
+    "name": "flysystem",
+    "url": "https://github.com/openpeeps/flysystem",
+    "method": "git",
+    "tags": [
+      "filesystem",
+      "files",
+      "fs",
+      "mime",
+      "storage",
+      "local"
+    ],
+    "description": "Multi-driver Filesystem. Atomic Writes, Policy Rules, Locks, Multi-disks and more",
+    "license": "MIT",
+    "web": "https://github.com/openpeeps/flysystem"
   }
 ]
