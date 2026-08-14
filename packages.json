@@ -40692,5 +40692,23 @@
     "description": "Multi-driver Filesystem. Atomic Writes, Policy Rules, Locks, Multi-disks and more",
     "license": "MIT",
     "web": "https://github.com/openpeeps/flysystem"
+  },
+  {
+    "name": "paypal",
+    "url": "https://github.com/nimbase/paypal-api",
+    "method": "git",
+    "tags": [
+      "openapi",
+      "rest",
+      "api",
+      "client",
+      "pay",
+      "payments",
+      "ecommerce",
+      "subscriptions"
+    ],
+    "description": "Auto-generated Nim clients for the PayPal REST APIs",
+    "license": "MIT",
+    "web": "https://github.com/nimbase/paypal-api"
   }
 ]
