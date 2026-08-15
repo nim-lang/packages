@@ -40710,5 +40710,23 @@
     "description": "Auto-generated Nim clients for the PayPal REST APIs",
     "license": "MIT",
     "web": "https://github.com/nimbase/paypal-api"
+  },
+  {
+    "name": "nimcypher",
+    "url": "https://github.com/nimbase/nimcypher",
+    "method": "git",
+    "tags": [
+      "crypto",
+      "cryptography",
+      "encryption",
+      "monocypher",
+      "blake2b",
+      "chacha20",
+      "x25519",
+      "password"
+    ],
+    "description": "A pure-Nim port of Monocypher 4.0.3: a small, easy to use crypto library.",
+    "license": "MIT",
+    "web": "https://github.com/nimbase/nimcypher"
   }
 ]
