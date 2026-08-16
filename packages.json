@@ -40728,5 +40728,19 @@
     "description": "A pure-Nim port of Monocypher 4.0.3: a small, easy to use crypto library.",
     "license": "MIT",
     "web": "https://github.com/nimbase/nimcypher"
+  },
+  {
+    "name": "tonalli",
+    "url": "https://github.com/coreyleavitt/tonalli",
+    "method": "git",
+    "tags": [
+      "async",
+      "io",
+      "networking",
+      "simulation"
+    ],
+    "description": "Asynchronous I/O framework for Nim with deterministic simulation testing",
+    "license": "Apache-2.0",
+    "web": "https://github.com/coreyleavitt/tonalli"
   }
 ]
