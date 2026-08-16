@@ -40742,5 +40742,23 @@
     "description": "Asynchronous I/O framework for Nim with deterministic simulation testing",
     "license": "Apache-2.0",
     "web": "https://github.com/coreyleavitt/tonalli"
+  },
+  {
+    "name": "libvirt",
+    "url": "https://github.com/nimbase/libvirt-nim",
+    "method": "git",
+    "tags": [
+      "virtualization",
+      "libvirt",
+      "virt",
+      "bindings",
+      "qemu",
+      "kvm",
+      "hypervisor",
+      "vm"
+    ],
+    "description": "Bindings for Libvirt",
+    "license": "MIT",
+    "web": "https://github.com/nimbase/libvirt-nim"
   }
 ]
