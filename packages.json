@@ -40779,5 +40779,24 @@
     "description": "A jest-like test runner for Nim",
     "license": "MIT",
     "web": "https://github.com/cryo2010/nim-checkmate"
+  },
+  {
+    "name": "spinoza",
+    "url": "https://github.com/openpeeps/spinoza",
+    "method": "git",
+    "tags": [
+      "libvirt",
+      "qemu",
+      "tools",
+      "virtualization",
+      "vm",
+      "vagrant",
+      "dev",
+      "vmware",
+      "vmbox"
+    ],
+    "description": "Spin up VMs like a Pro",
+    "license": "MIT",
+    "web": "https://github.com/openpeeps/spinoza"
   }
 ]
