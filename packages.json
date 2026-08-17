@@ -40760,5 +40760,24 @@
     "description": "Bindings for Libvirt",
     "license": "MIT",
     "web": "https://github.com/nimbase/libvirt-nim"
+  },
+  {
+    "name": "checkmate",
+    "url": "https://github.com/cryo2010/nim-checkmate",
+    "method": "git",
+    "tags": [
+      "checkmate",
+      "unit",
+      "test",
+      "unittest",
+      "runner",
+      "jest",
+      "suite",
+      "check",
+      "coverage"
+    ],
+    "description": "A jest-like test runner for Nim",
+    "license": "MIT",
+    "web": "https://github.com/cryo2010/nim-checkmate"
   }
 ]
