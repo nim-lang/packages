@@ -40798,5 +40798,22 @@
     "description": "Spin up VMs like a Pro",
     "license": "MIT",
     "web": "https://github.com/openpeeps/spinoza"
+  },
+  {
+    "name": "lxc",
+    "url": "https://github.com/nimbase/lxc-nim",
+    "method": "git",
+    "tags": [
+      "bindings",
+      "lxc",
+      "containers",
+      "linux",
+      "virtualization",
+      "devops",
+      "wrapper"
+    ],
+    "description": "Nim bindings for liblxc",
+    "license": "LGPL-2.1-only",
+    "web": "https://github.com/nimbase/lxc-nim"
   }
 ]
