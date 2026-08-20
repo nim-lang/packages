@@ -40815,5 +40815,23 @@
     "description": "Nim bindings for liblxc",
     "license": "LGPL-2.1-only",
     "web": "https://github.com/nimbase/lxc-nim"
+  },
+  {
+    "name": "nimbase",
+    "url": "https://github.com/nimbase/nimbase",
+    "method": "git",
+    "tags": [
+      "openapi",
+      "codegen",
+      "nimgen",
+      "oapi",
+      "wrapper",
+      "toolkit",
+      "bindings",
+      "restapi"
+    ],
+    "description": "Nim Codegen – OAPI 3.x, C wrappers, FFI bindings & native extensions",
+    "license": "MIT",
+    "web": "https://github.com/nimbase/nimbase"
   }
 ]
