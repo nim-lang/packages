@@ -40853,5 +40853,18 @@
     "description": "A fast HTTP/1.1-3 server with TLS, streaming, SSE and WebSockets",
     "license": "MIT",
     "web": "https://github.com/cryo2010/nim-vortex"
+  },
+  {
+    "name": "nimin",
+    "url": "https://github.com/nimin-lang/nimin",
+    "method": "git",
+    "tags": [
+      "embedded",
+      "dialect",
+      "constrained-resources"
+    ],
+    "description": "The symmetrical, zero-baggage dialect of Nim for tiny binaries and constrained runtimes.",
+    "license": "MIT",
+    "web": "https://github.com/nimin-lang/nimin"
   }
 ]
