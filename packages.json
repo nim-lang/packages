@@ -40867,5 +40867,18 @@
     "description": "A Nim code-metric analyzer for cyclomatic complexity, maintainability, and Halstead volume",
     "license": "MIT",
     "web": "https://github.com/cheeseonamonkey/nimaroma"
+  },
+  {
+    "name": "nimin",
+    "url": "https://github.com/nimin-lang/nimin",
+    "method": "git",
+    "tags": [
+      "embedded",
+      "dialect",
+      "constrained-resources"
+    ],
+    "description": "The symmetrical, zero-baggage dialect of Nim for tiny binaries and constrained runtimes.",
+    "license": "MIT",
+    "web": "https://github.com/nimin-lang/nimin"
   }
 ]
