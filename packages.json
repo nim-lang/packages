@@ -40853,5 +40853,19 @@
     "description": "A fast HTTP/1.1-3 server with TLS, streaming, SSE and WebSockets",
     "license": "MIT",
     "web": "https://github.com/cryo2010/nim-vortex"
+  },
+  {
+    "name": "nimaroma",
+    "url": "https://github.com/cheeseonamonkey/nimaroma",
+    "method": "git",
+    "tags": [
+      "metrics",
+      "static-analysis",
+      "nim",
+      "code-quality"
+    ],
+    "description": "A Nim code-metric analyzer for cyclomatic complexity, maintainability, and Halstead volume",
+    "license": "MIT",
+    "web": "https://github.com/cheeseonamonkey/nimaroma"
   }
 ]
