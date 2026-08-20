@@ -40833,5 +40833,25 @@
     "description": "Nim Codegen – OAPI 3.x, C wrappers, FFI bindings & native extensions",
     "license": "MIT",
     "web": "https://github.com/nimbase/nimbase"
+  },
+  {
+    "name": "vortex",
+    "url": "https://github.com/cryo2010/nim-vortex",
+    "method": "git",
+    "tags": [
+      "http",
+      "server",
+      "http1",
+      "http2",
+      "http3",
+      "tls",
+      "streaming",
+      "sse",
+      "websocket",
+      "websockets"
+    ],
+    "description": "A fast HTTP/1.1-3 server with TLS, streaming, SSE and WebSockets",
+    "license": "MIT",
+    "web": "https://github.com/cryo2010/nim-vortex"
   }
 ]
