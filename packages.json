@@ -37331,6 +37331,33 @@
     "web": "https://github.com/nervecenter/nimgnuplot"
   },
   {
+    "name": "simpleargs",
+    "url": "https://github.com/nervecenter/simpleargs",
+    "method": "git",
+    "tags": [
+      "library",
+      "console",
+      "cli",
+      "command-line",
+      "command line",
+      "commandline",
+      "args",
+      "cmd",
+      "opt",
+      "parse",
+      "argument",
+      "arguments",
+      "argparse",
+      "optparse",
+      "switches",
+      "parser",
+      "options"
+    ],
+    "description": "Dead simple data-oriented argument parsing for Nim.",
+    "license": "MIT",
+    "web": "https://github.com/nervecenter/simpleargs"
+  },
+  {
     "name": "cipherlib",
     "url": "https://github.com/ph4mished/cipherlib",
     "method": "git",
