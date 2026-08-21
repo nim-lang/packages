@@ -37331,8 +37331,8 @@
     "web": "https://github.com/nervecenter/nimgnuplot"
   },
   {
-    "name": "simpleargs",
-    "url": "https://github.com/nervecenter/simpleargs",
+    "name": "easyargs",
+    "url": "https://github.com/nervecenter/easyargs",
     "method": "git",
     "tags": [
       "library",
@@ -37355,7 +37355,7 @@
     ],
     "description": "Dead simple data-oriented argument parsing for Nim.",
     "license": "MIT",
-    "web": "https://github.com/nervecenter/simpleargs"
+    "web": "https://github.com/nervecenter/easyargs"
   },
   {
     "name": "cipherlib",
