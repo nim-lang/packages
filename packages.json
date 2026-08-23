@@ -40907,5 +40907,21 @@
     "description": "The symmetrical, zero-baggage dialect of Nim for tiny binaries and constrained runtimes.",
     "license": "MIT",
     "web": "https://github.com/nimin-lang/nimin"
+  },
+  {
+    "name": "intrashell",
+    "url": "https://github.com/CarmeloMaitaO/intrashell",
+    "method": "git",
+    "tags": [
+      "library",
+      "ffi",
+      "shared-library",
+      "dynamic-loading",
+      "plugin",
+      "interop"
+    ],
+    "description": "A lightweight library for using shared libraries as dynamic modules",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/CarmeloMaitaO/intrashell"
   }
 ]
