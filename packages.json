@@ -20,6 +20,21 @@
     "web": "https://github.com/vinpogo/nimver"
   },
   {
+    "name": "nimprompt",
+    "url": "https://github.com/MeritesKORT/nimprompt",
+    "method": "git",
+    "tags": [
+      "cli",
+      "terminal",
+      "ui",
+      "table",
+      "progress",
+      "prompt"
+    ],
+    "description": "Terminal UI utilities: pretty tables, progress bars, spinners and user prompts",
+    "license": "MIT"
+  },
+  {
     "name": "nifkit",
     "url": "https://github.com/puffball1567/nifkit",
     "method": "git",
