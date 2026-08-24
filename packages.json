@@ -1,5 +1,20 @@
 [
   {
+    "name": "terminal_graph",
+    "url": "https://github.com/titanomachy/terminal-graph",
+    "method": "git",
+    "tags": [
+      "terminal",
+      "graphs",
+      "charts",
+      "visualization",
+      "ansi"
+    ],
+    "description": "Pure-Nim terminal bar, line, XY, live, surface, and sparkline graphs",
+    "license": "MIT",
+    "web": "https://github.com/titanomachy/terminal-graph"
+  },
+  {
     "name": "terminal_table",
     "url": "https://github.com/titanomachy/terminal-table",
     "method": "git",
