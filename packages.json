@@ -1,5 +1,19 @@
 [
   {
+    "name": "terminal_styles",
+    "url": "https://github.com/titanomachy/terminal-styles",
+    "method": "git",
+    "tags": [
+      "terminal",
+      "ansi",
+      "unicode",
+      "styling"
+    ],
+    "description": "ANSI styling and terminal-aware text utilities for Nim",
+    "license": "MIT",
+    "web": "https://github.com/titanomachy/terminal-styles"
+  },
+  {
     "name": "nimantic_versioning",
     "alias": "nimver"
   },
