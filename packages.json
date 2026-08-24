@@ -1,5 +1,40 @@
 [
   {
+    "name": "nimantic_versioning",
+    "alias": "nimver"
+  },
+  {
+    "name": "nimver",
+    "url": "https://github.com/vinpogo/nimver",
+    "method": "git",
+    "tags": [
+      "git",
+      "semver",
+      "versioning",
+      "cli",
+      "conventional-commits",
+      "changelog"
+    ],
+    "description": "A package to manage semantic versioning from commit messages",
+    "license": "MIT",
+    "web": "https://github.com/vinpogo/nimver"
+  },
+  {
+    "name": "nimprompt",
+    "url": "https://github.com/MeritesKORT/nimprompt",
+    "method": "git",
+    "tags": [
+      "cli",
+      "terminal",
+      "ui",
+      "table",
+      "progress",
+      "prompt"
+    ],
+    "description": "Terminal UI utilities: pretty tables, progress bars, spinners and user prompts",
+    "license": "MIT"
+  },
+  {
     "name": "nifkit",
     "url": "https://github.com/puffball1567/nifkit",
     "method": "git",
@@ -19034,6 +19069,21 @@
     "web": "https://github.com/quadram-institute-bioscience/readfx"
   },
   {
+    "name": "gzfast",
+    "url": "https://github.com/telatin/gzfast",
+    "method": "git",
+    "tags": [
+      "gzip",
+      "decompression",
+      "zlib",
+      "multithreaded",
+      "compression"
+    ],
+    "description": "Fast, verified, multithreaded gzip decompression with a bundled zlib (no system libraries required)",
+    "license": "MIT",
+    "web": "https://telatin.github.io/gzfast/"
+  },
+  {
     "name": "abif",
     "url": "https://github.com/quadram-institute-bioscience/nim-abif",
     "method": "git",
@@ -37296,6 +37346,33 @@
     "web": "https://github.com/nervecenter/nimgnuplot"
   },
   {
+    "name": "easyargs",
+    "url": "https://github.com/nervecenter/easyargs",
+    "method": "git",
+    "tags": [
+      "library",
+      "console",
+      "cli",
+      "command-line",
+      "command line",
+      "commandline",
+      "args",
+      "cmd",
+      "opt",
+      "parse",
+      "argument",
+      "arguments",
+      "argparse",
+      "optparse",
+      "switches",
+      "parser",
+      "options"
+    ],
+    "description": "Dead simple data-oriented argument parsing for Nim.",
+    "license": "MIT",
+    "web": "https://github.com/nervecenter/easyargs"
+  },
+  {
     "name": "cipherlib",
     "url": "https://github.com/ph4mished/cipherlib",
     "method": "git",
@@ -40508,5 +40585,358 @@
     "description": "Pure nim quicksort implementation",
     "license": "MIT",
     "web": "https://github.com/Q-Master/quicksort.nim"
+  },
+  {
+    "name": "exa",
+    "url": "https://codeberg.org/brulee/exa",
+    "method": "git",
+    "tags": [
+      "sqlite",
+      "sql",
+      "db",
+      "database",
+      "library"
+    ],
+    "description": "Ergonomic database connectors for Nim.",
+    "license": "BSD-3-Clause",
+    "web": "https://docs.penguinite.dev/exa/"
+  },
+  {
+    "name": "sandwall",
+    "url": "https://github.com/capocasa/sandwall",
+    "method": "git",
+    "tags": [
+      "landlock",
+      "seatbelt",
+      "sandbox",
+      "security"
+    ],
+    "description": "A process-level filesystem sandbox backed by OS-native primitives (Landlock, Seatbelt, Windows ACLs)",
+    "license": "MIT",
+    "web": "https://github.com/capocasa/sandwall"
+  },
+  {
+    "name": "chachachat",
+    "url": "https://github.com/openpeeps/chachachat",
+    "method": "git",
+    "tags": [
+      "chat",
+      "chatbot",
+      "rag",
+      "llm",
+      "embeddable",
+      "ai",
+      "openai"
+    ],
+    "description": "Embeddable LLM chat with RAG capabilities",
+    "license": "MIT",
+    "web": "https://github.com/openpeeps/chachachat"
+  },
+  {
+    "name": "smuggler",
+    "url": "https://github.com/openpeeps/smuggler",
+    "method": "git",
+    "tags": [
+      "smuggling",
+      "http",
+      "request",
+      "hrs",
+      "exploit",
+      "treqs",
+      "fuzzer",
+      "http-headers",
+      "headers"
+    ],
+    "description": "T-Reqs Grammar-based HTTP/1.x fuzzer for request-smuggling detection",
+    "license": "MIT",
+    "web": "https://github.com/openpeeps/smuggler"
+  },
+  {
+    "name": "ffi",
+    "url": "https://github.com/logos-messaging/nim-ffi",
+    "method": "git",
+    "tags": [
+      "ffi",
+      "bindings",
+      "codegen",
+      "c",
+      "cpp",
+      "rust",
+      "cbor",
+      "interop"
+    ],
+    "description": "FFI framework with custom header generation",
+    "license": "MIT or Apache License 2.0",
+    "web": "https://github.com/logos-messaging/nim-ffi"
+  },
+  {
+    "name": "kiwiberry",
+    "url": "https://github.com/elcritch/kiwiberry",
+    "method": "git",
+    "tags": [
+      "gui",
+      "layout",
+      "constraint-solver",
+      "cassowary"
+    ],
+    "description": "Nim port of Kiwi/C++",
+    "license": "BSD-3-Clause",
+    "web": "https://github.com/elcritch/kiwiberry"
+  },
+  {
+    "name": "merenda",
+    "url": "https://github.com/elcritch/merenda",
+    "method": "git",
+    "tags": [
+      "gui",
+      "ui",
+      "desktop",
+      "cocoa",
+      "gnustep",
+      "openstep",
+      "graphical-user-interface",
+      "themes"
+    ],
+    "description": "full-featured pure Nim UI toolkit based on Cocoa",
+    "license": "BSD-3-Clause",
+    "web": "https://github.com/elcritch/merenda"
+  },
+  {
+    "name": "opencode",
+    "url": "https://github.com/nimbase/opencode-api",
+    "method": "git",
+    "tags": [
+      "opencode",
+      "ai",
+      "api",
+      "agent",
+      "client",
+      "sdk",
+      "llm",
+      "nimbase"
+    ],
+    "description": "opencode api",
+    "license": "MIT",
+    "web": "https://github.com/nimbase/opencode-api"
+  },
+  {
+    "name": "flysystem",
+    "url": "https://github.com/openpeeps/flysystem",
+    "method": "git",
+    "tags": [
+      "filesystem",
+      "files",
+      "fs",
+      "mime",
+      "storage",
+      "local"
+    ],
+    "description": "Multi-driver Filesystem. Atomic Writes, Policy Rules, Locks, Multi-disks and more",
+    "license": "MIT",
+    "web": "https://github.com/openpeeps/flysystem"
+  },
+  {
+    "name": "paypal",
+    "url": "https://github.com/nimbase/paypal-api",
+    "method": "git",
+    "tags": [
+      "openapi",
+      "rest",
+      "api",
+      "client",
+      "pay",
+      "payments",
+      "ecommerce",
+      "subscriptions"
+    ],
+    "description": "Auto-generated Nim clients for the PayPal REST APIs",
+    "license": "MIT",
+    "web": "https://github.com/nimbase/paypal-api"
+  },
+  {
+    "name": "nimcypher",
+    "url": "https://github.com/nimbase/nimcypher",
+    "method": "git",
+    "tags": [
+      "crypto",
+      "cryptography",
+      "encryption",
+      "monocypher",
+      "blake2b",
+      "chacha20",
+      "x25519",
+      "password"
+    ],
+    "description": "A pure-Nim port of Monocypher 4.0.3: a small, easy to use crypto library.",
+    "license": "MIT",
+    "web": "https://github.com/nimbase/nimcypher"
+  },
+  {
+    "name": "tonalli",
+    "url": "https://github.com/coreyleavitt/tonalli",
+    "method": "git",
+    "tags": [
+      "async",
+      "io",
+      "networking",
+      "simulation"
+    ],
+    "description": "Asynchronous I/O framework for Nim with deterministic simulation testing",
+    "license": "Apache-2.0",
+    "web": "https://github.com/coreyleavitt/tonalli"
+  },
+  {
+    "name": "libvirt",
+    "url": "https://github.com/nimbase/libvirt-nim",
+    "method": "git",
+    "tags": [
+      "virtualization",
+      "libvirt",
+      "virt",
+      "bindings",
+      "qemu",
+      "kvm",
+      "hypervisor",
+      "vm"
+    ],
+    "description": "Bindings for Libvirt",
+    "license": "MIT",
+    "web": "https://github.com/nimbase/libvirt-nim"
+  },
+  {
+    "name": "checkmate",
+    "url": "https://github.com/cryo2010/nim-checkmate",
+    "method": "git",
+    "tags": [
+      "checkmate",
+      "unit",
+      "test",
+      "unittest",
+      "runner",
+      "jest",
+      "suite",
+      "check",
+      "coverage"
+    ],
+    "description": "A jest-like test runner for Nim",
+    "license": "MIT",
+    "web": "https://github.com/cryo2010/nim-checkmate"
+  },
+  {
+    "name": "spinoza",
+    "url": "https://github.com/openpeeps/spinoza",
+    "method": "git",
+    "tags": [
+      "libvirt",
+      "qemu",
+      "tools",
+      "virtualization",
+      "vm",
+      "vagrant",
+      "dev",
+      "vmware",
+      "vmbox"
+    ],
+    "description": "Spin up VMs like a Pro",
+    "license": "MIT",
+    "web": "https://github.com/openpeeps/spinoza"
+  },
+  {
+    "name": "lxc",
+    "url": "https://github.com/nimbase/lxc-nim",
+    "method": "git",
+    "tags": [
+      "bindings",
+      "lxc",
+      "containers",
+      "linux",
+      "virtualization",
+      "devops",
+      "wrapper"
+    ],
+    "description": "Nim bindings for liblxc",
+    "license": "LGPL-2.1-only",
+    "web": "https://github.com/nimbase/lxc-nim"
+  },
+  {
+    "name": "nimbase",
+    "url": "https://github.com/nimbase/nimbase",
+    "method": "git",
+    "tags": [
+      "openapi",
+      "codegen",
+      "nimgen",
+      "oapi",
+      "wrapper",
+      "toolkit",
+      "bindings",
+      "restapi"
+    ],
+    "description": "Nim Codegen – OAPI 3.x, C wrappers, FFI bindings & native extensions",
+    "license": "MIT",
+    "web": "https://github.com/nimbase/nimbase"
+  },
+  {
+    "name": "vortex",
+    "url": "https://github.com/cryo2010/nim-vortex",
+    "method": "git",
+    "tags": [
+      "http",
+      "server",
+      "http1",
+      "http2",
+      "http3",
+      "tls",
+      "streaming",
+      "sse",
+      "websocket",
+      "websockets"
+    ],
+    "description": "A fast HTTP/1.1-3 server with TLS, streaming, SSE and WebSockets",
+    "license": "MIT",
+    "web": "https://github.com/cryo2010/nim-vortex"
+  },
+  {
+    "name": "nimaroma",
+    "url": "https://github.com/cheeseonamonkey/nimaroma",
+    "method": "git",
+    "tags": [
+      "metrics",
+      "static-analysis",
+      "nim",
+      "code-quality"
+    ],
+    "description": "A Nim code-metric analyzer for cyclomatic complexity, maintainability, and Halstead volume",
+    "license": "MIT",
+    "web": "https://github.com/cheeseonamonkey/nimaroma"
+  },
+  {
+    "name": "nimin",
+    "url": "https://github.com/nimin-lang/nimin",
+    "method": "git",
+    "tags": [
+      "embedded",
+      "dialect",
+      "constrained-resources"
+    ],
+    "description": "The symmetrical, zero-baggage dialect of Nim for tiny binaries and constrained runtimes.",
+    "license": "MIT",
+    "web": "https://github.com/nimin-lang/nimin"
+  },
+  {
+    "name": "intrashell",
+    "url": "https://github.com/CarmeloMaitaO/intrashell",
+    "method": "git",
+    "tags": [
+      "library",
+      "ffi",
+      "shared-library",
+      "dynamic-loading",
+      "plugin",
+      "interop"
+    ],
+    "description": "A lightweight library for using shared libraries as dynamic modules",
+    "license": "Apache License 2.0",
+    "web": "https://github.com/CarmeloMaitaO/intrashell"
   }
 ]
