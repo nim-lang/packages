@@ -1,5 +1,20 @@
 [
   {
+    "name": "terminal_table",
+    "url": "https://github.com/titanomachy/terminal-table",
+    "method": "git",
+    "tags": [
+      "terminal",
+      "tables",
+      "ansi",
+      "unicode",
+      "tui"
+    ],
+    "description": "Pure-Nim terminal table construction and rendering",
+    "license": "MIT",
+    "web": "https://github.com/titanomachy/terminal-table"
+  },
+  {
     "name": "terminal_style",
     "url": "https://github.com/titanomachy/terminal-style",
     "method": "git",
