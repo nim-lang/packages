@@ -41065,5 +41065,54 @@
     "description": "HTTP/1.1, HTTP/2 and HTTP/3 clients and servers for the CPS Nim runtime",
     "license": "MIT",
     "web": "https://github.com/gabearro/cps-http"
+  },
+  {
+    "name": "cps_wasm",
+    "url": "https://github.com/gabearro/cps-wasm",
+    "method": "git",
+    "tags": [
+      "jit",
+      "runtime",
+      "virtual-machine",
+      "wasi",
+      "wasm",
+      "webassembly"
+    ],
+    "description": "WebAssembly VM, WASI runtime and tiered JIT implemented in Nim",
+    "license": "MIT",
+    "web": "https://github.com/gabearro/cps-wasm"
+  },
+  {
+    "name": "cps_bittorrent",
+    "url": "https://github.com/gabearro/cps-bittorrent",
+    "method": "git",
+    "tags": [
+      "bittorrent",
+      "dht",
+      "networking",
+      "torrent",
+      "tracker",
+      "utp"
+    ],
+    "description": "BitTorrent client with DHT, uTP, trackers and disk storage for the CPS Nim runtime",
+    "license": "MIT",
+    "web": "https://github.com/gabearro/cps-bittorrent"
+  },
+  {
+    "name": "cps_irc",
+    "url": "https://github.com/gabearro/cps-irc",
+    "method": "git",
+    "tags": [
+      "async",
+      "dcc",
+      "irc",
+      "ircv3",
+      "networking",
+      "sasl",
+      "xdcc"
+    ],
+    "description": "IRC client, protocol, SASL, DCC and XDCC support for the CPS Nim runtime",
+    "license": "MIT",
+    "web": "https://github.com/gabearro/cps-irc"
   }
 ]
