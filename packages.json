@@ -40982,5 +40982,25 @@
     "description": "A lightweight library for using shared libraries as dynamic modules",
     "license": "Apache License 2.0",
     "web": "https://github.com/CarmeloMaitaO/intrashell"
+  },
+  {
+    "name": "undo",
+    "url": "https://github.com/openpeeps/undo",
+    "method": "git",
+    "tags": [
+      "history",
+      "log",
+      "redo",
+      "undo",
+      "log",
+      "state",
+      "wal",
+      "commit",
+      "snapshot",
+      "text"
+    ],
+    "description": "A persistent undo/redo history manager with snapshot, diff, and JSON support",
+    "license": "MIT",
+    "web": "https://github.com/openpeeps/undo"
   }
 ]
