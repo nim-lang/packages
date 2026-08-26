@@ -41099,6 +41099,21 @@
     "web": "https://github.com/gabearro/cps-bittorrent"
   },
   {
+    "name": "hcl_nim",
+    "url": "https://github.com/Zenit-Linux/hcl-nim",
+    "method": "git",
+    "tags": [
+      "hcl",
+      "terraform",
+      "config",
+      "parser",
+      "hashicorp"
+    ],
+    "description": "HCL (HashiCorp Configuration Language) v1 and v2 parser for Nim",
+    "license": "MIT",
+    "web": "https://github.com/Zenit-Linux/hcl-nim"
+  },
+  {
     "name": "cps_irc",
     "url": "https://github.com/gabearro/cps-irc",
     "method": "git",
