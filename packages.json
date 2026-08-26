@@ -41002,5 +41002,117 @@
     "description": "A persistent undo/redo history manager with snapshot, diff, and JSON support",
     "license": "MIT",
     "web": "https://github.com/openpeeps/undo"
+  },
+  {
+    "name": "cps_runtime",
+    "url": "https://github.com/gabearro/cps-runtime",
+    "method": "git",
+    "tags": [
+      "async",
+      "cps",
+      "event-loop",
+      "io",
+      "runtime",
+      "multithreading"
+    ],
+    "description": "Continuation-passing-style async runtime, event loop, I/O, concurrency, and multithreaded scheduler for Nim",
+    "license": "MIT",
+    "web": "https://github.com/gabearro/cps-runtime"
+  },
+  {
+    "name": "cps_tls",
+    "url": "https://github.com/gabearro/cps-tls",
+    "method": "git",
+    "tags": [
+      "async",
+      "cps",
+      "networking",
+      "ssl",
+      "tls"
+    ],
+    "description": "Async TLS client and server streams for the CPS Nim runtime",
+    "license": "MIT",
+    "web": "https://github.com/gabearro/cps-tls"
+  },
+  {
+    "name": "cps_quic",
+    "url": "https://github.com/gabearro/cps-quic",
+    "method": "git",
+    "tags": [
+      "async",
+      "cps",
+      "http3",
+      "networking",
+      "quic"
+    ],
+    "description": "QUIC transport implementation for the CPS Nim runtime",
+    "license": "MIT",
+    "web": "https://github.com/gabearro/cps-quic"
+  },
+  {
+    "name": "cps_http",
+    "url": "https://github.com/gabearro/cps-http",
+    "method": "git",
+    "tags": [
+      "async",
+      "cps",
+      "http",
+      "http2",
+      "http3",
+      "server",
+      "websocket"
+    ],
+    "description": "HTTP/1.1, HTTP/2 and HTTP/3 clients and servers for the CPS Nim runtime",
+    "license": "MIT",
+    "web": "https://github.com/gabearro/cps-http"
+  },
+  {
+    "name": "cps_wasm",
+    "url": "https://github.com/gabearro/cps-wasm",
+    "method": "git",
+    "tags": [
+      "jit",
+      "runtime",
+      "virtual-machine",
+      "wasi",
+      "wasm",
+      "webassembly"
+    ],
+    "description": "WebAssembly VM, WASI runtime and tiered JIT implemented in Nim",
+    "license": "MIT",
+    "web": "https://github.com/gabearro/cps-wasm"
+  },
+  {
+    "name": "cps_bittorrent",
+    "url": "https://github.com/gabearro/cps-bittorrent",
+    "method": "git",
+    "tags": [
+      "bittorrent",
+      "dht",
+      "networking",
+      "torrent",
+      "tracker",
+      "utp"
+    ],
+    "description": "BitTorrent client with DHT, uTP, trackers and disk storage for the CPS Nim runtime",
+    "license": "MIT",
+    "web": "https://github.com/gabearro/cps-bittorrent"
+  },
+  {
+    "name": "cps_irc",
+    "url": "https://github.com/gabearro/cps-irc",
+    "method": "git",
+    "tags": [
+      "async",
+      "dcc",
+      "irc",
+      "ircv3",
+      "networking",
+      "sasl",
+      "xdcc"
+    ],
+    "description": "IRC client, protocol, SASL, DCC and XDCC support for the CPS Nim runtime",
+    "license": "MIT",
+    "web": "https://github.com/gabearro/cps-irc"
   }
 ]
