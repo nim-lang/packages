@@ -40858,8 +40858,8 @@
     "name": "nlp",
     "url": "https://github.com/cheeseonamonkey/nim-nlp",
     "method": "git",
-    "tags": ["nlp", "natural-language-processing", "tfidf", "text"],
-    "description": "Lightweight natural-language processing toolkit for Nim",
+    "tags": ["nlp", "text-processing", "tokenization", "stemming", "tfidf", "bm25", "information-retrieval"],
+    "description": "Dependency-free NLP toolkit for Nim: tokenization, normalization, stemming, TF-IDF, BM25, and text analysis",
     "license": "MIT",
     "web": "https://github.com/cheeseonamonkey/nim-nlp"
   }
