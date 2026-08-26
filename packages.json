@@ -41129,5 +41129,27 @@
     "description": "IRC client, protocol, SASL, DCC and XDCC support for the CPS Nim runtime",
     "license": "MIT",
     "web": "https://github.com/gabearro/cps-irc"
+  },
+  {
+    "name": "nkit",
+    "url": "https://github.com/nimbase/nkit",
+    "method": "git",
+    "tags": [
+      "macos",
+      "linux",
+      "windows",
+      "kit",
+      "desktop",
+      "mobile",
+      "app",
+      "application",
+      "api",
+      "ios",
+      "android",
+      "flutter"
+    ],
+    "description": "Unified APIs for Android, iOS, Linux, macOS and Windows",
+    "license": "MIT",
+    "web": "https://github.com/nimbase/nkit"
   }
 ]
