@@ -1,5 +1,20 @@
 [
   {
+    "name": "terminal_layout",
+    "url": "https://github.com/titanomachy/terminal-layout",
+    "method": "git",
+    "tags": [
+      "terminal",
+      "layout",
+      "ansi",
+      "unicode",
+      "tui"
+    ],
+    "description": "Deterministic, output-only terminal layout components for Nim",
+    "license": "MIT",
+    "web": "https://github.com/titanomachy/terminal-layout"
+  },
+  {
     "name": "terminal_graph",
     "url": "https://github.com/titanomachy/terminal-graph",
     "method": "git",
