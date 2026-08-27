@@ -10,7 +10,7 @@
       "unicode",
       "tui"
     ],
-    "description": "Pure-Nim terminal layout library with trees, panels/cards, banners, callouts, bullet lists.",
+    "description": "Pure-Nim terminal layout library with trees for hierarchies, panels and cards, lists with indentation, callouts and banners.",
     "license": "MIT",
     "web": "https://github.com/titanomachy/terminal-layout"
   },
