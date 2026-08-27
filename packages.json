@@ -8,7 +8,13 @@
       "layout",
       "ansi",
       "unicode",
-      "tui"
+      "tui",
+      "trees",
+      "panels",
+      "cards",
+      "lists",
+      "callouts",
+      "banners"
     ],
     "description": "Pure-Nim terminal layout library with trees for hierarchies, panels and cards, lists with indentation, callouts and banners.",
     "license": "MIT",
