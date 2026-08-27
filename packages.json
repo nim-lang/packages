@@ -10,7 +10,7 @@
       "unicode",
       "tui"
     ],
-    "description": "Deterministic, output-only terminal layout components for Nim",
+    "description": "Pure-Nim terminal layout library with trees, panels/cards, banners, callouts, bullet lists.",
     "license": "MIT",
     "web": "https://github.com/titanomachy/terminal-layout"
   },
