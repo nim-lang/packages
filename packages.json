@@ -41172,5 +41172,18 @@
     "description": "Unified APIs for Android, iOS, Linux, macOS and Windows",
     "license": "MIT",
     "web": "https://github.com/nimbase/nkit"
+  },
+  {
+    "name": "robocode_tankroyale_botapi",
+    "url": "https://github.com/SirStone/robocode_tankroyale_botapi",
+    "method": "git",
+    "tags": [
+      "robocode",
+      "tankroyale",
+      "bot-api"
+    ],
+    "description": "Nim Bot API for Robocode Tank Royale — community-maintained",
+    "license": "Apache-2.0",
+    "web": "https://github.com/SirStone/robocode_tankroyale_botapi"
   }
 ]
