@@ -41185,5 +41185,23 @@
     "description": "Nim Bot API for Robocode Tank Royale — community-maintained",
     "license": "Apache-2.0",
     "web": "https://github.com/SirStone/robocode_tankroyale_botapi"
+  },
+  {
+    "name": "nbrotli",
+    "url": "https://github.com/nimbase/nbrotli",
+    "method": "git",
+    "tags": [
+      "compressor",
+      "encoder",
+      "brotli",
+      "google",
+      "port",
+      "decompressor",
+      "decoder",
+      "algo"
+    ],
+    "description": "Pure Nim Brotli compressor/decompressor",
+    "license": "MIT",
+    "web": "https://github.com/nimbase/nbrotli"
   }
 ]
