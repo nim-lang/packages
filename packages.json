@@ -1,5 +1,26 @@
 [
   {
+    "name": "terminal_layout",
+    "url": "https://github.com/titanomachy/terminal-layout",
+    "method": "git",
+    "tags": [
+      "terminal",
+      "layout",
+      "ansi",
+      "unicode",
+      "tui",
+      "trees",
+      "panels",
+      "cards",
+      "lists",
+      "callouts",
+      "banners"
+    ],
+    "description": "Pure-Nim terminal layout library with trees for hierarchies, panels and cards, lists with indentation, callouts and banners.",
+    "license": "MIT",
+    "web": "https://github.com/titanomachy/terminal-layout"
+  },
+  {
     "name": "terminal_graph",
     "url": "https://github.com/titanomachy/terminal-graph",
     "method": "git",
