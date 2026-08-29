@@ -41203,5 +41203,21 @@
     "description": "Pure Nim Brotli compressor/decompressor",
     "license": "MIT",
     "web": "https://github.com/nimbase/nbrotli"
+  },
+  {
+    "name": "nlp",
+    "url": "https://github.com/cheeseonamonkey/nim-nlp",
+    "method": "git",
+    "tags": [
+      "nlp",
+      "text-processing",
+      "stemming",
+      "tfidf",
+      "bm25",
+      "lda"
+    ],
+    "description": "Dependency-free NLP toolkit for Nim: tokenization, normalization, stemming, TF-IDF, BM25, and text analysis",
+    "license": "MIT",
+    "web": "https://github.com/cheeseonamonkey/nim-nlp"
   }
 ]
