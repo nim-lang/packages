@@ -41203,5 +41203,18 @@
     "description": "Pure Nim Brotli compressor/decompressor",
     "license": "MIT",
     "web": "https://github.com/nimbase/nbrotli"
+  },
+  {
+    "name": "wilder_screen_keys",
+    "url": "http://forgejo:3000/wilder/wilder-screenkeys-dev",
+    "method": "git",
+    "tags": [
+      "web",
+      "library",
+      "wrapper"
+    ],
+    "description": "Keyboard-driven mouse control for accessibility",
+    "license": "Wilder Product License 1.0",
+    "web": "http://forgejo:3000/wilder/wilder-screenkeys-dev"
   }
 ]
