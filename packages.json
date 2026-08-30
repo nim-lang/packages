@@ -41203,5 +41203,22 @@
     "description": "Pure Nim Brotli compressor/decompressor",
     "license": "MIT",
     "web": "https://github.com/nimbase/nbrotli"
+  },
+  {
+    "name": "unirate_api",
+    "url": "https://github.com/UniRate-API/unirate-api-nim",
+    "method": "git",
+    "tags": [
+      "unirate",
+      "exchange-rates",
+      "currency",
+      "forex",
+      "vat",
+      "fintech",
+      "api-client"
+    ],
+    "description": "Official Nim client for the UniRate API — free currency exchange rates, historical data, and VAT rates.",
+    "license": "MIT",
+    "web": "https://github.com/UniRate-API/unirate-api-nim"
   }
 ]
