@@ -41205,6 +41205,55 @@
     "web": "https://github.com/nimbase/nbrotli"
   },
   {
+    "name": "datpkgr",
+    "url": "https://github.com/openpeeps/datpkgr",
+    "method": "git",
+    "tags": [
+      "dfs",
+      "packager",
+      "manager",
+      "kit",
+      "semver",
+      "devkit"
+    ],
+    "description": "App/Lang-agnostic package manager library",
+    "license": "MIT",
+    "web": "https://github.com/openpeeps/datpkgr"
+  },
+  {
+    "name": "unirate_api",
+    "url": "https://github.com/UniRate-API/unirate-api-nim",
+    "method": "git",
+    "tags": [
+      "unirate",
+      "exchange-rates",
+      "currency",
+      "forex",
+      "vat",
+      "fintech",
+      "api-client"
+    ],
+    "description": "Official Nim client for the UniRate API — free currency exchange rates, historical data, and VAT rates.",
+    "license": "MIT",
+    "web": "https://github.com/UniRate-API/unirate-api-nim"
+  },
+  {
+    "name": "nlp",
+    "url": "https://github.com/cheeseonamonkey/nim-nlp",
+    "method": "git",
+    "tags": [
+      "nlp",
+      "text-processing",
+      "stemming",
+      "tfidf",
+      "bm25",
+      "lda"
+    ],
+    "description": "Dependency-free NLP toolkit for Nim: tokenization, normalization, stemming, TF-IDF, BM25, and text analysis",
+    "license": "MIT",
+    "web": "https://github.com/cheeseonamonkey/nim-nlp"
+  },
+  {
     "name": "promptmx",
     "url": "https://github.com/lipunila-sonaliwan-fr/nim.drawit.git",
     "method": "git",
@@ -41223,6 +41272,6 @@
     ],
     "description": "Automates batch image generation in Draw Things using structured prompts, variable substitution, and unified settings for fast, repeatable creative workflows.",
     "license": "CC BY-NC-SA 4.0",
-    "web": "https://github.com/lipunila-sonaliwan-fr/nim.drawit.git"
+    "web": "https://github.com/lipunila-sonaliwan-fr/nim.drawit.git"    
   }
 ]
