@@ -41205,6 +41205,22 @@
     "web": "https://github.com/nimbase/nbrotli"
   },
   {
+    "name": "datpkgr",
+    "url": "https://github.com/openpeeps/datpkgr",
+    "method": "git",
+    "tags": [
+      "dfs",
+      "packager",
+      "manager",
+      "kit",
+      "semver",
+      "devkit"
+    ],
+    "description": "App/Lang-agnostic package manager library",
+    "license": "MIT",
+    "web": "https://github.com/openpeeps/datpkgr"
+  },
+  {
     "name": "unirate_api",
     "url": "https://github.com/UniRate-API/unirate-api-nim",
     "method": "git",
