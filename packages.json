@@ -1,5 +1,22 @@
 [
   {
+  	"name": "canary",
+  	"url": "https://github.com/titanomachy/canary",
+  	"method": "git",
+  	"tags": [
+   		"monitoring",
+  	  "health-check",
+  	  "uptime",
+  	  "http",
+   		"tls",
+  	  "networking",
+    	"cli"
+  	],
+  	"description": "A lightweight, standalone service health and uptime monitoring tool.",
+  	"license": "MIT",
+  	"web": "https://github.com/titanomachy/canary"
+	},
+  {
     "name": "terminal_layout",
     "url": "https://github.com/titanomachy/terminal-layout",
     "method": "git",
