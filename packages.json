@@ -1,5 +1,25 @@
 [
   {
+    "name": "canary",
+    "url": "https://github.com/titanomachy/canary",
+    "method": "git",
+    "tags": [
+      "monitoring",
+      "health-check",
+      "uptime",
+      "http",
+      "tls",
+      "tcp",
+      "icmp",
+      "dns",
+      "networking",
+      "cli"
+    ],
+    "description": "A lightweight, stateless service health and uptime monitoring CLI in Nim for Linux.",
+    "license": "MIT",
+    "web": "https://github.com/titanomachy/canary"
+  },
+  {
     "name": "terminal_layout",
     "url": "https://github.com/titanomachy/terminal-layout",
     "method": "git",
