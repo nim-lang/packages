@@ -41205,7 +41205,7 @@
     "web": "https://github.com/nimbase/nbrotli"
   },
   {
-    "name": "drawit",
+    "name": "promptmx",
     "url": "https://github.com/lipunila-sonaliwan-fr/nim.drawit.git",
     "method": "git",
     "tags": [
