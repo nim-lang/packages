@@ -41203,5 +41203,26 @@
     "description": "Pure Nim Brotli compressor/decompressor",
     "license": "MIT",
     "web": "https://github.com/nimbase/nbrotli"
+  },
+  {
+    "name": "drawit",
+    "url": "https://github.com/lipunila-sonaliwan-fr/nim.drawit.git",
+    "method": "git",
+    "tags": [
+      "LPCS",
+      "Lab'Oratoire",
+      "automation",
+      "DrawThings",
+      "prompting",
+      "batch_generation",
+      "workflow",
+      "sonaliwan",
+      "french",
+      "english",
+      "cli"
+    ],
+    "description": "Automates batch image generation in Draw Things using structured prompts, variable substitution, and unified settings for fast, repeatable creative workflows.",
+    "license": "CC BY-NC-SA 4.0",
+    "web": "https://github.com/lipunila-sonaliwan-fr/nim.drawit.git"
   }
 ]
