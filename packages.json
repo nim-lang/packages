@@ -41293,5 +41293,20 @@
     "description": "Automates batch image generation in Draw Things using structured prompts, variable substitution, and unified settings for fast, repeatable creative workflows.",
     "license": "CC BY-NC-SA 4.0",
     "web": "https://github.com/lipunila-sonaliwan-fr/nim.drawit.git"    
+  },
+  {
+    "name": "lwhttp",
+    "url": "https://github.com/capocasa/lwhttp",
+    "method": "git",
+    "tags": [
+      "web",
+      "http",
+      "server",
+      "embedded",
+      "pico",
+      "raspberrypi"
+    ],
+    "description": "Friendly embedded web server based on the lwip TCP/IP stack for the Raspberry Pi Pico W",
+    "license": "MIT"
   }
 ]
