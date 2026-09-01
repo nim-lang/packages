@@ -1,5 +1,27 @@
 [
   {
+    "name": "terminal_prompt",
+    "url": "https://github.com/titanomachy/terminal-prompt",
+    "method": "git",
+    "tags": [
+      "terminal",
+      "tui",
+      "cli",
+      "prompt",
+      "input",
+      "boxes",
+      "password",
+      "masking",
+      "single-select",
+      "multi-select",
+      "confirm",
+      "prompts"
+    ],
+    "description": "Pure-Nim terminal input boxes, password masking, single-select, multi-select, and confirm prompts.",
+    "license": "MIT",
+    "web": "https://github.com/titanomachy/terminal-prompt"
+  },
+  {
     "name": "canary",
     "url": "https://github.com/titanomachy/canary",
     "method": "git",
@@ -41292,7 +41314,7 @@
     ],
     "description": "Automates batch image generation in Draw Things using structured prompts, variable substitution, and unified settings for fast, repeatable creative workflows.",
     "license": "CC BY-NC-SA 4.0",
-    "web": "https://github.com/lipunila-sonaliwan-fr/nim.drawit.git"    
+    "web": "https://github.com/lipunila-sonaliwan-fr/nim.drawit.git"
   },
   {
     "name": "lwhttp",
