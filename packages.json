@@ -1,5 +1,27 @@
 [
   {
+    "name": "terminal_prompt",
+    "url": "https://github.com/titanomachy/terminal-prompt",
+    "method": "git",
+    "tags": [
+      "terminal",
+      "tui",
+      "cli",
+      "prompt",
+      "input",
+      "boxes",
+      "password",
+      "masking",
+      "single-select",
+      "multi-select",
+      "confirm",
+      "prompts"
+    ],
+    "description": "Pure-Nim terminal input boxes, password masking, single-select, multi-select, and confirm prompts.",
+    "license": "MIT",
+    "web": "https://github.com/titanomachy/terminal-prompt"
+  },
+  {
     "name": "terminal_screen",
     "url": "https://github.com/titanomachy/terminal-screen",
     "method": "git",
