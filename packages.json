@@ -22,6 +22,27 @@
     "web": "https://github.com/titanomachy/terminal-prompt"
   },
   {
+    "name": "terminal_screen",
+    "url": "https://github.com/titanomachy/terminal-screen",
+    "method": "git",
+    "tags": [
+      "terminal",
+      "screen",
+      "buffer",
+      "cursor",
+      "manipulation",
+      "raw",
+      "mode",
+      "geometry",
+      "detection",
+      "cli",
+      "interactive"
+    ],
+    "description": "Pure-Nim Terminal screen and cursor manipulation library providing alternate screen buffers, raw mode toggling, and terminal geometry detection.",
+    "license": "MIT",
+    "web": "https://github.com/titanomachy/terminal-screen"
+  },
+  {
     "name": "canary",
     "url": "https://github.com/titanomachy/canary",
     "method": "git",
