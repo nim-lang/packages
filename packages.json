@@ -41369,5 +41369,19 @@
     "description": "Client for the Real Dental Costs open data API: U.S. dental price bands by state and what Medicaid paid dentists per CDT code (HHS T-MSIS 2018-2024)",
     "license": "MIT",
     "web": "https://realdentalcosts.com/en/api/"
+  },
+  {
+    "name": "fasttree",
+    "url": "https://github.com/Zenit-Linux/libfasttree",
+    "method": "git",
+    "tags": [
+      "ostree",
+      "container",
+      "oci",
+      "composefs",
+      "overlayfs"
+    ],
+    "description": "Successor to OSTree: content-addressable, block-oriented, no hardlinks.",
+    "license": "MIT"
   }
 ]
