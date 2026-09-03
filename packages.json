@@ -41351,5 +41351,23 @@
     ],
     "description": "Friendly embedded web server based on the lwip TCP/IP stack for the Raspberry Pi Pico W",
     "license": "MIT"
+  },
+  {
+    "name": "realdentalcosts",
+    "url": "https://github.com/shoopeur-eng/realdentalcosts-nim",
+    "method": "git",
+    "tags": [
+      "api",
+      "client",
+      "http",
+      "json",
+      "health",
+      "dental",
+      "data",
+      "medicaid"
+    ],
+    "description": "Client for the Real Dental Costs open data API: U.S. dental price bands by state and what Medicaid paid dentists per CDT code (HHS T-MSIS 2018-2024)",
+    "license": "MIT",
+    "web": "https://realdentalcosts.com/en/api/"
   }
 ]
