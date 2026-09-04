@@ -1,5 +1,25 @@
 [
   {
+    "name": "terminal_status",
+    "url": "https://github.com/titanomachy/terminal-status",
+    "method": "git",
+    "tags": [
+      "terminal",
+      "tui",
+      "cli",
+      "terminaldeck",
+      "status",
+      "spinner",
+      "progress",
+      "tasks",
+      "ansi",
+      "unicode"
+    ],
+    "description": "Pure-Nim terminal spinners, single and multi-progress bars, and task step-trackers.",
+    "license": "MIT",
+    "web": "https://github.com/titanomachy/terminal-status"
+  },
+  {
     "name": "terminal_prompt",
     "url": "https://github.com/titanomachy/terminal-prompt",
     "method": "git",
