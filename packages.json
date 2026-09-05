@@ -41424,5 +41424,23 @@
     "description": "Nim interface to DuckDB / Quack and samples, including duQuack server.",
     "license": "CC BY-NC-SA 4.0",
     "web": "https://github.com/lipunila-sonaliwan-fr/nim.duckdb"
+  },
+  {
+    "name": "barometreweb",
+    "url": "https://github.com/tresor4k/barometreweb",
+    "method": "git",
+    "tags": [
+      "data",
+      "csv",
+      "dataset",
+      "prices",
+      "web",
+      "france",
+      "statistics",
+      "open-data"
+    ],
+    "description": "French website-creation price barometer 2026 (103 public prices, CC BY 4.0): load, filter and summarize the open dataset",
+    "license": "MIT",
+    "web": "https://lescreavores.fr/prix-creation-site-internet/"
   }
 ]
