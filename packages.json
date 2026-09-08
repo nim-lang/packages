@@ -13924,6 +13924,21 @@
     "web": "https://github.com/treeform/paddy"
   },
   {
+    "name": "fixxy",
+    "url": "https://github.com/treeform/fixxy",
+    "method": "git",
+    "tags": [
+      "math",
+      "fixed-point",
+      "deterministic",
+      "vectors",
+      "game"
+    ],
+    "description": "Deterministic fixed-point numbers and 2D vectors.",
+    "license": "MIT",
+    "web": "https://github.com/treeform/fixxy"
+  },
+  {
     "name": "xdo",
     "url": "https://github.com/juancarlospaco/nim-xdo",
     "method": "git",
