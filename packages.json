@@ -13924,6 +13924,22 @@
     "web": "https://github.com/treeform/paddy"
   },
   {
+    "name": "bassy",
+    "url": "https://github.com/treeform/bassy",
+    "method": "git",
+    "tags": [
+      "basic",
+      "interpreter",
+      "vm",
+      "scripting",
+      "deterministic",
+      "game"
+    ],
+    "description": "A fast, safe, deterministic VM for games and untrusted scripts.",
+    "license": "MIT",
+    "web": "https://github.com/treeform/bassy"
+  },
+  {
     "name": "xdo",
     "url": "https://github.com/juancarlospaco/nim-xdo",
     "method": "git",
