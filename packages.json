@@ -41504,5 +41504,19 @@
     ],
     "description": "Haskell-inspired functional programming tools for Nim!",
     "license": "0BSD"
+  },
+  {
+    "name": "antybrowser",
+    "url": "https:///",
+    "method": "",
+    "tags": [
+      "web",
+      "browser",
+      "fingerprint",
+      "api"
+    ],
+    "description": "Official Antybrowser SDK - Nim client for the Antybrowser Local API",
+    "license": "MIT",
+    "web": "https:///"
   }
 ]
