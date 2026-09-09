@@ -41504,5 +41504,20 @@
     ],
     "description": "Haskell-inspired functional programming tools for Nim!",
     "license": "0BSD"
+  },
+  {
+    "name": "zimstd",
+    "url": "https://github.com/gabearro/zimstd",
+    "method": "git",
+    "tags": [
+      "compression",
+      "zstd",
+      "zstandard",
+      "streaming",
+      "pure-nim"
+    ],
+    "description": "ZimSTD: pure Nim Zstandard compression and decompression",
+    "license": "BSD-3-Clause",
+    "web": "https://github.com/gabearro/zimstd"
   }
 ]
