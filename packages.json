@@ -1,5 +1,27 @@
 [
   {
+    "name": "terminal_widgets",
+    "url": "https://github.com/titanomachy/terminal-widgets",
+    "method": "git",
+    "tags": [
+      "terminal",
+      "tui",
+      "cli",
+      "terminaldeck",
+      "widgets",
+      "controls",
+      "forms",
+      "input",
+      "focus",
+      "layout",
+      "unicode",
+      "interactive"
+    ],
+    "description": "Pure-Nim persistent, composable terminal controls and focus handling",
+    "license": "MIT",
+    "web": "https://github.com/titanomachy/terminal-widgets"
+  },
+  {
     "name": "terminal_status",
     "url": "https://github.com/titanomachy/terminal-status",
     "method": "git",
