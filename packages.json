@@ -41560,5 +41560,22 @@
     "description": "ZimSTD: pure Nim Zstandard compression and decompression",
     "license": "BSD-3-Clause",
     "web": "https://github.com/gabearro/zimstd"
+  },
+  {
+    "name": "jose",
+    "url": "https://github.com/nimbase/jose",
+    "method": "git",
+    "tags": [
+      "jws",
+      "jwe",
+      "jwk",
+      "jwks",
+      "jwt",
+      "webtokens",
+      "nimcypher"
+    ],
+    "description": "Pure-Nim JOSE: JWS, JWE, JWK, and JWT on top of nimcypher.",
+    "license": "MIT",
+    "web": "https://github.com/nimbase/jose"
   }
 ]
