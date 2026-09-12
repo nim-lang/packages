@@ -41560,5 +41560,22 @@
     "description": "ZimSTD: pure Nim Zstandard compression and decompression",
     "license": "BSD-3-Clause",
     "web": "https://github.com/gabearro/zimstd"
+  },
+  {
+    "name": "keynub_licdongle",
+    "url": "https://github.com/AB-KeyNub/KeyNub-SDK?subdir=bindings/nim",
+    "method": "git",
+    "tags": [
+      "license",
+      "licensing",
+      "dongle",
+      "usb",
+      "hardware",
+      "copy-protection",
+      "security"
+    ],
+    "description": "Nim binding for the KeyNub USB-C license dongle (driverless on Windows, Linux and macOS)",
+    "license": "Apache-2.0",
+    "web": "https://www.keynub.com/developers/nim/"
   }
 ]
