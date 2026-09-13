@@ -41577,5 +41577,22 @@
     "description": "Pure-Nim JOSE: JWS, JWE, JWK, and JWT on top of nimcypher.",
     "license": "MIT",
     "web": "https://github.com/nimbase/jose"
+  },
+  {
+    "name": "keynub_licdongle",
+    "url": "https://github.com/AB-KeyNub/KeyNub-SDK?subdir=bindings/nim",
+    "method": "git",
+    "tags": [
+      "license",
+      "licensing",
+      "dongle",
+      "usb",
+      "hardware",
+      "copy-protection",
+      "security"
+    ],
+    "description": "Nim binding for the KeyNub USB-C license dongle (driverless on Windows, Linux and macOS)",
+    "license": "Apache-2.0",
+    "web": "https://www.keynub.com/developers/nim/"
   }
 ]
