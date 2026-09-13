@@ -41616,6 +41616,6 @@
     ],
     "description": "A declarative logic interpreter written in Nim, very similar in spirit to Prolog: it is an SLD resolution engine (unification + backtracking) featuring a knowledge base of facts and rules.",
     "license": "CC BY-NC-SA 4.0",
-    "web": "https://github.com/lipunila-sonaliwan-fr/nim.duckdb"
+    "web": "https://github.com/lipunila-sonaliwan-fr/nim.nimql"
   }
 ]
