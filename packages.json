@@ -41633,5 +41633,19 @@
     "description": "The economical coding agent. Free and open source command-line coding agent, efficient enough to use 3rd party token providers without a coding plan.",
     "license": "MIT",
     "web": "https://3code.capocasa.dev"
+  },
+  {
+    "name": "narser",
+    "url": "https://github.com/AzizMejbri/narser",
+    "method": "git",
+    "tags": [
+      "combinational",
+      "parser",
+      "library",
+      "functional"
+    ],
+    "description": "A small lightweight combinational parsing library in nim",
+    "license": "MIT",
+    "web": "https://github.com/AzizMejbri/narser"
   }
 ]
