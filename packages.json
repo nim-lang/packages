@@ -41634,5 +41634,20 @@
     "description": "A small lightweight combinational parsing library in nim",
     "license": "MIT",
     "web": "https://github.com/AzizMejbri/narser"
+  },
+  {
+    "name": "joltnim",
+    "url": "https://github.com/puffball1567/jolt-nim",
+    "method": "git",
+    "tags": [
+      "physics",
+      "3d",
+      "jolt",
+      "bindings",
+      "game-development"
+    ],
+    "description": "Native Nim bindings for Jolt Physics with raw and ownership-safe high-level APIs.",
+    "license": "MIT",
+    "web": "https://github.com/puffball1567/jolt-nim"
   }
 ]
