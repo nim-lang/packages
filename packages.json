@@ -41636,6 +41636,21 @@
     "web": "https://github.com/AzizMejbri/narser"
   },
   {
+    "name": "bgfxim",
+    "url": "https://github.com/puffball1567/bgfxim",
+    "method": "git",
+    "tags": [
+      "graphics",
+      "rendering",
+      "bgfx",
+      "bindings",
+      "game-development"
+    ],
+    "description": "Complete Nim bindings for the bgfx C99 API.",
+    "license": "BSD-2-Clause",
+    "web": "https://github.com/puffball1567/bgfxim"
+  },
+  {
     "name": "joltnim",
     "url": "https://github.com/puffball1567/jolt-nim",
     "method": "git",
