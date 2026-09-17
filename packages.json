@@ -41649,5 +41649,20 @@
     "description": "Complete Nim bindings for the bgfx C99 API.",
     "license": "BSD-2-Clause",
     "web": "https://github.com/puffball1567/bgfxim"
+  },
+  {
+    "name": "joltnim",
+    "url": "https://github.com/puffball1567/jolt-nim",
+    "method": "git",
+    "tags": [
+      "physics",
+      "3d",
+      "jolt",
+      "bindings",
+      "game-development"
+    ],
+    "description": "Native Nim bindings for Jolt Physics with raw and ownership-safe high-level APIs.",
+    "license": "MIT",
+    "web": "https://github.com/puffball1567/jolt-nim"
   }
 ]
