@@ -41664,5 +41664,27 @@
     "description": "Native Nim bindings for Jolt Physics with raw and ownership-safe high-level APIs.",
     "license": "MIT",
     "web": "https://github.com/puffball1567/jolt-nim"
+  },
+  {
+    "name": "nimwire",
+    "url": "https://github.com/martineastwood/nimwire",
+    "method": "git",
+    "tags": [
+      "mcp",
+      "model-context-protocol",
+      "server",
+      "protocol",
+      "json-rpc",
+      "networking",
+      "http",
+      "websocket",
+      "stdio",
+      "tools",
+      "resources",
+      "prompts"
+    ],
+    "description": "MCP server framework for Nim",
+    "license": "MIT",
+    "web": "https://github.com/martineastwood/nimwire"
   }
 ]
