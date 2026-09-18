@@ -41685,5 +41685,48 @@
     "description": "Terminal UI primitives for Nim applications",
     "license": "MIT",
     "web": "https://github.com/martineastwood/nimterm"
+  },
+  {
+    "name": "nimgent",
+    "url": "https://github.com/martineastwood/nimgent",
+    "method": "git",
+    "tags": [
+      "ai",
+      "llm",
+      "sdk",
+      "agents",
+      "streaming",
+      "tools",
+      "structured-output",
+      "embeddings",
+      "retrieval",
+      "mcp",
+      "providers"
+    ],
+    "description": "Nim SDK for LLM apps and agents: one typed API across providers",
+    "license": "MIT",
+    "web": "https://github.com/martineastwood/nimgent"
+  },
+  {
+    "name": "nimwire",
+    "url": "https://github.com/martineastwood/nimwire",
+    "method": "git",
+    "tags": [
+      "mcp",
+      "model-context-protocol",
+      "server",
+      "protocol",
+      "json-rpc",
+      "networking",
+      "http",
+      "websocket",
+      "stdio",
+      "tools",
+      "resources",
+      "prompts"
+    ],
+    "description": "MCP server framework for Nim",
+    "license": "MIT",
+    "web": "https://github.com/martineastwood/nimwire"
   }
 ]
