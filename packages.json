@@ -41664,5 +41664,26 @@
     "description": "Native Nim bindings for Jolt Physics with raw and ownership-safe high-level APIs.",
     "license": "MIT",
     "web": "https://github.com/puffball1567/jolt-nim"
+  },
+  {
+    "name": "nimterm",
+    "url": "https://github.com/martineastwood/nimterm",
+    "method": "git",
+    "tags": [
+      "tui",
+      "terminal",
+      "ui",
+      "widgets",
+      "ansi",
+      "unicode",
+      "markdown",
+      "input",
+      "events",
+      "agent",
+      "cli"
+    ],
+    "description": "Terminal UI primitives for Nim applications",
+    "license": "MIT",
+    "web": "https://github.com/martineastwood/nimterm"
   }
 ]
