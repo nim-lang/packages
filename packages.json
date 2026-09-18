@@ -41664,5 +41664,25 @@
     "description": "Native Nim bindings for Jolt Physics with raw and ownership-safe high-level APIs.",
     "license": "MIT",
     "web": "https://github.com/puffball1567/jolt-nim"
+  },
+  {
+    "name": "nssh",
+    "url": "https://github.com/nimbase/nssh",
+    "method": "git",
+    "tags": [
+      "ssh",
+      "server",
+      "client",
+      "pure",
+      "nimbase",
+      "sftp",
+      "powpow",
+      "library",
+      "transfer",
+      "crypto"
+    ],
+    "description": "Pure Nim SSH client and server",
+    "license": "MIT",
+    "web": "https://github.com/nimbase/nssh"
   }
 ]
