@@ -41664,5 +41664,26 @@
     "description": "Native Nim bindings for Jolt Physics with raw and ownership-safe high-level APIs.",
     "license": "MIT",
     "web": "https://github.com/puffball1567/jolt-nim"
+  },
+  {
+    "name": "nimgent",
+    "url": "https://github.com/martineastwood/nimgent",
+    "method": "git",
+    "tags": [
+      "ai",
+      "llm",
+      "sdk",
+      "agents",
+      "streaming",
+      "tools",
+      "structured-output",
+      "embeddings",
+      "retrieval",
+      "mcp",
+      "providers"
+    ],
+    "description": "Nim SDK for LLM apps and agents: one typed API across providers",
+    "license": "MIT",
+    "web": "https://github.com/martineastwood/nimgent"
   }
 ]
