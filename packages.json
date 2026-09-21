@@ -41752,5 +41752,27 @@
     "description": "MCP server framework for Nim",
     "license": "MIT",
     "web": "https://github.com/martineastwood/nimwire"
+  },
+  {
+    "name": "opendocs",
+    "url": "https://github.com/nimbase/opendocs",
+    "method": "git",
+    "tags": [
+      "docx",
+      "rtf",
+      "odt",
+      "xlsx",
+      "pptx",
+      "pdf",
+      "parser",
+      "reader",
+      "writer",
+      "document",
+      "vips",
+      "nimbase"
+    ],
+    "description": "Document readers and writers: DOCX, PDF, RTF, ODT, TXT, XLSX, PPTX",
+    "license": "MIT",
+    "web": "https://github.com/nimbase/opendocs"
   }
 ]
