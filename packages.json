@@ -32521,7 +32521,11 @@
   },
   {
     "name": "bro",
-    "url": "https://github.com/openpeeps/bro",
+    "alias": "bowdy"
+  },
+  {
+    "name": "bowdy",
+    "url": "https://github.com/openpeeps/bowdy",
     "method": "git",
     "tags": [
       "css",
@@ -32531,9 +32535,9 @@
       "css-compiler",
       "stylesheet"
     ],
-    "description": "A super fast statically typed stylesheet language for cool kids",
-    "license": "MIT",
-    "web": "https://github.com/openpeeps/bro"
+    "description": "A CSS preprocessor. Alternative to SassC and DartSass",
+    "license": "LGPL-3.0-or-later",
+    "web": "https://github.com/openpeeps/bowdy"
   },
   {
     "name": "nimcatapi",
