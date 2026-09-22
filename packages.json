@@ -41796,5 +41796,24 @@
     "description": "Nim implementation of AWK, as formalized by the POSIX standard IEEE Std 1003.2 (in 1992).",
     "license": "CC BY-NC-SA 4.0",
     "web": "https://github.com/lipunila-sonaliwan-fr/nim.sawk"
+  },
+  {
+    "name": "jev_nim_client",
+    "url": "https://github.com/aboisvert/jev-nim-client",
+    "method": "git",
+    "tags": [
+      "jev",
+      "sdk",
+      "httpclient",
+      "ai",
+      "classification",
+      "probability",
+      "llm",
+      "system-one",
+      "api"
+    ],
+    "description": "Nim client library for JEV",
+    "license": "MIT",
+    "web": "https://github.com/aboisvert/jev-nim-client"
   }
 ]
