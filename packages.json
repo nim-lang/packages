@@ -41812,7 +41812,7 @@
       "system-one",
       "api"
     ],
-    "description": "Nim client library for JEV",
+    "description": "Nim client library for TypeSafe.ai System-One (JEV) API",
     "license": "MIT",
     "web": "https://github.com/aboisvert/jev-nim-client"
   }
