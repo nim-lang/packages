@@ -41831,5 +41831,19 @@
     "description": "Run CSV rows through Jev with YAML-defined questions",
     "license": "Apache-2.0",
     "web": "https://github.com/aboisvert/jevvy-nim"
+  },
+  {
+    "name": "libs3",
+    "url": "https://github.com/zystem/nim-libs3",
+    "method": "git",
+    "tags": [
+      "s3",
+      "aws",
+      "bindings",
+      "storage"
+    ],
+    "description": "Nim bindings and synchronous client for bji/libs3 4.1",
+    "license": "MIT",
+    "web": "https://github.com/zystem/nim-libs3"
   }
 ]
