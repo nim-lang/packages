@@ -41815,5 +41815,21 @@
     "description": "Nim client library for TypeSafe.ai System-One (JEV) API",
     "license": "MIT",
     "web": "https://github.com/aboisvert/jev-nim-client"
+  },
+  {
+    "name": "jevvy",
+    "url": "https://github.com/aboisvert/jevvy-nim",
+    "method": "git",
+    "tags": [
+      "csv",
+      "jev",
+      "ai",
+      "classification",
+      "probability",
+      "llm"
+    ],
+    "description": "Run CSV rows through Jev with YAML-defined questions",
+    "license": "Apache-2.0",
+    "web": "https://github.com/aboisvert/jevvy-nim"
   }
 ]
