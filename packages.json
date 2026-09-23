@@ -41845,5 +41845,21 @@
     "description": "Nim bindings and synchronous client for bji/libs3 4.1",
     "license": "MIT",
     "web": "https://github.com/zystem/nim-libs3"
+  },
+  {
+    "name": "supranim_tasks",
+    "url": "https://github.com/supranim/tasks",
+    "method": "git",
+    "tags": [
+      "tasks",
+      "powpow",
+      "schedule",
+      "jobs",
+      "queue",
+      "supranim"
+    ],
+    "description": "Schedule, manage and execute background tasks",
+    "license": "MIT",
+    "web": "https://github.com/supranim/tasks"
   }
 ]
