@@ -41861,5 +41861,38 @@
     "description": "Schedule, manage and execute background tasks",
     "license": "MIT",
     "web": "https://github.com/supranim/tasks"
+  },
+  {
+    "name": "winmd",
+    "url": "https://github.com/arnetheduck/nim-winmd",
+    "method": "git",
+    "tags": [
+      "windows",
+      "winmd",
+      "win32",
+      "bindings",
+      "codegen",
+      "metadata",
+      "windows-sdk"
+    ],
+    "description": "Library and tools for WinMD/ECMA-335 metadata, including a Win32 API binding generator for Nim",
+    "license": "MIT",
+    "web": "https://github.com/arnetheduck/nim-winmd"
+  },
+  {
+    "name": "win32_abi",
+    "url": "https://github.com/arnetheduck/nim-win32-abi",
+    "method": "git",
+    "tags": [
+      "windows",
+      "win32",
+      "bindings",
+      "abi",
+      "ffi",
+      "windows-sdk"
+    ],
+    "description": "Nim bindings for the full Win32 API, generated from WinMD metadata and headers",
+    "license": "MIT",
+    "web": "https://github.com/arnetheduck/nim-win32-abi"
   }
 ]
