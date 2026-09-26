@@ -41894,5 +41894,27 @@
     "description": "Nim bindings for the full Win32 API, generated from WinMD metadata and headers",
     "license": "MIT",
     "web": "https://github.com/arnetheduck/nim-win32-abi"
+  },
+  {
+    "name": "firebird",
+    "url": "https://github.com/lipunila-sonaliwan-fr/nim.firebird",
+    "method": "git",
+    "tags": [
+      "LPCS",
+      "Lab'Oratoire",
+      "sonaliwan",
+      "firbird",
+      "database",
+      "SGBDR",
+      "french",
+      "english",
+      "client",
+      "SQL",
+      "libfbclient",
+      "cli"
+    ],
+    "description": "firebird/fbclient is a Nim binding for Firebird database (available for Linux, macOS and Windows)",
+    "license": "CC BY-NC-SA 4.0",
+    "web": "https://github.com/lipunila-sonaliwan-fr/nim.firebird"
   }
 ]
