@@ -35645,7 +35645,7 @@
   },
   {
     "name": "crossdb",
-    "url": "https://github.com/openpeeps/crossdb-nim",
+    "url": "https://github.com/nimbase/crossdb-nim",
     "method": "git",
     "tags": [
       "database",
@@ -35658,7 +35658,7 @@
     ],
     "description": "CrossDB Driver for Nim",
     "license": "MIT",
-    "web": "https://github.com/openpeeps/crossdb-nim"
+    "web": "https://github.com/nimbase/crossdb-nim"
   },
   {
     "name": "nim_2048",
@@ -35740,7 +35740,7 @@
   },
   {
     "name": "blend2d",
-    "url": "https://github.com/openpeeps/blend2d-nim",
+    "url": "https://github.com/nimbase/blend2d-nim",
     "method": "git",
     "tags": [
       "graphics",
@@ -35752,7 +35752,7 @@
     ],
     "description": "Blend2D for Nim language",
     "license": "MIT",
-    "web": "https://github.com/openpeeps/blend2d-nim"
+    "web": "https://github.com/nimbase/blend2d-nim"
   },
   {
     "name": "bestfetch",
@@ -36387,7 +36387,7 @@
   },
   {
     "name": "libdatachannel",
-    "url": "https://github.com/openpeeps/libdatachannel-nim",
+    "url": "https://github.com/nimbase/libdatachannel-nim",
     "method": "git",
     "tags": [
       "webrtc",
@@ -36399,7 +36399,7 @@
     ],
     "description": "Standalone WebRTC Data Channels, WebRTC Media Transport, and WebSockets",
     "license": "MIT",
-    "web": "https://github.com/openpeeps/libdatachannel-nim"
+    "web": "https://github.com/nimbase/libdatachannel-nim"
   },
   {
     "name": "dhbp",
@@ -37418,7 +37418,7 @@
   },
   {
     "name": "gccjit",
-    "url": "https://github.com/openpeeps/gccjit.nim",
+    "url": "https://github.com/nimbase/gccjit.nim",
     "method": "git",
     "tags": [
       "wrapper",
@@ -37430,11 +37430,11 @@
     ],
     "description": "Nim bindings for libgccjit",
     "license": "MIT",
-    "web": "https://github.com/openpeeps/gccjit.nim"
+    "web": "https://github.com/nimbase/gccjit.nim"
   },
   {
     "name": "libevent",
-    "url": "https://github.com/openpeeps/libevent-nim",
+    "url": "https://github.com/nimbase/libevent-nim",
     "method": "git",
     "tags": [
       "libevent",
@@ -37447,7 +37447,7 @@
     ],
     "description": "Bindings for Libevent",
     "license": "MIT",
-    "web": "https://github.com/openpeeps/libevent-nim"
+    "web": "https://github.com/nimbase/libevent-nim"
   },
   {
     "name": "nimvss",
@@ -37499,7 +37499,7 @@
   },
   {
     "name": "libvips",
-    "url": "https://github.com/openpeeps/libvips-nim",
+    "url": "https://github.com/nimbase/libvips-nim",
     "method": "git",
     "tags": [
       "wrapper",
@@ -37516,7 +37516,7 @@
     ],
     "description": "Libvips - image processing library with low memory needs",
     "license": "MIT",
-    "web": "https://github.com/openpeeps/libvips-nim"
+    "web": "https://github.com/nimbase/libvips-nim"
   },
   {
     "name": "nimgnuplot",
@@ -38553,7 +38553,7 @@
   },
   {
     "name": "rtmp",
-    "url": "https://github.com/openpeeps/rtmp",
+    "url": "https://github.com/nimbase/rtmp",
     "method": "git",
     "tags": [
       "rrtmp",
@@ -38566,7 +38566,7 @@
     ],
     "description": "Real-Time Messaging Protocol for Nim",
     "license": "MIT",
-    "web": "https://github.com/openpeeps/rtmp"
+    "web": "https://github.com/nimbase/rtmp"
   },
   {
     "name": "groovebox",
@@ -39287,7 +39287,7 @@
   },
   {
     "name": "impeller",
-    "url": "https://github.com/openpeeps/impeller-nim",
+    "url": "https://github.com/nimbase/impeller-nim",
     "method": "git",
     "tags": [
       "renderer",
@@ -39301,7 +39301,7 @@
     ],
     "description": "Bindings to Flutter's 2D vector graphics renderer",
     "license": "MIT",
-    "web": "https://github.com/openpeeps/impeller-nim"
+    "web": "https://github.com/nimbase/impeller-nim"
   },
   {
     "name": "chronos_dnsc",
@@ -39383,7 +39383,7 @@
   },
   {
     "name": "duckdb",
-    "url": "https://github.com/openpeeps/duckdb-nim",
+    "url": "https://github.com/nimbase/duckdb-nim",
     "method": "git",
     "tags": [
       "db",
@@ -39395,11 +39395,11 @@
     ],
     "description": "Bindings for DuckDB analytical database",
     "license": "MIT",
-    "web": "https://github.com/openpeeps/duckdb-nim"
+    "web": "https://github.com/nimbase/duckdb-nim"
   },
   {
     "name": "zxc",
-    "url": "https://github.com/openpeeps/zxc-nim",
+    "url": "https://github.com/nimbase/zxc-nim",
     "method": "git",
     "tags": [
       "lz77",
@@ -39412,7 +39412,7 @@
     ],
     "description": "Bindings to ZXC compression library",
     "license": "MIT",
-    "web": "https://github.com/openpeeps/zxc-nim"
+    "web": "https://github.com/nimbase/zxc-nim"
   },
   {
     "name": "vancode",
@@ -39579,7 +39579,7 @@
   },
   {
     "name": "spf",
-    "url": "https://github.com/openpeeps/libspf-nim",
+    "url": "https://github.com/nimbase/libspf-nim",
     "method": "git",
     "tags": [
       "spf",
@@ -39591,11 +39591,11 @@
     ],
     "description": "Bindings for the SPF library",
     "license": "MIT",
-    "web": "https://github.com/openpeeps/libspf-nim"
+    "web": "https://github.com/nimbase/libspf-nim"
   },
   {
     "name": "opendmarc",
-    "url": "https://github.com/openpeeps/libopendmarc-nim",
+    "url": "https://github.com/nimbase/libopendmarc-nim",
     "method": "git",
     "tags": [
       "dkim",
@@ -39607,11 +39607,11 @@
     ],
     "description": "OpenDMARC bindings",
     "license": "MIT",
-    "web": "https://github.com/openpeeps/libopendmarc-nim"
+    "web": "https://github.com/nimbase/libopendmarc-nim"
   },
   {
     "name": "paddle",
-    "url": "https://github.com/openpeeps/paddle-nim",
+    "url": "https://github.com/nimbase/paddle-nim",
     "method": "git",
     "tags": [
       "ecommerce",
@@ -39623,7 +39623,7 @@
     ],
     "description": "Paddle API client",
     "license": "MIT",
-    "web": "https://github.com/openpeeps/paddle-nim"
+    "web": "https://github.com/nimbase/paddle-nim"
   },
   {
     "name": "boogie",
@@ -39708,7 +39708,7 @@
   },
   {
     "name": "hyperscan",
-    "url": "https://github.com/openpeeps/hyperscan-nim",
+    "url": "https://github.com/nimbase/hyperscan-nim",
     "method": "git",
     "tags": [
       "regex",
@@ -39719,7 +39719,7 @@
     ],
     "description": "Bindings for Intel's Hyperscan library",
     "license": "MIT",
-    "web": "https://github.com/openpeeps/hyperscan-nim"
+    "web": "https://github.com/nimbase/hyperscan-nim"
   },
   {
     "name": "oris",
@@ -39794,7 +39794,7 @@
   },
   {
     "name": "openh264",
-    "url": "https://github.com/openpeeps/openh264-nim",
+    "url": "https://github.com/nimbase/openh264-nim",
     "method": "git",
     "tags": [
       "h264",
@@ -39805,7 +39805,7 @@
     ],
     "description": "Bindings for Cisco's H.264 codec library",
     "license": "MIT",
-    "web": "https://github.com/openpeeps/openh264-nim"
+    "web": "https://github.com/nimbase/openh264-nim"
   },
   {
     "name": "nim2d",
@@ -40314,7 +40314,7 @@
   },
   {
     "name": "activitypub",
-    "url": "https://github.com/openpeeps/activitypub-nim",
+    "url": "https://github.com/nimbase/activitypub-nim",
     "method": "git",
     "tags": [
       "federated",
@@ -40325,7 +40325,7 @@
     ],
     "description": "ActivityPub library in Nim",
     "license": "MIT",
-    "web": "https://github.com/openpeeps/activitypub-nim"
+    "web": "https://github.com/nimbase/activitypub-nim"
   },
   {
     "name": "whiz",
