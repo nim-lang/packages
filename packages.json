@@ -37418,7 +37418,7 @@
   },
   {
     "name": "gccjit",
-    "url": "https://github.com/nimbase/gccjit.nim",
+    "url": "https://github.com/nimbase/gccjit-nim",
     "method": "git",
     "tags": [
       "wrapper",
@@ -37430,7 +37430,7 @@
     ],
     "description": "Nim bindings for libgccjit",
     "license": "MIT",
-    "web": "https://github.com/nimbase/gccjit.nim"
+    "web": "https://github.com/nimbase/gccjit-nim"
   },
   {
     "name": "libevent",
