@@ -41916,5 +41916,19 @@
     "description": "firebird/fbclient is a Nim binding for Firebird database (available for Linux, macOS and Windows)",
     "license": "CC BY-NC-SA 4.0",
     "web": "https://github.com/lipunila-sonaliwan-fr/nim.firebird"
+  },
+  {
+    "name": "nim_cryptkit",
+    "url": "https:///",
+    "method": "",
+    "tags": [
+      "Nim's",
+      "Generic",
+      "Cryptography",
+      "Library"
+    ],
+    "description": "Nim's General Cryptography Library",
+    "license": "LGPL-3.0-linking-exception",
+    "web": "https:///"
   }
 ]
