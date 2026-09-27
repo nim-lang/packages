@@ -41919,8 +41919,8 @@
   },
   {
     "name": "nim_cryptkit",
-    "url": "https:///",
-    "method": "",
+    "url": "https://github.com/zkopt-dev/nim_cryptkit",
+    "method": "git",
     "tags": [
       "pure-nim",
       "crypto",
@@ -41934,6 +41934,6 @@
     ],
     "description": "Nim's General Cryptography Library",
     "license": "LGPL-3.0-linking-exception",
-    "web": "https:///"
+    "web": "https://github.com/zkopt-dev/nim_cryptkit"
   }
 ]
