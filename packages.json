@@ -41916,5 +41916,29 @@
     "description": "firebird/fbclient is a Nim binding for Firebird database (available for Linux, macOS and Windows)",
     "license": "CC BY-NC-SA 4.0",
     "web": "https://github.com/lipunila-sonaliwan-fr/nim.firebird"
+  },
+  {
+    "name": "wdgui",
+    "url": "https://github.com/lipunila-sonaliwan-fr/nim.wdgui",
+    "method": "git",
+    "tags": [
+      "LPCS",
+      "Lab'Oratoire",
+      "sonaliwan",
+      "libSDL-ttf",
+      "libSDL-image",
+      "libSDL",
+      "SDL",
+      "tutorial",
+      "english",
+      "macOS",
+      "Linux",
+      "Windows",
+      "gui",
+      "cli"
+    ],
+    "description": "Nim GUI library on top of SDL3 modelled on WD-style controls and API",
+    "license": "CC BY-NC-SA 4.0",
+    "web": "https://github.com/lipunila-sonaliwan-fr/nim.wdgui"
   }
 ]
