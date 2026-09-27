@@ -41918,6 +41918,25 @@
     "web": "https://github.com/lipunila-sonaliwan-fr/nim.firebird"
   },
   {
+    "name": "nim_cryptkit",
+    "url": "https://github.com/zkopt-dev/nim_cryptkit",
+    "method": "git",
+    "tags": [
+      "pure-nim",
+      "crypto",
+      "blockcipher",
+      "streamcipher",
+      "hash",
+      "kdf",
+      "mac",
+      "aead",
+      "digital-sign"
+    ],
+    "description": "Nim's General Cryptography Library",
+    "license": "LGPL-3.0-linking-exception",
+    "web": "https://github.com/zkopt-dev/nim_cryptkit"
+  },
+  {
     "name": "wdgui",
     "url": "https://github.com/lipunila-sonaliwan-fr/nim.wdgui",
     "method": "git",
