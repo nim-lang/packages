@@ -41959,5 +41959,17 @@
     "description": "Nim GUI library on top of SDL3 modelled on WD-style controls and API",
     "license": "CC BY-NC-SA 4.0",
     "web": "https://github.com/lipunila-sonaliwan-fr/nim.wdgui"
+  },
+  {
+    "name": "piper",
+    "url": "https://github.com/Dregacorp/piper",
+    "method": "git",
+    "tags": [
+      "pipe-operator",
+      "function-composition-operator"
+    ],
+    "description": "simple library offering pipe operator :> and function composition operator >>> for nim.",
+    "license": "BSD-3-Clause",
+    "web": "https://github.com/Dregacorp/piper"
   }
 ]
