@@ -41959,5 +41959,21 @@
     "description": "Nim GUI library on top of SDL3 modelled on WD-style controls and API",
     "license": "CC BY-NC-SA 4.0",
     "web": "https://github.com/lipunila-sonaliwan-fr/nim.wdgui"
+  },
+  {
+    "name": "ktls",
+    "url": "https://github.com/nimbase/ktls-nim",
+    "method": "git",
+    "tags": [
+      "tls",
+      "kernel",
+      "linux",
+      "ktls",
+      "cipher",
+      "nimbase"
+    ],
+    "description": "Linux kernel TLS (kTLS) offload",
+    "license": "MIT",
+    "web": "https://github.com/nimbase/ktls-nim"
   }
 ]
