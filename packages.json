@@ -41987,5 +41987,23 @@
     "description": "simple library offering pipe operator :> and function composition operator >>> for nim.",
     "license": "BSD-3-Clause",
     "web": "https://github.com/Dregacorp/piper"
+  },
+  {
+    "name": "ndav",
+    "url": "https://github.com/nimbase/webdav",
+    "method": "git",
+    "tags": [
+      "webdav",
+      "caldav",
+      "carddav",
+      "ical",
+      "calendar",
+      "server",
+      "client",
+      "vcard"
+    ],
+    "description": "WebDAV, CalDAV/CardDAV server and client. Powered by PowPow",
+    "license": "MIT",
+    "web": "https://github.com/nimbase/webdav"
   }
 ]
