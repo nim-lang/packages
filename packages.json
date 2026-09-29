@@ -41961,6 +41961,22 @@
     "web": "https://github.com/lipunila-sonaliwan-fr/nim.wdgui"
   },
   {
+    "name": "ktls",
+    "url": "https://github.com/nimbase/ktls-nim",
+    "method": "git",
+    "tags": [
+      "tls",
+      "kernel",
+      "linux",
+      "ktls",
+      "cipher",
+      "nimbase"
+    ],
+    "description": "Linux kernel TLS (kTLS) offload",
+    "license": "MIT",
+    "web": "https://github.com/nimbase/ktls-nim"
+  },
+  {
     "name": "piper",
     "url": "https://github.com/Dregacorp/piper",
     "method": "git",
