@@ -42005,5 +42005,18 @@
     "description": "WebDAV, CalDAV/CardDAV server and client. Powered by PowPow",
     "license": "MIT",
     "web": "https://github.com/nimbase/webdav"
+  },
+  {
+    "name": "cursorsdk",
+    "url": "https://github.com/Niminem/cursorsdk",
+    "method": "git",
+    "tags": [
+      "cursor",
+      "ai",
+      "llm"
+    ],
+    "description": "Cursor SDK Bridge client for the Nim programming language",
+    "license": "MIT",
+    "web": "https://github.com/Niminem/cursorsdk"
   }
 ]
