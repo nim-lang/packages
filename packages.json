@@ -42018,5 +42018,22 @@
     "description": "Cursor SDK Bridge client for the Nim programming language",
     "license": "MIT",
     "web": "https://github.com/Niminem/cursorsdk"
+  },
+  {
+    "name": "hqtui",
+    "url": "https://github.com/profullstack/hqtui?subdir=ports/nim",
+    "method": "git",
+    "tags": [
+      "tui",
+      "terminal",
+      "cli",
+      "ui",
+      "widgets",
+      "dashboard",
+      "ansi"
+    ],
+    "description": "Terminal UI widgets, layouts, themes and a ten-screen dashboard demo, over HQTUI's shared C/C++ engine compiled from source",
+    "license": "MIT",
+    "web": "https://hqtui.com"
   }
 ]
