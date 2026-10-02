@@ -42018,5 +42018,14 @@
     "description": "Cursor SDK Bridge client for the Nim programming language",
     "license": "MIT",
     "web": "https://github.com/Niminem/cursorsdk"
+  },
+  {
+    "name": "finz",
+    "url": "https://github.com/capocasa/finz",
+    "method": "git",
+    "tags": ["fints", "hbci", "banking", "sepa", "sepa-transfer", "transactions"],
+    "description": "FinTS 3.0 client library: SEPA (instant) transfers with Verification of Payee, camt/MT940 statements, decoupled TAN",
+    "license": "MIT",
+    "web": "https://github.com/capocasa/finz"
   }
 ]
