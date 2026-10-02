@@ -42020,6 +42020,21 @@
     "web": "https://github.com/Niminem/cursorsdk"
   },
   {
+    "name": "kavel",
+    "url": "https://github.com/hanshs474/kavel-nim",
+    "method": "git",
+    "tags": [
+      "ai",
+      "image",
+      "image-generation",
+      "api-client",
+      "http"
+    ],
+    "description": "Generate AI images from Nim with no API key and no account (Kavel AI client)",
+    "license": "MIT",
+    "web": "https://www.kavel.ai"
+  },
+  {
     "name": "finz",
     "url": "https://github.com/capocasa/finz",
     "method": "git",
