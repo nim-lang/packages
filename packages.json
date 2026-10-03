@@ -42038,9 +42038,33 @@
     "name": "finz",
     "url": "https://github.com/capocasa/finz",
     "method": "git",
-    "tags": ["fints", "hbci", "banking", "sepa", "sepa-transfer", "transactions"],
+    "tags": [
+      "fints",
+      "hbci",
+      "banking",
+      "sepa",
+      "sepa-transfer",
+      "transactions"
+    ],
     "description": "FinTS 3.0 client library: SEPA (instant) transfers with Verification of Payee, camt/MT940 statements, decoupled TAN",
     "license": "MIT",
     "web": "https://github.com/capocasa/finz"
+  },
+  {
+    "name": "skia",
+    "url": "https://github.com/nimbase/skia-nim",
+    "method": "git",
+    "tags": [
+      "2d",
+      "graphics",
+      "bindings",
+      "wrapper",
+      "rendering",
+      "gradient",
+      "engine"
+    ],
+    "description": "Idiomatic Nim bindings for the Skia 2D graphics library",
+    "license": "MIT",
+    "web": "https://github.com/nimbase/skia-nim"
   }
 ]
