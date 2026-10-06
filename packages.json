@@ -1,5 +1,22 @@
 [
   {
+    "name": "prx",
+    "url": "https://github.com/thebadinteger/prx.git",
+    "method": "git",
+    "tags": [
+      "proxy",
+      "socks",
+      "socks4",
+      "socks5",
+      "http",
+      "networking",
+      "async"
+    ],
+    "description": "universal proxy client and server library for Nim",
+    "license": "MIT",
+    "web": "https://github.com/thebadinteger/prx"
+  },
+  {
     "name": "terminal_widgets",
     "url": "https://github.com/titanomachy/terminal-widgets",
     "method": "git",
