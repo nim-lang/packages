@@ -42131,5 +42131,21 @@
     "description": "Strip metadata tags from audio, image, raw and video files (WAV, JPEG, PNG, GIF, WebP, TIFF RAW, CR3, HEIC, MP4/MOV, AVI, MKV)",
     "license": "MIT",
     "web": "https://github.com/openpeeps/striptease"
+  },
+  {
+    "name": "pmtiles",
+    "url": "https://github.com/Xenoglyphiq/pmtiles-nim",
+    "method": "git",
+    "tags": [
+      "pmtiles",
+      "geo",
+      "gis",
+      "maps",
+      "tiles",
+      "vector-tiles"
+    ],
+    "description": "Read PMTiles v3 tile archives: header, directories, tile lookup and tile bytes",
+    "license": "MIT OR Apache-2.0",
+    "web": "https://github.com/Xenoglyphiq/pmtiles-nim"
   }
 ]
