@@ -42099,5 +42099,18 @@
     "description": "Encode and decode Google's Encoded Polyline Algorithm Format",
     "license": "MIT OR Apache-2.0",
     "web": "https://github.com/Xenoglyphiq/polyline-nim"
+  },
+  {
+    "name": "nimpy_numpy",
+    "url": "https://github.com/pietroppeter/nimpy-numpy",
+    "method": "git",
+    "tags": [
+      "nimpy",
+      "numpy",
+      "python"
+    ],
+    "description": "numpy arrays for nimpy: Nim procs that take and return numpy arrays",
+    "license": "MIT",
+    "web": "https://github.com/pietroppeter/nimpy-numpy"
   }
 ]
