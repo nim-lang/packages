@@ -42066,5 +42066,21 @@
     "description": "Idiomatic Nim bindings for the Skia 2D graphics library",
     "license": "MIT",
     "web": "https://github.com/nimbase/skia-nim"
+  },
+  {
+    "name": "polyline",
+    "url": "https://github.com/Xenoglyphiq/polyline-nim",
+    "method": "git",
+    "tags": [
+      "polyline",
+      "geo",
+      "gis",
+      "maps",
+      "encoding",
+      "google"
+    ],
+    "description": "Encode and decode Google's Encoded Polyline Algorithm Format",
+    "license": "MIT OR Apache-2.0",
+    "web": "https://github.com/Xenoglyphiq/polyline-nim"
   }
 ]
