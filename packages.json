@@ -42112,5 +42112,24 @@
     "description": "numpy arrays for nimpy: Nim procs that take and return numpy arrays",
     "license": "MIT",
     "web": "https://github.com/pietroppeter/nimpy-numpy"
+  },
+  {
+    "name": "striptease",
+    "url": "https://github.com/openpeeps/striptease",
+    "method": "git",
+    "tags": [
+      "exif",
+      "metadata",
+      "photo",
+      "cli",
+      "cr2",
+      "dng",
+      "tiff",
+      "wav",
+      "jpg"
+    ],
+    "description": "Strip metadata tags from audio, image, raw and video files (WAV, JPEG, PNG, GIF, WebP, TIFF RAW, CR3, HEIC, MP4/MOV, AVI, MKV)",
+    "license": "MIT",
+    "web": "https://github.com/openpeeps/striptease"
   }
 ]
