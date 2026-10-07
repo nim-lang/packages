@@ -42147,5 +42147,33 @@
     "description": "Read PMTiles v3 tile archives: header, directories, tile lookup and tile bytes",
     "license": "MIT OR Apache-2.0",
     "web": "https://github.com/Xenoglyphiq/pmtiles-nim"
-  }
+  },
+  {
+    "name": "nimlm",
+    "url": "https://github.com/lipunila-sonaliwan-fr/nim.llm",
+    "method": "git",
+    "tags": [
+      "LPCS",
+      "Lab'Oratoire",
+      "sonaliwan",
+      "llm",
+      "fine-tune",
+      "model",
+      "text",
+      "image",
+      "sound",
+      "rag",
+      "embedding",
+      "tutorial",
+      "english",
+      "french",
+      "macOS",
+      "Linux",
+      "Windows",
+      "cli"
+    ],
+    "description": "Run, fine-tune and build language models in pure Nim. No dependencies: no llama.cpp, no Python, no BLAS, no C library.",
+    "license": "CC BY-NC-SA 4.0",
+    "web": "https://github.com/lipunila-sonaliwan-fr/nim.llm"
+  }  
 ]
