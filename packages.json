@@ -22566,6 +22566,28 @@
     "web": "https://github.com/momeemt/Unit"
   },
   {
+    "name": "lockfree",
+    "url": "https://github.com/elijahr/lockfree",
+    "method": "git",
+    "tags": [
+      "concurrency",
+      "lock-free",
+      "queues",
+      "smr",
+      "ebr",
+      "spmc",
+      "mpsc",
+      "mpmc",
+      "spsc",
+      "channels",
+      "ring-buffer",
+      "c-abi"
+    ],
+    "description": "Lock-free queues, SMR, and managed-payload types for Nim.",
+    "license": "MIT",
+    "web": "https://github.com/elijahr/lockfree"
+  },
+  {
     "name": "lockfreequeues",
     "url": "https://github.com/elijahr/lockfreequeues",
     "method": "git",
