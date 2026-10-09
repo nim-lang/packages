@@ -42197,5 +42197,27 @@
     "description": "Run, fine-tune and build language models in pure Nim. No dependencies: no llama.cpp, no Python, no BLAS, no C library.",
     "license": "CC BY-NC-SA 4.0",
     "web": "https://github.com/lipunila-sonaliwan-fr/nim.llm"
-  }  
+  },
+  {
+    "name": "nimproj",
+    "url": "https://github.com/JohnMoutafis/nimproj",
+    "method": "git",
+    "tags": [
+      "library",
+      "wrapper",
+      "ffi",
+      "proj",
+      "projection",
+      "coordinate",
+      "transform",
+      "gis",
+      "spatial",
+      "wkt",
+      "wkb",
+      "geojson"
+    ],
+    "description": "Nim wrapper for the PROJ (libproj) coordinate transformation library.",
+    "license": "MIT",
+    "web": "https://github.com/JohnMoutafis/nimproj"
+  }
 ]
