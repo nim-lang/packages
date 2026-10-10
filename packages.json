@@ -42219,5 +42219,19 @@
     "description": "Nim wrapper for the PROJ (libproj) coordinate transformation library.",
     "license": "MIT",
     "web": "https://github.com/JohnMoutafis/nimproj"
+  },
+  {
+    "name": "matter",
+    "url": "https://github.com/elcritch/matter",
+    "method": "git",
+    "tags": [
+      "textmate",
+      "syntax-highlighting",
+      "tokenizer",
+      "grammar"
+    ],
+    "description": "TextMate grammar engine",
+    "license": "MIT",
+    "web": "https://github.com/elcritch/matter"
   }
 ]
