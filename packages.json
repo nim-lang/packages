@@ -42233,5 +42233,22 @@
     "description": "TextMate grammar engine",
     "license": "MIT",
     "web": "https://github.com/elcritch/matter"
+  },
+  {
+    "name": "nlp",
+    "url": "https://github.com/cheeseonamonkey/nim-nlp",
+    "method": "git",
+    "tags": [
+      "nlp",
+      "text-processing",
+      "stemming",
+      "tfidf",
+      "bm25",
+      "lda",
+      "topic-model"
+    ],
+    "description": "Dependency-free NLP toolkit for Nim: tokenization, normalization, stemming, TF-IDF, BM25, and text analysis",
+    "license": "MIT",
+    "web": "https://github.com/cheeseonamonkey/nim-nlp"
   }
 ]
