@@ -42233,5 +42233,26 @@
     "description": "TextMate grammar engine",
     "license": "MIT",
     "web": "https://github.com/elcritch/matter"
+  },
+  {
+    "name": "datcontext",
+    "url": "https://github.com/openpeeps/datcontext",
+    "method": "git",
+    "tags": [
+      "mcp",
+      "powpow",
+      "unix",
+      "socket",
+      "stream",
+      "agent",
+      "agentic",
+      "ai",
+      "http",
+      "server",
+      "tcp"
+    ],
+    "description": "MCP Client/Server based on PowPow. Supporting streamable HTTP, TCP, and Unix Domain",
+    "license": "MIT",
+    "web": "https://github.com/openpeeps/datcontext"
   }
 ]
