@@ -42254,5 +42254,22 @@
     "description": "MCP Client/Server based on PowPow. Supporting streamable HTTP, TCP, and Unix Domain",
     "license": "MIT",
     "web": "https://github.com/openpeeps/datcontext"
+  },
+  {
+    "name": "illview",
+    "url": "https://github.com/NagyZoltanPeter/nim-illview",
+    "method": "git",
+    "tags": [
+      "tui",
+      "terminal",
+      "widgets",
+      "turbovision",
+      "chronos",
+      "async",
+      "ui"
+    ],
+    "description": "Retained-mode, Turbo Vision-inspired TUI widget framework on chronos, with a declarative DSL and typed nim-brokers events",
+    "license": "MIT",
+    "web": "https://github.com/NagyZoltanPeter/nim-illview"
   }
 ]
