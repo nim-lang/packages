@@ -42283,5 +42283,18 @@
     "description": "A dynamic assembler written in Nim for Nim",
     "license": "MIT",
     "web": "https://github.com/nimbase/dynasm-nim"
+  },
+  {
+    "name": "async_kafka",
+    "url": "https://github.com/fox0430/async-kafka",
+    "method": "git",
+    "tags": [
+      "async",
+      "chronos",
+      "kafka"
+    ],
+    "description": "Async Kafka client",
+    "license": "MIT",
+    "web": "https://github.com/fox0430/async-kafka"
   }
 ]
