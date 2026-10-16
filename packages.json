@@ -42264,5 +42264,18 @@
     "description": "Retained-mode, Turbo Vision-inspired TUI widget framework on chronos, with a declarative DSL and typed nim-brokers events",
     "license": "MIT",
     "web": "https://github.com/NagyZoltanPeter/nim-illview"
+  },
+  {
+    "name": "async_kafka",
+    "url": "https://github.com/fox0430/async-kafka",
+    "method": "git",
+    "tags": [
+      "async",
+      "chronos",
+      "kafka"
+    ],
+    "description": "Async Kafka client",
+    "license": "MIT",
+    "web": "https://github.com/fox0430/async-kafka"
   }
 ]
