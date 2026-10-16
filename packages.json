@@ -42264,5 +42264,24 @@
     "description": "Retained-mode, Turbo Vision-inspired TUI widget framework on chronos, with a declarative DSL and typed nim-brokers events",
     "license": "MIT",
     "web": "https://github.com/NagyZoltanPeter/nim-illview"
+  },
+  {
+    "name": "dynasm",
+    "url": "https://github.com/nimbase/dynasm-nim",
+    "method": "git",
+    "tags": [
+      "asm",
+      "jit",
+      "dynasm",
+      "lua",
+      "x64",
+      "x86",
+      "aarch64",
+      "arm64",
+      "dsl"
+    ],
+    "description": "A dynamic assembler written in Nim for Nim",
+    "license": "MIT",
+    "web": "https://github.com/nimbase/dynasm-nim"
   }
 ]
