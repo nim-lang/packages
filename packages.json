@@ -42327,5 +42327,22 @@
     "description": "Async Kafka client",
     "license": "MIT",
     "web": "https://github.com/fox0430/async-kafka"
+  },
+  {
+    "name": "nimts",
+    "url": "https://github.com/axiomantic/nimts.git",
+    "method": "git",
+    "tags": [
+      "typescript",
+      "webassembly",
+      "wasm",
+      "vite",
+      "codegen",
+      "bindings",
+      "ffi"
+    ],
+    "description": "Seamless TypeScript & WebAssembly bridge for Nim with Vite integration, sync/async loaders, and Future<->Promise bridge",
+    "license": "MIT",
+    "web": "https://github.com/axiomantic/nimts"
   }
 ]
