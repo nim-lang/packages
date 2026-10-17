@@ -1,5 +1,20 @@
 [
   {
+    "name": "chardet",
+    "url": "https://github.com/nimamasl114514/nim-chardet",
+    "method": "git",
+    "tags": [
+      "chardet",
+      "encoding",
+      "charset",
+      "unicode",
+      "detection"
+    ],
+    "description": "Character encoding detection library - a complete Nim rewrite of chardet 7.6.0",
+    "license": "0BSD",
+    "web": "https://github.com/nimamasl114514/nim-chardet"
+  },
+  {
     "name": "prx",
     "url": "https://github.com/thebadinteger/prx.git",
     "method": "git",
