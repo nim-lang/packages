@@ -42361,5 +42361,76 @@
     "description": "Seamless TypeScript & WebAssembly bridge for Nim with Vite integration, sync/async loaders, and Future<->Promise bridge",
     "license": "MIT",
     "web": "https://github.com/axiomantic/nimts"
+  },
+  {
+    "name": "lutra",
+    "url": "https://github.com/Lutra-Nim/Lutra",
+    "method": "git",
+    "tags": [
+      "embedded",
+      "microcontroller",
+      "mcu",
+      "hal",
+      "bare-metal",
+      "risc-v",
+      "arm",
+      "esp32",
+      "stm32",
+      "lutra"
+    ],
+    "description": "A Nim-only bare-metal stack for microcontrollers",
+    "license": "MIT",
+    "web": "https://github.com/Lutra-Nim/Lutra"
+  },
+  {
+    "name": "lutra_lsm6ds33",
+    "url": "https://github.com/Lutra-Nim/Lutra-LSM6DS33",
+    "method": "git",
+    "tags": [
+      "embedded",
+      "microcontroller",
+      "sensor",
+      "accelerometer",
+      "gyroscope",
+      "imu",
+      "i2c",
+      "lutra"
+    ],
+    "description": "The LSM6DS33 accelerometer and gyroscope, for Lutra",
+    "license": "MIT",
+    "web": "https://github.com/Lutra-Nim/Lutra-LSM6DS33"
+  },
+  {
+    "name": "lutra_lis3mdl",
+    "url": "https://github.com/Lutra-Nim/Lutra-LIS3MDL",
+    "method": "git",
+    "tags": [
+      "embedded",
+      "microcontroller",
+      "sensor",
+      "magnetometer",
+      "i2c",
+      "lutra"
+    ],
+    "description": "The LIS3MDL magnetometer, for Lutra",
+    "license": "MIT",
+    "web": "https://github.com/Lutra-Nim/Lutra-LIS3MDL"
+  },
+  {
+    "name": "lutra_espat",
+    "url": "https://github.com/Lutra-Nim/Lutra-ESPAT",
+    "method": "git",
+    "tags": [
+      "embedded",
+      "microcontroller",
+      "wifi",
+      "esp32",
+      "at-commands",
+      "networking",
+      "lutra"
+    ],
+    "description": "Wi-Fi through an ESP32 running Espressif's AT firmware, for Lutra",
+    "license": "MIT",
+    "web": "https://github.com/Lutra-Nim/Lutra-ESPAT"
   }
 ]
