@@ -42329,6 +42329,23 @@
     "web": "https://github.com/fox0430/async-kafka"
   },
   {
+    "name": "openvino",
+    "url": "https://github.com/AbyssGG/OpenVINO-Nim-API",
+    "method": "git",
+    "tags": [
+      "openvino",
+      "inference",
+      "machine-learning",
+      "deep-learning",
+      "ai",
+      "bindings",
+      "wrapper"
+    ],
+    "description": "Community-maintained Nim bindings for the OpenVINO Runtime C API. Not an official Intel or OpenVINO project.",
+    "license": "Apache-2.0",
+    "web": "https://github.com/AbyssGG/OpenVINO-Nim-API"
+  },
+  {
     "name": "nimts",
     "url": "https://github.com/axiomantic/nimts.git",
     "method": "git",
