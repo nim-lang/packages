@@ -42432,5 +42432,20 @@
     "description": "Wi-Fi through an ESP32 running Espressif's AT firmware, for Lutra",
     "license": "MIT",
     "web": "https://github.com/Lutra-Nim/Lutra-ESPAT"
+  },
+  {
+    "name": "carejobs",
+    "url": "https://github.com/yumaheymans/carejobs-nim",
+    "method": "git",
+    "tags": [
+      "carejobs",
+      "healthcare",
+      "jobs",
+      "api-client",
+      "mcp"
+    ],
+    "description": "Client for the free CareJobs.Now healthcare jobs API: search US healthcare jobs, posted pay, employers and states",
+    "license": "MIT",
+    "web": "https://github.com/yumaheymans/carejobs-nim"
   }
 ]
