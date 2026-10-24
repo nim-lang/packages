@@ -42447,5 +42447,14 @@
     "description": "Client for the free CareJobs.Now healthcare jobs API: search US healthcare jobs, posted pay, employers and states",
     "license": "MIT",
     "web": "https://github.com/yumaheymans/carejobs-nim"
+  },
+  {
+    "name": "llvnim23",
+    "url": "https://github.com/xlebore3o4ka/llvnim23",
+    "method": "git",
+    "tags": ["llvm", "bindings", "jit", "compiler"],
+    "description": "Nim bindings for the LLVM-C API 23.1.1",
+    "license": "AGPL-3.0",
+    "web": "https://github.com/xlebore3o4ka/llvnim23"
   }
 ]
