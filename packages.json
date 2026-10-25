@@ -1,5 +1,21 @@
 [
   {
+    "name": "harfbuzzy",
+    "url": "https://github.com/elcritch/harfbuzzy",
+    "method": "git",
+    "tags": [
+      "harfbuzz",
+      "text",
+      "shaping",
+      "fonts",
+      "unicode",
+      "bindings"
+    ],
+    "description": "Idiomatic HarfBuzz wrappers with automatic handle management, bidirectional text shaping, font fallback, and subsetting.",
+    "license": "MIT",
+    "web": "https://github.com/elcritch/harfbuzzy"
+  },
+  {
     "name": "chardet",
     "url": "https://github.com/nimamasl114514/nim-chardet",
     "method": "git",
