@@ -42468,9 +42468,27 @@
     "name": "llvnim23",
     "url": "https://github.com/xlebore3o4ka/llvnim23",
     "method": "git",
-    "tags": ["llvm", "bindings", "jit", "compiler"],
+    "tags": [
+      "llvm",
+      "bindings",
+      "jit",
+      "compiler"
+    ],
     "description": "Nim bindings for the LLVM-C API 23.1.1",
     "license": "MIT",
     "web": "https://github.com/xlebore3o4ka/llvnim23"
+  },
+  {
+    "name": "gravel",
+    "url": "https://github.com/slime21023/gravel",
+    "method": "git",
+    "tags": [
+      "library",
+      "formatting",
+      "logging"
+    ],
+    "description": "A minimal, strict Go fmt-inspired output library for Nim",
+    "license": "MIT",
+    "web": "https://github.com/slime21023/gravel"
   }
 ]
