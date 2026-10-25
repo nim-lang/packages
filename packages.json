@@ -42454,7 +42454,7 @@
     "method": "git",
     "tags": ["llvm", "bindings", "jit", "compiler"],
     "description": "Nim bindings for the LLVM-C API 23.1.1",
-    "license": "AGPL-3.0",
+    "license": "MIT",
     "web": "https://github.com/xlebore3o4ka/llvnim23"
   }
 ]
