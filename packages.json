@@ -42466,6 +42466,10 @@
   },
   {
     "name": "llvnim23",
+    "alias": "llvnim"
+  },
+  {
+    "name": "llvnim",
     "url": "https://github.com/xlebore3o4ka/llvnim23",
     "method": "git",
     "tags": [
