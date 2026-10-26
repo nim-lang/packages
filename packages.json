@@ -42482,19 +42482,19 @@
     "web": "https://github.com/yumaheymans/carejobs-nim"
   },
   {
-  "name": "seowebchecker",
-  "url": "https://github.com/jaiganesh6999/seowebchecker-seoaudit-sdk?subdir=nim",
-  "method": "git",
-  "tags": [
-    "seo",
-    "audit",
-    "analyzer",
-    "crawler",
-    "seowebchecker"
-  ],
-  "description": "Technical SEO audit library and CLI for on-page performance, tags, and content health",
-  "license": "MIT",
-  "web": "https://seowebchecker.com/"
+    "name": "seowebchecker",
+    "url": "https://github.com/jaiganesh6999/seowebchecker-seoaudit-sdk?subdir=nim",
+    "method": "git",
+    "tags": [
+      "seo",
+      "audit",
+      "analyzer",
+      "crawler",
+      "seowebchecker"
+    ],
+    "description": "Technical SEO audit library and CLI for on-page performance, tags, and content health",
+    "license": "MIT",
+    "web": "https://seowebchecker.com/"
   },
   {
     "name": "llvnim23",
@@ -42526,5 +42526,20 @@
     "description": "A minimal, strict Go fmt-inspired output library for Nim",
     "license": "MIT",
     "web": "https://github.com/slime21023/gravel"
+  },
+  {
+    "name": "dotenvrun",
+    "url": "https://github.com/aboisvert/dotenv-run",
+    "method": "git",
+    "tags": [
+      "dotenv",
+      ".env",
+      "runner",
+      "cli",
+      "nim-lang"
+    ],
+    "description": "Run commands with environment variables loaded from .env files",
+    "license": "MIT",
+    "web": "https://github.com/aboisvert/dotenv-run"
   }
 ]
