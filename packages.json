@@ -1,5 +1,22 @@
 [
   {
+    "name": "terminal_deck",
+    "url": "https://github.com/titanomachy/terminal-deck",
+    "method": "git",
+    "tags": [
+      "terminal",
+      "tui",
+      "cli",
+      "terminaldeck",
+      "meta",
+      "ansi",
+      "unicode"
+    ],
+    "description": "Meta package for eight pure-Nim terminal libraries: styling, screen control, status displays, tables, layouts, graphs, prompts, and widgets.",
+    "license": "MIT",
+    "web": "https://github.com/titanomachy/terminal-deck"
+  },
+  {
     "name": "harfbuzzy",
     "url": "https://github.com/elcritch/harfbuzzy",
     "method": "git",
