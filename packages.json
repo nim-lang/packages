@@ -42541,5 +42541,35 @@
     "description": "Run commands with environment variables loaded from .env files",
     "license": "MIT",
     "web": "https://github.com/aboisvert/dotenv-run"
+  },
+  {
+    "name": "archive",
+    "url": "https://github.com/nimbase/archive",
+    "method": "git",
+    "tags": [
+      "tar",
+      "deflate",
+      "zip",
+      "gzip",
+      "gz",
+      "zlib",
+      "zz",
+      "lz4",
+      "bzip2",
+      "bz2",
+      "vfs",
+      "deepfs",
+      "archivefs",
+      "virtual",
+      "simd",
+      "zero-copy",
+      "memfiles",
+      "mmap",
+      "archive",
+      "brotli"
+    ],
+    "description": "Unified Nim library for archives and compression: Supporting tar, zip, gz, rar, zstd, lzip zz, lz4, bz2, brotli",
+    "license": "MIT",
+    "web": "https://github.com/nimbase/archive"
   }
 ]
