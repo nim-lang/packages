@@ -42571,5 +42571,17 @@
     "description": "Unified Nim library for archives and compression: Supporting tar, zip, gz, rar, zstd, lzip zz, lz4, bz2, brotli",
     "license": "MIT",
     "web": "https://github.com/nimbase/archive"
+  },
+  {
+    "name": "lz4",
+    "url": "https://github.com/fox0430/lz4",
+    "method": "git",
+    "tags": [
+      "compression",
+      "lz4"
+    ],
+    "description": "LZ4 implementation in pure Nim",
+    "license": "MIT",
+    "web": "https://github.com/fox0430/lz4"
   }
 ]
