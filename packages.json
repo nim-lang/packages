@@ -42583,5 +42583,24 @@
     "description": "LZ4 implementation in pure Nim",
     "license": "MIT",
     "web": "https://github.com/fox0430/lz4"
+  },
+  {
+    "name": "javascriptcore",
+    "url": "https://github.com/nimbase/javascriptcore-nim",
+    "method": "git",
+    "tags": [
+      "js",
+      "javascript",
+      "embeddable",
+      "node",
+      "bun",
+      "bindings",
+      "wrapper",
+      "jscore",
+      "script"
+    ],
+    "description": "Nim bindings to JavaScriptCore",
+    "license": "MIT",
+    "web": "https://github.com/nimbase/javascriptcore-nim"
   }
 ]
