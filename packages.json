@@ -42602,5 +42602,29 @@
     "description": "Nim bindings to JavaScriptCore",
     "license": "MIT",
     "web": "https://github.com/nimbase/javascriptcore-nim"
+  },
+  {
+    "name": "image",
+    "url": "https://github.com/nimbase/image",
+    "method": "git",
+    "tags": [
+      "port",
+      "png",
+      "jpeg",
+      "tiff",
+      "webp",
+      "gif",
+      "openexr",
+      "bmp",
+      "heif",
+      "heic",
+      "raw",
+      "encoder",
+      "decoder",
+      "simd"
+    ],
+    "description": "Pure-Nim image encoders/decoders supporting PNG, JPEG, TIFF, WebP, GIF, OpenEXR, BMP, HEIF/HEIC and RAW formats",
+    "license": "MIT OR Apache-2.0",
+    "web": "https://github.com/nimbase/image"
   }
 ]
