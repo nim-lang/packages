@@ -42626,5 +42626,25 @@
     "description": "Pure-Nim image encoders/decoders supporting PNG, JPEG, TIFF, WebP, GIF, OpenEXR, BMP, HEIF/HEIC and RAW formats",
     "license": "MIT OR Apache-2.0",
     "web": "https://github.com/nimbase/image"
+  },
+  {
+    "name": "carne",
+    "url": "https://github.com/openpeeps/carne",
+    "method": "git",
+    "tags": [
+      "js",
+      "javascript",
+      "jsx",
+      "bundler",
+      "javascriptcore",
+      "jscore",
+      "cypher",
+      "http",
+      "tcp",
+      "udp"
+    ],
+    "description": "JavaScript runtime on JavaScriptCore",
+    "license": "MIT",
+    "web": "https://github.com/openpeeps/carne"
   }
 ]
