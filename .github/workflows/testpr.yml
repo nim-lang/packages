@@ -2,7 +2,7 @@ on: pull_request
 
 jobs:
   default:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04  # ubuntu-latest (26.04) has no libpcre3-dev, which iffy/install-nim needs
     steps:
       - uses: actions/checkout@v7
         with:
