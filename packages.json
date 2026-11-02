@@ -42646,5 +42646,17 @@
     "description": "JavaScript runtime on JavaScriptCore",
     "license": "MIT",
     "web": "https://github.com/openpeeps/carne"
+  },
+  {
+    "name": "nanuq",
+    "url": "https://github.com/pietroppeter/nanuq",
+    "method": "git",
+    "tags": [
+      "dataframe",
+      "polars"
+    ],
+    "description": "Polars DataFrames for Nim, by wrapping the Rust library through a C ABI",
+    "license": "MIT",
+    "web": "https://github.com/pietroppeter/nanuq"
   }
 ]
