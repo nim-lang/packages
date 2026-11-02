@@ -42674,5 +42674,24 @@
     "description": "Polars DataFrames for Nim, by wrapping the Rust library through a C ABI",
     "license": "MIT",
     "web": "https://github.com/pietroppeter/nanuq"
+  },
+  {
+    "name": "nimgrpc",
+    "url": "https://github.com/zystem/nimgrpc",
+    "method": "git",
+    "tags": [
+      "grpc",
+      "rpc",
+      "http2",
+      "protobuf",
+      "tls",
+      "client",
+      "server",
+      "chronos",
+      "nghttp2"
+    ],
+    "description": "gRPC for Nim on top of nghttp2: client and server, unary and streaming, TLS and mutual TLS, blocking and chronos APIs, protoc plugin",
+    "license": "MIT",
+    "web": "https://github.com/zystem/nimgrpc"
   }
 ]
