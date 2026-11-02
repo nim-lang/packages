@@ -1,5 +1,20 @@
 [
   {
+    "name": "cidr",
+    "url": "https://github.com/Uyuz-ux/cidr",
+    "method": "git",
+    "tags": [
+      "networking",
+      "cidr",
+      "ip-address",
+      "ipv4",
+      "ipv6"
+    ],
+    "description": "IPv4/IPv6 CIDR notation parsing and operations for Nim. Zero dependencies, built on std/net.",
+    "license": "MIT",
+    "web": "https://github.com/Uyuz-ux/cidr"
+  },
+  {
     "name": "praxo_core",
     "url": "https://github.com/axisvela/praxo-core",
     "method": "git",
