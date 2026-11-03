@@ -1,5 +1,18 @@
 [
   {
+    "name": "logfmt",
+    "url": "https://github.com/Uyuz-ux/logfmt",
+    "method": "git",
+    "tags": [
+      "logging",
+      "logfmt",
+      "structured-logging"
+    ],
+    "description": "Encode and decode the logfmt (key=value) structured logging format. Zero dependencies.",
+    "license": "MIT",
+    "web": "https://github.com/Uyuz-ux/logfmt"
+  },
+  {
     "name": "praxo_core",
     "url": "https://github.com/axisvela/praxo-core",
     "method": "git",
