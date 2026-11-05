@@ -42720,5 +42720,41 @@
     "description": "gRPC for Nim on top of nghttp2: client and server, unary and streaming, TLS and mutual TLS, blocking and chronos APIs, protoc plugin",
     "license": "MIT",
     "web": "https://github.com/zystem/nimgrpc"
+  },
+  {
+    "name": "uirelays",
+    "url": "https://github.com/nim-lang/uirelays",
+    "method": "git",
+    "tags": [
+      "ui",
+      "gui",
+      "windows",
+      "x11",
+      "cocoa",
+      "sdl3",
+      "native"
+    ],
+    "description": "Native Nim UI library based on \"relays\" (dependency injection via global callbacks). Has Windows API, X11, Cocoa and SDL 3 support.",
+    "license": "MIT",
+    "web": "https://github.com/nim-lang/uirelays"
+  },
+  {
+    "name": "iconbundler",
+    "url": "https://github.com/Araq/iconbundler",
+    "method": "git",
+    "tags": [
+      "icon",
+      "bundle",
+      "desktop",
+      "packaging",
+      "ico",
+      "icns",
+      "macos",
+      "windows",
+      "linux"
+    ],
+    "description": "One PNG in, every icon artifact a desktop application ships out: _NET_WM_ICON, .ico/.rc/.res, hicolor sizes, .desktop entry, .icns and a macOS .app bundle.",
+    "license": "MIT",
+    "web": "https://github.com/Araq/iconbundler"
   }
 ]
