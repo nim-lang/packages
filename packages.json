@@ -29,7 +29,7 @@
   },
   {
     "name": "praxo_core",
-    "url": "https://github.com/axisvela/praxo-core",
+    "url": "https://github.com/axisvela/praxo-core-nim",
     "method": "git",
     "tags": [
       "agents",
@@ -40,8 +40,7 @@
     ],
     "description": "Embeddable MIT-licensed agent framework for Nim: tools, policy, events, memory, middleware, and an agent loop",
     "license": "MIT",
-    "web": "https://axisvela.github.io/praxo-core/",
-    "subdir": "language/nim"
+    "web": "https://axisvela.github.io/praxo-core/"
   },
   {
     "name": "terminal_deck",
