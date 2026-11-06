@@ -42756,6 +42756,8 @@
     "description": "One PNG in, every icon artifact a desktop application ships out: _NET_WM_ICON, .ico/.rc/.res, hicolor sizes, .desktop entry, .icns and a macOS .app bundle.",
     "license": "MIT",
     "web": "https://github.com/Araq/iconbundler"
+  },
+  {
     "name": "mq_bridge",
     "url": "https://github.com/marcomq/mq-bridge?subdir=bindings/nim",
     "method": "git",
