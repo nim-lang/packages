@@ -42720,5 +42720,23 @@
     "description": "gRPC for Nim on top of nghttp2: client and server, unary and streaming, TLS and mutual TLS, blocking and chronos APIs, protoc plugin",
     "license": "MIT",
     "web": "https://github.com/zystem/nimgrpc"
+  },
+  {
+    "name": "mq_bridge",
+    "url": "https://github.com/marcomq/mq-bridge?subdir=bindings/nim",
+    "method": "git",
+    "tags": [
+      "messaging", 
+      "etl", 
+      "kafka", 
+      "nats", 
+      "mqtt", 
+      "postgres", 
+      "parquet", 
+      "llm"
+    ],
+    "description": "Move messages between brokers, databases, files and HTTP; handler logic in Nim",
+    "license": "MIT OR Apache-2.0",
+    "web": "https://github.com/marcomq/mq-bridge/tree/main/bindings/nim"
   }
 ]
