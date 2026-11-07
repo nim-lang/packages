@@ -42762,17 +42762,40 @@
     "url": "https://github.com/marcomq/mq-bridge?subdir=bindings/nim",
     "method": "git",
     "tags": [
-      "messaging", 
-      "etl", 
-      "kafka", 
-      "nats", 
-      "mqtt", 
-      "postgres", 
-      "parquet", 
+      "messaging",
+      "etl",
+      "kafka",
+      "nats",
+      "mqtt",
+      "postgres",
+      "parquet",
       "llm"
     ],
     "description": "Move messages between brokers, databases, files and HTTP; handler logic in Nim",
     "license": "MIT OR Apache-2.0",
     "web": "https://github.com/marcomq/mq-bridge/tree/main/bindings/nim"
+  },
+  {
+    "name": "harfnim",
+    "url": "https://github.com/nimbase/harfnim",
+    "method": "git",
+    "tags": [
+      "typography",
+      "text",
+      "shape",
+      "ttf",
+      "otf",
+      "harfbuzz",
+      "scripts",
+      "glyf",
+      "ligature",
+      "latin",
+      "arabic",
+      "hebrew",
+      "port"
+    ],
+    "description": "Pure Nim port of the HarfBuzz text shaping engine",
+    "license": "MIT",
+    "web": "https://github.com/nimbase/harfnim"
   }
 ]
