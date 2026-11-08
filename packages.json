@@ -32352,6 +32352,23 @@
     "web": "https://github.com/indiscipline/cozylogwriter"
   },
   {
+    "name": "cozywavparser",
+    "url": "https://github.com/indiscipline/cozywavparser",
+    "method": "git",
+    "tags": [
+      "audio",
+      "wav",
+      "wave",
+      "riff",
+      "parser",
+      "metadata",
+      "library"
+    ],
+    "description": "Basic WAV file header parser",
+    "license": "GPL-2.0-or-later",
+    "web": "https://github.com/indiscipline/cozywavparser"
+  },
+  {
     "name": "cliprompts",
     "url": "https://github.com/indiscipline/cliprompts",
     "method": "git",
