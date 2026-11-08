@@ -14,7 +14,7 @@
     "license": "MIT",
     "web": "https://github.com/Uyuz-ux/cidr"
   },
-    {
+  {
     "name": "retroui",
     "url": "https://github.com/foxoman/retroui",
     "method": "git",
@@ -26,7 +26,7 @@
     "license": "MIT",
     "web": "https://github.com/foxoman/retroui"
   },
-    {
+  {
     "name": "ned",
     "url": "https://github.com/foxoman/ned",
     "method": "git",
