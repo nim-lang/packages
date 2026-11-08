@@ -15,6 +15,33 @@
     "web": "https://github.com/Uyuz-ux/cidr"
   },
   {
+    "name": "retroui",
+    "url": "https://github.com/foxoman/retroui",
+    "method": "git",
+    "tags": [
+      "retroui",
+      "ui"
+    ],
+    "description": "Windows 3.1 style UI toolkit for Nim",
+    "license": "MIT",
+    "web": "https://github.com/foxoman/retroui"
+  },
+  {
+    "name": "ned",
+    "url": "https://github.com/foxoman/ned",
+    "method": "git",
+    "tags": [
+      "ned",
+      "editor",
+      "nim",
+      "ide",
+      "nimble"
+    ],
+    "description": "A fast, safe code editor and Nim IDE for Termux and Linux",
+    "license": "MIT",
+    "web": "https://github.com/foxoman/ned"
+  },
+  {
     "name": "logfmt",
     "url": "https://github.com/Uyuz-ux/logfmt",
     "method": "git",
