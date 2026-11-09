@@ -42841,5 +42841,18 @@
     "description": "Pure Nim port of the HarfBuzz text shaping engine",
     "license": "MIT",
     "web": "https://github.com/nimbase/harfnim"
+  },
+  {
+    "name": "lint",
+    "url": "https://github.com/iftech/nim-lint",
+    "method": "git",
+    "tags": [
+      "linting",
+      "github-action",
+      "linter"
+    ],
+    "description": "Linting toolkit for Nim projects.",
+    "license": "MIT or Apache License 2.0",
+    "web": "https://github.com/iftech/nim-lint"
   }
 ]
