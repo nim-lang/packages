@@ -15,6 +15,19 @@
     "web": "https://github.com/Uyuz-ux/cidr"
   },
   {
+    "name": "natsort",
+    "url": "https://github.com/Uyuz-ux/natsort",
+    "method": "git",
+    "tags": [
+      "sorting",
+      "natural",
+      "utility"
+    ],
+    "description": "Natural (human-friendly) sorting of strings, with key-based sorting for tuples and objects.",
+    "license": "MIT",
+    "web": "https://github.com/Uyuz-ux/natsort"
+  },
+  {
     "name": "retroui",
     "url": "https://github.com/foxoman/retroui",
     "method": "git",
@@ -8061,6 +8074,20 @@
     "web": "https://github.com/subsetpark/ad",
     "url": "https://github.com/subsetpark/ad",
     "description": "A simple RPN calculator"
+  },
+  {
+    "name": "ahocorasick",
+    "url": "https://github.com/Uyuz-ux/ahocorasick",
+    "method": "git",
+    "tags": [
+      "string",
+      "search",
+      "multi-pattern",
+      "automaton"
+    ],
+    "description": "Aho-Corasick multi-pattern string search and replace. Zero dependencies, pure stdlib.",
+    "license": "MIT",
+    "web": "https://github.com/Uyuz-ux/ahocorasick"
   },
   {
     "name": "asyncpg",
