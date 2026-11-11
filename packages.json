@@ -42882,7 +42882,7 @@
     "license": "MIT or Apache License 2.0",
     "web": "https://github.com/iftech/nim-lint"
   },
-   {
+  {
     "name": "smsgora",
     "url": "https://github.com/TekservixHQ/smsgora-nim",
     "method": "git",
