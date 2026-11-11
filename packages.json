@@ -42881,5 +42881,23 @@
     "description": "Linting toolkit for Nim projects.",
     "license": "MIT or Apache License 2.0",
     "web": "https://github.com/iftech/nim-lint"
+  },
+   {
+    "name": "smsgora",
+    "url": "https://github.com/TekservixHQ/smsgora-nim",
+    "method": "git",
+    "tags": ["sms", "sms-gateway", "api", "client", "tekservix"],
+    "description": "Client for the SMS Gora SMS Gateway API: send and receive SMS through your own Android phones",
+    "license": "MIT",
+    "web": "https://github.com/TekservixHQ/smsgora-nim"
+  },
+  {
+    "name": "waservix",
+    "url": "https://github.com/TekservixHQ/waservix-nim",
+    "method": "git",
+    "tags": ["whatsapp", "whatsapp-api", "messaging", "client", "tekservix"],
+    "description": "Client for the WAservix WhatsApp API Gateway: send WhatsApp messages from your own number",
+    "license": "MIT",
+    "web": "https://github.com/TekservixHQ/waservix-nim"
   }
 ]
