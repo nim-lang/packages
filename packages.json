@@ -42928,5 +42928,18 @@
     "description": "Generic buffer reuse with zero-cost compile-time DSL",
     "license": "MIT",
     "web": "https://github.com/nimbase/buffalo"
+  },
+  {
+    "name": "http_header_language_preference",
+    "url": "https://github.com/DaviCompai/http-header-language-preference",
+    "method": "git",
+    "tags": [
+      "web",
+      "library",
+      "http"
+    ],
+    "description": "A new awesome nimble package",
+    "license": "MIT",
+    "web": "https://github.com/DaviCompai/http-header-language-preference"
   }
 ]
