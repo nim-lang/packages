@@ -42886,7 +42886,13 @@
     "name": "smsgora",
     "url": "https://github.com/TekservixHQ/smsgora-nim",
     "method": "git",
-    "tags": ["sms", "sms-gateway", "api", "client", "tekservix"],
+    "tags": [
+      "sms",
+      "sms-gateway",
+      "api",
+      "client",
+      "tekservix"
+    ],
     "description": "Client for the SMS Gora SMS Gateway API: send and receive SMS through your own Android phones",
     "license": "MIT",
     "web": "https://github.com/TekservixHQ/smsgora-nim"
@@ -42895,9 +42901,32 @@
     "name": "waservix",
     "url": "https://github.com/TekservixHQ/waservix-nim",
     "method": "git",
-    "tags": ["whatsapp", "whatsapp-api", "messaging", "client", "tekservix"],
+    "tags": [
+      "whatsapp",
+      "whatsapp-api",
+      "messaging",
+      "client",
+      "tekservix"
+    ],
     "description": "Client for the WAservix WhatsApp API Gateway: send WhatsApp messages from your own number",
     "license": "MIT",
     "web": "https://github.com/TekservixHQ/waservix-nim"
+  },
+  {
+    "name": "buffalo",
+    "url": "https://github.com/nimbase/buffalo",
+    "method": "git",
+    "tags": [
+      "buffer",
+      "pool",
+      "memory",
+      "static",
+      "hot",
+      "loops",
+      "compile-time"
+    ],
+    "description": "Generic buffer reuse with zero-cost compile-time DSL",
+    "license": "MIT",
+    "web": "https://github.com/nimbase/buffalo"
   }
 ]
