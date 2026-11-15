@@ -42582,7 +42582,7 @@
   },
   {
     "name": "carejobs",
-    "url": "https://github.com/yumaheymans/carejobs-nim",
+    "url": "https://github.com/founden-bot/carejobs-nim",
     "method": "git",
     "tags": [
       "carejobs",
@@ -42593,7 +42593,7 @@
     ],
     "description": "Client for the free CareJobs.Now healthcare jobs API: search US healthcare jobs, posted pay, employers and states",
     "license": "MIT",
-    "web": "https://github.com/yumaheymans/carejobs-nim"
+    "web": "https://github.com/founden-bot/carejobs-nim"
   },
   {
     "name": "seowebchecker",
