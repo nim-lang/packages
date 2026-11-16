@@ -42928,5 +42928,19 @@
     "description": "Generic buffer reuse with zero-cost compile-time DSL",
     "license": "MIT",
     "web": "https://github.com/nimbase/buffalo"
+  },
+  {
+    "name": "freeimagetovideo",
+    "url": "https://github.com/hanshs474/fitv-nim",
+    "method": "git",
+    "tags": [
+      "ai",
+      "video",
+      "api",
+      "sdk"
+    ],
+    "description": "Official Nim SDK for Free Image to Video (freeimagetovideo.ai), AI text-to-video and image-to-video with sound.",
+    "license": "MIT",
+    "web": "https://freeimagetovideo.ai/?utm_source=nimble&utm_medium=package"
   }
 ]
