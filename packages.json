@@ -42942,5 +42942,23 @@
     "description": "Official Nim SDK for Free Image to Video (freeimagetovideo.ai), AI text-to-video and image-to-video with sound.",
     "license": "MIT",
     "web": "https://freeimagetovideo.ai/?utm_source=nimble&utm_medium=package"
+  },
+  {
+    "name": "ogimage",
+    "url": "https://github.com/nimbase/ogimage",
+    "method": "git",
+    "tags": [
+      "opengraph",
+      "image",
+      "og",
+      "meta",
+      "nvg",
+      "social",
+      "banner",
+      "nimbase"
+    ],
+    "description": "Pure-Nim OpenGraph image generator on top of nvg",
+    "license": "MIT",
+    "web": "https://github.com/nimbase/ogimage"
   }
 ]
