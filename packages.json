@@ -42931,5 +42931,19 @@
     "description": "Pure-Nim OpenGraph image generator on top of nvg",
     "license": "MIT",
     "web": "https://github.com/nimbase/ogimage"
+  },
+  {
+    "name": "veida",
+    "url": "https://github.com/hanshs474/veida-nim",
+    "method": "git",
+    "tags": [
+      "ai",
+      "image",
+      "api",
+      "sdk"
+    ],
+    "description": "Official Nim SDK for Veida AI (veida.ai), unlimited free AI image generator.",
+    "license": "MIT",
+    "web": "https://veida.ai/"
   }
 ]
