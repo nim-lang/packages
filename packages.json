@@ -42945,5 +42945,19 @@
     "description": "Unlimited AI video generator with sound: on paid plans the tenth take of a shot costs what the first did, and your first clip is free to make right now. Official Nim SDK for Movoa (movoa.ai).",
     "license": "MIT",
     "web": "https://movoa.ai/"
+  },
+  {
+    "name": "veida",
+    "url": "https://github.com/hanshs474/veida-nim",
+    "method": "git",
+    "tags": [
+      "ai",
+      "image",
+      "api",
+      "sdk"
+    ],
+    "description": "Official Nim SDK for Veida AI (veida.ai), unlimited free AI image generator.",
+    "license": "MIT",
+    "web": "https://veida.ai/"
   }
 ]
