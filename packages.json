@@ -42961,6 +42961,20 @@
     "web": "https://veida.ai/"
   },
   {
+    "name": "nimdiff",
+    "url": "https://github.com/capocasa/nimdiff",
+    "method": "git",
+    "tags": [
+      "diff",
+      "unified-diff",
+      "myers",
+      "text-processing"
+    ],
+    "description": "Fast unified diffs in pure Nim. Myers O(ND) algorithm, git-xdiff grade performance.",
+    "license": "MIT",
+    "web": "https://github.com/capocasa/nimdiff"
+  },
+  {
     "name": "nimignore",
     "url": "https://github.com/capocasa/nimignore",
     "method": "git",
