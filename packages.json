@@ -42959,5 +42959,14 @@
     "description": "Official Nim SDK for Veida AI (veida.ai), unlimited free AI image generator.",
     "license": "MIT",
     "web": "https://veida.ai/"
+  },
+  {
+    "name": "nimignore",
+    "url": "https://github.com/capocasa/nimignore",
+    "method": "git",
+    "tags": ["gitignore", "walker", "filesystem", "glob"],
+    "description": "gitignore-respecting directory walker (ripgrep-style semantics, Nim-ish API)",
+    "license": "MIT",
+    "web": "https://github.com/capocasa/nimignore"
   }
 ]
