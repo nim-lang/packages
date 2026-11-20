@@ -43002,5 +43002,20 @@
     "description": "Nim SDK for Emaki (emaki.ai) — Japanese-language Seedance 2.5 & 2.0 AI video generator.",
     "license": "MIT",
     "web": "https://emaki.ai/"
+  },
+  {
+    "name": "aibirthday",
+    "url": "https://github.com/hanshs474/abvg-nim",
+    "method": "git",
+    "tags": [
+      "ai",
+      "video",
+      "api",
+      "client",
+      "sdk"
+    ],
+    "description": "Official Nim SDK for AI Birthday Video Generator (aibirthdayvideogenerator.com), creating 12s 720p vertical birthday clips on Seedance 2 Mini.",
+    "license": "MIT",
+    "web": "https://aibirthdayvideogenerator.com/?utm_source=nimble&utm_medium=package"
   }
 ]
