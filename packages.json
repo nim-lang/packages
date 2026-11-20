@@ -43002,5 +43002,21 @@
     "description": "Nim SDK for Emaki (emaki.ai) — Japanese-language Seedance 2.5 & 2.0 AI video generator.",
     "license": "MIT",
     "web": "https://emaki.ai/"
+  },
+  {
+    "name": "aigifmaker",
+    "url": "https://github.com/hanshs474/aigifmaker-nim",
+    "method": "git",
+    "tags": [
+      "ai",
+      "gif",
+      "animation",
+      "api",
+      "client",
+      "sdk"
+    ],
+    "description": "Nim SDK for AI GIF Maker (aigifmaker.ai) — native AI GIF generation from text without video conversion.",
+    "license": "MIT",
+    "web": "https://aigifmaker.ai/"
   }
 ]
