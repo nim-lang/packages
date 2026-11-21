@@ -43018,5 +43018,21 @@
     "description": "Nim SDK for AI GIF Maker (aigifmaker.ai) — native AI GIF generation from text without video conversion.",
     "license": "MIT",
     "web": "https://aigifmaker.ai/"
+  },
+  {
+    "name": "proptest",
+    "url": "https://github.com/kaio-souza/nim-proptest",
+    "method": "git",
+    "tags": [
+      "testing",
+      "property-based-testing",
+      "quickcheck",
+      "shrinking",
+      "stateful-testing",
+      "unittest"
+    ],
+    "description": "Property-based testing: generators derived from types, integrated shrinking, stateful (model-based) testing and reproducible failures",
+    "license": "MIT",
+    "web": "https://github.com/kaio-souza/nim-proptest"
   }
 ]
