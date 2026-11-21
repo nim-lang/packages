@@ -43018,5 +43018,19 @@
     "description": "Nim SDK for AI GIF Maker (aigifmaker.ai) — native AI GIF generation from text without video conversion.",
     "license": "MIT",
     "web": "https://aigifmaker.ai/"
+  },
+  {
+    "name": "nimtop",
+    "url": "https://github.com/meenbeese/nimtop",
+    "method": "git",
+    "tags": [
+      "cli",
+      "htop",
+      "nim",
+      "system-monitor"
+    ],
+    "description": "Fast and multiplatform htop-like system-monitor with Vi-keybindings",
+    "license": "GPL-3.0",
+    "web": "https://github.com/meenbeese/nimtop"
   }
 ]
