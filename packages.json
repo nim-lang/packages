@@ -43048,5 +43048,20 @@
     "description": "Fast and multiplatform htop-like system-monitor with Vi-keybindings",
     "license": "GPL-3.0",
     "web": "https://github.com/meenbeese/nimtop"
+  },
+  {
+    "name": "stagecoach",
+    "url": "https://github.com/aboisvert/stagecoach",
+    "method": "git",
+    "tags": [
+      "http",
+      "server",
+      "web",
+      "async",
+      "stagelane"
+    ],
+    "description": "HTTP/1.1 server on the stagelane M:N async runtime (HTTP only on this branch)",
+    "license": "MIT",
+    "web": "https://github.com/aboisvert/stagecoach"
   }
 ]
