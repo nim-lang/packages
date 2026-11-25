@@ -43078,5 +43078,36 @@
     "description": "Zod-style schema validation and parsing for untrusted data",
     "license": "MIT",
     "web": "https://github.com/DelfinVT-uwu/bouncer"
+  },
+  {
+    "name": "invoker",
+    "url": "https://gitlab.com/aceoflaguna/invoker.git",
+    "method": "git",
+    "tags": [
+      "web",
+      "http",
+      "framework",
+      "Express",
+      "ExpressJS"
+    ],
+    "description": "An extremely fast, ExpressJS-style web microframework for Nim",
+    "license": "MIT",
+    "web": "https://gitlab.com/aceoflaguna/invoker"
+  }, 
+  {
+    "name": "immaginim",
+    "url": "https://gitlab.com/aceoflaguna/immaginim.git",
+    "method": "git",
+    "tags": [
+      "library",
+      "image",
+      "jpeg",
+      "bmp",
+      "png",
+      "ImageMagick"
+    ],
+    "description": "A dependency-free image processing library for Nim, inspired by ImageMagick",
+    "license": "MIT",
+    "web": "https://gitlab.com/aceoflaguna/immaginim"
   }
 ]
