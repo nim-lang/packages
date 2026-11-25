@@ -43063,5 +43063,20 @@
     "description": "HTTP/1.1 server on the stagelane M:N async runtime (HTTP only on this branch)",
     "license": "MIT",
     "web": "https://github.com/aboisvert/stagecoach"
+  },
+  {
+    "name": "bouncer",
+    "url": "https://github.com/DelfinVT-uwu/bouncer",
+    "method": "git",
+    "tags": [
+      "validation",
+      "schema",
+      "json",
+      "zod",
+      "parsing"
+    ],
+    "description": "Zod-style schema validation and parsing for untrusted data",
+    "license": "MIT",
+    "web": "https://github.com/DelfinVT-uwu/bouncer"
   }
 ]
