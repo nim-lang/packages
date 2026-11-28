@@ -43109,5 +43109,20 @@
     "description": "A dependency-free image processing library for Nim, inspired by ImageMagick",
     "license": "MIT",
     "web": "https://gitlab.com/aceoflaguna/immaginim"
+  },
+  {
+    "name": "qummy",
+    "url": "https://github.com/qouver/qummy",
+    "method": "git",
+    "tags": [
+      "web",
+      "http",
+      "server",
+      "websockets",
+      "multithreading"
+    ],
+    "description": "Multithreaded HTTP + WebSocket server (maintained fork of mummy)",
+    "license": "MIT",
+    "web": "https://github.com/qouver/qummy"
   }
 ]
