@@ -43124,5 +43124,25 @@
     "description": "Multithreaded HTTP + WebSocket server (maintained fork of mummy)",
     "license": "MIT",
     "web": "https://github.com/qouver/qummy"
+  },
+  {
+    "name": "nimtls",
+    "url": "https://github.com/cryogenicdeadfrost/nimtls",
+    "method": "git",
+    "tags": [
+      "tls",
+      "ssl",
+      "bearssl",
+      "https",
+      "security",
+      "networking",
+      "x509",
+      "crypto",
+      "sans-io",
+      "c-abi"
+    ],
+    "description": "Static BearSSL TLS, tiered OS/embedded CA trust store, Sans-I/O engine, HTTP fetch, C-ABI, and readable TLS errors for Nim",
+    "license": "MIT",
+    "web": "https://github.com/cryogenicdeadfrost/nimtls"
   }
 ]
